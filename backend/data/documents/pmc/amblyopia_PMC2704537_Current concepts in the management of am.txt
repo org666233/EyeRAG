@@ -1,0 +1,418 @@
+Source: PubMed Central (PMC)
+PMCID: PMC2704537
+Title: Current concepts in the management of amblyopia
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2704537/
+Year: 2009
+Disease: amblyopia
+Priority: 3
+============================================================
+
+Clin Ophthalmol . 2007 Dec;1(4):403–414. 
+ 
+ Current concepts in the management of amblyopia 
+ Blanca Ruiz de Zárate 
+ Blanca Ruiz de Zárate 
+ 
+ 1 Department of Ophthalmology, Hospital Ramón y Cajal, Madrid, Spain 
+ Find articles by Blanca Ruiz de Zárate 
+ 
+ 
+ 1 , Jaime Tejedor 
+ Jaime Tejedor 
+ 
+ 1 Department of Ophthalmology, Hospital Ramón y Cajal, Madrid, Spain 
+ Find articles by Jaime Tejedor 
+ 
+ 
+ 1, ✉ 
+ 
+ 
+ Author information 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, Hospital Ramón y Cajal, Madrid, Spain 
+ 
+ ✉ Correspondence: Jaime Tejedor, Department of Ophthalmology, Hospital, Ramón y Cajal, Ctra. Colmenar km 9100, Madrid 28034, Spain, Tel +34 91 336 9008, Fax +34 91 336 8126, Email
+ jtejedor.hrc@salud.madrid.org ,
+ blancarz@yahoo.es 
+ 
+ 
+ 
+ © 2007 de Zárate and Tejedor, publisher and licensee Dove Medical Press Ltd. 
+ This is an Open Access article which permits unrestricted noncommercial use, provided the original work is properly cited. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC2704537  PMID: 19668517 
+ 
+ Abstract 
+ Traditional treatment of amblyopia, although still in use and of great value, has recently been challenged by data from studies relative to efficacy of different modalities and regimens of therapy. LogMAR-based acuity charts should be used, whenever possible, for diagnosis and monitoring. Refractive errors of certain magnitude should be prescribed, and correction worn for at least 4 months before occlusion or penalization are used. Occlusion has a linear dose-response effect (1 logMAR line gain per 120 hours of patching), and outcomes of 2 hour/day dosage are similar to more extended therapy, at least in moderate amblyopia, but increasing dosage beyond hastens the response. Pharmacologic, optical, or combined penalization is useful as an alternative or maintaining therapy, and is presumably of particular efficacy in anisometropic amblyopia. At least in moderate amblyopia, atropine penalization is as effective as patching in terms of visual acuity improvement and stereoacuity outcome. 
+ Keywords: amblyopia, strabismus, anisometropia, refractive error Definition, classification, and epidemiology 
+ Traditionally, amblyopia has been defined as a “decrease of visual acuity for which no causes can be detected by the physical examination of the eye, caused by vision deprivation or abnormal binocular interaction” ( Von Noorden 1996 ). Amblyopia is the most common cause of monocular visual impairment in both children, and young to middle-aged adults, affecting 2%–5% of the general population. The condition is characterized by causing altered visual function (not only affecting recognition visual acuity), eg, decreased Vernier acuity, and impaired contrast sensitivity, particularly to detect high spatial frequency stimuli. It usually affects one eye, but not invariably. 
+ The first cause of amblyopia in frequency is strabismus (about 50%), usually esotropia in infancy or early childhood. The second cause is anisometropia (approx. 17%), followed by a combination of strabismus and anisometropia (about 30%), and finally the least frequent cause is visual deprivation (≤3%) although this one may result in severe amblyopia ( Hillis et al 1983 ). 
+ Binocularity and stereopsis are most likely to be affected in strabismic amblyopia. Bilateral refractive error may cause amblyopia (refractive amblyopia, of which anisometropic amblyopia is the most frequent case). Isoametropic amblyopia occurs usually in children with hyperopia greater than 4.50 diopters ( Klimek et al 2004 ). Myopic anisometropia rarely causes amblyopia until the anisometropia is >2.00 diopters, although hyperopic anisometropia may occur with as little as a 1.00-diopter difference between the eyes ( Weakley 2001 ). Anisometropia of >1.50 diopters may cause amblyopia ( Weakley 2001 ). 
+ Previous research has demonstrated that the developing visual system is highly sensitive to deprivation ( Huebel and Wiesel 1970 ). Any factor that leads to deprivation during the visual sensitive period, ending at approximately 6 to 7 years, may cause amblyopia ( Von Noorden and Crawford 1979 ). 
+ This review will focus on unilateral amblyopia caused by strabismus, anisometropia, or both. Necessity of amblyopia therapy 
+ Authorities have questioned whether amblyopia should be treated, due to a lack of proven benefit, and because it appeared not to be a functional limiting factor and therapy with patching was thought to be psychologically distressing ( Snowdon and Stewart-Brown 1997 ). Some studies that provide data about natural history of amblyopia suggest that mild degrees of amblyopia may resolve spontaneously ( Snowdon and Stewart-Brown 1997 ). Other groups defend active therapy as an essential way to improve visual acuity in amblyopic eyes ( Simons and Preslan 1999 ; Cleary 2000 ). There are few data about the degree of disability associated with unilateral amblyopia and the degree of disability associated with reduced stereoacuity. Chua and Mitchell (2004) , found that amblyopia in people 49 years or older did not affect lifetime occupational class, but fewer people completed higher university degrees. Amblyopes are at risk of being limited if they lose vision in their better eye. A study found a lifetime risk of visual impairment ranging from “socially significant” to severe in the better eye of amblyopes to be 0.03% by age 15 years, 0.6% by 64 years, and 3.3% by 95 years ( Rahi et al 2002 ). Injury was the most important cause of visual loss in the two younger groups, and age-related macular degeneration the primary cause in those older than 65 years. In a previous study, Tommila and Tarkkanen (1981) found that individuals with amblyopia were at increased risk of blindness. The occurrence of visual loss during the period tested in healthy eyes was 1.75 per 1000 people, while the blindness rate was 0.11 per 1000 in children and 0.66 per 1000 in adults. In more than 50%, the cause of visual loss in healthy eye was traumatic. 
+ In a recent study, bilateral visual impairment (bilateral visual acuity <0.5) risk is calculated in amblyopes and compared with nonamblyopes ( Van Leeuwen et al 2007 ). Amblyopia nearly doubles the lifetime risk of bilateral visual impairment. 
+ Worse natural history when left untreated and prevention of future visual disability are good reasons for treatment of amblyopia in children. Cost-effectiveness of amblyopia therapy 
+ Certain interventions in ophthalmology, such as laser treatment for retinopathy of prematurity (Brown et al 1999) and choroidal neovascularization (Brown et al 2000), have been shown to be very cost-effective. Amblyopia therapy is cost-effective to a large degree because the visual acuity benefit derived is acquired at a very young age, similar to that of retinopathy of premature interventions ( Membreno et al 2002 ). 
+ Cost-utility studies incorporate the value of improvement in quality of life conferred by an intervention with the costs associated with it. The term QALY s (quality adjusted life years) is used, which considers both the duration of health states and their impact on health-related quality of life. It has been suggested that interventions with a $/QALY gained of <50,000$ are highly cost-effective (Kallmes and Kallmes 1997; Smith and Roberts 2000). Amblyopia treatment resulted in a $/QALY gained range from $2053 to $2509 in a recent publication ( Membreno et al 2002 ). Another publication found similar results on amblyopia treatment, ie, 2369 $/QALY ( König and Barry 2004 ). 
+ If only bilateral visual impairment, but not unilateral, was associated with a loss in utility, treatment would not be likely considered cost-effective ( König and Barry 2004 ). Diagnosing and monitoring amblyopia 
+ We diagnose unilateral amblyopia when a patient has reduced visual acuity in the presence of an amblyogenic factor, once we have prescribed optimum refractive correction and no other cause explains the impaired visual acuity. Ideally, therefore, measurement of visual acuity is the first step in the diagnosis of amblyopia. 
+ In children younger than 3 years, it is difficult to make an accurate diagnosis of amblyopia. In young children and disabled adults, visual acuity can be estimated by preferential looking techniques (Teller acuity cards; Cardiff acuity test) ( Kay 1983 ; Wright et al 1986 ; Hazell 1995 ; Getz et al 1996 ; Rydberg et al 1999 ; Wallace 2005 ), fixation preference tests, or picture charts. Preferential looking procedures usually underestimate amblyopia, especially strabismic amblyopia ( Mayer et al 1984 ; Rydberg et al 1999 ; Woodhouse et al 2007 ). These visual acuity tests are not generally considered suitable for the diagnosis of amblyopia ( Rydberg and Ericson 1998 ). Picture charts (like Kay charts and Lea symbols) have been used in children aged 2–4 years. Similarly, they seem to underestimate amblyopia ( Allen 1957 ). However, Lea symbols ( Hyvärinen et al 1980 ), in which four pictures were designed to have similar shapes and contours like the Landolt C, have several advantages. Lea symbols show a higher applicability compared with Landolt C, which is the standard visual acuity optotype, in young children ( Becker et al 2002 ). Comparing both optotypes, there is only a little difference between Lea symbol acuity and the Landolt C acuity, even in strabismic amblyopia ( Gräf et al 2000 ). Using Lea symbols test, visual acuity may surpass Landolt C acuity by 1.2 or 1.9 lines for single or crowded optotypes, in normal eyes. This difference decreases with increasing age because of cooperation, visual and intellectual development. In adults, this difference may be only 0.5 lines ( Becker et al 2002 ). In both amblyopes and healthy eyes, visual acuity measurements are better on HOTV testing compared with Lea symbols testing. There is no overestimation in visual acuity by Lea symbols when compared with HOTV testing. ( Ruttum and Dahlgren 2006 ). 
+ The Amblyopia Treatment Study (ATS) found that amblyopic eye visual acuity improved even when it did not become the preferred eye ( PEDIG 2003a ). The difficulty in evaluating amblyopia via fixation-based measures is illustrated by a study that compared amblyopia treatment duration in two groups of patients. In the younger group, treatment was discontinued on the basis of equal fixation behaviour or preferential looking, and in the older group on the basis of Snellen chart or Allen pictures ( Oster et al 1990 ). The younger group and the Allen-picture-tested segment of the older group were more likely to have had uncorrected measured amblyopia and/or undetected residual amblyopia at the end of treatment, than the Snellen-chart-tested older group. The younger group was found to need significantly less patching to reach equal vision by their eye movement criteria than the amount of patching needed by the older group to reach their chart-based criteria. But as the younger group became older and more accurately measurable, it turned out to require maintenance patching therapy, whereas the older group did not. This can be explained by underestimation of the depth of amblyopia and/or overestimation of the effectiveness of treatment by the fixation measure, because fixation preference testing is usually associated with overdiagnosis of amblyopia ( Atilla et al 2001 ). 
+ Sometimes children aged 3 years or older can perform complete optotype visual acuity testing, but many times it is not possible until 4 or 5 years of age, allowing quantification of visual acuity on a Snellen chart (Landolt C, E test, letters – like the STYCAR test using HOTVLXAUC optotypes, Browder and Levy, 1974 –, numbers) or preferably logMAR scale. Landolt C optotypes are more difficult to see than letter optotypes of the same height. This difference occurs at normal and low levels of visual acuity ( Rassow and Wang 1999 ). When using Snellen E test, we should assume that a small overestimation in visual acuity is produced when compared with Landolt C. This small difference appears in people with poor and good visual acuity ( Becker and Gräf 2006 ). Because of this, optotypes should be calibrated against the standard Landolt C optotype in order to compare visual acuity scores. The height of the typeface of letters (C, D, E, K, N, P, U, Z) should be 5% less than the Landolt ring diameter in order to achieve the same legibility. Similarly, when using shape optotypes like Snellen E and KOLT test, that should be 15% smaller than the diameter of the ring to obtain comparable visual acuity scores ( Grimm et al 1994 ). 
+ Examples of logMAR-based tests are HOTV optotypes used in the ATS visual acuity protocol ( Holmes et al 2001 ), the Glasgow cards using XVOHUY optotypes ( Mc Graw and Winn 1993 ), and Early Treatment Diabetic Retinopathy Study (ETDRS) test ( Ferris et al 1982 ; Atkinson and Braddick 1983 ; Beck et al 2003 ). Use of a non-logMAR scale, such as the classic Snellen chart, introduces errors due to the nonequal increments between one level and the next. LogMAR tests conform to a regular geometric progression, have equal numbers of letters on each line, and use letters of near equal legibility and so permit interpolated scores. 
+ The Glasgow Visual Acuity Test consists of a single chart line, with surround contours ( Morad et al 1999 ). Addition of the surround contour interaction bars is significant because there is evidence that a nonsurrounded single line produces indicated visual acuity half-way between the level of full chart visual acuity and single-optotype visual acuity. Although this test has demonstrated more sensitivity to detect amblyopia than single optotype test, it has not yet been validated for amblyopes against other tests ( Mc Graw et al 2000 ). 
+ The chart version of the HOTV test has been extensively used in preschool vision screening and in some clinical testing ( Harvey et al 1999 ; Kvarnström et al 2001 ). Although it has demonstrated to have high testability in that age range, it has not been validated in amblyopes ( Hered 1997 ). A simpler alternative is a single-letter HOTV optotype with surround bars (used by PEDIG), which has already been validated and demonstrated to be testable in most children as young as 3 to 3.5 years ( Holmes et al 2001 ; Moke et al 2001 ). 
+ Most visual acuity tests for amblyopia use isolated letters surrounded by crowding bars or letters which are presented in a line of 4 or 5 letters. Visual acuity tests with single uncrowded letters seem to be insensitive to amblyopia ( Rydberg et al 1999 ). Crowding (a reduction of visual acuity when optotypes are presented in a line or surrounded by bars) seems to be a feature of the developing visual system, which persists in amblyopia and cerebral visual impairment ( Atkinson and Braddick 1983 ). 
+ In the MOTAS (Monitored Occlusion Treatment of Amblyopia Study), visual acuity is tested using distance log-based charts ( Stewart et al 2004a ). Three logMAR visual acuity charts are employed depending on subject age and ability: ETDRS, crowded, and single logMAR charts. The visual acuity test used at the first study session was used throughout the study period. Amblyopia treatment 
+ All treatments for amblyopia are based on forcing the use of the amblyopic eye. In general, treatment consists of limiting the use (visual input) of the sound eye by patching or penalization, after any necessary refractive correction has been prescribed (and provided that any obstacle to vision has been removed). 
+ Although not all types of amblyopia need the same treatment modality, there are general guidelines for treatment. In deprivation amblyopia (eg, cataract or ptosis), first we need to correct the cause of visual impairment, and then the disorder should be treated similarly to other types of amblyopia. In anisometropic amblyopia, the first step is correction of refractive errors with spectacles or contact lenses (frequently followed by occlusion or penalization). Strabismic amblyopia is usually recommended to be treated (with initial prescription of refractive correction included) before surgery for strabismus, although the timing of surgery relative to amblyopia therapy is controversial ( Lam et al 1993 ). Strabismus surgery in these cases is not a therapeutic procedure for amblyopia. 
+ In 1997, the Pediatric Eye Disease Investigator Group (PEDIG) was formed to conduct research on eye disorders in children. The power of this group lies in its ability to conduct multiple trials with simple protocols. Patients are enrolled at multiple clinical sites, both university- and community-based. Clinical trials are performed with standardized visual acuity testing in a prospective, randomized mode. 
+ Refractive treatment 
+ Prescribing the optimum refractive correction is the first step in the treatment of amblyopia. It provides a clear image to the fovea of the amblyopic eye, perhaps for the first time. With the optimum refractive correction in place, any residual visual deficit is, by definition, due to amblyopia. 
+ Not all degrees of refractive error are thought to induce amblyopia. Table 1 summarizes the degrees of refractive error that may result in amblyopia. In some cases, refractive error should be corrected to obtain the true best-corrected visual acuity, especially in cases of myopia. 
+ Table 1. 
+ Degrees of refractive error that may result in amblyopia or should be treated with glasses 
+ 
+ 
+ 
+ 
+ Age 0–1 year * 
+ 
+ 
+ Age 1–2 years * 
+ 
+ 
+ Age 2–3 years * 
+ 
+ 
+ PEDIG ** 
+ 
+ 
+ 
+ Isometropia 
+ 
+ Myopia 
+ ≥−4.00 
+ ≥ −4.00 
+ ≥ −3.00 
+ ≥ − 3.00 
+ 
+ 
+ Hyperopia 1 
+ 
+ ≥+ 6.00 
+ ≥+5.00 
+ ≥+4.50 
+ ≥+3.00 
+ 
+ 
+ Hyperopia with esotropia 2 
+ 
+ ≥+ 2.00 
+ ≥+ 2.00 
+ ≥+1.50 
+ 
+ 
+ 
+ Astigmatism 3 
+ 
+ ≥3 
+ ≥2.50 
+ ≥2.00 
+ 
+ 
+ Anisometropia 
+ 
+ Myopia 
+ ≥ −2.50 
+ ≥ −2.50 
+ ≥ −2.00 
+ ≥ −1.00 
+ 
+ 
+ Hyperopia 
+ ≥+ 2.50 
+ ≥+ 2.00 
+ ≥+1.50 
+ ≥+1.00 
+ 
+ 
+ Astigmatism 3 
+ 
+ ≥2.50 
+ ≥2.00 
+ ≥2.00 
+ ≥1.50 
+ 
+ 
+ 
+ Open in a new tab 
+ 
+ Notes: *Prescribing guidelines from the American Academy of Ophthalmology for refractive error correction; 
+ 
+ 1 Reduce the amount of refractive error by up to +2.00 D, and if this is ≥+7.00 D, reduce up to +3.00 D; 
+ 
+ 
+ 2 Give the full cycloplegic refraction. If ≥+3.00 D, reduce it by +0.50 D; 
+ 
+ 
+ 3 When astigmatism is oblique, it must be corrected if >1.00 D; 
+ 
+ 
+ ** Minimum amount of refractive error that should be first treated with spectacles in recent trials by the Pediatric Eye Disease Investigator Group (2002) . 
+ 
+ Recently, some researchers have investigated the role of refractive correction alone in the treatment of amblyopia ( Moseley et al 1998 , 2002 ). A prospective, multicenter, noncomparative research demonstrated anisometropic amblyopia improvement and even resolution in children aged 3 to 7 years with refractive correction alone. Treatment outcome was not related to age, but was related to better baseline visual acuity and lesser amounts of anisometropia ( Cotter et al 2006 ). Other prospective, noncomparative studies measured the improvement in anisometropic amblyopia with spectacle correction alone in children from 3 to 7 years. These previously nontreated anisometropic patients obtained a four line improvement in visual acuity and amblyopia resolved in nearly half of them. Generally, the improvement occurred in the first two months. After four months with no improvement in visual acuity, occlusion or atropine penalization may be considered ( Chen et al 2007 ). 
+ Refractive surgery is a therapeutic option in certain cases. Eleven anisometropic children underwent photorefractive keratectomy with excimer laser. The authors of the study concluded that photorefractive keratectomy for severe anisometropic amblyopia in children resulted in long-term stable reduction in refractive error and improvement in visual acuity and stereopsis ( Paysse et al 2006 ). 
+ Another group studied the results in anisometropic amblyopia treatment with laser subepithelial keratomileusis (LASEK) and photorefractive keratectomy (PRK) in myopic children aged 4 to 16 years. Visual acuity improved postoperatively in 97% (by 2 or more optotype lines in 60%) during a mean follow-up 29 months. Recurrence of myopia was common, so they concluded that further study is need to determine long-term stability and safety ( Tychsen et al 2005 ). 
+ Not only anisometropic amblyopia but also strabismic amblyopia improves with refractive correction alone. A recent study reported visual acuity improvement in previously untreated strabismic amblyopia in 75% of patients with no other treatment. All had constant strabismus and were diagnosed of anisometropia of 0.75 diopters (D) or less in spherical equivalent or 1.25 D or less in astigmatism. Mean change from baseline to maximum improvement was 2.2 ± 1.8 lines ( Cotter et al 2007 ). 
+ Stewart and colleagues (2004a) also found that some young strabismic children, not previously treated, improved visual acuity in the amblyopic eye only with refractive correction, even in the absence of anisometropia. Occlusion 
+ The traditional and most widely used method of amblyopia treatment is occlusion of the healthy eye, despite the lack of data demonstrating its superiority over other options. There is no accepted standard number of patching hours per day necessary to achieve a beneficial effect. 
+ PEDIG has investigated different patching modalities in amblyopia treatment. ATS 2A and ATS 2B were randomized clinical studies that compared different patching regimens treating severe and moderate amblyopia, respectively. 
+ The ATS 2A compared 6 hours versus full-time daily patching combined with 1 hour of daily near activities while patching for severe amblyopia, in 175 children younger than 7 years with severe amblyopia (20/100 to 20/400). The extra patching regimen did not appear to obtain added benefit in the treatment. Younger children and children who began the study with worse visual acuity in their amblyopic eye, were shown to have a greater improvement in amblyopic eye acuity ( PEDIG 2003b ). 
+ The ATS 2B compared 2 versus 6 hours of daily patching combined with 1 hour of daily near activities while patching for the treatment of moderate amblyopia. It included 189 children younger than 7 years with moderate amblyopia (20/40 to 20/80). Once again, the extra patching did not give any added benefit. The rapidity and course of improvement in the acuity of the amblyopic eye was identical in the two groups after four months of treatment ( PEDIG 2003c ). 
+ In the prospective Monitored Occlusion Treatment of Amblyopia Study (MOTAS), children were prescribed 6 hours of occlusion dose-monitored daily patching ( Stewart et al 2004b ). Mean visual acuity improved from 0.50 ± 0.36 to 0.15 ± 0.25 logMAR. Average compliance was 48% of prescribed hours (2.8 hours). Increasing dosage beyond 2 hours a day did not affect the final visual outcome, although they reached a successful outcome more quickly. The first 6 weeks of treatment was the period when the 80% of the total improvement appeared. Visual outcome was better for younger children (<4 years) than for older (>6 years). Dose-response was described as a linear function with a rate of 0.1 log unit (1 line) improvement per 120 hours of occlusion. 
+ Compliance issues with occlusion therapy 
+ The success of amblyopia treatment must depend on compliance with therapy, yet few studies have ever measured compliance objectively. 
+ Occlusion dose monitors have confirmed that not all children and parents comply well with patching. Parents and carers should be given information, convinced of the need for treatment, and appropriately motivated to treat ( Searle et al 2002 ; Gregson 2002 ). 
+ In the MOTAS study, occlusion episodes were recorded by an occlusion dose monitor (ODM) ( Stewart et al 2004b ). The ODM consisted of an eye patch with two small electrodes attached to its undersurface that were connected to a battery-powered data logger. In this phase, both visual and monitored occlusion dose were recorded at 2-week intervals. At each visit, data from the OMD were downloaded to a computer, and parents were given the opportunity to review their child’s concordance. 
+ Mean concordance with the prescribed occlusion dose rate (6h/d) was 2.8 hours (48%). Only 10 (14%) of participants achieved an average concordance within 30 minutes of the prescribed dose rate. Inter and intraparticipant variation was considerable. The ODM, although still too complex to implement for routine clinical use, seems to assess compliance reliably for research purposes. In another study, patient adherence to the prescribed patching regimen was considered excellent in 49%, poor in 5%, and intermediate in the remaining patients ( PEDIG 2002 ). Occlusion side effects 
+ Classical adverse effects of occlusion treatment are local irritation and allergy, impaired binocularity during treatment, and uncosmetic, and distressing effect ( PEDIG 2002 , 2003d ). 
+ Clinically significant reverse amblyopia may be induced by excessive treatment with occlusion, but is typically of low incidence as a persistent effect (≤1%), and is usually transient and reversible when treatment is discontinued ( Kutschke et al 1991 ; Simons et al 1997 ; PEDIG 2002 , 2005a ). 
+ PEDIG designed a questionnaire to asses the effect of amblyopia treatment on the child and parents (Amblyopia Treatment Index). This questionnaire was completed by the parent at the 5 week visit and measured the adverse effects of treatment, difficulties with compliance and social stigma of treatment. Adverse effects from patching were infrequent and mild ( PEDIG 2003d ). 
+ In the ATS, although no definite cases of a persistent treatment-related decrease in the sound eye acuity occurred in either group (patching or penalization), more patients in the atropine group than the patching group had a measured reduction of visual acuity in the sound eye at the six month outcome examination ( PEDIG 2002 ). Skin irritation occurred at least once at a moderate level in 41% and at a moderate or severe level in 6% of patients ( PEDIG 2002 ). 
+ In the ATS (which compared patching with atropine in moderate amblyopia) the Amblyopia Treatment Index questionnaire results indicated worse scores in all categories for patients enrolled in the patching group ( PEDIG 2003d ). 
+ In the ATS 2A, the Amblyopia Treatment Index showed similar scores between the 6-hour and full-time groups on all 3 subscales (adverse effects, treatment compliance, social stigma) ( PEDIG 2003b ). 
+ In the ATS 2B the Amblyopia Treatment Index showed that the adverse effects and treatment compliance were similar in both groups (two hour versus 6 hour patching), but the social stigma of patching was worse in the 6-hour group ( PEDIG 2003c ). 
+ The question about a possible better binocular outcome with atropine therapy than with occlusion has yet not been answered ( Simons et al 1997 ). However, in ATS, there was no difference in outcome on several fusion and stereopsis measures between occlusion and penalization, or even a slightly better outcome in the occluded group for purely anisometropic patients ( PEDIG 2005a ). Liquid crystal glasses 
+ Liquid crystal glasses have recently been developed as a new treatment for amblyopia. Liquid crystal glasses with the appropriate correction provide an electronic, controlled, intermittent occlusion of the sound eye allowing for visual stimuli input to the amblyopic fellow eye. A liquid crystal glass in the sound eye is used as an intermittent flickering shutter switched between “on”, or occlusion, and “off”, or light transmission. The flickering sequence can be adaptated to the depth of amblyopia, the length of treatment, and the patient’s age. 
+ In a short evaluation of the new treatment, ten amblyopic children fulfilled the study. After 5 weeks wearing this type of glasses near mean visual acuity had been improved reaching statistical significance. No control patients were included in the study ( BenEzra et al 2007 ). Opaque (occluder) contact lenses 
+ Occluder contact lenses can be used in the treatment of amblyopia when children do not comply with patching. Children can improve therapy compliance using occlusive contact lenses. This treatment is ideal in patients who are patch-intolerant and fail with conventional treatment. These patients should have close follow-up in order to prevent anterior segment complications and amblyopia recurrence ( Eustis and Chamberlain 1996 ). Penalization 
+ Classically, penalization has been used as a second treatment when occlusion was not complied with, or for post-occlusion as a maintenance treatment ( France and France 1999 ). Recently, however, it has begun to be used as a primary treatment modality ( PEDIG 2002 ). There are two main types of penalization: pharmacologic and optical penalization. 
+ Pharmacologic penalization 
+ As a way to treat amblyopia, atropine is instilled into the sound eye to prevent accommodation. It is thought to operate by blurring vision in the sound eye at near, thus forcing the amblyopic eye to be used preferentially for near vision tasks. When the sound eye is hypermetropic, the penalization effect can be potentiated by prescribing less than the full hyperopic correction for the sound eye, blurring its vision at both near and distance fixation. Pharmacologic penalization has been usually advocated for mild or moderate amblyopia (20/100 or better), because it is thought to be insufficient when acuity in the amblyopic eye is worse than 20/100 ( North and Kelly 1987 ; Simons et al 1997 ). 
+ In a PEDIG trial (ATS), patching for at least 6 hours per day was compared with a 1% atropine drop every morning in children aged 3–7 years with moderate amblyopia ( PEDIG 2002 ). At 2 years of follow-up, mean improvements were similar in both groups. The researchers concluded that patching was initially faster and atropine had higher acceptability based on a parental questionnaire. 
+ Since one dose of 1% atropine lasts up to 2 weeks, a less than daily dose might also be effective. PEDIG compared daily atropine with twice weekly atropine in moderate amblyopia in children younger than 7 years. The improvement in visual acuity was the same in both groups, and the researchers concluded that twice a week atropine provides an improvement in visual acuity of similar magnitude as daily atropine ( Morrison et al 2005 ). Side effects of atropine 
+ Like with other types of treatment, during atropine therapy, vision in the treated eye should be checked to ensure that no iatrogenic reverse amblyopia has taken place ( Morrison et al 2005 ). During atropine treatment, this vision checking could be difficult, since pupillary dilatation often results in a slight reduction of visual acuity even after full hypermetropic correction. In two PEDIG studies, only one of 372 patients treated with atropine was treated for reverse amblyopia, and only two patients lost more than one line from baseline in their healthy eye ( PEDIG 2002 , 2004a ). In another study, no cases of reverse amblyopia were reported ( Simons et al 1997 ). 
+ Classically, it has been thought that fixation to the amblyopic eye was needed for treatment to be effective. This was the reason to consider atropine ineffective to treat severe amblyopia. PEDIG studies have demonstrated that fixation switch is not needed for amblyopia recovery ( PEDIG 2003a , 2004a ). Optical penalization 
+ Optical penalization for distance, adding plus correction to cycloplegic refraction in the sound eye (until fixation at distance shifts to the amblyopic eye), is a useful alternative to occlusion for treating amblyopia, and as maintenance therapy following occlusion. It is particularly useful in cases of patching noncompliance. The major key to patient acceptance is choosing the minimal amount of penalization necessary, while still ensuring that the patient actually switches fixation to the amblyopic eye ( Repka et al 1985 ). 
+ Optical penalization is an effective treatment for moderate amblyopia and can be choosed either as first treatment choice or as an alternative after patching failure, as well as combined with other modalities of therapy ( Simons et al 1997 ; Kaye et al 2002 ). Combined therapy 
+ Combined optical and atropine penalization is an effective treatment when occlusion therapy fails initially, and it might have a more rapid effect than single modality penalization therapy, but incidence of reverse amblyopia could be higher ( Kaye et al 2002 ; Morrison et al 2005 ). Its effect may be particularly useful in anisometropic amblyopia ( Kaye et al 2002 ). Penalizing filters 
+ Ryser or Bangerter foils, which come in successive graduated densities, may be used to reduce visual acuity of the sound eye to less than the amblyopic eye, or to a poor level of visual acuity in all cases. Sometimes, adhesive tape or nail polish was used as a readily available procedure to produce fogging in the sound eye. These methods are used in mild amblyopia or as maintenance therapy, in school age cooperative children ( France and France 1999 ). Comparison between treatments 
+ Classically, occlusion has been thought to be more effective than penalization in the treatment of amblyopia. But recently, based on some prospective clinical studies, atropine has become the first step of amblyopia treatment in some cases ( Foley-Nolan et al 1997 ; PEDIG 2002 ). 
+ The ATS was a randomized, controlled, single-masked, multicenter clinical trial designed to compare the improvement in visual acuity obtained with patching treatment versus pharmacologic penalization ( PEDIG 2002 ). Occlusive therapy consisted of patching the sound eye for a minimum of 6 hours a day. Pharmacologic penalization of the sound eye consisted of dropping topical 1% atropine sulphate daily. Patients were children younger than 7 years with moderate amblyopia resulting from strabismus and or anisometropia. At baseline, the mean visual acuity in the amblyopic eye was 0.53 logMAR units (20/60). The mean interocular acuity difference was 4.4 lines. 
+ The 6-month primary-outcome examination demonstrated a mean improvement in visual acuity from baseline of 3.16 lines in the patching group and of 2.84 lines in atropine group. This difference in visual acuity was not statistically significant between the two groups. They found that patching was faster than atropine in recovering amblyopia. The improvement in visual acuity did not depend on the cause of amblyopia, the baseline acuity, or the patient’s age. Children treated with patching more than 10 hours per day had faster recovery. Adverse effects from patching or atropine use were infrequent and mild. Reverse amblyopia was rare. 
+ In the Amblyopia Treatment Index questionnaire, there were more favorable scores in adverse effects, compliance, and social stigma for the atropine group. 
+ The PEDIG continued the study from the six-month first evaluation ( PEDIG 2005a ). In this second study, the participating investigators could prescribe any type of amblyopia therapy, or even no therapy. Most patients in both groups were prescribed amblyopia therapy (91% in the patching group and 85% in the atropine group). During the second year outcome examination, approximately one third of patients were still being treated for amblyopia. Regarding the modality of treatment in this second phase, patching was prescribed for 84% of children treated with patching during the initial 6 months, whereas atropine was prescribed for 78% of children previously treated with atropine. Switch to the opposite treatment ocurred in 28% of the patching group and 25% of the atropine group. Both treatments were prescribed, although not generally at the same time, for 21% in the patching group and 18% in the atropine group. 
+ Additional improvement was observed in both treatment groups at 2 years. There continued to be no meaningful difference between groups in either mean visual acuity score or lines of improvement. At 2 years, only 50% of amblyopic eyes in both treatment eyes were 20/25 or better compared with 94% of sound eyes, and in both treatment groups the amblyopic eye was 1.8 lines worse than the sound eye. At 2 years, approximately one third of patients in each group was still under treatment; the improvement with either patching or atropine happened even after 6 months of treatment. There was no difference in binocular vision between both groups. A subgroup analysis limited to the patients with anisometropic amblyopia suggested that binocular vision might be better in the patching group than in the atropine group, contradicting the classical hypothesis. Pharmacological systemic therapy 
+ Recently, levodopa and citicoline have appeared as a new potential modality of treatment for amblyopia, basically in combination with occlusion therapy. Levodopa is a pro-drug that acts at the central nervous system, where it is supposed to have a potential effect added to occlusion, and citicoline has essentially the same effect. Although some recent publications have shown beneficial effect of this treatment in combination with occlusion therapy ( Gottlob et al 1995 ; Leguire et al 2002 ; Pandey et al 2002 ; Bhartiya et al 2002 ), and that it might prolong the critical period during which occlusion is effective, its effect is thought to be temporary ( Pandey et al 2002 ). Other studies have shown no benefit of levodopa/carbidopa ( Bhartiya et al 2002 ). Near activities during amblyopia therapy 
+ In PEDIG randomized trials of patching regimes for amblyopia, near visual activities were incorporated into each of the prescribed treatment regimens. Although these different treatments combined with near activities were successful in improving visual acuity in most children, it is unknown the effect of the near activities in the therapy of amblyopia. 
+ PEDIG conducted a multicenter pilot study to determine if children randomized to near or non-near activities would perform prescribed activities, and to estimate the effect of near activities in visual acuity of the amblyopic eye combined with two hours of daily patching ( PEDIG 2005c ). Sixty-four children aged 3 to less than 7 years old, with strabismic and/or anisometropic amblyopia (20/40 to 20/400) were randomly assigned to receive either 2 hours of daily patching with near activities or 2 hours of daily patching without near activities. Children assigned to near visual activities performed more near activities than those assigned to non-near activities. After 4 weeks of treatment, there was a greater improvement in amblyopic eye visual acuity in those assigned to near visual activities. This difference was present only in the group of severe amblyopia. The improvement in amblyopic eye visual acuity was the same in the group of near visual activities than the group of non-near visual activities for moderate amblyopia. Reverse amblyopia 
+ Reverse amblyopia occurs when visual acuity decreases in the sound eye during amblyopia treatment. 
+ Clinically, reverse amblyopia can come up from excessive administration of treatment by patching or penalization, but is not frequent and when it arises, it is generally transient and reversible. Treatment of suspected reverse amblyopia consists of checking refraction and vision, stopping active treatment, and finally treating the previously sound eye. 
+ In the ATS, visual acuity in the sound eye at 6 month examination was decreased by 1 line in 7% of patients in the patching group and 15% in the atropine group. A two or more lines decrease was seen in 1% of the patching group and 9% of the atropine group. Only 1 patient (from atropine group) was actively treated for a presumed reverse amblyopia, with a return of visual acuity to its baseline level ( PEDIG 2002 ). 
+ Morrison and colleagues (2005) reported two cases of reverse amblyopia during treatment with atropine and optical penalization. Both cases required active treatment to correct the reverse amblyopia. In one case visual acuity returned to normal and the second was lost to follow up. The author recommends frequent patient monitoring when using this combined therapy. Recurrence of amblyopia after treatment 
+ The factors affecting amblyopia recurrence are not clear. It has been suggested that poor initial visual acuity, strabismic amblyopia ( Levartovsky et al 1995 ), and low age at the end of treatment ( Levartovsky et al 1992 ) are risk factors for amblyopia recurrence after therapy cessation. 
+ Recent studies suggest that approximately 20% to 25% of patients suffer amblyopia recurrence after successful treatment during the first year without therapy ( Flynn et al 1999 ; PEDIG 2004b ; Bhola et al 2006 ; Nilsson et al 2007 ). The recurrence appears generally within the first year after treatment ending, the majority of recurrences appearing within the first 6 months ( PEDIG 2004b ; Nilsson et al 2007 ). 
+ PEDIG found that the risk of recurrence was higher in those children who stopped treatment abruptly, than in those who reduced treatment before cessation. They did not find any difference in recurrence rates between patients who had been on patching or on atropine therapy ( PEDIG 2004b ). 
+ An inverse relationship between age at cessation of amblyopia treatment and risk of recurrence was found. The authors of the study concluded that there was a clinically important risk of amblyopia recurrence when occlusion therapy was decreased or stopped before the age of 10 years. They did not find relationship between visual acuity of the amblyopic eye at the time of decrease or cessation of treatment and risk of recurrence ( Bhola et al 2006 ). A very recent study indicates that strabismic amblyopia is a risk factor for recurrence despite maintenance therapy ( Nilsson et al 2007 ). 
+ In conclusion, before treatment cessation, therapy should be weaned in order to avoid recurrence. After treatment cessation, children should be followed for at least one year, with particular emphasis on the first 6 months. Strabismic patients are especially at risk for recurrence. Age-sensitive periods 
+ It is generally believed that the “critical period” for visual development in humans ends at the age of 6 to 7 years ( Von Noorden and Crawford 1979 ). Some eye care professionals believe that amblyopia treatment is successful in children up to 6 or 7 years while other think that this treatment can be effective until 9 or 10 years. The American Academy of Ophthalmology Preferred Practice Pattern for amblyopia recommends treatment up to age 10 years ( American Academy of Ophthalmology 2002 ). 
+ Mintz-Hittner and Fernandez (2000) , reported significant improvements in visual acuity in children aged 7 to 10.3 years treated with occlusion or penalization therapy. This study included 36 compliant children with strabismic or strabismic and anisometropic amblyopia. Initial visual acuities were between 20/50 and 20/400. Therapy consisted in occlusion (full-time standard occlusion or full-time occlusive contact lenses) or total penalization. Final visual acuities were between 20/20 and 20/30 for all patients. 
+ In another study, sixteen nontreated amblyopes aged between 9 to 14.5 years began occlusion therapy ( Park et al 2004 ). The visual acuities ranged from 20/100 to 20/30. Full-time occlusion was performed in 14 patients and part-time occlusion in two patients. The final visual acuity improved in 94% of them at least two lines. 
+ In the ATS, no effect of age was found at the 6-month primary outcome in children aged 3 to 7 years ( PEDIG 2002 ). Only a very small effect was seen at the 2-year follow-up, with children aged 6–7 years having a slightly worse outcome than those aged less ( PEDIG 2005a ). 
+ A PEDIG trial enrolled 7 to 17 year old patients with anisometropic and strabismic amblyopia ranging from 6/12 to 6/120 ( PEDIG 2005b ). The patients were randomized to a treatment group (2–6 hours per day of prescribed patching combined with near visual activities for all patients plus atropine sulphate for children aged 7 to 12 years) or an optical correction group (optical correction alone). They were considered responders those whose amblyopic eye improved 10 or more letters. In the patients aged 7 to 12 years old, 53% of the treatment group were responders compared with 25% of the optical correction group. In the patients aged 13 to 17 years, only 25% of the treatment group were responders compared with 23% in the optical correction group, but among patients not previously treated with patching and/or atropine for amblyopia, 47% of the treated responded compared with 20% of the responders in the optical correction group. They concluded that amblyopia in children aged 7–12 years should be treated with occlusion, near activities and atropine, even if amblyopia had been previously treated. In patients aged 13–17 years, amblyopia should be treated with occlusion and near activities; this treatment may improve visual acuity in case no previous treatment had been done. If patients had received previous therapy, a treatment response would be unlikely. 
+ In MOTAS ( Stewart et al 2004b ), occlusion treatment outcome was better in children younger than 4 years than in those older than 6 years. This mean improvement in visual acuity (log units) increased significantly with decreasing age (under 4 years, 0.43 ± 0.25; 4 to 6 years, 0.29 ± 0.19; over 6 years, 0.19 ± 0.12). They provided further evidence that treatment age is a factor that influences the effectiveness of occlusion. 
+ No difference in visual outcome between children receiving amblyopia treatment at the age of 3 or 5 years was found in a recent investigation ( Clarke et al 2003 ). Deferring treatment did not affect the final visual acuity, and even nearly halved the proportion of children requiring patching. They concluded that delay in treatment until the age of 5 years did not influence outcome. 
+ Apparently, the critical period is not the same for different functions. The upper age limit for effective treatment of amblyopia may be considered at 5 years, whereas risk for recurrence is still present up to 8–10 years. The critical period for amblyopia development lasts probably until 6–7 years. References 
+ 
+ 
+ Allen HF. A new picture series for preschool vision testing. Am J Ophthalmol. 1957;44:38–41. doi: 10.1016/0002-9394(57)91953-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ American Academy of Ophthalmology . San Francisco, Calif: American Academy of Ophthalmology; 2002. Preferred Practice Pattern: Amblyopia. [ Google Scholar ] 
+ 
+ Atilla H, Oral D, Coskun S, et al. Poor correlation between “fix-follow-maintain” monocular/binocular fixation pattern evaluation and presence of functional amblyopia. Binocul Vis Strabismus Q. 2001;16:85–90. [ PubMed ] [ Google Scholar ] 
+ 
+ Atkinson J, Braddick O. Assesment of visual acuity in infancy and early childhood. Acta Ophthalmol Scand Suppl. 1983:18–26. doi: 10.1111/j.1755-3768.1983.tb03927.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Beck RW, Moke PS, Turpin AH, et al. A computerized method of visual acuity testing: adaptation of the early treatment of diabetic retinopathy study testing protocol. Am J Ophthalmol. 2003;135:194–205. doi: 10.1016/s0002-9394(02)01825-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Becker R, Hübsch S, Gräf MH, et al. Examination of young children with Lea symbols. Br J Ophthalmol. 2002;86:513–16. doi: 10.1136/bjo.86.5.513. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Becker R, Gräf M. Landolt C and Snellen e acuity: differences in strabismus amblyopia. Klin Monatsbl Augenheilkd. 2006;223:24–8. doi: 10.1055/s-2005-858613. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ BenEzra O, Herzog R, Cohen E, et al. Liquid crystal glasses: feasibility and safety of a new modality for treating amblyopia. Arch Ophthalmol. 2007;125:580–1. doi: 10.1001/archopht.125.4.580. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Bhartiya P, Sharma P, Biswas NR. Levodopa-carbidopa with occlusion in older children with amblyopia. J AAPOS. 2002;6:368–72. doi: 10.1067/mpa.2002.129043. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Bhola R, Keech RV, Kutschke P, et al. Recurrence of amblyopia after occlusion therapy. Ophthalmology. 2006;113:2097–100. doi: 10.1016/j.ophtha.2006.04.034. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Browder JA, Levy WJ. Vision testing of young and retarded children. Experience with the British STYCAR screening test. Clin Pediatr. 1974;13:983–6. doi: 10.1177/000992287401301111. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Chen PL, Chen JT, Tai MC, et al. Anisometropic amblyopia treated with spectacle correction alone: possible factors predicting success and time to start patching. Am J Ophthalmol. 2007;143:54–60. doi: 10.1016/j.ajo.2006.09.027. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Chua B, Mitchell P. Consequences of amblyopia on education, occupation and long term vision loss. Br J Ophthalmol. 2004;88:1119–21. doi: 10.1136/bjo.2004.041863. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Clarke MP, Wright CM, Hrisos S, et al. Randomised controlled trial of treatment of unilateral visual impairment detected at preschool vision screening. BMJ. 2003;327:1251–6. doi: 10.1136/bmj.327.7426.1251. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Cleary M. Efficacy of occlusion for strabismic amblyopia: can an optimal duration be identified. Br J Ophthalmol. 2000;84:572–7. doi: 10.1136/bjo.84.6.572. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Cotter SA, Edwars AR, Wallace DK, et al. Treatment of anisometropic amblyopia in children with refractive correction. Ophthalmology. 2006;113:895–903. doi: 10.1016/j.ophtha.2006.01.068. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Cotter SA, Edwars AR, Arnold RW, et al. Treatment of strabismic amblyopia with refractive correction. Am J Ophthalmol. 2007;143:1060–3. doi: 10.1016/j.ajo.2007.02.029. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Eustis HS, Chamberlain D. Treatment for amblyopia: results using occlusive contact lens. J Pediatr Ophthalmol Strabismus. 1996;33:319–22. doi: 10.3928/0191-3913-19961101-09. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Ferris FL, III, Kassof A, Bresnick GH, et al. New visual acuity charts for clinical research. Am J Ophthalmol. 1982;94:91–6. [ PubMed ] [ Google Scholar ] 
+ 
+ Flynn JT, Woodruff G, Thompson JR, et al. The therapy of amblyopia: an analysis comparing the results of amblyopia therapy utilizing two pooled data sets. Trans Am Ophthalmol Soc. 1999;97:373–90. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Foley-Nolan A, McCann A, O’Keefe M. Atropine penalisation versus occlusion as the primary treatment for amblyopia. Br J Ophthalmol. 1997;81:54–7. doi: 10.1136/bjo.81.1.54. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ France TD, France LW. Optical penalization can improve vision after occlusion treatment. J AAPOS. 1999;3:341–3. doi: 10.1016/s1091-8531(99)70042-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Getz LM, Dobson V, Luna B, et al. Interobserver reliability of the Teller Acuity Card procedure in pediatric patients. Invest Ophthalmol Vis Sci. 1996;37:180–7. [ PubMed ] [ Google Scholar ] 
+ 
+ Gottlob I, Wizov SS, Reinecke RD. Visual acuities and scotomas after 3 weeks’ levodopa administration in adult amblyopia. Graefes Arch Clin Exp Ophthalmol. 1995;233:407–13. doi: 10.1007/BF00180943. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Gräf M, Becker R, Kaufmann H. Lea symbols: visual acuity assessment and detection of amblyopia. Graefes Arch Clin Exp Ophthalmol. 2000;238:53–8. doi: 10.1007/s004170050009. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Gregson R. Why are we so bad at treating amblyopia. Eye. 2002;16:461–2. doi: 10.1038/sj.eye.6700102. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Grimm W, Rassow B, Wesemann W, et al. Correlation of optotypes with the Landolt ring, a fresh look at the comparability of optotypes. Optom Vis Sci. 1994;71:6–13. doi: 10.1097/00006324-199401000-00002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Harvey EM, Dobson V, Tung B, et al. Interobserver agreement for grating acuity and letter acuity assessment in 1-to 5.5-years-old with severe retinopathy of prematurity. Invest Ophthalmol Vis Sci. 1999;40:1565–76. [ PubMed ] [ Google Scholar ] 
+ 
+ Hazell CD. Evaluation of the Cardiff acuity test in uniocular amblyopia. Br Orthopt J. 1995;52:8–15. [ Google Scholar ] 
+ 
+ Hered RW, Murphy S, Clancy M. Comparison of the HOTV and Lea Symbols charts for preschool vision screening. J Pediatr Ophthalmol Strabismus. 1997;34:24–8. doi: 10.3928/0191-3913-19970101-06. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Hillis A, Flynn JT, Hawkins BS. The evolving concept of amblyopia a challenge to epidemiologists. Am J Epidemiol. 1983;118:192–205. doi: 10.1093/oxfordjournals.aje.a113627. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Holmes JM, Beck RW, Repka MX, et al. The amblyopia treatment study visual acuity testing protocol. Arch Ophthalmol. 2001;119:1345–53. doi: 10.1001/archopht.119.9.1345. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Hubel DH, Wiesel TN. The period of susceptibility to the physiological effects of unilateral eye closure in Kittens. J Physiol. 1970;206:419–36. doi: 10.1113/jphysiol.1970.sp009022. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Hyvarinen L, Nasanen R, Laurinen P. New visual acuity test for pre-school children. Acta Ophthalmologica. 1980;58:507–11. doi: 10.1111/j.1755-3768.1980.tb08291.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Kay H. New method of assessing visual acuity with pictures. Br J Ophthalmol. 1983;67:131–3. doi: 10.1136/bjo.67.2.131. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Kaye SB, Chen SI, Price G, et al. Combined optical and atropine penalization for the treatment of strabismic and anisometropic amblyopia. J AAPOS. 2002;6:289–93. doi: 10.1067/mpa.2002.127920. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Klimek DL, Cruz OA, Scott WE, et al. Isoametropic amblyopia due to high hyperopia in children. J AAPOS. 2004;8:310–13. doi: 10.1016/j.jaapos.2004.05.007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ König HH, Barry JC. Cost effectiveness of treatment for amblyopia: an analysis based on a probabilistic Markov model. Br J Ophthalmol. 2004;88:606–12. doi: 10.1136/bjo.2003.028712. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Kutschke PJ, Scott WE, Keech RV. Anisometropic amblyopia. Ophthalmology. 1991;98:258–63. doi: 10.1016/s0161-6420(91)32307-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Kvarnström G, Jakobsson P, Lennerstrand G. Visual screening of Swedish children: an ophthalmological evaluation. Acta Ophthalmol Scand. 2001;79:240–4. doi: 10.1034/j.1600-0420.2001.790306.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Lam GC, Repka MX, Guyton DL. Timing of amblyopia therapy relative to strabismus surgery. Ophthalmology. 1993;100:1751–6. doi: 10.1016/s0161-6420(13)31403-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Leguire LE, Komaromy KL, Nairus TM, et al. Long-term follow-up of L-dopa treatment in children with amblyopia. J Pediatr Ophthalmol Strabismus. 2002;39:326–30. doi: 10.3928/0191-3913-20021101-05. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Levartovsky S, Gottesman N, Shimshoni M, et al. Factors affecting long-term results of successfully treated amblyopia: age at beginning of treatment and age at cessation of monitoring. J Pediatr Ophthalmol Strabismus. 1992;29:219–23. doi: 10.3928/0191-3913-19920701-08. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Levartovsky S, Oliver M, Gottesman N, et al. Factors affecting long term results of successfully treated amblyopia: initial visual acuity and type of amblyopia. Br J Ophthalmol. 1995;79:225–8. doi: 10.1136/bjo.79.3.225. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Mayer DL, Fulton AB, Rodier D. Grating and recognition acuities of pediatric patients. Ophthalmology. 1984;91:947–53. doi: 10.1016/s0161-6420(84)34209-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ McGraw PV, Winn B. Glasgow acuity cards: a new test for the measurement of letter acuity in children. Ophthalmic Physiol Opt. 1993;13:400–4. doi: 10.1111/j.1475-1313.1993.tb00499.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ McGraw PV, Winn B, Gray LS, et al. Improving the reliability of visual acuity measures in young children. Ophthalmic Physiol Opt. 2000;20:173–84. [ PubMed ] [ Google Scholar ] 
+ 
+ Membreno JH, Brown MM, Brown GC, et al. A cost-utility analysis of therapy for amblyopia. Ophthalmology. 2002;109:2265–71. doi: 10.1016/s0161-6420(02)01286-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Mintz–Hittner H, Fernandez K. Succesful amblyopia therapy initiated after age 7 years: compliance cures. Arch Ophthalmol. 2000;118:1535–41. doi: 10.1001/archopht.118.11.1535. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Moke PS, Turpin AH, Beck RW, et al. Computerized method of visual acuity testing: adaptation of the amblyopia treatment study visual acuity testing protocol. Am J Ophthalmol. 2001;132:903–9. doi: 10.1016/s0002-9394(01)01256-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Morad Y, Werker E, Nemet P, et al. Visual acuity tests using chart, line, and single optotype in healthy and amblyopic children. J AAPOS. 1999;3:94–7. doi: 10.1016/s1091-8531(99)70077-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Morrison DG, Palmer NJ, Sinatra RB, et al. Severe amblyopia of the sound eye resulting from atropine therapy combined with optical penalization. J Pediatric Ophthalmol Strabismus. 2005;42:52–3. doi: 10.3928/01913913-20050101-07. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Moseley MJ, Neufeld M, Fielder AR. Treatment of amblyopia by spectacles. Invest Ophthalmol Vis Sci. 1998;39:S332. [ Google Scholar ] 
+ 
+ Moseley MJ, Neufeld M, McCarry B, et al. Remediation of refractive amblyopia by optical correction alone. Ophthalmic Physiol Opt. 2002;22:296–9. doi: 10.1046/j.1475-1313.2002.00034.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Nilsson J, Baumann M, Sjöstrand J. Strabismus might be a risk factor for amblyopia recurrence. J AAPOS. 2007;11:240–2. doi: 10.1016/j.jaapos.2007.01.117. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ North RV, Kelly ME. A review of the uses and adverse effects of topical administration of atropine. Ophthalmol Physiol Opt. 1987;7:109–14. doi: 10.1111/j.1475-1313.1987.tb01004.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Oster JG, Simon JW, Jenkins P. When is it safe to stop patching. Br J Ophthalmol. 1990;74:709–11. doi: 10.1136/bjo.74.12.709. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Pandey PK, Chaudhuri Z, Kumar M. Effect of levodopa and carbidopa in human amblyopia. J Pediatr Ophthamol Strabismus. 2002;39:81–9. doi: 10.3928/0191-3913-20020301-07. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Park KH, Hwang J-M, Ahn JK. Efficacy of amblyopia therapy initiated after 9 years of age. Eye. 2004;18:571–4. doi: 10.1038/sj.eye.6700671. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Paysse EA, Coats DK, Hussein MA, et al. Long term outcomes of photorefractive Keratectomy for anisometropic amblyopia in children. Ophthalmology. 2006;113:169–76. doi: 10.1016/j.ophtha.2005.06.010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ [PEDIG] Pediatric Eye Disease Investigator Group A randomized trial of atropine vs patching for treatment of moderate amblyopia in children. Arch Opthalmol. 2002;120:268–78. doi: 10.1001/archopht.120.3.268. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ [PEDIG] Pediatric Eye Disease Investigator Group The course of moderate amblyopia treated with atropine in children: experience of the amblyopia treatment study. Am J Ophthalmol. 2003a;136:630–9. doi: 10.1016/s0002-9394(03)00458-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ [PEDIG] Pediatric Eye Disease Investigator Group A randomized trial of prescribed patching regimens for treatment of severe amblyopia in children. Ophthalmology. 2003b;110:2075–87. doi: 10.1016/j.ophtha.2003.08.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ [PEDIG] Pediatric Eye Disease Investigator Group A randomized trial of patching regimens for treatment of moderate amblyopia in children. Arch Ophthalmol. 2003c;121:603–11. doi: 10.1001/archopht.121.5.603. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ [PEDIG] Pediatric Eye Disease Investigator Group Impact of patching and atropine treatment on the child and family in the Amblyopia Treatment Study. Arch Ophthalmol. 2003d;121:1625–32. doi: 10.1001/archopht.121.11.1625. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ [PEDIG] Pediatric Eye Disease Investigator Group A randomized trial of atropine regimens for treatment of moderate amblyopia in children. Ophthamology. 2004a;111:2076–85. doi: 10.1016/j.ophtha.2004.04.032. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ [PEDIG] Pediatric Eye Disease Investigator Group Risk of amblyopia recurrence after cessation of treatment. J AAPOS. 2004b;8:420–8. doi: 10.1016/S1091853104001612. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ [PEDIG] Pediatric Eye Disease Investigator Group Two-year follow up of a 6-month randomized trial of atropine vs patching for treatment of moderate amblyopia in children. Arch Ophthalmol. 2005a;123:149–57. doi: 10.1001/archopht.123.2.149. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ [PEDIG] Pediatric Eye Disease Investigator Group Randomized trial of treatment of amblyopia in children aged 7 to 17 years. Arch Ophthalmol. 2005b;123:437–47. doi: 10.1001/archopht.123.4.437. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ [PEDIG] Pediatric Eye Disease Investigator Group A randomized pilot study of near activities versus non-near activities during patching therapy for amblyopia. J AAPOS. 2005c;9:129–36. doi: 10.1016/j.jaapos.2004.12.014. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Rahi J, Logan S, Timms C, et al. Risk, causes, and outcomes of visual impairment after loss of vision in the non-amblyopic eye: a population-based study. Lancet. 2002;360:597–602. doi: 10.1016/s0140-6736(02)09782-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Rassow B, Wang Y. Correlation of letter optotypes with Landolt ring for different degrees of visual acuity. Klin Monatsbl Augenheilkd. 1999;215:119–26. doi: 10.1055/s-2008-1034683. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Repka MX, Gallin PF, Scholz RT, et al. Determination of optical penalization by vectographic fixation reversal. Ophthalmology. 1985;92:1584–6. doi: 10.1016/s0161-6420(85)33821-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Rydberg A, Ericson B. Assessing visual function in children younger than 1½ years with normal and subnormal vision: evaluation of methods. J Pediatr Ophthalmol Strabismus. 1998;35:312–19. doi: 10.3928/0191-3913-19981101-05. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Ruttum MS, Dahlgren M. Comparison of HOTV and Lea symbols visual acuity tests in patients with amblyopia. J Pediatr Ophthalmol Strabismus. 2006;43:157–60. doi: 10.3928/01913913-20060301-03. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Rydberg A, Ericson B, Lennerstrand G, et al. Assesment of visual acuity in children aged 1½-6 years, with normal and subnormal vision. Strabismus. 1999;7:1–24. doi: 10.1076/stra.7.1.1.656. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Searle A, Norman P, Harrad R, et al. Psychosocial and clinical determinants of compliance with occlusion therapy for amblyopic children. Eye. 2002;16:150–5. doi: 10.1038/sj.eye.6700086. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Simons K, Stein L, Sener EC, et al. Full-time atropine, intermittent atropine, and optical penalization and binocular outcome in treatment of strabismic amblyopia. Ophthalmology. 1997a;104:2143–55. doi: 10.1016/s0161-6420(97)30048-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Simons K, Gotzler KC, Vitale S. Penalization vs part-time occlusion and binocular outcome in treatment of strabismic amblyopia. Ophthalmology. 1997b;104:2156–60. doi: 10.1016/s0161-6420(97)30047-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Simons K, Preslan M. Natural history of amblyopia untreated owing to lack of compliance. Br J Ophthalmol. 1999;83:582–7. doi: 10.1136/bjo.83.5.582. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Snowdon SK, Stewart-Brown SL. Preschool vision screening. Health Technol Assess. 1997;1:1–83. [ PubMed ] [ Google Scholar ] 
+ 
+ Stewart CE, Moseley MJ, Fielder AR, et al. MOTAS Cooperative Refractive adaptation in amblyopia: quantification of effect and implications for practice. Br J Ophthalmol. 2004a;88:1552–6. doi: 10.1136/bjo.2004.044214. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Stewart CE, Moseley MJ, Stephens DA, et al. Treatment Dose-Response in Amblyopia Therapy: The Monitored Occlusion Treatment Of Amblyopia Study (MOTAS) Invest Ophthalmol Vis Sci. 2004b;45:3048–54. doi: 10.1167/iovs.04-0250. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Tommila V, Tarkkanen A. Incidence of loss of vision in the healthy eye in amblyopia. Br J Ophthalmol. 1981;65:575–7. doi: 10.1136/bjo.65.8.575. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Tychsen L, Packwood E, Berdy G. Correction of large amblyopiogenic refractive errors in children using excimer laser. J AAPOS. 2005;9:224–33. doi: 10.1016/j.jaapos.2005.01.006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Van Leeuwen R, Eijkemans MJ, Vingerling JR, et al. 2007Risk of bilateral visual impairment in persons with amblyopia: The Rotterdam Study Br J Ophthalmol, doi:10.1136/bjo.2006.113670. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ Von Noorden GK, Crawford ML. The sensitive period. Trans Ophthalmol Soc UK. 1979;99:442–6. [ PubMed ] [ Google Scholar ] 
+ 
+ Von Noorden GK. Binocular Vision and Ocular Motility. St Lous: Mosby; 1996. [ Google Scholar ] 
+ 
+ Wallace D. Tests of fixation preference for amblyopia. Am Orthopt J. 2005;55:76–81. doi: 10.3368/aoj.55.1.76. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Weakley DR., Jr The association between nonstrabismic anisometropia, amblyopia, and subnormal binocularity. Ophthalmology. 2001;108:163–71. doi: 10.1016/s0161-6420(00)00425-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Woodhouse JM, Morjaria SA, Adler PM. Acuity measurements adult subjects using a preferential looking test. Ophthalmic Physiol Opt. 2007;27:54–9. doi: 10.1111/j.1475-1313.2006.00454.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Wright KW, Edelman PM, Walonker F, et al. Reliability of fixation preference testing in diagnosing amblyopia. Arch Ophthalmol. 1986;104:549–53. doi: 10.1001/archopht.1986.01050160105023. [ DOI ] [ PubMed ] [ Google Scholar ]

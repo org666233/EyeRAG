@@ -1,0 +1,669 @@
+Source: PubMed Central (PMC)
+PMCID: PMC4335585
+Title: The Pathophysiology, Diagnosis, and Treatment of Dry Eye Disease
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4335585/
+Year: 2015
+Disease: dry_eye
+Priority: 1
+============================================================
+
+Dtsch Arztebl Int . 2015 Jan 30;112(5):71–82. doi: 10.3238/arztebl.2015.0071 
+ 
+ 
+ The Pathophysiology, Diagnosis, and Treatment of Dry Eye Disease 
+ Elisabeth M Messmer 
+ 
+ Elisabeth M Messmer , Prof. Dr. med. 
+ 
+ 
+ 1 Department of Ophthalmology, Ludwig-Maximilian-University Munich 
+ Find articles by Elisabeth M Messmer 
+ 
+ 
+ 1, * 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, Ludwig-Maximilian-University Munich 
+ 
+ ✉ *Augenklinik der Ludwig-Maximilians-Universität, Mathildenstr. 8, 80336 München, Germany, emessmer@med.uni-muenchen.de 
+ 
+ 
+ Received 2014 May 2; Accepted 2014 Aug 27; Issue date 2015 Jan. 
+ PMC Copyright notice 
+ 
+ PMCID: PMC4335585  PMID: 25686388 
+ 
+ Abstract 
+ Background 
+ Dry eye disease (DED) is common; its prevalence around the world varies from 5% to 34%. Its putative pathogenetic mechanisms include hyperosmolarity of the tear film and inflammation of the ocular surface and lacrimal gland. Dry eye is clinically subdivided into two subtypes: one with decreased tear secretion (aqueous-deficient DED), and one with increased tear evaporation (hyperevaporative DED). Methods 
+ This review is based on pertinent publications retrieved by a selective PubMed search and on the authors’ own clinical and scientific experience. Results 
+ The diagnostic evaluation of dry eye disease should include a detailed patient history, thorough split-lamp examination, and additional tests as indicated. Few randomized controlled therapeutic trials for dry eye have been published to date. Artificial tears of various kinds are recommended if the symptoms are mild. Lid hygiene is helpful in the treatment of hyperevaporative dry eye, while collagen or silicon plugs can be used for partial occlusion of the efferent lacrimal ducts to treat severe hyposecretory dry eye. The benefit of long-term topical anti-inflammatory treatment of moderate or severe dry eye disease with corticosteroids or cyclosporine A eye drops has been documented in clinical trials on a high evidence level. Orally administered tetraycycline derivatives and omega-3 or omega-6 fatty acids are also used. Conclusion 
+ The treatment of dry eye has evolved from tear substitution alone to a rationally based therapeutic algorithm. Current research focuses on pathophysiology, new diagnostic techniques, and novel therapies including secretagogues, topical androgens, and new anti-inflammatory drugs. 
+ Dry eye disease is defined as a “multifactorial disease of the tears and ocular surface that results in symptoms of discomfort, visual disturbance, and tear film instability with potential damage to the ocular surface. It is accompanied by increased osmolarity of the tear film and subacute inflammation of the ocular surface” ( 1 ). 
+ The ocular surface (cornea, conjunctiva, accessory lacrimal glands), meibomian glands (specific sebaceous glands of the eyelid margin, which produce the outer lipid film of the tear film), the main lacrimal gland, and the innervation between them form a functional unit. Any or all of these structures may be affected in dry eye disease ( 2 ). Recent studies have shown that dry eye is an inflammatory disease that has many features in common with autoimmune disease ( 2 , 3 , e1 ). Stress to the ocular surface (environmental factors, infection, endogenous stress, antigens, genetic factors) is postulated as the pathogenetic triggering mechanism. Proinflammatory cytokines, chemokines, and matrix metalloproteinases lead to the expansion of autoreactive T helper cells which infiltrate the ocular surface and lacrimal gland ( 2 , 3 ). The result is a vicious circle of damage to the ocular surface and inflammation. 
+ Classification into “dry eye with reduced tear production (aqueous-deficient)” and “dry eye with increased evaporation of the tear film (hyperevaporative)” has proved useful on practical grounds. 
+ Around 10% of patients with dry eye have a solely aqueous-deficient disorder. Hyperevaporative disorders, mostly caused by dysfunction of the meibomian glands, and mixed hyperevaporative/aqueous-deficient forms account for more than 80% of cases ( 4 , e2 , e3 ). Based on this new insight, novel diagnostic procedures and therapeutic approaches have evolved. 
+ Definition. 
+ Dry eye disease is an inflammatory disease that has many features in common with autoimmune disease. Learning objectives 
+ After reading this article, the reader should: 
+ 
+ Have learned that dry eye disease is not a minor complaint but a disease that has much in common with autoimmune diseases. 
+ Understand that the modern diagnostic procedure for dry eye disease requires, in addition to careful history taking and examination, specific tests to distinguish it from other diseases of the ocular surface such as allergies and infections. 
+ Be able to implement a sophisticated therapeutic regimen in which anti-inflammatory therapy plays an important role. 
+ Epidemiology 
+ Around the world, between 5% and 34% of people suffer from dry eye ( 5 , 6 , e4 – e7 ); prevalence increases significantly with age. The large differences in prevalence figures are due to variations in study populations, geographical differences and differences in method, and, until the middle of 2007, variations in the definition of the disease. No current prevalence figures exist for Germany. A study dating from 1977 showed that 11.7% of the German population—about 9 million people in all—suffered from symptoms of dry eye ( 7 ). 
+ Predisposing factors are summarized in Box 1 according to evidence level ( 1 , 8 , e8 , e9 ). 
+ Box 1. Risk factors for dry eye disease ( 1 ). 
+ 
+ 
+ High level of evidence 
+ 
+ Age 
+ Female sex 
+ Postmenopausal estrogen therapy - 
+ Antihistamines 
+ Collagen vascular disease 
+ Corneal refractive surgery 
+ Irradiation 
+ Hematopoietic stem call transplantation 
+ Vitamin A deficiency 
+ Hepatitis C 
+ Androgen insufficiency 
+ 
+ 
+ 
+ Moderate level of evidence 
+ 
+ Medications such as tricyclic antidepressants, selective serotonin reuptake inhibitors, diuretics, beta-blockers 
+ Diabetes mellitus 
+ HIV/HTLV1 infection 
+ Systemic chemotherapy 
+ Cataract surgery with a large incision 
+ Keratoplasty 
+ Isotretinoin 
+ Low air humidity 
+ Sarcoidosis 
+ Ovarian dysfunction 
+ 
+ 
+ 
+ Low level of evidence 
+ 
+ Smoking 
+ Hispanic ethnicity 
+ Anticholinergic drugs such as anxiolytics, antipsychotics 
+ Alcohol 
+ Menopause 
+ Botulinum toxin injection 
+ Acne 
+ Gout 
+ Oral contraceptives 
+ Pregnancy 
+ 
+ 
+ Forms of dry eye disease. 
+ Dry eye disease is subdivided into two forms, aqueous-deficient (tear deficiency) and hyperevaporative (increased evaporation). However, mixed forms are common. Dry eye impairs functional vision, especially in reading, at the computer, or when driving ( 9 , 10 , e10 , e11 ). Reading speed is significantly reduced and correlates with disease severity ( 9 ). Tests in a driving simulator have shown significantly reduced reaction time ( 10 ). Reduced quality of life in everyday activities and leisure pursuits is reported by 60% of patients—comparable to the decrease in quality of life reported for angina pectoris—while 38% of patients complain of reduced efficiency at work ( 11 , 12 , e12 ). 
+ Dry eye disease is significantly associated with anxiety disorders and depression ( 11 , 13 , e13 ). One large population-based cross-sectional study found manifest depression in 13.7% of patients with dry eye disease, compared with 8.6% of the control group. 
+ Annual treatment costs per patient with dry eye in the USA are US$ 783 (taking account of the fact that patients themselves pay for a large proportion of the artificial tears required). The cost to the health care system is US$ 3.84 million a year ( 14 ). 
+ Prevalence. 
+ In Germany, an estimated 9 million people suffer from dry eye disease. Clinical features 
+ The subjective symptoms in dry eye disease are often nonspecific. They include ( 1 ): 
+ 
+ Redness 
+ Burning 
+ Stinging 
+ Foreign body sensation 
+ Pruritus 
+ Photophobia. 
+ 
+ More or less pronounced conjunctival redness and damage to the ocular surface with punctate epithelial erosions (superficial punctate keratitis) are typical in dry eye; temporal conjunctival folds parallel to the lid margin are indicative. The lower tear meniscus is reduced. In addition, there are often signs of meibomian gland dysfunction with thickened eyelid margins and telangiectasia. The meibomian gland orifices are obstructed with a cloudy, granular or solid secretion that can only be expressed by exerting considerable pressure on the lower lid ( 15 ). If the meibomian gland dysfunction is associated with inflammation, blepharitis (inflammation of the lid margin) or meibomitis (inflammation of the meibomian glands) is present. 
+ Associated diseases. 
+ Dry eye disease has a significant association with anxiety disorder and depression. In late stages or in severe forms of the disease, conjunctival scarring or corneal complications can occur. In addition to filamentary keratitis, persistent epithelial defects, ulceration, and even corneal perforation can complicate the course. Severe complications of dry eye disease are rare and are observed in the context of primary or secondary Sjögren’s syndrome, graft-versus-host disease, ichthyosis, Stevens–Johnson syndrome, and xerophthalmia ( e14 – e21 ). They can result in loss of vision or even functional blindness. 
+ A classification of dry eye based on the severity of symptoms and clinical signs has been established ( 1 ) ( Table 1 ). 
+ Table 1. Dry eye disease severity grading scheme [ 1 ]. 
+ 
+ 
+ Dry eye severity level 
+ 1 
+ 2 
+ 3 
+ 4 
+ 
+ 
+ 
+ Discomfort, severity and frequency 
+ Mild and/or episodic; occurs under environmental stress 
+ Moderate episodic or chronic, stress or no stress 
+ Severe frequent or constant without stress 
+ Severe and/or disabling and constant 
+ 
+ 
+ Visual symptoms 
+ None or episodic mild fatigue 
+ Annoying and/or activity-limiting episodic 
+ Annoying, chronic and/or constant, limiting activity 
+ Constant and/orpossibly disabling 
+ 
+ 
+ Conjunctival injection 
+ None to mild 
+ None to mild 
+ +/− 
+ +/++ 
+ 
+ 
+ Corneal staining (severity/location) 
+ None to mild 
+ Variable 
+ Marked central 
+ N/A 
+ 
+ 
+ Corneal/tear signs 
+ None to mild 
+ Mild debris, ↓ meniscus 
+ Filamentary keratitis, mucus clumping, ○ tear debris 
+ Filamentary keratitis, mucus clumping, ○ tear debris, ulceration 
+ 
+ 
+ Lid/meibomian glands 
+ MGD variably present 
+ MGD variably present 
+ MGD frequent 
+ Trichiasis, keratinization, symblepharon 
+ 
+ 
+ Tear film break-up time (seconds) 
+ Variable 
+ ≥ 10 
+ ≥ 5 
+ Immediate 
+ 
+ 
+ Schirmer score (measures tear secretion) (mm/5 minutes) 
+ Variable 
+ ≥ 10 
+ ≥ 5 
+ ≥ 2 
+ 
+ 
+ 
+ Open in a new tab 
+ MGD, meibomian gland dysfunction; - not present; + mild; ++ moderate; N/A, not applicable Unfortunately subjective and objective clinical findings do not always correlate ( 16 , 17 ). There are patients in considerable discomfort who have no significant clinical signs, and also those with severe dry eye and vision-threatening ocular complications who suffer from only mild symptoms. 
+ Clinical presentation. 
+ The subjective symptoms of dry eye disease are often nonspecific. Diagnosis 
+ Diagnostic tests are necessary in order to distinguish between dry eye, infections and allergies, which can present very similar clinically, but require different treatment. If an incorrect clinical diagnosis is made and antiallergic drugs or epitheliotoxic antibiotics are prescribed, dry eye may worsen. The diagnostic tests allow patients to be classified into one of two treatment-based subgroups, “aqueous-deficient” or “hyperevaporative.” Diagnostic guidelines were published in 2007 by the Dry Eye Workshop ( 1 ). The suggested sequence of dry eye tests is presented in Box 2 . 
+ Box 2. Practical sequence of dry eye tests ( 1 ). 
+ 
+ Patient history, perhaps using a symptom-oriented questionnaire 
+ Tear film break-up time with fluorescein 
+ Ocular surface staining with fluorescein/lissamine green 
+ Schirmer test with/without anesthesia 
+ Examination of the eyelid margins and meibomian gland orifices with expression of meibomian secretion 
+ A comprehensive history is essential, including ( e22 ): 
+ 
+ Time, place, and diurnal variation of symptoms, workplace stress (e.g., VDU work; dry, dusty air; air conditioning) 
+ Systemic diseases (especially collagen vascular disease, Graves’ disease, diabetes mellitus, infections such as hepatitis C and HIV) 
+ Medication history. 
+ 
+ Questionnaires are available for standardized history taking in suspected dry eye disease (e.g., Ocular Surface Disease Index [OSDI] or the Impact of Dry Eye on Everyday Life [IDEEL] questionnaire) ( e23 , e24 ). 
+ Triggering factors. 
+ Corneal ulceration, corneal perforation, and loss of functional vision can complicate the course. Examination of the eyelids 
+ Blink rate 
+ Blinking is important to distribute the tear fluid over the ocular surface, and supports secretion from the meibomian glands. The normal blink rate while speaking is extremely variable at 15.5 ± 13.7 blinks/minute. During reading and computer work, the blink rate is significantly reduced, to 5.3 ± 4.5 blinks/minute ( e25 , e26 ), which promotes evaporation of tear fluid. A reduced interval between blinks, from about 6 seconds to 2.6 seconds, and incomplete blinking, are typical of patients with dry eye ( 19 ). Lid congruity and lid closure 
+ Lid incongruity (e.g., ectropion, entropion) or insufficient lid closure (e.g., facial nerve palsy) can disturb the integrity of the tear film on the ocular surface and must be surgically corrected. Lid margin 
+ Detailed examination of the eyelid margin will yield information about its inflammation or any dysfunction of the meibomian glands with associated hyperevaporative disorder. Eyelashes, eyelid margin, and meibomian gland orifices are examined using the slit lamp. Noncontact infrared meibography allows the meibomian glands to be visualized directly ( 20 ) ( Figure 1a 
+ and 
+ 1b ). 
+ Figure 1. 
+ 
+ Open in a new tab 
+ Meibomian gland dysfunction 
+ a) Meibomian gland orifices on the eyelid margin blocked by thickened meibomian secretion 
+ b) Appearance of healthy meibomian glands on meibography Incorrect clinical diagnosis. 
+ If an incorrect clinical diagnosis is made and antiallergic drugs or epitheliotoxic antibiotics are prescribed, dry eye may worsen. Examination of the conjunctiva 
+ Temporal lid-parallel conjunctival folds (LIPCOFs) in straight gaze are a result of increased friction between the lids and the conjunctiva. They are regarded as an important indicator of dry eye, with a sensitivity of 84.9% and a specificity of up to 90% ( 21 ). They can be simply, quickly, and noninvasively identified using the slit lamp. LIPCOFs are classified according to Höh et al. into three grades ( 22 ) ( Box 3 ) ( Figure 2 ). 
+ Box 3. Höh classification of lid-parallel conjunctival folds ( 22 ). 
+ 
+ 
+ Grade 0 
+ No permanently present fold 
+ 
+ 
+ Grade 1 
+ Single small fold 
+ 
+ 
+ Grade 2 
+ Fold up to the height of the normal tear meniscus, multiple folds 
+ 
+ 
+ Grade 3 
+ Fold higher than the height of the normal tear meniscus, multiple folds 
+ 
+ Figure 2. 
+ 
+ Open in a new tab 
+ Lid-parallel conjunctival folds (grade 1 according to Höh et al. [ 22 ]) Examination of the ocular surface 
+ The surface of the eye is examined using the slit lamp and vital stains. The usual dyes in clinical practice are fluorescein and lissamine green. Fluorescein stains both the precorneal tear film and epithelial erosions in the conjunctiva and cornea. Lissamine green highlights superficially damaged cells with a defective mucin layer ( e27 ) ( Figure 3 ). 
+ Figure 3. 
+ 
+ Open in a new tab 
+ Vital staining of the ocular surface in a patient with dry eye disease 
+ a) Fluorescein staining of the cornea 
+ b) Lissamine green staining of the conjunctiva With all dyes, the intensity of staining and the dye distribution pattern are assessed semiquantitatively. Staining in the area of the palpebral fissure is suggestive of dry eye. 
+ Several indices are available for the assessment of staining, such as the van Bijsterveld Index ( Figure 4 ), the Oxford Grading Scale, and the CLEK scheme ( 1 ). 
+ Figure 4. 
+ 
+ Open in a new tab 
+ Semiquantitative assessment of surface staining. 
+ The van Bijsterveld Index divides the ocular surface into three regions: cornea, nasal conjunctiva, and temporal conjunctiva. Each zone is scored for severity on a scale of 0 to 3. The sum of the three zone scores gives the overall score. Values >3.5 are regarded as pathological ( 1 ) Examination of the tear film 
+ Tear film meniscus 
+ The height of the tear film meniscus observed during slit lamp examination can provide clues about the presence of hyposecretory dry eye. The tear film can be objectively measured using optical coherence tomography ( e28 ). Tear meniscus height was 0.2 ± 0.09 mm in patients with dry eye versus 0.5 ± 0.02 mm in patients with healthy eyes ( e29 ). In clinical practice, a tear meniscus below 0.2 mm is regarded as pathological. A foamy tear film is an indicator of an altered lipid layer in patients with meibomian gland dysfunction. Tear film break-up time 
+ The tear film break-up time (TFBUT) describes the stability of the tear film. It is determined after instillation of unpreserved fluorescein drops without topical anesthesia using a slit lamp with a cobalt blue filter. After a complete blink, the time to the first break-up of the tear film is measured. The normal range lies between 20 and 30 seconds. Values below 10 seconds are definitely pathological ( 23 ) ( Figure 5a ). Tear film break-up time can be assessed noninvasively, without fluorescein, by using videokeratography ( Figure 5b ). 
+ Figure 5. 
+ 
+ Open in a new tab 
+ Measuring tear film break-up time to assess tear film stability. 
+ a) Invasive method, using fluorescein and the slit lamp with a cobalt blue filter 
+ b) Noninvasive method, without fluorescein, using a keratograph. The exact time and area of break-up are determined Examination of the ocular surface. 
+ Damage to the ocular surface can be shown by vital staining and can be monitored semiquantitatively using standardized indices. Tear secretion tests 
+ The Schirmer test measures the secretions of the lacrimal gland. In the Schirmer I test, calibrated filter paper strips (35 × 5 mm) are placed in the conjunctival sac of the temporal third of the lower eyelid and, with the patient’s eyes closed, wetting of the strip is measured after 5 minutes ( Figure 6 ). There are large inter- and intraindividual differences, which make the evaluation difficult. However, both the variation range and the absolute values are reduced in aqueous-deficient dry eye, probably because of the reduced reflex tear secretion ( 1 ). Values of 5 or less are certainly pathological ( 1 ). 
+ Figure 6. 
+ 
+ Open in a new tab 
+ Schirmer test to measure tear secretion The Jones basal secretion test is performed like the Schirmer I test, but after topical anesthesia. Test results are about 40% lower than in Schirmer I ( 23 ) and are also subject to marked inter- and intraindividual fluctuations. In theory, this test measures only the basal secretion, without reflex tears. 
+ Tear film break-up time. 
+ The tear film break-up time describes the stability of the tear film. Normal values are between 20 and 30 seconds. Values below 10 seconds are definitely pathological. Other additional investigations 
+ Tear film osmolarity/MMP-9 test 
+ Measuring tear film osmolarity is regarded as an important further test in the diagnosis of dry eye. A portable osmometer suitable for tear film analysis in routine clinical practice is currently under evaluation in clinical trials ( e30 , e31 ). A quick test to determine matrix metalloproteinase-9 (MMP-9) in the tear film of patients with dry eye disease is also being currently evaluated in clinical trials ( e32 ). Because of the paucity of data, however, and partially conflicting results, neither of these techniques is yet part of the standard diagnostic repertoire. Differentiating between aqueous-deficient and hyperevaporative dry eye 
+ Indicators of tear deficiency include a reduced tear meniscus, LIPCOFs, and a low Schirmer I test result. Patients with hyperevaporative dry eye usually show pathological changes to the lid margins, obstructed meibomian gland orifices, and thickened meibomian gland secretion. Tear film break-up time is reduced. Ocular surface damage and elevated tear film osmolarity can occur with both forms. Diagnosing Sjögren’s syndrome 
+ Patients with xerostomia in addition to dry eye must be investigated for the possible presence of Sjögren’s syndrome (SS). 
+ The revised criteria of the European–American Consensus Group for the diagnosis of Sjögren’s syndrome are summerized in Box 4 ( 24 ). If four of the six criteria are fulfilled, a diagnosis of Sjögren’s syndrome can be made ( 24 ). 
+ Box 4. Diagnosing Sjögren’s syndrome. 
+ For a diagnosis of Sjögren’s syndrome, four of the six criteria must be fulfilled ( 24 ) 
+ 
+ Subjective description of oral symptoms by the patient 
+ Subjective description of ocular symptoms by the patient 
+ Objective signs of oral dryness. 
+ Oral dryness is determined by unstimulated salivary flow rate and/or Saxon test. 
+ Objective signs of ocular dryness. 
+ Dry eye disease is diagnosed on the basis of a reduced Schirmer test result, reduced tear film break-up time, and/or positive ocular surface staining. 
+ Histopathological evidence of infiltrating lymphocytes in minor salivary glands 
+ Evidence of serum autoantibodies, especially antibodies to Ro(SSA) or La(SSB) antigens 
+ Tear film osmolarity. 
+ Measuring tear film osmolarity is regarded as an important further test in the diagnosis of dry eye disease. A portable osmometer suitable for tear film analysis in routine clinical use is currently being tested in clinical trials. If SSA/SSB diagnostic testing is negative, a positive ANA (antinuclear antibody) test or positive rheumatoid factors may be indicative ( 25 ). Treatment of dry eye disease 
+ Patient education is important and includes the facts that dry eye is a chronic disease, that treatment is long-term and may be slow to take effect. Treatment for dry eye disease involves a step ladder approach corresponding to disease severity and must take into account associated meibomian gland dysfunction, (subclinical) inflammation of the ocular surface, and/or associated systemic disease ( 16 ). 
+ The avoidance of aggravating factors such as cigarette smoke, dry heating air, air conditioning, and others is a fundamental part of treatment. 
+ Sjögren’s syndrome. 
+ Patients with dry eye and xerostomia must be investigated for Sjögren’s syndrome. Artificial tears 
+ Artificial tears are the mainstay of therapy for all severity grades of dry eye. Although artificial tears are regarded as standard, no large, randomized, controlled studies have been carried out to evaluate the many different kinds of artificial tears available in the market. The licensing of artificial tears, most of which are marketed as CE products, is not based on their clinical effectiveness. Small randomized studies have shown that artificial tears 
+ 
+ Increase tear film stability 
+ Reduce ocular surface stress 
+ Improve contrast sensitivity and the optical quality of the surface 
+ Are able to increase quality of life ( e33 – e38 ). 
+ 
+ A large number of preparations based on polyvinyl alcohol, povidone, hydroxypropyl guar, cellulose derivatives, and hyaluronic acid are available. Depending on the severity of disease, a whole range of substances from low-viscosity preparations to high-viscosity gels (carbomeres) and ointments can be used ( 16 ). As a matter of principle, for ocular surface disorders, products should be recommended that do not contain benzalkonium chloride (an epitheliotoxin) as a preservative ( 26 ). For meibomian gland dysfunction, artificial tears containing lipids such as triglycerides, phospholipids, and castor oil are available. In small randomized, controlled trials these led to improved meibomian gland function and increased tear film stability ( 27 , e39 – e41 ). 
+ Eyedrops made from the patient’s own serum (autologous serum eyedrops) are used in a concentration of 20% to 100%. They contain a multitude of epitheliotropic growth factors and anti-inflammatory substances. Autologous serum eyedrops are used particularly in severe cases of dry eye. Their production is regulated by the German Medicines Act and Transfusion Law ( 28 ). A randomized, controlled study in patients with severe dry eye disease showed a significant improvement in tear film stability and subjective symptoms but no reduction in surface staining with autologous serum eyedrops compared to preservative-free artificial tears ( 29 ). 
+ Artificial tears…. 
+ 
+ increase tear film stability, 
+ reduce surface stress, 
+ improve the contrast sensitivity and optical quality of the surface, and 
+ increase quality of life. 
+ Anti-inflammatory treatment 
+ Even with only moderately severe dry eye, there is an (often subclinical) inflammatory reaction of the ocular surface and the lacrimal gland ( 2 , 3 ). To break the vicious circle of surface damage and inflammation, anti-inflammatory treatment is required in patients with moderate to severe dry eye disease. Topical corticosteroids 
+ Randomized, controlled clinical studies have shown that unpreserved corticosteroid eyedrops, instilled over a period of 2 to 4 weeks, improve the symptoms and clinical signs of moderate to severe dry eye disease ( 30 , 31 ). After 2 weeks of treatment, symptoms regressed moderately (43%) or completely (57%). Corneal fluorescein staining reduced significantly. Patient discomfort and clinical signs remained reduced for several weeks after therapy ceased ( 30 , 31 ). A few patients developed complications with long-term therapy (raised intraocular pressure, cataract), and for this reason corticosteroid eyedrops are recommended only for short-term use ( 30 ). A cycle of treatment is also useful for testing patients’ response for long-term anti-inflammatory treatment with cyclosporine A. 
+ Anti-inflammatory treatment. 
+ In patients with moderate to severe dry eye disease, anti-inflammatory treatment is necessary to break the vicious circle of surface damage and inflammation. Topical cyclosporine A 
+ Cyclosporine A is an immunosuppressant that inhibits the calcineurin–phosphatase pathway by complex formation with cyclophilin, and thus reduces the transcription of T-cell-activating cytokines such as interleukin-2 (IL-2) ( e42 ). Topical application of cyclosporine A leads to increased production of tear fluid, possibly via local release of parasympathetic neurotransmitters ( e43 ). In randomized, controlled clinical trials, treatment with 0.05% eyedrops 2 ×/day led to improvement in keratopathy, increased Schirmer test values, reduced symptoms (blurry vision, ocular dryness, foreign body sensation, and epiphora), and a reduction in the use of artificial tears ( 32 , e44 , e45 ). This clinical improvement was associated with a reduction in inflammatory cells and inflammatory markers on the ocular surface ( e46 , e47 ) and an increase in the number of goblet cells in the conjunctiva ( e45 ). Cyclosporine A eyedrops 0.05% are commercially available as a long-term therapeutic agent in the USA. In Germany, cyclosporine A can be prescribed as extemporaneous product from dispensing pharmacies. 
+ Corticosteroid eyedrops. 
+ Unpreserved corticosteroid eyedrops, instilled over a period of 2 to 4 weeks, improve the symptoms and clinical signs of moderate to severe dry eye disease. Tacrolimus/pimecrolimus 
+ Tacrolimus 0.03% eyedrops 1 to 2 ×/day have been successfully used in pilot studies and in small uncontrolled interventional case series in patients with severe dry eye disease. They appear to be as effective as cyclosporine A and are used in patients who cannot tolerate cyclosporine A ( e48 , e49 ). Tacrolimus/pimecrolimus skin ointment has been reported as successfully used on the eyelids 1 to 2 ×/day in treatment-resistant blepharokeratoconjunctivitis ( e50 ). Tetracyclines 
+ Tetracyclines are bacteriostatic antibiotics with anti-inflammatory effect. They reduce the synthesis and activity of matrix metalloproteinases, the production of interleukin-1 (IL-1) and tumor necrosis factor, collagenase activity, and B-cell activation ( e51 , e52 ). Tetracycline analogs have been successfully used in small controlled studies to treat meibomian gland dysfunction and rosacea ( 33 , e53 ). Dosages varied between 40 and 400 mg/day for doxycycline and between 50 and 100 mg/day for minocycline. Even at low doses, improvements were seen in tear film stability, tear production, and symptoms ( 33 ). Because of the significantly higher rate of adverse effects (primarily gastrointestinal and skin problems) at higher dosages, a low dosage for 6 to 12 weeks is recommended ( 16 , 33 ). Macrolides 
+ Azithromycin, in addition to its well-known antibiotic effect, also has anti-inflammatory capacities ( 34 ). Azithromycin 1% has been successfully used in several small evidence-level-2/3 studies to treat blepharitis and meibomian gland dysfunction ( 35 , e54 ). In addition to improved meibomian gland function and symptoms, a reduction in bacterial colonization of the eyelid margins and normalization of the meibomian gland secretion lipid profile were found ( 35 , e54 ). Omega fatty acids 
+ Omega-3 and omega-6 are essential fatty acids for ocular surface homeostasis. They have to be absorbed from food. Omega-3 fatty acids, especially, work by blocking proinflammatory eicosanoids and reducing cytokines through anti-inflammatory activity ( 36 ). In a randomized, controlled clinical study systemic linoleic acid and gamma-linolenic acid given to 26 patients with dry eye disease reduced ocular surface inflammation, surface staining, and symptoms ( 36 ). Very recently, omega-3 fatty acid eyedrops have become available, and are currently under investigation. 
+ Cyclosporine A. 
+ Treatment leads to improvement of keratopathy, increased tear production, reduction of symptoms (blurry vision, eye dryness, foreign body sensation, and tearing), and reduced use of artificial tears. Eyelid hygiene 
+ The melting point of meibomian lipids is between 28 and 32°C. In patients with meibomian gland dysfunction, the melting point rises to 35°C ( e55 ). The amount of lipid released depends on the temperature of the eyelid. Consistent eyelid hygiene is the basic treatment for meibomian gland dysfunction ( 37 ). 
+ Hot compresses, eye lid warming masks or goggles, infrared heaters, and eyelid massage have been investigated in evidence-level-2/3 clinical studies. They led to clinical improvement in eyelid margin morphology with a reduction in blocked meibomian gland excretory ducts, and an increase in tear film stability and lipid layer thickness of the tear film ( e56 – e59 ). The effect of a 12-minute one-time automated thermodynamic treatment was compared with conventional eyelid hygiene 2×/day in a randomized clinical observer-masked study. After 1 and 3 months, a significant improvement in symptoms was seen compared to the conventional treatment. The improvement in expressibility of the meibomian secretion was similar for both treatments ( e60 ). 
+ Macrolides. 
+ In addition to improved symptoms and meibomian gland function, a reduction in bacterial colonization of the eyelid margins and normalization of the meibomian gland secretion lipid profile were found. Punctal plugs 
+ Temporary occlusion of the tear ducts by small collagen or silicone plugs (punctal plugs) is effective in patients with severe aqueous-deficient dry eye disease ( 38 , e61 , e62 ). In a retrospective study, punctal plugs led to an improvement in subjective symptoms in 73.9% of patients, with a significant reduction in surface staining ( 38 ). The most frequent ’complication’ is loss of the plug ( 38 , 39 ). In one prospective observation cohort study, 84.2% of plugs were retained at the end of 3 months, 69.5% after a year, and 55.8% at the end of 2 years ( 39 ). Since delayed tear drainage leads to the persistence of toxic and inflammatory factors on the ocular surface, concomitant anti-inflammatory treatment is indicated ( e63 ). Rarely, the plug migrates into the nasolacrimal duct, resulting in inflammation or pyogenic granuloma, conjunctival epithelial erosion, or epiphora ( 38 , 39 ). Because of the paucity of data, a Cochrane Review dating from 2010 recommended that large, randomized, controlled studies should be carried out to evaluate punctal plugs ( 40 ). 
+ For severe ocular surface disorders in dry eye disease, bandage contact lenses and scleral lenses are available ( e64 ). Surgical options such as tarsorrhaphy, amniotic membrane transplantation, and keratoplasty are used in cases of persistent corneal ulceration and perforation ( 16 ). Salivary glands have occasionally been transplanted to replace lacrimal glands, but in the long term this led to corneal edema and excessive lacrimation ( e65 ). 
+ To summarize, dry eye is a common disease, the differential diagnosis of which requires 
+ 
+ Careful history taking 
+ Detailed examination 
+ A series of diagnostic tests. 
+ 
+ Studies show that tear deficiency alone is rarer than hyperevaporative dry eye. Artificial tears, regular eyelid hygiene, and punctal plugs together with anti-inflammatory treatment constitute the established approach to treatment. For patients with only minor symptoms, e.g., when working at a VDU, the primary care physician can try treatment with artificial tears. Patients with persistent moderate to severe clinical symptoms should be referred to an ophthalmologist for diagnosis and treatment. 
+ Punctal plugs. 
+ Temporary occlusion of the tear ducts by small collagen or silicone plugs (punctal plugs) is effective in patients with severe aqueous-deficient dry eye disease. Severe ocular surface disease. 
+ For severe surface disease in dry eye, bandage contact lenses and scleral lenses are available. Eyelid hygiene. 
+ Eyelid hygiene is the basis of successful treatment of meibomian gland dysfunction. Further information on CME. 
+ This article has been certified by the North Rhine Academy for Postgraduate and Continuing Medical Education. 
+ Deutsches Ärzteblatt provides certified continuing medical education (CME) in accordance with the requirements of the Medical Associations of the German federal states (Länder). CME points of the Medical Associations can be acquired only through the Internet, not by mail or fax, by the use of the German version of the CME questionnaire within 6 weeks of publication of the article. See the following website: cme.aerzteblatt.de 
+ Participants in the CME program can manage their CME points with their 15-digit “uniform CME number” (einheitliche Fortbildungsnummer, EFN). The EFN must be entered in the appropriate field in the cme.aerzteblatt.de website under “meine Daten” (“my data”), or upon registration. The EFN appears on each participant’s CME certificate. 
+ This CME unit can be accessed until 26 April 2015. 
+ Earlier CME units can be accessed until the dates indicated: 
+ “Carpal tunnel syndrome” (issue 1–2/2015)
+until 29 March 2015 
+ “Chronic Obstructive Pulmonary Disease“ (issue 49/2014) 
+until 1 March 2015 
+ “Chronic and Treatment Resistant Depression“ (issue 45/2014)
+until 1 February 2015 Please answer the following questions to participate in our certified Continuing Medical Education program. Only one answer is possible per question. Please select the answer that is most appropriate. 
+ Question 1 
+ Which of the following tear film break-up times is considered pathological? 
+ 
+ 1 to 9 seconds 
+ 10 to 19 seconds 
+ 20 to 29 seconds 
+ 30 to 39 seconds 
+ 40 to 49 seconds 
+ 
+ Question 2 
+ Which of the following is a risk factor with a high level of evidence for developing dry eye disease? 
+ 
+ Taking antihistamines 
+ Taking antibiotics 
+ Pregnancy 
+ Taking antipsychotics 
+ Taking anticholinergics 
+ 
+ Question 3 
+ Which of the following is an important pathogenetic factor in dry eye disease? 
+ 
+ Sympathetic nerve disorder 
+ (Sub)acute inflammatory reaction of the ocular surface 
+ Hypo-osmolar tear film 
+ Abnormal calcitonin metabolism 
+ Reduced perfusion of the lacrimal artery 
+ 
+ Question 4 
+ What is a typical clinical sign of severe dry eye disease? 
+ 
+ Ptosis (drooping eyelid) 
+ Pain in the area of the draining nasolacrimal ducts 
+ Swelling in the area of the lacrimal gland 
+ Intraocular irritation 
+ Filamentary keratitis 
+ 
+ Question 5 
+ What is a nonspecific symptom of dry eye disease? 
+ 
+ Hemeralopia 
+ Halos 
+ Double vision 
+ Flashes of light 
+ Photophobia 
+ 
+ Question 6 
+ Which of the following dyes is available for vital staining of the ocular surface? 
+ 
+ Brilliant cresyl blue 
+ Lissamine green 
+ Neutral red 
+ Acrinidine orange 
+ Nile blue sulfate 
+ 
+ Question 7 
+ Of what is the tear film break-up time an indicator? 
+ 
+ Perfusion 
+ Astigmatism 
+ Tear film stability 
+ Inflammation of the cornea 
+ Glaucoma 
+ 
+ Question 8 
+ How are measurements made in the Schirmer test? 
+ 
+ Applanation tonometry 
+ Turville’s infinity balance test 
+ A hydrometer 
+ Standardized strips of filter paper 
+ The Amsler test 
+ 
+ Question 9 
+ What treatment is appropriate in a patient with meibomian gland dysfunction? 
+ 
+ Brief treatment with homeopathic agents 
+ Eye exercises/visual training 
+ Lipid-containing artificial tears 
+ Long-term anti-inflammatory treatment with topical corticosteroids 
+ Systemic antihistamine therapy 
+ 
+ Question 10 
+ Which of the following treatments led in small clinical trials to improved eyelid findings? 
+ 
+ Use of aconite (Aconitum napellus) 
+ Hot compresses 
+ Cold compresses 
+ Eye exercises 
+ Acupressure 
+ Acknowledgments 
+ Translated from the original German by Kersti Wagstaff, MA. Footnotes 
+ 
+ Conflict of interest statement 
+ Professor Messmer has received consultancy fees, fees for the preparation of scientific continuing education events, reimbursement of conference attendance fees and of travel and accommodation costs, and fees for carrying out clinical trials, from the following firms: Alcon Pharma, Bitop, Bausch & Lomb/Dr. Mann Pharma, Croma Pharma, Oculus Optikgeräte, Pharm-Allergan, Santen, Thea Pharma, and Ursapharm. 
+ References 
+ 
+ 
+ 1. The definition and classification of dry eye disease: report of the Definition and Classification Subcommittee of the International Dry Eye WorkShop. Ocul Surf. 2007;5:75–92. doi: 10.1016/s1542-0124(12)70081-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Stern ME, Schaumburg CS, Pflugfelder SC. Dry eye as a mucosal autoimmune disease. Int Rev Immunol. 2013;32:19–41. doi: 10.3109/08830185.2012.748052. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Stevenson W, Chauhan SK, Dana R. Dry eye disease: an immune-mediated ocular surface disorder. Arch Ophthalmol. 2012;130:90–100. doi: 10.1001/archophthalmol.2011.364. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Lemp MA, Crews LA, Bron AJ, Foulks GN, Sullivan BD. Distribution of aqueous-deficient and evaporative dry eye in a clinic-based patient cohort: a retrospective study. Cornea. 2012;31:472–478. doi: 10.1097/ICO.0b013e318225415a. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Chia EM, Mitchell P, Rochtchina E, Lee AJ, Maroun R, Wang JJ. Prevalence and associations of dry eye syndrome in an older population: the Blue Mountains Eye Study. Clin Exp Ophthalmol. 2003;31:229–232. doi: 10.1046/j.1442-9071.2003.00634.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Schaumberg DA, Sullivan DA, Buring JE, Dana MR. Prevalence of dry eye syndrome among US women. Am J Ophthalmol. 2003;136:318–326. doi: 10.1016/s0002-9394(03)00218-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Ruprecht KW, Giere W, Wulle KG. Statistical contribution on symptomatic dry eye. Ophthalmologica. 1977;174:65–74. doi: 10.1159/000308580. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Bron AJ, Tomlinson A, Foulks GN, et al. Rethinking dry eEye disease: A perspective on clinical implications. Ocul Surf. 2014;12:1–31. doi: 10.1016/j.jtos.2014.02.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Ridder WH, Zhang Y, Huang JF. Evaluation of reading speed and contrast sensitivity in dry eye disease. Optom Vis Sci. (3rd) 2013;90:37–44. doi: 10.1097/OPX.0b013e3182780dbb. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Deschamps N, Ricaud X, Rabut G, Labbe A, Baudouin C, Denoyer A. The impact of dry eye disease on visual performance while driving. Am J Ophthalmol. 2013;156:184–189. doi: 10.1016/j.ajo.2013.02.019. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Li M, Gong L, Chapin WJ, Zhu M. Assessment of vision-related quality of life in dry eye patients. Invest Ophthalmol Vis Sci. 2012;53:5722–5727. doi: 10.1167/iovs.11-9094. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Schiffman RM, Walt JG, Jacobsen G, Doyle JJ, Lebovics G, Sumner W. Utility assessment among patients with dry eye disease. Ophthalmology. 2003;110:1412–1419. doi: 10.1016/S0161-6420(03)00462-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Labbe A, Wang YX, Jie Y, Baudouin C, Jonas JB, Xu L. Dry eye disease, dry eye symptoms and depression: the Beijing Eye Study. Br J Ophthalmol. 2013;97:1399–1403. doi: 10.1136/bjophthalmol-2013-303838. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Yu J, Asche CV, Fairchild CJ. The economic burden of dry eye disease in the United States: a decision tree analysis. Cornea. 2011;30:379–387. doi: 10.1097/ICO.0b013e3181f7f363. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Foulks GN, Bron AJ. Meibomian gland dysfunction: a clinical scheme for description, diagnosis, classification, and grading. Ocul Surf. 2003;1:107–126. doi: 10.1016/s1542-0124(12)70139-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Management and therapy of dry eye disease: report of the Management and Therapy Subcommittee of the International Dry Eye WorkShop (2007) Ocul Surf. 2007;5:163–178. doi: 10.1016/s1542-0124(12)70085-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Sullivan BD, Crews LA, Messmer EM, et al. Correlations between commonly used objective signs and symptoms for the diagnosis of dry eye disease: clinical implications. Acta Ophthalmol. 2014;92:161–166. doi: 10.1111/aos.12012. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Methodologies to diagnose and monitor dry eye disease: Report of the Diagnostic Methodology Subcommittee of the International Dry Eye WorkShop (2007) Ocul Surf. 2007;5:108–152. doi: 10.1016/s1542-0124(12)70083-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Johnston PR, Rodriguez J, Lane KJ, Ousler G, Abelson MB. The interblink interval in normal and dry eye subjects. Clin Ophthalmol. 2013;7:253–259. doi: 10.2147/OPTH.S39104. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Arita R, Itoh K, Inoue K, Amano S. Noncontact infrared meibography to document age-related changes of the meibomian glands in a normal population. Ophthalmology. 2008;115:911–915. doi: 10.1016/j.ophtha.2007.06.031. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Nemeth J, Fodor E, Lang Z, et al. Lid-parallel conjunctival folds (LIPCOF) and dry eye: a multicentre study. Br J Ophthalmol. 2012;96:1380–1385. doi: 10.1136/bjophthalmol-2012-301580. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Höh H, Schirra F, Kienecker C, Ruprecht KW. Lid-parallel conjunctival folds are a sure diagnostic sign of dry eye. Ophthalmologe. 1995;92:802–808. [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Jacobi C, Cursiefen C. Ophthalmological complications in Sjogren’s syndrome. Z Rheumatol. 2010;69:32–40. doi: 10.1007/s00393-009-0517-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Vitali C, Bombardieri S, Jonsson R, et al. Classification criteria for Sjogren’s syndrome: a revised version of the European criteria proposed by the American-European Consensus Group. Ann Rheum Dis. 2002;61:554–558. doi: 10.1136/ard.61.6.554. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Liew MS, Zhang M, Kim E, Akpek EK. Prevalence and predictors of Sjogren’s syndrome in a prospective cohort of patients with aqueous-deficient dry eye. Br J Ophthalmol. 2012;96:1498–1503. doi: 10.1136/bjophthalmol-2012-301767. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Messmer EM. Preservatives in ophthalmology. Ophthalmologe. 2012;109:1064–1070. doi: 10.1007/s00347-012-2638-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Lee SY, Tong L. Lipid-containing lubricants for dry eye: a systematic review. Optom Vis Sci. 2012;89:1654–1661. doi: 10.1097/OPX.0b013e31826f32e0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Geerling G, Unterlauft JD, Kasper K, Schrader S, Opitz A, Hartwig D. Autologous serum and alternative blood products for the treatment of ocular surface disorders. Ophthalmologe. 2008;105:623–631. doi: 10.1007/s00347-008-1750-y. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Celebi AR, Ulusoy C, Mirza GE. The efficacy of autologous serum eye drops for severe dry eye syndrome: a randomized double-blind crossover study. Graefes Arch Clin Exp Ophthalmol. 2014;252:619–626. doi: 10.1007/s00417-014-2599-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Marsh P, Pflugfelder SC. Topical nonpreserved methylprednisolone therapy for keratoconjunctivitis sicca in Sjogren syndrome. Ophthalmology. 1999;106:811–816. doi: 10.1016/S0161-6420(99)90171-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Pflugfelder SC, Maskin SL, Anderson B, et al. A randomized, double-masked, placebo-controlled, multicenter comparison of loteprednol etabonate ophthalmic suspension, 05%, and placebo for treatment of keratoconjunctivitis sicca in patients with delayed tear clearance. Am J Ophthalmol. 2004;138:444–457. doi: 10.1016/j.ajo.2004.04.052. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Sall K, Stevenson OD, Mundorf TK, Reis BL. Two multicenter, randomized studies of the efficacy and safety of cyclosporine ophthalmic emulsion in moderate to severe dry eye disease. CsA Phase 3 Study Group. Ophthalmology. 2000;107:631–639. doi: 10.1016/s0161-6420(99)00176-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Yoo SE, Lee DC, Chang MH. The effect of low-dose doxycycline therapy in chronic meibomian gland dysfunction. Korean J Ophthalmol. 2005;19:258–263. doi: 10.3341/kjo.2005.19.4.258. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Sadrai Z, Hajrasouliha AR, Chauhan S, Saban DR, Dastjerdi MH, Dana R. Effect of topical azithromycin on corneal innate immune responses. Invest Ophthalmol Vis Sci. 2011;52:2525–2531. doi: 10.1167/iovs.10-5658. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Foulks GN, Borchman D, Yappert M, Kim SH, McKay JW. Topical azithromycin therapy for meibomian gland dysfunction: clinical response and lipid alterations. Cornea. 2010;29:781–788. doi: 10.1097/ICO.0b013e3181cda38f. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Barabino S, Rolando M, Camicione P, et al. Systemic linoleic and gamma-linolenic acid therapy in dry eye syndrome with an inflammatory component. Cornea. 2003;22:97–101. doi: 10.1097/00003226-200303000-00002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Geerling G, Tauber J, Baudouin C, et al. The international workshop on meibomian gland dysfunction: report of the subcommittee on management and treatment of meibomian gland dysfunction. Invest Ophthalmol Vis Sci. 2011;52:2050–2064. doi: 10.1167/iovs.10-6997g. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Tai MC, Cosar CB, Cohen EJ, Rapuano CJ, Laibson PR. The clinical efficacy of silicone punctal plug therapy. Cornea. 2002;21:135–139. doi: 10.1097/00003226-200203000-00001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Horwath-Winter J, Thaci A, Gruber A, Boldin I. Long-term retention rates and complications of silicone punctal plugs in dry eye. Am J Ophthalmol. 2007;144:441–444. doi: 10.1016/j.ajo.2007.05.019. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Ervin AM, Wojciechowski R, Schein O. Punctal occlusion for dry eye syndrome. Cochrane Database Syst Rev. 2010 doi: 10.1002/14651858.CD006775.pub2. CD006775. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ e1. Goyal S, Chauhan SK, El Annan J, et al. Evidence of corneal lymphangiogenesis in dry eye disease: a potential link to adaptive immunity? Arch Ophthalmol. 2010;128:819–824. doi: 10.1001/archophthalmol.2010.124. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ e2. Heiligenhaus A, Koch JM, Kruse FE, Schwarz C, Waubke TN. Diagnosis and and differentiation of dry eye disorders]. Diagnostik und Differenzierung von Benetzungsstörungen. Der Ophthalmologe. 1995;92:6–11. [ PubMed ] [ Google Scholar ] 
+ 
+ e3. Tong L, Chaurasia SS, Mehta JS, Beuerman RW. Screening for meibomian gland disease: its relation to dry eye subtypes and symptoms in a tertiary referral clinic in singapore. Invest Ophthalmol Vis Sci. 2010;51:3449–3454. doi: 10.1167/iovs.09-4445. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e4. Lin PY, Tsai SY, Cheng CY, et al. Prevalence of dry eye among an elderly Chinese population in Taiwan: the Shihpai Eye Study. Ophthalmology. 2003;110:1096–1101. doi: 10.1016/S0161-6420(03)00262-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e5. McCarty CA, Bansal AK, Livingston PM, Stanislavsky YL, Taylor HR. The epidemiology of dry eye in Melbourne, Australia. Ophthalmology. 1998;105:1114–1119. doi: 10.1016/S0161-6420(98)96016-X. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e6. Moss SE, Klein R, Klein BE. Prevalence of and risk factors for dry eye syndrome. Arch Ophthalmol. 2000;118:1264–1268. doi: 10.1001/archopht.118.9.1264. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e7. Schein OD, Hochberg MC, Munoz B, et al. Dry eye and dry mouth in the elderly: a population-based assessment. Archiv Intern Med. 1999;159:1359–1363. doi: 10.1001/archinte.159.12.1359. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e8. Kim JH, Kim JH, Nam WH, et al. Oral alcohol administration disturbs tear film and ocular surface. Ophthalmology. 2012;119:965–971. doi: 10.1016/j.ophtha.2011.11.015. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e9. Thomas J, Jacob GP, Abraham L, Noushad B. The effect of smoking on the ocular surface and the precorneal tear film. Australas Med J. 2012;5:221–226. doi: 10.4066/AMJ.2012.1035. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ e10. Liu Z, Pflugfelder SC. Corneal surface regularity and the effect of artificial tears in aqueous tear deficiency. Ophthalmology. 1999;106:939–943. doi: 10.1016/S0161-6420(99)00513-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e11. Miljanovic B, Dana R, Sullivan DA, Schaumberg DA. Impact of dry eye syndrome on vision-related quality of life. Am J Ophthalmol. 2007;143:409–415. doi: 10.1016/j.ajo.2006.11.060. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ e12. Sullivan RM, Cermak JM, Papas AS, Dana MR, Sullivan DA. Economic and quality of life impact of dry eye symptoms in women with Sjogren’s syndrome. Adv Exp Med Biol. 2002;506:1183–1188. doi: 10.1007/978-1-4615-0717-8_167. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e13. Paulsen AJ, Cruickshanks KJ, Fischer ME, et al. Dry eye in the beaver dam offspring study: prevalence, risk factors, and health-related quality of life. Am J Ophthalmol. 2014;157:799–806. doi: 10.1016/j.ajo.2013.12.023. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ e14. Golubovic S, Parunovic A. Corneal perforation in dry eye patients. Fortschr Ophthalmol. 1987;84:33–37. [ PubMed ] [ Google Scholar ] 
+ 
+ e15. Inagaki E, Ogawa Y, Matsumoto Y, et al. Four cases of corneal perforation in patients with chronic graft-versus-host disease. Mol Vis. 2011;17:598–606. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ e16. Krachmer JH, Laibson PR. Corneal thinning and perforation in Sjogren’s syndrome. Am J Ophthalmol. 1974;78:917–920. doi: 10.1016/0002-9394(74)90801-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e17. Messmer EM, Hoops JP, Kampik A. Bilateral recurrent calcareous degeneration of the cornea. Cornea. 2005;24:498–502. doi: 10.1097/01.ico.0000151559.32613.0b. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e18. Petroutsos G, Paschides CA, Kitsos G, Drosos AA, Psilas K. Sterile corneal ulcers in dry eye. II. Treatment, complications and course. J Fr Ophtalmol. 1992;15:106–111. [ PubMed ] [ Google Scholar ] 
+ 
+ e19. Pfister RR, Murphy GE. Corneal ulceration and perforation associated with Sjogren’s syndrome. Archiv Ophthalmol. 1980;98:89–94. doi: 10.1001/archopht.1980.01020030091006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e20. Stevenson W, Shikari H, Saboo US, Amparo F, Dana R. Bilateral corneal ulceration in ocular graft-versus-host disease. Clin Ophthalmol. 2013;7:2153–2158. doi: 10.2147/OPTH.S51180. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ e21. Turgut B, Aydemir O, Kaya M, et al. Spontaneous corneal perforation in a patient with lamellar ichthyosis and dry eye. Clin Ophthalmol. 2009;3:611–613. doi: 10.2147/opth.s8407. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ e22. Henrich CF, Ramulu PY, Akpek EK. Association of dry eye and inflammatory systemic diseases in a tertiary care-based sample. Cornea. 2014;33:819–825. doi: 10.1097/ICO.0000000000000173. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e23. Abetz L, Rajagopalan K, Mertzanis P, et al. Development and validation of the impact of dry eye on everyday life (IDEEL) questionnaire, a patient-reported outcomes (PRO) measure for the assessment of the burden of dry eye on patients. Health Qual Life Outcomes. 2011;9 doi: 10.1186/1477-7525-9-111. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ e24. Schiffman RM, Christianson MD, Jacobsen G, Hirsch JD, Reis BL. Reliability and validity of the Ocular Surface Disease Index. Archiv Ophthalmol. 2000;118:615–621. doi: 10.1001/archopht.118.5.615. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e25. Bentivoglio AR, Bressman SB, Cassetta E, et al. Analysis of blink rate patterns in normal subjects. Mov Disord. 1997;12:1028–1034. doi: 10.1002/mds.870120629. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e26. Freudenthaler N, Neuf H, Kadner G, Schlote T. Characteristics of spontaneous eyeblink activity during video display terminal use in healthy volunteers. Graefes Arch Clin Exp Ophthalmol. 2003;241:914–920. doi: 10.1007/s00417-003-0786-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e27. Bron AJ, Yokoi N, Gaffney EA, Tiffany JM. A solute gradient in the tear meniscus. I. A hypothesis to explain Marx’s line. Ocul Surf 201. 9:70–91. doi: 10.1016/s1542-0124(11)70014-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e28. Werkmeister RM, Alex A, Kaya S, et al. Measurement of tear film thickness using ultrahigh-resolution optical coherence tomography. Invest Ophthalmol Vis Sci. 2013;54:5578–5583. doi: 10.1167/iovs.13-11920. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e29. Mainstone JC, Bruce AS, Golding TR. Tear meniscus measurement in the diagnosis of dry eye. Curr Eye Res. 1996;15:653–661. doi: 10.3109/02713689609008906. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e30. Lemp MA, Bron AJ, Baudouin C, et al. Tear osmolarity in the diagnosis and management of dry eye disease. Am J Ophthalmol. 2011;151:792–798. doi: 10.1016/j.ajo.2010.10.032. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e31. Messmer EM, Bulgen M, Kampik A. Hyperosmolarity of the tear film in dry eye syndrome. Dev Ophthalmol. 2010;45:129–138. doi: 10.1159/000315026. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e32. Sambursky R, Davitt WF, Latkany R, et al. Sensitivity and specificity of a point-of-care matrix metalloproteinase 9 immunoassay for diagnosing inflammation related to dry eye. JAMA Ophthalmol. (3rd) 2013;131:24–28. doi: 10.1001/jamaophthalmol.2013.561. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e33. Barabino S, Rolando M, Nardi M, et al. The effect of an artificial tear combining hyaluronic acid and tamarind seeds polysaccharide in patients with moderate dry eye syndrome: a new treatment for dry eye. Eur J Ophthalmol. 2014;24:173–178. doi: 10.5301/ejo.5000355. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e34. Cohen S, Martin A, Sall K. Evaluation of clinical outcomes in patients with dry eye disease using lubricant eye drops containing polyethylene glycol or carboxymethylcellulose. Clin Ophthalmol. 2014;8:157–164. doi: 10.2147/OPTH.S53822. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ e35. Diaz-Valle D, Arriola-Villalobos P, Garcia-Vidal SE, et al. Effect of lubricating eyedrops on ocular light scattering as a measure of vision quality in patients with dry eye. J Cataract Refract Surg. 2012;38:1192–1197. doi: 10.1016/j.jcrs.2012.02.040. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e36. Doughty MJ. Fluorescein-tear breakup time as an assessment of efficacy of tear replacement therapy in dry eye patients: a systematic review and meta-analysis. Ocul Surf. 2014;12:100–111. doi: 10.1016/j.jtos.2013.11.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e37. Lee JH, Ahn HS, Kim EK, Kim TI. Efficacy of sodium hyaluronate and carboxymethylcellulose in treating mild to moderate dry eye disease. Cornea. 2011;30:175–179. doi: 10.1097/ICO.0b013e3181e9adcc. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e38. Zhang Y, Potvin R, Gong L. A study of the short-term effect of artificial tears on contrast sensitivity in patients with Sjogren’s syndrome. Invest Ophthalmol Vis Sci. 2013;54:7977–7982. doi: 10.1167/iovs.13-11798. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e39. Craig JP, Purslow C, Murphy PJ, Wolffsohn JS. Effect of a liposomal spray on the pre-ocular tear film. Cont Lens Anterior Eye. 2010;33:83–87. doi: 10.1016/j.clae.2009.12.007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e40. Goto E, Shimazaki J, Monden Y, et al. Low-concentration homogenized castor oil eye drops for noninflamed obstructive meibomian gland dysfunction. Ophthalmology. 2002;109:2030–2035. doi: 10.1016/s0161-6420(02)01262-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e41. Khanal S, Tomlinson A, Pearce EI, Simmons PA. Effect of an oil-in-water emulsion on the tear physiology of patients with mild to moderate dry eye. Cornea. 2007;26:175–181. doi: 10.1097/ICO.0b013e31802b492d. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e42. Matsuda S, Koyasu S. Mechanisms of action of cyclosporine. Immunopharmacology. 2000;47:119–125. doi: 10.1016/s0162-3109(00)00192-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e43. Yoshida A, Fujihara T, Nakata K. Cyclosporin A increases tear fluid secretion via release of sensory neurotransmitters and muscarinic pathway in mice. Exp Eye Res. 1999;68:541–546. doi: 10.1006/exer.1998.0619. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e44. Baiza-Duran L, Medrano-Palafox J, Hernandez-Quintela E, Lozano-Alcazar J, Alaniz-de la OJ. A comparative clinical trial of the efficacy of two different aqueous solutions of cyclosporine for the treatment of moderate-to-severe dry eye syndrome. Br J Ophthalmol. 2010;94:1312–1315. doi: 10.1136/bjo.2008.150011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e45. Demiryay E, Yaylali V, Cetin EN, Yildirim C. Effects of topical cyclosporine a plus artificial tears versus artificial tears treatment on conjunctival goblet cell density in dysfunctional tear syndrome. Eye Contact Lens. 2011;37:312–315. doi: 10.1097/ICL.0b013e31822563be. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e46. Kunert KS, Tisdale AS, Stern ME, Smith JA, Gipson IK. Analysis of topical cyclosporine treatment of patients with dry eye syndrome: effect on conjunctival lymphocytes. Arch Ophthalmol. 2000;118:1489–1496. doi: 10.1001/archopht.118.11.1489. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e47. Turner K, Pflugfelder SC, Ji Z, et al. Interleukin-6 levels in the conjunctival epithelium of patients with dry eye disease treated with cyclosporine ophthalmic emulsion. Cornea. 2000;19:492–496. doi: 10.1097/00003226-200007000-00018. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e48. Moscovici BK, Holzchuh R, Chiacchio BB, et al. Clinical treatment of dry eye using 003% tacrolimus eye drops. Cornea. 2012;31:945–949. doi: 10.1097/ICO.0b013e31823f8c9b. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e49. Sanz-Marco E, Udaondo P, Garcia-Delpech S, Vazquez A, Diaz-Llopis M. Treatment of refractory dry eye associated with graft versus host disease with 003% tacrolimus eyedrops. J Ocul Pharmacol Ther. 2013;29:776–783. doi: 10.1089/jop.2012.0265. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ e50. Auw-Hadrich C, Reinhard T. [Treatment of chronic blepharokeratoconjunctivitis with local calcineurin inhibitors]. Behandlung der chronischen Blepharokeratokonjunktivitis mit lokalen Kalzineurininhibitoren. Ophthalmologe. 2009;106:635–638. doi: 10.1007/s00347-009-1954-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e51. Kuzin II, Snyder JE, Ugine GD, et al. Tetracyclines inhibit activated B cell function. Int Immunol. 2001;13:921–931. doi: 10.1093/intimm/13.7.921. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e52. Solomon A, Rosenblatt M, Li DQ, et al. Doxycycline inhibition of interleukin-1 in the corneal epithelium. Invest Ophthalmol Vis Sci. 2000;41:2544–2557. [ PubMed ] [ Google Scholar ] 
+ 
+ e53. Shine WE, McCulley JP, Pandya AG. Minocycline effect on meibomian gland lipids in meibomianitis patients. Exp Eye Res. 2003;76:417–420. doi: 10.1016/s0014-4835(03)00005-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e54. Haque RM, Torkildsen GL, Brubaker K, et al. Multicenter open-label study evaluating the efficacy of azithromycin ophthalmic solution 1% on the signs and symptoms of subjects with blepharitis. Cornea. 2010;29:871–877. doi: 10.1097/ICO.0b013e3181ca38a0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e55. McCulley JP, Shine WE. Meibomian secretions in chronic blepharitis. Adv Exp Med Biol. 1998;438:319–326. doi: 10.1007/978-1-4615-5359-5_45. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e56. Guillon M, Maissa C, Wong S. Eyelid margin modification associated with eyelid hygiene in anterior blepharitis and meibomian gland dysfunction. Eye Contact Lens. 2012;38:319–325. doi: 10.1097/ICL.0b013e318268305a. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e57. Matsumoto Y, Dogru M, Goto E, et al. Efficacy of a new warm moist air device on tear functions of patients with simple meibomian gland dysfunction. Cornea. 2006;25:644–650. doi: 10.1097/01.ico.0000208822.70732.25. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e58. Olson MC, Korb DR, Greiner JV. Increase in tear film lipid layer thickness following treatment with warm compresses in patients with meibomian gland dysfunction. Eye Contact Lens. 2003;29:96–99. doi: 10.1097/01.ICL.0000060998.20142.8D. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e59. Purslow C. Evaluation of the ocular tolerance of a novel eyelid-warming device used for meibomian gland dysfunction. Contact Lens Anterior Eye. 2013;36:226–231. doi: 10.1016/j.clae.2013.02.009. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e60. Finis D, Hayajneh J, Konig C, et al. Evaluation of an automated thermodynamic treatment (LipiFlow®) system for meibomian gland dysfunction: a prospective, randomized, observer-masked trial. Ocul Surf. 2014;12:146–154. doi: 10.1016/j.jtos.2013.12.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e61. Cohen EJ. Punctal occlusion. Arch Ophthalmol. 1999;117:389–390. doi: 10.1001/archopht.117.3.389. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e62. Dursun D, Ertan A, Bilezikci B, Akova YA, Pelit A. Ocular surface changes in keratoconjunctivitis sicca with silicone punctum plug occlusion. Curr Eye Res. 2003;26:263–269. doi: 10.1076/ceyr.26.4.263.15431. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e63. Roberts CW, Carniglia PE, Brazzo BG. Comparison of topical cyclosporine, punctal occlusion, and a combination for the treatment of dry eye. Cornea. 2007;26:805–809. doi: 10.1097/ICO.0b013e318074e460. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e64. Dimit R, Gire A, Pflugfelder SC, Bergmanson JP. Patient ocular conditions and clinical outcomes using a PROSE scleral device. Cont Lens Anterior Eye. 2013;36:159–163. doi: 10.1016/j.clae.2013.02.004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ e65. Geerling G, Collin JR, Dart JK. Ophthalmic experience with submandibular gland transplantation for severe dry eyes. Laryngoscope. 2009;119:1445–1446. doi: 10.1002/lary.20183. [ DOI ] [ PubMed ] [ Google Scholar ]

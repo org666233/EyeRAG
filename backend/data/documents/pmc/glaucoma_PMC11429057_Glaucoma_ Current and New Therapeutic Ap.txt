@@ -1,0 +1,533 @@
+Source: PubMed Central (PMC)
+PMCID: PMC11429057
+Title: Glaucoma: Current and New Therapeutic Approaches
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11429057/
+Year: 2024
+Disease: glaucoma
+Priority: 1
+============================================================
+
+Biomedicines . 2024 Sep 3;12(9):2000. doi: 10.3390/biomedicines12092000 
+ 
+ 
+ Glaucoma: Current and New Therapeutic Approaches 
+ Hsin-Pei Lee 
+ Hsin-Pei Lee 
+ 
+ 1 Department of Ophthalmology, Tri-Service General Hospital, National Defense Medical Center, Taipei 114, Taiwan 
+ Find articles by Hsin-Pei Lee 
+ 
+ 
+ 1 , Ta-Hsin Tsung 
+ Ta-Hsin Tsung 
+ 
+ 1 Department of Ophthalmology, Tri-Service General Hospital, National Defense Medical Center, Taipei 114, Taiwan 
+ Find articles by Ta-Hsin Tsung 
+ 
+ 
+ 1 , Yu-Chien Tsai 
+ Yu-Chien Tsai 
+ 
+ 1 Department of Ophthalmology, Tri-Service General Hospital, National Defense Medical Center, Taipei 114, Taiwan 
+ 
+ 2 Department of Ophthalmology, Taoyuan Armed Forces General Hospital, Taoyuan 325, Taiwan 
+ Find articles by Yu-Chien Tsai 
+ 
+ 
+ 1, 2 , Yi-Hao Chen 
+ Yi-Hao Chen 
+ 
+ 1 Department of Ophthalmology, Tri-Service General Hospital, National Defense Medical Center, Taipei 114, Taiwan 
+ Find articles by Yi-Hao Chen 
+ 
+ 
+ 1 , Da-Wen Lu 
+ Da-Wen Lu 
+ 
+ 1 Department of Ophthalmology, Tri-Service General Hospital, National Defense Medical Center, Taipei 114, Taiwan 
+ Find articles by Da-Wen Lu 
+ 
+ 
+ 1, * 
+ 
+ Editor: Alexander V Ljubimov 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, Tri-Service General Hospital, National Defense Medical Center, Taipei 114, Taiwan 
+ 
+ 2 Department of Ophthalmology, Taoyuan Armed Forces General Hospital, Taoyuan 325, Taiwan 
+ 
+ * Correspondence: ludawen@mail.ndmctsgh.edu.tw ; Tel.: +886-2-87927163 
+ 
+ Roles 
+ 
+ Alexander V Ljubimov : Academic Editor 
+ 
+ 
+ Received 2024 Jun 25; Revised 2024 Aug 26; Accepted 2024 Aug 30; Collection date 2024 Sep. 
+ 
+ © 2024 by the authors. 
+ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ ). 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC11429057  PMID: 39335514 
+ 
+ Abstract 
+ Glaucoma is identified by the loss of retinal ganglion cells (RGCs). The primary approach to managing glaucoma is to control intraocular pressure (IOP). Lately, there has been an increasing focus on neuroprotective therapies for glaucoma because of the limited effectiveness of standard methods in reducing IOP and preventing ongoing vision deterioration in certain glaucoma patients. Various drug-based techniques with neuroprotective properties have demonstrated the ability to decrease the mortality of retinal ganglion cells. This study will analyze the currently recommended drug-based techniques for neuroprotection in the prospective treatment of glaucoma. 
+ Keywords: glaucoma therapeutic approaches, neuroprotection, neurodegeneration, oxidative stress, neuroinflammation, excitotoxicity 1. Introduction 
+ Glaucoma is a group of long-lasting and worsening optic neuropathies that are identified by the reduction of retinal ganglion cells and the consequent problems with vision [ 1 ]. Despite the current lack of complete understanding regarding the precise etiology of the disease, it has been firmly established that altering intraocular pressure (IOP) represents the sole adjustable risk factor for mitigating the potential visual impairment associated with glaucoma. The primary approach for managing adult glaucoma is through medical care, which has shown significant and rapid breakthroughs in therapeutic interventions for this illness [ 2 ]. Lately, there has been an increasing focus on retinal ganglion cells (RGCs) and the specific processes that make them vulnerable to damage and deterioration in the retina and optic nerve. Additionally, there is progress being made in developing medications that protect the nervous system from damage caused by glaucoma. These treatments could be employed in addition to ocular hypotensive methods to better preserve RGCs and minimize visual loss [ 3 , 4 ]. 2. Present IOP-Reducing Medications 
+ In the management of glaucoma, drugs that reduce IOP play a pivotal role. The selection of medication is contingent upon the individual patient’s unique requirements, the precise classification of glaucoma, and any existing contraindications, necessitating constant surveillance to ascertain the efficacy of the treatment and mitigate potential adverse reactions. 
+ 2.1. Beta Adrenergic Antagonists (β-Blockers) 
+ The identification of Beta-adrenergic antagonists (β-blockers) as a potential therapeutic approach for glaucoma was fortuitous and sprang from cardiovascular investigations. During the late 1960s and early 1970s, β-blockers were predominantly formulated and employed for the treatment of cardiovascular ailments such as hypertension and arrhythmias [ 5 ]. Researchers noted that these drugs also influenced IOP, prompting additional investigations into their potential applications in ophthalmology. They prevent sympathetic nerve terminals in the ciliary body’s epithelium from functioning, and blocking adrenergic β-receptors in the ciliary body leads to a reduction of the generation of aqueous humor. This inhibition results in a reduction of the synthesis of aqueous humor. β-blockers can be categorized into two primary categories: nonselective and cardioselective, sometimes known as β1 selective. Individuals with asthma and chronic obstructive pulmonary disease (COPD) have been found to exhibit a higher level of tolerance towards the latter category. β-blockers offer various benefits, such as their cost-effectiveness and the simplicity of once-daily administration [ 6 ]. Research findings indicate that timolol, a β-blocker commonly used, possesses the capacity to substantially diminish IOP by approximately 20–35% [ 7 ]. It emerged as the primary medical therapy for glaucoma and ocular hypertension (OHT) and continued to be the unquestioned first option until the prostaglandin analogs were introduced in 1996 [ 8 ]. 2.2. Adrenergic Agonists 
+ Adrenergic agonists work by inhibiting the synthesis of aqueous humor and enhancing the drainage of uveoscleral fluid from the eye. In practical settings, selective drugs have largely replaced nonselective adrenergic agonists. Currently, brimonidine, which was introduced in the mid-1990s, stands out as the sole medication utilized for long-term treatments in this category. Several studies have shown that giving alpha-agonists can change the amounts and activities of matrix metalloproteinases and the tissue inhibitors that go with them. These proteins have a significant impact on the degradation of the extracellular matrix, which makes it possible for more fluid to flow through the uveoscleral pathway [ 9 ]. 
+ A smaller-scale randomized controlled trial was performed to see how brimonidine treatment affected the sensitivity of contrast in people who had just been diagnosed with glaucoma. The results of this study demonstrated that those who received brimonidine exhibited a statistically significant enhancement in contrast sensitivity compared to those who were administered timolol. The aforementioned observation, regardless of any drop in intraocular pressure, implies the existence of a neuroprotective mechanism in glaucoma [ 10 , 11 ]. 
+ Nevertheless, it is advisable to refrain from utilizing alpha2-adrenergic agonists for topical therapy in pediatric patients below the age of 12, owing to the potential for significant adverse reactions. In certain instances, these deleterious consequences can be highly severe, potentially resulting in a state of unconsciousness in infants and toddlers. 2.3. Carbonic Anhydrase Inhibitors (CAIs) 
+ Carbonic anhydrase inhibitors (CAIs) function by suppressing the activity of the enzyme carbonic anhydrase. This leads to a decrease in the secretion of bicarbonate and aqueous humor. Medications with a significant historical lineage have been used to treat open-angle glaucoma (OAG). Systemic CAIs, such as acetazolamide and methazolamide, have demonstrated efficacy in decreasing IOP in patients with glaucoma with reports demonstrating the efficacy of acetazolamide in reducing IOP as early as 1954. However, their administration is linked to notable adverse effects, including fatigue, abnormal sensations, nausea, dizziness, hypokalemia, nephrolithiasis, and weight loss. Stevens-Johnson syndrome, toxic epidermal necrolysis, and aplastic anemia are infrequent yet severe consequences that may manifest [ 12 , 13 ]. 
+ The development of topical CAIs, like dorzolamide (Trusopt) and brinzolamide (Azopt), has been focused on achieving localized administration in order to minimize the occurrence of systemic side effects. These pharmaceuticals have subsequently emerged as a noteworthy classification, including easily obtainable formulations that have been formulated in conjunction with other prescribed drugs to mitigate IOP [ 14 ]. 
+ Dorzolamide–timolol (Cosopt, FDA authorized in 1998) and brinzolamide–brimonidine (Simbrinza, FDA approved in 2013) are combination medicines that are commonly used to reduce IOP and enhance patient adherence [ 15 ]. Switching from a combination of four drugs to a combination of latanoprost–timolol and brinzolamide–brimonidine resulted in significant improvements in IOP and patient adherence. A further study demonstrated that the combination of brinzolamide–brimonidine with a prostaglandin analogue resulted in a more effective reduction of IOP compared to using a prostaglandin analogue alone [ 16 ]. Both the combination therapy of brinzolamide–brimonidine and dorzolamide–timolol, when provided as a single drop, were found to be equally effective as each of the individual component medicines when administered separately [ 14 ]. CAIs may be employed when second-line beta blockers are contraindicated, although they are frequently more effective when prescribed in conjunction with a beta-blocker [ 17 ]. 2.4. Prostaglandin Analogues (PGAs) 
+ Prostaglandin analogues (PGAs), including tafluprost, latanoprost, travoprost, bimatoprost, and omidenepag isopropyl, have shown to be more effective at managing IOP. Following this, the pursuit of carbonic anhydrase inhibitors, β-blockers, and α-2 agonists is observed in the literature, as indicated by previous research studies [ 18 , 19 ]. 
+ Five classes of prostaglandins exist: prostaglandin E2 (PGE2), F2 (PGF2), I2 (PGI2), D2 (PGD2), and thromboxane A (TXA2). The utilization of PGF2 and prostaglandin FP agonists has resulted in a reduction of IOP. In order to achieve this particular impact, the uveoscleral outflow is augmented in an atypical manner. This process can also be achieved by activating prostaglandin receptors located in the ciliary muscle, iris root, and sclera by relaxing the smooth muscle, modifying the cytoskeleton, and remodeling the extracellular matrix in the uveoscleral pathway [ 20 , 21 ]. Furthermore, it could potentially improve the outflow of aqueous humor by activating the FP receptors found in the trabecular meshwork. 
+ PGAs are the most effective medications for lowering intraocular pressure (IOP), followed by β-blockers, α-2 agonists, and carbonic anhydrase inhibitors [ 22 ]. Several studies have provided evidence indicating that latanoprost (FDA approved in 1996) demonstrates enhanced effectiveness in the reduction of IOP [ 21 , 23 ] and that bimatoprost exhibits greater efficacy in the reduction of IOP in comparison to latanoprost [ 24 ]. Nevertheless, there have been different research outcomes that indicate similar efficacy between the two drugs [ 25 ]. 
+ Adverse effects on the eyes may include redness of the conjunctiva, increased growth of eyelashes, and various forms of pain such as eye irritation, itching, tears, a sensation of a foreign object in the eye, the formation of cysts in the iris, swelling of the macula, inflammation of the front part of the eye, and the reactivation of herpes simplex keratitis [ 26 ]. PGAs have a very safe profile when it comes to systemic side effects. These drugs are non-toxic to the circulatory and respiratory systems and have no negative side effects [ 27 ]. 2.5. Muscarinic Receptor Agonist 
+ Activation of muscarinic receptors in the ciliary muscle leads to an increased outflow of aqueous humor from the eye. The duration of this impact normally ranges from three to five hours. Hence, the administration of pilocarpine eye drops necessitates a minimum of four daily doses, posing challenges for patients in adhering continuously to the recommended therapeutic regimen [ 28 ]. Moreover, the administration of pilocarpine has the potential to elicit extensive parasympathetic reactions, including bronchospasm, heightened salivation, gastrointestinal disturbances, perspiration, and bradycardia, as a result of its activation of the cholinergic system [ 29 ]. 2.6. Hyperosmotic Agent 
+ Hyperosmotic drugs function by diminishing the quantity of aqueous fluid present in the ocular cavity, hence leading to a reduction in IOP. These medications are commonly employed in urgent scenarios or as a preoperative measure to transiently reduce IOP [ 30 ]. This category of pharmaceuticals encompasses orally delivered substances such as glycerin, isosorbide, and mannitol, which is supplied intravenously. 2.7. Rho Kinase Inhibitor 
+ Rho kinase (ROCK) is a serine/threonine protein kinase that serves as an important downstream mediator of Rho signaling [ 31 , 32 , 33 ]. It reduces the density of actin stress fibers, which directly affects the cytoskeleton of the trabecular meshwork and Schlemm’s canal and improves the outflow facility. This differs from the intended goal of other glaucoma medications. Investigation into Rho kinase commenced in the late 1990s and has persisted up to the present day. Recent studies have produced a wealth of information regarding the various possible therapeutic applications of ROCK inhibitors in treating glaucoma, namely in maintaining IOP [ 34 , 35 , 36 , 37 ] and in treating neurodegenerative disease [ 38 ]. There is a limited amount of research examining the therapeutic impact of a Rho kinase inhibitor on diabetic retinopathy and its ability to promote repair in the corneal endothelium. In 2014, Ripasudil was approved in Japan for the particular treatment of ocular hypertension and glaucoma. Then, the efficacy of Rho-kinase inhibitors as anti-glaucoma drugs was validated with the release of Netarsudil in 2017. This drug was licensed in the United States in a 0.02% formulation [ 39 ]. Rhopressa, a Rho kinase inhibiting drug consisting of Netarsudil, gained FDA approval in December, 2017 [ 40 ]. Currently, ROCK inhibitors are primarily used in combination with other primary drugs for glaucoma treatment to guarantee a sufficient reduction in IOP [ 41 ]. 2.8. Fixed Combinations 
+ Regarding the treatment of ocular hypertension and glaucoma, fixed combinations of medications that decrease IOP are now increasingly being used. These combinations provide various potential benefits compared to using the individual medications separately, such as increased convenience, enhanced adherence, reduced exposure to preservatives, and potential cost savings [ 42 ]. The current meta-analysis revealed that the utilization of fixed combinations with timolol, specifically dorzolamide/timolol, brinzolamide/timolol, and brimonidine/timolol, can lead to a reduction in IOP of over 30% [ 43 , 44 , 45 ]. 3. Beyond IOP: Mechanisms of Neurodegeneration in Glaucoma 
+ Neuroprotective treatments for glaucoma can help avoid the death of retinal ganglion cells and damage to the optic nerve by reducing ischemia and oxidative damage. While IOP is the sole identified variable that can be changed to lower the risk of glaucoma [ 46 ], emerging research indicates that injury to the optic nerve can persist even when IOP is effectively reduced [ 47 , 48 , 49 ]. There is a tremendous therapeutic need for neuroprotective methods that especially focus on the retinal ganglion cell and the underlying neurodegenerative processes [ 50 , 51 ]. 
+ 3.1. Neurodegenerative Processes 
+ Similar to other diseases, glaucoma exhibits an increased prevalence with advancing age, advances gradually and subtly, and is influenced by genetic factors [ 52 ]. A retrospective study revealed that patients with primary open-angle glaucoma (POAG) were more likely to acquire Alzheimer’s disease (AD) compared to people without POAG [ 53 ]. There is also increasing evidence that glaucomatous neuropathy affects not just the retina, but also the central nervous system (CNS) [ 54 , 55 , 56 , 57 , 58 , 59 ]. 3.2. Oxidative Stress 
+ Inflammation, hypoxia, ischemia, and mitochondrial malfunction can induce heightened oxidative stress, which can lead to glaucoma. The presence of mitochondrial damage and loss in the trabecular meshwork (TM) leads to both degenerative and apoptotic processes, ultimately resulting in cell loss [ 60 ]. Oxidative stress can directly damage RGCs as well [ 61 , 62 ]. Increasing evidence suggests that oxidative stress is a significant factor in the neuronal cell death that happens during glaucomatous neurodegeneration [ 63 ]. This oxidative stress impairs cellular homeostasis and disrupts normal cellular functions, contributing to a cascade of detrimental effects on the optic nerve and retinal tissues. Additionally, oxidative stress exacerbates the inflammatory response, further aggravating tissue damage and promoting the progression of glaucoma. Therefore, researchers are exploring antioxidant therapies and protective agents as a potential strategy to target oxidative stress, mitigate the progression of glaucomatous damage, and preserve visual function. 3.3. Neuroinflammation 
+ Neuroinflammation is now recognized as a crucial role in the development of glaucoma due to the participation of immune and glial cells in the early stages of the illness. Astrocytes, microglia, and invading monocytes play important roles in the neuroinflammatory process in glaucoma [ 64 , 65 , 66 , 67 , 68 ]. Glaucoma donor tissue exhibits an elevated presence of microglia in the inner retina and optic nerve, as well as an increase in GFAP, indicating reactive restructuring of astrocytes and Müller glia [ 60 , 69 , 70 ]. 
+ The glial responses in glaucoma and their association with RGCs and systemic immunity have been most accurately characterized in animal models [ 50 , 71 , 72 ]. 3.4. Autophagy 
+ Autophagy contributes to the development of glaucoma. Cellular stress, such as hunger, hypoxia, and oxidative damage, triggers a significant reaction [ 73 ]. Nevertheless, numerous studies present contradictory information regarding whether this response is harmful or beneficial [ 74 , 75 , 76 , 77 ]. Among all conditions, a lack of nutrition (particularly amino acids) is the most important factor in autophagy activation. Autophagy levels decrease with the natural process of human aging in all investigated tissues, including the brain and retina. This drop plays a role in the development of several neurological illnesses, such as glaucoma [ 78 ]. 3.5. Excitotoxicity 
+ Given that glutamate is a highly toxic substance for the nervous system, glutamate transporters play a crucial role in preventing retinal damage from excessive neural stimulation. Excitotoxicity has been implicated in various eye diseases, such as retinal or choroidal artery occlusion-induced ischemia, glaucoma, and diabetic retinopathy. Considering the highly toxic nature of glutamate in the nervous system, the role of glutamate transporters is essential in reducing damage to the retina induced by excessive neuronal stimulation. Both experimental and clinical cases of glaucoma exhibit increased amounts of glutamate in the vitreous [ 79 , 80 ]. Excessive levels of glutamate cause an overactivation of N-Methyl-D-aspartate (NMDA) receptors, particularly impacting RGCs death [ 81 , 82 , 83 , 84 ]. 3.6. Decreased Ocular Perfusion 
+ Numerous chronic neurodegenerative disorders have been linked to vascular factors [ 85 ]. The level of ocular perfusion is affected by the resistance to blood flow and determines the amount of blood and oxygen that reaches the optic nerve head [ 86 ]. Therefore, there is a generally held belief that a decrease in ocular perfusion pressure may heighten the susceptibility of the optic disc, resulting in an elevated likelihood of glaucoma onset or advancement [ 87 , 88 , 89 , 90 ]. 4. Exploring the Frontiers of Neuroprotection Treatments 
+ Currently, glaucoma is acknowledged as a long-lasting neurodegenerative illness that impacts the complete visual pathway extending from the eye to the visual cortex. It is a prominent factor contributing to decreased eyesight in the senior population worldwide, and its impact as a social health concern is expected to worsen over time. Given its neurodegenerative character, pharmacological treatments applied to several degenerative brain diseases could also help in treating glaucoma and other visual neuropathies [ 91 ]. Neuroprotection has gained significant interest in recent years as a new method to prevent or slow down the progression of structural and functional damage caused by glaucoma, with a specific emphasis on delaying the degeneration of RGCs [ 92 ] ( Table 1 ). 
+ Table 1. 
+ Neuroprotective treatments. 
+ 
+ 
+ Pathological Mechanism 
+ Result or Impact 
+ Neuroprotective Interventions 
+ 
+ 
+ 
+ Deprivation of Neurotrophins 
+ Glutamate NMDA Receptors Activation, Calcium Influx of RGCs 
+ Neurotrophins 
+ 
+ 
+ Glutamate Increase 
+ Increased activation of NMDA receptors 
+ Coenzyme Q10, Memantine 
+ 
+ 
+ Glutamate NMDA Receptors Activation 
+ Leads to calcium influx into RGCs 
+ Brimonidine, BDNF-TrkB signaling 
+ 
+ 
+ Calcium Influx of RGCs 
+ Leads to an increase in free radicals (e.g., NO), Mitochondrial Dysfunction 
+ Calcium channel blockers 
+ 
+ 
+ Oxidative Stress 
+ Leads to RGCs death 
+ Antioxidant (e.g., EPO), NOS inhibitors 
+ 
+ 
+ Decreased Ocular Perfusion 
+ Leads to RGCs death 
+ Gingko biloba extract 
+ 
+ 
+ Neuroinflammation 
+ Leads to RGCs death 
+ 
+ 
+ 
+ 
+ Mitochondrial Dysfunction 
+ Leads to excitotoxicity and RGCs death 
+ Citicoline 
+ 
+ 
+ RGCs Death 
+ Final outcome 
+ 
+ 
+ 
+ 
+ 
+ Open in a new tab 4.1. Nitric Oxide 
+ Nitric oxide (NO) makes trabecular meshwork (TM) cells relax and Schlemm’s canal (SC) cells more permeable. It has diverse biological functions in the ocular system, such as regulating vascular tone and performing several additional jobs [ 93 , 94 ], processing visual stimuli [ 95 ], promoting immunological cytotoxicity [ 96 ], and managing IOP [ 97 , 98 ]. Healthy individuals exhibit higher levels of NO production in comparison to ocular hypertensive patients [ 99 ]. Moreover, the existing literature indicates that NO has a dual role in optic neuropathy in cultured neurons and rat models. Low levels of NO have been found to have neuroprotective benefits, while high levels of NO have been associated with neurodegenerative consequences [ 62 , 100 , 101 , 102 ]. Vyzulta™ is a commercially available and licensed eye drop that comprises a solution of Latanoprost Bound at a concentration of 0.024%. This eye drop is a prostaglandin F2α analogue that donates NO. It is used to reduce IOP in patients with open-angle glaucoma or ocular hypertension [ 103 ]. 4.2. Rho Kinase Inhibitor 
+ As mentioned in Section 2.7 , Rho kinase inhibitors are employed in the management of neurodegenerative disorders. They have been observed to prevent the programmed cell death of RGCs caused by axotomy [ 104 ], and also provide protection against the loss of neurons in vivo [ 105 , 106 ]. 4.3. Coenzyme Q10 
+ Coenzyme Q10 has been extensively used to treat a range of illnesses, such as Leber hereditary optic neuropathy, cerebral ischemia, Parkinson’s disease, and Huntington’s disease [ 107 ]. It has demonstrated efficacy in reducing apoptosis and the loss of RGCs in animal models. When administered directly into the eye, it prevented the death of RGCs through the regulation of mitochondrial depolarization [ 108 , 109 ]. 4.4. Citicoline(Cytidine-5′-Diphosphocholine) 
+ Citicoline is a naturally occurring chemical that plays a role in the production of phospholipids’ membranes, specifically phosphatidylcholine. The effects of citicoline are caused by a lot of different metabolic pathways, such as cholinergic and dopaminergic transmission, phospholipid homeostasis, and mitochondrial dynamics. These mechanisms play a role in the complex process of visual transmission [ 109 , 110 ]. Citicoline’s neuroprotective effect is due to its ability to decrease glutamate excitotoxicity [ 111 ] and oxidative stress [ 112 ], improve mitochondrial function [ 113 ], and enhance neurotrophin levels [ 114 , 115 ]. However, current research does not provide enough support to conclude that citicoline effectively slows down the course of glaucoma [ 115 ]. 4.5. Gingko Biloba Extract (GBE) 
+ Ginkgo is a prehistoric tree species that closely resembles plants that existed 270 million years ago. The cultivation of this tree is extensive in China, and it was introduced at an early stage in traditional Eastern medicine to address a range of issues, including asthma, vertigo, tiredness, tinnitus, and circulatory ailments. Current medical science has scientifically proven the positive effects of ginkgo biloba extract 761, derived from the leaves of the ginkgo biloba tree, on cognitive impairment and dementia. Because Alzheimer’s disease and glaucoma share molecular and mechanical similarities, researchers have investigated ginkgo for glaucoma [ 78 ]. Studies conducted on animal models have demonstrated that GBE possesses neuroprotective, antioxidant, and anti-inflammatory characteristics, specifically targeting RGCs [ 73 , 116 , 117 , 118 ]. It also demonstrated that GBE enhances the flow of blood in the eyes. However, the impact of GBE on the visual field remains uncertain [ 119 , 120 ]. 4.6. Tumor Necrosis Factor-α Inhibitors 
+ Tumor necrosis factor α (TNF-α) has been shown to be involved in pathways leading to the death of RGCs death in animal and in vitro glaucoma models [ 121 ]. It stimulates the processes that lead to the death of mitochondria cells and triggers the production of reactive oxygen species (ROS) [ 122 ], play a vital function in the immune response and are responsible for a apoptosis and inflammation [ 69 ] and potentially influence axonal degeneration in glaucomatous eyes as well [ 123 ]. It is feasible to repair damaged neuronal tissue caused by inflammation in glaucomatous eyes by blocking TNF, which is the key factor in both inflammatory and cell death signaling in RGCs, as well as axon injuries in in vivo models of glaucoma [ 124 ]. 4.7. Nuclear Factor Kappa B (NF-κB) Inhibitors 
+ The nuclear factor-kappaB (NF-κB) is a crucial molecule that activates the transcription of genes involved in inflammation. It has been found to be significantly impacted in astroglia damaged by glaucoma [ 125 ]. Research has demonstrated the crucial involvement of astroglial NF-κB in the inflammatory and degenerative effects of experimental glaucoma, and its ability to offer neuroprotection by modulating the immune response [ 126 ]. 4.8. Memantine 
+ Memantine can help treat Alzheimer’s disease and Parkinson’s disease [ 127 , 128 , 129 ]. It is a non-competitive open-channel blocker that only inhibits NMDA-receptor function when glutamate levels are abnormally high, leaving normal physiological levels necessary for synaptic action unaffected, and has been discovered to be very successful as a neuroprotective drug in both acute and chronic animal models of RGC death [ 130 , 131 , 132 , 133 ]. 
+ Regrettably, in two clinical trials, the administration of memantine on a daily basis for a duration of 4 years did not have any effect in terms of preventing or slowing down the progression of open-angle glaucoma in patients [ 134 ]. 4.9. Calcium Channel Blockers (CCBs) 
+ Calcium channel blockers (CCBs) are authorized for the management of hypertension and cerebral impairment. They enhance vasodilation, reduce vascular resistance, and ultimately lower blood pressure while increasing blood flow [ 135 ]. Studies have demonstrated that CCBs possess therapeutic efficacy in the treatment of glaucoma. Nifedipine [ 136 ], verapamil, diltiazem [ 137 ], and nilvadipine [ 138 ] have been found to decelerate the advancement of visual field deterioration in patients with normal tension glaucoma (NTG). Furthermore, the administration of nifedipine and brovincamine resulted in an augmentation of peripheral blood circulation in the optic disc, as indicated by previous studies [ 136 , 139 ]. 4.10. Platelet-Derived Growth Factor (PDGF) 
+ Platelet-derived growth factor (PDGF) plays a crucial role in the neuroprotective impact of mesenchymal stem cells on RGCs in both retinal explants and experimental glaucoma [ 140 , 141 ]. Additionally, it has been observed to increase neuronal survival in many damage models, such as excitotoxicity [ 142 ] and oxidative stress [ 143 ]. These findings recommend further exploration of PDGF treatment as a potential glaucoma therapy in the future. 4.11. Neurotrophic Factors 
+ Brain-derived neurotrophic factor (BDNF), one of the neurotrophin families, has significantly low levels in the ocular fluids found in glaucoma patients [ 78 ]. This supports the idea that a lack of neurotrophic factors is a probable cause of glaucomatous optic neuropathy [ 144 ]. Several published studies detail the connection between the absence of BDNF support for the RGCs and the initiation of their deaths [ 145 , 146 , 147 ]. After 7 days of elevated IOP in a rat model of glaucoma, the natural production of brain-derived BDNF and neurotrophin-4/5 (NT-4/5) in the optic nerve was entirely depleted, which corresponds to the apoptosis of RGCs. Essentially, a lack of neurotrophic factors in the optic nerve is a contributing factor to the development and advancement of glaucomatous optic neuropathy (GON). Augmenting neurotrophic support can potentially postpone RGC degeneration in individuals with glaucoma [ 40 ]. Thus, directing attention towards modifying the problematic sequence around the converging endpoints could potentially be more effective in preventing the death of RGCs [ 148 ]. 4.12. Erythropoietin 
+ Erythropoietin (EPO) is a hormone that can promote pleiotropic effects [ 149 ]. Multiple studies have documented an elevation in the EPO concentration in the fluid known as aqueous humor among individuals diagnosed with glaucoma [ 135 ]. The increasing levels of aqueous EPO in glaucomatous eyes may be attributed to ischemia, hypoxia, or increased levels of reactive oxygen species (ROS) resulting from glaucomatous damage [ 150 ]. EPO exhibits anti-inflammatory [ 151 ], antioxidative [ 151 ], and antiapoptotic effects [ 152 ], which make it a prospective therapeutic option for the treatment of glaucoma [ 153 , 154 ]. 5. A Multifaceted Approach: The Future of Glaucoma Management 
+ 5.1. Nanotechnology-Based Ophthalmic Delivery System 
+ Novel drug carriers, including nanomicelles, nanoparticles (NPs), nanoemulsions (NEs), microemulsions, nanofibers, dendrimers, liposomes, niosomes, nanowafers, and microneedles (MNs), have been investigated for the treatment of both anterior and posterior ocular disorders [ 155 , 156 ]. An instance of the application of lipid-based nanoparticles (NPs) containing brimonidine and latanoprost is their usage in the treatment of glaucoma [ 157 , 158 ]. 5.2. Intracameral Implant 
+ Bimatoprost implant (Durysta) is a biodegradable intracameral implant to reduce IOP in patients with open-angle glaucoma(OAG) or ocular hypertension (OHT) [ 159 ]. The implant is a tiny cylinder with a diameter of around 200 µm and a length of about 1.1 mm. It contains 10 µg of bimatoprost and uses a drug delivery system for the eyes. This system is made of biodegradable polymers that have been proven to be safe for ocular tissues [ 160 ]. The implant was specifically engineered to gradually release bimatoprost over a period of approximately 3–4 months. However, there have been reports that the implant has long-term effects on IOP. The most frequently reported adverse effect in patients was eye irritation. The FDA currently permits a single dose of the implant per eye through intracameral delivery, and it prohibits re-treatment [ 161 ]. 
+ The travoprost intracameral implant (iDose TR) is a small, biocompatible titanium reservoir that is secured to the sclera at the iridocorneal angle by an anchor that passes through the trabecular meshwork. The reservoir has 75 μg of a proprietary, preservative-free travoprost formulation, which is about 25,000 times more concentrated than the travoprost in travoprost ophthalmic solution [ 162 ]. For individuals with OHT or OAG, the FDA has approved a single injection per eye. 5.3. Genome-Wide Analyses 
+ Prior genome-wide association studies have discovered significant loci linked to the incidence of POAG [ 163 , 164 , 165 , 166 ]. Identifying risk loci could be used as targets for preventive therapies. 5.4. Stem Cell Therapy 
+ Stem cell therapy offers the intriguing potential to regenerate and replenish RGCs, potentially leading to the restoration of eyesight that has been lost due to glaucoma [ 2 , 167 ]. It could potentially contribute to the restoration of the trabecular meshwork using cell-based functional methods. Existing evidence indicates the presence of a population of mature stem cells in the Schwalbe’s ring and the anterior trabecular meshwork [ 168 ]. 6. Conclusions 
+ The comprehension of the intricate pathophysiology of glaucoma is expanding, leading to a transformation in the emphasis on therapeutic interventions. Prospects for the future indicate the convergence of IOP-lowering, neuroprotection, and cellular resilience-building strategies into a unified approach that provides holistic management solutions and strives for individuality, precision, and efficacy to predominate. As research progresses, there is an increasing focus on the genetic and molecular underpinnings of the disease, which holds promise for the development of personalized medicine tailored to each patient’s unique genetic profile. Furthermore, advances in imaging technologies and biomarker discovery are enhancing early detection and monitoring capabilities, allowing for more timely and targeted interventions. Ultimately, these advancements aim to preserve vision and improve the quality of life for patients with glaucoma, marking a significant shift towards more comprehensive and patient-centered care in ophthalmology. Author Contributions 
+ Conceptualization, H.-P.L. and D.-W.L.; validation, Y.-H.C. and D.-W.L.; resources, D.-W.L.; writing—original draft preparation, H.-P.L., T.-H.T. and Y.-C.T.; writing—review and editing, Y.-H.C. and D.-W.L.; visualization, H.-P.L., T.-H.T. and Y.-C.T.; supervision, Y.-H.C. and D.-W.L.; funding acquisition, D.-W.L. All authors have read and agreed to the published version of the manuscript. Conflicts of Interest 
+ The authors declare no conflicts of interest. Funding Statement 
+ This research received no external funding. Footnotes 
+ Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content. References 
+ 
+ 
+ 1. Weinreb R.N., Aung T., Medeiros F.A. The pathophysiology and treatment of glaucoma: A review. JAMA. 2014;311:1901–1911. doi: 10.1001/jama.2014.3192. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Mohan N., Chakrabarti A., Nazm N., Mehta R., Edward D.P. Newer advances in medical management of glaucoma. Indian J. Ophthalmol. 2022;70:1920–1930. doi: 10.4103/ijo.IJO_2239_21. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Casson R.J., Chidlow G., Ebneter A., Wood J.P., Crowston J., Goldberg I. Translational neuroprotection research in glaucoma: A review of definitions and principles. Clin. Exp. Ophthalmol. 2012;40:350–357. doi: 10.1111/j.1442-9071.2011.02563.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Chang E.E., Goldberg J.L. Glaucoma 2.0: Neuroprotection, neuroregeneration, neuroenhancement. Ophthalmology. 2012;119:979–986. doi: 10.1016/j.ophtha.2011.11.003. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Frishman W.H. A Historical Perspective on the Development of β-Adrenergic Blockers. J. Clin. Hypertens. 2007;9((Suppl. S4)):19–27. doi: 10.1111/j.1524-6175.2007.06633.x. [ DOI ] [ Google Scholar ] 
+ 
+ 6. Stein J.D., Khawaja A.P., Weizer J.S. Glaucoma in Adults-Screening, Diagnosis, and Management: A Review. JAMA. 2021;325:164–174. doi: 10.1001/jama.2020.21899. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Steven D.W., Alaghband P., Lim K.S. Preservatives in glaucoma medication. Br. J. Ophthalmol. 2018;102:1497–1503. doi: 10.1136/bjophthalmol-2017-311544. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Lee Y., Tatham A. 40 years of topical beta-blockers for glaucoma. Clin. Exp. Vis. Eye Res. 2018;1:26–31. doi: 10.15713/ins.clever.17. [ DOI ] [ Google Scholar ] 
+ 
+ 9. Arthur S., Cantor L.B. Update on the role of alpha-agonists in glaucoma management. Exp. Eye Res. 2011;93:271–283. doi: 10.1016/j.exer.2011.04.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Krupin T., Liebmann J.M., Greenfield D.S., Ritch R., Gardiner S. A randomized trial of brimonidine versus timolol in preserving visual function: Results from the Low-Pressure Glaucoma Treatment Study. Am. J. Ophthalmol. 2011;151:671–681. doi: 10.1016/j.ajo.2010.09.026. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Schuster A.K., Erb C., Hoffmann E.M., Dietlein T., Pfeiffer N. The Diagnosis and Treatment of Glaucoma. Dtsch. Ärzteblatt Int. 2020;117:225–234. doi: 10.3238/arztebl.2020.0225. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Popovic M.M., Schlenker M.B., Thiruchelvam D., Redelmeier D.A. Serious Adverse Events of Oral and Topical Carbonic Anhydrase Inhibitors. JAMA Ophthalmol. 2022;140:235–242. doi: 10.1001/jamaophthalmol.2021.5977. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Frost S., McKenna R. Carbonic Anhydrase: Mechanism, Regulation, Links to Disease, and Industrial Applications. Springer; Dordrecht, The Netherlands: 2014. [ DOI ] [ Google Scholar ] 
+ 
+ 14. Stoner A., Harris A., Oddone F., Belamkar A., Verticchio Vercellin A.C., Shin J., Januleviciene I., Siesky B. Topical carbonic anhydrase inhibitors and glaucoma in 2021: Where do we stand? Br. J. Ophthalmol. 2022;106:1332–1337. doi: 10.1136/bjophthalmol-2021-319530. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Moosavi R., Ansari E. Brinzolamide/Brimonidine Fixed Combination: Simplifying Glaucoma Treatment Regimens. Ophthalmol. Ther. 2018;7:397–403. doi: 10.1007/s40123-018-0150-x. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Fechtner R.D., Myers J.S., Hubatsch D.A., Budenz D.L., DuBiner H.B. Ocular hypotensive effect of fixed-combination brinzolamide/brimonidine adjunctive to a prostaglandin analog: A randomized clinical trial. Eye. 2016;30:1343–1350. doi: 10.1038/eye.2016.126. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Yadav K.S., Rajpurohit R., Sharma S. Glaucoma: Current treatment and impact of advanced drug delivery systems. Life Sci. 2019;221:362–376. doi: 10.1016/j.lfs.2019.02.029. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Zhou L., Zhan W., Wei X. Clinical pharmacology and pharmacogenetics of prostaglandin analogues in glaucoma. Front. Pharmacol. 2022;13:1015338. doi: 10.3389/fphar.2022.1015338. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Quigley H.A., Broman A.T. The number of people with glaucoma worldwide in 2010 and 2020. Br. J. Ophthalmol. 2006;90:262–267. doi: 10.1136/bjo.2005.081224. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Park J.-H., Yoo C., Chung H.W., Kim Y.Y. Effect of prostaglandin analogues on anterior scleral thickness and corneal thickness in patients with primary open-angle glaucoma. Sci. Rep. 2021;11:11098. doi: 10.1038/s41598-021-90696-4. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Aung T., Chew P.T., Oen F.T., Chan Y.H., Thean L.H., Yip L., Lim B.A., Soh J., Seah S.K. Additive effect of unoprostone and latanoprost in patients with elevated intraocular pressure. Br. J. Ophthalmol. 2002;86:75–79. doi: 10.1136/bjo.86.1.75. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Li T., Lindsley K., Rouse B., Hong H., Shi Q., Friedman D.S., Wormald R., Dickersin K. Comparative Effectiveness of First-Line Medications for Primary Open-Angle Glaucoma: A Systematic Review and Network Meta-analysis. Ophthalmology. 2016;123:129–140. doi: 10.1016/j.ophtha.2015.09.005. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Takahashi I., Tanaka M. Switching to latanoprost monotherapy for 24 weeks in glaucoma patients. Eur. J. Ophthalmol. 2004;14:401–406. doi: 10.1177/112067210401400507. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Simmons S.T., Dirks M.S., Noecker R.J. Bimatoprost versus latanoprost in lowering intraocular pressure in glaucoma and ocular hypertension: Results from parallel-group comparison trials. Adv. Ther. 2004;21:247–262. doi: 10.1007/BF02850157. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Oh D.-J., Martin J.L., Williams A.J., Russell P., Birk D.E., Rhee D.J. Effect of Latanoprost on the Expression of Matrix Metalloproteinases and Their Tissue Inhibitors in Human Trabecular Meshwork Cells. Investig. Ophthalmol. Vis. Sci. 2006;47:3887–3895. doi: 10.1167/iovs.06-0036. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Holló G. The side effects of the prostaglandin analogues. Expert Opin. Drug Saf. 2007;6:45–52. doi: 10.1517/14740338.6.1.45. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Arbabi A., Bao X., Shalaby W.S., Razeghinejad R. Systemic side effects of glaucoma medications. Clin. Exp. Optom. 2022;105:157–165. doi: 10.1080/08164622.2021.1964331. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Abu Bakar A.S., Razali N., Hassan M.D.S., Agarwal R. Medical Management of Open-Angle Glaucoma: Focus on Mechanisms of Action and Adverse Drug Reactions. J. Clin. Health Sci. 2021;6:4–17. doi: 10.24191/jchs.v6i1.12440. [ DOI ] [ Google Scholar ] 
+ 
+ 29. Lee D.A., Higginbotham E.J. Glaucoma and its treatment: A review. Am. J. Health-Syst. Pharm. 2005;62:691–699. doi: 10.1093/ajhp/62.7.691. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Sambhara D., Aref A.A. Glaucoma management: Relative value and place in therapy of available drug treatments. Ther. Adv. Chronic Dis. 2014;5:30–43. doi: 10.1177/2040622313511286. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Yamamoto K., Maruyama K., Himori N., Omodaka K., Yokoyama Y., Shiga Y., Morin R., Nakazawa T. The novel Rho kinase (ROCK) inhibitor K-115: A new candidate drug for neuroprotective treatment in glaucoma. Investig. Ophthalmol. Vis. Sci. 2014;55:7126–7136. doi: 10.1167/iovs.13-13842. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Riento K., Ridley A.J. Rocks: Multifunctional kinases in cell behaviour. Nat. Rev. Mol. Cell Biol. 2003;4:446–456. doi: 10.1038/nrm1128. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Olson M.F. Applications for ROCK kinase inhibition. Curr. Opin. Cell Biol. 2008;20:242–248. doi: 10.1016/j.ceb.2008.01.002. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Honjo M., Tanihara H., Kameda T., Kawaji T., Yoshimura N., Araie M. Potential role of Rho-associated protein kinase inhibitor Y-27632 in glaucoma filtration surgery. Investig. Ophthalmol. Vis. Sci. 2007;48:5549–5557. doi: 10.1167/iovs.07-0878. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Inoue T., Tanihara H. Rho-associated kinase inhibitors: A novel glaucoma therapy. Prog. Retin. Eye Res. 2013;37:1–12. doi: 10.1016/j.preteyeres.2013.05.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Koga T., Koga T., Awai M., Tsutsui J., Yue B.Y., Tanihara H. Rho-associated protein kinase inhibitor, Y-27632, induces alterations in adhesion, contraction and motility in cultured human trabecular meshwork cells. Exp. Eye Res. 2006;82:362–370. doi: 10.1016/j.exer.2005.07.006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Fujimoto T., Inoue T., Kameda T., Kasaoka N., Inoue-Mochita M., Tsuboi N., Tanihara H. Involvement of RhoA/Rho-associated kinase signal transduction pathway in dexamethasone-induced alterations in aqueous outflow. Investig. Ophthalmol. Vis. Sci. 2012;53:7097–7108. doi: 10.1167/iovs.12-9989. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Tönges L., Koch J.C., Bähr M., Lingor P. ROCKing Regeneration: Rho Kinase Inhibition as Molecular Target for Neurorestoration. Front. Mol. Neurosci. 2011;4:39. doi: 10.3389/fnmol.2011.00039. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Tanna A.P., Johnson M. Rho Kinase Inhibitors as a Novel Treatment for Glaucoma and Ocular Hypertension. Ophthalmology. 2018;125:1741–1756. doi: 10.1016/j.ophtha.2018.04.040. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Moshirfar M., Parker L., Birdsong O.C., Ronquillo Y.C., Hofstedt D., Shah T.J., Gomez A.T., Hoopes P.C.S. Use of Rho kinase Inhibitors in Ophthalmology: A Review of the Literature. Med. Hypothesis Discov. Innov. Ophthalmol. 2018;7:101–111. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Wang J., Wang H., Dang Y. Rho-Kinase Inhibitors as Emerging Targets for Glaucoma Therapy. Ophthalmol. Ther. 2023;12:2943–2957. doi: 10.1007/s40123-023-00820-y. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Higginbotham E.J. Considerations in glaucoma therapy: Fixed combinations versus their component medications. Clin. Ophthalmol. 2010;4:1–9. doi: 10.2147/OPTH.S6645. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Webers C.A., Beckers H.J., Zeegers M.P., Nuijts R.M., Hendrikse F., Schouten J.S. The intraocular pressure-lowering effect of prostaglandin analogs combined with topical β-blocker therapy: A systematic review and meta-analysis. Ophthalmology. 2010;117:2067–2074.E6. doi: 10.1016/j.ophtha.2010.03.024. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Webers C.A., van der Valk R., Schouten J.S., Zeegers M.P., Prins M.H., Hendrikse F. Intraocular pressure-lowering effect of adding dorzolamide or latanoprost to timolol: A meta-analysis of randomized clinical trials. Ophthalmology. 2007;114:40–46. doi: 10.1016/j.ophtha.2006.07.018. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Cheng J.W., Cheng S.W., Gao L.D., Lu G.C., Wei R.L. Intraocular pressure-lowering effects of commonly used fixed-combination drugs with timolol: A systematic review and meta-analysis. PLoS ONE. 2012;7:e45079. doi: 10.1371/journal.pone.0045079. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Vishwaraj C.R., Kavitha S., Venkatesh R., Shukla A.G., Chandran P., Tripathi S. Neuroprotection in glaucoma. Indian J. Ophthalmol. 2022;70:380–385. doi: 10.4103/ijo.IJO_1158_21. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Collaborative Normal-Tension Glaucoma Study Group Comparison of glaucomatous progression between untreated patients with normal-tension glaucoma and patients with therapeutically reduced intraocular pressures. Am. J. Ophthalmol. 1998;126:487–497. doi: 10.1016/S0002-9394(98)00223-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Lichter P.R., Musch D.C., Gillespie B.W., Guire K.E., Janz N.K., Wren P.A., Mills R.P. Interim clinical outcomes in the Collaborative Initial Glaucoma Treatment Study comparing initial treatment randomized to medications or surgery. Ophthalmology. 2001;108:1943–1953. doi: 10.1016/S0161-6420(01)00873-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Heijl A., Leske M.C., Bengtsson B., Hyman L., Bengtsson B., Hussein M. Reduction of intraocular pressure and glaucoma progression: Results from the Early Manifest Glaucoma Trial. Arch. Ophthalmol. 2002;120:1268–1279. doi: 10.1001/archopht.120.10.1268. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Tribble J.R., Hui F., Quintero H., El Hajji S., Bell K., Di Polo A., Williams P.A. Neuroprotection in glaucoma: Mechanisms beyond intraocular pressure lowering. Mol. Asp. Med. 2023;92:101193. doi: 10.1016/j.mam.2023.101193. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Gauthier A.C., Liu J. Neurodegeneration and Neuroprotection in Glaucoma. Yale J. Biol. Med. 2016;89:73–79. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Danesh-Meyer H.V., Levin L.A. Glaucoma as a neurodegenerative disease. J. Neuroophthalmol. 2015;35((Suppl. S1)):S22–S28. doi: 10.1097/WNO.0000000000000293. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Lin I.C., Wang Y.H., Wang T.J., Wang I.J., Shen Y.D., Chi N.F., Chien L.N. Glaucoma, Alzheimer’s disease, and Parkinson’s disease: An 8-year population-based follow-up study. PLoS ONE. 2014;9:e108938. doi: 10.1371/journal.pone.0108938. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Gupta N., Yücel Y.H. Brain changes in glaucoma. Eur. J. Ophthalmol. 2003;13((Suppl. S3)):S32–S35. doi: 10.1177/112067210301303S06. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Gupta N., Yücel Y.H. Should we treat the brain in glaucoma? Can. J. Ophthalmol. 2007;42:409–413. doi: 10.3129/i07-051. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Gupta N., Yücel Y.H. Glaucoma as a neurodegenerative disease. Curr. Opin. Ophthalmol. 2007;18:110–114. doi: 10.1097/ICU.0b013e3280895aea. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Gupta N., Yücel Y.H. What changes can we expect in the brain of glaucoma patients? Surv. Ophthalmol. 2007;52((Suppl. S2)):S122–S126. doi: 10.1016/j.survophthal.2007.08.006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Yücel Y., Gupta N. Glaucoma of the brain: A disease model for the study of transsynaptic neural degeneration. Prog. Brain Res. 2008;173:465–478. doi: 10.1016/s0079-6123(08)01132-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Mirzaei M., Gupta V.B., Chick J.M., Greco T.M., Wu Y., Chitranshi N., Wall R.V., Hone E., Deng L., Dheer Y., et al. Age-related neurodegenerative disease associated pathways identified in retinal and vitreous proteome from human glaucoma eyes. Sci. Rep. 2017;7:12685. doi: 10.1038/s41598-017-12858-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Baudouin C., Kolko M., Melik-Parsadaniantz S., Messmer E.M. Inflammation in Glaucoma: From the back to the front of the eye, and beyond. Prog. Retin. Eye Res. 2021;83:100916. doi: 10.1016/j.preteyeres.2020.100916. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Liu Q., Ju W.K., Crowston J.G., Xie F., Perry G., Smith M.A., Lindsey J.D., Weinreb R.N. Oxidative stress is an early event in hydrostatic pressure induced retinal ganglion cell damage. Investig. Ophthalmol. Vis. Sci. 2007;48:4580–4589. doi: 10.1167/iovs.07-0170. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Cavet M.E., Vittitow J.L., Impagnatiello F., Ongini E., Bastia E. Nitric oxide (NO): An emerging target for the treatment of glaucoma. Investig. Ophthalmol. Vis. Sci. 2014;55:5005–5015. doi: 10.1167/iovs.14-14515. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Tezel G. Oxidative stress in glaucomatous neurodegeneration: Mechanisms and consequences. Prog. Retin. Eye Res. 2006;25:490–513. doi: 10.1016/j.preteyeres.2006.07.003. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Soto I., Howell G.R. The complex role of neuroinflammation in glaucoma. Cold Spring Harb. Perspect. Med. 2014;4:a017269. doi: 10.1101/cshperspect.a017269. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Tezel G. Immune regulation toward immunomodulation for neuroprotection in glaucoma. Curr. Opin. Pharmacol. 2013;13:23–31. doi: 10.1016/j.coph.2012.09.013. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Howell G.R., Soto I., Zhu X., Ryan M., Macalinao D.G., Sousa G.L., Caddle L.B., MacNicoll K.H., Barbay J.M., Porciatti V., et al. Radiation treatment inhibits monocyte entry into the optic nerve head and prevents neuronal damage in a mouse model of glaucoma. J. Clin. Investig. 2012;122:1246–1261. doi: 10.1172/JCI61135. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Nickells R.W., Howell G.R., Soto I., John S.W. Under pressure: Cellular and molecular responses during glaucoma, a common neurodegeneration with axonopathy. Annu. Rev. Neurosci. 2012;35:153–179. doi: 10.1146/annurev.neuro.051508.135728. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Ramirez A.I., de Hoz R., Salobrar-Garcia E., Salazar J.J., Rojas B., Ajoy D., López-Cuenca I., Rojas P., Triviño A., Ramírez J.M. The Role of Microglia in Retinal Neurodegeneration: Alzheimer’s Disease, Parkinson, and Glaucoma. Front. Aging Neurosci. 2017;9:214. doi: 10.3389/fnagi.2017.00214. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Neufeld A.H. Microglia in the optic nerve head and the region of parapapillary chorioretinal atrophy in glaucoma. Arch. Ophthalmol. 1999;117:1050–1056. doi: 10.1001/archopht.117.8.1050. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Tezel G. Molecular regulation of neuroinflammation in glaucoma: Current knowledge and the ongoing search for new treatment targets. Prog. Retin. Eye Res. 2022;87:100998. doi: 10.1016/j.preteyeres.2021.100998. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Bosco A., Steele M.R., Vetter M.L. Early microglia activation in a mouse model of chronic glaucoma. J. Comp. Neurol. 2011;519:599–620. doi: 10.1002/cne.22516. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Tribble J.R., Kokkali E., Otmani A., Plastino F., Lardner E., Vohra R., Kolko M., André H., Morgan J.E., Williams P.A. When Is a Control Not a Control? Reactive Microglia Occur Throughout the Control Contralateral Pathway of Retinal Ganglion Cell Projections in Experimental Glaucoma. Transl. Vis. Sci. Technol. 2021;10:22. doi: 10.1167/tvst.10.1.22. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Wang Y., Huang C., Zhang H., Wu R. Autophagy in glaucoma: Crosstalk with apoptosis and its implications. Brain Res. Bull. 2015;117:1–9. doi: 10.1016/j.brainresbull.2015.06.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Koch J.C., Lingor P. The role of autophagy in axonal degeneration of the optic nerve. Exp. Eye Res. 2016;144:81–89. doi: 10.1016/j.exer.2015.08.016. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Park H.Y., Kim J.H., Park C.K. Activation of autophagy induces retinal ganglion cell death in a chronic hypertensive glaucoma model. Cell Death Dis. 2012;3:e290. doi: 10.1038/cddis.2012.26. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Piras A., Gianetto D., Conte D., Bosone A., Vercelli A. Activation of autophagy in a rat model of retinal ischemia following high intraocular pressure. PLoS ONE. 2011;6:e22514. doi: 10.1371/journal.pone.0022514. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Kitaoka Y., Munemasa Y., Kojima K., Hirano A., Ueno S., Takagi H. Axonal protection by Nmnat3 overexpression with involvement of autophagy in optic nerve degeneration. Cell Death Dis. 2013;4:e860. doi: 10.1038/cddis.2013.391. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Almasieh M., Wilson A.M., Morquette B., Cueva Vargas J.L., Di Polo A. The molecular basis of retinal ganglion cell death in glaucoma. Prog. Retin. Eye Res. 2012;31:152–181. doi: 10.1016/j.preteyeres.2011.11.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Casson R.J. Possible role of excitotoxicity in the pathogenesis of glaucoma. Clin. Exp. Ophthalmol. 2006;34:54–63. doi: 10.1111/j.1442-9071.2006.01146.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Brooks D.E., Garcia G.A., Dreyer E.B., Zurakowski D., Franco-Bourland R.E. Vitreous body glutamate concentration in dogs with glaucoma. Am. J. Vet. Res. 1997;58:864–867. doi: 10.2460/ajvr.1997.58.08.864. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Doucette L.P., Rasnitsyn A., Seifi M., Walter M.A. The interactions of genes, age, and environment in glaucoma pathogenesis. Surv. Ophthalmol. 2015;60:310–326. doi: 10.1016/j.survophthal.2015.01.004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Levin L.A. Retinal ganglion cells and neuroprotection for glaucoma. Surv. Ophthalmol. 2003;48((Suppl. S1)):S21–S24. doi: 10.1016/S0039-6257(03)00007-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Salt T.E., Cordeiro M.F. Glutamate excitotoxicity in glaucoma: Throwing the baby out with the bathwater? Eye. 2006;20:730–731. doi: 10.1038/sj.eye.6701967. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Guo L., Salt T.E., Maass A., Luong V., Moss S.E., Fitzke F.W., Cordeiro M.F. Assessment of neuroprotective effects of glutamate modulation on glaucoma-related retinal ganglion cell apoptosis in vivo. Investig. Ophthalmol. Vis. Sci. 2006;47:626–633. doi: 10.1167/iovs.05-0754. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Cherecheanu A.P., Garhofer G., Schmidl D., Werkmeister R., Schmetterer L. Ocular perfusion pressure and ocular blood flow in glaucoma. Curr. Opin. Pharmacol. 2013;13:36–42. doi: 10.1016/j.coph.2012.09.003. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Caprioli J., Coleman A.L. Blood pressure, perfusion pressure, and glaucoma. Am. J. Ophthalmol. 2010;149:704–712. doi: 10.1016/j.ajo.2010.01.018. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Zheng Y., Wong T.Y., Mitchell P., Friedman D.S., He M., Aung T. Distribution of ocular perfusion pressure and its relationship with open-angle glaucoma: The singapore malay eye study. Investig. Ophthalmol. Vis. Sci. 2010;51:3399–3404. doi: 10.1167/iovs.09-4867. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Memarzadeh F., Ying-Lai M., Chung J., Azen S.P., Varma R. Blood pressure, perfusion pressure, and open-angle glaucoma: The Los Angeles Latino Eye Study. Investig. Ophthalmol. Vis. Sci. 2010;51:2872–2877. doi: 10.1167/iovs.08-2956. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Leske M.C., Wu S.Y., Hennis A., Honkanen R., Nemesure B. Risk factors for incident open-angle glaucoma: The Barbados Eye Studies. Ophthalmology. 2008;115:85–93. doi: 10.1016/j.ophtha.2007.03.017. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Kim K.E., Oh S., Baek S.U., Ahn S.J., Park K.H., Jeoung J.W. Ocular Perfusion Pressure and the Risk of Open-Angle Glaucoma: Systematic Review and Meta-analysis. Sci. Rep. 2020;10:10056. doi: 10.1038/s41598-020-66914-w. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. Iulia C., Ruxandra T., Costin L.B., Liliana-Mary V. Citicoline—A neuroprotector with proven effects on glaucomatous disease. Rom. J. Ophthalmol. 2017;61:152–158. doi: 10.22336/rjo.2017.29. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. D’Angelo A., Vitiello L., Lixi F., Abbinante G., Coppola A., Gagliardi V., Pellegrino A., Giannaccare G. Optic Nerve Neuroprotection in Glaucoma: A Narrative Review. J. Clin. Med. 2024;13:2214. doi: 10.3390/jcm13082214. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 93. Schmidl D., Boltz A., Kaya S., Palkovits S., Told R., Napora K.J., Cherecheanu A.P., Werkmeister R.M., Garhofer G., Schmetterer L. Role of nitric oxide in optic nerve head blood flow regulation during an experimental increase in intraocular pressure in healthy humans. Exp. Eye Res. 2013;116:247–253. doi: 10.1016/j.exer.2013.09.008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 94. Schmidl D., Boltz A., Kaya S., Lasta M., Pemp B., Fuchsjager-Mayrl G., Hommer A., Garhofer G., Schmetterer L. Role of nitric oxide in optic nerve head blood flow regulation during isometric exercise in healthy humans. Investig. Ophthalmol. Vis. Sci. 2013;54:1964–1970. doi: 10.1167/iovs.12-11406. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 95. Lima M.G., Maximino C., Matos Oliveira K.R., Brasil A., Crespo-Lopez M.E., Batista Ede J., Rocha F.A., Picanço-Diniz D.L., Herculano A.M. Nitric oxide as a regulatory molecule in the processing of the visual stimulus. Nitric Oxide. 2014;36:44–50. doi: 10.1016/j.niox.2013.10.011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 96. McKenna K.C., Beatty K.M., Scherder R.C., Li F., Liu H., Chen A.F., Ghosh A., Stuehr D.J. Ascorbate in aqueous humor augments nitric oxide production by macrophages. J. Immunol. 2013;190:556–564. doi: 10.4049/jimmunol.1201754. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 97. Schmetterer L., Polak K. Role of nitric oxide in the control of ocular blood flow. Prog. Retin. Eye Res. 2001;20:823–847. doi: 10.1016/S1350-9462(01)00014-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 98. Wareham L.K., Buys E.S., Sappington R.M. The nitric oxide-guanylate cyclase pathway and glaucoma. Nitric Oxide. 2018;77:75–87. doi: 10.1016/j.niox.2018.04.010. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 99. Nathanson J.A., McKee M. Identification of an extensive system of nitric oxide-producing cells in the ciliary muscle and outflow pathway of the human eye. Investig. Ophthalmol. Vis. Sci. 1995;36:1765–1773. [ PubMed ] [ Google Scholar ] 
+ 
+ 100. Kashii S., Mandai M., Kikuchi M., Honda Y., Tamura Y., Kaneda K., Akaike A. Dual actions of nitric oxide in N-methyl-D-aspartate receptor-mediated neurotoxicity in cultured retinal neurons. Brain Res. 1996;711:93–101. doi: 10.1016/0006-8993(95)01330-X. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 101. Kashiwagi K., Iizuka Y., Tanaka Y., Mochizuki S., Kajiya F., Araie M., Suzuki Y., Iijima H., Tsukahara S. Dual action of nitric oxide on purely isolated retinal ganglion cells. Curr. Eye Res. 2001;23:233–239. doi: 10.1076/ceyr.23.4.233.5454. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 102. Karim M.Z., Sawada A., Mizuno K., Kawakami H., Ishida K., Yamamoto T. Neuroprotective effect of nipradilol [3,4-dihydro-8-(2-hydroxy-3-isopropylamino)-propoxy-3-nitroxy-2H-1-benzopyran] in a rat model of optic nerve degeneration. J. Glaucoma. 2009;18:26–31. doi: 10.1097/IJG.0b013e3181752c6f. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 103. Hoy S.M. Latanoprostene Bunod Ophthalmic Solution 0.024%: A Review in Open-Angle Glaucoma and Ocular Hypertension. Drugs. 2018;78:773–780. doi: 10.1007/s40265-018-0914-6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 104. Lingor P., Tönges L., Pieper N., Bermel C., Barski E., Planchamp V., Bähr M. ROCK inhibition and CNTF interact on intrinsic signalling pathways and differentially regulate survival and regeneration in retinal ganglion cells. Brain. 2008;131:250–263. doi: 10.1093/brain/awm284. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 105. Sheikh A.M., Nagai A., Ryu J.K., McLarnon J.G., Kim S.U., Masuda J. Lysophosphatidylcholine induces glial cell activation: Role of rho kinase. Glia. 2009;57:898–907. doi: 10.1002/glia.20815. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 106. Bertrand J., Di Polo A., McKerracher L. Enhanced survival and regeneration of axotomized retinal neurons by repeated delivery of cell-permeable C3-like Rho antagonists. Neurobiol. Dis. 2007;25:65–72. doi: 10.1016/j.nbd.2006.08.008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 107. Zhang X., Tohari A.M., Marcheggiani F., Zhou X., Reilly J., Tiano L., Shu X. Therapeutic Potential of Co-enzyme Q10 in Retinal Diseases. Curr. Med. Chem. 2017;24:4329–4339. doi: 10.2174/0929867324666170801100516. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 108. Nucci C., Tartaglione R., Cerulli A., Mancino R., Spanò A., Cavaliere F., Rombolà L., Bagetta G., Corasaniti M.T., Morrone L.A. Retinal damage caused by high intraocular pressure-induced transient ischemia is prevented by coenzyme Q10 in rat. Int. Rev. Neurobiol. 2007;82:397–406. doi: 10.1016/s0074-7742(07)82022-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 109. Martucci A., Mancino R., Cesareo M., Pinazo-Duran M.D., Nucci C. Combined use of coenzyme Q10 and citicoline: A new possibility for patients with glaucoma. Front. Med. 2022;9:1020993. doi: 10.3389/fmed.2022.1020993. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 110. Oddone F., Rossetti L., Parravano M., Sbardella D., Coletta M., Ziccardi L., Roberti G., Carnevale C., Romano D., Manni G., et al. Citicoline in Ophthalmological Neurodegenerative Disease: A Comprehensive Review. Pharmaceuticals. 2021;14:281. doi: 10.3390/ph14030281. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 111. Mir C., Clotet J., Aledo R., Durany N., Argemí J., Lozano R., Cervós-Navarro J., Casals N. CDP-choline prevents glutamate-mediated cell death in cerebellar granule neurons. J. Mol. Neurosci. 2003;20:53–60. doi: 10.1385/JMN:20:1:53. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 112. Qian K., Gu Y., Zhao Y., Li Z., Sun M. Citicoline protects brain against closed head injury in rats through suppressing oxidative stress and calpain over-activation. Neurochem. Res. 2014;39:1206–1218. doi: 10.1007/s11064-014-1299-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 113. Zazueta C., Buelna-Chontal M., Macías-López A., Román-Anguiano N.G., González-Pacheco H., Pavón N., Springall R., Aranda-Frausto A., Bojalil R., Silva-Palacios A., et al. Cytidine-5′-Diphosphocholine Protects the Liver from Ischemia/Reperfusion Injury Preserving Mitochondrial Function and Reducing Oxidative Stress. Liver Transplant. 2018;24:1070–1083. doi: 10.1002/lt.25179. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 114. Grieb P., Jünemann A., Rekas M., Rejdak R. Citicoline: A Food Beneficial for Patients Suffering from or Threated with Glaucoma. Front. Aging Neurosci. 2016;8:73. doi: 10.3389/fnagi.2016.00073. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 115. Prinz J., Prokosch V., Liu H., Walter P., Fuest M., Migliorini F. Efficacy of citicoline as a supplement in glaucoma patients: A systematic review. PLoS ONE. 2023;18:e0291836. doi: 10.1371/journal.pone.0291836. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 116. Tatton N.A., Tezel G., Insolia S.A., Nandor S.A., Edward P.D., Wax M.B. In situ detection of apoptosis in normal pressure glaucoma. A preliminary examination. Surv. Ophthalmol. 2001;45((Suppl. S3)):S268–S272. doi: 10.1016/s0039-6257(01)00204-1. discussion S273–266. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 117. Pinazo-Duran M.D., Shoaie-Nia K., Zanon-Moreno V., Sanz-Gonzalez S.M., Del Castillo J.B., Garcia-Medina J.J. Strategies to Reduce Oxidative Stress in Glaucoma Patients. Curr. Neuropharmacol. 2018;16:903–918. doi: 10.2174/1570159X15666170705101910. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 118. Zhou X., Li F., Kong L., Tomita H., Li C., Cao W. Involvement of inflammation, degradation, and apoptosis in a mouse model of glaucoma. J. Biol. Chem. 2005;280:31240–31248. doi: 10.1074/jbc.M502641200. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 119. Kang J.M., Lin S. Ginkgo biloba and its potential role in glaucoma. Curr. Opin. Ophthalmol. 2018;29:116–120. doi: 10.1097/ICU.0000000000000459. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 120. Labkovich M., Jacobs E.B., Bhargava S., Pasquale L.R., Ritch R. Ginkgo Biloba Extract in Ophthalmic and Systemic Disease, with a Focus on Normal-Tension Glaucoma. Asia-Pac. J. Ophthalmol. 2020;9:215–225. doi: 10.1097/APO.0000000000000279. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 121. Skopiński P., Radomska-Leśniewska D.M., Izdebska J., Kamińska A., Kupis M., Kubiak A.J., Samelska K. New perspectives of immunomodulation and neuroprotection in glaucoma. Cent. Eur. J. Immunol. 2021;46:105–110. doi: 10.5114/ceji.2021.104329. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 122. Roh M., Zhang Y., Murakami Y., Thanos A., Lee S.C., Vavvas D.G., Benowitz L.I., Miller J.W. Etanercept, a widely used inhibitor of tumor necrosis factor-α (TNF-α), prevents retinal ganglion cell loss in a rat model of glaucoma. PLoS ONE. 2012;7:e40065. doi: 10.1371/journal.pone.0040065. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 123. Shamash S., Reichert F., Rotshenker S. The cytokine network of Wallerian degeneration: Tumor necrosis factor-alpha, interleukin-1alpha, and interleukin-1beta. J. Neurosci. 2002;22:3052–3060. doi: 10.1523/JNEUROSCI.22-08-03052.2002. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 124. Nakazawa T., Nakazawa C., Matsubara A., Noda K., Hisatomi T., She H., Michaud N., Hafezi-Moghadam A., Miller J.W., Benowitz L.I. Tumor necrosis factor-alpha mediates oligodendrocyte death and delayed retinal ganglion cell loss in a mouse model of glaucoma. J. Neurosci. 2006;26:12633–12641. doi: 10.1523/JNEUROSCI.2801-06.2006. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 125. Tezel G., Yang X., Luo C., Cai J., Powell D.W. An astrocyte-specific proteomic approach to inflammatory responses in experimental rat glaucoma. Investig. Ophthalmol. Vis. Sci. 2012;53:4220–4233. doi: 10.1167/iovs.11-9101. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 126. Yang X., Zeng Q., Barış M., Tezel G. Transgenic inhibition of astroglial NF-κB restrains the neuroinflammatory and neurodegenerative outcomes of experimental mouse glaucoma. J. Neuroinflammation. 2020;17:252. doi: 10.1186/s12974-020-01930-1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 127. Wilcock G., Möbius H.J., Stöffler A. A double-blind, placebo-controlled multicentre study of memantine in mild to moderate vascular dementia (MMM500) Int. Clin. Psychopharmacol. 2002;17:297–305. doi: 10.1097/00004850-200211000-00005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 128. Rabey J.M., Nissipeanu P., Korczyn A.D. Efficacy of memantine, an NMDA receptor antagonist, in the treatment of Parkinson’s disease. J. Neural Transm. Park. Dis. Dement. Sect. 1992;4:277–282. doi: 10.1007/BF02260076. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 129. Orgogozo J.M., Rigaud A.S., Stöffler A., Möbius H.J., Forette F. Efficacy and safety of memantine in patients with mild to moderate vascular dementia: A randomized, placebo-controlled trial (MMM 300) Stroke. 2002;33:1834–1839. doi: 10.1161/01.STR.0000020094.08790.49. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 130. Miguel-Hidalgo J.J., Alvarez X.A., Cacabelos R., Quack G. Neuroprotection by memantine against neurodegeneration induced by beta-amyloid(1-40) Brain Res. 2002;958:210–221. doi: 10.1016/S0006-8993(02)03731-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 131. WoldeMussie E., Yoles E., Schwartz M., Ruiz G., Wheeler L.A. Neuroprotective effect of memantine in different retinal injury models in rats. J. Glaucoma. 2002;11:474–480. doi: 10.1097/00061198-200212000-00003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 132. Li L., Sengupta A., Haque N., Grundke-Iqbal I., Iqbal K. Memantine inhibits and reverses the Alzheimer type abnormal hyperphosphorylation of tau and associated neurodegeneration. FEBS Lett. 2004;566:261–269. doi: 10.1016/j.febslet.2004.04.047. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 133. Lipton S.A. Possible role for memantine in protecting retinal ganglion cells from glaucomatous damage. Surv. Ophthalmol. 2003;48((Suppl. S1)):S38–S46. doi: 10.1016/S0039-6257(03)00008-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 134. Weinreb R.N., Liebmann J.M., Cioffi G.A., Goldberg I., Brandt J.D., Johnson C.A., Zangwill L.M., Schneider S., Badger H., Bejanian M. Oral Memantine for the Treatment of Glaucoma: Design and Results of 2 Randomized, Placebo-Controlled, Phase 3 Studies. Ophthalmology. 2018;125:1874–1885. doi: 10.1016/j.ophtha.2018.06.017. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 135. Tsuruga H., Murata H., Araie M., Aihara M. Neuroprotective effect of the calcium channel blocker nilvadipine on retinal ganglion cell death in a mouse ocular hypertension model. Heliyon. 2023;9:e13812. doi: 10.1016/j.heliyon.2023.e13812. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 136. Kitazawa Y., Shirai H., Go F.J. The effect of Ca2+-antagonist on visual field in low-tension glaucoma. Graefe’s Arch. Clin. Exp. Ophthalmol. 1989;227:408–412. doi: 10.1007/BF02172889. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 137. Netland P.A., Chaturvedi N., Dreyer E.B. Calcium channel blockers in the management of low-tension and open-angle glaucoma. Am. J. Ophthalmol. 1993;115:608–613. doi: 10.1016/S0002-9394(14)71458-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 138. Koseki N., Araie M., Tomidokoro A., Nagahara M., Hasegawa T., Tamaki Y., Yamamoto S. A placebo-controlled 3-year study of a calcium blocker on visual field and ocular circulation in glaucoma with low-normal pressure. Ophthalmology. 2008;115:2049–2057. doi: 10.1016/j.ophtha.2008.05.015. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 139. Sawada A., Kitazawa Y., Yamamoto T., Okabe I., Ichien K. Prevention of visual field defect progression with brovincamine in eyes with normal-tension glaucoma. Ophthalmology. 1996;103:283–288. doi: 10.1016/S0161-6420(96)30703-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 140. Chong R.S., Osborne A., Conceição R., Martin K.R. Platelet-Derived Growth Factor Preserves Retinal Synapses in a Rat Model of Ocular Hypertension. Investig. Ophthalmol. Vis. Sci. 2016;57:842–852. doi: 10.1167/iovs.15-17864. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 141. Johnson T.V., DeKorver N.W., Levasseur V.A., Osborne A., Tassoni A., Lorber B., Heller J.P., Villasmil R., Bull N.D., Martin K.R., et al. Identification of retinal ganglion cell neuroprotection conferred by platelet-derived growth factor through analysis of the mesenchymal stem cell secretome. Brain. 2014;137:503–519. doi: 10.1093/brain/awt292. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 142. Tseng H.C., Dichter M.A. Platelet-derived growth factor-BB pretreatment attenuates excitotoxic death in cultured hippocampal neurons. Neurobiol. Dis. 2005;19:77–83. doi: 10.1016/j.nbd.2004.11.007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 143. Zheng L.S., Ishii Y., Zhao Q.L., Kondo T., Sasahara M. PDGF suppresses oxidative stress induced Ca2+ overload and calpain activation in neurons. Oxidative Med. Cell. Longev. 2013;2013:367206. doi: 10.1155/2013/367206. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 144. Quigley H.A., McKinnon S.J., Zack D.J., Pease M.E., Kerrigan-Baumrind L.A., Kerrigan D.F., Mitchell R.S. Retrograde axonal transport of BDNF in retinal ganglion cells is blocked by acute IOP elevation in rats. Investig. Ophthalmol. Vis. Sci. 2000;41:3460–3466. [ PubMed ] [ Google Scholar ] 
+ 
+ 145. Vecino E., García-Crespo D., García M., Martinez-Millán L., Sharma S.C., Carrascal E. Rat retinal ganglion cells co-express brain derived neurotrophic factor (BDNF) and its receptor TrkB. Vision Res. 2002;42:151–157. doi: 10.1016/S0042-6989(01)00251-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 146. Johnson E.C., Guo Y., Cepurna W.O., Morrison J.C. Neurotrophin roles in retinal ganglion cell survival: Lessons from rat glaucoma models. Exp. Eye Res. 2009;88:808–815. doi: 10.1016/j.exer.2009.02.004. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 147. Shoeb Ahmad S., Abdul Ghani S., Hemalata Rajagopal T. Current Concepts in the Biochemical Mechanisms of Glaucomatous Neurodegeneration. J. Curr. Glaucoma Pract. 2013;7:49–53. doi: 10.5005/jp-journals-10008-1137. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 148. Lambuk L., Mohd Lazaldin M.A., Ahmad S., Iezhitsa I., Agarwal R., Uskoković V., Mohamud R. Brain-Derived Neurotrophic Factor-Mediated Neuroprotection in Glaucoma: A Review of Current State of the Art. Front. Pharmacol. 2022;13:875662. doi: 10.3389/fphar.2022.875662. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 149. Annese T., Tamma R., Ruggieri S., Ribatti D. Erythropoietin in tumor angiogenesis. Exp. Cell Res. 2019;374:266–273. doi: 10.1016/j.yexcr.2018.12.013. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 150. Arjamaa O., Nikinmaa M. Oxygen-dependent diseases in the retina: Role of hypoxia-inducible factors. Exp. Eye Res. 2006;83:473–483. doi: 10.1016/j.exer.2006.01.016. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 151. Pathipati P., Ferriero D.M. The Differential Effects of Erythropoietin Exposure to Oxidative Stress on Microglia and Astrocytes in vitro. Dev. Neurosci. 2017;39:310–322. doi: 10.1159/000467391. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 152. Si W., Wang J., Li M., Qu H., Gu R., Liu R., Wang L., Li S., Hu X. Erythropoietin protects neurons from apoptosis via activating PI3K/AKT and inhibiting Erk1/2 signaling pathway. 3 Biotech. 2019;9:131. doi: 10.1007/s13205-019-1667-y. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 153. Lai Y.F., Lin T.Y., Ho P.K., Chen Y.H., Huang Y.C., Lu D.W. Erythropoietin in Optic Neuropathies: Current Future Strategies for Optic Nerve Protection and Repair. Int. J. Mol. Sci. 2022;23:7143. doi: 10.3390/ijms23137143. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 154. Lai Y.F., Lin T.Y., Chen Y.H., Lu D.W. Erythropoietin in Glaucoma: From Mechanism to Therapy. Int. J. Mol. Sci. 2023;24:2985. doi: 10.3390/ijms24032985. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 155. Li S., Chen L., Fu Y. Nanotechnology-based ocular drug delivery systems: Recent advances and future prospects. J. Nanobiotechnol. 2023;21:232. doi: 10.1186/s12951-023-01992-2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 156. Liu L.C., Chen Y.H., Lu D.W. Overview of Recent Advances in Nano-Based Ocular Drug Delivery. Int. J. Mol. Sci. 2023;24:15352. doi: 10.3390/ijms242015352. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 157. Yetisgin A.A., Cetinel S., Zuvin M., Kosar A., Kutlu O. Therapeutic Nanoparticles and Their Targeted Delivery Applications. Molecules. 2020;25:2193. doi: 10.3390/molecules25092193. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 158. Dang H., Dong C., Zhang L. Sustained latanoprost release from PEGylated solid lipid nanoparticle-laden soft contact lens to treat glaucoma. Pharm. Dev. Technol. 2022;27:127–133. doi: 10.1080/10837450.2021.1999471. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 159. Medeiros F.A., Sheybani A., Shah M.M., Rivas M., Bai Z., Werts E., Ahmed I.I.K., Craven E.R. Single Administration of Intracameral Bimatoprost Implant 10 µg in Patients with Open-Angle Glaucoma or Ocular Hypertension. Ophthalmol. Ther. 2022;11:1517–1537. doi: 10.1007/s40123-022-00527-6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 160. Lee S.S., Hughes P., Ross A.D., Robinson M.R. Biodegradable implants for sustained drug release in the eye. Pharm. Res. 2010;27:2043–2053. doi: 10.1007/s11095-010-0159-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 161. Teymoorian S., Craven E.R., Nguyen L., Werts E. Real-World Study of the Effectiveness and Safety of Intracameral Bimatoprost Implant in a Clinical Setting in the United States. Clin. Ophthalmol. 2024;18:187–199. doi: 10.2147/OPTH.S445005. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 162. Sarkisian S.R., Ang R.E., Lee A.M., Berdahl J.P., Heersink S.B., Burden J.H., Doan L.V., Stephens K.G., Applegate D., Kothe A.C., et al. Travoprost Intracameral Implant for Open-Angle Glaucoma or Ocular Hypertension: 12-Month Results of a Randomized, Double-Masked Trial. Ophthalmol. Ther. 2024;13:995–1014. doi: 10.1007/s40123-024-00898-y. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 163. Bailey J.N., Loomis S.J., Kang J.H., Allingham R.R., Gharahkhani P., Khor C.C., Burdon K.P., Aschard H., Chasman D.I., Igo R.P., Jr., et al. Genome-wide association analysis identifies TXNRD2, ATXN2 and FOXC1 as susceptibility loci for primary open-angle glaucoma. Nat. Genet. 2016;48:189–194. doi: 10.1038/ng.3482. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 164. Shiga Y., Akiyama M., Nishiguchi K.M., Sato K., Shimozawa N., Takahashi A., Momozawa Y., Hirata M., Matsuda K., Yamaji T., et al. Genome-wide association study identifies seven novel susceptibility loci for primary open-angle glaucoma. Hum. Mol. Genet. 2018;27:1486–1496. doi: 10.1093/hmg/ddy053. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 165. Choquet H., Wiggs J.L., Khawaja A.P. Clinical implications of recent advances in primary open-angle glaucoma genetics. Eye. 2020;34:29–39. doi: 10.1038/s41433-019-0632-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 166. Craig J.E., Han X., Qassim A., Hassall M., Cooke Bailey J.N., Kinzy T.G., Khawaja A.P., An J., Marshall H., Gharahkhani P., et al. Multitrait analysis of glaucoma identifies new risk loci and enables polygenic prediction of disease susceptibility and progression. Nat. Genet. 2020;52:160–166. doi: 10.1038/s41588-019-0556-y. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 167. Harrell C.R., Fellabaum C., Arsenijevic A., Markovic B.S., Djonov V., Volarevic V. Therapeutic Potential of Mesenchymal Stem Cells and Their Secretome in the Treatment of Glaucoma. Stem Cells Int. 2019;2019:7869130. doi: 10.1155/2019/7869130. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 168. Sun H., Zhu Q., Guo P., Zhang Y., Tighe S., Zhu Y. Trabecular meshwork cells are a valuable resource for cellular therapy of glaucoma. J. Cell. Mol. Med. 2019;23:1678–1686. doi: 10.1111/jcmm.14158. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

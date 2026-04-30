@@ -1,0 +1,315 @@
+Source: PubMed Central (PMC)
+PMCID: PMC3497463
+Title: The use of antimetabolites as adjunctive therapy in the surgical treatment of pterygium
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3497463/
+Year: 2013
+Disease: pterygium
+Priority: 2
+============================================================
+
+Clin Ophthalmol . 2012 Nov 8;6:1849–1854. doi: 10.2147/OPTH.S38388 
+ 
+ 
+ The use of antimetabolites as adjunctive therapy in the surgical treatment of pterygium 
+ Alyaà Abood Kareem 
+ Alyaà Abood Kareem 
+ 
+ 1 College of Medicine, Kufa University, Najaf, Iraq 
+ Find articles by Alyaà Abood Kareem 
+ 
+ 
+ 1 , Qasim Kadhim Farhood 
+ Qasim Kadhim Farhood 
+ 
+ 2 College of Medicine, University of Babylon, Babylon, Hilla, Iraq 
+ Find articles by Qasim Kadhim Farhood 
+ 
+ 
+ 2, ✉ , Hussein Ali Alhammami 
+ Hussein Ali Alhammami 
+ 
+ 1 College of Medicine, Kufa University, Najaf, Iraq 
+ Find articles by Hussein Ali Alhammami 
+ 
+ 
+ 1 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 College of Medicine, Kufa University, Najaf, Iraq 
+ 
+ 2 College of Medicine, University of Babylon, Babylon, Hilla, Iraq 
+ 
+ ✉ Correspondence: Qasim Kadhim Farhood, Ophthalmology Department, College of Medicine, University of Babylon, Babylon, Hilla, Iraq, Tel +964 780 117 9098, Email q asim_1964@ymail.com 
+ 
+ 
+ Issue date 2012; Collection date 2012. 
+ 
+ © 2012 Kareem et al, publisher and licensee Dove Medical Press Ltd. 
+ This is an Open Access article which permits unrestricted noncommercial use, provided the original work is properly cited. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC3497463  PMID: 23152665 
+ 
+ Abstract 
+ Background 
+ Pterygium is a proliferative disease with hyperplastic growth of corneoconjunctival fibro vascular tissue onto the cornea. Surgical therapy can be used to successfully manage pterygia; however, recurrence remains a problem. To reduce recurrence, surgical management may include autoconjunctival grafting, lamellar keratoplasty, amniotic membrane transplantation, and intraoperative antimetabolites application. Purpose 
+ To assess the safety and the efficacy of intraoperative mitomycin C (MMC) and 5-fluorouracil (5-FU) application in preventing recurrence of pterygium after excision. Patients and methods 
+ The study design is a prospective, randomized clinical trial. A total of 50 patients with bilateral pterygium were recruited for the study. The first group of patients (25) underwent surgical excision of the pterygium with bare sclera in one eye and MMC was applied as adjunctive therapy for the other eye. In the second group 5-FU was used instead of MMC. Recurrences and postoperative complications were measured in the two groups. The mean follow up period of the patients was 18.8 months. Chi square test, odds ratio, and frequency distribution were used to determine significance levels; P -values <0.05 were considered statistically significant. Results 
+ In group 1 the recurrence rate was 8% for the MMC treated eyes and 32% for their fellow eyes ( P = 0.03). In group 2 the rate was 18% for the 5-FU treated eyes and 34% for their fellow eyes ( P = 0.07). No serious complications were recorded in either group. Conclusion 
+ Both MMC and 5-FU reduce the recurrence rate of pterygium after simple surgical excision; statistically, the effect of the former was significant, but insignificant for the latter. Both antimetabolites were safe during the whole study period, but 5-FU recurrent cases showed cosmetically unacceptable appearances with excessive vascularization. MMC, but not 5-FU, is recommended as an adjunctive therapy to prevent recurrence of pterygium after surgical excision. Keywords: recurrent pterygium, mitomycin C, 5-fluorouracil, adjunctive therapy Introduction 
+ The word “pterygium” is derived from the Greek word “pterygion”, meaning “wing.” It refers to an elevated, superficial, external ocular triangular fibro vascular mass that usually forms over the perilimbal conjunctiva and extends onto the corneal surface. 1 
+ Pterygia are reported to affect males twice as frequently as females and it is uncommon for patients to present with pterygia prior to the age of 20 years. 2 Countries nearer the equator have higher rates of pterygia, especially in rural areas. A possible reason for this geographic variation is that ultraviolet light may be a risk factor for the development of pterygia. Other potential risk factors include ocular dryness, inflammation, occupational exposure to irritants, and ocular dominance where the dominant eye tends to be kept open more in bright sunlight. 3 
+ Pterygia may be classified clinically as being active or inactive. An inactive pterygium shows little or no evidence of progression over a long period. The progression of active pterygium onto the cornea can lead to both significant corneal distortion and the development of corneal astigmatism. 4 Patients with pterygia might present with a variety of complaints, ranging from no symptoms to significant redness, swelling, itching, irritation, and blurring of vision associated with elevated lesions of the conjunctiva and contiguous cornea in one or both eyes. 5 , 6 It is more common for the pterygium to present on the nasal side, although it can present temporally as well as in other locations. 7 
+ Patients with pterygia can be observed without intervention unless the lesions exhibit growth towards the center of the cornea or if the patient exhibits symptoms of significant redness, discomfort, or alterations in visual function. 8 Medical treatments include artificial tears to lubricate the ocular surface and anti-inflammatory drops to reduce any inflammation. Major indications for surgery include involvement of the visual axis, progressive growth that threatens the visual axis, induced irregular astigmatism that reduces vision, and restriction of ocular motility. It is best to excise a pterygium before it reaches a point where it obscures part of the pupil – that is why a pterygium extending 3 mm or more from the limbus is a major indication for surgery. 9 , 10 Minor indications for surgery include contact lens intolerance, chronic irritation, and disfigurement. 
+ While pterygium surgery is often considered a simple office procedure, the decision to operate, especially for minor indications, must weigh the risk of complications or recurrence against the degree to which the symptoms trouble the patient. 10 The major endpoints of pterygium removal relate to recurrence, which may be corneal or conjunctival. 11 There are other minor less common endpoints such as ocular motility restriction, cosmetic appearance, or tear outflow. 12 – 14 Simple excision of pterygium (bare sclera technique) is associated with a high rate of recurrence (40%–80%) that may be more aggressive than the initial lesion. 15 , 16 Other surgical techniques such as conjunctival graft or rotation flap, amniotic membrane graft, thermal cautery, or beta irradiation are associated variably with lower recurrence rates. 10 , 16 The use of medical adjuvant agents capable of stopping pterygium regrowth, such as 5-fluorouracil (5-FU) and mitomycin C (MMC), have had extensive practice worldwide with variable results. 10 In this study we evaluated the efficacy and safety of the use of antimetabolites as adjunctive medical therapy after simple excision of primary pterygium. Patients and methods 
+ The current prospective, randomized clinical trial study was conducted on 50 patients (30 males, 20 females) with bilateral primary pterygium during a 3-year period. The studied patients fulfilled the following inclusion criteria: age > 20 years, living in rural areas or working in outdoor conditions, and pterygium size of 2.5 mm or more measured from the limbus to the cornea. Informed written consent was obtained from all patients study. 
+ The patients were grouped into two groups: group 1 (25 patients) underwent excision of pterygia with a bare sclera technique for one eye and MMC was applied intraoperatively for the other eye. In group 2 (25 patients), 5-FU was used instead of MMC. 
+ Surgical technique 
+ After applying an eyelid speculum, the pterygium head was lifted off the corneal surface by blunt dissection from the head in a smooth plane to bare sclera at the limbus, then the pterygium base was excised at its nasal end. Approximately 3 mm of bare sclera was left in one eye; in the fellow eye the antimetabolite was applied intraoperatively at the scleral bed after the excision for 3 minutes using a Weck-Cel ® sponge (Beaver-Visitec International, Inc, Waltham, MA) soaked in 0.5 mg/mL MMC solution or 50 mg/mL 5-FU solution. Extreme care was taken not to apply the antimetabolite on the cornea and thorough irrigation with at least 30 mL balanced salt solution was used to make sure that all the antimetabolite was washed out. All patients received ciprofloxacin (antibiotic) and dexamethasone (steroid) eye drops for four weeks postoperatively. 
+ The patients were followed up for 12–24 months, looking for recurrences or complications. Statistical analysis 
+ Chi square test, odds ratio (OR), and frequency distribution were used to determine significance levels; P -values <0.05 were considered statistically significant. Results 
+ The male to female ratio was 1.5:1. Age of the patients ranged from 23–40 years with a mean age of 36.4 years. The mean follow up period was 18.8 months ( Table 1 ). 
+ Table 1. 
+ The demographic characteristics of the studied patients 
+ 
+ 
+ Number of patients 
+ 50 
+ 
+ 
+ Male:female 
+ 1.5:1 
+ 
+ 
+ Mean age (years) 
+ 36.4 
+ 
+ 
+ Number of eyes 
+ 100 
+ 
+ 
+ Eyes received MMC 
+ 25 
+ 
+ 
+ Eyes received 5-FU 
+ 25 
+ 
+ 
+ Eyes without antimetabolite 
+ 50 
+ 
+ 
+ Mean follow-up period (months) 
+ 18.8 
+ 
+ 
+ Open in a new tab 
+ Abbreviations: MMC, mitomycin C; 5-FU, 5-fluorouracil. This study showed that patients who underwent primary pterygium excision without using antimetabolites as adjunctive agents developed higher recurrence rates than those who received them (MMC in group 1, 5-FU in group 2). OR = 2.3 in general. Use of MMC was superior to 5-FU in prevention of recurrence (OR = 5.4 for MMC and only 1.4 for 5-FU; Table 2 ). 
+ Table 2. 
+ Surgical outcome after pterygium removal in groups 1, 2, and whole patients 
+ 
+ 
+ Number of patients 
+ Treatment mode 
+ Eyes with recurrence (%) 
+ No recurrence (%) 
+ 
+ P -value 
+ Odds ratio 
+ 
+ 
+ Group 1 
+ 
+  25 
+ Bare sclera 
+ 8 (32%) 
+ 17 (68%) 
+ 0.03 * 
+ 
+ 5.4 
+ 
+ 
+ 
+ Bare sclera with MMC 
+ 2 (8%) 
+ 23 (92%) 
+ 
+ 
+ 
+ Group 2 
+ 
+  25 
+ Bare sclera 
+ 9 (36%) 
+ 16 (64%) 
+ 0.5 
+ 1.4 
+ 
+ 
+ 
+ Bare sclera with 5-FU 
+ 7 (28%) 
+ 18 (72%) 
+ 
+ 
+ 
+ Total 
+ 
+  50 
+ Bare sclera 
+ 17 (34%) 
+ 33 (66%) 
+ 0.07 
+ 2.3 
+ 
+ 
+ 
+ Bare sclera with antimetabolites 
+ 9 (18%) 
+ 41 (82%) 
+ 
+ 
+ 
+ 
+ 
+ Open in a new tab 
+ 
+ Note: 
+ 
+ * Significant P -value. 
+ 
+ Abbreviations: MMC, mitomycin C; 5-FU, 5-fluorouracil. 
+ Discussion 
+ Pterygium is a common external ocular problem that is closely related to exposure to UV light, especially in hot, dusty, and dry climates. True estimates of its prevalence in Iraq are not well known but having a risky environment makes it a very frequently encountered disease in our daily practice; furthermore, recurrent cases after surgical excision are expected because of the environmental risks. 
+ Pterygium is a proliferative disease with hyperplastic growth of the corneo-conjunctival fibro vascular tissue onto the cornea. 17 Surgical therapy can be used to successfully manage pterygia; however, recurrence remains a problem. 18 Recurrence of the pterygium is usually defined as a corneal recurrence that is evidenced by growth of fibrovascular tissue across the limbus onto the cornea. This usually excludes the persistence of deeper corneal vessels and corneal scaring, which may be left even after adequate pterygium removal. 12 Bunching of conjunctiva and formation of parallel loops of vessels, which aim almost like an arrowhead at the limbus, usually denotes a conjunctival recurrence; although, this appearance is sometimes determined by the method of removal. For example, a simple conjunctival closure that may lend itself more to the appearance of a conjunctival recurrence than a broad conjunctival autograft. 13 , 14 Cosmetic appearance is another postoperative endpoint; however, as long as there are no structural changes which affect vision or movement and as long as the patient is asymptomatic with respect to irritation then the issue of cosmetic appearance could not realistically be defined in terms of what can be seen at the slit-lamp magnification, but rather what the patient observes by looking in the mirror or other relatives and friends observe by looking at the patient’s eye. 19 
+ Simple excision leaving the sclera bare is the simplest approach for surgical management of pterygium but with the highest recurrence rate. 20 The frustration of watching the rapid, inexorable progression of recurrent pterygium after what seemed to be an adequate surgical excision has provided investigators with strong motivation to find a medical adjunctive treatment capable of preventing pterygium regrowth. Two such agents, 5-FU and MMC, are being used extensively worldwide with variable success. Initial successes were followed by serious late complications. 5-FU is a pyrimidine analogue that inhibits DNA synthesis and is active on the S phase (synthesis phase) of the cell cycle. Its effect is most pronounced on rapidly proliferating cells that occur in response to inflammation. Fibroblastic proliferation is inhibited, but fibroblastic attachment and migration are unaffected. MMC is a naturally occurring antibiotic-antineoplastic compound derived from Streptomyces caespitosus . It is an alkylating agent rather than an antimetabolite, and selectively inhibits DNA replication, mitosis, and protein synthesis. MMC inhibits proliferation of fibroblasts, suppresses vascular ingrowths, and is much more potent than 5-FU. 16 
+ Fortunately, we did not face any of the expected serious complications secondary to the use of the antimetabolites during the follow-up period. Looking at the recurrence rates in the treated groups, simple excision leaving the sclera bare yielded about 33% recurrence rate in all patients. Mitomycin was utilized as an ancillary treatment due to its antiproliferative effects; it reduced the recurrence rate successfully to 8% in our series. The antifibroblastic activity of MMC is known to be more than that of 5-FU; accordingly, we observed that the recurrence rate with MMC was much less than that of 5-FU ( Table 2 ). 
+ Variable recurrence rates of pterygia have been reported and surgical results are undoubtedly influenced by several factors, including type of pterygium, size, surgical technique, geographical location, and the surgeon’s skill. Hameed reported a 20% recurrence rate after simple pterygium excision. 20 In the USA, Vastine reported up to 60% recurrence rate after simple excision leaving the sclera bare, and Zloty was faced with only two recurrent cases after performing 400 pterygium exisions with MMC application in an average follow-up of 3 years (cited in Gans). 10 Literature reveals 0%–10% recurrence rates after using intraoperative MMC adjunctively with surgical excision. 16 Although the use of 5-FU as an adjunctive medical therapy to reduce the failure rates of trabeculectomy has been widely explored, to our knowledge no sufficient data are available for comparison with regards to the use of 5-FU as an adjuvant therapy after surgical excision of pterygium. 
+ Optimum concentration and exposure time for MMC is not well known and vary between 0.1–0.5 mg/mL and 1–5 minutes. In general, low or intermediate risk of recurrence indicates the use of a low concentration (0.2 mg/mL), whilst high risk implies the need for a higher concentration (0.4–0.5 mg/mL). Higher concentrations and extended exposure times are associated with an increased risk of complications. 15 , 21 Few data are available to compare regimens, and most surgeons increase concentration or duration based on risk factors for recurrence. Gans reported a safe dose of 0.3 mg/mL for 5 minutes, and that Zloty applied 0.4 mg/mL for 60 seconds only. 10 The concentration we used was 0.5 mg/mL (0.05%) for 3 minutes because all of our patients were defined as having high risks of recurrence, all were young patients with relatively large pterygia, and they share the same exposure risks to environmental factors. This concentration yielded only 8% recurrences and there were no serious side effects or signs of toxicity during the whole follow-up period. The mean follow-up period in the current study was 18.8 months; all our recurrent cases were reported within the first 4–8 months postoperatively. Table 3 shows a summary of the results of other studies with comparable follow up periods in terms of numbers of eyes with primary pterygium, MMC concentration, intraoperative exposure time, recurrence rates, and mean follow-up periods. 22 
+ Table 3. 
+ Summary of comparable studies’ results 
+ 
+ 
+ Authors 
+ Eyes (number) 
+ MMC concentration (%) 
+ Duration (minutes) 
+ Mean follow-up (months) 
+ Pterygium recurrence (%) 
+ 
+ 
+ 
+ Panda et al 
+ 25 
+ 0.02 
+ 3 
+ 18 
+ 12 
+ 
+ 
+ Manning et al 
+ 19 
+ 0.04 
+ 3 
+ 16 
+ 10.5 
+ 
+ 
+ Caliskan et al 
+ 19 
+ 0.04 
+ 3 
+ 10.3 
+ 5.3 
+ 
+ 
+ Canno-Para et al 
+ 30 
+ 0.01 
+ 5 
+ 14 
+ 3.33 
+ 
+ 
+ Current study 
+ 25 
+ 0.05 
+ 3 
+ 18.8 
+ 8 
+ 
+ 
+ 
+ Open in a new tab 
+ Abbreviation: MMC, mitomycin C. Even when used in correct dosages for brief periods, mitomycin has been associated with prolonged, irreversible stem cell damage with resultant chronic keratopathy and toxic keratoconjunctivitis. It is important to note that any use of topical MMC can be toxic and may cause visually significant complications such as aseptic scleral necrosis and infectious sclerokeratitis, secondary glaucoma, uveitis, cataract, corneal edema, corneal perforation, and endophthalmitis. 16 , 23 Moreno et al reported corneal melting 2 weeks after the use of MMC in surgical management of pterygium and mentioned that scleral thinning can occur as early as 1 week postoperatively or even years after the use of MMC (cited in Menghini et al). 21 The critical point regarding these complications is that they may occur many months, or even years, after the use of MMC. The statistically significant reduced recurrence rate that we found and the rarity of postoperative complications during a reasonably long follow up period justify the use of MMC as an adjuvant drug to be applied during surgical excision of pterygium. However, it is not advisable to think about using such medication topically postoperatively because of the possible serious complications that might be encountered during long periods of topical administration or because of drug abuse. Intraoperative use should be controlled with regards to the dose and time of application, unlike postoperative topical application which would be dependent on patient administration and overdosing might be encountered, increasing the potential of developing side effects secondary to local tissue damage. 
+ Upon reviewing the characteristics of recurrent cases in our series, the recurrent pterygia after using MMC were atrophic with scanty vascular components ( Figure 2A ) and they were hardly noticeable by the patients (ie, cosmetically insignificant). On the other hand, the recurrent cases following application of 5-FU shared a highly vascular mass with variable rate of regrowth ( Figure 2B ), which suggests that the role of such an agent in vascular growth suppression is negligible when compared to the antifibroblastic activity. Several studies have recently emphasized the importance of vascular endothelial growth factor in the development and recurrence of pterygium. 21 Therefore, the timely recognition and treatment of an impending recurrence with subconjunctival anti-VEGF drugs injection is crucial in stopping recurrences, especially when unusual vascular growth is noticed. 
+ Figure 2. 
+ 
+ Open in a new tab 
+ Recurrent pterygia after surgical excision with antimetabolite application ( A ) received 5-fluorouracil and ( B ) received mitomycin C. Conclusion 
+ The intraoperative application of antimetabolites is of value in reducing the recurrence rate after simple primary pterygium excision. Both MMC and 5-FU were safe during the follow up period but a statistically significant high success rate and more cosmetically acceptable appearance after MMC use justifies recommending its use to be superior to 5-FU as a medical adjuvant in the surgical management of primary pterygium. Figure 1. 
+ 
+ Open in a new tab 
+ Eyes with recurrent pterygia among the different treatment modalities. 
+ Abbreviations: AM, antimetabolite; 5FU, 5-fluorouracil; MMC, mitomycin C. Footnotes 
+ 
+ Disclosure 
+ The authors report no conflicts of interest in this work. 
+ References 
+ 
+ 
+ 1. Duke-Elder SS. Degenerative and pigmentary changes. In: Duke-Elder SS, editor. System of Ophthalmology. 3rd ed. London: Henry Kempton; 1977. pp. 569–585. [ Google Scholar ] 
+ 
+ 2. Cameron ME. Pterygium throughout the world. Springfield: Thomas; 1965. pp. 141–171. [ Google Scholar ] 
+ 
+ 3. Panchapakesan J, Hourihan F, Mitchell P. Prevalence of pterygium and pinguecula: the Blue Mountains Eye Study. Aust N Z J Ophthalmol. 1998;26(Suppl 1):S2–S5. doi: 10.1111/j.1442-9071.1998.tb01362.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Taylor HR, West SK, Muñoz B, Rosenthal FS, Bressler SB, Bressler NM. The long-term effects of visible light on the eye. Arch Ophthalmol. 1992;110(1):99–104. doi: 10.1001/archopht.1992.01080130101035. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Talbot G. Pterygium. Trans Ophthalmol Soc N Z. 1948;2:42–43. [ Google Scholar ] 
+ 
+ 6. Twelker JD, Bailey IL. Clinical evaluation of pterygium. In: Taylor HR, editor. Pterygium. Amsterdam: Kugler Publications; 2000. [ Google Scholar ] 
+ 
+ 7. Moran DJ, Hollows FC. Pterygium and ultraviolet radiation: a positive correlation. Br J Ophthalmol. 1984;68(5):343–346. doi: 10.1136/bjo.68.5.343. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Dushku N, Reid TW. P53 expression in altered limbal basal cells of pingueculae, pterygia, and limbal tumors. Curr Eye Res. 1997;16(12):1179–1192. doi: 10.1076/ceyr.16.12.1179.5036. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Butrus SI, Ashraf MF, Laby DM, Rabinowitz AI, Tabbara SO, Hidayat AA. Increased numbers of mast cell in pterygia. Am J Ophthalmol. 1995;119(2):236–237. doi: 10.1016/s0002-9394(14)73882-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Gans LA. Surgical treatment of pterygium. In: Belin MW, editor. Focal Points: Clinical Modules For Ophthalmologists. Vol. 14. San Francisco: American Academy of Ophthalmology; 1996. [ Google Scholar ] 
+ 
+ 11. Fukamachi Y, Hikita N. Ocular complications following pterygium operation. JPN. 1981;32:197–201. [ Google Scholar ] 
+ 
+ 12. Chowers I, Pe’er J, Zamir E, Livni N, Ilsar M, Frucht-Pery J. Proliferative activity and p53 expression in primary and recurrent pterygia. Ophthalmology. 2001;108:985–988. doi: 10.1016/s0161-6420(00)00651-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Youngson RM. Recurrence of pterygium after excision. Br J Ophthalmol. 1972;56(2):120–125. doi: 10.1136/bjo.56.2.120. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Tomas T. Sliding flap of conjunctival limbus to prevent recurrence of pterygium. Refract Corneal Surg. 1992;8(5):394–395. [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Kanski JJ. The conjunctiva. In: Kanski JJ, editor. Clinical Ophthalmology: A Systematic Approach. 7th ed. Oxford: Butterworth-Heinemann; 2011. [ Google Scholar ] 
+ 
+ 16. Sutphin JE. Basic and Clinical Science Course: External disease and cornea. Vol. 8. San Francisco: American Academy of Ophthalmology; 2008. pp. 394pp. 429–432. [ Google Scholar ] 
+ 
+ 17. Chui J, Coroneo MT, Tat LT, Crouch R, Wakefield D, Di Girolamo N. Ophthalmic pterygium: a stem cell disorder with premalignant features. Am J Pathol. 2011;178(2):817–827. doi: 10.1016/j.ajpath.2010.10.037. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Mutlu FM, Sobaci G, Tatar T, Yildirim E. A comparative study of recurrent pterygim surgery: limbal conjunctival autograft transplantation versus mitomycin C with conjunctival flap. Ophthalmology. 1999;106(4):817–821. doi: 10.1016/S0161-6420(99)90172-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Allan BD, Short P, Crawford GJ, Barrett GD, Constable IJ. Pterygium excision with conjunctival autografting: an effective and safe technique. Br J Ophthalmol. 1993;77(11):698–701. doi: 10.1136/bjo.77.11.698. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Hameed HT. Rotational flap versus simple conjunctival excision in pterygium treatment. Kufa Med Journal. 2009;12(1):398–399. [ Google Scholar ] 
+ 
+ 21. Menghini M, Watson SL, Bosch MM. Corneal melting two weeks after pterygium excision with topical mitomycin C: successfully treated with lamellar keratoplasty and amnion membrane transplantation. Case Report Ophthalmol. 2012;3(1):24–29. doi: 10.1159/000336452. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Cheng HC, Tseng SH, Kao PL, Chen FK. Low-dose intraoperative mitomycin C as chemoadjuvant for pterygium surgery. Cornea. 2001;20(1):24–29. doi: 10.1097/00003226-200101000-00004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Ang LP, Chua JL, Tan DT. Current concepts and techniques in pterygium treatment. Curr Opin Ophthalmol. 2007;18(4):308–313. doi: 10.1097/ICU.0b013e3281a7ecbb. [ DOI ] [ PubMed ] [ Google Scholar ]

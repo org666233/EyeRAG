@@ -1,0 +1,182 @@
+Source: PubMed Central (PMC)
+PMCID: PMC8800436
+Title: The Use of Sustained Release Intravitreal Steroid Implants in Non-Infectious Uveitis
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8800436/
+Year: 2022
+Disease: uveitis
+Priority: 2
+============================================================
+
+Ophthalmol Ther . 2022 Jan 29;11(2):479–487. doi: 10.1007/s40123-022-00456-4 
+ 
+ 
+ The Use of Sustained Release Intravitreal Steroid Implants in Non-Infectious Uveitis Affecting the Posterior Segment of the Eye 
+ Didar Abdulla 
+ Didar Abdulla 
+ 
+ 1 Royal Surrey County Hospital, Egerton Road, Guildford, GU2 7XX UK 
+ Find articles by Didar Abdulla 
+ 
+ 
+ 1 , Yasser Ali 
+ Yasser Ali 
+ 
+ 1 Royal Surrey County Hospital, Egerton Road, Guildford, GU2 7XX UK 
+ Find articles by Yasser Ali 
+ 
+ 
+ 1 , Victor Menezo 
+ Victor Menezo 
+ 
+ 2 Institut Catala di Retina, Barcelona, Spain 
+ Find articles by Victor Menezo 
+ 
+ 
+ 2 , Simon R J Taylor 
+ Simon R J Taylor 
+ 
+ 1 Royal Surrey County Hospital, Egerton Road, Guildford, GU2 7XX UK 
+ 
+ 3 University of Surrey, Guildford, GU1 3XH UK 
+ Find articles by Simon R J Taylor 
+ 
+ 
+ 1, 3, ✉ 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Royal Surrey County Hospital, Egerton Road, Guildford, GU2 7XX UK 
+ 
+ 2 Institut Catala di Retina, Barcelona, Spain 
+ 
+ 3 University of Surrey, Guildford, GU1 3XH UK 
+ 
+ ✉ Corresponding author. 
+ 
+ 
+ Received 2021 Nov 18; Accepted 2022 Jan 7; Issue date 2022 Apr. 
+ 
+ © The Author(s) 2022 
+ Open Access This article is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License, which permits any non-commercial use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by-nc/4.0/ . 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC8800436  PMID: 35092605 
+ 
+ Abstract 
+ The treatment of non-infectious uveitis affecting the posterior segment of the eye has been revolutionized by the development of sustained-release corticosteroid implants over the past decade. Their use is now supported by healthcare systems that have licensed and commissioned them on the basis of the high-quality randomised controlled trials that formed part of their development and which have informed clinicians as to their benefits and risks. In particular, they have provided an alternative mode of treatment for patients who do not wish to be systemically immunosuppressed, or in whom such immunosuppression is less desirable, such as those with unilateral disease or those with concurrent illnesses such as diabetes mellitus, renal disease or osteoporosis that are negatively impacted by systemic corticosteroids or other immunosuppressive agents. In this article, we review the evidence for the use of the major licensed corticosteroid implants and assess the advantages and disadvantages of each. 
+ Keywords: Corticosteroids, Iluvien, Local therapy, Ozurdex, Uveitis Key Summary Points 
+ 
+ Sustained-release corticosteroid implants have changed the management of non-infectious uveitis affecting the posterior segment of the eye. 
+ The dexamethasone implant (Ozurdex®) and fluocinolone implant (Iluvien®) are licensed and commissioned treatments whose use is underpinned by high-quality research evidence. 
+ 
+ Open in a new tab Introduction 
+ The SARS-CoV-2 pandemic has had an extraordinary influence on medical practice since 2020. Quite apart from dealing with a global infectious disease pandemic, the medical profession has had to re-evaluate the treatment of many chronic conditions in an attempt to reduce patients’ risk of death or serious illness as a result of catching SARS-CoV-2 through interaction with hospitals and other medical settings. This has necessitated learning to manage conditions remotely where possible and to consider carefully the risks of particular treatment approaches in a way that was not previously necessary. 
+ Ophthalmology has been affected by this: it is a specialty which traditionally has a high throughput of predominantly elderly patients for both outpatient consultation and day-case surgical procedures. It has been important to find ways of delivering sight-saving procedures such as intravitreal injections in high volume without compromising patient safety. It has also affected the treatment of specific conditions such as uveitis, given the additional risks that immunosuppression offers in patients of this age range. Indeed, the management of uveitis has been thrown into sharp relief by the pandemic—how does one balance the risk of sight loss against the risk of potentially serious infectious illness and how does one approach treatment as a result? 
+ Fortunately, the options for treating uveitis have expanded enormously in the last 20 years. Systemic corticosteroids and second-line immunosuppressive agents initially provided the only option for treatment. Periocular corticosteroids could be used as an adjunct, but were generally of limited effectiveness and duration, reducing their usefulness. In reality, it was the discovery that intravitreal triamcinolone treatment was effective in refractory uveitis and refractory macular oedema that led to an explosion of interest in local therapy options as a genuine alternative to systemic therapy. From intravitreal triamcinolone therapy, interest has spread to longer-acting implants with the Retisert® implant (fluocinolone acetonide implant; Bausch and Lomb, New Jersey, USA), Ozurdex® implant (dexamethasone implant; Allergan (Abbvie), Illinois, USA) and, most recently, Iluvien® implant (fluocinolone acetonide implant; Alimera Sciences, Georgia, USA), all having been tested through formal clinical trials and licensing assessments by national regulatory agencies. 
+ The aim of this review is to use the recent UK National Institute of Health and Clinical Excellence (NICE) approval of the Iluvien® implant for non-infectious uveitis as a starting point to explore its potential use in the treatment of these heterogenous conditions, and to explore how this may help to alter the management of uveitis in an interconnected world in which the threat and reality of pandemic infectious diseases has rendered immunosuppression less attractive as an option for patients without significant systemic illness. 
+ This article is based on previously conducted studies and does not contain any new studies with human participants or animals performed by any of the authors. Non-Infectious Uveitis 
+ Uveitis describes inflammation of the eye and is an important condition, both ophthalmologically and economically. It accounts for 10–15% of visual loss in the developed world and this frequently occurs within the working population, making it an important condition to tackle owing to its socioeconomic impact [ 1 ]. The condition typically starts in the younger population and affects their wellbeing for most of their life, requiring multiple hospital appointments, surgery and, if not well managed, loss of sight. This in turn has a detrimental effect on society as it leads to loss of workforce and an amplified burden on social and hospital services. 
+ Uveitis consists of a heterogenous collection of diseases which can be broadly classified into infectious and non-infectious causes, although chorioretinal infections such as toxoplasma straddle the divide. The non-infectious causes can be further subdivided on the basis of the anatomical location of the principal source of inflammation into anterior, intermediate and posterior non-infectious uveitis. Of these, non-infectious posterior uveitis (NIPU) is the most sight-threatening and is the subtype most likely to require long-term treatment to prevent visual loss [ 1 ]. Treatment Approaches for Non-Infectious Posterior Uveitis (NIPU) 
+ Treatment aims to preserve sight by diminishing intraocular inflammation and thus reducing the sight-threatening complications of uveitis such as cataract, secondary glaucoma and macular oedema that can lead to permanent structural damage to the eye. Before the advent of local therapy, the mainstay of treatment was systemic corticosteroids, but these carry significant systemic side effects including gastric ulcers, weight gain, high blood sugar, hypertension, reduced bone density and psychological disturbances [ 1 – 4 ]. With the advent of transplantation came newer immunosuppressive drugs such as azathioprine and cyclosporine that have proved very useful in enabling disease to be controlled with lower levels of corticosteroids, but these drugs too have significant side effect profiles that limit their use, such as renal failure with cyclosporine and hepatic failure with mycophenolate mofetil. 
+ Biological agents are relatively newer agents that have been developed on the basis of a molecular understanding of disease pathogenesis. These include monoclonal antibodies, soluble receptors, cytokines themselves (such as interferons, IFNs), and natural cytokine antagonists. Biologic therapy is often very successful in controlling disease, especially in patients with an inadequate response to or intolerance of systemic steroids [ 4 ]. Clinical Trial Evidence for Use of Biologic Agents 
+ The most commonly studied systemic biologics for uveitis to date are the tumour necrosis factor (TNF)-α inhibitors, primarily infliximab, adalimumab, etanercept; interleukin blockers, such as tocilizumab and daclizumab; and other targeted therapies, such as rituximab and abatacept. Importantly, the efficacy of these agents has been studied in cases of severe uveitis that are refractory to conventional immunomodulatory agents and provide results that have transformed the management of severe disease [ 5 , 6 ]. 
+ The first major biologic to be studied was infliximab, which is a chimeric monoclonal antibody (mAb) that neutralizes TNFα activity. Comparative studies have shown superior efficacy compared to intravenous (IV) methylprednisone treatment, oral or topical corticosteroids, and conventional immunomodulatory therapy in severe disease, achieving a significantly faster resolution of retinal vasculitis, retinitis, panuveitis and cystoid macular oedema. However, there is a significant discontinuation rate of about 20% as a result of a side effect profile that includes rash, angioedema, infusion reactions, respiratory tract infections, gastroenteritis, congestive cardiac failure, pulmonary emboli, migratory polyarthritis, fatigue, and reactivation of latent tuberculosis [ 6 ]. 
+ Adalimumab is a fully humanized monoclonal antibody directed against TNFα which also stimulates apoptosis of activated T cells. It remains the only biologic agent used in the treatment of uveitis that has had two published, large, randomised, double-masked, placebo-controlled, multinational trials for the treatment of uveitis, the VISUAL I and VISUAL II trials [ 7 ]. Adalimumab allows patient independence due to its subcutaneous route of administration, which allows increased compliance and reduces hospital time and costs. Nevertheless, relatively frequent bloods tests and monitoring are still required. 
+ Other biologic agents have been studied in less detail and their use is often on the basis of retrospective case series and other reports, rather than higher-quality evidence obtained from randomised clinical trials. Clinical Trial Evidence for Use of Local Treatment Approaches 
+ In order to reduce systemic side effects but still benefit from the anti-inflammatory properties of corticosteroids, local therapeutic approaches began to be used in the 1980s. Initially, periocular injections of triamcinolone and methylprednisolone were used, but the effects were short-term, requiring multiple injections over time and thus increasing the chance of complications such as increased intraocular pressure, orbital fat atrophy/protrusion and ptosis [ 4 ]. These patients also often suffered poorer outcomes due to visual loss occurring in the interval between steroid injections, as relapses of inflammation and recurrent attacks led to cumulative damage and permanent visual compromise [ 8 ]. The switch to intravitreal triamcinolone therapy subsequently improved efficacy but did not significantly improve treatment duration beyond 3 months, leading to an unmet need for sustained-release intraocular steroid implants, a need which has now been significantly met by two fully licensed corticosteroid implants. Helpfully, both have been fully examined in high-quality randomised clinical trials and assessed through submission to regulatory bodies for licensing. Dexamethasone Implants in NIPU 
+ The first implant to be licensed in the European Union (EU) for the treatment of NIPU was the dexamethasone implant (Ozurdex®). This consists of dexamethasone adsorbed into a bio-erodible material that releases its contents over a 6-month period. There was a previous fluocinolone implant, the surgically implanted 0.59-mg fluocinolone acetonide implant (RETISERT), but whilst this gained US Food and Drug Administration (FDA) approval, it has no EU or UK licence and has struggled to gain broad acceptance owing to its significant risk profile, such as significantly elevated intraocular pressure and displacement of the implant [ 9 ], despite its undoubted efficacy in the treatment of uveitis [ 10 ]. 
+ Ozurdex’s initial licence was for use in retinal vein occlusion on the basis of the GENEVA trial which enrolled over a thousand patients with vision loss due to macular oedema associated with branch or central retinal vein occlusion [ 11 ]. The licence was subsequently extended to the treatment of NIPU on the basis of the HURON trial which was a 6-month study of 229 patients who were treated with a 0.7-mg dexamethasone implant, a 0.35-mg dexamethasone implant or a sham injection [ 12 ]. 
+ In the HURON trial, 47% of patients treated with the higher-dose implant attained a vitreous haze score of zero at week 8 compared to 12% of patients treated with a sham injection. Usefully, there is now real-world data for repeat implants suggesting that Ozurdex can be used to control uveitis over the long term, but frequent re-injection is required with a median relapse time of 6 months. For example, one retrospective, observational case series from Berlin reported on a cohort of 27 patients over a 24-month follow-up period and found a mean 2.46 injections required over that period (standard deviation 1.1 injections) [ 13 ]. 
+ In terms of complications, Ozurdex® leads to cataract progression in 30% of phakic eyes over 12 months and intraocular pressure increases of 10 mmHg or higher were observed in 13% of patients after a first injection and 15% after a second [ 14 ]. Fluocinolone Implants in NIPU 
+ The second implant to be approved for use was the fluocinolone implant (Iluvien®). The proof-of-principle for the use of fluocinolone implants to provide long-lasting control of NIPU was provided by the MUST trial which was a randomised controlled trial comparing Retisert® against systemic therapy and which found Retisert® to be non-inferior for both visual outcomes and quality of life [ 15 ]. As mentioned above, Retisert® has largely been superseded by Iluvien®, a 0.19-mg fluocinolone acetonide intravitreal implant which is designed to deliver a continuous release of 0.2 μg/day of fluocinolone acetonide (FAc) for up to 3 years and which was first licensed for use in November 2013. The Iluvien implant is made up of a non-biodegradable polymer with a length of 3.5 mm and a diameter of 0.37 mm. The Fluocinolone Acetonide for Diabetic Macular Edema (FAME) studies showed the FAc implant was effective in patients with diabetic macular oedema and it is now approved for this indication in the UK and EU [ 16 ]. Its effectiveness in the treatment of chronic diabetic macular oedema led to further studies in uveitis and it has now been proved to be effective in the treatment of patients with non-infectious uveitis in a 3-year randomised controlled study reported by Jaffe et al. [ 17 , 18 ]. This, and other studies, has led to the implant being licensed as an option for the prevention of relapse in non-infectious uveitis affecting the posterior segment of the eye. 
+ The licensing trial was a randomised, prospective, double-masked, parallel-group multicentre study which recruited 129 patients across six countries, comparing the effect of the fluocinolone implant (FAi) against sham injection at preventing disease relapse following the tapering of any systemic medications over the first 3 months of the study [ 17 , 18 ]. The primary study end point was rate of disease recurrence at month 6, with recurrence rates being significantly lower in the FAi-treated group at 40% as compared to the 98% seen in the sham group. Importantly, at 36 months, 35% of FAi-treated eyes had no disease recurrence or did not need any adjunctive medications, compared to only 2% of sham-treated eyes. However, 14 of 42 phakic eyes receiving the FAi required cataract surgery during the study compared to only one in the sham group. Interestingly, this was not mirrored in intraocular pressure responses, with episodes of raised intraocular pressure needing medical management occurring in the FAi- and sham-treated groups. 
+ There are also several published real-world studies looking at the use of Iluvien® in different types of uveitis. These provide lower grade evidence, but all report maintenance of remission and few adverse events apart from cataracts. In their review of the implant Bodaghi et al. [ 19 ] describe real-world outcomes of Iluvien® in 11 eyes of 8 patients with macular oedema secondary to NIPU. They showed an 82% response rate with resolution of macular oedema in 73%. Overall, 9% of eyes showed an increase in intraocular pressure, but none required medication or surgery. Two of the eyes were phakic at baseline and both developed cataracts that required surgery. 
+ Similarly, Ajamil-Rodanes et al. published a case series describing retrospective analysis of Iluvien® implants used in 15 eyes of 11 patients [ 20 ]. Iluvien® controlled retinal vascular leakage and macular oedema well but had little effect on choroidal activity, thus requiring additional systemic anti-TNF therapy. They reported no surgical interventions to lower intraocular pressure, but of the 13 phakic eyes in the study, 12 developed cataracts that required surgery [ 20 ]. Weber et al. also reported on 11 eyes of eight patients with intermediate or posterior uveitis that they treated with Iluvien® between 2013 and 2017 [ 21 , 22 ]. Over a 19-month follow-up period, 82% of patients gained at least one line of visual acuity and all had significant improvements in macular oedema; only one patient had a recurrence of uveitis and cystoid macular oedema after 3 months, but both their patients with phakic eyes underwent cataract surgery, with one having a recurrence of oedema as they had a vitrectomy and membrane peel. They reported that intraocular pressure increases did not require additional treatment and no major ophthalmic complications occurred. Why Use Sustained-Release Corticosteroid Implants in NIPU 
+ Some of the benefits of the local therapy approach were identified by the MUST trial, which looked at both visual outcomes and quality of life scores for patients with uveitis. At enrolment in the MUST trial, participants had a high occurrence of reduced visual acuity and of ocular complications of uveitis, and reported a considerably reduced quality of life, stressing the substantial adverse consequences of intermediate, posterior, and panuveitis [ 15 ]. Using a time trade-off methodology, Brown et al. estimated the losses of health utility associated with a reduction of vision to the 20/60–20/100 range and to 20/200 or worse as being a 28% and a 39% reduction in the quality of life respectively [ 23 ]. Their patients were observed to have health value similar to that associated with visual acuity in the 20/60–20/100 range, even though only 5% had low vision in their better eye, proposing that uveitis may have further health impact added to its effect on vision, possibly via symptoms of inflammation unmeasured by visual acuity, side effects of treatment, and/or the impact of associated systemic disease. Significant improvements in both vision and quality of life scores were seen in both arms of the trial, supporting the long-term use of local therapy in the management of uveitis. 
+ There are significant benefits in the avoidance of systemic therapy and all its attendant potential side effects and need for monitoring. This has been brought into sharp relief by the COVID-19 pandemic which has highlighted the disadvantages of immunosuppressing patients and of requiring frequent hospital follow-up appointments to monitor and adjust therapies. As such, the development of sustained-release corticosteroid implants is of considerable value, particularly as there is high-quality evidence to support both of their uses. 
+ There are other advantages too for specific patient scenarios. For example, Ansari et al. describe a case report of a 20-year-old patient with poorly controlled uveitis. It became clear to them that non-compliance with systemic medication was a large contributing factor to the patient’s deteriorating eye health. As the patient was pseudophakic and also wished to become pregnant, the use of sustained-release steroid implants had a favourable risk–benefit profile, and the patient was treated with an Ozurdex® implant followed by an Iluvien® implant. These provided for much improved disease control without any recorded complications [ 24 ]. This report provides a good indication of the type of situation in which longer-lasting corticosteroid implants may be of significant benefit. 
+ A similar situation may be seen in the following clinical vignette from our own practice. 
+ Clinical Vignette 
+ A 29-year-old woman with trisomy 21 first presented to us in 2018 with a history of multifocal choroiditis with panuveitis since her teens complicated by macular oedema and optic disc oedema. She had demonstrated minimal responses to systemic treatment including mycophenolate mofetil, adalimumab, methotrexate, tacrolimus and tocilizumab. She had become cushingoid on treatment with oral corticosteroids. She had also received periocular triamcinolone acetonide therapy and incurred steroid-induced ocular hypertension in response. 
+ Following a thorough ocular examination we deemed her a good candidate for local therapy and she received bilateral intravitreal dexamethasone implants (Ozurdex®) in February 2018. This proved effective at controlling both macular oedema and optic disc oedema and her quality of life improved substantially as the oral therapy was tapered, but the disease relapsed at 4 months and required further implant therapy. She consequently underwent bilateral cataract surgery in February 2019 after three dexamethasone implants in each eye. Over the next 2 years, she received six further implants in each eye. 
+ Following the commissioning of Iluvien by NICE in December 2019 for the prevention of relapse in non-infectious uveitis of the posterior segment, she received bilateral Iluvien implants in January 2020 which have provided long-term control of inflammation without requiring the reinstitution of systemic therapy (Fig.  1 ). 
+ Fig. 1. 
+ 
+ Open in a new tab 
+ Representative optical coherence tomography (OCT) scans (left-hand panel right eye, right-hand panel left eye): top row: pre-local therapy on tocilizumab and oral corticosteroids; second row: after initial Ozurdex therapy; third row: typical relapse 4 months after Ozurdex; bottom row: 1-year post-Iluvien implants to both eyes. Iluvien was implanted whilst the disease was controlled in order to provide longer-lasting disease control without further relapse Which Implant to Use? 
+ As there are no direct head-to-head trials comparing the Iluvien® and Ozurdex® implants, it is difficult to compare directly their efficacy and safety. However, it is clear from the licensing trials for each implant that they both provide for excellent control of intraocular inflammation well and both have a good safety profile. In the UK, the dexamethasone implant is licensed and commissioned for the control of active disease whereas the Iluvien (R) implant is only licensed and commissioned for the prevention of disease relapse. Otherwise, the most significant difference is clearly the duration of action which is significantly longer with the Iluvien® implant. This may well be of use in reducing treatment interactions and follow-up burden for longer-term disease, gaining benefits in terms of the reduced possibility of injection-associated adverse events, lesser treatment burden, better adherence and improved disease control [ 25 ]. Importantly, multiple real-world case series have not reported a significant problem with increased intraocular pressure over time, which reduces one possible concern regarding the use of a long-acting implant in patients without being certain that they will attend follow-up appointments appropriately. 
+ When it comes to management of uveitis though, treatment algorithms must be patient specific and tailored to the individual. The UK NICE report regarding the use of Iluvien is interesting as it provides human factors to consider beyond the basic treatment indications considered when approval was granted. For example, one stakeholder highlighted that the long-lasting design of the fluocinolone acetonide implant could improve adherence to treatment for some people, such as those with dementia or mental health problems. Another stakeholder highlighted that women may benefit more from the fluocinolone acetonide implant because high doses of systemic steroids may adversely affect women’s bone density more than men’s. Because the NICE committee’s recommendation is for the whole population covered by the marketing authorisation, the committee concluded that its recommendations do not have a different effect on people protected by the equality legislation than on the wider population [ 26 ], but did conclude that patient factors play an important role in the management of a disease and the above comments can help guide ophthalmologists in the decision-making. 
+ Local intraocular steroids have proved useful in uveitis confined to one eye, or patients without systemic disease. Past approaches have been hindered by the limited duration of action of the available steroids and their unlicensed nature, but these problems have now both been addressed by the Ozurdex and Iluvien implants which both provide for excellent control of inflammatory activity with an acceptable side effect profile. We believe both should now form part of the standard armamentarium of uveitis specialists in the control of inflammatory eye disease. Acknowledgements 
+ Funding 
+ No funding or sponsorship was received for this study or publication of this article. Authorship 
+ All named authors meet the International Committee of Medical Journal Editors (ICMJE) criteria for authorship for this article, take responsibility for the integrity of the work as a whole, and have given their approval for this version to be published. Author Contributions 
+ Didar Abdulla: drafting; Yasser Ali: drafting; Victor Menezo: editing; Simon Taylor: drafting & editing. Disclosures 
+ Didar Abdulla discloses travel grants from Alimera, Yasser Ali has nothing to disclose, Victor Menezo has nothing to disclose, Simon Taylor has nothing to disclose. Compliance with Ethics Guidelines 
+ This article is based on previously conducted studies and does not contain any new studies with human participants or animals performed by any of the authors. Data Availability 
+ Data sharing is not applicable to this article as no datasets were generated or analysed during the current study. References 
+ 
+ 
+ 1. de Smet MD, Taylor SRJ, Bodaghi B, et al. Understanding uveitis: the impact of research on visual outcomes. Prog Retin Eye Res. 2011;30(6):452–470. doi: 10.1016/j.preteyeres.2011.06.005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Koronis S, Stavrakas P, Balidis M, Kozeis N, Tranos PG. Update in treatment of uveitic macular edema. Drug Des Devel Ther. 2019;13:667–680. doi: 10.2147/DDDT.S166092. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Miserocchi E, Fogliato G, Modorati G, Bandello F. Review on the worldwide epidemiology of uveitis. Eur J Ophthalmol. 2013;23(5):705–717. doi: 10.5301/ejo.5000278. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Tempest-Roe S, Joshi L, Dick AD, Taylor SRJ. Local therapies for inflammatory eye disease in translation: past, present and future. BMC Ophthalmol. 2013;13(1):39. doi: 10.1186/1471-2415-13-39. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Pasadhika S, Rosenbaum JT. Update on the use of systemic biologic agents in the treatment of noninfectious uveitis. Biol Targets Ther. 2014;8:67–81. doi: 10.2147/BTT.S41477. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Trivedi A, Katelaris C. The use of biologic agents in the management of uveitis. Intern Med J. 2019;49(11):1352–1363. doi: 10.1111/imj.14215. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Sheppard J, Joshi A, Betts KA, et al. Effect of adalimumab on visual functioning in patients with noninfectious intermediate uveitis, posterior uveitis, and panuveitis in the VISUAL-1 and VISUAL-2 trials. JAMA Ophthalmol. 2017;135(6):511–518. doi: 10.1001/jamaophthalmol.2017.0603. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Jabs DA, Akpek EK. Immunosuppression for posterior uveitis. Retina Phila Pa. 2005;25(1):1–18. doi: 10.1097/00006982-200501000-00001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Chang PY, Kresch Z, Samson CM, Gentile RC. Spontaneous dissociation of fluocinolone acetonide sustained release implant (Retisert) with dislocation into the anterior chamber. Ocul Immunol Inflamm. 2015;23(6):454–457. doi: 10.3109/09273948.2014.902074. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Multicenter Uveitis Steroid Treatment (MUST) Trial Research Group. Kempen JH, Altaweel MM, et al. Benefits of systemic anti-inflammatory therapy versus fluocinolone acetonide intraocular implant for intermediate uveitis, posterior uveitis, and panuveitis: fifty-four-month results of the multicenter uveitis steroid treatment (MUST) trial and follow-up study. Ophthalmology. 2015;122(10):1967–1975. doi: 10.1016/j.ophtha.2015.06.042. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Haller JA, Bandello F, Belfort R, et al. Randomized, sham-controlled trial of dexamethasone intravitreal implant in patients with macular edema due to retinal vein occlusion. Ophthalmology. 2010;117(6):1134–1146.e3. doi: 10.1016/j.ophtha.2010.03.032. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Lowder C, Belfort R, Lightman S, et al. Dexamethasone intravitreal implant for noninfectious intermediate or posterior uveitis. Arch Ophthalmol. 2011;129(5):545–553. doi: 10.1001/archophthalmol.2010.339. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Pohlmann D, Vom Brocke GA, Winterhalter S, Steurer T, Thees S, Pleyer U. Dexamethasone inserts in noninfectious uveitis: a single-center experience. Ophthalmology. 2018;125(7):1088–1099. doi: 10.1016/j.ophtha.2017.12.038. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Haller JA, Bandello F, Belfort R, et al. Dexamethasone intravitreal implant in patients with macular edema related to branch or central retinal vein occlusion twelve-month study results. Ophthalmology. 2011;118(12):2453–2460. doi: 10.1016/j.ophtha.2011.05.014. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Multicenter Uveitis Steroid Treatment Trial Research Group. Kempen JH, Altaweel MM, Holbrook JT, Jabs DA, Sugar EA. Rationale, design, and baseline characteristics. Am J Ophthalmol. 2010;149(4):550–561.e10. doi: 10.1016/j.ajo.2009.11.019. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Pearson PA, Comstock TL, Ip M, et al. Fluocinolone acetonide intravitreal implant for diabetic macular edema: a 3-year multicenter, randomized, controlled clinical trial. Ophthalmology. 2011;118(8):1580–1587. doi: 10.1016/j.ophtha.2011.02.048. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Jaffe GJ, Lin P, Keenan RT, Ashton P, Skalak C, Stinnett SS. Injectable fluocinolone acetonide long-acting implant for noninfectious intermediate uveitis, posterior uveitis, and panuveitis: two-year results. Ophthalmology. 2016;123(9):1940–1948. doi: 10.1016/j.ophtha.2016.05.025. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Callanan DG, Jaffe GJ, Martin DF, Pearson PA, Comstock TL. Treatment of posterior uveitis with a fluocinolone acetonide implant: three-year clinical trial results. Arch Ophthalmol. 2008;126(9):1191–1201. doi: 10.1001/archopht.126.9.1191. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Bodaghi B, Nguyen QD, Jaffe G, Khoramnia R, Pavesio C. Preventing relapse in non-infectious uveitis affecting the posterior segment of the eye—evaluating the 0.2 μg/day fluocinolone acetonide intravitreal implant (ILUVIEN®) J Ophthalmic Inflamm Infect. 2020;10(1):32. doi: 10.1186/s12348-020-00225-z. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Ajamil-Rodanes S, Testi I, Luis J, Robson AG, Westcott M, Pavesio C. Evaluation of fluocinolone acetonide 0.19 mg intravitreal implant in the management of birdshot retinochoroiditis. Br J Ophthalmol. 2020. 10.1136/bjophthalmol-2020-317372. [ DOI ] [ PubMed ] 
+ 
+ 21. Hikal M, Celik N, Auffarth GU, Kessler LJ, Mayer CS, Khoramnia R. Intravitreal 0.19 mg fluocinolone acetonide implant in non-infectious uveitis. J Clin Med. 2021;10(17):3966. doi: 10.3390/jcm10173966. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Weber LF, Marx S, Auffarth GU, et al. Injectable 0.19-mg fluocinolone acetonide intravitreal implant for the treatment of non-infectious uveitic macular edema. J Ophthalmic Inflamm Infect. 2019;9(1):3. doi: 10.1186/s12348-019-0168-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Brown MM, Brown GC, Sharma S, Busbee B. Quality of life associated with visual loss: a time tradeoff utility analysis comparison with medical health states. Ophthalmology. 2003;110(6):1076–1081. doi: 10.1016/S0161-6420(03)00254-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Ansari AS, Amir Z, Williams GS. Bilateral 0.19 mg fluocinolone acetonide intravitreal implant in the successful treatment of juvenile idiopathic arthritis-associated uveitis and secondary macular oedema: a case report and review of intravitreal therapies. Ophthalmol Ther. 2021;10(1):193–200. doi: 10.1007/s40123-020-00328-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. ILUVIEN 190 micrograms intravitreal implant in applicator—summary of product characteristics (SmPC). EMC. https://www.medicines.org.uk/emc/medicine/27636 . Accessed 3 Nov 2021. 
+ 
+ 
+ 26. National Institute for Health and Care Excellence. Committee discussion: Fluocinolone acetonide intravitreal implant for treating recurrent non-infectious uveitis. NICE. https://www.nice.org.uk/guidance/ta590/chapter/3-Committee-discussion . Accessed 3 Nov 2021 
+ 
+ Associated Data 
+ This section collects any data citations, data availability statements, or supplementary materials included in this article. 
+ Data Availability Statement 
+ Data sharing is not applicable to this article as no datasets were generated or analysed during the current study.

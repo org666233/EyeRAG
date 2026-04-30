@@ -1,0 +1,281 @@
+Source: PubMed Central (PMC)
+PMCID: PMC4474142
+Title: Evolving Techniques in Corneal Transplantation
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4474142/
+Year: 2015
+Disease: corneal_transplant
+Priority: 2
+============================================================
+
+Curr Surg Rep . Author manuscript; available in PMC: 2016 Jan 31. 
+ 
+ Published in final edited form as: Curr Surg Rep. 2015 Jan 7;3(2):http://link.springer.com/article/10.1007/s40137-014-0079-5/fulltext.html. doi: 10.1007/s40137-014-0079-5 
+ 
+ 
+ Evolving Techniques in Corneal Transplantation 
+ Grace E Boynton 
+ Grace E Boynton 
+ 
+ 1 Department of Ophthalmology and Visual Sciences, University of Michigan Medical School, Kellogg Eye Center, 1000 Wall St., Ann Arbor, MI 48105, USA 
+ Find articles by Grace E Boynton 
+ 
+ 
+ 1 , Maria A Woodward 
+ Maria A Woodward 
+ 
+ 1 Department of Ophthalmology and Visual Sciences, University of Michigan Medical School, Kellogg Eye Center, 1000 Wall St., Ann Arbor, MI 48105, USA 
+ Find articles by Maria A Woodward 
+ 
+ 
+ 1, ✉ 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology and Visual Sciences, University of Michigan Medical School, Kellogg Eye Center, 1000 Wall St., Ann Arbor, MI 48105, USA 
+ 
+ ✉ Corresponding author. 
+ 
+ 
+ Issue date 2015 Feb 1. 
+ 
+ © Springer Science + Business Media New York 2014 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC4474142  NIHMSID: NIHMS665952  PMID: 26101726 
+ 
+ The publisher's version of this article is available at Curr Surg Rep 
+ 
+ Abstract 
+ Corneal transplantation is one of the most common types of human transplant surgery. By removing a scarred or damaged host cornea and replacing it with a clear and healthy donor transplant, this procedure helps to restore vision in a variety of corneal diseases. The traditional technique for corneal transplantation, penetrating keratoplasty (PKP), involves transplantation of all corneal layers. Over the past decade though, there has been a trend away from PKP as surgeons have developed partial thickness transplant procedures, such as deep anterior lamellar keratoplasty and Descemet stripping automated endothelial keratoplasty. These partial thickness transplant procedures selectively replace diseased host corneal tissue, while conserving healthy and functioning tissue. This review describes current surgical techniques in the field of corneal transplantation, with special emphasis on indications for transplantation and postoperative outcomes. 
+ Keywords: Corneal transplantation, Descemet stripping endothelial keratoplasty, Penetrating keratoplasty, Descemet membrane endothelial keratoplasty, Deep anterior lamellar keratoplasty Introduction 
+ The cornea is a clear protective tissue barrier that covers the front of the eye. By virtue of its transparency and domed shape, it also allows the passage of incoming light rays and focuses them on the retina. The average adult cornea is 550 µm and consists of five layers: the corneal epithelium, Bowman’s layer, the corneal stroma, Descemet membrane, and the corneal endothelium. The outermost layer of the cornea is the epithelium, which blocks the entry of foreign materials and absorbs oxygen and nutrients from tears. Directly below the epithelium is Bowman’s layer, a clear layer of modified stroma. Beneath Bowman’s layer is the stromal layer, which contributes the bulk of the cornea’s thickness, and is composed of regularly-arranged collagen fibrils and keratocytes. Descemet membrane is a basement membrane that lies between the stroma and the corneal endothelium. The corneal endothelium is the innermost layer of the cornea, and is only one cell layer thick. It has the important function of pumping excess fluid out of the stroma to maintain corneal transparency. 
+ The transparency of the cornea depends on its relative state of dehydration, its avascularity, and the uniformity of its structure. Because the cornea contains no blood vessels, it depends on the aqueous humor, tears, and the limbal blood supply for nutrition. Disease and injury can cause scarring, opacification, and corneal irregularity with subsequent distortion of incoming light rays and reduced vision. In some circumstances, vision can be restored through corneal transplantation, where a diseased or scarred host cornea is replaced with a transparent and healthy transplant. In fact, this procedure is frequently indicated and corneal transplantation is one of the most common types of human transplant surgery. In 2013, 48,229 corneal transplants were performed in the US [ 1 ], compared to 28,953 solid organ transplantations which occurred that same year (including kidney, pancreas, liver, intestine, heart, and lung) [ 2 ]. Although corneal transplantation has high success rates, the procedure is not without risk. Intraoperatively, poor graft centration, suprachoroidal hemorrhage, infection, and damage to surrounding ocular structures can occur. Postoperative risks include transplant wound dehiscence, infection, graft rejection, graft failure, disease recurrence, and severe astigmatism. 
+ Corneal transplantation is indicated in a variety of settings and can be performed in several ways depending on the location of pathology in the host cornea ( Fig. 1 ). Historically, penetrating keratoplasty (PKP) was the mainstay surgery for corneal transplantation. In this procedure, the central portion (approximately two-thirds) of the diseased host cornea is removed entirely and replaced with a donor graft that includes all five layers of the cornea. Newer targeted transplant surgeries have been developed, including deep anterior lamellar keratoplasty (DALK), Descemet stripping automated endothelial keratoplasty (DSAEK), and Descemet membrane endothelial keratoplasty (DMEK). These procedures allow for selective replacement of diseased host corneal tissue, with conservation of healthy and functioning portions of the cornea. In DALK, the host Descemet membrane and endothelium are retained, and the donor graft contains only the anterior cornea, with a varying amount of corneal stroma. Conversely, for endothelial keratoplasty (EK), the posterior portion of the cornea is transplanted and the anterior portion of the cornea is retained. In one version of EK, DSAEK, the transplanted graft includes the corneal endothelium, Descemet membrane, and a thin layer of corneal stroma. In another version of EK, DMEK, the transplanted graft consists only of Descemet membrane and the corneal endothelium. In recent years, EK has become the most commonly performed corneal transplant surgery in the US [ 1 ], reflecting the fact that the majority of diseases of the cornea are of the corneal endothelium. 
+ Fig. 1. 
+ 
+ Open in a new tab 
+ Slit lamp photographs following a penetrating keratoplasty, b deep anterior lamellar keratoplasty, c Descemet stripping automated keratoplasty, and d descemet membrane endothelial keratoplasty In this review, we describe the rapidly evolving field of corneal transplantation, with special emphasis on indications for transplantation, current surgical techniques, and postoperative outcomes. Penetrating Keratoplasty 
+ The first successful PKP was performed by Eduard Zirm in 1905, and PKP remained the mainstay for corneal transplantation throughout the remainder of the twentieth century. Over the last decade though, there has been a trend away from PKP, in favor of partial-thickness transplantation procedures. In 2005, 42,063 grafts were used in PKP surgeries in the US, and in 2013, only 20,954 grafts were used for this purpose in the United States [ 1 ]. Common indications for PKP include keratoconus, graft replacement after prior graft failure, full-thickness corneal scars, Fuchs’ endothelial dystrophy, pseudophakic or aphakic bullous keratopathy, infection, and trauma ( Table 1 ). The basic surgical technique for PKP involves first marking the visual axis of the host cornea. The host cornea is then trephinated, and their diseased central cornea is excised. In its place, a full-thickness corneal button is transplanted from donor corneal-scleral tissue and sutured into place. After suturing, the transplant is checked to ensure a tight wound seal between the donor and recipient tissue. Femtosecond lasers can also be used, in a technique known as femotosecond laser-assisted keratoplasty (FLAK), to prepare both donor and recipient corneas [ 3 , 4 ]. 
+ Table 1. 
+ Overview of corneal transplantation procedures: techniques, indications, and complications 
+ 
+ 
+ 
+ PKP 
+ DALK 
+ DSAEK 
+ DMEK 
+ 
+ 
+ 
+ Surgical technique 
+ All layers of the diseased host cornea removed 
+ Diseased host epithelium and stroma removed 
+ Diseased host endothelium and Descemet membrane removed 
+ Diseased host endothelium and Descemet membrane removed 
+ 
+ 
+ 
+ Transplant of full-thickness donor graft 
+ Transplant of donor cornea epithelium, Bowman’s membrane, & corneal stroma 
+ Transplant of donor endothelium, Descemet membrane, & stroma 
+ Transplant of donor endothelium and Descemet membrane 
+ 
+ 
+ Common indications for selected technique 
+ Full-thickness scar, bullous keratopathy, keratoconus, graft failure 
+ Keratoconus, stromal scar, hereditary stromal dystrophies 
+ Fuchs’ dystrophy, bullous keratopathy, graft failure 
+ Fuchs’ dystrophy, bullous keratopathy, graft failure 
+ 
+ 
+ Major complications 
+ Graft rejection, graft failure, hemorrhage, infection, astigmatism, suture complications 
+ Graft rejection, intraoperative Descemet membrane tear, astigmatism 
+ Graft detachment, graft failure, graft rejection 
+ Graft detachment, graft failure 
+ 
+ 
+ 
+ Open in a new tab 
+ PKP penetrating keratoplasty, DALK deep anterior lamellar keratoplasty, DSAEK Descemet stripping automated endothelial keratoplasty, DMEK Descemet membrane endothelial keratoplasty One advantage of PKP is that the full thickness tissue does not create any tissue interfaces in the visual axis and is thus optically clear. This offers a visual benefit over partial thickness transplants. However, there are some increased intraoperative and postoperative risks associated with PKP, intraoperative hemorrhage (because the ocular contents are “exposed” to the air for a period of time during the procedure), postoperative wound leak, and endophthalmitis. Postoperative vision is frequently limited by astigmatism and anisometropia which needs to be managed by selective suture removal over the first postoperative year. Additionally, globe stability is reduced postoperatively, and patients are susceptible to higher rates of globe rupture at the incision site from blunt trauma even years after surgery. 
+ Several large studies have analyzed graft survival following PKP, and preoperative and postoperative risk factors impacting graft survival [ 5 , 6 , 7• ]. A study examining 18,686 PKP grafts in the Australian Corneal Graft Registry found that the probability of graft survival was 87 % at 1 year, 73 % at 5 years, 60 % at 10 years, and 46 % at 15 years [ 5 ]. The Cornea Donor Study, which prospectively followed 1,090 patients undergoing PKP, found a 75 % cumulative graft success rate at 10-years within their study cohort [ 7• ]. A third retrospective review of 3,992 eyes found that first time grafts had survival rates of 90 and 82 % at 5 and 10 years, respectively [ 6 ]. However, survival rates for regrafts were much lower, with 53 % at 5 years and 41 % at 10 years. 
+ Endothelial decompensation is one of the most common causes for graft failure, occurring in 24 % [ 5 ]–45 % [ 7• ] of failed grafts. Functioning corneal endothelium is essential for graft survival, and there is a steady loss of endothelial cells following PKP. Studies have demonstrated 61 % [ 8 ]–67 % [ 9 ] mean endothelial cell loss by the 10th postoperative year. Graft rejection is another frequent cause of graft failure, occurring in 27 % [ 6 ]–34 % [ 5 , 7• ] of grafts. Less common causes of graft failure include uncorrectable refractive error, infection, and ocular surface complications. 
+ A variety of preoperative and postoperative risk factors influence graft survival [ 10•• ]. Multiple studies have demonstrated that graft survival varies with indication for PKP. The 10-year follow-up data from one study showed 89 % survival for keratoconus, 73 % survival for Fuchs’ dystrophy, 66 % for nonherpetic scar, 59 % for herpetic eye disease, 42 % survival for bullous keratopathy, and 37 % survival for re-grafts [ 5 ]. There are also higher incidences of graft rejection associated with certain preoperative diagnoses. For example, in the Cornea Donor Study, the 10-year cumulative probability of a rejection event among patients with Fuchs’ dystrophy was 13 %, but individuals with pseudophakic or aphakic corneal edema had a 21 % probability of experiencing a rejection event [ 10•• ]. Donor age does not appear to be an important determinant of graft survival except for at the very extremes of age [ 5 , 7• ]. Postoperative rejection episodes [ 5 , 10•• ], preoperative history of glaucoma [ 10•• ], and larger graft size [ 5 ] are all factors associated with a higher risk of graft failure. Deep Anterior Lamellar Keratoplasty (DALK) 
+ In DALK, the host epithelium and stroma are removed, ideally to the level of Descemet membrane. The transplanted donor graft consists of donor epithelium, Bowman’s membrane, and the corneal stroma. DALK is an alternative to PKP when the host endothelium is functional and pathology is limited to the anterior cornea. DALK is frequently performed for keratoconus and partial thickness corneal scars ( Table 1 ). 
+ Several variations in technique are used to excise the host anterior cornea in DALK. Traditionally, the anterior corneal layers are manually dissected until the deep stroma or Descemet membrane is reached. In recent years, alternative dissection techniques to separate the stroma from Descemet membrane have gained popularity, including injection of balanced salt solution [ 11 ] or viscoelastic [ 12 ] into the posterior stroma. Pneumatic dissection, used in Anwar and Teichmann’s “Big Bubble technique”, is a commonly performed. In this technique, air is injected into the cornea to create a dissection plane between the stroma and Descemet membrane [ 13 ]. 
+ One major advantage of DALK compared to PKP is that, with retention of the host endothelium and Descemet membrane, there are lower postoperative rates of endothelial cell loss and lower rates of rejection. In a study of 214 patients who underwent DALK for keratoconus, mean endothelial cell loss was 22 % at 8 years [ 14 ], roughly a third of that recorded 10 years after PKP [ 8 , 9 ]. There is also a lower incidence of graft rejection following DALK, compared to PKP [ 15 ]. Furthermore, post-operative rejection events in DALK patients are more likely to be reversible than in PKP patients [ 15 ]. One concern specific to DALK is that it can create an irregular stroma-to-stroma interface if not all of the host stroma is removed. While interface irregularities could potentially limit postoperative vision following DALK, PKP and DALK patients have comparable average postoperative visual acuity. For keratoconus patients, 78 % [ 16 ]–87 % [ 17 ] of those who undergo DALK and 73 % [ 18 ]–86 % [ 19 ] of those who undergo PKP achieve 20/40 best corrected visual acuity or better. Astigmatism after DALK is also comparable to that after PKP [ 20 ]. Intraoperative complications specific to DALK include microperforations of Descemet membrane, and macroperforations of Descemet membrane that necessitate conversion from DALK to PKP. Studies report 1 % [ 21 ]–4 % [ 17 ] rates of conversion to PKP; however, it is likely higher in clinical practice. 
+ Descemet Stripping Automated Endothelial Keratoplasty (DSAEK) 
+ DSAEK is the most commonly performed keratoplasty in the US, with 49.0 % of corneas distributed for this purpose in 2013 in the United States [ 1 ]. It is an appropriate therapy for endothelial dysfunction. Indications for DSAEK include Fuchs’ corneal dystrophy, pseudophakic or aphakic bullous keratopathy, failed prior keratoplasty, endothelial decompensation secondary to prior surgery or trauma, posterior polymorphous dystrophy, and iridocorneal endothelial syndrome ( Table 1 ). 
+ In DSAEK, the diseased host corneal endothelium and Descemet membrane are removed and replaced with a donor graft consisting of corneal endothelium, Descemet membrane, and a variable amount of posterior stroma. A variety of techniques are used in preparation of the donor graft. First, a donor corneoscleral rim is mounted on an artificial anterior chamber (ACC), and hand dissection or an automated microkeratome is used to cut a posterior corneal button [ 22 ]. Although there is a lower risk of graft perforation with automated preparation compared to manual dissection, microkeratome-prepared DSAEK corneas are still frequently non-uniform, non-concentric, and non-circular [ 23 ]. In an effort to increase graft uniformity, femto-second preparation of DSAEK tissues has been explored. However, femto-prepared tissues have had greater irregularity of the posterior surface and increased thickness irregularity when compared to microkeratome-prepared tissues [ 24 , 25 ]. The preparation of ultrathin DSAEK lenticules of ≤100 µm thickness is another emerging area of interest. Double-pass microkeratome techniques have been used to create thinner grafts [ 26 ], however, this has resulted in increased perforation rates [ 27 ] and increased endothelial damage [ 28 ] in some studies. In the final step of donor graft preparation, the tissue is trephinated so that it fits the area of removed tissue in the host eye. 
+ Following graft preparation, a variety of insertion techniques can be used to place the donor graft in the host anterior chamber and adhering it to the posterior cornea. The original strategies for graft insertion involved folding the donor lenticule and using a set of non-compressing forceps to push it through a small corneal or scleral incision. A number of alternative insertion techniques were subsequently developed to minimize endothelial cell damage that occurred with graft manipulation and folding. Alternative insertion techniques include pulling an unfolded donor lenticule over a modified Sheets glide [ 29 ], pulling a donor lenticule over a funneled glide [ 30 ], and closed-chamber pulling-injection techniques [ 31 ]. Several instruments have also been developed to aid with lenticule insertion into the host anterior chamber [ 32 , 33 ]. Following tissue insertion into the anterior chamber, the corneal incision or scleral tunnel is closed. The lenticule is positioned and centered in the anterior chamber, and an air bubble is delivered into the anterior chamber so that its borders extend beyond the edges of the lenticule. The patient lies supine, and the air bubble holds the donor graft in place to the host posterior stroma until the donor endothelial pump function works to hold the tissue in place within the first few minutes to hours. 
+ One major advantage of DSAEK compared to PK is reduced wound size and thus reduced induced astigmatism. An analysis of post-EK outcomes found that, on average, DSAEK induces only .11 D of astigmatism [ 34 ]. Visual recovery also occurs more quickly in DSAEK compared to PKP. In one study comparing DSAEK to PKP, 70 % of DSAEK and 25 % of PKP patients obtained 20/40 acuity or better by 12 months. It was not until 2–3 three years after surgery that PKP patients obtained their final refractive result, at which point 55 %had 20/40 acuity or better [ 35 ]. A systemic review of studies reporting postoperative DSAEK outcomes found that average vision varied from 20/34 to 20/66 at a range of 3–21 months following DSAEK [ 34 ]. 
+ As DSAEK is a newer technique than PKP, there is less information about long-term graft survival following DSAEK than with PKP. However, several studies have reported 3-year DSAEK graft survival rates, and found them to be non-inferior to graft survival following PKP. One retrospective cohort study reported 87 % DSAEK graft survival and 85 % PKP graft survival at 3 years [ 36 ]. A second prospective trial reported 96 % DSAEK graft survival and 96 % PKP graft survival at 3 years for Fuchs’ dystrophy cases, and 86 % DSAEK survival and 84 % PKP graft survival at 3 years for non-Fuchs’ cases [ 37 ]. 
+ The most common complications following DSAEK include graft dislocation, endothelial rejection, primary graft failure, and iatrogenic glaucoma. Graft dislocation is the most frequent complication, and it tends to occur in the early postoperative period. Dislocation rates range widely with technique and surgeon experience, with studies reporting dislocation rates of 1.5 % [ 38 ]–85 % [ 39 ]. Primary graft failure is also a major cause of graft failure, and occurs in 0 % [ 40 ]–18 % [ 41 ] of grafts. Both endothelial cell failure and trauma or excessive manipulation of the graft can induce primary graft failure. Endothelial cell loss is accelerated following DSAEK, and a systemic review reported an average of 37 % endothelial cell loss by 6 months postoperative [ 34 ]. Cell loss continues after the immediate postoperative period, but at a slower rate, such that, by 5 years, one study found a loss rate of 53 % [ 42 ]. Descemet Membrane Endothelial Keratoplasty (DMEK) 
+ In DMEK, the transplanted lenticule consists solely of donor Descemet membrane and the corneal endothelium. As DMEK grafts contain no stroma, an advantage of this procedure is that it does not produce a stroma-to-stroma interface. Like DSAEK, DMEK is a therapeutic option for patients with endothelial dysfunction ( Table 1 ). Although challenges associated with preparing and handing delicate DMEK grafts have limited its widespread use, the procedure is growing in popularity. From 2012 to 2013, there was a 103.5 % increase in the total number of DMEK cases performed in the US [ 1 ]. 
+ A variety of techniques are used to harvest DMEK donor grafts. In manual peeling, described by Melles et al., the donor corneoscleral rim is immersed in BSS and a single set of non-toothed forceps are used to peel the DM [ 43 – 45 ]. Other instrumentation used to manually peel the DM includes using two sets of forceps [ 46 , 47 ] or curvilinear forceps [ 48 ]. An alternative technique to manual peeling is submerged corneas using backgrounds away (SCUBA), which was described by Giebel and Price [ 49 , 50 ]. In SCUBA, the cornea is submerged in Optisol or BSS during harvesting to mitigate surface tension, and to allow the DM to settle onto the stroma. Pneumatic dissection is another alternative to manual peeling of the DM [ 51 – 53 ]. As in DALK, pneumatic dissection in DMEK involves injecting air into the cornea to create a dissection plane between the donor stroma and DM. Another DMEK graft preparation method was recently described by Muraine et al. [ 54• ]. In their technique, a subtotal superficial trephination is performed on a donor cornea to create a flap, and then BSS is then injected underneath the flap to detach the DM. After stripping the donor DM, it is trephinated. The donor graft will naturally form into a roll, with the endothelial side facing outwards. 
+ The host is prepared by stripping away the diseased DM and endothelium [ 55 ]. Several instruments are used to insert DMEK grafts into the host cornea, including glass pipettes [ 56 ] and intraocular lens injection cartridges [ 46 , 54• ]. Once the rolled donor graft has been inserted into the host anterior chamber, it needs to be unfolded. One technique is to inject a small air bubble or BSS into the center of a rolled graft to unfold it. Another technique is to introduce an air bubble on top of the graft and move it to unfold the graft by pressing a cannula against the outer corneal surface [ 57 ]. Yoeruek et al. described an unfolding technique where digital pressure is applied at the equatorial plane, and the cornea is tapped on the outside surface to facilitate unfolding of the graft [ 58 ]. Once the graft is completed unfolded, is centered in the anterior chamber by gently applanating the outer cornea surface. Once the graft is centered, the anterior chamber is filled with air or gas [ 59 ] to achieve good apposition between the DMEK graft and host posterior stroma. 
+ One of the main advantages of DMEK over DSAEK is that it results in better visual acuity. Tourtas et al. completed a retrospective case series comparing visual outcomes in patients who had undergone DMEK and DSAEK, and found the DMEK patients had significantly better visual acuity than DSAEK patients at 3 and 6 months postoperative [ 60 ]. In their series, 50 % of DMEK patients and 6 % of DSAEK patients achieved a visual acuity of 20/25 or better after 6 months postoperative. In another prospective study of patients undergoing DMEK, 74 % achieved a corrected visual acuity of 20/25 or better by 6 months postoperative [ 61 ]. In a comparative case series of 15 patients who underwent DMEK in one eye and DSAEK in the contralateral eye, 85 % of interviewed patients said that their DMEK-treated eye had better quality of vision than their DSAEK-treated eye [ 62• ]. 
+ A second advantage of DMEK is that there is a reduced risk of graft rejection compared to DSAEK and PKP. Reported rates of rejection following DMEK include 0.7 % [ 63 ], 0.8 % [ 57 ], and 5.1 % [ 64 ]. Anshu et al. completed a retrospective case series of patients who underwent DMEK, DSAEK, and PKP to evaluate the comparative risks of postoperative rejection episodes in each group [ 63 ]. They found that, within the first 2 postoperative years, DMEK eyes had a 15-fold lower risk of experiencing a rejection episode than DSAEK eyes and a 20-fold lower risk compared to PKP eyes. 
+ One drawback of DMEK is the challenge of manipulating the thin grafts. Surgeons report that, with improvements in techniques and instrumentation, loss rates can be greatly reduced [ 64 ]. Furthermore, an increasing number of eye banks are preparing DMEK grafts, which will facilitate the ease of the procedure for many surgeons. Graft detachment is the most common complication following DMEK and requires additional injection of air into the anterior chamber. Rebubbling rates vary with experience and technique. While early reports cited rebubbling rates up to 82 % [ 60 ], more recent studies have reported rebubbling rates as low as 3 % [ 65 ]. Conclusion 
+ Significant advances in the field of corneal transplantation have been made in the past century, and in especially in recent decades. Transplantation of all corneal layers, through PKP, is becoming less frequent as surgeons are growing to favor procedures that selectively replace diseased tissue, such as DSAEK and DMEK. With growing surgeon experience and modifications in technique, these procedures are yielding improved visual acuity, fewer complications, and faster visual recovery times. With a limited supply of donor corneas available in many regions of the world, the field of corneal transplantation is rapidly evolving to optimize clinical outcomes and protect the vision of transplant recipients. Footnotes 
+ 
+ 
+ Compliance with Ethics Guidelines 
+ Conflict of Interest Grace E. Boynton and Maria A. Woodward declare that they have no conflict of interest. 
+ 
+ Human and Animal Rights and Informed Consent This article does not contain any studies with human or animal subjects performed by any of the authors. 
+ References 
+ Papers of particular interest, published recently, have been highlighted as: 
+ • Of importance 
+ •• Of major importance 
+ 
+ 
+ 1. Eye Bank Association of America. EBAA’s 2013 fast facts for physicians. Washington: Eye Bank Association of American; 2014. [ Google Scholar ] 
+ 
+ 2. Donate Life America. [Accessed 1 Oct 2014];2014 statistics. http://donatelife.net/statistics/ . [ Google Scholar ] 
+ 
+ 3. Farid M, Steinert RF, Gaster RN, et al. Comparison of penetrating keratoplasty performed with a femtosecond laser zig–zag incision versus conventional blade trephination. Ophthalmology. 2009;116(9):1638–1643. doi: 10.1016/j.ophtha.2009.05.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Baradaran-Rafii A, Eslani M. Femtosecond laser-assisted corneal transplantation. Br J Ophthalmol. 2013;97:675–676. doi: 10.1136/bjophthalmol-2012-302196. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Williams KA, Lowe M, Bartlett C, et al. Risk factors for human corneal graft failure within the Australian corneal graft registry. Transplantation. 2008;86(12):1720–1724. doi: 10.1097/TP.0b013e3181903b0a. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Thompson RW, Jr, Price MO, Bowers PJ, Price FW Jr. Long-term graft survival after penetrating keratoplasty. Ophthalmology. 2003;110(7):1396–1402. doi: 10.1016/S0161-6420(03)00463-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. 
+Mannis MJ, Holland EJ, Gal RL, et al. The effect of donor age on penetrating keratoplasty for endothelial disease: graft survival after 10 years in the Cornea Donor Study. Ophthalmology. 2013;120(12):2419–2427. doi: 10.1016/j.ophtha.2013.08.026.
+This large multicenter prospective study examined 10-year PKP success rates in relation to donor age. In their study, donor age did not appear to be an important determinant of graft survival, except for at the very extremes of age. 
+ 
+ 
+ 8. Borderie VM, Boelle PY, Touzeau O, et al. Predicted long-term outcome of corneal transplantation. Ophthalmology. 2009;116(12):2354–2360. doi: 10.1016/j.ophtha.2009.05.009. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Ing JJ, Ing HH, Nelson LR, et al. Ten-year postoperative results of penetrating keratoplasty. Ophthalmology. 1998;105(10):1855–1865. doi: 10.1016/S0161-6420(98)91030-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. 
+Dunn SP, Gal RL, Kollman C, et al. Corneal graft rejection 10 years after penetrating keratoplasty in the cornea donor study. Cornea. 2014;33(10):1003–1009. doi: 10.1097/ICO.0000000000000212.
+This study evaluated the impact of donor and recipient characteristics on graft rejection and graft failure following PKP. It found that previous use of glaucoma medications and glaucoma filtering surgery was a significant risk factor for rejection following PKP. 
+ 
+ 
+ 11. Amayem AF, Anwar M. Fluid lamellar keratoplasty in keratoconus. Ophthalmology. 2000;107(1):76–79. doi: 10.1016/s0161-6420(99)00002-0. discussion 80. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Manche EE, Holland GN, Maloney RK. Deep lamellar keratoplasty using viscoelastic dissection. Arch Ophthalmol. 1999;117(11):1561–1565. doi: 10.1001/archopht.117.11.1561. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Anwar M, Teichmann KD. Big-bubble technique to bare Descemet’s membrane in anterior lamellar keratoplasty. J Cataract Refract Surg. 2002;28(3):398–403. doi: 10.1016/s0886-3350(01)01181-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Kubaloglu A, Sari ES, Unal M, et al. Long-term results of deep anterior lamellar keratoplasty for the treatment of keratoconus. Am J Ophthalmol. 2011;151(5):760–767. e1. doi: 10.1016/j.ajo.2010.11.020. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Guilbert E, Bullet J, Sandali O, et al. Long-term rejection incidence and reversibility after penetrating and lamellar keratoplasty. Am J Ophthalmol. 2013;155(3):560–569. e2. doi: 10.1016/j.ajo.2012.09.027. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Feizi S, Javadi MA, Jamali H, Mirbabaee F. Deep anterior lamellar keratoplasty in patients with keratoconus: big-bubble technique. Cornea. 2010;29(2):177–182. doi: 10.1097/ICO.0b013e3181af25b7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Fontana L, Parente G, Tassinari G. Clinical outcomes after deep anterior lamellar keratoplasty using the big-bubble technique in patients with keratoconus. Am J Ophthalmol. 2007;143(1):117–124. doi: 10.1016/j.ajo.2006.09.025. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Pramanik S, Musch DC, Sutphin JE, Farjo AA. Extended long-term outcomes of penetrating keratoplasty for keratoconus. Ophthalmology. 2006;113(9):1633–1638. doi: 10.1016/j.ophtha.2006.02.058. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Lim L, Pesudovs K, Coster DJ. Penetrating keratoplasty for keratoconus: visual outcome and success. Ophthalmology. 2000;107(6):1125–1131. doi: 10.1016/s0161-6420(00)00112-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Watson SL, Ramsay A, Dart JK, et al. Comparison of deep lamellar keratoplasty and penetrating keratoplasty in patients with keratoconus. Ophthalmology. 2004;111(9):1676–1682. doi: 10.1016/j.ophtha.2004.02.010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Sarnicola V, Toro P, Gentile D, Hannush SB. Descemetic DALK and predescemetic DALK: outcomes in 236 cases of keratoconus. Cornea. 2010;29(1):53–59. doi: 10.1097/ICO.0b013e3181a31aea. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Woodward MA, Titus M, Mavin K, Shtein RM. Corneal donor tissue preparation for endothelial keratoplasty. J Vis Exp. 2012;64:e3847. doi: 10.3791/3847. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Moshirfar M, Imbornoni LM, Muthappan V, et al. In vitro pilot analysis of uniformity, circularity, and concentricity of DSAEK donor endothelial grafts prepared by a microkeratome. Cornea. 2013;33(2):191–196. doi: 10.1097/ICO.0000000000000031. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Vetter JM, Butsch C, Faust M, et al. Irregularity of the posterior corneal surface after curved interface femtosecond laser-assisted versus microkeratome-assisted descemet stripping automated endothelial keratoplasty. Cornea. 2013;32(2):118–124. doi: 10.1097/ICO.0b013e31826ae2d8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Mootha VV, Heck E, Verity SM, et al. Comparative study of descemet stripping automated endothelial keratoplasty donor preparation by Moria CBm microkeratome, horizon microkeratome, and Intralase FS60. Cornea. 2011;30(3):320–324. doi: 10.1097/ICO.0b013e3181f22cc3. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Busin M, Patel AK, Scorcia V, Ponzin D. Microkeratome-assisted preparation of ultrathin grafts for descemet stripping automated endothelial keratoplasty. Invest Ophthalmol Vis Sci. 2012;53(1):521–524. doi: 10.1167/iovs.11-7753. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Sikder S, Nordgren RN, Neravetla SR, Moshirfar M. Ultra-thin donor tissue preparation for endothelial keratoplasty with a double-pass microkeratome. Am J Ophthalmol. 2011;152(2):202–208. e2. doi: 10.1016/j.ajo.2011.01.051. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Waite A, Davidson R, Taravella MJ. Descemet-stripping automated endothelial keratoplasty donor tissue preparation using the double-pass microkeratome technique. J Cataract Refract Surg. 2013;39(3):446–450. doi: 10.1016/j.jcrs.2012.10.048. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Mehta JS, Por YM, Beuerman RW, Tan DT. Glide insertion technique for donor cornea lenticule during Descemet’s stripping automated endothelial keratoplasty. J Cataract Refract Surg. 2007;33(11):1846–1850. doi: 10.1016/j.jcrs.2007.06.050. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Busin M, Bhatt PR, Scorcia V. A modified technique for descemet membrane stripping automated endothelial keratoplasty to minimize endothelial cell loss. Arch Ophthalmol. 2008;126(8):1133–1137. doi: 10.1001/archopht.126.8.1133. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Macaluso C. Closed-chamber pulling-injection system for donor graft insertion in endothelial keratoplasty. J Cataract Refract Surg. 2008;34(3):353–356. doi: 10.1016/j.jcrs.2007.11.019. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Khor WB, Han SB, Mehta JS, Tan DT. Descemet stripping automated endothelial keratoplasty with a donor insertion device: clinical results and complications in 100 eyes. Am J Ophthalmol. 2013;156(4):773–779. doi: 10.1016/j.ajo.2013.05.012. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Foster JB, Swan KR, Vasan RA, et al. Small-incision Descemet stripping automated endothelial keratoplasty: a comparison of small-incision tissue injector and forceps techniques. Cornea. 2012;31(1):42–47. doi: 10.1097/ICO.0b013e3182120f9d. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Lee WB, Jacobs DS, Musch DC, et al. Descemet’s stripping endothelial keratoplasty: safety and outcomes: a report by the American Academy of Ophthalmology. Ophthalmology. 2009;116(9):1818–1830. doi: 10.1016/j.ophtha.2009.06.021. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Hjortdal J, Ehlers N. Descemet’s stripping automated endothelial keratoplasty and penetrating keratoplasty for Fuchs’ endothelial dystrophy. Acta Ophthalmol. 2009;87(3):310–314. doi: 10.1111/j.1755-3768.2008.01492.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Ang M, Mehta JS, Lim F, et al. Endothelial cell loss and graft survival after Descemet’s stripping automated endothelial keratoplasty and penetrating keratoplasty. Ophthalmology. 2012;119(11):2239–2244. doi: 10.1016/j.ophtha.2012.06.012. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Price MO, Gorovoy M, Price FW, Jr, et al. Descemet’s stripping automated endothelial keratoplasty: three-year graft and endothelial cell survival compared with penetrating keratoplasty. Ophthalmology. 2013;120(2):246–251. doi: 10.1016/j.ophtha.2012.08.007. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Terry MA, Shamie N, Chen ES, et al. Endothelial keratoplasty a simplified technique to minimize graft dislocation, iatrogenic graft failure, and pupillary block. Ophthalmology. 2008;115(7):1179–1186. doi: 10.1016/j.ophtha.2007.09.005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Mearza AA, Qureshi MA, Rostron CK. Experience and 12-month results of descemet-stripping endothelial keratoplasty (DSEK) with a small-incision technique. Cornea. 2007;26(3):279–283. doi: 10.1097/ICO.0b013e31802cd8c2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Terry MA, Shamie N, Chen ES, et al. Precut tissue for Descemet’s stripping automated endothelial keratoplasty: vision, astigmatism, and endothelial survival. Ophthalmology. 2009;116(2):248–256. doi: 10.1016/j.ophtha.2008.09.017. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Suh LH, Yoo SH, Deobhakta A, et al. Complications of Descemet’s stripping with automated endothelial keratoplasty: survey of 118 eyes at One Institute. Ophthalmology. 2008;115(9):1517–1524. doi: 10.1016/j.ophtha.2008.01.024. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Price MO, Fairchild KM, Price DA, Price FW., Jr Descemet’s stripping endothelial keratoplasty five-year graft survival and endothelial cell loss. Ophthalmology. 2011;118(4):725–729. doi: 10.1016/j.ophtha.2010.08.012. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Lie JT, Birbal R, Ham L, et al. Donor tissue preparation for Descemet membrane endothelial keratoplasty. J Cataract Refract Surg. 2008;34(9):1578–1583. doi: 10.1016/j.jcrs.2008.05.036. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Melles GR, Lander F, Rietveld FJ. Transplantation of Descemet’s membrane carrying viable endothelium through a small scleral incision. Cornea. 2002;21(4):415–418. doi: 10.1097/00003226-200205000-00016. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Melles GR, Ong TS, Ververs B, van der Wees J. Descemet membrane endothelial keratoplasty (DMEK) Cornea. 2006;25(8):987–990. doi: 10.1097/01.ico.0000248385.16896.34. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Kruse FE, Laaser K, Cursiefen C, et al. A stepwise approach to donor preparation and insertion increases safety and outcome of Descemet membrane endothelial keratoplasty. Cornea. 2011;30(5):580–587. doi: 10.1097/ico.0b013e3182000e2e. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Schlotzer-Schrehardt U, Bachmann BO, Tourtas T, et al. Reproducibility of graft preparations in Descemet’s membrane endothelial keratoplasty. Ophthalmology. 2013;120(9):1769–1777. doi: 10.1016/j.ophtha.2013.06.038. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Yoeruek E, Schmidt B. Novel surgical instruments facilitating Descemet membrane dissection. Cornea. 2013;32(4):523–526. doi: 10.1097/ICO.0b013e3182588ae9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Price FW, Price MO. DSEK: What you need to know about endothelial keratoplasty. Thorofare: SLACK Inc.; 2009. [ Google Scholar ] 
+ 
+ 50. Price MO, Giebel AW, Fairchild KM, Price FW., Jr Descemet’s membrane endothelial keratoplasty: prospective multicenter study of visual and refractive outcomes and endothelial survival. Ophthalmology. 2009;116(12):2361–2368. doi: 10.1016/j.ophtha.2009.07.010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Venzano D, Pagani P, Randazzo N, et al. Descemet membrane air-bubble separation in donor corneas. J Cataract Refract Surg. 2010;36(12):2022–2027. doi: 10.1016/j.jcrs.2010.10.013. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Zarei-Ghanavati S, Khakshoor H, Zarei-Ghanavati M. Reverse big bubble: a new technique for preparing donor tissue of Descemet membrane endothelial keratoplasty. Br J Ophthalmol. 2010;94(8):1110–1111. doi: 10.1136/bjo.2009.170803. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Busin M, Scorcia V, Patel AK, et al. Donor tissue preparation for Descemet membrane endothelial keratoplasty. Br J Ophthalmol. 2011;95(8):1172–1173. doi: 10.1136/bjo.2010.195651. author reply 3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. 
+Muraine M, Gueudry J, He Z, et al. Novel technique for the preparation of corneal grafts for descemet membrane endothelial keratoplasty. Am J Ophthalmol. 2013;156(5):851–859. doi: 10.1016/j.ajo.2013.05.041.
+This study describes a novel preparation technique for DMEK grafts with high reported rates of successful graft preparation and good postoperative visual recovery. 
+ 
+ 
+ 55. Tausif HN, Johnson L, Titus M, et al. Corneal donor tissue preparation for Descemet’s membrane endothelial keratoplasty. J Vis Exp. 2014 doi: 10.3791/51919. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Dapena I, Moutsouris K, Droutsas K, et al. Standardized “notouch” technique for descemet membrane endothelial keratoplasty. Arch Ophthalmol. 2011;129(1):88–94. doi: 10.1001/archophthalmol.2010.334. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Dapena I, Ham L, Netukova M, et al. Incidence of early allograft rejection after Descemet membrane endothelial keratoplasty. Cornea. 2011;30(12):1341–1345. doi: 10.1097/ICO.0b013e31820d8540. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Yoeruek E, Bayyoud T, Hofmann J, Bartz-Schmidt KU. Novel maneuver facilitating Descemet membrane unfolding in the anterior chamber. Cornea. 2013;32(3):370–373. doi: 10.1097/ICO.0b013e318254fa06. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Guell JL, Morral M, Gris O, et al. Bimanual technique for insertion and positioning of endothelium-Descemet membrane graft in Descemet membrane endothelial keratoplasty. Cornea. 2013;32(12):1521–1526. doi: 10.1097/ICO.0b013e3182933aee. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Tourtas T, Laaser K, Bachmann BO, et al. Descemet membrane endothelial keratoplasty versus descemet stripping automated endothelial keratoplasty. Am J Ophthalmol. 2012;153(6):1082–1090. e2. doi: 10.1016/j.ajo.2011.12.012. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Ham L, Dapena I, Moutsouris K, et al. Refractive change and stability after Descemet membrane endothelial keratoplasty. Effect of corneal dehydration-induced hyperopic shift on intraocular lens power calculation. J Cataract Refract Surg. 2011;37(8):1455–1464. doi: 10.1016/j.jcrs.2011.02.033. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. 
+Guerra FP, Anshu A, Price MO, Price FW. Endothelial keratoplasty: fellow eyes comparison of Descemet stripping automated endothelial keratoplasty and Descemet membrane endothelial keratoplasty. Cornea. 2011;30(12):1382–1386. doi: 10.1097/ICO.0b013e31821ddd25.
+This comparative case series compared the visual outcomes and evaluated the satisfaction of patients who underwent DMEK in one eye and DSAEK in the contralateral eye. 
+ 
+ 
+ 63. Anshu A, Price MO, Price FW., Jr Risk of corneal transplant rejection significantly reduced with Descemet’s membrane endothelial keratoplasty. Ophthalmology. 2012;119(3):536–540. doi: 10.1016/j.ophtha.2011.09.019. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Guerra FP, Anshu A, Price MO, et al. Descemet’s membrane endothelial keratoplasty: prospective study of 1-year visual outcomes, graft survival, and endothelial cell loss. Ophthalmology. 2011;118(12):2368–2373. doi: 10.1016/j.ophtha.2011.06.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Gorovoy MS. DMEK complications. Cornea. 2014;33(1):101–104. doi: 10.1097/ICO.0000000000000023. [ DOI ] [ PubMed ] [ Google Scholar ]

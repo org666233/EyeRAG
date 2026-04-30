@@ -1,0 +1,14 @@
+# 测试专用依赖
+pytest==8.3.5
+pytest-asyncio==0.26.0
+pytest-cov==6.1.1
+pytest-html==4.1.1
+pytest-xdist==3.6.1        # 并行测试加速
+httpx==0.28.1             # 异步 HTTP 客户端（pytest-asgi 依赖）
+aiosqlite==0.20.0         # 异步 SQLite（测试数据库）
+
+# 压力测试
+locust==2.33.2
+
+# 内存型 Mock HTTP 客户端（可选，替代真实连接）
+# aioresponses==0.7.7

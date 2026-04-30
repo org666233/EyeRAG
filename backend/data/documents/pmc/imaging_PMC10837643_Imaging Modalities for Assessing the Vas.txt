@@ -1,0 +1,778 @@
+Source: PubMed Central (PMC)
+PMCID: PMC10837643
+Title: Imaging Modalities for Assessing the Vascular Component of Diabetic Retinal Disease
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10837643/
+Year: 2024
+Disease: imaging
+Priority: 3
+============================================================
+
+Ophthalmol Sci . 2023 Dec 10;4(3):100449. doi: 10.1016/j.xops.2023.100449 
+ 
+ 
+ Imaging Modalities for Assessing the Vascular Component of Diabetic Retinal Disease: Review and Consensus for an Updated Staging System 
+ Tien-En Tan 
+ 
+ Tien-En Tan , MBBS (Hons), FRCOphth 
+ 
+ 
+ 1 Singapore Eye Research Institute, Singapore National Eye Centre, Singapore 
+ 
+ 2 Ophthalmology & Visual Sciences Academic Clinical Programme (EYE ACP), Duke-National University of Singapore Medical School, Singapore 
+ Find articles by Tien-En Tan 
+ 
+ 
+ 1, 2 , Lee M Jampol 
+ 
+ Lee M Jampol , MD 
+ 
+ 
+ 3 Department of Ophthalmology, Feinberg School of Medicine, Northwestern University, Chicago, Illinois 
+ Find articles by Lee M Jampol 
+ 
+ 
+ 3 , Frederick L Ferris 
+ 
+ Frederick L Ferris , MD 
+ 
+ 
+ 4 Ophthalmic Research Consultants, Waxhaw, North Carolina 
+ Find articles by Frederick L Ferris 
+ 
+ 
+ 4 , Ramin Tadayoni 
+ 
+ Ramin Tadayoni , MD, PhD 
+ 
+ 
+ 5 Ophthalmology Department, Lariboisière, AP-HP, Saint Louis and Fondation Adolphe de Rothschild Hospitals, Université Paris Cité, Paris, France 
+ Find articles by Ramin Tadayoni 
+ 
+ 
+ 5 , Srinivas R Sadda 
+ 
+ Srinivas R Sadda , MD 
+ 
+ 
+ 6 Doheny Eye Institute, Pasadena, California 
+ 
+ 7 Department of Ophthalmology, David Geffen School of Medicine, University of California Los Angeles, Los Angeles, California 
+ Find articles by Srinivas R Sadda 
+ 
+ 
+ 6, 7 , Victor Chong 
+ 
+ Victor Chong , MD, FRCOphth 
+ 
+ 
+ 8 UCL Institute of Ophthalmology, University College London, London, UK 
+ Find articles by Victor Chong 
+ 
+ 
+ 8 , Amitha Domalpally 
+ 
+ Amitha Domalpally , MD, PhD 
+ 
+ 
+ 9 Department of Ophthalmology and Visual Sciences, Wisconsin Reading Center, University of Wisconsin-Madison, Madison, Wisconsin 
+ Find articles by Amitha Domalpally 
+ 
+ 
+ 9 , Barbara L Blodi 
+ 
+ Barbara L Blodi , MD 
+ 
+ 
+ 9 Department of Ophthalmology and Visual Sciences, Wisconsin Reading Center, University of Wisconsin-Madison, Madison, Wisconsin 
+ Find articles by Barbara L Blodi 
+ 
+ 
+ 9 , Elia J Duh 
+ 
+ Elia J Duh , MD 
+ 
+ 
+ 10 Wilmer Eye Institute, Johns Hopkins University School of Medicine, Baltimore, Maryland 
+ Find articles by Elia J Duh 
+ 
+ 
+ 10 , Christine A Curcio 
+ 
+ Christine A Curcio , PhD 
+ 
+ 
+ 11 Department of Ophthalmology and Visual Sciences, University of Alabama at Birmingham Heersink School of Medicine, Birmingham, Alabama 
+ Find articles by Christine A Curcio 
+ 
+ 
+ 11 , David A Antonetti 
+ 
+ David A Antonetti , PhD 
+ 
+ 
+ 12 Department of Ophthalmology and Visual Sciences, Kellogg Eye Center, University of Michigan Medical School, Ann Arbor, Michigan 
+ Find articles by David A Antonetti 
+ 
+ 
+ 12 , Sanjoy Dutta 
+ 
+ Sanjoy Dutta , PhD 
+ 
+ 
+ 13 JDRF, New York, New York 
+ Find articles by Sanjoy Dutta 
+ 
+ 
+ 13 , S Robert Levine 
+ 
+ S Robert Levine , MD 
+ 
+ 
+ 14 The Mary Tyler Moore & S. Robert Levine, MD Charitable Foundation, Greenwich, Connecticut 
+ Find articles by S Robert Levine 
+ 
+ 
+ 14 , Jennifer K Sun 
+ 
+ Jennifer K Sun , MD, MPH 
+ 
+ 
+ 15 Joslin Diabetes Center, Beetham Eye Institute, Harvard Medical School, Boston, Massachusetts 
+ Find articles by Jennifer K Sun 
+ 
+ 
+ 15 , Thomas W Gardner 
+ 
+ Thomas W Gardner , MD, MS 
+ 
+ 
+ 12 Department of Ophthalmology and Visual Sciences, Kellogg Eye Center, University of Michigan Medical School, Ann Arbor, Michigan 
+ Find articles by Thomas W Gardner 
+ 
+ 
+ 12 , Tien Yin Wong 
+ 
+ Tien Yin Wong , MD, PhD 
+ 
+ 
+ 1 Singapore Eye Research Institute, Singapore National Eye Centre, Singapore 
+ 
+ 2 Ophthalmology & Visual Sciences Academic Clinical Programme (EYE ACP), Duke-National University of Singapore Medical School, Singapore 
+ 
+ 16 Tsinghua Medicine, Tsinghua University, Beijing, China 
+ Find articles by Tien Yin Wong 
+ 
+ 
+ 1, 2, 16, ∗ , for the Diabetic Retinal Disease Staging System Update Effort, a project of the Mary Tyler Moore Vision Initiative 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Singapore Eye Research Institute, Singapore National Eye Centre, Singapore 
+ 
+ 2 Ophthalmology & Visual Sciences Academic Clinical Programme (EYE ACP), Duke-National University of Singapore Medical School, Singapore 
+ 
+ 3 Department of Ophthalmology, Feinberg School of Medicine, Northwestern University, Chicago, Illinois 
+ 
+ 4 Ophthalmic Research Consultants, Waxhaw, North Carolina 
+ 
+ 5 Ophthalmology Department, Lariboisière, AP-HP, Saint Louis and Fondation Adolphe de Rothschild Hospitals, Université Paris Cité, Paris, France 
+ 
+ 6 Doheny Eye Institute, Pasadena, California 
+ 
+ 7 Department of Ophthalmology, David Geffen School of Medicine, University of California Los Angeles, Los Angeles, California 
+ 
+ 8 UCL Institute of Ophthalmology, University College London, London, UK 
+ 
+ 9 Department of Ophthalmology and Visual Sciences, Wisconsin Reading Center, University of Wisconsin-Madison, Madison, Wisconsin 
+ 
+ 10 Wilmer Eye Institute, Johns Hopkins University School of Medicine, Baltimore, Maryland 
+ 
+ 11 Department of Ophthalmology and Visual Sciences, University of Alabama at Birmingham Heersink School of Medicine, Birmingham, Alabama 
+ 
+ 12 Department of Ophthalmology and Visual Sciences, Kellogg Eye Center, University of Michigan Medical School, Ann Arbor, Michigan 
+ 
+ 13 JDRF, New York, New York 
+ 
+ 14 The Mary Tyler Moore & S. Robert Levine, MD Charitable Foundation, Greenwich, Connecticut 
+ 
+ 15 Joslin Diabetes Center, Beetham Eye Institute, Harvard Medical School, Boston, Massachusetts 
+ 
+ 16 Tsinghua Medicine, Tsinghua University, Beijing, China 
+ 
+ ∗ Correspondence: Tien Yin Wong, MD, PhD, Tsinghua Medicine, Tsinghua University, Medical Science Building, Beijing, China 100084; Medical Retina Department, Singapore National Eye Centre, Singapore. wongtienyin@tsinghua.edu.cn 
+ 
+ 
+ Received 2023 Aug 11; Revised 2023 Dec 5; Accepted 2023 Dec 5; Collection date 2024 May-Jun. 
+ 
+ © 2023 by the American Academy of Ophthalmology. 
+ This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC10837643  PMID: 38313399 
+ 
+ Abstract 
+ Purpose 
+ To review the evidence for imaging modalities in assessing the vascular component of diabetic retinal disease (DRD), to inform updates to the DRD staging system. Design 
+ Standardized narrative review of the literature by an international expert workgroup, as part of the DRD Staging System Update Effort, a project of the Mary Tyler Moore Vision Initiative. Overall, there were 6 workgroups: Vascular Retina, Neural Retina, Systemic Health, Basic and Cellular Mechanisms, Visual Function, and Quality of Life. Participants 
+ The Vascular Retina workgroup, including 16 participants from 4 countries. Methods 
+ Literature review was conducted using standardized evidence grids for 5 modalities: standard color fundus photography (CFP), widefield color photography (WFCP), standard fluorescein angiography (FA), widefield FA (WFFA), and OCT angiography (OCTA). Summary levels of evidence were determined on a validated scale from I (highest) to V (lowest). Five virtual workshops were held for discussion and consensus. Main Outcome Measures 
+ Level of evidence for each modality. Results 
+ Levels of evidence for standard CFP, WFCP, standard FA, WFFA, and OCTA were I, II, I, I, and II respectively. Traditional vascular lesions on standard CFP should continue to be included in an updated staging system, but more studies are required before they can be used in posttreatment eyes. Widefield color photographs can be used for severity grading within the area covered by standard CFPs, although these gradings may not be directly interchangeable with each other. Evaluation of the peripheral retina on WFCP can be considered, but the method of grading needs to be clarified and validated. Standard FA and WFFA provide independent prognostic value, but the need for dye administration should be considered. OCT angiography has significant potential for inclusion in the DRD staging system, but various barriers need to be addressed first. Conclusions 
+ This study provides evidence-based recommendations on the utility of various imaging modalities for assessment of the vascular component of DRD, which can inform future updates to the DRD staging system. Although new imaging modalities offer a wealth of information, there are still major gaps and unmet research needs that need to be addressed before this potential can be realized. Financial Disclosure(s) 
+ Proprietary or commercial disclosure may be found in the Footnotes and Disclosures at the end of this article. Keywords: Diabetic retinopathy, Classification system, Severity scale, Risk stratification, Imaging modalities 
+ Proper classification and staging have been essential in developing our understanding and management of diabetic retinopathy (DR) over the years. Currently, the classification systems that are in widespread research and clinical use are the ETDRS severity scale, which was based on the modified Airlie House classification, and the simpler International Clinical Diabetic Retinopathy (ICDR) severity scale. 1 , 2 In essence, these classification systems rely on grading the presence and severity of a series of retinal lesions seen on color fundus photographs (CFPs), to classify patients in terms of risk of progression to proliferative DR (PDR) as the key clinical outcome. 3 The retinal lesions considered in these classification systems are all directly or indirectly vascular lesions, such as retinal hemorrhages and microaneurysms (H/MAs), venous beading (VB), intraretinal microvascular abnormalities (IRMAs), and new vessels (NVs). Severities of these lesions are graded categorically in specific fields of view, against standard reference photographs. For decades, these classification systems for the vascular component of diabetic retinal disease (DRD) have been the cornerstone of clinical management for patients with DR, serving as diagnostic, monitoring, and prognostic biomarkers for determining appropriate surveillance intervals and decisions for treatment. 4 , 5 They have also been instrumental in landmark clinical trials, population-based epidemiological studies, and clinical research, which have greatly advanced our understanding and treatment of patients with DR. 
+ Despite the success of these current classification systems, there is a clear need to update the overall staging system for DRD, to incorporate end points beyond PDR, such as diabetic macular edema (DME), diabetic retinal neurodegeneration, and patient-related outcome measures. An updated staging system of DRD should incorporate additional information derived from new imaging technologies and methods of retinal functional testing, as well as insights from our greater understanding of the pathophysiology of DRD, such as diabetic retinal neurodegeneration, that may occur separately or even prior to vascular changes. 6 , 7 , 8 , 9 , 10 This review is part of the Diabetic Retinal Disease Staging System Update Effort, a project of the Mary Tyler Moore Vision Initiative, which aims to provide a comprehensive assessment of DRD, to look beyond just the vascular component of the disease, and to incorporate other important aspects such as the neural retina, systemic health, basic and cellular mechanisms, visual function, and quality of life. While these other aspects are covered in separate dedicated reviews, here we focus on the vascular aspect of DRD. 
+ Although the vascular component of DRD is considered well-established, the current classification/staging systems still have significant limitations in this aspect. 6 , 7 First, they only cover about 30% of the retinal surface area and do not consider information from the retinal periphery, which can now be consistently imaged with widefield color photography (WFCP) and may have important prognostic implications. 11 Second, they do not include angiographic information, either from dye-based fluorescein angiography (FA) or noninvasive OCT angiography (OCTA). Third, as DR progression risk also depends on systemic parameters and given that systemic treatment of diabetes has improved significantly over the years, the risk level evaluations of the prior century may no longer be valid. Finally, intravitreal anti-VEGF injections are now widely used to treat DME and PDR and have also been shown to reduce the severity of DR. 12 , 13 However, our current classification systems have been proven to effectively risk-stratify only treatment-naive eyes. Hence, there is also a need to re-examine these “traditional” retinal vascular lesions in the context of therapeutic intervention and consider the incorporation of newer imaging modalities in the classification. 
+ The aim of this paper, therefore, is to critically review the available evidence in relation to the vascular component of DRD, to inform updates to the staging system for DRD, and to determine the current gaps and unmet needs, so as to effectively guide further research in the field. With these aims in mind, we conducted standardized reviews of the literature pertaining to various diagnostic assessment modalities for the vascular component of DRD, which included CFP, WFCP, FA, widefield FA (WFFA), and OCTA, and assessed the level of evidence available for each modality, their readiness for adoption in an updated DRD staging system, and any significant gaps that need to be addressed prior to adoption. 
+ Methods 
+ This study was part of the Diabetic Retinal Disease Staging System Update Effort, a project of the Mary Tyler Moore Vision Initiative, with support from The Mary Tyler Moore and S. Robert Levine, MD Charitable Foundation, and JDRF. In total, this international initiative included 55 participants from 12 countries. A list of the overall initiative leadership and participants is provided in Appendix A . The initiative consisted of workgroups in 6 areas of DRD: Vascular Retina, Neural Retina, Systemic Health, Basic and Cellular Mechanisms, Visual Function, and Quality of Life. This review paper was developed by the Vascular Retina workgroup, consisting of 16 participants from 4 countries (the United States, the United Kingdom, France, and Singapore), who were selected based on expertise and publishing track record in the field. This study coincided with the global coronavirus disease 2019 pandemic, and so workgroup meetings and workshops were conducted virtually, via videoconference. 
+ Review Methodology and Search Terms 
+ The scope of this review was to perform a standardized narrative review of the available evidence in relation to the vascular component of DRD, which in our current nomenclature is referred to as “diabetic retinopathy.” After initial workshop discussions, the diagnostic assessment modalities included in the scope were the following: 
+ 
+ 
+ • Standard color fundus photography (CFP) 
+ 
+ 
+ • Widefield color fundus photography (WFCP) 
+ 
+ 
+ • Standard fluorescein angiography (FA) 
+ 
+ 
+ • Widefield fluorescein angiography (WFFA) 
+ 
+ 
+ • OCT angiography (OCTA) 
+ 
+ 
+ Based on consensus from initial workshop discussions, OCT as a diagnostic assessment modality in DRD was reviewed by the Neural Retina workgroup. Diabetic macular edema is an important aspect of DRD, which is primarily assessed by OCT. Therefore, to avoid overlap, OCT and DME were not included in the scope of the current review. The evidence pertaining to OCT in DRD and DME are reviewed in an accompanying paper, together with the Neural Retina component of DRD. 
+ The review was conducted for the selected modalities as follows. Standard CFP and standard FA were already available modalities at the time that the current ETDRS and ICDR severity scales were developed. Therefore, only targeted reviews of evidence from the seminal ETDRS studies were conducted, to justify continued inclusion of these modalities in the updated DRD staging system. The primary focus of this review, therefore, was on newer modalities not available at those earlier times, namely WFCP, WFFA, and OCTA. An initial literature search was conducted on the PubMed database on November 26, 2020. For WFCP and WFFA, search terms used were (“widefield” OR “wide-field” OR “ultrawidefield” OR “ultra-widefield” OR “ultra-wide-field” OR “ultrawide-field” OR “wide field” OR “ultrawide field”) AND “diabetic retinopathy.” For OCTA, search terms used were “optical coherence tomography angiography” AND “diabetic retinopathy.” Original research articles in the English language, including participants with diabetes mellitus (type 1 or 2), with a variety of study designs, including cross-sectional and longitudinal, as well as retrospective and prospective, were included. Outcomes of interest included progression to PDR, 1- or 2-step retinopathy progression, development of DME, and visual acuity (VA). This literature search was subsequently updated again on January 24, 2021, and January 31, 2023. Relevant studies were identified, and the papers along with their reference lists were reviewed. Review articles and editorials were not used for determination of levels of evidence, but they were reviewed, along with their reference lists, for identification of original research articles for inclusion. Evidence Grid 
+ Available evidence for each assessment modality was summarized in a standardized evidence grid. Grids were developed by the leadership of the Diabetic Retinal Disease Staging System Update Effort, based on United States Food and Drug Administration Biomarker Qualification guidelines, and provided to each workgroup. 4 , 14 The standardized evidence grid was specifically designed to lead to a summary level of evidence for each modality, graded on a validated scale from I (highest level of evidence) to V (lowest level of evidence; Table 1 ), as well as the identification of key gaps and unmet needs in the available literature. 14 The Vascular Retina workgroup held 5 virtual workshops from October 2020 to April 2021. The standardized evidence grids were prepared and reviewed for consensus among the workgroup in a tiered fashion. Initial draft evidence grids for the 5 modalities were prepared by authors T.E.T. and T.Y.W. These were circulated amongst all members of the workgroup and reviewed in detail by assigned domain experts as follows: standard CFP (A.D. and B.L.B.), WFCP (S.R.S.), standard FA (L.M.J. and F.L.F.), WFFA (R.T. and V.C.), and OCTA (R.T. and V.C.). Consensus was reached via participant discussion over 3 virtual workshops. Evidence grids were submitted for approval by the workgroup leads and overall initiative steering committee. 
+ Table 1. 
+ Level of Evidence for Various Assessment Modalities of Retinal Vascular Component 
+ 
+ 
+ 
+ Assessment Modality 
+ Level of Evidence ∗ 
+ 
+ 
+ 
+ I 
+ II 
+ III 
+ IV–V 
+ 
+ 
+ 
+ 
+ Standard CFP 
+ X 
+ 
+ 
+ 
+ 
+ 
+ WFCP 
+ 
+ X 
+ 
+ 
+ 
+ 
+ Standard FA 
+ X 
+ 
+ 
+ 
+ 
+ 
+ WFFA 
+ X 
+ 
+ 
+ 
+ 
+ 
+ OCTA 
+ 
+ X 
+ 
+ 
+ 
+ 
+ 
+ Open in a new tab 
+ 
+ CFP = color fundus photographs; FA = fluorescein angiography; OCTA = OCT angiography; WFCP = widefield color photographs; WFFA = widefield fluorescein angiography. 
+ 
+ ∗ Based on Simon RM, Paik S, Hayes DF. Use of Archived Specimens in Evaluation of Prognostic and Predictive Biomarkers J Natl Cancer Inst 2009;101(21):1446-1452. 
+ 
+ Summary of Evidence 
+ Once the available literature for each assessment modality had been reviewed by the workgroup, modalities were sorted on 2 axes, which was also standardized across workgroups ( Table 2 ). First was the “readiness for adoption” in an updated staging system, based on the following categories: (1) Ready – for current use or within the next 1 to 2 years, (2) Promising – unmet, but defined research needs that can be accomplished within the next 5 years, and (3) Potential – unmet research needs that will need > 5 years to accomplish. Second was the relevant “stage” of DRD for each modality. Specifically, for this review, we defined the “stages” as follows: (1) Subclinical DRD – no clinically visible DR, (2) Early-stage clinical DRD – mild nonproliferative DR (NPDR), (3) Mid-stage clinical DRD – moderate to severe NPDR, and (4) Late-stage clinical DRD – PDR. In addition, we determined the relevance of each modality as a potential biomarker for DRD according to criteria and categories established by the Biomarkers, EndpointS, and other Tools (BEST) Resource, according to guidelines from the Food and Drug Administration-National Institutes of Health Biomarker Working Group ( Table 3 ). 4 
+ Table 2. 
+ Readiness for Adoption and Relevant Stages of DRD for Various Assessment Modalities of Retinal Vascular Component 
+ 
+ 
+ 
+ Ready (for Current Use or Within the Next 1–2 Years) 
+ Promising (Unmet, but Defined Research Needs That Can Be Accomplished Within the Next 5 Years) 
+ Potential (Unmet Research Needs That Will Need > 5 Years to Accomplish) 
+ 
+ 
+ 
+ Subclinical DRD (no clinical DR) 
+ Standard CFP ∗ WFCP ∗ 
+ 
+ OCTA 
+ 
+ 
+ 
+ Early-stage clinical DRD (mild NPDR) 
+ Standard CFP Standard FA WFFA 
+ WFCP OCTA 
+ 
+ 
+ 
+ Mid-stage clinical DRD (moderate to severe NPDR) 
+ Standard CFP Standard FA WFFA 
+ WFCP OCTA 
+ 
+ 
+ 
+ Late-stage clinical DRD (PDR) 
+ Standard CFP WFCP 
+ OCTA † 
+ 
+ 
+ 
+ 
+ 
+ Open in a new tab 
+ 
+ CFP = color fundus photographs; DR = diabetic retinopathy; DRD = diabetic retinal disease; FA = fluorescein angiography; NPDR = nonproliferative diabetic retinopathy; OCTA = OCT angiography; PDR = proliferative diabetic retinopathy; WFCP = widefield color photographs; WFFA = widefield fluorescein angiography. 
+ 
+ ∗ For screening of individuals with no clinical DR. 
+ 
+ 
+ † For evaluation and differentiation of new vessels versus intraretinal microvascular abnormalities. 
+ 
+ Table 3. 
+ BEST Biomarker Categories for Various Assessment Modalities of Retinal Vascular Component 
+ 
+ 
+ 
+ Assessment Modality 
+ BEST Category ∗ (Based on Currently Available Evidence and Reasonable Anticipated Future Relevance) 
+ 
+ 
+ 
+ Diagnostic 
+ Monitoring 
+ Predictive 
+ Prognostic 
+ Pharmacodynamic/Response 
+ Safety 
+ Susceptibility/Risk 
+ 
+ 
+ 
+ 
+ Standard CFP 
+ X 
+ X 
+ Possible 
+ X 
+ Possible 
+ 
+ 
+ 
+ 
+ WFCP 
+ X 
+ X 
+ Possible 
+ X 
+ Possible 
+ 
+ 
+ 
+ 
+ Standard FA 
+ X 
+ X 
+ Possible 
+ X 
+ Possible 
+ 
+ 
+ 
+ 
+ WFFA 
+ X 
+ X 
+ Possible 
+ X 
+ Possible 
+ 
+ 
+ 
+ 
+ OCTA 
+ X 
+ X 
+ Possible 
+ X 
+ Possible 
+ 
+ Possible 
+ 
+ 
+ 
+ Open in a new tab 
+ 
+ CFP = color fundus photographs; FA = fluorescein angiography; OCTA = OCT angiography; WFCP = widefield color photographs; WFFA = widefield fluorescein angiography. 
+ 
+ ∗ For definitions see FDA-NIH Biomarker Working Group. BEST (Biomarkers, EndpointS, and other Tools) Resource. Updated September 23, 2020. Accessible at https://www.ncbi.nlm.nih.gov/books/NBK326791/ . 
+ 
+ Results 
+ Standard CFP 
+ Standard CFPs were originally obtained by film-based fundus cameras, after pharmacologic mydriasis, with 7 standardized 30° fields in stereoscopic pairs in the ETDRS. 1 , 3 However, subsequent studies have found that nonmydriatic nonstereoscopic digital photographs and fewer photographic fields can yield comparable results, and such protocols are currently in routine clinical use. 7 , 15 , 16 , 17 The current ETDRS and ICDR severity scales in routine research and clinical use are based on grading from standard CFPs. Reproducibility of both these severity scales has been demonstrated, with acceptable intra- and intergrader agreement. 3 , 15 The evidence grid for standard CFPs can be found as Appendix B in the Supplemental Material . 
+ Key evidence for use of standard CFPs for DR severity grading comes from the ETDRS, with key findings reported in Report #12, which examined natural history data from 3711 untreated eyes of diabetic patients. 3 This report examined the relationships between baseline retinal lesions on standard CFPs, and risk of progression to PDR at 1-, 3- and 5-year time points. Evaluated lesions on CFP at baseline included H/MAs, cotton wool spots (CWSs), hard exudates, IRMAs, venous changes (VB, loops, narrowing, sheathing, and perivenous exudates), arteriolar changes, and arteriovenous nicking. This study found that H/MAs, VB, and IRMAs were important independent factors in predicting progression to PDR at all 3 time points. On this basis, the ETDRS research group validated their modification of the Airlie House classification. With clear evidence from a well-designed, prospective clinical trial, the level of evidence for standard CFPs was assessed as level I ( Table 1 ). Standard CFPs have already been in use for subclinical (for screening of individuals with no clinically visible DR), early-, mid-, and late-stage clinical DRD for decades, and we recommend their continued inclusion in an updated DRD staging system ( Table 2 ). Standard CFPs for DRD staging meet the definitions of diagnostic, monitoring, and prognostic biomarkers ( Table 3 ). 
+ However, although some of these traditional vascular CFP lesions (H/MAs, VB, and IRMAs) are likely to remain useful in an updated staging system, the manner in which they are quantified and graded may change. Rather than using a categorical severity grading of each CFP lesion based on comparison against standard photographs, an updated staging system should ideally utilize more quantitative approaches in grading these lesions. Such quantification may be facilitated by automated artificial intelligence (AI) techniques. 18 Validation of quantitative grading for these CFP lesions on new data sets is going to be challenging, especially considering that we are unlikely to be able to obtain new large-scale untreated natural history data. One possible approach might be to re-evaluate the original ETDRS images and data with new quantitative techniques, and then to validate these new quantitative metrics prospectively in smaller studies. However, these were 30° photographic fields with acquisition protocols that are quite different from those in current clinical use. It is unclear whether such quantitative metrics would be comparable across these different types of images. Alternatively, there are now some longitudinal data sets with WFCP images, and another possible approach would be to quantify these same CFP lesions on WFCP images, and then to validate their relationship to clinical outcomes of interest, such as progression to PDR. 19 It is also important to consider, however, that a shift toward quantitative grading is likely to increase the complexity of the staging system, and this may limit its utility in lower-resource settings compared to a simpler, categorical scale—unless AI-based automated techniques are available to simplify the process. 
+ Furthermore, other new developments and treatments for DR have created a significant gap in the literature that needs to be addressed for standard CFPs. The prospective longitudinal ETDRS data on which standard CFP classification systems have been based are all in untreated or treatment-naive eyes. With the advent and widespread use of anti-VEGF treatment for DME and PDR, it has been shown that anti-VEGF treatment can result in significant improvements in DR severity (as judged by current standard CFP classification systems), and even regression of PDR. 12 , 13 However, it has also been shown that different vascular lesions respond differently to anti-VEGF treatment and that lesions can rapidly recur after stopping treatment. 20 Furthermore, other studies have demonstrated that while the appearance of DR on standard CFPs improves, the underlying ischemia as demonstrated on angiography is unchanged. 21 , 22 Therefore, the significance of these vascular lesions and indeed the validity of the overall DR severity scale as applied to anti-VEGF–treated eyes (or eyes treated with scatter laser photocoagulation, for that matter) are unknown. There is a need for re-evaluation of these traditional CFP lesions of interest, including H/MAs, VB, and IRMAs in longitudinal studies with anti-VEGF treatment (and other treatments such as scatter laser photocoagulation). Studies should examine which of these lesions change or regress with treatment, which do not, and which remain as important predictors of outcomes of interest. Further secondary analyses of data from the recently published DRCR Retina Network Protocol W may help to answer some of these questions. 23 Such studies could allow these CFP lesions to be used as predictive and pharmacodynamic/response biomarkers as well ( Table 3 ). 4 Similarly, as newer treatments targeting different pathways in DRD (e.g., angiopoietin-2 and integrins) emerge, continued re-evaluation of the significance of these traditional CFP lesions in the staging system will be important. WFCP 
+ For the purpose of this review, “widefield” images are defined as images that include the retinal midperiphery, up to at least the posterior edge of the vortex vein ampullae, which corresponds to at least 110° field of view. This definition is in line with expert consensus recommendations. 24 Widefield color photographs are noninvasive color or pseudocolor photographs, which can be acquired with or without pharmacologic mydriasis. Widefield color photographs include the area already covered by 7-field ETDRS standard CFPs, as well as more of the retinal periphery. Since their development, WFCP imaging systems have become more accessible and are now in routine clinical use for a variety of retinal pathologies. 
+ The evidence grid for WFCPs can be found as Appendix C in the Supplemental Material . Review of the literature in relation to WFCPs and DR revealed largely cross-sectional data, with only 3 longitudinal studies identified; of which, 2 were based on the same cohort. 11 , 25 , 26 Our review aimed to address a few key questions: 
+ Can WFCPs Be Used for Grading of DR Severity Using Current Classification Systems, Within the Area Covered by 7-field ETDRS Standard CFPs? 
+ Multiple cross-sectional studies have addressed this question, using the full ETDRS severity scale, a collapsed ETDRS scale, and the ICDR severity scale. These studies are summarized in Table S1 . Agreement for DR severity grading in these studies varied from moderate to almost perfect agreement, with κ or weighted κ scores ranging from 0.47 to 0.96. 27 , 28 , 29 , 30 , 31 One study with a κ score of 0.96 was based on a small sample of 37 eyes, and the simpler ICDR scale. 30 The largest study to date (n = 764 eyes) reported baseline data from the DRCR Retina Network Protocol AA clinical trial and demonstrated moderate agreement with a weighted κ value of 0.51. However, after open adjudication, this improved to 0.77, indicating substantial agreement. 29 Recently published 4-year data from the trial suggests that DR severity grading between the 2 modalities is not exactly interchangeable. Rates of disease worsening at 4 years based on masked WFCP images (with only the 7-field ETDRS area visible) at baseline were 45%, 40%, 26%, and 43% for mild NPDR, moderate NPDR, moderately severe NPDR, and severe or very severe NPDR, respectively. In contrast, rates of disease worsening based on standard CFP images at baseline were 31%, 37%, 43%, and 56% for the same categories, respectively. 26 
+ The most recent study addressing this question showed similar findings. In a study of 166 eyes, with images graded at a reading center, the authors reported a moderate level of agreement (weighted κ = 0.59) in DR severity grading between the 2 modalities. 31 They found that agreement rates were lower in early DR (30.8%) and moderate NPDR (26.5%). They also assessed reproducibility of DR severity grading within each modality and reported intergrader agreement of weighted κ = 0.57 for standard CFP, and weighted κ = 0.65 for WFCP within the 7-field area, concluding that intergrader agreements for both modalities were comparable and acceptable. The authors suggested that ETDRS DR severity level can be reliably and reproducibly graded on WFCPs within the area covered by 7-field ETDRS standard CFPs but advised caution in interchanging data between the 2 modalities given only moderate agreement. 31 
+ Based on these results, we recommend that use of WFCPs for grading of DR severity within the area covered by 7-field ETDRS standard CFPs is acceptable, though not directly interchangeable with standard CFP grading. Does Inclusion of Peripheral Fields on WFCP, Outside the Area Covered by 7-field ETDRS Standard CFPs, Change Grading of DR Severity Using Current Classification Systems? 
+ This question has also been addressed by multiple cross-sectional studies, which are summarized in Table S2 . In 5 studies where the comparison arm was either ETDRS 7-field CFPs or the same area within WFCPs, the inclusion of peripheral fields on WFCP resulted in a more severe DR grading in 8.3% to 19.0% of eyes. 28 , 29 , 31 , 32 , 33 In one study, the authors proposed a “global ETDRS scale” by merging peripheral areas into the existing standard ETDRS fields for grading. 31 They reported that the global ETDRS scale showed almost perfect agreement with the grading in the area covered by 7-field ETDRS standard CFPs (weighted κ = 0.90), but 8.3% of eyes were assigned a “more severe” DR level on the global scale. However, as this and the other studies were cross-sectional, the prognostic implications of “more severe” DR levels based on grading of the peripheral retina are still unclear. Are Peripheral DR Lesions Independent Predictors of Outcomes? 
+ Three longitudinal studies have attempted to address this question. Two of these studies were based on the same cohort of 200 eyes in 100 patients. Silva et al 11 first defined eyes with predominantly peripheral lesions (PPLs) as those in which ≥ 1 peripheral field had a greater number of DR lesions (primarily H/MAs, graded subjectively) compared with the corresponding ETDRS field. In this cohort, the authors showed that eyes with PPLs at baseline had 3.2-fold increased risk of 2-step or more DR progression and 4.7-fold increased risk of progression to PDR at 4 years, after adjusting for gender, diabetes type, diabetes duration, glycated hemoglobin A1c levels, and baseline DR severity. 11 Sadda et al 25 used the same cohort but took a quantitative approach, showing that greater number and surface area of H/MAs and CWSs, as well as increasing distance of H/MAs and CWSs from the optic nerve head, at baseline were associated with progression to PDR at 4 years. Such analyses from this longitudinal cohort seem to suggest that peripheral DR lesions can be independent predictors of outcomes such as progression to PDR. 
+ However, a subsequent larger longitudinal cohort study failed to show a convincing association between PPLs on WFCP (color PPLs) and disease progression. The DRCR Retina Network Protocol AA was a prospective, multicenter, longitudinal observational study of 544 eyes with NPDR. In this study, baseline color PPLs on WFCP were not found to be predictive of disease worsening (2-step retinopathy progression or receipt of DR treatment) over 4 years. 26 The reasons for this negative finding with color PPLs are currently unclear. It is possible that peripheral DR lesions are truly not associated with disease worsening. In a cross-sectional analysis of 652 eyes with NPDR, nonperfusion on WFFA was not associated with the presence of color PPLs. 34 However, it is also possible that peripheral DR lesions on WFCP do provide important prognostic information, but that PPLs are not the ideal method of quantifying or grading peripheral lesions. Sears et al 35 and Ashraf et al 36 both showed in different cohorts that PPL grading differs significantly if lesions are assessed quantitatively rather than qualitatively. Jacoba et al 37 showed that pupillary dilation and manual lid lifting when acquiring WFCP images significantly increased visible peripheral retinal area, and consequently affected H/MA counts as well as PPL determination. 37 Furthermore, He et al 38 showed that PPL frequency varies significantly in different ethnic groups. 
+ Overall, the level of evidence for WFCPs in DRD was assessed as level II ( Table 1 ). We recommend that WFCPs can be used for DR severity grading (and DR screening) within the retinal area covered by the standard ETDRS 7 fields, although these gradings may not be directly interchangeable with those on standard CFPs. Also, the evidence suggests that additional evaluation of the peripheral retina outside this standard area may provide important, supplemental information. However, exactly how to incorporate this information into a new DRD staging system still needs to be determined. For example, although inclusion of the retinal periphery results in a “more severe” DR grading in a significant proportion of eyes, it is unclear whether this “more severe” DR grading resulting from lesions in the periphery is linked in a similar manner as posterior lesions to progression to PDR—this has yet to be validated in a prospective study. A suitable method for quantifying and grading peripheral DR lesions needs to be established and prospectively validated before inclusion in an updated staging system. The latest data on color PPLs specifically does not support their prognostic value, although this may be related to the method of determination and grading. We anticipate more forthcoming longitudinal data and analyses on the prognostic significance of peripheral DR lesions that may improve the level of evidence for WFCP. Considering these factors, we assess the readiness for adoption of WFCP as “Ready” for subclinical DRD (for DR screening in a similar manner to standard CFP) and late-stage DRD, and “Promising” for early- to mid-stage DRD, as we believe that the data and analyses needed to incorporate WFCP and evaluation of the retinal periphery in an updated DRD staging system will be available in the next 5 years ( Table 2 ). It is worth noting, however, that WFCP still shares some of the limitations of standard CFP highlighted above, in that retinal lesions visible on WFCP similarly need to be re-evaluated in the context of anti-VEGF–treated eyes. Further research on WFCPs should also focus on harnessing more quantitative approaches to classifying and quantifying DRD lesions and better ways of grading peripheral DR lesions and confirming their prognostic significance. Quantitative analysis could be facilitated by automated AI approaches. 18 Standard FA 
+ Acquisition of standard FA images involves intravenous fluorescein dye administration, followed by noninvasive photography. Standard FA has been in routine clinical use for decades for both diabetic and nondiabetic retinal disease. However, standard FA is not included in current DR severity scales. The evidence grid for standard FA can be found as Appendix D in the Supplemental Material . 
+ Key evidence for standard FA in DR comes from the ETDRS, with FA findings reported in Report #13, which examined baseline FAs and natural history data from 3711 untreated eyes of diabetic patients. 39 This report examined the relationships between baseline standard FA characteristics and risk of progression to PDR at 1-, 3- and 5-year time points. Baseline FA abnormalities that were evaluated included arteriolar, capillary and venular abnormalities. This analysis found that stratifying each DR severity level by presence or absence of FA risk factors results in a 1.7- to threefold change in risk of progression to PDR at 1 year. The investigators demonstrated that FA risk factors provided additional prognostic information. However, FA was not included in the routine DR staging system at the time for a number of reasons, including the need for intravenous dye administration, variable quality of FAs, and the fact that standard CFPs already provided effective prognostication. 
+ With evidence available from a well-designed prospective clinical trial, the level of evidence for standard FAs was assessed as level I ( Table 1 ). As standard FAs have been in routine clinical use for years, they were assessed as “Ready”, and from clinical experience, their potential usefulness is primarily in mid-stage clinical DRD (moderate to severe NPDR), although they are also able to detect or quantify nonperfusion in early-stage clinical DRD (mild NPDR; Table 2 ). Standard FA can be used as diagnostic (to differentiate IRMAs vs. NVs), monitoring, and prognostic biomarkers ( Table 3 ). However, while sufficient evidence is available for inclusion of standard FA in an updated DRD staging system, the main drawback to widespread adoption of FA in a routine staging system is its requirement for intravenous dye administration. Nevertheless, the additional independent prognostic ability of FA (over CFPs) is encouraging, as it strongly suggests that new noninvasive angiographic techniques such as OCTA (which can now cover the same field of view as standard FAs at that time), may also provide additional useful prognostic information. Such additional prognostic information is likely to be important as newer, earlier interventions for DRD (e.g., anti-VEGF treatment) are more widely adopted. WFFA 
+ Acquisition of WFFA images is largely similar to standard FA, except that the image acquisition is performed with widefield imaging systems, with similar technology to those used for WFCP acquisition. Widefield fluorescein angiographs are already in routine clinical use. The evidence grid for WFFA can be found as Appendix E in the Supplemental Material . Review of the available literature showed mostly cross-sectional studies for WFFA in DR, with 1 relevant prospective longitudinal study. Multiple cross-sectional studies demonstrate that nonperfusion on WFFA is associated with greater DR severity—these studies are summarized in Table S3 . 34 , 40 , 41 , 42 , 43 , 44 , 45 , 46 One longitudinal study showed that baseline WFFA features such as macular leakage index and pan-retinal leakage index could be predictive of eyes requiring anti-VEGF therapy—however, this study was retrospective, and the indications for receiving anti-VEGF therapy could not be determined. 47 Prospective longitudinal data supporting the prognostic benefit of WFFA parameters in DRD comes from the DRCR Retina Network Protocol AA study. 26 , 48 In this study, the presence of PPLs determined from WFFA images (FA PPLs) at baseline was associated with a 1.7-fold greater risk of disease worsening at 4 years. Fluorescein angiography PPLs and greater nonperfusion index were independently associated with disease worsening, after multivariate analysis adjusting for baseline DR severity and systemic risk factors. 48 
+ Based on the evidence reviewed, the level of evidence for WFFA was assessed as level I ( Table 1 ). Prospective longitudinal data on FA PPLs suggests that WFFA is “Ready” for potential inclusion in an updated DRD staging system ( Table 2 ). However, it is worth noting that the 1.7-fold improvement is no better than the 1.7- to threefold better risk prediction already provided by standard FA, as demonstrated in the original ETDRS. 39 Furthermore, WFFA carries the same risks and drawbacks of intravenous dye administration as standard FA. In addition, some studies have shown discrepancies in nonperfusion areas between WFFA and OCTA, attributed to confounding changes in choroidal background fluorescence on WFFA. 21 Further studies are needed to clarify this phenomenon and validate the nonperfusion areas detected on WFFA. Of note, studies on WFFA have used more quantitative methods of analysis than previous studies on standard FA, which likely reflects advances in image analysis technology. Further research in this area should continue such quantitative approaches, possibly facilitated by AI, and work toward standardization of these quantitative metrics used. 49 OCTA 
+ OCT angiography scans provide depth-resolved images of the retinal microvasculature in various segmented layers of the retina, without the need for intravenous dye administration. OCT angiography can provide noninvasive angiographic information on the retinal vasculature, down to the capillary level, but, at present, cannot provide information on vascular leakage. OCT angiography software algorithms produce a variety of quantitative metrics related to retinal vessel or capillary density, foveal avascular zone (FAZ) parameters (e.g., area, circularity, perimeter), fractal dimensions or vessel tortuosity, and choroidal parameters such as choriocapillaris flow deficit percentage. OCT angiography machines are in routine clinical use. The evidence grid for OCTA can be found as Appendix F in the Supplemental Material . 
+ Review of the literature on OCTA and DR revealed largely cross-sectional studies, with some longitudinal studies available. In cross-sectional studies, numerous quantitative OCTA metrics have been associated with greater severity of DR, including larger FAZ area, lower FAZ circularity, lower vessel density, lower fractal dimension, greater vessel tortuosity, and greater choriocapillaris flow deficit percentage. 50 , 51 , 52 , 53 , 54 , 55 , 56 , 57 , 58 Generally, quantitative metrics in the deep capillary plexus show strongest correlation with DR severity. 50 , 51 Various cross-sectional studies have also demonstrated that larger FAZ area and lower vessel density are associated with poorer VA. 59 , 60 , 61 , 62 Some studies have also demonstrated the utility of OCTA in diagnosing NVs and differentiating IRMAs from NVs in late-stage clinical DRD ( Table 2 ). 63 , 64 , 65 Relevant longitudinal studies on OCTA and DR are summarized in Table S4 . 66 , 67 , 68 , 69 , 70 , 71 , 72 , 73 , 74 , 75 , 76 , 77 Three of the studies identified changes in OCTA metrics over time but did not examine their relation to clinical outcomes. The remaining 9 longitudinal studies demonstrated that baseline OCTA metrics (such as larger FAZ area, lower vessel density in the macular superficial capillary plexus/deep capillary plexus and peripapillary region, and higher choriocapillaris flow deficit percentage) were predictive of clinical outcomes (such as DR progression, development of incident DR, referable DR or DME, need for treatment, and loss of VA) at 12 to 36 months later. 66 , 67 , 68 , 71 It is important to note that these 9 longitudinal studies were very heterogenous. The studies used a variety of different baseline OCTA metrics, scan locations and instruments, and study design also varied—the majority of studies were observational and one was a secondary analysis of a clinical trial. Therefore, it is difficult to draw conclusions on consistency of results. In addition, except for 1 study, these longitudinal studies focused on OCTA metrics from 3 × 3 mm scans only. Larger scan areas (such as 12 × 12 mm, or 15 × 9 mm) are likely to provide more information relevant to clinical outcomes. Finally, there are now a number of studies examining the longitudinal changes in OCTA parameters after treatment with anti-VEGF agents. However, these are mostly small studies, with inconsistent and often conflicting results. 21 , 78 , 79 , 80 , 81 , 82 , 83 Larger cohorts will be needed to draw definitive conclusions on this aspect. 
+ Overall, the level of evidence for OCTA in DRD was assessed as level II ( Table 1 ). By providing angiographic information down to the capillary level by noninvasive scans, OCTA has significant potential to provide additional prognostic information in an updated staging system for DRD. OCT angiography metrics can be used as monitoring and prognostic biomarkers in DRD ( Table 3 ). 4 With further study and validation, they have the potential also to be important predictive, pharmacodynamic/response or susceptibility/risk biomarkers. There are, however, significant barriers still to widespread adoption of OCTA in an updated DRD staging system. First, there are multiple different commercially available OCTA instruments, and metrics and measurements are not comparable across platforms. Variations in scan protocols such as high-speed scanning and averaging have also been shown to induce significant changes in quantitative parameters for DR. 84 Second, at present a significant proportion of OCTA images are ungradable, due to poor signal strength, or motion and other acquisition artifacts. 85 Third, there is a lack of standardized, consistent, prospective, longitudinal OCTA data in patients with DR. To realize the potential of OCTA for DRD, there is a need for (1) cross-validation studies for different OCTA instruments and metrics, (2) standardization of OCTA nomenclature, (3) improvements in OCTA image quality and gradeability, and (4) more consistent, high-quality prospective longitudinal data, especially using OCTA scans with larger scan areas that can provide information from a larger area of the retina. Improvements in these areas should improve the level of evidence for OCTA to level I. Some of these efforts are already underway, such as international efforts to standardize OCTA nomenclature by expert consensus, and automated approaches to improve scan quality. 86 , 87 It is likely that these remaining barriers to adoption will be solved within the next 5 years, and we consider OCTA as “Promising” for inclusion in an updated staging system for DRD ( Table 2 ). Finally, as with other diagnostic modalities, better understanding of changes in OCTA parameters after treatment with anti-VEGF and other agents is crucial. Conclusions 
+ Our current DR severity scales for the vascular component of DRD have served us well over the past few decades but have clear shortcomings that need to be addressed, particularly in the context of new treatments such as anti-VEGF therapy. Newer technologies and modalities such as widefield imaging and OCTA offer the exciting prospect of updating our DRD staging system to provide better prognostication and outcomes for our patients. 
+ Based on the available evidence, we have a few key recommendations for the vascular component of an updated DRD staging system (which were unanimously endorsed by workgroup members): 
+ 
+ 
+ 1. Continued inclusion of “traditional” CFP lesions (H/MAs, VB, IRMAs, and NVs) to predict risk of progression to PDR, as standard CFP remains a cheap and nearly universally available tool, especially in screening settings. However, current DR severity scales cannot be used for risk stratification in eyes treated with anti-VEGF, scatter laser photocoagulation, or other interventions. 
+ 
+ 
+ 2. Widefield color photographs can be used for DR severity grading (and DR screening), within the retinal area covered by the standard ETDRS 7 fields, although these gradings may not be directly interchangeable with those on standard CFPs. 
+ 
+ 
+ 3. Evaluation of retinal area peripheral to the standard ETDRS 7-fields on WFCP may be considered, but the exact method of grading and the prognostic significance of peripheral lesions needs to be further clarified. 
+ 
+ 
+ 4. Standard FA and WFFA do provide additional prognostic information over standard CFP and WFCP modalities, but the need for dye administration limits their routine adoption. 
+ 
+ 
+ 5. OCT angiography as a noninvasive angiographic modality has significant potential to provide quantitative metrics and biomarkers for DRD. However, there are a few remaining barriers which need to be addressed prior to widespread adoption. 
+ 
+ 
+ Based on the gaps and unmet needs identified in this review, we have a few recommendations on key research questions to be addressed (which were unanimously endorsed by workgroup members): 
+ 
+ 
+ 1. Better understanding of “traditional” DRD lesions (H/MAs, VB, IRMAs, and CWSs) on standard CFP and WFCP, and standardized OCTA parameters, in the context of anti-VEGF, laser and other future treatments—which of these lesions/parameters change or regress with treatment, which do not, and which remain as important predictors of outcomes of interest. 
+ 
+ 
+ 2. Development and prospective evaluation of a suitable method (other than qualitative assessment of color PPLs) for grading and quantifying peripheral DR lesions on WFCP. 
+ 
+ 
+ 3. Shift towards more quantitative approaches in grading “traditional” CFP lesions (H/MAs, VB, IRMAs, and NVs) and analysis of WFCP and WFFA images, for example, quantification of lesion counts, surface area, distances, and non-perfusion areas in a standardized manner. This could be performed by automated analysis and AI approaches. These quantitative grading metrics will also require prospective validation. 
+ 
+ 
+ 4. Cross-validation of different OCTA instruments and metrics and standardization of OCTA nomenclature. 
+ 
+ 
+ 5. Improvements in OCTA image quality and gradeability. 
+ 
+ 
+ 6. Prospective, longitudinal data evaluating the prognostic significance of standardized quantitative OCTA metrics, especially from larger scan areas, in relation to clinical outcomes of interest, such as retinopathy progression, progression to PDR, development of DME, and VA. 
+ 
+ 
+ We would like to acknowledge the limitations of this review. This was not a systematic review, and hence there may be some bias in the evidence and literature assessed. Nevertheless, we relied on a standardized review process across all workgroups and reviewed these standardized evidence grids according to established criteria for level of evidence, which provides an objective basis for our assessments. We also conducted a tiered evaluation, with evidence and assessments reviewed by the entire workgroup of experts before reaching a consensus. This tiered review process should help to reduce inconsistencies and controversial assessments. However, we do acknowledge that the process of reaching consensus in this study was not standardized, and that a more formal approach to consensus (e.g., a modified Delphi Method) would have potentially strengthened the conclusions of this work. Furthermore, there were no formal criteria established for inclusion of experts in the workgroup. Therefore, the composition of this workgroup is a potential source of bias, and the recommendations of this workgroup may not be representative of other experts in the field. Finally, while we look forward to the potential inclusion of newer imaging modalities such as WFCP, WFFA, and OCTA in an updated classification in the near future, it is important to acknowledge that these modalities will not always be available in most lower-resource settings. Therefore, inclusion of these modalities should be additive, to provide more accurate prognostication where available, but they should not completely replace existing modalities such as standard CFP, which remains widely accessible and affordable. 
+ In summary, this review of the literature in relation to the vascular component of DRD provides evidence-based recommendations on updates to the DRD staging system. Perhaps more importantly, this review highlights significant gaps in the existing literature that need to be addressed before we can harness the benefit of new imaging technologies and assessments to ultimately improve care and outcomes for our patients with DRD. Manuscript no. XOPS-D-23-00200. Footnotes 
+ 
+ Supplemental material available at www.aaojournal.org . 
+ Disclosure(s): 
+ All authors have completed and submitted the ICMJE disclosures form. 
+ The authors made the following disclosures: 
+ D.A.: Consultant - Eye Biotech; Patents – Docket No.: 30275/52437A (pending), Patent No US 8,211,893, B2; Shares – Eye Biotech. 
+ F.F.: Scientific Advisory Board – Novo Nordisk, Apellis, Genentech/Roche, Annexon, Regenxbio, Kodiak, 4D Molecular Therapeutics, Adverum, Janssen Research & Development; Leadership – Foundation Fighting Blindness, and DRCR Retina. 
+ T.W.G.: Financial support – American Diabetes Association; Grants – JDRF, Taubman Institute (U of Michigan), Roche/Genentech (payment to U of Michigan); Patents – PCT/US20/33995. 
+ J.K.S.: Grants – National Eye Institute (UG1EY014231), Novartis, Kalvista, Boehringer Ingelheim, Genentech/Roche, Physical Sciences, Inc, Janssen; Consultatant – American Medical Association (CME Editor for JAMA Ophthalmology ), American Diabetes Association (Associate Editor for Diabetes ); Financial support – Angiogenesis; Honoraria, Travel expenses – National Eye Institute (UG1EY014231) (for DRCR Retina Network [subcontract through Jaeb Center]), Novo Nordisk (for FOCUS Study [paid]), Merck, Novartis; Scientific Advisory Board – Roche (Faricimab External Advisory Board [unpaid]); Leadership – American Academy of Ophthalmology: BCSC Book 12; Receipt of services – Optovue, Roche, Physical Sciences, Inc, Boston Micromachines, Adaptive Sensory Technologies. 
+ R.T.: Consultant – Novartis, Genentech-Roche, AbbVie Allergan, Iveric Bio, Bayer, Apellis, Alcon, Oculis; Financial support – Novaris, Abbvie Allergan, Bayer, Roche-Genentech, Alcon, and Zeiss; Travel expenses – Novartis, Bayer, Abbvie Allergan; Shares – Oculis; Receipt of services – Zeiss, Optos, Canon. 
+ S.R.L.: Leadership – Mary Tyler Moore Vision Initiative (Chair, and provided support for article processing). 
+ T.-E.T.: Financial support – Mary Tyler Moore Vision Initiative; Honoraria, Honoraria, Travel expenses – AbbVie, Mary Tyler Moore Vision Initiative. 
+ W.T.Y.: Aldropika Therapeutics, Bayer, Boehringer Ingelheim, Carl Zeiss, Genentech, Inc, Iveric Bio, Novartis, Oxurion, Plano, Roche, Sanofi, Shanghai Henlius; Receipt of services – EyRiS and VISRE (co-founder). 
+ C.A.C: Consultant - Apellis, Astellas, Genentech, Boehringer Ingelheim, Osanni, Character Biosciences, Annexon; Financial support – Roche; Travel expenses – Heidelberg Engineering; Receipt of services – Heidelberg Engineering. 
+ A.D.: Grants - Research to Prevent Blindness, Inc (unrestricted grant to the UW-Madison Department of Ophthalmology and Visual Sciences). 
+ L.M.J.: Grants - National Eye Institute (Jaeb Center). 
+ S.S.: Consultant – Apellis, Alexion, 4dMT, Astellas, Amgen, Abbvie/Allergan, Samsung Bioepis, Biogen, Boerhinger Ingelheim, Character, Eyepoint, OTx, Iveric Bio, Novartis, Roche, Genentech, Catalyst, Alnylam, Bayer, Regeneron, Pfizer, Astellas, Nanoscope, Jannsen, Centervue, Optos, Heidelberg, Notal, Gyroscope, Jannsen, Merck, Oyster Point, Oxurion, Pfizer, Vertex, Merck; Financial support – Novartis, Roche, Optos, Heidelberg, Nidek; Travel expenses – Optos; Scientific Advisory Board – Regeneron; Leadership – ARVO (board of trustees [unpaid]), Macula Society (secretary [unpaid]); Receipt of services – Centervue, Carl Zeiss Meditec, Optos, Nidek, Topcon, Heidelberg (research instruments), Genentech/Roche, Novartis, Samsung Bioepis (medical writing). 
+ E.D.: Grants - NIH/NEI R01 grants; Leadership – Macula Society, Retina Society (NEI PED1 Study Section committee). 
+ V.C.: Shares - Johnson and Johnson; Financial or nonfinancial interests - Janssen R&D LLC (outside the submitted work). 
+ Supported by the National Institutes of Health (grant nos.: EY-012021, EY-029349, and HL-055374 [D.A.]); JDRF (for Mary Tyler Moore Vision Initiative [J.K.S.]); and Research to Prevent Blindness, Inc (unrestricted grant to the UW-Madison Department of Ophthalmology and Visual Sciences). The sponsor or funding organization had no role in the design or conduct of this research. 
+ Srinivas R. Sadda, MD, an Editor of this journal, was recused from the peer-review process of this article and had no access to information regarding its peer-review. 
+ HUMAN SUBJECTS: No human subjects were included in this study. Due to the nature of the study, institutional review board approval was not required. All research adhered to the tenets of the Declaration of Helsinki. No animal subjects were used in this study. 
+ Author Contributions: 
+ Conception and design: Tan, Dutta, Levine, Sun, Gardner, Wong 
+ Data collection: Tan, Jampol, Ferris, Tadayoni, Sadda, Chong, Domalpally, Blodi, Duh, Curcio, Antonetti, Wong 
+ Analysis and interpretation: Tan, Jampol, Ferris, Tadayoni, Sadda, Chong, Domalpally, Blodi, Duh, Curcio, Antonetti, Dutta, Levine, Sun, Gardner, Wong 
+ Obtained funding: Levine 
+ Overall responsibility: Tan, Jampol, Ferris, Tadayoni, Sadda, Chong, Domalpally, Blodi, Duh, Curcio, Antonetti, Dutta, Levine, Sun, Gardner, Wong 
+ Supplementary Data 
+ Table S1 
+ 
+ mmc1.pdf (28.8KB, pdf) 
+ Table S2 
+ 
+ mmc2.pdf (23KB, pdf) 
+ Table S3 
+ 
+ mmc3.pdf (30.9KB, pdf) 
+ Table S4 
+ 
+ mmc4.pdf (44.9KB, pdf) 
+ Appendix A 
+ 
+ mmc5.pdf (33.8KB, pdf) 
+ Appendix B 
+ 
+ mmc6.pdf (836.4KB, pdf) 
+ Appendix C 
+ 
+ mmc7.pdf (867.6KB, pdf) 
+ Appendix D 
+ 
+ mmc8.pdf (821.6KB, pdf) 
+ Appendix E 
+ 
+ mmc9.pdf (845.9KB, pdf) 
+ Appendix F 
+ 
+ mmc10.pdf (858.1KB, pdf) 
+ References 
+ 
+ 
+ 1. Grading diabetic retinopathy from stereoscopic color fundus photographs--an extension of the modified Airlie House classification. ETDRS report number 10. Early Treatment Diabetic Retinopathy Study Research Group. Ophthalmology. 1991;98(5 Suppl):786–806. [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Wilkinson C.P., Ferris F.L., Klein R.E., et al. Proposed international clinical diabetic retinopathy and diabetic macular edema disease severity scales. Ophthalmology. 2003;110:1677–1682. doi: 10.1016/S0161-6420(03)00475-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Fundus photographic risk factors for progression of diabetic retinopathy. ETDRS report number 12. Early Treatment Diabetic Retinopathy Study Research Group. Ophthalmology. 1991;98(5 Suppl):823–833. [ PubMed ] [ Google Scholar ] 
+ 
+ 4. FDA-NIH Biomarker Working Group . Food and Drug Administration (US); Silver Spring, MD: 2016. BEST (Biomarkers, EndpointS, and other Tools) Resource. [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Antonetti D.A., Klein R., Gardner T.W. Diabetic retinopathy. N Engl J Med. 2012;366:1227–1239. doi: 10.1056/NEJMra1005073. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Sun J.K., Aiello L.P., Abràmoff M.D., et al. Updating the staging system for diabetic retinal disease. Ophthalmology. 2021;128:490–493. doi: 10.1016/j.ophtha.2020.10.008. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Jampol L.M., Tadayoni R., Ip M. Need for a new classification of diabetic retinopathy. Retina. 2021;41:459–460. doi: 10.1097/IAE.0000000000003070. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Sohn E.H., van Dijk H.W., Jiao C., et al. Retinal neurodegeneration may precede microvascular changes characteristic of diabetic retinopathy in diabetes mellitus. Proc Natl Acad Sci U S A. 2016;113:E2655–E2664. doi: 10.1073/pnas.1522014113. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Sachdeva M.M. Retinal neurodegeneration in diabetes: an emerging concept in diabetic retinopathy. Curr Diab Rep. 2021;21:65. doi: 10.1007/s11892-021-01428-x. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Simó R., Stitt A.W., Gardner T.W. Neurodegeneration in diabetic retinopathy: does it really matter? Diabetologia. 2018;61:1902–1912. doi: 10.1007/s00125-018-4692-1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Silva P.S., Cavallerano J.D., Haddad N.M.N., et al. Peripheral lesions identified on ultrawide field imaging predict increased risk of diabetic retinopathy progression over 4 years. Ophthalmology. 2015;122:949–956. doi: 10.1016/j.ophtha.2015.01.008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Wykoff C.C., Eichenbaum D.A., Roth D.B., et al. Ranibizumab induces regression of diabetic retinopathy in most patients at high risk of progression to proliferative diabetic retinopathy. Ophthalmol Retina. 2018;2:997–1009. doi: 10.1016/j.oret.2018.06.005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Mitchell P., McAllister I., Larsen M., et al. Evaluating the impact of intravitreal aflibercept on diabetic retinopathy progression in the VIVID-DME and VISTA-DME studies. Ophthalmol Retina. 2018;2:988–996. doi: 10.1016/j.oret.2018.02.011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Simon R.M., Paik S., Hayes D.F. Use of archived specimens in evaluation of prognostic and predictive biomarkers. J Natl Cancer Inst. 2009;101:1446–1452. doi: 10.1093/jnci/djp335. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Vujosevic S., Benetti E., Massignan F., et al. Screening for diabetic retinopathy: 1 and 3 nonmydriatic 45-degree digital fundus photographs vs 7 standard early treatment diabetic retinopathy study fields. Am J Ophthalmol. 2009;148:111–118. doi: 10.1016/j.ajo.2009.02.031. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Boucher M.C., Gresset J.A., Angioi K., Olivier S. Effectiveness and safety of screening for diabetic retinopathy with two nonmydriatic digital images compared with the seven standard stereoscopic photographic fields. Can J Ophthalmol. 2003;38:557–568. doi: 10.1016/s0008-4182(03)80109-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Rudnisky C.J., Tennant M.T.S., Weis E., et al. Web-based grading of compressed stereoscopic digital photography versus standard slide film photography for the diagnosis of diabetic retinopathy. Ophthalmology. 2007;114:1748–1754. doi: 10.1016/j.ophtha.2006.12.010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Wang K., Jayadev C., Nittala M.G., et al. Automated detection of diabetic retinopathy lesions on ultrawidefield pseudocolour images. Acta Ophthalmol. 2018;96:e168–e173. doi: 10.1111/aos.13528. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Esmaeilkhanian H., Liu H., Fasih-Ahmed S., et al. The relationship of diabetic retinopathy severity scales with frequency and surface area of diabetic retinopathy lesions. Graefes Arch Clin Exp Ophthalmol. 2023;261:3165–3176. doi: 10.1007/s00417-023-06145-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Pearce E., Chong V., Sivaprasad S. Aflibercept reduces retinal hemorrhages and intravitreal microvascular abnormalities but not venous beading: secondary analysis of the CLARITY study. Ophthalmol Retina. 2020;4:689–694. doi: 10.1016/j.oret.2020.02.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Couturier A., Rey P.-A., Erginay A., et al. Widefield OCT-angiography and fluorescein angiography assessments of nonperfusion in diabetic retinopathy and edema treated with anti-vascular endothelial growth factor. Ophthalmology. 2019;126:1685–1694. doi: 10.1016/j.ophtha.2019.06.022. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Bonnin S., Dupas B., Lavia C., et al. Anti-vascular endothelial growth factor therapy can improve diabetic retinopathy score without change in retinal perfusion. Retina. 2019;39:426–434. doi: 10.1097/IAE.0000000000002422. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Maturi R.K., Glassman A.R., Josic K., et al. Effect of intravitreous anti-vascular endothelial growth factor vs sham treatment for prevention of vision-threatening complications of diabetic retinopathy: the protocol W randomized clinical trial. JAMA Ophthalmol. 2021;139:701–712. doi: 10.1001/jamaophthalmol.2021.0606. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Choudhry N., Duker J.S., Freund K.B., et al. Classification and guidelines for Widefield Imaging: recommendations from the International Widefield Imaging Study Group. Ophthalmol Retina. 2019;3:843–849. doi: 10.1016/j.oret.2019.05.007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Sadda S.R., Nittala M.G., Taweebanjongsin W., et al. Quantitative assessment of the severity of diabetic retinopathy. Am J Ophthalmol. 2020;218:342–352. doi: 10.1016/j.ajo.2020.05.021. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Marcus D.M., Silva P.S., Liu D., et al. Association of predominantly peripheral lesions on ultra-widefield imaging and the risk of diabetic retinopathy worsening over time. JAMA Ophthalmol. 2022;140:946–954. doi: 10.1001/jamaophthalmol.2022.3131. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Kernt M., Hadi I., Pinter F., et al. Assessment of diabetic retinopathy using nonmydriatic ultra-widefield scanning laser ophthalmoscopy (Optomap) compared with ETDRS 7-field stereo photography. Diabetes Care. 2012;35:2459–2463. doi: 10.2337/dc12-0346. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Silva P.S., Cavallerano J.D., Sun J.K., et al. Peripheral lesions identified by mydriatic ultrawide field imaging: distribution and potential impact on diabetic retinopathy severity. Ophthalmology. 2013;120:2587–2595. doi: 10.1016/j.ophtha.2013.05.004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Aiello L.P., Odia I., Glassman A.R., et al. Comparison of early treatment diabetic retinopathy study standard 7-field imaging with ultrawide-field imaging for determining severity of diabetic retinopathy. JAMA Ophthalmol. 2019;137:65–73. doi: 10.1001/jamaophthalmol.2018.4982. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Borrelli E., Querques L., Lattanzio R., et al. Nonmydriatic widefield retinal imaging with an automatic white LED confocal imaging system compared with dilated ophthalmoscopy in screening for diabetic retinopathy. Acta Diabetol. 2020;57:1043–1047. doi: 10.1007/s00592-020-01520-w. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Domalpally A., Barrett N., Reimers J., Blodi B. Comparison of ultra-widefield imaging and standard imaging in assessment of early treatment diabetic retinopathy severity scale. Ophthalmol Sci. 2021;1 doi: 10.1016/j.xops.2021.100029. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Price L.D., Au S., Chong N.V. Optomap ultrawide field imaging identifies additional retinal abnormalities in patients with diabetic retinopathy. Clin Ophthalmol. 2015;9:527–531. doi: 10.2147/OPTH.S79448. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Silva P.S., El-Rami H., Barham R., et al. Hemorrhage and/or microaneurysm severity and count in ultrawide field images and early treatment diabetic retinopathy study photography. Ophthalmology. 2017;124:970–976. doi: 10.1016/j.ophtha.2017.02.012. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Silva P.S., Liu D., Glassman A.R., et al. Assessment of fluorescein angiography nonperfusion in eyes with diabetic retinopathy using ultrawide field retinal imaging. Retina. 2022;42:1302–1310. doi: 10.1097/IAE.0000000000003479. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Sears C.M., Nittala M.G., Jayadev C., et al. Comparison of subjective assessment and precise quantitative assessment of lesion distribution in diabetic retinopathy. JAMA Ophthalmol. 2018;136:365–371. doi: 10.1001/jamaophthalmol.2018.0070. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Ashraf M., Rageh A., Gilbert M., et al. Factors affecting predominantly peripheral lesion identification and grading. Transl Vis Sci Technol. 2021;10:6. doi: 10.1167/tvst.10.7.6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Jacoba C.M.P., Ashraf M., Cavallerano J.D., et al. Association of maximizing visible retinal area by manual eyelid lifting with grading of diabetic retinopathy severity and detection of predominantly peripheral lesions when using ultra-widefield imaging. JAMA Ophthalmol. 2022;140:421–425. doi: 10.1001/jamaophthalmol.2021.6363. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. He Y., Verma A., Nittala M.G., et al. Ethnic variation in diabetic retinopathy lesion distribution on ultra-widefield imaging. Am J Ophthalmol. 2023;247:61–69. doi: 10.1016/j.ajo.2022.10.023. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Fluorescein angiographic risk factors for progression of diabetic retinopathy. ETDRS report number 13. Early Treatment Diabetic Retinopathy Study Research Group. Ophthalmology. 1991;98(5 Suppl):834–840. [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Silva P.S., Dela Cruz A.J., Ledesma M.G., et al. Diabetic retinopathy severity and peripheral lesions are associated with nonperfusion on ultrawide field angiography. Ophthalmology. 2015;122:2465–2472. doi: 10.1016/j.ophtha.2015.07.034. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Nicholson L., Ramu J., Chan E.W., et al. Retinal nonperfusion characteristics on ultra-widefield angiography in eyes with severe nonproliferative diabetic retinopathy and proliferative diabetic retinopathy. JAMA Ophthalmol. 2019;137:626–631. doi: 10.1001/jamaophthalmol.2019.0440. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Ehlers J.P., Jiang A.C., Boss J.D., et al. Quantitative ultra-widefield angiography and diabetic retinopathy severity: an assessment of panretinal leakage index, ischemic index and microaneurysm count. Ophthalmology. 2019;126:1527–1532. doi: 10.1016/j.ophtha.2019.05.034. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Yu G., Aaberg M.T., Patel T.P., et al. Quantification of retinal nonperfusion and neovascularization with ultrawidefield fluorescein angiography in patients with diabetes and associated characteristics of advanced disease. JAMA Ophthalmol. 2020;138:680–688. doi: 10.1001/jamaophthalmol.2020.1257. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Antaki F., Coussa R.G., Mikhail M., et al. The prognostic value of peripheral retinal nonperfusion in diabetic retinopathy using ultra-widefield fluorescein angiography. Graefes Arch Clin Exp Ophthalmol. 2020;258:2681–2690. doi: 10.1007/s00417-020-04847-w. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Hajdu D., Sedova A., Datlinger F., et al. Association of macular perfusion status with microvascular parameters up to the far periphery in diabetic retinopathy using multimodal imaging. Int J Retina Vitreous. 2020;6:50. doi: 10.1186/s40942-020-00253-w. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Sun G., Wang X., Jiang J., et al. Association of subregional quantitative ultra-widefield fluorescence angiography characteristics with the occurrence of diabetic macular edema and proliferative diabetic retinopathy. Front Med. 2021;8 doi: 10.3389/fmed.2021.720564. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Jiang A.C., Sevgi D.D., Mugnaini C., et al. Predictive assessment of quantitative ultra-widefield angiographic features for future need for anti-VEGF therapy in diabetic eye disease. J Pers Med. 2022;12:608. doi: 10.3390/jpm12040608. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Silva P.S., Marcus D.M., Liu D., et al. Association of ultra-widefield fluorescein angiography-identified retinal nonperfusion and the risk of diabetic retinopathy worsening over time. JAMA Ophthalmol. 2022;140:936–945. doi: 10.1001/jamaophthalmol.2022.3130. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Lee P.-K., Ra H., Baek J. Automated segmentation of ultra-widefield fluorescein angiography of diabetic retinopathy using deep learning. Br J Ophthalmol. 2023;107:1859–1863. doi: 10.1136/bjo-2022-321063. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Sun Z., Yang D., Tang Z., et al. Optical coherence tomography angiography in diabetic retinopathy: an updated review. Eye (Lond) 2021;35:149–161. doi: 10.1038/s41433-020-01233-y. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Chua J., Sim R., Tan B., et al. Optical coherence tomography angiography in diabetes and diabetic retinopathy. J Clin Med. 2020;9:1723. doi: 10.3390/jcm9061723. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Tan T.-E., Nguyen Q., Chua J., et al. Global assessment of retinal arteriolar, venular and capillary microcirculations using fundus photographs and optical coherence tomography angiography in diabetic retinopathy. Sci Rep. 2019;9 doi: 10.1038/s41598-019-47770-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Ting D.S.W., Tan G.S.W., Agrawal R., et al. Optical coherence tomographic angiography in type 2 diabetes and diabetic retinopathy. JAMA Ophthalmol. 2017;135:306–312. doi: 10.1001/jamaophthalmol.2016.5877. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Kim A.Y., Chu Z., Shahidzadeh A., et al. Quantifying microvascular density and morphology in diabetic retinopathy using spectral-domain optical coherence tomography angiography. Invest Ophthalmol Vis Sci. 2016;57:OCT362–OCT370. doi: 10.1167/iovs.15-18904. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Lee H., Lee M., Chung H., Kim H.C. Quantification of retinal vessel tortuosity in diabetic retinopathy using optical coherence tomography angiography. Retina. 2018;38:976–985. doi: 10.1097/IAE.0000000000001618. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Nesper P.L., Roberts P.K., Onishi A.C., et al. Quantifying microvascular abnormalities with increasing severity of diabetic retinopathy using optical coherence tomography angiography. Invest Ophthalmol Vis Sci. 2017;58:BIO307–BIO315. doi: 10.1167/iovs.17-21787. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Tan B., Lim N.-A., Tan R., et al. Combining retinal and choroidal microvascular metrics improves discriminative power for diabetic retinopathy. Br J Ophthalmol. 2023;107:993–999. doi: 10.1136/bjophthalmol-2021-319739. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Wang W., Guo X., Chen Y., et al. Choriocapillaris perfusion assessed using swept source optical coherence tomographic angiography and the severity of diabetic retinopathy. Br J Ophthalmol. 2023;107:836–841. doi: 10.1136/bjophthalmol-2021-320163. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Hajdu D., Told R., Angeli O., et al. Identification of microvascular and morphological alterations in eyes with central retinal non-perfusion. PLoS One. 2020;15 doi: 10.1371/journal.pone.0241753. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. DaCosta J., Bhatia D., Talks J. The use of optical coherence tomography angiography and optical coherence tomography to predict visual acuity in diabetic retinopathy. Eye (Lond) 2020;34:942–947. doi: 10.1038/s41433-019-0606-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Abdelshafy M., Abdelshafy A. Correlations between optical coherence tomography angiography parameters and the visual acuity in patients with diabetic retinopathy. Clin Ophthalmol. 2020;14:1107–1115. doi: 10.2147/OPTH.S248881. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Tsai W.-S., Thottarath S., Gurudas S., et al. Correlation of optical coherence tomography angiography characteristics with visual function to define vision-threatening diabetic macular ischemia. Diagnostics (Basel) 2022;12:1050. doi: 10.3390/diagnostics12051050. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Arya M., Sorour O., Chaudhri J., et al. Distinguishing intraretinal microvascular abnormalities from retinal neovascularization using optical coherence tomography angiography. Retina. 2020;40:1686–1695. doi: 10.1097/IAE.0000000000002671. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Al-Khersan H., Russell J.F., Lazzarini T.A., et al. Comparison between graders in detection of diabetic neovascularization with swept source optical coherence tomography angiography and fluorescein angiography. Am J Ophthalmol. 2021;224:292–300. doi: 10.1016/j.ajo.2020.11.020. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Russell J.F., Flynn H.W., Sridhar J., et al. Distribution of diabetic neovascularization on ultra-widefield fluorescein angiography and on simulated widefield OCT angiography. Am J Ophthalmol. 2019;207:110–120. doi: 10.1016/j.ajo.2019.05.031. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Custo Greig E., Brigell M., Cao F., et al. Macular and peripapillary optical coherence tomography angiography metrics predict progression in diabetic retinopathy: a sub-analysis of TIME-2b study data. Am J Ophthalmol. 2020;219:66–76. doi: 10.1016/j.ajo.2020.06.009. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. You Q.S., Wang J., Guo Y., et al. Optical coherence tomography angiography avascular area association with 1-year treatment requirement and disease progression in diabetic retinopathy. Am J Ophthalmol. 2020;217:268–277. doi: 10.1016/j.ajo.2020.04.024. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Tsai A.S.H., Jordan-Yu J.M., Gan A.T.L., et al. Diabetic macular ischemia: influence of optical coherence tomography angiography parameters on changes in functional outcomes over one year. Invest Ophthalmol Vis Sci. 2021;62:9. doi: 10.1167/iovs.62.1.9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Kim K., Kim E.S., Kim D.G., Yu S.-Y. Progressive retinal neurodegeneration and microvascular change in diabetic retinopathy: longitudinal study using OCT angiography. Acta Diabetol. 2019;56:1275–1282. doi: 10.1007/s00592-019-01395-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Scarinci F., Picconi F., Virgili G., et al. Microvascular impairment as a biomarker of diabetic retinopathy progression in the long-term follow up in type 1 diabetes. Sci Rep. 2020;10 doi: 10.1038/s41598-020-75416-8. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Sun Z., Tang F., Wong R., et al. OCT angiography metrics predict progression of diabetic retinopathy and development of diabetic macular edema: a prospective study. Ophthalmology. 2019;126:1675–1684. doi: 10.1016/j.ophtha.2019.06.016. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Marques I.P., Kubach S., Santos T., et al. Optical coherence tomography angiography metrics monitor severity progression of diabetic retinopathy-3-year longitudinal study. J Clin Med. 2021;10:2296. doi: 10.3390/jcm10112296. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Wang W., Cheng W., Yang S., et al. Choriocapillaris flow deficit and the risk of referable diabetic retinopathy: a longitudinal SS-OCTA study. Br J Ophthalmol. 2023;107:1319–1323. doi: 10.1136/bjophthalmol-2021-320704. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Yuan M., Wang W., Kang S., et al. Peripapillary microvasculature predicts the incidence and development of diabetic retinopathy: an SS-OCTA study. Am J Ophthalmol. 2022;243:19–27. doi: 10.1016/j.ajo.2022.07.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Wang W., Chen Y., Kun X., et al. Flow and geometrical alterations in retinal microvasculature correlated with the occurrence of diabetic retinopathy: evidence from a longitudinal study. Retina. 2022;42:1729–1736. doi: 10.1097/IAE.0000000000003518. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Chen Y., Zhu Z., Cheng W., et al. Choriocapillaris flow deficit as a biomarker for diabetic retinopathy and diabetic macular edema: 3-year longitudinal cohort. Am J Ophthalmol. 2023;248:76–86. doi: 10.1016/j.ajo.2022.11.018. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Guo X., Chen Y., Bulloch G., et al. Parapapillary choroidal microvasculature predicts diabetic retinopathy progression and diabetic macular edema development: a three-year prospective study. Am J Ophthalmol. 2023;245:164–173. doi: 10.1016/j.ajo.2022.07.008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Scheive M., Reinhart K.L., Hajrasouliha A.R. Using optical coherence tomography angiography as a biomarker of retinopathy severity and treatment for diabetic retinopathy. Mol Vis. 2022;28:220–229. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Cheong K.X., Lee S.Y., Ang M., Teo K.Y.C. Vessel density changes on optical coherence tomography angiography after vascular endothelial growth factor inhibitor treatment for diabetic macular edema. Turk J Ophthalmol. 2020;50:343–350. doi: 10.4274/tjo.galenos.2020.81592. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Toto L., D'Aloisio R., Libertini D., et al. Study of nonperfusion area changes after ranibizumab intravitreal injection for diabetic macular edema by means of widefield OCT angiography. Ophthalmic Res. 2023;66:8–13. doi: 10.1159/000523749. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Kansal V., Colleaux K., Rawlings N. OCTA changes following loading phase with intravitreal aflibercept for DME. Can J Ophthalmol. 2023;58:480–490. doi: 10.1016/j.jcjo.2022.04.005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Lin W., Feng M., Liu T., et al. Microvascular changes after conbercept intravitreal injection of PDR with or without center-involved diabetic macular edema analyzed by OCTA. Front Med (Lausanne) 2022;9 doi: 10.3389/fmed.2022.797087. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Hunt M., Wylęgała A., Wylęgała E., Teper S. 1-Year fixed-regimen bevacizumab treatment in DME-vascular network image analysis in optical coherence tomography angiography study. J Clin Med. 2022;11:2125. doi: 10.3390/jcm11082125. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Crincoli E., Colantuono D., Zhao Z., et al. Optical coherence tomography angiography for quantitative microvascular assessment in diabetic retinopathy: inter-device and intra-device agreement and correlation with clinical staging. Acta Diabetol. 2022;59:1219–1227. doi: 10.1007/s00592-022-01921-z. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Lujan B.J., Calhoun C.T., Glassman A.R., et al. Optical coherence tomography angiography quality across three multicenter clinical studies of diabetic retinopathy. Transl Vis Sci Technol. 2021;10:2. doi: 10.1167/tvst.10.3.2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Munk M.R., Kashani A.H., Tadayoni R., et al. Standardization of OCT angiography nomenclature in retinal vascular diseases: first survey results. Ophthalmol Retina. 2021;5:981–990. doi: 10.1016/j.oret.2020.12.022. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Munk M.R., Kashani A.H., Tadayoni R., et al. Recommendations for OCT angiography reporting in retinal vascular disease: a Delphi approach by international experts. Ophthalmol Retina. 2022;6:753–761. doi: 10.1016/j.oret.2022.02.007. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ Associated Data 
+ This section collects any data citations, data availability statements, or supplementary materials included in this article. 
+ Supplementary Materials 
+ Table S1 
+ 
+ mmc1.pdf (28.8KB, pdf) 
+ Table S2 
+ 
+ mmc2.pdf (23KB, pdf) 
+ Table S3 
+ 
+ mmc3.pdf (30.9KB, pdf) 
+ Table S4 
+ 
+ mmc4.pdf (44.9KB, pdf) 
+ Appendix A 
+ 
+ mmc5.pdf (33.8KB, pdf) 
+ Appendix B 
+ 
+ mmc6.pdf (836.4KB, pdf) 
+ Appendix C 
+ 
+ mmc7.pdf (867.6KB, pdf) 
+ Appendix D 
+ 
+ mmc8.pdf (821.6KB, pdf) 
+ Appendix E 
+ 
+ mmc9.pdf (845.9KB, pdf) 
+ Appendix F 
+ 
+ mmc10.pdf (858.1KB, pdf)

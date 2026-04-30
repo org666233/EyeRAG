@@ -1,0 +1,813 @@
+Source: PubMed Central (PMC)
+PMCID: PMC6062908
+Title: Review of Corneal Biomechanical Properties Following LASIK and SMILE for Myopia and Myopic Astigmatism
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6062908/
+Year: 2018
+Disease: refractive_surgery
+Priority: 3
+============================================================
+
+Open Ophthalmol J . 2018 Jul 27;12:164–174. doi: 10.2174/1874364101812010164 
+ 
+ 
+ Review of Corneal Biomechanical Properties Following LASIK and SMILE for Myopia and Myopic Astigmatism 
+ Iben Bach Damgaard 
+ Iben Bach Damgaard 
+ 
+ 1 Department of Ophthalmology, Aarhus University Hospital, Aarhus, Denmark. 
+ Find articles by Iben Bach Damgaard 
+ 
+ 
+ 1, * , Mohamed Reffat 
+ Mohamed Reffat 
+ 
+ 2 
+Mansoura Ophthalmic Hospital, Mansoura, Egypt 
+ Find articles by Mohamed Reffat 
+ 
+ 
+ 2 , Jesper Hjortdal 
+ Jesper Hjortdal 
+ 
+ 1 Department of Ophthalmology, Aarhus University Hospital, Aarhus, Denmark. 
+ Find articles by Jesper Hjortdal 
+ 
+ 
+ 1 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, Aarhus University Hospital, Aarhus, Denmark. 
+ 
+ 2 
+Mansoura Ophthalmic Hospital, Mansoura, Egypt 
+ 
+ * Address correspondence to this author at the Department of Ophthalmology, Aarhus University Hospital, Noerrebrogade 44, Building 10, 2 nd floor, 8000 Aarhus C, Denmark, Tel: +45 25522506, Fax: + 45 86121653; E-mail: iben.b.pedersen@gmail.com 
+ 
+ 
+ 
+ Series information 
+ Suppl-1, M5 Received 2017 Oct 19; Revised 2018 Jan 8; Accepted 2018 Jan 20; Collection date 2018. 
+ 
+ 
+ © 2018 Damgaard et al . 
+ This is an open access article distributed under the terms of the Creative Commons Attribution 4.0 International Public License (CC-BY 4.0), a copy of which is available at: ( https://creativecommons.org/licenses/by/4.0/legalcode ). This license permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC6062908  PMID: 30123381 
+ 
+ Abstract 
+ Worldwide, femtosecond Laser Assisted In-situ Keratomileusis (LASIK) is a well known and commonly used refractive technique, although Small Incision Lenticule Extraction (SMILE) has become increasingly popular since it was introduced in 2011. In LASIK, a corneal flap is cut with a microkeratome or femtosecond laser, followed by thinning of the stromal bed with excimer laser ablation. In SMILE, a minor intrastromal lenticule is cut with a femtosecond laser and subsequently removed through a small incision, leaving the anterior and strongest part of the cornea almost intact. Both LASIK and SMILE require cutting of corneal lamellae that may reduce the biomechanical stability of the cornea, with the potential risk of corneal iatrogenic ectasia as a severe complication. However, SMILE preserves the anterior corneal integrity and may, in theory, better preserve the corneal biomechanical strength than LASIK after surgery. 
+ A review aimed to examine the current literature that describes and compares the corneal biomechanical properties after Laser Assisted In-situ Keratomileusis (LASIK) and Small Incision Lenticule Extraction (SMILE). A comprehensive search was performed in Pubmed.gov using the following search queries: Corneal biomechanical properties, corneal biomechanics, ocular response analyser, ocular response analyzer, ORA, ex vivo, in vitro , Corvis, Corvis ST, LASIK, and SMILE. 
+ Keywords: Myopia, SMILE, LASIK, Myopia astigmatism, Corvis, Corvist ST 1. INTRODUCTION 
+ During the last few decades, laser refractive surgery has gained extensive interest for correction of refractive errors such as myopia, hyperopia, astigmatism, and presbyopia. Worldwide, femtosecond laser-assisted in-situ keratomileusis (LASIK) has been widely implemented in clinical practice [ 1 ] In LASIK, a reproducible flap of a predetermined thickness is made with a femtosecond laser, and a stromal bed shaped with excimer laser according to the amount of refractive correction is needed. In 2011, Small Incision Lenticule Extraction (SMILE) was introduced as a refinement of the LASIK technique [ 2 , 3 ]. In SMILE, an intrastromal lenticule is cut with a femtosecond laser, and subsequently removed through a minor incision. Both SMILE and LASIK have shown high efficacy, predictability, and safety [ 4 - 9 ], but SMILE may have an advantage of being a flap-free procedure preserving the corneal biomechanical strength better than LASIK [ 10 , 11 ]. 
+ The cornea consists of approximately 200 collagen lamellae containing collagen fibres that are crucial to withstand the intraocular pressure and maintain the corneal shape [ 12 , 13 ]. The lamellar interweaving and corneal cross-linking ensure the biomechanical strength of the cornea, the anterior 1/3 being the strongest part [ 14 ]. The tensile strength in the corneal lamellae decreases after incision and does not contribute to the overall corneal resistance to the intraocular pressure. Due to the orientation of the lamellae, a vertical cut causes greater reduction in the corneal biomechanical strength than a cut parallel to the corneal surface. [ 15 ]. The irreversible corneal alterations after refractive surgery affect the biomechanical properties by reducing the biomechanical strength. Thus, iatrogenic ectasia is one of the severe complications caused by a biomechanical weakening after laser refractive surgery, seen by corneal thinning, protrusion, increased myopia, irregular astigmatism, and decreased visual acuity [ 16 ]. Iatrogenic ectasia has been reported in a few cases after both LASIK [ 17 ] and SMILE [ 18 - 21 ], although the comprehensive evaluation of the SMILE cases showed preoperative abnormal topographic patterns in almost all cases. 
+ LASIK may cause a greater reduction of the biomehcanical strength due to the almost circumferential cut during flap creation, compared with only a 2-3 mm incision length in SMILE. Several studies have tried to answer this question both in vivo and ex vivo, and by mathematical or finite-element models of the cornea. This review aimed to describe current literature regarding corneal biomechanical properties after LASIK and SMILE. Our search was performed in pubmed.gov, using the following research terms: Corneal biomechanical properties, corneal biomechanics, ocular response analyser, ocular response analyzer, ORA, ex vivo , in vitro , Corvis, Corvis ST, LASIK, and SMILE. A total of 57 studies were included in the initial search, where six studies were excluded due to non-English language. Based on abstract reading, 14 studies described and compared the biomechanical properties following LASIK and SMILE. Comparisons with other laser refractive techniques such as photorefractive keratectomy (PRK), FLEX, and LASEK as well as the dependency of IOP, CCT, refractive status, cap/flap thickness, and age were outside the topic of this review. 
+ 1.1. 
+ In vivo Corneal Biomechanical Assessment 
+ Several approaches to in vivo assessment of the biomechanical properties have been proposed, including Brillouin microscopy [ 22 ], optical coherence elastrography [ 23 ], and supersonic shear wave elastrography [ 24 ]. To date, there are only two commercially available devices to analyse some corneal biomechanical properties in vivo ; the Ocular Response Analyser (ORA) [ 25 ] and the Corvis ST [ 26 ]. 
+ 1.1.1. The Ocular Response Analyser 
+ The Ocular Response Analyser (ORA, Reichert Inc., Dephew, NY) is a non-contact differential tonometer evaluating the in vivo corneal viscoelasticity and intraocular pressure during a collimated air-pulse pressurizing the corneal apex [ 25 ]. The corneal inward (P1) and outward (P2) applanation points are registered with an electro-optical infrared system Fig. ( 1 ) and translated into IOP values based on the applied pressure. Corneal Hysteresis (CH) is defined as the difference between the applied pressure during inward and outward applanation (CH=P1-P2), and describes cornea ability to dissipate energy due to viscous damping. Corneal hysteresis reflects the combined change in the viscosity and elasticity, previously shown in an experimental study with the ORA [ 27 ]. Corneal Resistance Factor (CRF) is determined by an empirical formula, based on the correlation between P1, P2, and CCT, reflecting the overall corneal resistance. Both values have been shown to be affected by CCT [ 28 - 31 ], IOP [ 30 - 32 ], and age [ 33 - 35 ], and must be taken into consideration when interpreting ORA outcomes. 
+ Fig. (1). 
+ 
+Screenshot from the Ocular Response Analyser showing the applanation signal at inward and outward applanation (red peaks). Corneal Hysteresis (CH) is defined as the difference in the applied pressure during the first and second applanation. CRF: Corneal Resistance Factor. IOPg: Goldman Correlated Intraocular Pressure. IOPcc: Corneal Compensated Intraocular Pressure. CCT: Central Corneal Thickness.
+ 
+ 
+ Open in a new tab 1.1.2. The Corvis ST 
+ (Oculus, Wetzlar, Germany) was later presented as an alternative device for in vivo acquisition of the corneal biomechanical properties. It combines non-contact tonometry with high-speed Scheimpflug visualization of the corneal deformation during the symmetrically metered air pulse Fig. ( 2 ). With 4330 frames per second, the Corvis ST records the dynamic deformation and determines velocity, length, and time lapse during applanation and highest concavity Table 1 . The initial Corvis ST software version presented a limited number of parameters; later new variables followed describing the inward and outward applanation in further detail. 
+ Fig. (2). 
+ 
+Screenshot of corneal deformation during an air-pulse from the Corvis ST with first inward applanation and maximal deformation.
+ 
+ 
+ Open in a new tab Table 1. 
+ Description of Corvis ST parameters. *: Parameters avaliable with the first software version. 
+ 
+ 
+ 
+ Corvis ST parameters 
+ 
+ 
+ Description 
+ 
+ 
+ 
+ 
+ IOP [mmHg]* 
+ The Intraocular pressure, calculated from A1 
+ 
+ 
+ Pachymetry [μm] * 
+ Central corneal thickness, measured with optical pachymetry 
+ 
+ 
+ A1 time [ms] * 
+ Time to first (inward) applanation 
+ 
+ 
+ A1 length [mm]* 
+ Length of first (inward) applanation 
+ 
+ 
+ A1 velocity [m/s]* 
+ Velocity of the corneal apex at first applanation 
+ 
+ 
+ A1 deformation amplitude [mm] 
+ Sagittal deformation length of the apex at first applanation 
+ 
+ 
+ A1 deflection length [mm] 
+ Horizontal length of the deformed part of the cornea at first applanation 
+ 
+ 
+ A1 deflection amplitude [mm] 
+ Deformation amplitude corrected for whole eye movement at first applanation 
+ 
+ 
+ HC deformation amplitude [mm] * 
+ Sagittal deformation length of the apex at highest concavity 
+ 
+ 
+ HC time [ms] * 
+ Time to reach highest concavity 
+ 
+ 
+ HC radius [mm] * 
+ Radius of curvature at highest concavity, calculated with “parabolic fit” 
+ 
+ 
+ HC deflection length [mm] 
+ Horizontal length of the deformed part of the cornea at highest concavity 
+ 
+ 
+ HC deflection amplitude [mm] 
+ Deformation amplitude corrected for whole eye movement at highest concavity 
+ 
+ 
+ HC deflection amplitude [ms] 
+ Time of highest concavity deflection amplitude 
+ 
+ 
+ Peak distance [mm] * 
+ Distance between peak points at highest concavity 
+ 
+ 
+ A2 time [ms] * 
+ Time to reach second (outward) applanation 
+ 
+ 
+ A2 length [mm] * 
+ Length of second (outward) applanation 
+ 
+ 
+ A2 velocity [m/s] * 
+ Velocity of the corneal apex at second applanation 
+ 
+ 
+ A2 deformation amplitude [mm] 
+ Sagittal deformation length of the apex at second applanation 
+ 
+ 
+ A2 deflection length [mm] 
+ Horizontal length of deformed part of the cornea at second applanation 
+ 
+ 
+ A2 deflection amplitude [mm] 
+ Deformation amplitude corrected for whole eye movement at second applanation 
+ 
+ 
+ 
+ Open in a new tab 2. THE ORA: LASIK VERSUS SMILE 
+ Several studies have assessed the ORA parameters after laser refractive procedures to describe corneal biomechanical properties after both LASIK and SMILE, whereas only a few studies have compared the biomechanical alterations after surgery Table 2 [ 26 , 36 - 44 ]. A retrospective study by Osman et al. [ 38 ] examined 25 LASIK- and 25 SMILE-treated patients one month after surgery, and found a more profound reduction in the CH and CRF parameters after LASIK than SMILE (preop SE: LASIK −5.16±1.42D, SMILE −5.43±1.17D). These findings were in agreement with Wang et al. [ 42 ] where CH and CRF decreased more in LASIK-treated patients with myopia more than -6D at one week, and one and three-month follow-up. However, the authors did not find any difference in the CH or CRF reduction in patients treated for less than -6D. Wang et al. [ 42 ] also examined the additional p1 and p2 areas, describing the area of the amplitude during inward and outward applanation. In their comparative study of 79 LASIK- and 187 SMILE- treated patients, the p1 and p2 areas decreased more after LASIK than after SMILE in patients needing more than -6D correction, suggesting a generally softer cornea after LASIK than after SMILE [ 45 ]. However, the difference was non-significant in their study group of low myopic patients. 
+ Table 2. 
+ Studies comparing ORA measurements following LASIK and SMILE. Re com: Retrospective comparable study. Pro com: prospective comparable study. RCT paired: Randomized, controlled, paired-eyed study. * graphical illustration, but values not reported. ** Standard derivations not reported in text. n: number of eyes. CH: Corneal Hysteresis. CRF: Corneal Resistance Factor. Δ: postoperative – preoperative. 
+ 
+ 
+ - 
+ Preoperative 
+ Postoperative 
+ - 
+ 
+ 
+ LASIK 
+ SMILE 
+ LASIK 
+ SMLE 
+ 
+ 
+ Study 
+ Design 
+ n 
+ CH [mmHg] 
+ CRF [mmHg] 
+ n 
+ CH [mmHg] 
+ CRF [mmHg] 
+ CH [mmHg] 
+ CRF [mmHg] 
+ CH [mmHg] 
+ CRF [mmHg] 
+ Conclusion 
+ 
+ 
+ 
+ Xia et al. 2016 [36] 
+ Pro com 
+ 59 
+ 10.76 ± 1.67 
+ 10.60 ± 1.99 
+ 69 
+ 10.99 ± 1.65 
+ 11.26 ± 1.94 
+ 1W: 7.80 ±1.57 1M: 7.76 ±1.21 3M: 8.06 ±1.06 6M: 7.97 ±1.14 
+ 1W: 7.14 ±1.94 1M: 6.51 ±1.33 3M: 6.53 ±1.38 6M: 6.31 ±1.41 
+ 1W: 7.82 ±1.32 1M: 8.47 ±1.23 3M: 8.35 ±1.08 6M: 8.58 ±1.40 
+ 1W: 7.57 ±1.44 1M: 7.09 ±1.53 3M: 6.51 ±1.27 6M: 7.05 ±1.65 
+ A significant reduction was seen in CH and CRF in both groups. At 6 months, no difference were seen in CH between groups (p=0.052), while the difference in CRF was significant (p=0.023) 
+ 
+ 
+ 
+ Li et al. 2016 [37] 
+ Re com 
+ 96 
+ 10.32 
+ 10.74 
+ 97 
+ 10.16 
+ 10.41 
+ 1M: 7.48 3M: 7.74 6M: 7.84 
+ 1M: 6.93 3M: 6.70 6M: 6.58 
+ 1M: 7.82 3M: 7.99 6M: 7.94 
+ 1M: 7.06 3M: 6.82 6M: 6.83 
+ ΔCRF and ΔCH per removed or ablated tissue were higher in LASIK than in SMILE. ** 
+ 
+ 
+ 
+ Osman et al. 2016 [38] 
+ Re com 
+ 25 
+ 11.59±1.86 
+ 11.00 ± 1.89 
+ 25 
+ 12.03 ± 1.76 
+ 11.42 ± 1.68 
+ 1M: 8.46±1.76 
+ 1M: 7.45±2.39 
+ 1M: 9.99±1.76 
+ 1M: 9.43±1.55 
+ The average reduction in CH and CRF (in percentage) was significantly larger after LASIK than SMILE at one month (p<0.001) 
+ 
+ 
+ 
+ Zhang et al. 2016 [39] 
+ Pro com 
+ 80 
+ 10.83±1.60 
+ 10.71 ± 1.74 
+ 80 
+ 10.64 ± 1.09 
+ 10.54 ± 1.53 
+ 24H: 7.98±1.17 2W: 8.07±1.37 1M: 8.17±1.31 3M: 8.00±1.32 
+ 24H: 6.85±1.42 2W: 6.87±1.45 1M: 6.88±1.46 3M: 6.82±1.40 
+ 24H: 7.91±1.06 2W: 7.94±1.08 1M: 8.00±0.99 3M: 7.91±0.92 
+ 24H: 6.88±1.47 2W: 7.01±1.38 1M: 7.08±1.34 3M: 7.07±1.27 
+ ΔCH and ΔCRF did not differ between WF-guided LASIK and SMILE at any postoperative time points 
+ 
+ 
+ 
+ Pedersen et al. 2015 [26] 
+ Re com 
+ 35 
+ n/a 
+ n/a 
+ 29 
+ n/a 
+ n/a 
+ 37M: 8.58±0.15 
+ 37M: 7.12±0.18 
+ 15M: 8.56±0.19 
+ 15M: 7.12±0.23 
+ Reported estimated marginal means (36.7 years, 473μm, IOPcc 13.0mmHg). No significant differences in CH and CRF between LASIK and SMILE 
+ 
+ 
+ 
+ Wang et al. (2016) [40] 
+ Re com 
+ 56 
+ 10.85 ±1.19 
+ 10.62 ±1.81 
+ 50 
+ 10.52 ±1.71 
+ 10.07 ±1.49 
+ 6M: 8.43±1.75 12M: 8.31±1.62 
+ 6M: 7.53 ±1.81 12M: 7.29 ±1.76 
+ 6M: 7.85±1.81 12M: 7.97±2.05 
+ 6M: 7.54±1.66 12M: 7.83±1.64 
+ Corneal biomechanical changes were similar after the two procedures, although FS-LASIK demonstrated a greater reduction in CRF. 
+ 
+ 
+ 
+ Wu & Wang (2015) [41] 
+ Re com 
+ 75 
+ 10.09±1.38 
+ 10.57±1.64 
+ 75 
+ 10.16±1.30 
+ 10.39±1.52 
+ 3M: 7.86±1.03 
+ M3: 6.77±1.13 
+ M3: 8.30±1.04 
+ M3: 7.25±1.31 
+ Postoperative CH and CRF were significantly higher after SMILE than after FS-LASIK (p<0.015) 
+ 
+ 
+ 
+ Wang et al. 2014 [42] 
+ pro com 
+ 79 
+ High myopia: 10.15±0.27 Low myopia: 10.45±0.19 
+ High myopia: 10.15±0.31 Low myopia: 10.07±0.20 
+ 187 
+ High myopia: 10.49 ± 0.19 Low myopia: 10.56 ± 0.17 
+ High myopia: 10.86 ± 0.20 Low myopia: 10.48 ± 0.17 
+ 1W: n/a * 1M: n/a * 3M: n/a * 
+ 1W: n/a * 1M: n/a * 3M: n/a * 
+ 1W: n/a * 1M: n/a * 3M: n/a * 
+ 1W: n/a * 1M: n/a * 3M: n/a * 
+ High myopia: CH and CRF decreased significantly more after LASIK than after SMILE (p<0.014). Low myopia: No significant difference between LASIK and SMILE 
+ 
+ 
+ 
+ Wu et al. 2014 [43] 
+ Pro com 
+ 40 
+ n/a 
+ n/a 
+ 40 
+ n/a 
+ n/a 
+ 1W: n/a 3M: 8.17±0.71 6M: 8.11±0.66 
+ 1W: 7.21±0.83 1M: 7.29±0.75 6M: 6.94±0.66 
+ 1w: n/a 3M: 8.64±1.03 6M: 8.59±1.00 
+ 1W: 7.89±1.31 1M: 7.98±1.24 6M: 7.78±1.03 
+ Average ΔCRF was significantly larger after LASIK than SMILE at six months (p=0.025). Average ΔCH was comparable at any time points (p=0.083) 
+ 
+ 
+ 
+ Agca et al. 2014 [44] 
+ RCT paired 
+ 30 
+ 11.00±1.53 
+ 10.76±1.45 
+ 30 
+ 10.89±1.79 
+ 10.73±1.71 
+ 1M: 8.80±1.51 6M: 9.02±1.27 
+ 1M: 7.98±1.58 6M: 8.07±1.26 
+ 1M: 8.70±1.31 6M: 8.95±1.47 
+ 1M: 7.89±1.57 6M: 7.77±1.37 
+ Average ΔCH and ΔCRF was similar between LASIK and SMILE at one and six months follow up. The difference in CH and CRF between one and six months was comparable in LASIK and SMILE 
+ 
+ 
+ Open in a new tab The individual variation in corneal biomechanical properties may cause an in-between group difference when comparing the ORA parameters. Hence, a paired-eyed study design provides more strength when evaluating the biomechanical properties after laser refractive surgery. Agca et al. [ 44 ] examined in a prospective paired-eyed study patients treated with LASIK or SMILE in each of the two eyes (preop SE: LASIK −3.71±1.83D, SMILE −3.62±1.79D), and found a similar reduction in viscoelasticity at six months. However, this may be caused by correction of moderate to low myopia with only a minor reduction in the corneal stiffness beyond the sensitivity of the device [ 46 ]. High myopic correction requires removal or ablation of more stromal tissue than low myopic correction. Thus, Li et al. [ 37 ] examined the average decrease of CH and CRF per amount of removed or ablated tissue, and found a greater reduction after LASIK than SMILE (preop SE: LASIK -5.95±1.78D, SMILE -5.60±1.43D), which may be attributed to the flap creation during LASIK. 
+ A major limitation of a few of the comparative studies was the lack of corneal-compensated IOP and CCT comparisons between groups, as these parameters in some studies were correlated with both CH and CRF [ 28 , 30 ]. Pedersen et al. [ 26 ] evaluated estimated marginal means in 35 LASIK- and 29 SMILE-treated patients and took into consideration the dependency of IOP and postoperative CCT. No significant differences were found in CH and CRF up to one year after surgery, although the preoperative values were not reported in this study. However, both CH and CRF describe the viscoelasticity of the corneal tissue, where an increase in elasticity may equalize the decrease in viscosity and thereby mask an actual impact of the surgical intervention on the elasticity [ 27 ]. 3. THE CORVIS ST: LASIK VERSUS SMILE 
+ Shen et al. [ 47 ] were the first to retrospectively report the biomechanical outcomes after LASIK and SMILE using the Corvis ST. They found no significant differences in any of the evaluated parameters three months after surgery Table 3 . However, only the postoperative values were described, whereas a comparison of the average change due to surgery would provide more information about the biomechanical impact following LASIK and SMILE. Sefat et al. [ 48 ] also reported similar biomechanical responses after LASIK and SMILE with the Corvis ST in a subgroup matched for age, preoperative CCT, IOP, preoperative spherical equivalent, and ΔCCT. Osman et al. [ 38 ] calculated and compared the percentage of change in preoperative and postoperative measurements in a comparative study of 25 LASIK- and 25 SMILE-treated patients. The authors found significant less reduction in A1 time, HC time, and A2 time after SMILE than LASIK, which may reflect a less compliant cornea after the flap-free procedure. Furthermore, the percentage of increase in deformation amplitude during highest concavity was significantly larger in LASIK than SMILE, suggesting a more severe inward deformation during the air pulse after LASIK, possibly due to a more compliant cornea. 
+ Table 3. 
+ Studies comparing Corvis ST parameters following LASIK and SMILE. Only the original Corvis ST values are included in the table. * Estimated marginal means at following values: Age at examination 36.7 years, CCT 472 mm, IOPcc 13.0mmHg. HC PD: Highest concavity peak distance. HC DA: Highest concavity deformation amplitude. 
+ 
+ 
+ 
+ 
+ 
+ Sefat et al. 2016 [ 48 ] 
+ 
+ Pedersen et al. 2015 [ 26 ] 
+ 
+ Osman et al. 2015 [ 38 ] 
+ 
+ Shen et al. 2014 [ 47 ] 
+ 
+ 
+ 
+ Design 
+ Prospective, comparable 
+ Retrospective, comparable 
+ Retrospective, comparable 
+ Retrospective, comparable 
+ 
+ 
+ 
+ 
+ Preop 
+ Postop 
+ Preop 
+ Postop 
+ Preop 
+ Postop 
+ Preop 
+ Postop 
+ 
+ 
+ LASIK 
+ No of eyes 
+ 48 
+ 48 
+ n/a 
+ 35 
+ 25 
+ 25 
+ 17 
+ 17 
+ 
+ 
+ Follow up 
+ 
+ 3 months 
+ 
+ 37months 
+ 
+ 1 month 
+ 
+ 3 months 
+ 
+ 
+ A1 Time 
+ 7.34±0.41 
+ 6.84±0.21 
+ n/a 
+ 6.82±0.02* 
+ 8.40±0.39 
+ 7.89±0.44 
+ n/a 
+ 7.17±0.17 
+ 
+ 
+ A2 Time 
+ 21.65±0.44 
+ 22.04±0.31 
+ n/a 
+ 21.7±0.06* 
+ 23.42±1.20 
+ 20.28±1.87 
+ n/a 
+ 22.92±0.82 
+ 
+ 
+ A1 length 
+ 1.79±0.25 
+ 1.79±0.36 
+ n/a 
+ n/a 
+ 2.10±0.23 
+ 1.93±0.23 
+ n/a 
+ 1.73±0.30 
+ 
+ 
+ A2 length 
+ 1.86±0.47 
+ 1.61±0.59 
+ n/a 
+ n/a 
+ 1.90±0.24 
+ 1.81±0.21 
+ n/a 
+ 1.33±0.48 
+ 
+ 
+ A1 velocity 
+ 0.15±0.03 
+ 0.15±0.04 
+ n/a 
+ n/a 
+ n/a 
+ n/a 
+ n/a 
+ 0.12±0.03 
+ 
+ 
+ A2 velocity 
+ -0.38±0.11 
+ -0.53±0.12 
+ n/a 
+ n/a 
+ n/a 
+ n/a 
+ n/a 
+ -0.53±0.12 
+ 
+ 
+ HC Time 
+ 16.71±0.48 
+ 16.79±0.47 
+ n/a 
+ 16.1±0.08* 
+ 17.74±0.71 
+ 14.40±1.27 
+ n/a 
+ 17.57±0.83 
+ 
+ 
+ HC Radius 
+ 8.18±1.31 
+ 7.07±0.77 
+ n/a 
+ 6.06±0.09* 
+ 7.69±1.14 
+ 7.00±1.06 
+ n/a 
+ 6.30±1.41 
+ 
+ 
+ HC PD 
+ 4.83±0.82 
+ 5.32±0.53 
+ n/a 
+ n/a 
+ 3.81±0.49 
+ 4.90±0.67 
+ n/a 
+ 5.74±0.28 
+ 
+ 
+ HC DA 
+ 1.04±0.12 
+ 1.11±0.10 
+ n/a 
+ 1.15±0.02* 
+ 1.02±0.10 
+ 1.26±0.07 
+ n/a 
+ 1.19±0.13 
+ 
+ 
+ SMILE 
+ No of eyes 
+ 80 
+ 80 
+ n/a 
+ 29 
+ 25 
+ 25 
+ 17 
+ 17 
+ 
+ 
+ Follow up 
+ 
+ 3 months 
+ 
+ 15 months 
+ 
+ 1 month 
+ 
+ 3 months 
+ 
+ 
+ A1 Time 
+ 7.25±0.33 
+ 6.74±0.25 
+ n/a 
+ 6.75±0.03* 
+ 8.40±0.36 
+ 8.23±0.37 
+ n/a 
+ 7.27±0.20 
+ 
+ 
+ A2 Time 
+ 21.73±0.37 
+ 22.01±0.86 
+ n/a 
+ 21.8±0.07* 
+ 23.64±1.03 
+ 22.03±1.11 
+ n/a 
+ 23.08±0.44 
+ 
+ 
+ A1 length 
+ 1.79±0.24 
+ 1.71±0.34 
+ n/a 
+ n/a 
+ 2.10±0.22 
+ 1.90±0.20 
+ n/a 
+ 1.74±0.32 
+ 
+ 
+ A2 length 
+ 1.84±0.48 
+ 1.46±0.53 
+ n/a 
+ n/a 
+ 1.90±0.20 
+ 1.75±0.20 
+ n/a 
+ 1.67±0.64 
+ 
+ 
+ A1 velocity 
+ 0.15±0.03 
+ 0.14±0.03 
+ n/a 
+ n/a 
+ n/a 
+ n/a 
+ n/a 
+ 0.13±0.03 
+ 
+ 
+ A2 velocity 
+ -0.39±0.08 
+ -0.56±0.20 
+ n/a 
+ n/a 
+ n/a 
+ n/a 
+ n/a 
+ -0.49±0.15 
+ 
+ 
+ HC Time 
+ 16.91±0.42 
+ 16.81±0.35 
+ n/a 
+ 16.4±0.01* 
+ 18.39±0.92 
+ 16.32±1.10 
+ n/a 
+ 17.38±0.81 
+ 
+ 
+ HC Radius 
+ 7.89±0.82 
+ 6.60±0.68 
+ n/a 
+ 6.25±0.11* 
+ 7.99±1.35 
+ 6.91±1.25 
+ n/a 
+ 5.74±0.91 
+ 
+ 
+ HC PD 
+ 4.46±1.10 
+ 5.37±0.59 
+ n/a 
+ n/a 
+ 4.09±0.69 
+ 4.72±0.71 
+ n/a 
+ 5.57±0.41 
+ 
+ 
+ HC DA 
+ 1.05±0.09 
+ 1.13±0.10 
+ n/a 
+ 1.20±0.01* 
+ 1.05±0.08 
+ 1.10±0.08 
+ n/a 
+ 1.17±0.11 
+ 
+ 
+ 
+ Conclusion 
+ In a subgroup matched for spherical equivalent (26 LASIK, 43 SMILE), no significant differences were found in the postoperative Corvis ST parameters 
+ HC time was significantly shorter after LASIK compared with SMILE, while no differences were seen in remaining parameters 
+ The percentage of reduction in A1 Time, HC Time and A2 time was larger after LASIK than SMILE. The percentage of increase in HC peak distance and deformation amplitude was significantly larger after LASIK than SMILE. 
+ No significant differences in mean values of deformation amplitudes and time between LASIK and SMILE. 
+ 
+ 
+ Open in a new tab It has previously been questioned if the repeatability and reproducibility of the Corvis ST parameters available with the first software version were acceptable (Table 2 ) [ 49 - 51 ]. Hence, a retrospective study by Pedersen et al. [ 26 ] examined only the variables with a coefficient of variation <10% [ 49 ] including A1 deflection length and HC deflection length, which were not standard parameters in the initial Corvis ST software. After adjusting for postoperative CCT, IOP, and age, only HC Time was significantly shorter in LASIK than SMILE, suggesting that a LASIK- treated corneas reached their highest concavity at an earlier stage. However, the shorter HC time was not seen in an additional group of FLEX-treated patients, a refractive technique also requiring the creation of a corneal flap (Femtosecond Lenticule Extraction). Furthermore, none of the remaining Corvis ST parameters supported the hypothesis of a more compliant cornea after LASIK compared with SMILE [ 26 ]. 
+ 3.1. 
+ Ex vivo Corneal Biomechanical Assessment 
+ Only limited peer-reviewed ex vivo studies have assessed and compared the biomechanical weakening after cap and flap creation. A study by Cartwright et al. [ 15 ] examined the corneal compliance after femtosecond lamellar and side cut in human donor corneas mounted on artificial anterior chambers. With radial shearing speckle pattern interferometry, the authors calculated the corneal apical displacement during increased chamber pressure (inflation test). They found a higher corneal compliance after side cut incision than after in-plane delamination, due to more severe damaging of the collagen fibres. Thus, the average percentage increase in apical displacement during inflation was 5% for delamination in 160μm depth and 33% after 90° side cut in 160μm depth. Although these results suggest more severe weakening after flap creation than after pocket creation, the authors did not examine the effect of a minor incision created using SMILE. 
+ Traditional strip extensiometry was also used to examine the biomechanical properties after LASIK and SMILE presented by Kanellopoulos et al. (ePoster PA049, AAO, 13 th November 2015, Las Vegas). The biomechanical tensile strength was examined in four laser refractive groups treated with LASIK and SMILE for -3D and -8D, respectively. Using biaxial in-plane tensile tests on laser-treated corneas, the authors found a similar reduction in tensile strength in LASIK and SMILE for higher myopic corrections (-8D), but less tensile strength reduction in LASIK than SMILE for the low myopic group (-3D). One possible explanation may be the surgical approach, as SMILE requires removal of more tissue than ablated in LASIK to reach equivalent correction. However, these results should be interpreted with caution as the orientation of the collagen fibrils and the pressure induction in strip extensiometry are not similar to the intact eye. Furthermore, another and similar ex vivo strip extensiometry study of porcine eyes treated with SMILE and FLEX suggests that SMILE may be superior in terms of biomechanical stability after surgery [ 52 ]. 4. FINITE-ELEMENT 3D MODELS OF STRESS DISTRIBUTION 
+ Corneal biomechanical alterations after LASIK and SMILE have previously been compared in a computer modelling study using a finite-element anisotopic collagen fibre-dependent model [ 10 ]. By tomographic measurements from a normal, a LASIK-treated, and a SMILE-treated cornea, the authors managed to compare the stress distribution after SMILE and LASIK with a geometric analogue model using an untreated control cornea. The stress distribution in the SMILE simulation was comparable to the analogue model with a maximal stress in the superficial layer of the cornea. For the LASIK simulation, the stress was greater in the residual stromal bed after LASIK compared with the corresponding geometry analogue. A simulated thicker flap in LASIK caused greater increase in the corneal stress values than removal of a SMILE lenticule in the deeper layer. Thus, the study suggests that the stromal residual bed after LASIK is exposed to increased stress due to the flap creation, while SMILE preserves the biomechanical strength almost similar to what is seen in an untreated cornea [ 10 ]. 5. MATHEMATICAL MODEL OF TENSILE STRENGTH DISTRIBUTION 
+ Cohesive strength [ 14 ], tangential tensile strength [ 53 ], and shear strength [ 54 ] have been shown to decrease through the cornea with the anterior 40% being the strongest part. Consequently, Reinstein et al. [ 11 ] developed a mathematical model of the non-linear tensile strength distribution in the cornea to evaluate the biomechanical weakening after LASIK and SMILE. Data was retrieved from a previous in vitro strip extensiometry study on evaluation of the corneal stromal tensile strength as a function of depth [ 14 ]. The model predicted that the postoperative total stromal strength was better preserved after SMILE than after LASIK due to the creation of a corneal cap rather than a flap. Hence, if 100-μm tissue removal was performed in a 550-μm thick cornea, the postoperative relative total tensile strength would be 75% after SMILE (130-μm cap) and 54% after LASIK (110-μm flap). Furthermore, the model predicted that an extracted SMILE lenticule approximately 100 μm thicker than the ablation depth in LASIK would provide the same postoperative reduction in the total tensile strength (130-μm cap and 110-μm flap). Depending on the ablation and lenticule profile, this would correspond to a possibility for 7.75D more myopic correction in SMILE than LASIK with equivalent weakening of the postoperative total strength. It may be questioned, if it is actually possible to correct higher degrees of myopia with SMILE than LASIK, using a residual bed thickness below the generally recommended 250 μm limit [ 11 ]. CONCLUSION 
+ Corneal biomechanical properties are of major importance in laser refractive surgery and must be taken into consideration to reduce the risk for iatrogenic ectasia. Some in vivo corneal biomechanical alterations are possible to quantify with ORA and Corvist ST but are difficult to interpret and use in clinical practice due to their dependence of IOP, CCT, refractive status, and age. Development and refinement are needed if ORA and Corvis ST should be implemented in a screening procedure of the biomechanical strength before refractive surgery. Mathematical analysis and finite-element models suggest that SMILE may preserve corneal biomechanical properties better than LASIK. Furthermore, the current in vivo studies performed with ORA and Corvis ST indicate that SMILE is equal or superior to LASIK in terms of preservation of the postoperative biomechanical strength. However, future paired-eyed studies comparing LASIK and SMILE are needed to support this conclusion and to eliminate the in-between group variability in corneal biomechanical properties. As iatrogenic ectasia has been reported in very few patients, it is recommended to follow the same contraindications as used in LASIK, especially when planning SMILE in borderline or corneas at risk. ACKNOWLEDGEMENTS 
+ Declared none. CONSENT FOR PUBLICATION 
+ Not applicable. CONFLICT OF INTEREST 
+ The authors declare no conflict of interest, financial or otherwise. REFERENCES 
+ 
+ 
+ 1. Solomon K.D., Fernández de Castro L.E., Sandoval H.P., Biber J.M., Groat B., Neff K.D., Ying M.S., French J.W., Donnenfeld E.D., Lindstrom R.L., Joint LASIK Study Task Force LASIK world literature review: Quality of life and patient satisfaction. Ophthalmology. 2009;116(4):691–701. doi: 10.1016/j.ophtha.2008.12.037. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Sekundo W., Kunert K.S., Blum M. Small incision corneal refractive surgery using the Small Incision Lenticule Extraction (SMILE) procedure for the correction of myopia and myopic astigmatism: Results of a 6 month prospective study. Br. J. Ophthalmol. 2011;95(3):335–339. doi: 10.1136/bjo.2009.174284. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Shah R., Shah S., Sengupta S. Results of small incision lenticule extraction: All-in-one femtosecond laser refractive surgery. J. Cataract Refract. Surg. 2011;37(1):127–137. doi: 10.1016/j.jcrs.2010.07.033. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Ivarsen A., Asp S., Hjortdal J. Safety and complications of more than 1500 small-incision lenticule extraction procedures. Ophthalmology. 2014;121(4):822–828. doi: 10.1016/j.ophtha.2013.11.006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Ganesh S., Gupta R. Comparison of visual and refractive outcomes following femtosecond laser- assisted lasik with smile in patients with myopia or myopic astigmatism. J. Refract. Surg. 2014;30(9):590–596. doi: 10.3928/1081597X-20140814-02. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Lin F., Xu Y., Yang Y. Comparison of the visual results after SMILE and femtosecond laser-assisted LASIK for myopia. J. Refract. Surg. 2014;30(4):248–254. doi: 10.3928/1081597X-20140320-03. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Liu M., Chen Y., Wang D., Zhou Y., Zhang X., He J., Zhang T., Sun Y., Liu Q. Clinical outcomes after SMILE and femtosecond laser-assisted LASIK for myopia and myopic astigmatism: A prospective randomized comparative study. Cornea. 2016;35(2):210–216. doi: 10.1097/ICO.0000000000000707. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Vestergaard A., Ivarsen A.R., Asp S., Hjortdal J.Ø. Small-incision lenticule extraction for moderate to high myopia: Predictability, safety, and patient satisfaction. J. Cataract Refract. Surg. 2012;38(11):2003–2010. doi: 10.1016/j.jcrs.2012.07.021. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Pedersen I.B., Ivarsen A., Hjortdal J. Three-year results of small incision lenticule extraction for high myopia: Refractive outcomes and aberrations. J. Refract. Surg. 2015;31(11):719–724. doi: 10.3928/1081597X-20150923-11. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Sinha Roy A., Dupps W.J., Jr, Roberts C.J. Comparison of biomechanical effects of small-incision lenticule extraction and laser in situ keratomileusis: Finite-element analysis. J. Cataract Refract. Surg. 2014;40(6):971–980. doi: 10.1016/j.jcrs.2013.08.065. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Reinstein D.Z., Archer T.J., Randleman J.B. Mathematical model to compare the relative tensile strength of the cornea after PRK, LASIK, and small incision lenticule extraction. J. Refract. Surg. 2013;29(7):454–460. doi: 10.3928/1081597X-20130617-03. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Aghamohammadzadeh H., Newton R.H., Meek K.M. X-ray scattering used to map the preferred collagen orientation in the human cornea and limbus. Structure. 2004;12(2):249–256. doi: 10.1016/j.str.2004.01.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Bergmanson J.P., Horne J., Doughty M.J., Garcia M., Gondo M. Assessment of the number of lamellae in the central region of the normal human corneal stroma at the resolution of the transmission electron microscope. Eye Contact Lens. 2005;31(6):281–287. doi: 10.1097/01.ICL.0000165280.94927.0D. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Randleman J.B., Dawson D.G., Grossniklaus H.E., McCarey B.E., Edelhauser H.F. Depth-dependent cohesive tensile strength in human donor corneas: implications for refractive surgery. J. Refract. Surg. 2008;24(1):S85–S89. doi: 10.3928/1081597X-20080101-15. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Knox Cartwright N.E., Tyrer J.R., Jaycock P.D., Marshall J. Effects of variation in depth and side cut angulations in LASIK and thin-flap LASIK using a femtosecond laser: a biomechanical study. J. Refract. Surg. 2012;28(6):419–425. doi: 10.3928/1081597X-20120518-07. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Randleman J.B., Russell B., Ward M.A., Thompson K.P., Stulting R.D. Risk factors and prognosis for corneal ectasia after LASIK. Ophthalmology. 2003;110(2):267–275. doi: 10.1016/S0161-6420(02)01727-X. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Moshirfar M., Smedley J.G., Muthappan V., Jarsted A., Ostler E.M. Rate of ectasia and incidence of irregular topography in patients with unidentified preoperative risk factors undergoing femtosecond laser-assisted LASIK. Clin. Ophthalmol. 2014;8:35–42. doi: 10.2147/OPTH.S53370. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. El-Naggar M.T. Bilateral ectasia after femtosecond laser-assisted small-incision lenticule extraction. J. Cataract Refract. Surg. 2015;41(4):884–888. doi: 10.1016/j.jcrs.2015.02.008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Mattila J.S., Holopainen J.M. Bilateral ectasia after femtosecond laser-assisted Small Incision Lenticule Extraction (SMILE). J. Refract. Surg. 2016;32(7):497–500. doi: 10.3928/1081597X-20160502-03. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Sachdev G., Sachdev M.S., Sachdev R., Gupta H. Unilateral corneal ectasia following small-incision lenticule extraction. J. Cataract Refract. Surg. 2015;41(9):2014–2018. doi: 10.1016/j.jcrs.2015.08.006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Wang Y., Cui C., Li Z., Tao X., Zhang C., Zhang X., Mu G. Corneal ectasia 6.5 months after small-incision lenticule extraction. J. Cataract Refract. Surg. 2015;41(5):1100–1106. doi: 10.1016/j.jcrs.2015.04.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Scarcelli G., Kling S., Quijano E., Pineda R., Marcos S., Yun S.H. Brillouin microscopy of collagen crosslinking: Noncontact depth-dependent analysis of corneal elastic modulus. Invest. Ophthalmol. Vis. Sci. 2013;54(2):1418–1425. doi: 10.1167/iovs.12-11387. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Ford M.R., Dupps W.J., Jr, Rollins A.M., Sinha R.A., Hu Z. Method for optical coherence elastography of the cornea. J. Biomed. Opt. 2011;16(1):016005. doi: 10.1117/1.3526701. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Touboul D., Gennisson J.L., Nguyen T.M., Robinet A., Roberts C.J., Tanter M., Grenier N. Supersonic shear wave elastography for the in vivo evaluation of transepithelial corneal collagen cross-linking. Invest. Ophthalmol. Vis. Sci. 2014;55(3):1976–1984. doi: 10.1167/iovs.13-13445. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Luce D.A. Determining in vivo biomechanical properties of the cornea with an ocular response analyzer. J. Cataract Refract. Surg. 2005;31(1):156–162. doi: 10.1016/j.jcrs.2004.10.044. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Pedersen I.B., Bak-Nielsen S., Vestergaard A.H., Ivarsen A., Hjortdal J. Corneal biomechanical properties after LASIK, ReLEx flex, and ReLEx smile by Scheimpflug-based dynamic tonometry. Graefes Arch. Clin. Exp. Ophthalmol. 2014;252(8):1329–1335. doi: 10.1007/s00417-014-2667-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Glass D.H., Roberts C.J., Litsky A.S., Weber P.A. A viscoelastic biomechanical model of the cornea describing the effect of viscosity and elasticity on hysteresis. Invest. Ophthalmol. Vis. Sci. 2008;49(9):3919–3926. doi: 10.1167/iovs.07-1321. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Shah S., Laiquzzaman M., Cunliffe I., Mantry S. The use of the Reichert ocular response analyser to establish the relationship between ocular hysteresis, corneal resistance factor and central corneal thickness in normal eyes. Cont. Lens Anterior Eye. 2006;29(5):257–262. doi: 10.1016/j.clae.2006.09.006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Abitbol O., Bouden J., Doan S., Hoang-Xuan T., Gatinel D. Corneal hysteresis measured with the Ocular Response Analyzer in normal and glaucomatous eyes. Acta Ophthalmol. 2010;88(1):116–119. doi: 10.1111/j.1755-3768.2009.01554.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Kamiya K., Hagishima M., Fujimura F., Shimizu K. Factors affecting corneal hysteresis in normal eyes. Graefes Arch. Clin. Exp. Ophthalmol. 2008;246(10):1491–1494. doi: 10.1007/s00417-008-0864-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Alhamad T.A., Meek K.M. Comparison of factors that influence the measurement of corneal hysteresis in vivo and in vitro. Acta Ophthalmol. 2011;89(5):e443–e450. doi: 10.1111/j.1755-3768.2011.02150.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Oncel B., Dinc U., Orge F., Yalvac B. Comparison of IOP measurement by ocular response analyzer, dynamic contour, Goldmann applanation, and noncontact tonometry. Eur. J. Ophthalmol. 2009;19(6):936–941. doi: 10.1177/112067210901900607. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Foster P.J., Broadway D.C., Garway-Heath D.F., Yip J.L., Luben R., Hayat S., Dalzell N., Wareham N.J., Khaw K.T. Intraocular pressure and corneal biomechanics in an adult British population: The EPIC-Norfolk eye study. Invest. Ophthalmol. Vis. Sci. 2011;52(11):8179–8185. doi: 10.1167/iovs.11-7853. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Hager A., Wegscheider K., Wiegand W. Changes of extracellular matrix of the cornea in diabetes mellitus. Graefes Arch. Clin. Exp. Ophthalmol. 2009;247(10):1369–1374. doi: 10.1007/s00417-009-1088-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Kotecha A., Elsheikh A., Roberts C.R., Zhu H., Garway-Heath D.F. Corneal thickness- and age-related biomechanical properties of the cornea measured with the ocular response analyzer. Invest. Ophthalmol. Vis. Sci. 2006;47(12):5337–5347. doi: 10.1167/iovs.06-0557. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Xia L., Zhang J., Wu J., Yu K. Comparison of corneal biological healing after femtosecond LASIK and small incision lenticule extraction procedure. Curr. Eye Res. 2016;41(9):1202–1208. doi: 10.3109/02713683.2015.1107590. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Li H., Wang Y., Dou R., Wei P., Zhang J., Zhao W., Li L. Intraocular pressure changes and relationship with corneal biomechanics after SMILE and FS-LASIK. Invest. Ophthalmol. Vis. Sci. 2016;57(10):4180–4186. doi: 10.1167/iovs.16-19615. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Osman I.M., Helaly H.A., Abdalla M., Shousha M.A. Corneal biomechanical changes in eyes with small incision lenticule extraction and laser assisted in situ keratomileusis. BMC Ophthalmol. 2016;16:123. doi: 10.1186/s12886-016-0304-3. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Zhang J., Zheng L., Zhao X., Xu Y., Chen S. Corneal biomechanics after small-incision lenticule extraction versus Q-value-guided femtosecond laser-assisted in situ keratomileusis. J. Curr. Ophthalmol. 2016;28(4):181–187. doi: 10.1016/j.joco.2016.08.004. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Wang B., Zhang Z., Naidu R.K., Chu R., Dai J., Qu X., Yu Z., Zhou H. Comparison of the change in posterior corneal elevation and corneal biomechanical parameters after small incision lenticule extraction and femtosecond laser-assisted LASIK for high myopia correction. Cont. Lens Anterior Eye. 2016;39(3):191–196. doi: 10.1016/j.clae.2016.01.007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Wu W., Wang Y. The Correlation analysis between corneal biomechanical properties and the surgically induced corneal high-order aberrations after small incision lenticule extraction and femtosecond laser in situ keratomileusis. J. Ophthalmol. 2015;2015:758196. doi: 10.1155/2015/758196. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Wang D., Liu M., Chen Y., Zhang X., Xu Y., Wang J., To C.H., Liu Q. Differences in the corneal biomechanical changes after SMILE and LASIK. J. Refract. Surg. 2014;30(10):702–707. doi: 10.3928/1081597X-20140903-09. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Wu D., Wang Y., Zhang L., Wei S., Tang X. Corneal biomechanical effects: Small-incision lenticule extraction versus femtosecond laser-assisted laser in situ keratomileusis. J. Cataract Refract. Surg. 2014;40(6):954–962. doi: 10.1016/j.jcrs.2013.07.056. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Agca A., Ozgurhan E.B., Demirok A., Bozkurt E., Celik U., Ozkaya A., Cankaya I., Yilmaz O.F., Yilmaz O.F. Comparison of corneal hysteresis and corneal resistance factor after small incision lenticule extraction and femtosecond laser-assisted LASIK: A prospective fellow eye study. Cont. Lens Anterior Eye. 2014;37(2):77–80. doi: 10.1016/j.clae.2013.05.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Kerautret J., Colin J., Touboul D., Roberts C. Biomechanical characteristics of the ectatic cornea. J. Cataract Refract. Surg. 2008;34(3):510–513. doi: 10.1016/j.jcrs.2007.11.018. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Yang E., Roberts C.J., Mehta J.S. A review of corneal biomechanics after LASIK and SMILE and the current methods of corneal biomechanical analysis. J. Clin. Exp. Ophthalmol. 2015:6. [ Google Scholar ] 
+ 
+ 47. Shen Y., Chen Z., Knorz M.C., Li M., Zhao J., Zhou X. Comparison of corneal deformation parameters after SMILE, LASEK, and femtosecond laser-assisted LASIK. J. Refract. Surg. 2014;30(5):310–318. doi: 10.3928/1081597X-20140422-01. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Sefat S.M., Wiltfang R., Bechmann M., Mayer W.J., Kampik A., Kook D. Evaluation of changes in human corneas after femtosecond laser-assisted LASIK and Small-Incision Lenticule Extraction (SMILE) using non-contact tonometry and ultra-high-speed camera (corvis ST). Curr. Eye Res. 2015;3683:1–6. doi: 10.3109/02713683.2015.1082185. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Bak-Nielsen S., Pedersen I.B., Ivarsen A., Hjortdal J. Repeatability, reproducibility, and age dependency of dynamic Scheimpflug-based pneumotonometer and its correlation with a dynamic bidirectional pneumotonometry device. Cornea. 2015;34(1):71–77. doi: 10.1097/ICO.0000000000000293. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Lopes B.T., Roberts C.J., Elsheikh A., Vinciguerra R., Vinciguerra P., Reisdorf S., Berger S., Koprowski R., Ambrósio R. Repeatability and reproducibility of intraocular pressure and dynamic corneal response parameters assessed by the corvis ST, J. Ophthalmol. (2017) Epub 2017 Jun 6. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 51. Nemeth G., Hassan Z., Csutak A., Szalai E., Berta A., Modis L., Jr Repeatability of ocular biomechanical data measurements with a Scheimpflug-based noncontact device on normal corneas. J. Refract. Surg. 2013;29(8):558–563. doi: 10.3928/1081597X-20130719-06. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Spiru B., Kling S., Hafezi F., Sekundo W. Biomechanical differences between femtosecond Lenticule Extraction (FLEx) and Small Incision Lenticule Extraction (SmILE) tested by 2D-extensometry in ex vivo Porcine eyes. Invest. Ophthalmol. Vis. Sci. 2017;58(5):2591–2595. doi: 10.1167/iovs.16-20211. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Scarcelli G., Pineda R., Yun S.H. Brillouin optical microscopy for corneal biomechanics. Invest. Ophthalmol. Vis. Sci. 2012;53(1):185–190. doi: 10.1167/iovs.11-8281. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Petsche S.J., Chernyak D., Martiz J., Levenston M.E., Pinsky P.M. Depth-dependent transverse shear properties of the human corneal stroma. Invest. Ophthalmol. Vis. Sci. 2012;53(2):873–880. doi: 10.1167/iovs.11-8611. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

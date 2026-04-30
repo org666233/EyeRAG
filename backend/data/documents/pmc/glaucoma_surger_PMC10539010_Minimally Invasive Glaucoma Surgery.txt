@@ -1,0 +1,1022 @@
+Source: PubMed Central (PMC)
+PMCID: PMC10539010
+Title: Minimally Invasive Glaucoma Surgery
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10539010/
+Year: 2024
+Disease: glaucoma_surgery
+Priority: 2
+============================================================
+
+Int Ophthalmol Clin . Author manuscript; available in PMC: 2024 Oct 1. 
+ 
+ Published in final edited form as: Int Ophthalmol Clin. 2023 Sep 27;63(4):33–60. doi: 10.1097/IIO.0000000000000479 
+ 
+ 
+ Minimally Invasive Glaucoma Surgery 
+ Gabriele Gallo Afflitto 
+ 
+ Gabriele Gallo Afflitto , MD 
+ 
+ 
+ 1 Department of Ophthalmology, Bascom Palmer Eye Institute, University of Miami Miller School of Medicine, Miami FL 
+ 
+ 2 Ophthalmology Unit, Dpt. of Experimental Medicine, Università di Roma “Tor Vergata 
+ Find articles by Gabriele Gallo Afflitto 
+ 
+ 
+ 1, 2 , Swarup S Swaminathan 
+ 
+ Swarup S Swaminathan , MD 
+ 
+ 
+ 1 Department of Ophthalmology, Bascom Palmer Eye Institute, University of Miami Miller School of Medicine, Miami FL 
+ Find articles by Swarup S Swaminathan 
+ 
+ 
+ 1 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, Bascom Palmer Eye Institute, University of Miami Miller School of Medicine, Miami FL 
+ 
+ 2 Ophthalmology Unit, Dpt. of Experimental Medicine, Università di Roma “Tor Vergata 
+ 
+ ✉ Corresponding author : Swarup S. Swaminathan, MD; Bascom Palmer Eye Institute, 900 NW 17 th Street, Miami, FL 33136; sswaminathan@miami.edu 
+ 
+ 
+ Issue date 2023 Oct 1. 
+ PMC Copyright notice 
+ 
+ PMCID: PMC10539010  NIHMSID: NIHMS1914320  PMID: 37755443 
+ 
+ The publisher's version of this article is available at Int Ophthalmol Clin 
+ 
+ Abstract 
+ Glaucoma, a leading cause of irreversible vision loss worldwide, is managed by reducing intraocular pressure (IOP) using medications, lasers, or surgical procedures. While traditional glaucoma surgeries are highly efficacious, potential complications have led to the search for safer yet effective alternatives. Over the past decade, minimally invasive or micro-invasive glaucoma surgery (MIGS) has emerged as a revolutionary strategy to not only reduce IOP, but also medication burden while minimizing surgical risks. This article provides a comprehensive review of both approved and investigational MIGS procedures, focusing on their key features and clinical outcomes. The American Glaucoma Society Classification of MIGS is used as a framework for analysis. MIGS as both a standalone procedure and in combination with cataract extraction are reviewed. Only a subset of MIGS procedures have undergone rigorous evaluation in randomized clinical trials, and prospective data directly comparing different MIGS techniques are limited. High-quality studies will be essential to guide clinicians in determining the optimal approach to incorporating MIGS into their surgical paradigm. MIGS is a dynamic, evolving field that will continue to provide a plethora of surgical options with the goals of safety, efficacy, and rapid visual recovery for glaucoma patients. 1. Introduction 
+ Reduction of intraocular pressure (IOP) is the sole evidence-based treatment strategy in preventing the progression of glaucomatous disease. 1 – 5 Traditional glaucoma filtration surgery to reduce IOP includes trabeculectomy and tube shunt surgery. While trabeculectomy is widely regarded as the most effective method for achieving low IOP, 6 , 7 tube shunt surgery has been shown by recent randomized clinical trials to be as effective in eyes with or without previous intraocular surgery. 7 – 9 However, the risk of sight-threatening complications, potential decrease in quality of life, and prolonged recovery periods associated with traditional filtering surgery has prompted the search for safer and effective surgical techniques. 8 , 10 
+ Minimally invasive or micro-invasive glaucoma surgery (MIGS) represents a paradigm shift in surgical glaucoma management. While one of its primary goals is IOP reduction, a major focus is also a reduction in glaucoma medications. These features are in addition to minimizing surgical risks and complications typically associated with traditional glaucoma filtration surgeries. 11 MIGS procedures tend to focus on enhancing the conventional outflow pathway instead of bypassing this system. Saheb and Ahmed proposed five essential properties that should characterize MIGS treatments: an ab interno approach via a clear corneal incision to preserve the conjunctiva, utilization of procedures that minimize damage to the target tissue, an effective reduction in IOP that validates the approach, a superior safety profile compared to other glaucoma surgeries, and a swift recovery with minimal disruption to the patient’s quality of life. 12 In 2018, the American Glaucoma Society (AGS) defined MIGS as procedures “designed to lower IOP by improving aqueous outflow with minimal disruption to the sclera or conjunctiva with or without an implanted device, or by reducing aqueous production selectively.” 13 
+ The current definition of MIGS encompasses four anatomical categories. 12 , 13 The first involves improving trabecular outflow by targeting trabecular meshwork (TM) and Schlemm’s canal (SC). The second category focuses on enhancing uveoscleral outflow through a connection between the anterior chamber and the suprachoroidal space. The third category involves creating an alternative outflow pathway for aqueous humor to enter the subconjunctival space. Finally, a cilioablative category may be considered, which includes procedures that reduce aqueous inflow by selectively ablating the ciliary body (i.e., cyclophotocoagulation). 14 – 16 In addition to these anatomical categories, MIGS can also be characterized based on the surgical approach, (i.e., ab interno vs. ab externo ) and their association with the formation of a subconjunctival bleb (i.e., bleb forming vs. non-bleb forming). 12 , 13 , 17 
+ The efficacy of MIGS procedures in different stages and types of glaucoma, long-term outcomes, and comparative efficacy to traditional glaucoma surgeries and medical therapies are ongoing areas of investigation. 3 , 14 Clinical studies and real-world data are being collected to evaluate patient selection criteria, timing of MIGS procedures, and combined approaches with other treatment modalities. In this review, we present a comprehensive overview of both currently approved MIGS procedures as well as investigational devices, focusing on their key features and clinical outcomes ( Table 1 ). We compare the advantages and potential limitations associated with each approach. To ensure a structured and comprehensive analysis, we have adhered to the AGS classification of MIGS devices. 13 
+ Table 1. 
+ Currently available Minimally Invasive Glaucoma Surgery (MIGS) devices and approaches. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Name 
+ Manufacturer 
+ MIGS Type 
+ IOP reduction (%) * 
+ 
+ Reduction in No. of Medications * 
+ 
+ Study Data Available * 
+ 
+ AAO Recommendation 
+ Cochrane recommendation 
+ 
+ 
+ 
+ 
+ iStent (1 st generation) 
+ 
+ 
+ Glaukos, Laguna Hills, CA 
+ Non-Bleb Forming, Trabecular Meshwork Canal Implant 
+ 8.2 – 27.3 ** 
+ 
+ 0.35 – 2.2 ** 
+ 
+ Prospective and Retrospective 
+ No Recommendation 
+ Very Low ° 
+ 
+ 
+ 
+ 
+ iStent inject 
+ 
+ Glaukos, Laguna Hills, CA 
+ Non-Bleb Forming, Trabecular Meshwork Canal Implant 
+ 15.8 – 48.4 
+ 1.2 – 2.4 
+ Prospective and Retrospective 
+ I-, Insufficient Quality, Strong Recommendation 
+ Very Low ° 
+ 
+ 
+ 
+ 
+ iStent infinite 
+ 
+ † 
+ 
+ 
+ Glaukos, Laguna Hills, CA 
+ Non-Bleb Forming, Trabecular Meshwork Canal Implant 
+ 20.5 – 30.3 
+ 2.21 – 3.99 
+ Prospective 
+ Not Evaluated 
+ Not Evaluated 
+ 
+ 
+ 
+ Hydrus 
+ 
+ Alcon, Fort Worth, TX 
+ Non-Bleb Forming, Trabecular Meshwork Canal Implant 
+ 8.9 – 30.7 
+ 1.0 – 2.8 
+ Prospective and Retrospective 
+ I, Moderate Quality, Strong Recommendation 
+ Moderate ° 
+ 
+ 
+ 
+ 
+ Trabectome 
+ 
+ MicroSurgical Technology, Redmond, WA 
+ Non-Bleb Forming, Trabecular Meshwork Canal Cleaving Approaches 
+ 18–42 
+ 0 – 1.2 
+ Prospective and Retrospective 
+ No Recommendation 
+ Very Low † 
+ 
+ 
+ 
+ 
+ Kahook Dual Blade 
+ 
+ New World Medical, Rancho Cucamonga, CA 
+ Non-Bleb Forming, Trabecular Meshwork Canal Cleaving Approaches 
+ 6.2 – 48.8 
+ 0.5 – 2.2 
+ Prospective and Retrospective 
+ No Recommendation 
+ Not Evaluated 
+ 
+ 
+ 
+ Gonioscopy-assisted transluminal trabeculotomy 
+ 
+ NA 
+ Non-Bleb Forming, Trabecular Meshwork Canal Cleaving Approaches 
+ 36.2 – 68.2 
+ 1.1 – 3.5 
+ Retrospective 
+ No Recommendation 
+ Not Evaluated 
+ 
+ 
+ 
+ OMNI 
+ 
+ Sight Sciences, Menlo Park, CA 
+ Non-Bleb Forming, Trabecular Meshwork Canal Dilating & Cleaving Approaches 
+ 19.2 – 44.7 
+ 0.0 – 2.5 
+ Prospective and Retrospective 
+ No Recommendation 
+ Not Evaluated 
+ 
+ 
+ 
+ ABiC with iTrack 
+ 
+ Nova Eye Medical, Kent Town, Australia 
+ Non-Bleb Forming, Trabecular Meshwork Canal Dilating Approaches 
+ 32.5 – 39.2 
+ 0.9 −2.6 
+ Prospective and Retrospective 
+ No Recommendation 
+ Not Evaluated 
+ 
+ 
+ 
+ ECP 
+ 
+ Endo Optiks, Little Silver, NJ 
+ Non-Bleb Forming, Inflow Reducing Approaches 
+ 34 – 57 
+ 0.0 – 1.5 
+ Retrospective 
+ I-, Insufficient Quality, Discretionary Recommendation 
+ Evaluated, no recommendation 
+ 
+ 
+ 
+ Xen Gel Stent 
+ 
+ AbbVie Inc., North Chicago, Illinois 
+ Bleb-Forming, Ab Interno Implants 
+ 22.9 – 57.9 
+ 0.9 – 3.5 
+ Prospective and Retrospective 
+ I-, Insufficient Quality, Discretionary Recommendation 
+ Evaluated, no recommendation 
+ 
+ 
+ 
+ Open in a new tab 
+ 
+ 
+ * Either standalone or with concurrent phacoemulsification. 
+ 
+ 
+ ** Depending on the number of implanted stents. 
+ 
+ 
+ ° Only RCTs analyzed. 
+ 
+ 
+ † One RCT only. 
+ 
+ AAO: American Academy of Ophthalmology; ABiC: Ab Interno Canaloplasty; ECP: Endoscopic cyclophotocoagulation; IOP: Intraocular Pressure 
+ 2. Non-Bleb Forming, Trabecular Meshwork Canal Implants 
+ 2.1. iStent (First Generation) 
+ The first-generation iStent (Glaukos, Laguna Hills, CA) was approved by the Food and Drug Administration (FDA) in 2012 for use in patients with mild to moderate open-angle glaucoma (OAG) or ocular hypertension as well as cataract. 18 It consists of an L-shaped heparin-coated titanium implant, with a snorkel-shaped inlet positioned in the anterior chamber. It is the smallest implant approved for human use, measuring 1.0 mm in length, 0.33 mm in height, and a diameter of 120 μm. 18 , 19 Implantation typically follows cataract surgery, and involves an ab interno approach through a temporal clear corneal incision. The stent is positioned through the TM and into SC using a preloaded inserter, creating a pathway for aqueous humor to flow into the conventional outflow pathway. 20 , 21 Advances to the injector technology allowed multiple first generation iStents to be inserted, spaced approximately 1 to 3 clock hours apart to enhance treatment effect. 22 , 23 
+ The iStent offers the advantage of being highly compatible with cataract surgery in individuals with mild to moderate glaucoma, resulting in a modest reduction in IOP and a decrease in glaucoma medications. 22 , 24 – 26 This procedure has been appealing to comprehensive cataract surgeons caring for glaucoma patients, given its relative ease. The implant offers a safe and effective treatment option for patients with early disease. 22 However, a large decrease in IOP cannot be expected. In a systematic review and meta-analysis comparing the IOP lowering effect of iStent insertion at the time of phacoemulsification (phaco/iStent) versus phacoemulsification alone for patients with glaucoma and cataract, Malvankar-Mehta et al reported a significant decrease in IOP and topical glaucoma medications in both arms. 26 However, phaco/iStent significantly outperformed phacoemulsification alone with a mean difference in postoperative IOP of only −0.46mmHg (95%CI: −0.87, −0.06 mmHg). 26 
+ IOP reduction has been shown to increase with the insertion of multiple iStent implants. In a randomized trial that assessed the efficacy of multiple iStent implants, it was noted that 91% of patients who were using an average of 1.53 medications preoperatively experienced a medication-free reduction in IOP >20% at 42 months after receiving three iStent implants. 27 Significant differences in terms of efficacy were found between the one- and three-stent groups, with a comparable safety profile between groups. 
+ As noted, the iStent implant has an excellent safety profile with minimal side effects. Typical complications associated with this implant include malposition and obstruction caused by iris, blood, or vitreous humor, which can occur in 3–20% of cases. 28 – 30 The risks of allergy, hypersensitivity, and toxicity are minimal, as the implant is made of surgical grade titanium. However, a recent study reported the presence of metallic intraocular particles on the nasal iris, possibly originating from the injector or the implant itself. 31 2.2. iStent Inject 
+ The iStent inject (second-generation iStent) was approved by the FDA in June 2018. It consists of two heparin-coated titanium stents, each measuring 230 microns in size and with a central lumen of 80 microns. These stents are placed ab interno during cataract surgery in two different regions of the trabecular meshwork. 
+ Numerous studies have demonstrated the efficacy and safety of the iStent inject. Prospective studies have consistently shown a notable decrease in mean IOP ranging from 2.8 to 7.0 mmHg (17.8–31.0% reduction in IOP compared to baseline) over 1–2 years, with a significant proportion of patients (54.5–75.8%) achieving ≥20% IOP reduction after 2 years. 32 – 34 When compared to cataract surgery alone, the combination of phaco/iStent inject has demonstrated significantly greater IOP reductions, with an additional reduction of 1.6 mmHg, as well as a decrease in the use of glaucoma medications over a 2-year period. 32 
+ The iStent inject has shown greater efficacy compared to the first-generation iStent. 35 , 36 Shalaby et al found that compared to eyes undergoing phaco/iStent with the first-generation device, phaco/iStent inject eyes exhibited greater IOP reduction (14.9 ± 3.6 vs. 15.1 ± 3.5 mmHg, p = 0.003) and a higher proportion achieving postoperative IOP < 15 mmHg (70.7% vs. 49.2%, p = 0.003). 37 Similar results were observed by Guedes et al in a longitudinal retrospective study including 73 eyes (38 eyes phako/iStent first generation, 35 phaco/iStent inject). After 6 months, phaco/iStent inject eyes demonstrated a significantly greater IOP reduction (26.6% vs. 15.8%, p = 0.005), with a higher percentage of iStent inject eyes achieving IOP < 18 mmHg (100% vs. 86.8%). 36 
+ While the iStent inject is primarily intended for use with cataract surgery in the United States, its effectiveness as a standalone procedure has also been evaluated. A significant reduction in IOP ranging from 10.2 to 12.2 mmHg from a washed out baseline over a period of 1 to 3 years was noted with standalone insertion, with a substantial percentage of patients (72.0–94.7%) achieving ≥20% IOP reduction. 38 – 40 Comparisons with medical therapy have shown that the iStent inject group exhibited a higher proportion of patients reaching both ≥20% and ≥50% reduction in IOP compared to the medical therapy group (fixed combination of latanoprost/timolol). 38 Limitations of these studies include a small sample size, unmasked design, and short follow-up time. 
+ More recently, the safety and effectiveness of iStent infinite, the third generation iStent, have been evaluated in a 12-month multicenter randomized controlled trial. A total of 72 eyes with OAG uncontrolled by prior incisional or cilioablative surgeries or maximum tolerated medical therapy underwent implantation of iStent infinite as a standalone surgical procedure. The proportion of eyes achieving ≥20% mean diurnal intraocular pressure reduction from baseline at month 12 was 76.1%, with 53.0% of eyes achieving ≥30% reduction. The safety profile of the intervention was favorable, with no explants, infection, or device-related interventions or hypotony. 
+ The safety profile of the iStent inject is comparable to cataract surgery alone given its minimally invasive approach. 38 The most frequently reported adverse effects include stent obstruction, temporary increases in IOP, corneal edema, posterior capsular opacification, rebound iritis, inflammation, microhyphema, and a slight worsening in visual acuity. 38 – 40 It is important to note that hyphemas reported in these studies usually occupied less than 10% of the anterior chamber. In a small percentage of cases (1.6–5.1%), additional glaucoma surgery was necessary to effectively manage IOP. 38 – 40 2.3. Hydrus Microstent 
+ The Hydrus Microstent (Alcon, Fort Worth, TX) received FDA approval in August 2018. Constructed using nitinol (nickel-titanium alloy), this trabecular bypass device was approved for patients with mild to moderate primary open-angle glaucoma (POAG) undergoing cataract surgery. The device, which contains three windows over its 8mm length, is inserted into Schlemm’s canal in the nasal quadrant, spanning approximately 3 clock-hours. A 1mm portion of the microstent protrudes into the anterior chamber, encouraging aqueous flow into SC through the stent. 
+ The efficacy of the Hydrus implant was demonstrated in the pivotal HORIZON study. In this prospective trial, patients were randomized to receive phaco/Hydrus or cataract surgery alone. After 5 years, investigators noted a higher proportion of eyes with IOP < 18mmHg without medications in the phaco/Hydrus group versus cataract surgery alone (49.5% vs. 33.8%), as well as a decrease in the number of medications in the microstent group. 41 A total of 66% of phaco/Hydrus eyes were medication-free compared to 46% in the cataract surgery alone group. Of note, phaco/Hydrus eyes were less likely to require incisional glaucoma surgery within 5 years (2.4% vs. 6.2%), a key finding demonstrating efficacy. In a post hoc analysis, phaco/Hydrus eyes had lower rates of IOP spikes exceeding 40 mmHg (1.4% vs. 14.4%) and IOP increases of ≥10 mmHg (3.0% vs. 22.5%) compared to the cataract surgery alone group. 42 The average postoperative IOP was also lower in the phaco/Hydrus group. 42 Recently, Montesano et al demonstrated that when evaluating visual field (VF) data from the HORIZON trial, the phaco/Hydrus procedure exerts a protective effect in VF preservation compared to cataract surgery alone at 5 years, significantly reducing the proportion of fast progressors. 43 These key findings demonstrate not only IOP reduction with the use of this MIGS device, but also stabilization of perimetric loss due to glaucoma. Such work is a notable contribution to the literature on MIGS, as there is a growing interest in evaluating the impact of MIGS procedures on VF outcomes. The HORIZON trial is also unique among MIGS studies in its 5-year follow-up period. 
+ Insertion of the Hydrus microstent has been evaluated as a standalone procedure as well. Standalone implantation of the Hydrus microstent was more effective than implantation of the iStent inject in the COMPARE study, a prospective, multicenter, randomized clinical trial including enrolling phakic and pseudophakic eyes with a diagnosis of mild to moderate open-angle glaucoma (primary open-angle glaucoma (POAG), pseudoexfoliative glaucoma (PXG), or pigmentary glaucoma). 20 Patients were randomly assigned to receive either the Hydrus or the iStent inject. 20 After 12 months, the Hydrus group demonstrated a significantly greater decrease in mean IOP postoperatively ( –8.2 mmHg vs. –5.1 mmHg; p = 0.003). 20 A total of 46.6% of patients who received the standalone Hydrus implantation were able to discontinue medications after 12 months. 20 Moreover, 39.7% of patients achieved complete surgical success (IOP reduction of ≥20% without IOP-lowering medications). 20 
+ Complications that can arise from Hydrus implantation include subconjunctival hematoma, hyphema (0.5–1.4%), peripheral anterior synechiae (PAS) (up to 18.7%), and episodes of IOP spikes. 44 Persistent iritis requiring steroids for more than 3 months was reported in 0.5% of cases. 14 , 45 Of note, no significant differences were observed in the rate of endothelial cell loss (ECL) at 5 years between the phaco/Hydrus and cataract surgery alone groups (p = 0.261). 41 
+ Given the large body of literature regarding the Hydrus microstent, this device is the sole MIGS product that has received a “moderate quality, strong recommendation” categorization by the 2020 American Academy of Ophthalmology Preferred Practice Pattern committee on Primary Open Angle Glaucoma. 46 This recommendation was derived from a Cochrane systematic review, which provided “moderate-certainty” evidence that the Hydrus microstent, when combined with cataract surgery, is likely to increase the proportion of individuals who no longer need IOP lowering medication. 47 Additionally, it may lead to further reductions in IOP during short- and medium-term follow-up. 
+ It is worth noting that non-bleb forming trabecular meshwork canal implants (i.e., iStent devices and the Hydrus microstent) are technically only approved by the FDA for the treatment of OAG. Use in the management of other forms of glaucoma (e.g., primary angle closure glaucoma) would be considered off-label. In contrast, canal cleaving or canal dilating devices (discussed below) are not restricted to open-angle glaucomas. 3. Non-Bleb Forming, Trabecular Meshwork Canal Cleaving Approaches 
+ 3.1. Trabectome 
+ The Trabectome (MicroSurgical Technology, Redmond, WA) was one of the earliest MIGS devices approved by the FDA in 2004, consisting of an electrocautery system used to ablate parts of the trabecular meshwork, usually 90°−120°. The Trabectome system consists of three components: a mobile console with a high frequency generator and irrigation-aspiration unit, a handpiece that features an electrosurgical ablation tip, and a foot pedal to guide treatment. Application of a bipolar pulse along with simultaneous irrigation and aspiration enables the safe ablation and removal of TM and unroofing of SC. Unlike other TM canal cleaving devices, the Trabectome does not require viscoelastic material in the anterior chamber due its irrigation system. When combined with cataract surgery, it is typically completed prior to phacoemulsification. 
+ Several prospective studies have shown that the Trabectome, when used alone, reduces IOP by an average of 22%−42% from baseline, with ≥20% reduction observed in nearly half of OAG eyes up to 3 years. 48 , 49 Comparative studies have also demonstrated the effectiveness of Trabectome as a standalone procedure compared to phaco/Trabectome. In one prospective study, both Trabectome and phaco/Trabectome led to reductions in IOP and glaucoma medications over a 1-year period. However, only the Trabectome group showed statistically significant reductions in both IOP and medications (p < 0.01). A retrospective analysis of 1,340 eyes found that phaco/Trabectome was surprisingly associated with an attenuated IOP reduction of 1.29±0.39 mmHg over 12 months of follow-up. 50 Conversely, a different retrospective analysis indicated that both Trabectome and phaco/Trabectome groups feature a similar pattern of IOP and medication burden reduction from baseline over 1 year. 51 In another study with 5 years of follow-up, phaco/Trabectome resulted in a ≥20% reduction in IOP in 67.5% of the eyes. 52 Overall, Trabectome appears to perform similarly to phaco/Trabectome, and surprisingly, the latter may be less effective than a standalone procedure. No speculation regarding plausible reasons for these results was provided by the authors. 51 – 53 
+ Trabectome is effective in various subtypes and stages of glaucoma, with greater IOP reduction observed in PXG and steroid-induced glaucoma compared to POAG. 50 , 52 It has been found to be effective even in severe glaucoma and after failed trabeculectomy or tube shunt implantation. 14 , 50 , 53 , 54 In addition, compared to traditional trabeculectomy, Trabectome results in better visual recovery, with fewer instances of loss of more than two Snellen lines of vision (10% versus 1%, respectively). 55 
+ The most common complication of Trabectome is bleeding, manifesting as hyphema, microhyphema, or intraoperative blood reflux. Hyphema usually resolves within 1–10 days. 14 Some eyes may require subsequent glaucoma surgery, and IOP spikes exceeding 10 mmHg from baseline may occur on rare occasion. 56 
+ Ab-interno trabeculotomy using the Trabectome device has been also associated with iatrogenic cyclodialysis cleft due to device malposition. 57 3.2. Kahook Dual Blade 
+ The Kahook Dual Blade (KDB; New World Medical, Rancho Cucamonga, CA) is a modified goniotomy blade that was released in 2015 as a method to perform ab interno goniotomy/trabeculotomy. It was designed to conform to the drainage angle anatomy of the human eye. 58 The sharp tip enables entry through the trabecular meshwork, while the heel of the instrument fits into SC. By advancing the instrument, two parallel incisions are made in the trabecular meshwork, resulting in the removal of a strip of TM. A slightly updated version of the blade, referred to as KDB Glide, received FDA approval in 2020. 
+ The efficacy of KDB goniotomy as a standalone procedure has been extensively demonstrated in retrospective reviews. These studies have consistently shown significant reductions in IOP ranging from 4 to 11 mmHg, resulting in an IOP lowering efficacy of 14.5% to 36.0% compared to baseline values. The probability of surgical success has been described to be greatly influenced by the type of glaucoma being treated. 59 – 62 For eyes with OAG, 42–72% achieved ≥20% IOP reduction, while patients with angle-closure glaucoma (ACG) achieved 20% reduction almost 100% of the time. 62 – 64 However, when studying patients with uveitic glaucoma and elevated IOP, only 38% achieved ≥20% reduction. 61 
+ Although most retrospective studies focused on the KDB as a standalone procedure, it has also been shown to be similarly effective when combined with cataract surgery. When using 20% IOP reduction as a measure of surgical success, phaco/KDB had a 72% success rate, which was not statistically different from KDB alone. 62 Overall, phaco/KDB has shown absolute IOP reductions between 14.5% and 24% in retrospective studies focusing on open-angle glaucoma patients. 63 – 65 In terms of medication reduction, KDB as a standalone procedure may reduce medications by 0 to 1 drops, while phaco/KDB may reduce by 0.1 to 2.1 drops in glaucoma patients of various types and severities. 61 , 63 , 66 
+ Comparative studies have been conducted between the KDB and other procedures such as the first-generation iStent in open-angle glaucoma. In a retrospective study, Dorairaj et al. showed that the KDB goniotomy procedure combined with cataract surgery (phaco/KDB) resulted in an additional 1.5 mmHg reduction in IOP compared to phaco/iStent. 66 A smaller study by Lee et al. reported a similar IOP-lowering effect between the two procedures, although a greater reduction in medication burden was observed in the KDB group. 65 Common complications associated with the KDB procedure include hyphema (6–19%), surgical failure requiring further glaucoma surgery (4–25%), IOP spikes (1–18%), Descemet’s membrane tears (3.8%), and cystoid macular edema (2% to 6%). 59 – 65 , 67 Hyphemas tend to be more significant in patients on anticoagulant or antiplatelet therapy. 
+ After the release of the KDB, similar goniotomy devices or techniques have been developed by others. Sight Sciences (Menlo Park, CA) unveiled a new bladeless goniotomy tool called the SION Surgical Instrument in August 2022. This tool aims to excise TM without cutting or electrocautery techniques. Another alternative is the bent ab interno needle goniotomy (BANG) technique. 68 This procedure, introduced by Shute et al. in 2022, involves creating a specialized goniotome by bending the distal 1 mm of a sterile 25-gauge 5/8 inch hypodermic needle toward the bevel using a needle driver. 68 This needle is then used to excise the TM. 68 According to the authors, the BANG procedure is a cost-effective MIGS option that demonstrates initial outcomes comparable to more expensive alternatives. 68 A prospective study to analyze the safety and efficacy of the procedure is ongoing. 68 3.3. Gonioscopy-assisted transluminal trabeculotomy 
+ The gonioscopy-assisted transluminal trabeculotomy (GATT) technique, as described by Grover and colleagues, creates a full-360º incision through the TM by cannulating SC using a direct gonioscopic view. 69 The procedure begins with a nasal goniotomy, followed by the insertion of a prolene suture or an illuminated microcatheter into a small incision created in the TM. 69 – 71 The suture or microcatheter is then advanced circumferentially within SC for 360 degrees. Both ends of the suture or catheter are pulled simultaneously to create a complete trabeculotomy. 69 – 71 
+ GATT has shown effectiveness in treating various subtypes of glaucoma. In the context of POAG, a global success rate between 49% and 83.8% has been described. 69 – 75 Grover et al demonstrated that the procedure resulted in a mean IOP reduction of 7.7 ± 6.2 mmHg (30% reduction) at 6 months and 11.1 ± 6.1 mmHg (39% reduction) at 12 months. The use of glaucoma medications also decreased significantly, by 0.9 ± 1.3 drops and 1.1 ± 1.8 drops at month 6 and 12, respectively. 69 In the 24-month follow-up report, the same authors described the mean percentage of IOP reduction to be as high as 37.3% and 49.8% in POAG and secondary open-angle glaucomas, respectively. 71 The cumulative proportion of failure at 24 months ranged from 0.18 to 0.48 depending on the group, with the highest rate observed in pseudophakic POAG eyes, in which GATT was performed as a standalone procedure. 71 A lower success rate of 49.2% at 24 months was observed by Sato et al in a prospective study enrolling 64 eyes. 72 The smaller sample size should be taken into account when interpreting these results. Grover et. al also showed that patients with more advanced glaucoma tend to have significantly worse outcomes when undergoing GATT compared to those with mild to moderate glaucoma. 71 According to the authors, it is possible that the mean deviation from preoperative VF may serve as a proxy for the health of the distal outflow system and potentially predict the likelihood of a successful surgical outcome prior to the procedure. This hypothesis aligns with the findings reported by Nesterov et al. and Theobald et al., who demonstrated that in advanced glaucoma, the collector channels and the intrascleral plexus become sclerotic. 76 , 77 
+ The effectiveness of GATT has been explored in the context of other types of glaucoma. In two separate retrospective studies, Fontana et al. 78 and Chira-Adisai et al. 79 found that combining ab-interno trabeculotomy with sectoral goniosynechiolysis led to significant IOP reduction in patients with chronic angle closure glaucoma (CACG). Fontana et al. reported a decrease in mean IOP from 30.27 ± 4.20 mmHg to 15.20 ± 2.08 mmHg at 1-year follow-up, with success rates of 27% and 73% at 6 and 12 months, respectively. 78 Chira-Adisai et al. observed a decrease in mean IOP from 21.8 ± 5.4 mmHg to 14.5 ± 0.8 mmHg at 1-year follow-up, with a success rate of 71.8% at the last follow-up. 79 GATT has also been described as an effective approach for the management of uveitic glaucoma, steroid induced glaucoma (IOP reduction up to 63%), PXG, juvenile open angle glaucoma, and primary congenital glaucoma. 80 – 85 
+ Several studies have demonstrated the strong efficacy of GATT compared to other MIGS. Yalinbas et al. compared ab-externo trabeculotomy to ab-interno trabeculotomy and reported similar IOP reduction at 12 months in both groups. 86 Qiao et al. demonstrated superior results for GATT compared to KDB goniotomy in patients with uncontrolled juvenile-onset open-angle glaucoma. 87 The percentage of IOP lowering from baseline reported by the authors was 44.4% in the GATT group and 14.1% in the KDB group (P = 0.011), with a mean reduction in the number of medications of 2.6 ± 1.7 and 0.8 ± 1.2 medications in the GATT and KDB group, respectively. 87 Hamze et al. observed greater IOP reduction with GATT compared to iStent implantation in combined procedures, reporting 86.4% of patients in the phaco/GATT group met success criteria compared to 35.1% in the phaco/iStent group. 88 
+ Given potential postoperative bleeding after GATT, treatment of only 180º of the iridocorneal angle, referred to as hemi-GATT, has been explored. Sato et al. conducted a prospective, single-center, three-arm randomized trial to investigate the surgical outcomes of upper-180° hemi-GATT, lower-180° hemi-GATT, and full 360º GATT. 89 The study revealed no significant differences between the approaches at the final endpoint in terms of the number of eyes achieving a post-operative IOP of 21 mmHg or lower and ≥20% IOP reduction compared to baseline. However, it was observed that the full-GATT group had a higher incidence of hyphema compared to the hemi-GATT group. 89 Consistent findings have been reported by Faria et al, indicating that the ocular hypotensive effect of GATT is not influenced by the amount of goniotomy, although this topic remains highly debated among glaucoma specialists. 90 
+ As noted, the most frequently observed complication of GATT is hyphema, occurring in 23–38% of cases during the first week after surgery, along with Descemet’s membrane detachment, corneal edema, iridodialysis, hypotony, and panscleritis. 14 , 69 , 71 , 84 Given the extent of the goniotomy (180–360º) in GATT, hyphemas are much more common and often take longer to clear. Patients are typically advised to minimize vigorous activity and maintain an upright head position while sleeping to encourage clearance of the blood. Anticoagulant therapy is typically viewed as a contraindication for GATT; temporary cessation of the anticoagulant or consideration of alternative surgical procedures may be required in such cases. 4. Non-Bleb Forming, Trabecular Meshwork Canal Dilating Approaches 
+ 4.1. Ab interno Canaloplasty 
+ Canaloplasty is a surgical procedure that involves dilating SC to improve the flow of aqueous humor. There are two approaches to performing canaloplasty: ab-externo (ABeC), which involves external instrumentation and/or a scleral flap or dissection, and ab-interno (ABiC), which utilizes a clear corneal incision. The ab-interno technique offers advantages by avoiding complications associated with the conjunctivoscleral incision, such as hypotony, endophthalmitis, or scarring. 91 , 92 
+ ABiC entails the insertion of a microcatheter into Schlemm’s canal, followed by the injection of viscoelastic while retracting the microcatheter. This process achieves viscodilation, or dilation of SC. Several devices have been introduced to perform ABiC, including the iTrack microcatheter (Nova Eye Medical, Australia), the OMNI Surgical System (Sight Sciences, Menlo Park, CA), and more recently, the STREAMLINE (New World Medical, Rancho Cucamonga, CA) and iPrime (Glaukos, Laguna Hills, CA) systems. Of note, the iTrack and OMNI devices are often used to complete a trabeculotomy/goniotomy in addition to canaloplasty. 
+ The iTrack 250 system consists of a 200µm wide flexible microcatheter, which contains an optical fiber that provides illumination to guide the surgeon during SC cannulation. The illuminated tip is visible through the sclera and helps identify the distal tip of the microcatheter. 92 The proximal end is connected to the power source as well as a viscoelastic reservoir. The surgeon can request the assistant to click the device to release viscoelastic as the microcatheter is retracted through 360º of SC, resulting in a controlled injection of up to 100μL as desired. 92 Recently, the iTrack Advance catheter was released, which features a handpiece that is preloaded with the microcatheter. This new design allows for single-handed delivery of the microcatheter into SC. The catheter is then withdrawn back into the handpiece, during which viscoelastic is injected into SC in regular intervals. 93 
+ The Streamline Surgical System is a disposable cannula device designed for precise delivery of small amounts of viscoelastic fluid into SC. Inserted through a corneal incision, the Streamline device is used to penetrate the superficial TM, after which viscoelastic is released through opposing apertures. The device allows up to eight activations with 7 µL of fluid per activation, leading to a potential of 56µL injected into the SC. 94 The iPRIME Viscodelivery System is another new device that similarly allows for the release the viscoelastic fluid when triggered (2.7μL per activation, no volume limit). The user can adjust the angle of the cannula for precise delivery of the fluid to different areas within the Schlemm canal. 95 
+ The efficacy of ABiC has been explored for different devices. When ABiC was performed using the iTrack microcatheter, 95.5% of eyes achieved an IOP of 17mmHg or lower, and 68.2% of eyes required only one medication at the 36-month follow-up (phaco/iTrack and iTrack alone eyes grouped together). 96 Additionally, the study found no significant difference in surgical outcomes between phakic and pseudophakic eyes. 96 Outcome data regarding STREAMLINE and iPrime are currently lacking given their recent release. 
+ IOP spikes, microhyphema, hyphema, and mild AC inflammation were reported as complications in a minority of patients who underwent ABiC, irrespective of the devices used during the procedure. 96 – 98 4.2. OMNI System 
+ The OMNI system (Sight Sciences, Menlo Park, CA) is a non-implantable surgical device which enables microcatheterization and transluminal viscodilation of SC. With its predecessor known as TRAB360, the OMNI system consists of a 200 µm wide microcatheter that is inserted through a clear corneal incision. 99 The tip of the device is used to pierce through the TM and enter the SC. An internal reservoir within the system allows for the controlled injection of 0.5µL of viscoelastic per click when the catheter is retracted for a total release of approximately 11µL. 99 The OMNI microcatheter is designed to be advanced and retracted multiple times during the surgical procedure. This process is completed for one half of the TM, and after the catheter is retracted, it is typically re-inserted to treat the remaining half. It is important to note that the instrument is designed to release all viscoelastic during the first two retractions of the device. Trabeculotomy can then be performed on one or both halves of the iridocorneal angle. 
+ Results from the ROMEO Study suggest the OMNI System to guarantee surgical success (defined as either a ≥20% IOP reduction or IOP between 6 and 18 mmHg and no increase in medication or secondary surgical intervention) in 75% of treated eyes, with no device-related adverse events up to 2 years. 97 In a study conducted by Brown et al., a mean IOP reduction of 5.6±4.5 mmHg was reported in 41 eyes that underwent phaco/OMNI. 100 The authors of the study also observed a significant correlation between the degree of IOP reduction and the preoperative IOP levels, (R 2 = 0.7, P < .001). 100 Favorable outcomes of phaco/OMNI were reported in the GEMINI study, a prospective, multicenter analysis of patients undergoing OMNI-assisted canaloplasty (360°) and trabeculotomy (180°) alongside cataract surgery. 101 At the 12-month follow-up, 84.2% of eyes achieved IOP reductions exceeding 20% from baseline, 80% of eyes were no longer reliant on medication, and 76% of eyes achieved IOP levels ranging between 6–18 mmHg. Based on their findings, the authors suggest that phaco/OMNI should be considered as a treatment option for eyes with mild to moderate OAG to effectively lower IOP and reduce the need for medication. 101 
+ Among the complications observed, 4.2% of eyes developed hyphema larger than 1 mm. Other adverse events included posterior capsule opacification in 10.4% of cases, cystoid macular edema in 6.3% of cases, and corneal edema in 4.2% of cases. 97 , 99 – 101 The type of approach (i.e., viscodilation only vs. viscodilation and trabeculotomy) and whether concurrent cataract extraction is performed can significantly influence the occurrence and nature of complications that may arise during or after the procedure. 102 5. Non-bleb Forming, Suprachoroidal Space Approaches 
+ Ab interno MIGS devices designed to target the suprachoroidal space include the iStent Supra G3 (Glaukos Inc., Laguna Hills, CA) and the MINIject (iStar Medical, Wavre, Belgium). Neither has received FDA approval as of June 2023. The Cypass suprachoroidal microstent (Alcon, Fort Worth, TX) was withdrawn in 2018 by the FDA due to concerns regarding ECL, as discovered in an extended follow-up study of patients from the original clinical trial. 103 , 104 
+ 5.1. iStent Supra 
+ The iStent Supra is a third generation iStent made of polyethersulfone with a colored titanium sleeve. It consists of a 4-mm tube with openings at both ends and is inserted into the suprachoroidal space through an ab interno approach using a clear corneal incision. The stent aims to create a direct connection between the anterior chamber and the suprachoroidal space. It incorporates retention rings for stability during implantation. 
+ In a study by Junemann et al, enrolling 42 eyes with advanced POAG, 98% of eyes implanted with iStent Supra experienced a >20% reduction of IOP from baseline over a 12-month follow-up period. Additionally, 90% of the eyes met the secondary endpoint, which aimed for an IOP below 15mmHg and elimination of one medication. Notably, no complications were observed during the one-year follow-up period. 105 A randomized controlled trial including 505 patients and evaluating the efficacy and safety of suprachoroidal iStent SUPRA in conjunction with cataract surgery compared to cataract surgery alone is ongoing ( NCT01461278 , ClinicalTrials.gov ). 5.2. MINIject drainage system 
+ The MINIject glaucoma drainage device, developed by iSTAR Medical (Wavre, Belgium), is an innovative supraciliary implant designed for targeted placement in the suprachoroidal space. It features a soft, flexible silicone stent structure measuring 5mm in length and is demarcated with a green ring approximately 0.5mm from the device tip. This marker facilitates positioning by indicating the appropriate depth of implantation. The device is constructed using a biocompatible and porous silicone material called STAR, which minimizes tissue reaction and reduces the potential for fibrosis. The micropores are arranged in a network of interconnected hollow spheres, enhancing its functionality. 
+ Denis et al published 24-month surgical outcomes of MINIject implantation in 21 patients. 106 They observed a significant decrease in IOP (23.2±2.9 to 13.8±3.5 mmHg) and medications (2.0±1.1 to 1.0±1.3 medications) postoperatively. 106 The qualified and complete success rates were 100% and 47% respectively. 106 Given concerns regarding ECL and MIGS procedures, the authors reported endothelial cell counts, demonstrating a slight reduction in mean endothelial cell density from 2,411 cells/mm 2 preoperatively to 2,341 cells/mm 2 at the 2-year follow-up, representing a 5% decrease among matched patients. 106 6. Non-Bleb Forming, Inflow Reducing Approaches 
+ 6.1. Endoscopic Cyclophotocoagulation 
+ Endoscopic cyclophotocoagulation (ECP) is a cyclodestructive procedure that was developed in the early 1990s. 107 , 108 The laser endoscope consists of the image guide, light guide, and semiconductor diode laser operating at a wavelength of 810 nm. 107 The Endoptiks ECP Laser Probe (Endo Optiks, Little Silver, NJ) delivers a maximum power output of 2.0 W and is available in both straight and curved designs, providing a field of view up to 110°. 107 The device is inserted through a clear corneal incision and directed to the ciliary sulcus in order to visualize the ciliary body. Surgeons rely on the endoscope video monitor to evaluate probe position and laser application instead of the operating microscope. 107 
+ Previously used in refractory glaucoma, ECP is now utilized earlier in disease due to the advent of MIGS. 109 Yap et al. assessed the three-year outcomes of phaco/ECP in POAG eyes. 110 They reported success rates of 70%, 54%, and 45% at years 1, 2, and 3, respectively, with statistically significant reductions in mean IOP and number of topical medications from preoperative levels ( p < 0.0001). Similarly, a study by Lindfield et al. showed that phaco/ECP resulted in a statistically significant reduction in IOP at all postoperative time points up to 24 months, with a mean decrease of 7.1 mmHg. 111 Yang et al. conducted a retrospective multicenter study using data from the IRIS Registry, involving 79,363 eyes, to analyze the efficacy of phaco/ECP compared to cataract surgery alone. 112 The rate of reoperation for glaucoma was significantly lower when ECP was performed in combination with phacoemulsification. 112 Approximately one-sixth of patients who underwent standalone ECP required reoperation within two years. 112 The study also showed statistically significant differences in the percentage of IOP reduction between phaco/ECP and cataract surgery alone (16.6 mmHg (–17%) vs. 15.7 mmHg (–11%), p < 0.001). 112 
+ Clinicians often combine inflow-reducing ECP with other outflow-enhancing canal-based MIGS, complementary approaches in reducing IOP. Deitz et al. conducted a comparative analysis of 349 eyes that underwent phaco/iStent. phaco/ECP, or phaco/iStent/ECP. 113 The success rate was higher for phaco/iStent compared to phaco/ECP (75.3% vs. 54.4%), while adding iStent to phaco/ECP led to higher success rates in the early postoperative period. 113 However, it’s important to consider the larger proportion of severe glaucoma cases in the phaco/ECP group when interpreting the results.1 Ferguson et al. observed that combining phacoemulsification, ECP, and iStent (phaco/ECP/iStent) resulted in significantly greater IOP reduction compared to phacoemulsification with only iStent implantation for mild to moderate glaucoma patients. 114 At the one-year follow-up, the mean IOP reduction in the phaco/iStent/ECP group was 7.14 mmHg, while it was 4.48 mmHg in the phaco/iStent group (p = 0.01).2 Similar findings were reported by Pantalon et al., showing greater IOP reduction (35% vs. 21%, p = 0.03) and reduced use of IOP-lowering medications in the phaco/iStent/ECP group compared to phaco/iStent alone. 115 
+ Several adverse events have been commonly reported following ECP. Retained viscoelastic leading to postoperative IOP spikes affects approximately 14.5% of patients, while subsequent cataract formation occurred in around 24.5% of phakic cases. Hyphema was observed in 3.8% of cases. Choroidal detachment, corneal edema, cystoid macular edema, retinal detachment, hypotony and vision loss of more than 2 lines are rare occurrences, observed in less than 1% of patients. 116 7. Bleb-Forming, Ab Interno Implants 
+ 7.1. Xen Gel Stent 
+ The XEN Gel Stent (XGS; AbbVie, North Chicago, IL) is a subconjunctival MIGS stent designed to improve the predictability and safety profile of bleb-forming procedures, approved by the FDA in 2016. 117 It consists of a 6mm porcine collagen implant cross-linked with glutaraldehyde. 117 The XGS is traditionally placed ab interno (without opening conjunctiva) to drain fluid into the subconjunctival space through a 45µm lumen. 117 After its release, many surgeons began implanting the XGS ab externo, involving a conjunctival incision. It should be noted that, according to the AGS, only the ab interno approach should be classified as a MIGS procedure, while the ab externo approach is to be considered as a traditional glaucoma filtration surgery. 13 
+ In the ab interno technique, the XEN Gel Stent is inserted into the front chamber of the eye through a clear corneal incision located inferotemporally. This incision is created using a sharp beveled 27-gauge needle. The needle tip is carefully introduced at the TM and then advanced through the sclera until it exits about 2.5–3 mm behind the limbus, entering the subconjunctival space. Verification of the internal and external positions of the stent is performed, and to ensure proper flow and the formation of a bleb, the anterior chamber is irrigated. 
+ In the context of ab interno XGS implantation approach, studies reported a ≥20% IOP reduction over 1–2 years in 44.6–97.4% of eyes with mild to moderate POAG. One retrospective study found significant reductions in IOP and medication burden for both XGS alone and phaco/XGS groups at 2 years. 118 Of note, these studies excluded patients with prior incisional surgery. De Gregorio et al. reported that 80% and 98% of phaco/XGS treated eyes achieved complete success (defined as postoperative IOP ≥6 and ≤17 mm Hg without glaucoma medications) and qualified success (defined as postoperative IOP ≥6 and ≤17 mm Hg with medication), respectively, over a 12-month follow-up. 119 Reitsamer et al. reported similar results between the XGS alone and phaco/XGS groups in terms of IOP reduction and medication usage throughout the 24-month follow-up period. 120 The overall absolute reduction in IOP from baseline at 12 months was 29.3%, similar to the 31% reduction at 12 months identified by Mansouri et al. 121 These authors noted a greater IOP-lowering effect in the XGS alone group compared to the phaco/XGS group. 121 
+ The effectiveness of the XGS has been compared to other MIGS. Olgun et al. retrospectively compared the efficacy of the XGS ab interno to GATT with or without cataract surgery among patients with open-angle glaucoma. 118 Both the XGS and GATT groups demonstrated significant IOP reductions at 2 years compared to baseline (p < 0.001). However, throughout postoperative follow-up, the XGS group consistently showed significantly lower mean IOP values compared to the GATT group (p < 0.001). The study reported a low number of adverse events in all groups, suggesting that both XGS and GATT are safe procedures for patients with open-angle glaucoma. 118 However, based on the findings, XGS may be more favorable for patients who require lower target IOP values. 118 XGS has been compared to trabeculectomy in the Gold-Standard Pathway Study (GPS), a prospective, randomized clinical trial. Investigators demonstrated that XGS was non-inferior to trabeculectomy in terms of ≥20% IOP reduction, although mean IOP was still lower in the trabeculectomy arm. 122 
+ Hyphema (27.9% to 45.5), hypotony (20.2% to 24.6%), wound leak (9.2%), and problems related to implant positioning (1.8% to 4.7%) are complications described in association with XGS implantation. 118 , 123 Bleb needling is often required in up to 23–36% of cases. 124 , 125 Less frequently observed complications include corneal edema, subconjunctival hemorrhage, endophthalmitis, and iridodialysis, each occurring in ≤1.5% of cases. 118 , 120 , 121 , 123 Overall, within a follow-up period of 1 to 2 years, approximately 1.5–13.8% of patients who received XGS required additional glaucoma surgery to achieve adequate IOP control. 118 , 120 , 121 , 123 8. Anticoagulant therapy and MIGS 
+ The impact of anticoagulant therapy on MIGS outcomes remains uncertain. The management approach for patients on anticoagulant therapy may vary depending on the specific procedure being performed, the individual patient’s condition, and the surgeon’s preference. 126 , 127 Specific devices used in canal-based MIGS procedures, such as the iStent and Hydrus Microstent, have been associated with varying risks of hyphema, neither vision-threatening nor associated with surgical failure. 3 , 33 , 128 On the other hand, TM canal cleaving approaches are associated with significant hyphema rates. As mentioned, anticoagulant therapy is typically seen as a contraindication to larger goniotomy procedures due to persistent bleeding, either due to reflux from episcleral veins or from iatrogenic trauma to the iris root. Interrupting anticoagulant therapy may be indicated to minimize the risk of adverse, prolonged hemorrhagic complications. 97 , 101 Surgeons should coordinate any temporary cessation of anticoagulant therapy with the patient’s primary care provider or other clinicians involved in managing their anticoagulant therapy. 
+ Future prospective studies are needed to compare the outcomes of MIGS procedures, especially in the context of anticoagulant therapy. It is recommended that studies focusing on MIGS outcomes report the usage of anticoagulant agents. In addition, detailed information regarding hyphema events would be valuable – size, visual acuity at time of diagnosis, and time to resolution with visual acuity measurements. The MIGS research community would greatly benefit from the establishment of a standardized definition for clinically significant hyphema for effective comparative analyses. 126 , 127 9. Conclusions 
+ MIGS encompasses a constantly evolving range of devices and procedures that aim to safely reduce IOP while improving quality of life for patients by minimizing medication burden. Compared to traditional glaucoma surgeries, MIGS have demonstrated a lower incidence of sight-threatening complications, though the degree of IOP reduction is typically not as impressive. 3 , 13 Nonetheless, patients with milder disease are often the target population for MIGS, for whom IOP reduction is not the only goal. While some of these patients may ultimately require traditional glaucoma surgery, MIGS procedures often delay these intensive procedures. The MIGS space is poised to only grow further in the coming years, with a greater range and number of devices awaiting approval. 
+ However, the comparison of the efficacy of various MIGS approaches remains a significant challenge. 3 Major obstacles exist in comparative MIGS studies, primarily due to difficulties in standardizing surgical technique and the amount of tissue treated, particularly in SC-based procedures. There is also greater interest in demonstrating that MIGS slows the progression of glaucomatous disease using VF testing as an endpoint. MIGS procedures will continue to serve as first-line surgical procedures for most patients with glaucoma, highlighting the need for further well-designed studies to support evidence-based care. Funding Sources: 
+ Supported in part by National Institutes of Health/National Eye Institute grant K23 EY033831 (SSS), and American Glaucoma Society Mentoring for the Advancement of Physician Scientists grant (SSS). The funding organization had no role in the design or conduct of this research. Footnotes 
+ Disclosures : GGA: none. SSS: Sight Sciences (C), Ivantis (C), Heidelberg Engineering (S), Lumata Health (C, E), AbbVie (C); Topcon (C); National Institutes of Health/National Eye Institute (S). References 
+ 
+ 
+ 1. Garway-Heath DF, Crabb DP, Bunce C, et al. 
+Latanoprost for open-angle glaucoma (UKGTS): a randomised, multicentre, placebo-controlled trial.
+Lancet
+Apr
+4
+2015;385(9975):1295–304. doi: 10.1016/S0140-6736(14)62111-5 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. The Advanced Glaucoma Intervention Study (AGIS): 7. The relationship between control of intraocular pressure and visual field deterioration.The AGIS Investigators.
+Am J Ophthalmol
+Oct
+2000;130(4):429–40. doi: 10.1016/s0002-9394(00)00538-9 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Bicket AK, Le JT, Azuara-Blanco A, et al. 
+Minimally Invasive Glaucoma Surgical Techniques for Open-Angle Glaucoma: An Overview of Cochrane Systematic Reviews and Network Meta-analysis.
+JAMA Ophthalmol
+Sep
+1
+2021;139(9):983–989. doi: 10.1001/jamaophthalmol.2021.2351 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Gallo Afflitto G, Aiello F, Cesareo M, Nucci C. Primary Open Angle Glaucoma Prevalence in Europe: A Systematic Review and Meta-Analysis.
+J Glaucoma
+Oct
+1
+2022;31(10):783–788. doi: 10.1097/IJG.0000000000002083 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Gallo Afflitto G, Chou T-H, Swaminathan SS, et al. 
+Pattern Electroretinogram in Ocular Hypertension, Glaucoma Suspect and Early Manifest Glaucoma Eyes: A Systematic Review and Meta-analysis.
+Ophthalmology Science
+2023;0(0)doi: 10.1016/j.xops.2023.100322 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Burr J, Azuara-Blanco A, Avenell A, Tuulonen A. Medical versus surgical interventions for open angle glaucoma.
+Cochrane Database Syst Rev
+Sep
+12
+2012;(9):CD004399. doi: 10.1002/14651858.CD004399.pub3 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Gedde SJ, Feuer WJ, Lim KS, et al. 
+Treatment Outcomes in the Primary Tube Versus Trabeculectomy Study after 3 Years of Follow-up.
+Ophthalmology
+Mar
+2020;127(3):333–345. doi: 10.1016/j.ophtha.2019.10.002 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Gedde SJ, Herndon LW, Brandt JD, et al. 
+Postoperative complications in the Tube Versus Trabeculectomy (TVT) study during five years of follow-up.
+Am J Ophthalmol
+May
+2012;153(5):804–814
+e1. doi: 10.1016/j.ajo.2011.10.024 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Gedde SJ, Schiffman JC, Feuer WJ, et al. 
+Treatment outcomes in the Tube Versus Trabeculectomy (TVT) study after five years of follow-up.
+Am J Ophthalmol
+May
+2012;153(5):789–803
+e2. doi: 10.1016/j.ajo.2011.10.026 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Prum BE Jr., Lim MC, Mansberger SL, et al. 
+Primary Open-Angle Glaucoma Suspect Preferred Practice Pattern((R)) Guidelines.
+Ophthalmology
+Jan
+2016;123(1):P112–51. doi: 10.1016/j.ophtha.2015.10.055 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. SooHoo JR, Seibold LK, Radcliffe NM, Kahook MY. Minimally invasive glaucoma surgery: current implants and future innovations.
+Can J Ophthalmol
+Dec
+2014;49(6):528–33. doi: 10.1016/j.jcjo.2014.09.002 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Saheb H, Ahmed, II. Micro-invasive glaucoma surgery: current perspectives and future directions.
+Curr Opin Ophthalmol
+Mar
+2012;23(2):96–104. doi: 10.1097/ICU.0b013e32834ff1e7 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Fellman RL, Mattox C, Singh K, et al. 
+American Glaucoma Society Position Paper: Microinvasive Glaucoma Surgery.
+Ophthalmol Glaucoma
+Jan-Feb
+2020;3(1):1–6. doi: 10.1016/j.ogla.2019.12.003 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Mathew DJ, Buys YM. Minimally Invasive Glaucoma Surgery: A Critical Appraisal of the Literature.
+Annu Rev Vis Sci
+Sep
+15
+2020;6:47–89. doi: 10.1146/annurev-vision-121219-081737 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Iordanous Y, Kent JS, Hutnik CM, Malvankar-Mehta MS. Projected cost comparison of Trabectome, iStent, and endoscopic cyclophotocoagulation versus glaucoma medication in the Ontario Health Insurance Plan.
+J Glaucoma
+Feb
+2014;23(2):e112–8. doi: 10.1097/IJG.0b013e31829d9bc7 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Anand N, Klug E, Nirappel A, Sola-Del Valle D. A Review of Cyclodestructive Procedures for the Treatment of Glaucoma.
+Semin Ophthalmol
+Aug
+17
+2020;35(5–6):261–275. doi: 10.1080/08820538.2020.1810711 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Francis BA, Singh K, Lin SC, et al. 
+Novel glaucoma procedures: a report by the American Academy of Ophthalmology.
+Ophthalmology
+Jul
+2011;118(7):1466–80. doi: 10.1016/j.ophtha.2011.03.028 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Wellik SR, Dale EA. A review of the iStent((R)) trabecular micro-bypass stent: safety and efficacy.
+Clin Ophthalmol
+04/15/2015
+2015;9:677–84. doi: 10.2147/OPTH.S57217 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Francis BA, Winarko J. Ab interno Schlemm’s canal surgery: trabectome and i-stent.
+Dev Ophthalmol
+2012
+2012;50:125–36. doi: 10.1159/000334794 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Ahmed IIK, Fea A, Au L, et al. 
+A Prospective Randomized Trial Comparing Hydrus and iStent Microinvasive Glaucoma Surgery Implants for Standalone Treatment of Open-Angle Glaucoma: The COMPARE Study.
+Ophthalmology
+Jan
+2020;127(1):52–61. doi: 10.1016/j.ophtha.2019.04.034 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Samuelson TW, Katz LJ, Wells JM, Duh YJ, Giamporcaro JE, Group USiS. Randomized evaluation of the trabecular micro-bypass stent with phacoemulsification in patients with glaucoma and cataract.
+Ophthalmology
+Mar
+2011;118(3):459–67. doi: 10.1016/j.ophtha.2010.07.007 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Arriola-Villalobos P, Martinez-de-la-Casa JM, Diaz-Valle D, et al. 
+Mid-term evaluation of the new Glaukos iStent with phacoemulsification in coexistent open-angle glaucoma or ocular hypertension and cataract.
+Br J Ophthalmol
+Oct
+2013;97(10):1250–5. doi: 10.1136/bjophthalmol-2012-302394 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Myers JS, Masood I, Hornbeak DM, et al. 
+Prospective Evaluation of Two iStent((R)) Trabecular Stents, One iStent Supra((R)) Suprachoroidal Stent, and Postoperative Prostaglandin in Refractory Glaucoma: 4-year Outcomes.
+Adv Ther
+Mar
+2018;35(3):395–407. doi: 10.1007/s12325-018-0666-4 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Arriola-Villalobos P, Martinez-de-la-Casa JM, Diaz-Valle D, Morales-Fernandez L, Fernandez-Perez C, Garcia-Feijoo J. Glaukos iStent inject(R) Trabecular Micro-Bypass Implantation Associated with Cataract Surgery in Patients with Coexisting Cataract and Open-Angle Glaucoma or Ocular Hypertension: A Long-Term Study.
+J Ophthalmol
+2016
+2016;2016:1056573. doi: 10.1155/2016/1056573 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Craven ER, Katz LJ, Wells JM, Giamporcaro JE, iStent Study G. Cataract surgery with trabecular micro-bypass stent implantation in patients with mild-to-moderate open-angle glaucoma and cataract: two-year follow-up.
+J Cataract Refract Surg
+Aug
+2012;38(8):1339–45. doi: 10.1016/j.jcrs.2012.03.025 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Malvankar-Mehta MS, Iordanous Y, Chen YN, et al. 
+iStent with Phacoemulsification versus Phacoemulsification Alone for Patients with Glaucoma and Cataract: A Meta-Analysis.
+PLoS One
+07/06/2015
+2015;10(7):e0131770. doi: 10.1371/journal.pone.0131770 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Katz LJ, Erb C, Carceller GA, et al. 
+Prospective, randomized study of one, two, or three trabecular bypass stents in open-angle glaucoma subjects on topical hypotensive medication.
+Clin Ophthalmol
+12/11/2015
+2015;9:2313–20. doi: 10.2147/OPTH.S96695 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Spiegel D, Wetzel W, Neuhann T, et al. 
+Coexistent primary open-angle glaucoma and cataract: interim analysis of a trabecular micro-bypass stent and concurrent cataract surgery.
+Eur J Ophthalmol
+May-Jun
+2009;19(3):393–9. doi: 10.1177/112067210901900311 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Spiegel D, Garcia-Feijoo J, Garcia-Sanchez J, Lamielle H. Coexistent primary open-angle glaucoma and cataract: preliminary analysis of treatment by cataract surgery and the iStent trabecular micro-bypass stent.
+Adv Ther
+May
+2008;25(5):453–64. doi: 10.1007/s12325-008-0062-6 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Resende AF, Patel NS, Waisbourd M, Katz LJ. iStent(R) Trabecular Microbypass Stent: An Update.
+J Ophthalmol
+2016
+2016;2016:2731856. doi: 10.1155/2016/2731856 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Van Tassel SH, Ertel MK, Muylaert SJ. Metal Intraocular Particles Following Microinvasive Glaucoma Surgery with Stents.
+Ophthalmol Glaucoma
+Sep-Oct
+2019;2(5):363. doi: 10.1016/j.ogla.2019.07.002 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Samuelson TW, Sarkisian SR Jr., Lubeck DM, et al. 
+Prospective, Randomized, Controlled Pivotal Trial of an Ab Interno Implanted Trabecular Micro-Bypass in Primary Open-Angle Glaucoma and Cataract: Two-Year Results.
+Ophthalmology
+Jun
+2019;126(6):811–821. doi: 10.1016/j.ophtha.2019.03.006 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Salimi A, Watt H, Harasymowycz P. Three-Year Outcomes of Second-generation Trabecular Micro-bypass Stents (iStent inject) With Phacoemulsification in Various Glaucoma Subtypes and Severities.
+J Glaucoma
+Mar
+1
+2021;30(3):266–275. doi: 10.1097/IJG.0000000000001716 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Neuhann R, Neuhann T. Second-generation trabecular micro-bypass stent implantation: Retrospective analysis after 12- and 24-month follow-up.
+Eye Vis (Lond)
+2020;7:1. doi: 10.1186/s40662-019-0169-7 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Manning D
+Real-world Case Series of iStent or iStent inject Trabecular Micro-Bypass Stents Combined with Cataract Surgery.
+Ophthalmol Ther
+Dec
+2019;8(4):549–561. doi: 10.1007/s40123-019-00208-x [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Guedes RAP, Gravina DM, Lake JC, Guedes VMP, Chaoubah A. Intermediate Results of iStent or iStent inject Implantation Combined with Cataract Surgery in a Real-World Setting: A Longitudinal Retrospective Study.
+Ophthalmol Ther
+Mar
+2019;8(1):87–100. doi: 10.1007/s40123-019-0166-x [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Shalaby WS, Lam SS, Arbabi A, et al. 
+iStent versus iStent inject implantation combined with phacoemulsification in open angle glaucoma.
+Indian J Ophthalmol
+Sep
+2021;69(9):2488–2495. doi: 10.4103/ijo.IJO_308_21 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Fea AM, Belda JI, Rekas M, et al. 
+Prospective unmasked randomized evaluation of the iStent inject ((R)) versus two ocular hypotensive agents in patients with primary open-angle glaucoma.
+Clin Ophthalmol
+05/07/2014
+2014;8:875–82. doi: 10.2147/OPTH.S59932 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Voskanyan L, Garcia-Feijoo J, Belda JI, et al. Prospective, unmasked evaluation of the iStent(R) inject system for open-angle glaucoma: synergy trial.
+Adv Ther
+Feb
+2014;31(2):189–201. doi: 10.1007/s12325-014-0095-y [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Hengerer FH, Auffarth GU, Riffel C, Conrad-Hengerer I. Second-Generation Trabecular Micro-Bypass Stents as Standalone Treatment for Glaucoma: A 36-Month Prospective Study.
+Adv Ther
+Jul
+2019;36(7):1606–1617. doi: 10.1007/s12325-019-00984-9 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Ahmed IIK, De Francesco T, Rhee D, et al. 
+Long-term Outcomes from the HORIZON Randomized Trial for a Schlemm’s Canal Microstent in Combination Cataract and Glaucoma Surgery.
+Ophthalmology
+Jul
+2022;129(7):742–751. doi: 10.1016/j.ophtha.2022.02.021 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Zebardast N, Zheng C, Jampel HD. Effect of a Schlemm’s Canal Microstent on Early Postoperative Intraocular Pressure after Cataract Surgery: An Analysis of the HORIZON Randomized Controlled Trial.
+Ophthalmology
+Oct
+2020;127(10):1303–1310. doi: 10.1016/j.ophtha.2020.01.025 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Montesano G, Ometto G, Ahmed IIK, et al. 
+Five-Year Visual Field Outcomes of the HORIZON Trial.
+Am J Ophthalmol
+Jul
+2023;251:143–155. doi: 10.1016/j.ajo.2023.02.008 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Jablonska J, Lewczuk K, Konopinska J, Mariak Z, Rekas M. Microinvasive glaucoma surgery: a review and classification of implant-dependent procedures and techniques.
+Acta Ophthalmol
+Mar
+2022;100(2):e327–e338. doi: 10.1111/aos.14906 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Jones J, Koch DD, Vold S, et al. 
+Results from the United States cohort of the HORIZON trial of a Schlemm canal microstent to reduce intraocular pressure in primary open-angle glaucoma.
+J Cataract Refract Surg
+Sep
+2019;45(9):1305–1315. doi: 10.1016/j.jcrs.2019.03.024 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Gedde SJ, Vinod K, Wright MM, et al. 
+Primary Open-Angle Glaucoma Preferred Practice Pattern(R).
+Ophthalmology
+Jan
+2021;128(1):P71–P150. doi: 10.1016/j.ophtha.2020.10.022 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Otarola F, Virgili G, Shah A, Hu K, Bunce C, Gazzard G. Ab interno trabecular bypass surgery with Schlemm s canal microstent (Hydrus) for open angle glaucoma.
+Cochrane Database Syst Rev
+Mar
+9
+2020;3(3):CD012740. doi: 10.1002/14651858.CD012740.pub2 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Minckler D, Mosaed S, Dustin L, Ms BF, Trabectome Study G. Trabectome (trabeculectomy-internal approach): additional experience and extended follow-up.
+Trans Am Ophthalmol Soc
+2008
+2008;106:149–59; discussion 159–60. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Kono Y, Kasahara M, Hirasawa K, et al. 
+Long-term clinical results of trabectome surgery in patients with open-angle glaucoma.
+Graefes Arch Clin Exp Ophthalmol
+Nov
+2020;258(11):2467–2476. doi: 10.1007/s00417-020-04897-0 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Dang Y, Roy P, Bussel Loewen RT II, Parikh H, Loewen NA. Combined analysis of trabectome and phaco-trabectome outcomes by glaucoma severity.
+F1000Res
+04/27/2016
+2016;5:762. doi: 10.12688/f1000research.8448.2 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Parikh HA, Bussel Schuman JS II, Brown EN, Loewen NA. Coarsened Exact Matching of Phaco-Trabectome to Trabectome in Phakic Patients: Lack of Additional Pressure Reduction from Phacoemulsification.
+PLoS One
+02/19/2016
+2016;11(2):e0149384. doi: 10.1371/journal.pone.0149384 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Esfandiari H, Shah P, Torkian P, et al. 
+Five-year clinical outcomes of combined phacoemulsification and trabectome surgery at a single glaucoma center.
+Graefes Arch Clin Exp Ophthalmol
+Feb
+2019;257(2):357–362. doi: 10.1007/s00417-018-4146-y [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Bussel II, Kaplowitz K, Schuman JS, Loewen NA, Trabectome Study G. Outcomes of ab interno trabeculectomy with the trabectome after failed trabeculectomy.
+Br J Ophthalmol
+Feb
+2015;99(2):258–62. doi: 10.1136/bjophthalmol-2013-304717 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Mosaed S, Chak G, Haider A, Lin KY, Minckler DS. Results of Trabectome Surgery Following Failed Glaucoma Tube Shunt Implantation: Cohort Study.
+Medicine (Baltimore)
+Jul
+2015;94(30):e1045. doi: 10.1097/MD.0000000000001045 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Kinoshita-Nakano E, Nakanishi H, Ohashi-Ikeda H, Morooka S, Akagi T. Comparative outcomes of trabeculotomy ab externo versus trabecular ablation ab interno for open angle glaucoma.
+Jpn J Ophthalmol
+Mar
+2018;62(2):201–208. doi: 10.1007/s10384-017-0559-0 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Ting JLM, Rudnisky CJ, Damji KF. Prospective randomized controlled trial of phaco-trabectome versus phaco-trabeculectomy in patients with open angle glaucoma.
+Can J Ophthalmol
+Dec
+2018;53(6):588–594. doi: 10.1016/j.jcjo.2018.01.033 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Berk TA, An JA, Ahmed IIK. Inadvertent Cyclodialysis Cleft and Hypotony Following Ab-Interno Trabeculotomy Using the Trabectome Device Requiring Surgical Repair.
+J Glaucoma
+Aug
+2017;26(8):742–746. doi: 10.1097/IJG.0000000000000719 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Seibold LK, Soohoo JR, Ammar DA, Kahook MY. Preclinical investigation of ab interno trabeculectomy using a novel dual-blade device.
+Am J Ophthalmol
+Mar
+2013;155(3):524–529
+e2. doi: 10.1016/j.ajo.2012.09.023 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Dorairaj SK, Seibold LK, Radcliffe NM, et al. 
+12-Month Outcomes of Goniotomy Performed Using the Kahook Dual Blade Combined with Cataract Surgery in Eyes with Medically Treated Glaucoma.
+Adv Ther
+Sep
+2018;35(9):1460–1469. doi: 10.1007/s12325-018-0755-4 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Kornmann HL, Fellman RL, Feuer WJ, et al. 
+Early Results of Goniotomy with the Kahook Dual Blade, a Novel Device for the Treatment of Glaucoma.
+Clin Ophthalmol
+12/02/2019
+2019;13:2369–2376. doi: 10.2147/OPTH.S224643 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Miller VJ, Young CEC, SooHoo JR, et al. 
+Efficacy of Goniotomy With Kahook Dual Blade in Patients With Uveitis-associated Ocular Hypertension.
+J Glaucoma
+Aug
+2019;28(8):744–748. doi: 10.1097/IJG.0000000000001298 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Sieck EG, Epstein RS, Kennedy JB, et al. 
+Outcomes of Kahook Dual Blade Goniotomy with and without Phacoemulsification Cataract Extraction.
+Ophthalmol Glaucoma
+Jul-Aug
+2018;1(1):75–81. doi: 10.1016/j.ogla.2018.06.006 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. ElMallah MK, Berdahl JP, Williamson BK, et al. 
+Twelve-Month Outcomes of Stand-Alone Excisional Goniotomy in Mild to Severe Glaucoma.
+Clin Ophthalmol
+07/03/2020
+2020;14:1891–1897. doi: 10.2147/OPTH.S256423 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Dorairaj S, Tam MD. Kahook Dual Blade Excisional Goniotomy and Goniosynechialysis Combined With Phacoemulsification for Angle-closure Glaucoma: 6-Month Results.
+J Glaucoma
+Jul
+2019;28(7):643–646. doi: 10.1097/IJG.0000000000001256 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Lee D, King J, Thomsen S, Hirabayashi M, An J. Comparison Of Surgical Outcomes Between Excisional Goniotomy Using The Kahook Dual Blade And iStent Trabecular Micro-Bypass Stent In Combination With Phacoemulsification.
+Clin Ophthalmol
+10/25/2019
+2019;13:2097–2102. doi: 10.2147/OPTH.S224109 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Dorairaj SK, Kahook MY, Williamson BK, Seibold LK, ElMallah MK, Singh IP. A multicenter retrospective comparison of goniotomy versus trabecular bypass device implantation in glaucoma patients undergoing cataract extraction.
+Clin Ophthalmol
+04/30/2018
+2018;12:791–797. doi: 10.2147/OPTH.S158403 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Hirabayashi MT, Lee D, King JT, Thomsen S, An JA. Comparison Of Surgical Outcomes Of 360 degrees Circumferential Trabeculotomy Versus Sectoral Excisional Goniotomy With The Kahook Dual Blade At 6 Months.
+Clin Ophthalmol
+10/15/2019
+2019;13:2017–2024. doi: 10.2147/OPTH.S208468 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Shute T, Green W, Liu J, Sheybani A. An Alternate Technique for Goniotomy: Description of Procedure and Preliminary Results.
+J Ophthalmic Vis Res
+Apr-Jun
+2022;17(2):170–175. doi: 10.18502/jovr.v17i2.10787 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Grover DS, Godfrey DG, Smith O, Feuer WJ, Montes de Oca I, Fellman RL. Gonioscopy-assisted transluminal trabeculotomy, ab interno trabeculotomy: technique report and preliminary results.
+Ophthalmology
+Apr
+2014;121(4):855–61. doi: 10.1016/j.ophtha.2013.11.001 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Grover DS, Fellman RL. Gonioscopy-assisted Transluminal Trabeculotomy (GATT): Thermal Suture Modification With a Dye-stained Rounded Tip.
+J Glaucoma
+Jun
+2016;25(6):501–4. doi: 10.1097/IJG.0000000000000325 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Grover DS, Smith O, Fellman RL, et al. 
+Gonioscopy-assisted Transluminal Trabeculotomy: An Ab Interno Circumferential Trabeculotomy: 24 Months Follow-up.
+J Glaucoma
+May
+2018;27(5):393–401. doi: 10.1097/IJG.0000000000000956 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Sato T, Kawaji T, Hirata A, Mizoguchi T. 360-degree suture trabeculotomy ab interno to treat open-angle glaucoma: 2-year outcomes.
+Clin Ophthalmol
+05/17/2018
+2018;12:915–923. doi: 10.2147/OPTH.S161238 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Baykara M, Poroy C, Erseven C. Surgical outcomes of combined gonioscopy-assisted transluminal trabeculotomy and cataract surgery.
+Indian J Ophthalmol
+Apr
+2019;67(4):505–508. doi: 10.4103/ijo.IJO_1007_18 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Bozkurt E, Yenihayat F, Olgun A, Yazici AT, Sahbaz I. The efficacy of gonioscopy-assisted transluminal trabeculectomy combined with phacoemulsification.
+Int Ophthalmol
+Jan
+2021;41(1):35–43. doi: 10.1007/s10792-020-01550-x [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Al Habash A, Alrushoud M, Al Abdulsalam O, Al Somali AI, Aljindan M, Al Ahmadi AS. Combined Gonioscopy-Assisted Transluminal Trabeculotomy (GATT) with Ab Interno Canaloplasty (ABiC) in Conjunction with Phacoemulsification: 12-Month Outcomes.
+Clin Ophthalmol
+08/25/2020
+2020;14:2491–2496. doi: 10.2147/OPTH.S267303 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Nesterov AP, Cairns JE. Pathological Physiology of Primary Open Angle Glaucoma: the Aqueous Circulation. . Grune and Stratton; 1986:335–336:chap 17. 
+ 
+ 
+ 77. Dvorak-Theobald G
+Schlemm’s Canal: Its Anastomoses and Anatomic Relations.
+Trans Am Ophthalmol Soc
+1934
+1934;32:574–95. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Fontana L, De Maria M, Iannetta D, Moramarco A. Gonioscopy-assisted transluminal trabeculotomy for chronic angle-closure glaucoma: preliminary results.
+Graefes Arch Clin Exp Ophthalmol
+Feb
+2022;260(2):545–551. doi: 10.1007/s00417-021-05400-z [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Chira-Adisai T, Mori K, Kobayashi A, et al. 
+Outcomes of combined gonioscopy-assisted transluminal trabeculotomy and goniosynechialysis in primary angle closure: a retrospective case series.
+Int Ophthalmol
+Apr
+2021;41(4):1223–1231. doi: 10.1007/s10792-020-01676-y [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Aktas Z, Ozmen MC, Ozdemir Zeydanli E, Oral M, Eskalen O. Efficacy and Safety of Gonioscopy-Assisted Transluminal Trabeculotomy for Primary Congenital Glaucoma.
+J Glaucoma
+Jun
+1
+2023;32(6):497–500. doi: 10.1097/IJG.0000000000002192 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Sachdev A, Khalili A, Choi J, Stead RE, Sung VCT. Gonioscopy-assisted Transluminal Trabeculotomy in Uveitic Glaucoma Secondary to Juvenile Idiopathic Arthritis.
+J Glaucoma
+Oct
+2020;29(10):e116–e119. doi: 10.1097/IJG.0000000000001641 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Boese EA, Shah M. Gonioscopy-assisted Transluminal Trabeculotomy (GATT) is An Effective Procedure for Steroid-induced Glaucoma.
+J Glaucoma
+Sep
+2019;28(9):803–807. doi: 10.1097/IJG.0000000000001317 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Sharkawi E, Lindegger DJ, Artes PH, et al. 
+Outcomes of gonioscopy-assisted transluminal trabeculotomy in pseudoexfoliative glaucoma: 24-month follow-up.
+Br J Ophthalmol
+Jul
+2021;105(7):977–982. doi: 10.1136/bjophthalmol-2020-315954 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Grover DS, Smith O, Fellman RL, et al. 
+Gonioscopy assisted transluminal trabeculotomy: an ab interno circumferential trabeculotomy for the treatment of primary congenital glaucoma and juvenile open angle glaucoma.
+Br J Ophthalmol
+Aug
+2015;99(8):1092–6. doi: 10.1136/bjophthalmol-2014-306269 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Wang Y, Wang H, Han Y, et al. 
+Outcomes of gonioscopy-assisted transluminal trabeculotomy in juvenile-onset primary open-angle glaucoma.
+Eye (Lond)
+Oct
+2021;35(10):2848–2854. doi: 10.1038/s41433-020-01320-0 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Yalinbas D, Dilekmen N, Hepsen IF. Comparison of Ab Externo and Ab Interno 360-degree Suture Trabeculotomy in Adult Open-angle Glaucoma.
+J Glaucoma
+Nov
+2020;29(11):1088–1094. doi: 10.1097/IJG.0000000000001627 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Qiao Y, Tan C, Chen X, Sun X, Chen J. Gonioscopy-assisted transluminal trabeculotomy versus goniotomy with Kahook dual blade in patients with uncontrolled juvenile open-angle glaucoma: a retrospective study.
+BMC Ophthalmol
+Nov
+16
+2021;21(1):395. doi: 10.1186/s12886-021-02159-z [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Hamze H, Mohite AA, Pandey P, Sung VCT, Masood I. Comparison of 1-year surgical outcomes of combined cataract surgery and gonioscopy-assisted transluminal trabeculotomy (GATT) versus cataract surgery and iStent Inject.
+Graefes Arch Clin Exp Ophthalmol
+Oct
+2021;259(10):3035–3044. doi: 10.1007/s00417-021-05133-z [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Sato T, Kawaji T. 12-month randomised trial of 360 degrees and 180 degrees Schlemm’s canal incisions in suture trabeculotomy ab interno for open-angle glaucoma.
+Br J Ophthalmol
+Aug
+2021;105(8):1094–1098. doi: 10.1136/bjophthalmol-2020-316624 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Faria BM, Daga FB, Reboucas-Santos V, et al. 
+Gonioscopy-assisted transluminal trabeculotomy (GATT) outcomes in eyes with open-angle glaucoma resistant to maximum treatment.
+Arq Bras Oftalmol
+Nov-Dec
+2021;84(6):587–593. doi: 10.5935/0004-2749.20210083 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. Davids AM, Pahlitzsch M, Boeker A, Winterhalter S, Maier-Wenzel AK, Klamann M. Ab interno canaloplasty (ABiC)-12-month results of a new minimally invasive glaucoma surgery (MIGS).
+Graefes Arch Clin Exp Ophthalmol
+Sep
+2019;257(9):1947–1953. doi: 10.1007/s00417-019-04366-3 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. Lewis RA, von Wolff K, Tetz M, et al. 
+Canaloplasty: circumferential viscodilation and tensioning of Schlemm’s canal using a flexible microcatheter for the treatment of open-angle glaucoma in adults: interim clinical study analysis.
+J Cataract Refract Surg
+Jul
+2007;33(7):1217–26. doi: 10.1016/j.jcrs.2007.03.051 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 93. iTrack ™ Advance - Canaloplasty Microcatheter with Advanced Delivery System (2023). 
+ 
+ 
+ 94. Streamline ® Surgical System (2021). 
+ 
+ 
+ 95. Food And Drug Administration. iPrime Viscodelivery System
+2022; 
+ 
+ 
+ 96. Gallardo MJ. 36-Month Effectiveness of Ab-Interno Canaloplasty Standalone versus Combined with Cataract Surgery for the Treatment of Open-Angle Glaucoma.
+Ophthalmol Glaucoma
+Sep-Oct
+2022;5(5):476–482. doi: 10.1016/j.ogla.2022.02.007 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 97. Williamson BK, Vold SD, Campbell A, et al. 
+Canaloplasty and Trabeculotomy with the OMNI System in Patients with Open-Angle Glaucoma: Two-Year Results from the ROMEO Study.
+Clin Ophthalmol
+04/06/2023
+2023;17:1057–1066. doi: 10.2147/OPTH.S407918 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 98. Lazcano-Gomez G, Garg SJ, Yeu E, Kahook MY. Interim Analysis of STREAMLINE((R)) Surgical System Clinical Outcomes in Eyes with Glaucoma.
+Clin Ophthalmol
+04/27/2022
+2022;16:1313–1320. doi: 10.2147/OPTH.S358871 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 99. Toneatto G, Zeppieri M, Papa V, et al. 
+360 degrees Ab-Interno Schlemm’s Canal Viscodilation with OMNI Viscosurgical Systems for Open-Angle Glaucoma-Midterm Results.
+J Clin Med
+Jan
+4
+2022;11(1)doi: 10.3390/jcm11010259 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 100. Brown RH, Tsegaw S, Dhamdhere K, Lynch MG. Viscodilation of Schlemm canal and trabeculotomy combined with cataract surgery for reducing intraocular pressure in open-angle glaucoma.
+J Cataract Refract Surg
+Apr
+2020;46(4):644–645. doi: 10.1097/j.jcrs.0000000000000107 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 101. Gallardo MJ, Pyfer MF, Vold SD, et al. 
+Canaloplasty and Trabeculotomy Combined with Phacoemulsification for Glaucoma: 12-Month Results of the GEMINI Study.
+Clin Ophthalmol
+04/21/2022
+2022;16:1225–1234. doi: 10.2147/OPTH.S362932 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 102. Rowson AC, Hogarty DT, Maher D, Liu L. Minimally Invasive Glaucoma Surgery: Safety of Individual Devices.
+J Clin Med
+Nov
+18
+2022;11(22)doi: 10.3390/jcm11226833 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 103. Lass JH, Benetz BA, He J, et al. 
+Corneal Endothelial Cell Loss and Morphometric Changes 5 Years after Phacoemulsification with or without CyPass Micro-Stent.
+Am J Ophthalmol
+Dec
+2019;208:211–218. doi: 10.1016/j.ajo.2019.07.016 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 104. Reiss G, Clifford B, Vold S, et al. 
+Safety and Effectiveness of CyPass Supraciliary Micro-Stent in Primary Open-Angle Glaucoma: 5-Year Results from the COMPASS XT Study.
+Am J Ophthalmol
+Dec
+2019;208:219–225. doi: 10.1016/j.ajo.2019.07.015 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 105. Junemann A
+Twelve-month Outcomes Following Ab Interno Implantation of Suprachoroidal Stent and Postoperative Administration of Travoprost to Treat Open Angle Glaucoma.
+presented at: 31st Congress of the European Society of Cataract and Refractive Surgeons; 2013; Amsterdam, NL. [ Google Scholar ] 
+ 
+ 106. Denis P, Hirneiss C, Durr GM, et al. 
+Two-year outcomes of the MINIject drainage system for uncontrolled glaucoma from the STAR-I first-in-human trial.
+Br J Ophthalmol
+Jan
+2022;106(1):65–70. doi: 10.1136/bjophthalmol-2020-316888 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 107. Uram M
+Endoscopic cyclophotocoagulation in glaucoma management.
+Curr Opin Ophthalmol
+Apr
+1995;6(2):19–29. doi: 10.1097/00055735-199504000-00005 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 108. Uram M
+Ophthalmic laser microendoscope ciliary process ablation in the management of neovascular glaucoma.
+Ophthalmology
+Dec
+1992;99(12):1823–8. doi: 10.1016/s0161-6420(92)31718-x [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 109. Toth M, Shah A, Hu K, Bunce C, Gazzard G. Endoscopic cyclophotocoagulation (ECP) for open angle glaucoma and primary angle closure.
+Cochrane Database Syst Rev
+Feb
+25
+2019;2(2):CD012741. doi: 10.1002/14651858.CD012741.pub2 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 110. Yap TE, Zollet P, Husein S, et al. 
+Endocyclophotocoagulation combined with phacoemulsification in surgically naive primary open-angle glaucoma: three-year results.
+Eye (Lond)
+Oct
+2022;36(10):1890–1895. doi: 10.1038/s41433-021-01734-4 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 111. Lindfield D, Ritchie RW, Griffiths MF. ‘Phaco-ECP’: combined endoscopic cyclophotocoagulation and cataract surgery to augment medical control of glaucoma.
+BMJ Open
+05/30/2012
+2012;2(3)doi: 10.1136/bmjopen-2011-000578 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 112. Yang SA, Ciociola EC, Mitchell W, et al. 
+Effectiveness of Microinvasive Glaucoma Surgery in the United States: Intelligent Research in Sight Registry Analysis 2013–2019.
+Ophthalmology
+Mar
+2023;130(3):242–255. doi: 10.1016/j.ophtha.2022.10.021 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 113. Deitz GA, Patnaik JL, Young CEC, et al. 
+Comparison of Outcomes of Phacoemulsification Combined with Endoscopic Cyclophotocoagulation, iStent, or Both in the Management of Open-Angle Glaucoma.
+Adv Ther
+Apr
+2023;40(4):1444–1455. doi: 10.1007/s12325-022-02409-6 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 114. Ferguson TJ, Swan R, Sudhagoni R, Berdahl JP. Microbypass stent implantation with cataract extraction and endocyclophotocoagulation versus microbypass stent with cataract extraction for glaucoma.
+J Cataract Refract Surg
+Mar
+2017;43(3):377–382. doi: 10.1016/j.jcrs.2016.12.020 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 115. Pantalon AD, Barata ADO, Georgopoulos M, Ratnarajan G. Outcomes of phacoemulsification combined with two iStent inject trabecular microbypass stents with or without endocyclophotocoagulation.
+Br J Ophthalmol
+Oct
+2020;104(10):1378–1383. doi: 10.1136/bjophthalmol-2019-315434 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 116. Seibold LK, SooHoo JR, Kahook MY. Endoscopic cyclophotocoagulation.
+Middle East Afr J Ophthalmol
+Jan-Mar
+2015;22(1):18–24. doi: 10.4103/0974-9233.148344 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 117. Do AT, Parikh H, Panarelli JF. Subconjunctival microinvasive glaucoma surgeries: an update on the Xen gel stent and the PreserFlo MicroShunt.
+Curr Opin Ophthalmol
+Mar
+2020;31(2):132–138. doi: 10.1097/ICU.0000000000000643 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 118. Olgun A, Aktas Z, Ucgul AY. XEN gel implant versus gonioscopy-assisted transluminal trabeculotomy for the treatment of open-angle glaucoma.
+Int Ophthalmol
+May
+2020;40(5):1085–1093. doi: 10.1007/s10792-019-01271-w [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 119. De Gregorio A, Pedrotti E, Russo L, Morselli S. Minimally invasive combined glaucoma and cataract surgery: clinical results of the smallest ab interno gel stent.
+Int Ophthalmol
+Jun
+2018;38(3):1129–1134. doi: 10.1007/s10792-017-0571-x [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 120. Reitsamer H, Sng C, Vera V, et al. 
+Two-year results of a multicenter study of the ab interno gelatin implant in medically uncontrolled primary open-angle glaucoma.
+Graefes Arch Clin Exp Ophthalmol
+May
+2019;257(5):983–996. doi: 10.1007/s00417-019-04251-z [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 121. Mansouri K, Guidotti J, Rao HL, et al. 
+Prospective Evaluation of Standalone XEN Gel Implant and Combined Phacoemulsification-XEN Gel Implant Surgery: 1-Year Results.
+J Glaucoma
+Feb
+2018;27(2):140–147. doi: 10.1097/IJG.0000000000000858 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 122. Sheybani A, Vera V, Grover DS, et al. 
+Gel Stent Versus Trabeculectomy: The Randomized, Multicenter, Gold-Standard Pathway Study (GPS) of Effectiveness and Safety at 12 Months.
+Am J Ophthalmol
+Mar
+25
+2023;252:306–325. doi: 10.1016/j.ajo.2023.03.026 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 123. Ucar F, Cetinkaya S. Xen implantation in patients with primary open-angle glaucoma: comparison of two different techniques.
+Int Ophthalmol
+Oct
+2020;40(10):2487–2494. doi: 10.1007/s10792-020-01427-z [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 124. Marcos-Parra MT, Salinas-Lopez JA, Mateos-Marcos C, Moreno-Castro L, Mendoza-Moreira AL, Perez-Santonja JJ. Long-Term Effectiveness of XEN 45 Gel-Stent in Open-Angle Glaucoma Patients.
+Clin Ophthalmol
+04/26/2023
+2023;17:1223–1232. doi: 10.2147/OPTH.S405821 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 125. Gabbay IE, Goldberg M, Allen F, et al. 
+Efficacy and safety data for the Ab interno XEN45 gel stent implant at 3 Years: A retrospective analysis.
+Eur J Ophthalmol
+May
+2
+2021:11206721211014381. doi: 10.1177/11206721211014381 [ DOI ] [ PubMed ] 
+ 
+ 126. Herranz-Heras JC, Alcalde-Blanco L, Canas-Zamarra I, Mencia-Gutierrez E, Ferro-Osuna M, Perez-Trigo S. Update on the perioperative management of antiplatelets and anticoagulants in ophthalmic surgery.
+Arch Soc Esp Oftalmol (Engl Ed)
+Aug
+2021;96(8):422–429. doi: 10.1016/j.oftale.2020.11.001 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 127. Shukla AG, Ramulu PY. Management of Anticoagulation and Antiplatelet Therapy in Glaucoma Surgery.
+J Glaucoma
+Sep
+2020;29(9):732–741. doi: 10.1097/IJG.0000000000001594 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 128. Ahmed IIK, Rhee DJ, Jones J, et al. 
+Three-Year Findings of the HORIZON Trial: A Schlemm Canal Microstent for Pressure Reduction in Primary Open-Angle Glaucoma and Cataract.
+Ophthalmology
+Jun
+2021;128(6):857–865. doi: 10.1016/j.ophtha.2020.11.004 [ DOI ] [ PubMed ] [ Google Scholar ]

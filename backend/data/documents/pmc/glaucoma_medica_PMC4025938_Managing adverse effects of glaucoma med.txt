@@ -1,0 +1,327 @@
+Source: PubMed Central (PMC)
+PMCID: PMC4025938
+Title: Managing adverse effects of glaucoma medications
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4025938/
+Year: 2014
+Disease: glaucoma_medication
+Priority: 3
+============================================================
+
+Clin Ophthalmol . 2014 May 12;8:903–913. doi: 10.2147/OPTH.S44708 
+ 
+ 
+ Managing adverse effects of glaucoma medications 
+ Kenji Inoue 
+ Kenji Inoue 
+ 
+ 1 Inouye Eye Hospital, Tokyo, Japan 
+ Find articles by Kenji Inoue 
+ 
+ 
+ 1, ✉ 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Inouye Eye Hospital, Tokyo, Japan 
+ 
+ ✉ Correspondence: Kenji Inoue, Inouye Eye Hospital, 4-3 Kanda-Surugadai, Chiyoda-ku Tokyo 101-0062, Japan, Tel +81 3 3295 0911, Fax +81 3 3295 0917, Email inoue-k@inouye-eye.or.jp 
+ 
+ 
+ Collection date 2014. 
+ 
+ © 2014 Inoue. This work is published by Dove Medical Press Limited, and licensed under Creative Commons Attribution – Non Commercial (unported, v3.0) License 
+ The full terms of the License are available at http://creativecommons.org/licenses/by-nc/3.0/ . Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC4025938  PMID: 24872675 
+ 
+ Abstract 
+ Glaucoma is a chronic, progressive disease in which retinal ganglion cells disappear and subsequent, gradual reductions in the visual field ensues. Glaucoma eye drops have hypotensive effects and like all other medications are associated with adverse effects. Adverse reactions may either result from the main agent or from preservatives used in the drug vehicle. The preservative benzalkonium chloride, is one such compound that causes frequent adverse reactions such as superficial punctate keratitis, corneal erosion, conjunctival allergy, and conjunctival injection. Adverse reactions related to main hypotensive agents have been divided into those affecting the eye and those affecting the entire body. In particular, β-blockers frequently cause systematic adverse reactions, including bradycardia, decrease in blood pressure, irregular pulse and asthma attacks. Prostaglandin analogs have distinctive local adverse reactions, including eyelash bristling/lengthening, eyelid pigmentation, iris pigmentation, and upper eyelid deepening. No systemic adverse reactions have been linked to prostaglandin analog eye drop usage. These adverse reactions may be minimized when they are detected early and prevented by reducing the number of different eye drops used (via fixed combination eye drops), reducing the number of times eye drops are administered, using benzalkonium chloride-free eye drops, using lower concentration eye drops, and providing proper drop instillation training. Additionally, a one-time topical medication can be given to patients to allow observation of any adverse reactions, thereafter the preparation of a topical medication with the fewest known adverse reactions can be prescribed. This does require precise patient monitoring and inquiries about patient symptoms following medication use. 
+ Keywords: glaucoma eye drops, adverse reactions, preservatives, main agent Introduction 
+ Glaucoma is the second leading cause of vision loss worldwide after cataracts. 1 , 2 In industrialized countries, cataract surgeries are conducted promptly and cataract-related vision loss is rare. In Japan, glaucoma is the primary cause of visual acuity loss, 3 while in the United States, age-related macular degeneration is the primary cause of visual acuity loss. 4 In Japan, glaucoma occurs in 5% of people 40 years or older and increases in prevalence with age. Therefore, the number of patients with glaucoma is expected to increase in the future as the Japanese population ages. 5 
+ Glaucoma is a chronic, progressive disease in which retinal ganglion cells degenerate, and subsequent, gradual reductions in the visual field ensues. The ultimate objective of glaucoma treatments is to preserve the remaining visual field (ie, to stop visual field defect progression). Intraocular pressure (IOP) reduction is the only proven treatment to prevent visual field defect progression. 6 , 7 Eye drops, oral medications, laser therapy, and surgery have all been used to decrease IOP in glaucoma patients. Among these therapies, topical treatments are the first choice because they have the highest efficacy and the lowest incidence of adverse reactions. When using eye drop therapies, it is important that IOP reductions last for 24 hours and are preserved in the long-term. 8 – 10 Different therapies have different IOP-lowering capabilities and associated adverse reactions. In some cases, multi-drug regimens are administered with no adverse reactions. Other times, glaucoma mono-therapies induce them. Therefore, evaluation of adverse reactions can be difficult. Eye drops 
+ There are currently several types of IOP-lowering eye drops used to treat glaucoma. These include parasympathomimetic drugs, sympathomimetic drugs, β-blockers, carbonic anhydrase inhibitors, prostaglandin analogs, α1-blockers, and α2-adrenergic agonists. These agents are often combined to form fixed-combination eye drops ( Figure 1 ). Three such fixed-combination prostaglandin analog/β-blocker formulations are currently available and include latanoprost plus timolol (Xalacom ® ; Pfizer, New York, NY, USA), travoprost plus timolol (DuoTrav ® ; Alcon Laboratories, Inc., Fort Worth, TX, USA), and bimatoprost plus timolol (Ganfort ® ; Allergan, Irvine, CA, USA). In Japan, tafluprost plus timolol fixed-combination eye drops (TAPCOM ® ; Santen Pharmaceuticals Co., Osaka, Japan) were approved by the Minister of Health, Labor and Welfare in October 2013 and will be available in the Spring of 2014. In addition, two other combinations of carbonic anhydrase inhibitors and β-blockers (dorzolamide plus timolol [Cosopt ® ; Merck & Co., Whitehouse Station, NJ, USA] and brinzolamide plus timolol [Azarga ® ; Alcon Laboratories, Inc.]), and a combination of an α2-adrenergic agonist and β-blocker (brimonidine plus timolol [Combigan ® ; Allergan]) are available in the market. Finally, a combination of a carbonic anhydrase inhibitor and an α2-adrenergic agonist (brinzolamide plus brimonidine) was approved by the United States Food and Drug Administration recently, in April 2013. 
+ Figure 1. 
+ 
+ Open in a new tab 
+ Combinations of glaucoma medications. Adverse reactions to glaucoma eye drops 
+ Eye drops contain main therapeutic agents, along with various additives. Additive compounds may facilitate preparation, stabilize the solution/suspension, and/or increase product safety. Common additives include solubilizing agents, thickening agents, isotonizing agents, preservative agents, buffering agents, and stabilizing agents. Adverse reactions to eye drops may result from the main active agent or the additive agents, particularly preservatives. These adverse reactions are summarized to follow. Adverse reactions to glaucoma eye drops containing preservatives 
+ A preservative is an additive agent that extends the shelf-life of a drug. Preservatives may have bacteriostatic or sterilizing properties and often accentuate product transparency. Most preservatives also act as surfactants which destabilize bacterial cell membranes. This causes destruction of the cell membrane, inhibition of cell growth, and reduction of cell adhesiveness. However, preservatives also exert these effects on normal corneal and conjunctive cells, resulting in ocular surface disorders. These include superficial punctate keratitis, corneal erosion, conjunctival allergy, conjunctival injection, and anterior chamber inflammation. 11 – 13 Patients using anti-glaucoma eye drops usually have lower Schirmer’s test scores and reduced tear break-up times that may be the cause of ocular surface disorders. Systemic adverse reactions associated with anti-glaucoma eye drops have not been reported. 
+ Many glaucoma medications use benzalkonium chloride as a preservative ( Table 1 ). Other agents include parabens, chlorobutanol, sodium chlorite, and a boric acid plus D-sorbitol plus zinc chloride fixed combination (SofZia ® ; Alcon Laboratories, Inc.), preservative. Among these, benzalkonium chloride is most frequently associated with adverse reactions. Additionally, benzalkonium chloride has been reported to be involved in the appearance of macular edema after cataract surgery. 14 
+ Table 1. 
+ Preservatives contained in glaucoma medications 
+ 
+ 
+ Preservatives 
+ Glaucoma medications 
+ 
+ 
+ 
+ Benzalkonium chloride 
+ Latanoprost, tafluprost, bimatoprost, isopropyl unoprostone, betaxolol, brinzolamide, dorzolamide, carteolol, timolol, bunazosin, levobunolol, nipradilol, brinzolamide/timolol fixed combination, latanoprost/timolol fixed combination, dorzolamide/timolol fixed combination, brimonidine/timolol fixed combination 
+ 
+ 
+ Chlorobutanol benzalkonium chloride 
+ Dipivefrine 
+ 
+ 
+ Sodium chlorite 
+ Brimonidine 
+ 
+ 
+ Boric acid + D-sorbitol + zinc chloride (SofZia ® ) 
+ Travoprost 
+ 
+ 
+ Polidronium chloride 
+ Travoprost/timolol fixed combination 
+ 
+ 
+ Chlorobutanol 
+ Pilocarpine 
+ 
+ 
+ 
+ Open in a new tab 
+ Notes: SofZia ® ; Alcon Laboratories, Inc., Fort Worth, TX, USA. Adverse reactions to main agents in glaucoma eye drops 
+ Adverse reactions are divided into those affecting only the eye and those causing systemic reactions ( Table 2 ). Adverse reactions associated with each type of eye drop are detailed to follow. 
+ Table 2. 
+ Local and systemic adverse events associated with glaucoma medications 
+ 
+ 
+ Glaucoma medication 
+ Local part of the eye 
+ Systemic adverse events 
+ 
+ 
+ 
+ Parasympathomimetic drugs 
+ + 
+ ++ 
+ 
+ 
+ Sympathomimetic drugs 
+ + 
+ + 
+ 
+ 
+ Beta-blockers 
+ + 
+ ++ 
+ 
+ 
+ Carbonate dehydrate inhibitors 
+ + 
+ − 
+ 
+ 
+ Prostaglandin analogs 
+ ++ 
+ − 
+ 
+ 
+ Alpha-1 blockers 
+ + 
+ − 
+ 
+ 
+ Alpha-2 adrenergic agonists 
+ + 
+ + 
+ 
+ 
+ 
+ Open in a new tab 
+ Notes: ++ innumerable; + many; − few. β-blockers 
+ The β-blocker eye drops sometimes contain both α1-blockers and β-blockers, which reduce IOP through different mechanisms. The β-blockers control aqueous humor and α1-blockers accelerate uveoscleral outflow. The β-blockers currently available are timolol, carteolol, betaxolol and metipranolol. The only available α1-blocker plus β-blocker combination eye drops are nipradilol and levobunolol. 
+ Ocular adverse reactions 
+ Ocular adverse reactions to β-blockers include conjunctival allergies, conjunctival injection, corneal epithelium disorders, blepharitis, and ocular pemphigoid. Additionally, corneal sensitivity may be reduced because of the local anesthetic effect (membrane-stabilizing effect) of betaxolol. The subsequent reduction in reflective tearing may lead to corneal epithelium disorders. Carteolol has intrinsic sympathomimetic activity so administration of this drug does not lead to a reduced corneal sensitivity. Therefore, carteolol administration was associated with fewer cases of corneal epithelium disorders than timolol. 15 Systemic side effects 
+ One major limitation of β-blockers is that they frequently cause systemic side effects. These drugs target β1- and β2-receptors so both cardiac contractility and heart rate may be reduced. These drugs also cause relaxation of the bronchial, urinary, and vascular smooth muscles, resulting in other adverse reactions throughout the body. Adverse reactions of the circulatory system are caused by β1-blockers and included bradycardia, blood pressure decreases, and an irregular pulse. Adverse effects of the respiratory system are caused by β2-blockers and include worsening of asthma attacks and chronic obstructive pulmonary disease. Patients may also experience symptoms in the central nervous system, including headaches, depression, anxiety, confusion, dysarthria, hallucinations, somnolence tendencies, and lethargy. Vasodilatation occurs with carteolol, which has intrinsic sympathomimetic activity, so adverse reactions mentioned above do not often appear after carteolol administration. 16 Nipradilol is a β-blocker and an α1-blocker, but has few systemic side effects because the β-blocker is weak. 17 Betaxolol is a selective β1-blocker with few adverse reactions because it is the β2-blockers that affect the respiratory system. 18 Prostaglandin analogs 
+ Prostaglandins lower IOP by accelerating uveoscleral outflow. Prostaglandin analogs that are currently available include latanoprost, travoprost, bimatoprost, and tafluprost. They are often the first drug therapy used because they have been widely successful in decreasing IOP, rarely cause systemic side effects, and only need to be administered once a day. Isopropyl unoprostone is a prostaglandin analog that reduces IOP via a different mechanism and when compared to other prostaglandin analogs has a lower IOP-lowering effect with a lower incidence of adverse reactions. 
+ Ocular adverse reactions 
+ Conjunctival allergy, conjunctival hyperemia, corneal epithelial disorders, and blepharitis are characteristic adverse reactions associated with prostaglandin analogs. Patients receiving these drugs might have eyelash bristling/lengthening ( Figure 2 ), 19 vellus hair, eyelid pigmentation ( Figure 3 ), 19 iris pigmentation ( Figure 4 ), 20 and deepening of the upper eyelid sulcus (DUES; Figure 5 ). 21 
+ Figure 2. 
+ 
+ Open in a new tab 
+ Eyelash lengthening/bristling with bimatoprost administration. 
+ Note: Reprinted from Inoue K, Shiokawa M, Higa R, et al. Adverse periocular reactions to five types of prostaglandin analogs. Eye . 2012;26(11):1465–1472. 19 Figure 3. 
+ 
+ Open in a new tab 
+ Eyelid pigmentation following bimatoprost administration. 
+ Note: Reprinted from Inoue K, Shiokawa M, Higa R, et al. Adverse periocular reactions to five types of prostaglandin analogs. Eye . 2012;26(11):1465–1472. 19 Figure 4. 
+ 
+ Open in a new tab 
+ Iris pigmentation before and 6 months after latanoprost therapy. 
+ Note: Reprinted with permission from Inoue K, Wakakura M, Inoue J, et al. [Adverse reaction after use of latanoprost in Japanese glaucoma patients]. Nihon Ganka Gakkai Zasshi . 2006;110(8):581–587. 20 Copyright © 2006 Japanese Ophthalmological Society. Figure 5. 
+ 
+ Open in a new tab 
+ Deepening of the upper eyelid sulcus in a patient treated with travoprost in the left eye. In the initial stages of treatment with prostaglandin analogs, patients sometimes have intense conjunctival hyperemia, but this gradually decreases over time. A meta-analyses in several systematic reviews 22 has shown that conjunctival hyperemia occurred significantly less often with latanoprost than with travoprost (odds ratio =0.512) or with bimatoprost (odds ratio =0.32). 22 In other meta-analyses based systematic reviews on patient-reported data, conjunctival hyperemia was more likely to occur with bimatoprost than with latanoprost (relative risk =1.70), or travoprost (relative risk =1.19). 23 Moreover, latanoprost use was 1.45 times more likely to induce conjunctival hyperemia than travoprost. In contrast, other systematic reviews have shown that conjunctival hyperemia was more likely to occur with travoprost (relative risk =5.71) or bimatoprost (relative risk =1.59 times) use than with latanoprost use. However, it was less likely to occur with travoprost (relative risk =0.82 times) than with bimatoprost. 24 
+ Conjunctival hyperemia was evaluated and graded in eyes in which latanoprost was currently being used. Medication regimens were left unchanged or patients were switched from latanoprost to bimatoprost or travoprost. 25 Twelve weeks later, there were no differences in conjunctival hyperemia change score for any of the three eye drop types examined. Corneal epithelium disorders were also graded and evaluated at the time of medication switch/continuation and no significant differences between the three eye drops were observed. 19 The reported incidence of conjunctival hyperemia differs between various prostaglandin analogs, occurring more often with bimatoprost use than with other prostaglandin analogs. 
+ The incidence of eyelash lengthening/bristling may also differ between various prostaglandin analogs. Eyelash length and number were evaluated using photographs and by measuring actual eyelash length. According to the study, in which only one eye was administered a prostaglandin analog, eyelash lengthening/number increase occurred 54%, 46%, 26%, and 46% more often in the eye treated with bimatoprost, travoprost, latanoprost, and tafluprost, respectively. Differences between individual drugs were not significant ( Figure 2 ). 19 In another study, eyelash changes in the lower lids were measured after administration of latanoprost only in one eye. Eyelash length was 6.95±0.91 mm in the treated eye and 5.83±0.76 mm in the untreated eye, a difference that was statistically significant. 26 Gel suspensions with and without bimatoprost were also applied to each upper eyelid. 27 After 6 weeks of daily application, the length of the longest eyelash was compared to that measured at baseline. The eyelashes in the bimatoprost group grew 2.0±1.5 mm, significantly more than those in the bimatoprost-free (control) group, which only grew 1.1±1.1 mm. 
+ Furthermore, four types of prostaglandin analogs were administered to rabbits for 1 month. 28 In the bimatoprost and tafluprost groups, eyelashes grew significantly longer, but in the travoprost and latanoprost groups, eyelash length did not significantly change. Eyelash length and increase in length was especially remarkable in the bimatoprost group. Therefore, bimatoprost had been used for cosmetic reasons as an eyelash enhancer. 29 Eyelashes did grow longer, but eyelid skin hyper pigmentation was a problem in some cases. 
+ All prostaglandins seem to have similar effects on eyelid pigmentation. In our study, where one eye was administered a drug and compared to the untreated eye, eyelid pigmentation changes occurred in 6%, 4%, 6%, and 4% of subjects using bimatoprost, travoprost, latanoprost, and tafluprost respectively. Differences between the different agents were not significantly different ( Figure 3 ). 19 It is known that eyelid pigmentation changes caused by latanoprost resulted from markedly increased melanin levels. An increase in tyrosinase activity was thought to cause these changes because tyrosinase was involved in this melanin increase, which occurred at the RNA level. 
+ Iris pigmentation often occurs in Europeans and Americans, in whom iris pigments are green-brown, yellow-brown, blue-brown, and/or of mixed color. 30 However, irises of Japanese people are a single brown color and changes in iris pigmentation do not generally occur in Japanese patients. We investigated the frequency of iris pigmentation changes in Japanese primary open-angle glaucoma and ocular hypertension patients. 20 The anterior portion of the eye was evaluated before and after 6 months of prostaglandin analog use. Iris pigment changes occurred in 31.7% of latanoprost patients ( Figure 4 ), 37.9% of travoprost patients, 34.5% of tafluprost patients, and 50.0% of bimatoprost patients. After 2 years of latanoprost use Watson et al 31 note that iris pigmentation was observed in 18.8% of the patients. No reports of iris neoplastic changes or pigment dispersion had been made that the drug was safe to use at systemic level. 
+ The occurrence of DUES with prostaglandin analog use was first reported with bimatoprost use in 2004. 32 The DUES incidence differs among the various prostaglandin analogs. Prostaglandin F2alpha (PGF2α) can inhibit fat production. 33 Therefore, it was thought that prostaglandin analogs reduced orbital adipose tissue mass, resulting in DUES. In our study, in which one eye was administered a prostaglandin analog and one eye was left untreated, photographs of the face were taken and DUES was evaluated using a score. 21 The condition occurred in 60%, 50%, 24%, and 18% of patients using bimatoprost, travoprost, latanoprost, and tafluprost, respectively ( Figure 5 ). 21 The condition was noted significantly more often in patients using bimatoprost and travoprost than in patients using latanoprost and tafluprost. The score risk ratio increased 3.67 times with bimatoprost, 3.34 times with travoprost and 1.42 times with latanoprost. 34 Additionally, the risk ratio significantly increased with bimatoprost and travoprost use. Interestingly, some individuals preferred the appearance of deeper eyes, so the evaluations between patients dispersed. 
+ In anamnestic cases involving corneal epithelium herpes, herpes was reported to recur and deteriorate with latanoprost administration. 35 Therefore, caution should be used when prescribing prostaglandin analogs in these patients. Macular edema has also been reported after latanoprost administration following cataract surgery. 36 In these cases, the blood–aqueous barrier broke down during cataract surgery. 36 There is currently no need to routinely discontinue prostaglandin analog use after cataract surgery, but discontinuation should be considered in eyes within intraoperative blood–aqueous barrier breaks. Systemic adverse reactions 
+ No systemic adverse reactions were reported with prostaglandin analog use in the papers reviewed. Carbonic anhydrase inhibitors 
+ Carbonic anhydrase inhibitors reduce IOP by inhibiting the ciliary epithelium and controlling aqueous formation. Acetazolamide, an internal carbonic anhydrase inhibitor, has been used to date, but is associated with a high incidence of adverse reactions, including dysesthesia of the fingers and around the lips, frequent urination, lassitude, anorexia, weight reduction, urolithiasis (kidney stones), metabolic acidosis, and hematopoietic cell restraint anemia. 37 Since systemic adverse reactions were strong, the development of an ocular topical formulation is expected. Dorzolamide and brinzolamide eye drops have already been developed. 
+ Ocular adverse reactions 
+ Ocular adverse reactions associated with carbonic anhydrase inhibitors include conjunctival allergy, conjunctival hyperemia, corneal epithelial disorders, blepharitis, Stevens–Johnson syndrome, and toxic epidermal necrosis. 38 Dorzolamide is viscous and has a fairly acidic pH (pH =5.5–5.9), which generally causes ocular irritation. 38 Because intraocular transitivity is slightly poor, foreign body sensation and blurred vision often occur in patients receiving brinzolamide. 39 More over, carbonic anhydrase naturally exists in the corneal endothelium, and caution is needed in patients with corneal endothelial disorders. 40 Systemic adverse reactions 
+ No systemic adverse reactions were associated with topical carbonic anhydrase inhibitor use, in the papers reviewed. Parasympathomimetic drugs 
+ When parasympathetic nerves are stimulated, the ciliary muscles constrict. The scleral spurs are subsequently pulled backwards to open up the trabecular meshwork, the resistance to aqueous outflow is reduced, and IOP was decreased. In eyes with closed-angle glaucoma, parasympathomimetic drugs caused constriction of the sphincter pupillae, iris flattening and iris clearance from the trabecular meshwork. This opens the angle and decreases IOP. 
+ One currently available parasympathomimetic drug is pilocarpine. Unfortunately, frequent administration (4 times a day) is required and patients using this medication often have adverse reactions. Therefore, it is used sparingly and generally when no other alternative exists. 
+ Ocular adverse reactions 
+ Ocular adverse reactions associated with parasympathomimetic drugs included miosis-caused aphose, visual field constriction, and night vision loss. 41 Near sightedness could also occur because of stress on ciliary muscles and patients may be conscious of haze. Ocular pemphigoid, cataract, and retinal detachment may also occur. Systemic adverse reactions 
+ Increases in parasympathetic nervous system activity of the internal organs may result in higher secretory gland activity and cause stress on smooth muscles. 41 As a result, drooling, sweating, diarrhea, nausea/vomiting, stomachache, asthma, bradycardia, hallucinations and depression may occur with parasympathomimetic medication use. Sympathetic α1-receptor antagonists 
+ Sympathetic α1-receptor antagonists decreased IOP by blocking ciliary muscles from shrinking, which increased uveoscleral outflow. 42 The IOP-lowering effect of these drugs was weak compared to β-blockers, but there were fewer associated adverse reactions. Bunazosin and thymoxamine are currently available sympathetic α1-receptor antagonists. 
+ Ocular adverse reactions 
+ Ocular adverse reactions to sympathetic α1-receptor antagonists included conjunctival hyperemia, foreign body sensation, and blepharitis. 43 Systemic adverse reactions 
+ Systemic adverse reactions to sympathetic α1-receptor antagonists included headaches and a throbbing sensation, both of which were mild. 43 Sympathomimetic drugs 
+ Sympathetic nerve α-receptors reduced IOP by stimulating α-receptors a few minutes after administration. This caused ciliary blood vessel contraction and aqueous humor production subsequently accelerated because of effects on trabecular glycosaminoglycan metabolism. In addition to decreasing IOP, these drugs reduced internal cameral flare and controlled inflammation. The only sympathomimetic drug currently available is dipivefrine. 
+ Ocular adverse reactions 
+ Ocular adverse reactions to sympathomimetic drugs included hotness, irritation, conjunctival injection and pupil dilation. Ocular pemphigoid had also been observed in some patients 44 and epinephrine maculopathy could occur in aphakic patients. 45 Systemic adverse reactions 
+ Sympathomimetic drugs might affect the cardiac system and adverse reactions included increases in systemic blood pressure, tachycardia and irregular pulse. 46 The respiratory system was also affected; and coughing, difficulty breathing and bronchitis may occur. Adverse reactions related to the neuropsychiatric system include sleeplessness, depression, nervousness, and trembling. Finally, digestive system reactions included gastrointestinal disorders, taste disorders, and nausea. Sympathetic α2-receptor antagonists 
+ Sympathetic α2-receptor antagonists reduced IOP by controlling aqueous formation and increasing uveoscleral outflow. 47 Sympathetic α2-receptor antagonists currently available included brimonidine and apraclonidine. Ocular adverse reactions 
+ Ocular adverse reactions associated with long-term sympathetic α2-receptor antagonist use included hyperemia conjunctivae, anemia conjunctiva, pupil dilation, and allergic conjunctivitis. 48 Systemic adverse reactions 
+ Systemic adverse reactions associated with long-term sympathetic α2-receptor antagonist use included decreases in blood pressure and pulse, drowsiness, dizziness, and dry mouth. 49 Fixed-combination eye drops 
+ Adverse reactions to the two main agents included in fixed-combination eye drops include those administered when each agent is administered alone. However, because fixed-combination medications were usually administered at lower frequencies, eye surface disorders caused by preservatives often occur in lower incidences. A meta-analysis on the association between fixed-combination eye drop use and hyperemia conjunctiva showed that patients using bimatoprost plus timolol, and travoprost plus timolol fixed-combination eye drops were 1.16 to 2.00 times, and 5.99 times more likely to develop the condition than patients using latanoprost plus timolol fixed-combination eye drops, respectively. 50 Decreasing adverse reactions to glaucoma eye drops 
+ Educating patients on possible adverse reactions 
+ Educating patients on the various adverse reactions associated with anti-glaucoma eye drops will not decrease adverse event incidence. However, if patients recognize that a minor adverse event does not necessarily mean they should discontinue medication use, patient compliance will improve. In particular, patients often make the decision to discontinue anti-glaucoma eye drops when hyperemia conjunctiva, corneal epithelium disorders, or blurred vision occur. Therefore, before administering these medications, care providers should explain that these adverse reactions do not necessarily outweigh the IOP-lowering benefits of the medication. 
+ Lowering medication doses 
+ If adverse reactions appear with anti-glaucoma eye drops, they should be discontinued. If adverse reactions do not improve over time, causing eye drop use difficulties, then internal medication, laser therapy, and/or surgery should be considered. On the other hand, adverse reactions may not be caused by the main agent or the preservative in the drug formulation. Either way, the risk of adverse effects increases as the number of eye drops administered per dose and per day increases. When prescribing eye drops, the lowest possible dose and least frequent dosing schedule should be considered. Educating patients on proper medication administration 
+ It is important to determine and educate patients on proper medication administration procedures. If patients self-administer too many eye drops in too short a time period, adverse event likelihood and severity increase, but additional therapeutic effects are not gained. If eye drops spill during administration, the risks of blepharitis and eyelid pigmentation increase. Therefore, correct eye drop placement techniques are essential and patients running out of medication between prescriptions should be re-educated and warned about overuse of eye drops. It may be helpful to watch patients administer eye drops during a clinic visit to confirm that their medication administration technique is correct. Fixed-combination eye drop use 
+ Regimens involving fixed-combination eye drops should minimize the number of eye drops used. However, fixed-combination eye drops, when used alone or in conjunction with other single treatment eye drops, expose the eye to more than one compound. Therefore, when adverse reactions appear, individual compounds should be tested to determine which one the patient is sensitive to. This should be done with the patient under close observation because the IOP-lowering effects of combination therapy may be compromised. 51 If combination therapy is required to adequately control IOP, than multiple medications should be used with other strategies to prevent adverse reactions. Preventing preservative-induced reactions on the surface of the eye 
+ There are many compounds which cause preservative-induced superficial punctate keratitis but benzalkonium chloride is often the cause. 52 Thereafter, when this condition develops, switching the patient to eye drops with preservatives other than benzalkonium chloride, or eye drops without preservatives (unit dose instillation containers or membrane filter-incorporated eye drop bottles) is often beneficial. 11 – 13 In cases where latanoprost formulations with benzalkonium chloride were changed to latanoprost formulations without preservatives, IOP remained stable and 42.9% of patients had improvements in corneal epithelium disorders. 53 Additionally, for eye disorder incidence with benzalkonium chloride concentration-dependence, simply reducing benzalkonium chloride exposure was often sufficient to result in ocular surface improvements. This could be accomplished by simply minimizing the number of drops patients used each day, often by switching multiple therapy patients to fixed-combination eye drops. Additionally, benzalkonium chloride-containing eye drops were recommended for diabetic patients, who often had fragile corneas. Lastly, it should be noted that corneal epithelium disorders tend to appear more often in patients with dry eye disease or in those who use contact lenses. Preventing therapeutic agent-related adverse reactions 
+ Ocular adverse reactions 
+ Administration of a single drop of a medication 
+ In patients using parasympathomimetic agents (eg, pilocarpine), aphose can result from miosis. 41 In patients using sympathomimetic agents (eg, dipivefrine), dilated pupils resulted in photophobia and blurred vision. Therefore, a test drop was generally administered in the clinic and the patient was observed for adverse reactions before prescribing these medications for at-home use. Conjunctival hyperemia and allergy generally do not appear in the short-term, so the single drop test is generally insufficient for detecting these conditions. Trying medications in one eye first 
+ Trying medications in one eye first was recommended to evaluate the IOP-lowering effect of a glaucoma medication on a specific patient. It was also useful to evaluate whether or not the patient experienced adverse reactions without affecting both eyes. This was especially important for determining whether patients are at risk of developing corneal epithelium disorders or conjunctival hyperemia. Low-concentration eye drops 
+ Both IOP-lowering effects and adverse reaction incidence are dependent upon drug concentration. Therefore, to reduce the risk of adverse reactions (both local and systemic) from a particular drug formulation, lower concentration eye drops should initially be used. In Japan, timolol is currently available in 0.25% and 0.5% solutions; carteolol is available in 1% and 2%, solutions; dipivefrine is available in 0.04% and 1% solutions; dorzolamide is available in 0.5% and 1% solutions; and pilocarpine is available in 0.5%, 1%, 2%, and 4% solutions. Patient education on eye drop instillation 
+ Increases in eyelid pigmentation from prostaglandin analog use occurs when eye drops spill out of the conjunctival sac and onto the eyelid, where they are absorbed. Therefore, it is recommended that these drops be instilled after face washing and before bathing. Following drop placement, some patients wipe spilled eye drops off with a tissue, but this generally spreads the medication to the lower eyelid, which exacerbates eyelid pigmentation changes. Thus, it is better to instruct patients to wash off excess medication. Eye drop characteristics 
+ In patients using β-blockers, the incidence of corneal epithelium disorders differs with different medications. By switching from one β-blocker to the other, it is often possible to improve adverse reactions and maintain IOP control. 
+ In patients using prostaglandin analogs, the incidence and severity of conjunctival hyperemia differs among the different medications. In a meta-analysis, 22 conjunctival hyperemia incidence with latanoprost use was low. Therefore, physicians may want to consider prescribing latanoprost first or switching patients with conjunctival hyperemia to latanoprost. The incidence of DUES also differs among use of the different prostaglandin analogs. Bimatoprost was highly associated with DUES and when bimatoprost patients with DUES switched to latanoprost, the condition improved or resolved in 85% of patients. 54 Tafluprost can also be considered. For patients who only use a prostaglandin analog in one eye, eyelid pigment changes and/or DUES can be particularly bothersome. These conditions in only one eye cause an asymmetrical facial appearance, and for that reason, administration in only one eye should be avoided. Ocular medication contraindications in certain diseases 
+ The use of β-blockers is contraindicated in patients with asthma, bronchospasms, chronic obstructive lung disease, heart failure, sinus bradycardia, atrioventricular block, and cardiogenic shock. Respiratory function asymptomatically decreases in patients with undiagnosed chronic obstructive pulmonary disease, particularly in the elderly. Consequently, for elderly patients, it is safer to prescribe other types of anti-glaucoma eye drops that are associated with fewer systemic adverse reactions. Serious nephropathy is a contraindication of carbonic anhydrase inhibitors. In cases where it is difficult to determine whether or not a particular type of eye drop is safe to use, the patient’s general physician should be consulted. Patient education on eye drop instillation 
+ Systemic adverse reactions occur because of systemic exposure to a topical ocular medication. Therefore, it is possible to decrease systemic adverse events by minimizing the amount of drug that gets into the bloodstream. Instructing the patient to close their eyes and to gently press on the lacrimal duct for 5 minutes after drop instillation is recommended. It has been reported that timolol maleate blood levels decreased by 65% and 67% when the eyelid was closed for 5 minutes and when the lacrimal passage was pressed, respectively. 55 Conclusion 
+ As with any medication, glaucoma eye drop therapy would ideally maximize IOP-lowering efficacy and minimize adverse reactions. Due to adverse reactions, some patients’ medication compliance may decrease because of bothersome cosmetic adverse reactions (eg, conjunctival hyperemia, eyelid pigmentation, DUES); some patients may choose to discontinue glaucoma medications on their own. Therefore, adverse reactions should be thoroughly explained to patients before beginning a new glaucoma eye drop and their presence should be checked at every clinic evaluation. As each patient responds differently to eye drops, each patient’s general and ocular condition should be considered before beginning a new therapy. Footnotes 
+ 
+ Disclosure 
+ The author has no conflicts of interest to disclose in this work. 
+ References 
+ 
+ 
+ 1. Quigley HA, Broman AT. The number of people with glaucoma worldwide in 2010 and 2020. Br J Ophthalmol. 2006;90(3):262–267. doi: 10.1136/bjo.2005.081224. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Resnikoff S, Keys TU. Future trends in global blindness. Indian J Ophthalmol. 2012;60(5):387–395. doi: 10.4103/0301-4738.100532. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Yamada M, Hiratsuka Y, Roberts CB, et al. 2010, Prevalence of visual impairment in adult Japanese population by cause and severity and future projections. Ophthalmic Epidemiol. 2010;17(1):50–57. doi: 10.3109/09286580903450346. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Klein R, Wang Q, Klein BE, Moss SE, Meuer SM. The relationship of age-related maculapathy, cataract, and glaucoma to visual acuity. Invest Ophthalmol Vis Sci. 1995;36(1):182–191. [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Iwase A, Suzuki Y, Araie M, et al. The prevalence of primary open-angle glaucoma in Japanese: the Tajimi Study. Ophthalmology. 2004;111(9):1641–1648. doi: 10.1016/j.ophtha.2004.03.029. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Collaborative Normal-Tension Glaucoma Study-Group The effectiveness of intraocular pressure reduction in the treatment of normal-tension glaucoma. Am J Ophthalmol. 1998;126(4):498–505. doi: 10.1016/s0002-9394(98)00272-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. The AGIS Investigators The Advanced glaucoma Intervention Study (AGIS): 7. The relationship between control of intraocular pressure and visual field deterioration. Am J Ophthalmol. 2008;130(4):429–440. doi: 10.1016/s0002-9394(00)00538-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Quaranta L, Katsanos A, Russo A, Riva I. 24-hour intraocular pressure and ocular perfusion pressure in glaucoma. Surv Ophthalmol. 2013;58(1):26–41. doi: 10.1016/j.survophthal.2012.05.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Quaranta L, Gandolfo F, Turano R, et al. Effects of topical hypotensive drugs on circadian IOP, blood pressure, and calculated diastolic ocular perfusion pressure in patients with glaucoma. Invest Ophthalmol Vis Sci. 2008;49(10):4226–4231. doi: 10.1167/iovs.05-1253. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Quaranta L, Miglior S, Floriani I, Pizzolante T, Konstas AGP. Effects of the timolol-dorzolamide fixed combination and latanoprost on circadian diastolic ocular perfusion pressure in glaucoma. Invest Ophthalmol Vis Sci. 2006;47(7):2917–2923. doi: 10.1167/iovs.08-1744. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Rosin LM, Bell NP. Preservative toxicity in glaucoma medication: clinical evaluation of benzalkonium chloride-free 0.5% timolol eye drops. Clin Ophthalmol. 2013;7:2131–2135. doi: 10.2147/OPTH.S41358. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Noecker R, Miller KV. Benzalkonium chrolide in glaucoma medications. Ocul Surf. 2011;9(3):159–162. doi: 10.1016/s1542-0124(11)70025-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Boudouin C. Detrimental effect of preservatives in eye drops: implications for the treatment of glaucoma. Acta Ophthalmol. 2008;86:716–726. doi: 10.1111/j.1755-3768.2008.01250.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Miyake K, Ota I, Ibaraki N, et al. Enchanced disruption of the blood-aqueous barrier and the indence of angiographic cystoid macula edema by topical timolol and its preservative in early postoperative pseudophakia. Arch Ophthalmol. 2001;119(3):387–394. doi: 10.1001/archopht.119.3.387. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Inoue K, Okugawa K, Kato S, et al. Ocular factors relevant to anti-glaucomatous eyedrop-related keratoepitheliopathy. J Glaucoma. 2003;12(6):480–485. doi: 10.1097/00061198-200312000-00007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Janczewski P, Boulanger C, Iqbal A, Vanhoutte PM. Endothelium-dependent effects of carteolol. J Pharmacol Exp Ther. 1988;247(2):590–595. [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Chauhan JK, Mishra YC, Knilnani K. A clinical study of effect of oral atenolol on normal intraocular pressure and systemic blood pressure. Indian J Ophthalmol. 1989;37(4):179–181. [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Schoene RB, Auban T, Ward RL, Beasley BC. Effects of tropical, betaxolol, timolol, and bronchitis. Am J Ophthalmol. 1984;97(1):86–92. doi: 10.1016/0002-9394(84)90450-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Inoue K, Shiokawa M, Higa R, et al. Adverse periocular reactions to five types of prostaglandin analogs. Eye. 2012;26(11):1465–1472. doi: 10.1038/eye.2012.195. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Inoue K, Wakakura M, Inoue J, et al. Adverse reaction after use of latanoprost in Japanese glaucoma patients. Nihon Ganka Gakkai Zasshi. 2006;110(8):581–587. Japanese. [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Inoue K, Shiokawa M, Wakakura M, Tomita G. Deepening of the upper eyelid sulcus caused by 5 types of prostaglandin analogs. J Glaucoma. 2013;22(8):626–631. doi: 10.1097/IJG.0b013e31824d8d7c. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Honrubia F, García-Sánchez J, Polo V, de la Casa JM, Soto J. Conjunctival hyperaemia with the use of latanoprost versus other prostaglandin analogues in patients with ocular hypertension or glaucoma: meta-analysis of randomized clinical trials. Br J Ophthalmol. 2009;93(3):316–321. doi: 10.1136/bjo.2007.135111. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Aptel F, Cucherat M, Denis P. Efficacy and tolerability of prostaglandin analogs. A meta-analysis of randomized controlled clinical trials. J Glaucoma. 2008;17(8):667–673. doi: 10.1097/IJG.0b013e3181666557. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Eyawo O, Nachega J, Lefebvre P, et al. Efficacy and safety of prostaglandin analogues in patients with predominantly primary open-angle glaucoma or ocular hypertension: a meta-analysis. Clin Ophthalmol. 2009;3:447–456. doi: 10.2147/opth.s6501. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Crichton AC, Vold S, Williams JM, Hollander DA. Ocular surface tolerability of prostaglandin analogs and prostamides in patients with glaucoma or ocular hypertension. Adv Ther. 2013;30(3):260–270. doi: 10.1007/s12325-013-0014-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Johnstone MA. Hypertrichosis and increased pigmentation of eyelashes and adjacent hair in the region of the ipsilateral eyelids of patients treated with unilateral topical latanoprost. Am J Ophthalmol. 1997;124(4):554–547. doi: 10.1016/s0002-9394(14)70870-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Wester ST, Lee WW, Shi W. Eyelash growth from application of bimatoprost in gel suspension to the base of the eyelashes. Ophthalmology. 2010;117(5):1024–1031. doi: 10.1016/j.ophtha.2009.10.017. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Giannico AT, Lima L, Russ HH, Montiani-Ferreira F. Eyelash growth included by topical prostaglandin analogues, bimatoprost, travoprost, travoprost and latanoprost in rabbits. J Ocular Pharmacol Ther. 2013;29(9):817–820. doi: 10.1089/jop.2013.0075. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Priluck JC, Fu S. Latisse-included periocular skin hyperpigmentation. Arch Ophthalmol. 2010;128(6):792–793. doi: 10.1001/archophthalmol.2010.89. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Camras CB, Alm A, Watson P, Stjernschantz J. Latanoprost, a prostaglandin analog, for glaucoma therapy. Efficacy and safety after 1 year of treatment in 198 patients. Ophthalmology. 1996;103(11):1916–1924. doi: 10.1016/s0161-6420(96)30407-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Watson PG, the Latanoprost Study Group Latanoprost: Two years’ experience of its use in the United Kingdom. Latanoprost Study Group. Ophthalmology. 1998;105(1):82–87. doi: 10.1016/s0161-6420(98)91372-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Peplinski LS, Albiani Smith K. Deepening of lid sulcus from topical bimatoprost therapy. Optom Vis Sci. 2004;81(8):574–577. doi: 10.1097/01.opx.0000141791.16683.4a. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Park J, Cho HK, Moon JI. Changes to upper eyelid orbital fat from use of topical bimatoprost, travoprost, and latanoprost. Jpn J Ophthalmol. 2011;55(1):22–27. doi: 10.1007/s10384-010-0904-z. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Shah M, Lee G, Lefebvre DR, et al. A cross-sectional survey of the association between bilateral topical prostaglandin analogue use and ocular adnexal features. PLoS One. 2013;8(5):e61638. doi: 10.1371/journal.pone.0061638. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Wand M, Gilbert CM, Liesegang TJ. Latanoprost and herpes simplex keratitis. Am J Ophthalmol. 1999;127(5):602–604. doi: 10.1016/s0002-9394(99)00050-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Miyake K, Ota I, Maekubo K, Ichihashi S, Miyake S. Latanoprost accelerates disruption of the blood-aqueous barrier and the incidence of angiographic cystoid macular edema in early postoperative pseudophakius. Arch Ophthalmol. 1999;117(1):34–40. doi: 10.1001/archopht.117.1.34. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Litcher PR, Newman LP, Wheeler NC, Beall OV. Patient tolerance to carbonic anhydrase inhibitors. Am J Ophthalmol. 1978;85(4):495–502. doi: 10.1016/s0002-9394(14)75247-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Strahlman E, Tipping R, Voqel R. International Dorzolamide Study Group: A double-masked, randomized 1-year study comparing dorzolamide (Trusport), timolol, and betaxolol. Arch Ophthalmol. 1995;113(8):1009–1016. doi: 10.1001/archopht.1995.01100080061030. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Silver LH. Brizolamide Comfort Study Group: Ocular comfort of brinzolamide 1.0% ophthalmic suspension compared with dorzolamide 2.0% ophthalmic solution: results for two multicenter comfort studies. Surv Ophthalmol. 2000;44:S141–S145. doi: 10.1016/s0039-6257(99)00111-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Konowal A, Morrison JC, Brown SV, et al. Irreversible corneal decompensation in patients treated with topical dorzolamide. Am J Ophthalmol. 1999;127(4):403–406. doi: 10.1016/s0002-9394(98)00438-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Zimmerman TJ, Wheeler TM. Miotics: side effects and ways to avoid them. Ophthalmology. 1982;89(1):76–80. doi: 10.1016/s0161-6420(82)34866-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Oshika T, Araie M, Sugiyama T, Nakagina M, Azuma I. Effect of bunazosin hydrochloride on intraocular pressure and aqueous humor dymanics in normotensive human eyes. Arch Ophthalmol. 1991;109(11):1569–1574. doi: 10.1001/archopht.1991.01080110105046. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Azuma I, Kitazawa Y, Tsukahara S, Takase M, Shiose Y, Komemushi S. Optimal concentration-finding study of bunazosin hydrochloride ophthalmic solution in patients with primary open-angle glaucoma and ocular hypertension. Atarashii Ganka (Journal of the Eye) 1994;11(3):423–429. Japanese. [ Google Scholar ] 
+ 
+ 44. Michels RG, Maumenee AE. Cystoid macular edema associated with topically applied epinephrine in aphakic eyes. Am J Ophthalmol. 1975;80(3):379–388. doi: 10.1016/0002-9394(75)90522-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Fiore PM, Jacobs IH, Goldberg DB. Drug-induced pemphigoid. A spectrum of diseases. Arch Ophthalmol. 1987;105(12):1660–1663. doi: 10.1001/archopht.1987.01060120058023. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Anderson JA. Systemic absorption of topical ocularly applied epinephrine and dipivefrin. Arch Ophthalmol. 1980;98(2):350–353. doi: 10.1001/archopht.1980.01020030346024. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Toris CB, Tafoya ME, Camras CB, Yablonski ME. Effects of apraclonidine on aqueous humor dynamics in human eyes. Ophthalmology. 1995;102(3):456–461. doi: 10.1016/s0161-6420(95)31000-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Butler P, Mannschreck M, Lin S, Hwang I, Alvaeado J. Clinical experience with the long-term use of 1% apraclonidine. Incidence of allergic reactions. Arch Ophthalmol. 1995;113(3):293–296. doi: 10.1001/archopht.1995.01100030047020. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Abrams DA, Robin AL, Polack IP, de Faller JM, DeSantis L. The safety and efficacy of topical 1% ALO 2145 (p-aminoclonidine hydrochloride) in normal volunteers. Arch Ophthalmol. 1987;105(9):1205–1207. doi: 10.1001/archopht.1987.01060090063028. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Aptel F, Cucherat M, Denis P. Efficacy and tolerability of prostaglandin-timolol fixed combinations: a meta-analysis of randomized clinical trials. Eur J Ophthalmol. 2012;22(1):5–18. doi: 10.5301/ejo.5000009. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Quaranta L, Biagiolo E, Riva I, et al. Prostaglandin analogs and timolol-fixed versus unfixed combinations or monotherapy for open-angle glaucoma: a systematic review and meta-analysis. J Ocul Pharmacol Ther. 2013;29(4):382–389. doi: 10.1089/jop.2012.0186. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Sherwood MB, Grierson I, Millar L, Hitchings RA. Long-term morphologic effects of antiglaucoma drugs on the conjunctiva and Tenon’s capsule in glaucomatous patients. Ophthalmology. 1989;96(3):327–335. doi: 10.1016/s0161-6420(89)32888-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Inoue K, et al. Ocular hypotensive effects and safety of latanoprost without benzalkonium hydrochloride. Atarashii Ganka (Journal of the Eye) 2011;28(11):1635–1639. Japanese. [ Google Scholar ] 
+ 
+ 54. Sakata R, Shirato S, Miyata K, Aihara M. Recovery from deepening of the upper eyelid sulcus after switching from bimatoprost to latanoprost. Jpn J Ophthalmol. 2013;57(2):179–184. doi: 10.1007/s10384-012-0219-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Zimmerman TJ, Kooner KS, Kandarakis AS, Ziegler LP. Improving the therapeutic index of topically applied ocular drugs. Arch Ophthalmol. 1984;102(4):551–553. doi: 10.1001/archopht.1984.01040030429017. [ DOI ] [ PubMed ] [ Google Scholar ]

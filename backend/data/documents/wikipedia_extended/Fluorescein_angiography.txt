@@ -1,0 +1,67 @@
+Source: Wikipedia
+Title: Fluorescein angiography
+URL: https://en.wikipedia.org/wiki/Fluorescein_angiography
+============================================================
+
+Fluorescein angiography (FA), fluorescent angiography (FAG), or fundus fluorescein angiography (FFA) is a technique for examining the circulation of the retina and choroid (parts of the fundus) using a fluorescent dye and a specialized camera. Sodium fluorescein is added into the systemic circulation, the retina is illuminated with blue-green light at a wavelength of 490 nanometers, and an angiogram is obtained by photographing the fluorescent green light that is emitted by the dye. The fluorescein is administered intravenously in intravenous fluorescein angiography (IVFA) and orally in oral fluorescein angiography (OFA). The test is a dye tracing method.
+The fluorescein dye also reappears in the patient urine, causing the urine to appear darker, and sometimes orange. It can also cause discolouration of the saliva.
+Fluorescein angiography is one of several health care applications of this dye, all of which have a risk of severe adverse effects. See fluorescein safety in health care applications. Fluorescein angiography does not involve the use of ionizing radiation.Fluorescein angiography was pioneered by German ophthalmologist Achim Wessing, who published his findings in 1969.
+
+
+== Equipment ==
+Exciter filter: Allows only blue light to illuminate the retina. Depending on the specific filter, the excitation wavelength hitting the retina will be between 465 and 490 nm. Most only allow light through at a wavelength of 490 nm.
+Barrier filter: Allows only yellow-green light (from the fluorescence) to reach the camera. Both filters are interference bandpass filters, which means they block out all light except that at a specific wavelength. The barrier filter only allows light with a wavelength of 525 nm, but depending on the filter it can be anywhere from 520 to 530 nm.
+Fundus camera, either digital or with camera body containing black and white, or slide positive film.
+
+
+== Technique ==
+Baseline color and black and white red-free filtered images are taken prior to injection. The black and white images are filtered red-free (a green filter) to increase contrast and often gives a better image of the fundus than the color image.
+A 6-second bolus injection of 2-5 cc of sodium fluorescein into a vein in the retina
+Local injection
+A series of black-and-white or digital photographs are taken of the retina before and after the fluorescein reaches the retinal circulation (approximately 10 seconds after injection). The early images allow for the recognition of autofluorescence of the retinal tissues. Photos are taken approximately once every second for about 20 seconds, then less often. A delayed image is obtained at 5 and 10 minutes. Some doctors like to see a 15-minute image as well.
+A filter is placed in the camera so only the fluorescent, yellow-green light (530 nm) is recorded. The camera may however pick up signals from pseudofluorescence or autofluorescence. In pseudofluorescence, non-fluorescent light is imaged. This occurs when blue light reflected from the retina passes through the filter. This is generally a problem with older filters, and annual replacement of these filters is recommended. In autofluorescence, fluorescence from the eye occurs without injection of the dye. This may be seen with optic nerve head drusen, astrocytic hamartoma, or calcific scarring.
+Black-and-white photos give better contrast than color photos, which aren't necessary because the filter transmits only one color of light.
+
+
+== Normal circulatory filling ==
+times are approximate
+
+0 seconds – injection of fluorescein
+9.5 sec – posterior ciliary arteries
+10 sec – choroidal flush (or "pre-arterial phase")
+10–12 sec – retinal arterial stage
+13 sec – capillary transition stage
+14–15 sec – early venous stage (or "laminar stage", "arterial-venous stage")
+16–17 sec – venous stage
+18–20 sec – late venous stage
+5 minutes – late staining
+Fluorescein enters the ocular circulation from the internal carotid artery via the ophthalmic artery. The ophthalmic artery supplies the choroid via the short posterior ciliary arteries and the retina via the central retinal artery, but the route to the choroid is typically less circuitous than the route to the retina. This accounts for the short delay between the "choroidal flush" and retinal filling.
+
+
+== Pathologic findings ==
+Pathologic changes are recognized by the detection of either hyperfluorescence or hypofluorescence.
+Causes of hyperfluorescence:
+
+window/transmission (filling) defects
+leaking defects (i.e. capillary leakage, aneurysm, neovascularization)
+pooling defects
+staining
+abnormal vasculature
+Causes of hypofluorescence:
+
+blocking defect (i.e. blood)
+filling defect (capillary nonperfusion/blockage)
+Fluorescein angiography is used by physicians specializing in the treatment of eye diseases (ophthalmologists) to evaluate the vasculature of the retina, choroid, optic disc, and iris. Among the common groups of ophthalmologic disease, fluorescein angiography can detect diabetic retinopathy (neovascularization), vein occlusions, retinal artery occlusions, edema of the optic disc, and tumors. Additionally, the transit time (the period between injection of the dye and when it appears in the examined blood vessels) can provide an objective measurement of the rate of blood flow through the imaged blood vessels.
+
+
+== See also ==
+Fundus photography
+Laser Doppler imaging
+
+
+== References ==
+
+Gisbert, Gisbert Richard; Gisele Soubrane; Lawrence Y. Yannuzzi (1998). Fluorescein angiography: textbook and atlas (2nd rev. and expanded ed.). Stuttgart: Thieme. ISBN 0-86577-712-8.
+Kanski, Jack J. (2003). Clinical ophthalmology: a systematic approach (5. ed.). Edinburgh: Butterworth-Heinemann. ISBN 978-0750655415.
+Manfred Spitznas: Understanding fluorescein angiography = Fluoreszeinangiografie verstehen. (German, English, Spanish) Springer, Berlin/Heidelberg/New York 2006, ISBN 978-3-540-30060-1.
+Achim Wessing (1969). Fluorescein angiography of the retina.Textbook and atlas. Saint Louis: Mosby, ISBN 978-0801653889

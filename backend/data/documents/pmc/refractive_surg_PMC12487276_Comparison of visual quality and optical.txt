@@ -1,0 +1,577 @@
+Source: PubMed Central (PMC)
+PMCID: PMC12487276
+Title: Comparison of visual quality and optical zones after TransPRK, SMILE, and FS-LASIK myopia correction procedures
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12487276/
+Year: 2025
+Disease: refractive_surgery
+Priority: 3
+============================================================
+
+BMC Ophthalmol . 2025 Oct 1;25:527. doi: 10.1186/s12886-025-04358-4 
+ 
+ 
+ Comparison of visual quality and optical zones after TransPRK, SMILE, and FS-LASIK myopia correction procedures 
+ Wan Chen 
+ Wan Chen 
+ 
+ 1 Department of Ophthalmology, Anyi County People’s Hospital of Jiangxi province, Nanchang, 330500 China 
+ Find articles by Wan Chen 
+ 
+ 
+ 1, ✉ , Zhongyi Yang 
+ Zhongyi Yang 
+ 
+ 2 Department of Ophthalmology, The Second Affiliated Hospital of Nanchang University, Nanchang, 330000 China 
+ Find articles by Zhongyi Yang 
+ 
+ 
+ 2 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, Anyi County People’s Hospital of Jiangxi province, Nanchang, 330500 China 
+ 
+ 2 Department of Ophthalmology, The Second Affiliated Hospital of Nanchang University, Nanchang, 330000 China 
+ 
+ ✉ Corresponding author. 
+ 
+ 
+ Received 2025 May 31; Accepted 2025 Aug 22; Collection date 2025. 
+ 
+ © The Author(s) 2025 
+ Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ . 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC12487276  PMID: 41034774 
+ 
+ Abstract 
+ Background 
+ TransPRK, SMILE, and FS-LASIK are widely used surgical procedures for myopia correction, but differences in postoperative visual quality and optical zone design remain a subject of clinical interest. This study aimed to compare visual outcomes, higher-order aberrations (HOAs), contrast sensitivity, optical zone diameter, and corneal biomechanics among these three techniques. Methods 
+ In this prospective cohort study, 82 patients (164 eyes) with myopia were randomly assigned to undergo TransPRK ( n  = 56 eyes), SMILE ( n  = 52 eyes), or FS-LASIK ( n  = 56 eyes). All procedures were performed at a single center, and patients were followed for six months postoperatively. Outcome measures included uncorrected visual acuity (UCVA), HOAs, contrast sensitivity under both bright and dark conditions, optical zone diameter, refractive error, corneal biomechanical parameters (corneal hysteresis and resistance factor), and subjective symptoms such as nighttime glare and halos. Statistical analysis involved ANOVA and chi-square tests. Results 
+ At six months, all groups achieved comparable UCVA (≥ 96% achieving ≥ 1.0), but the TransPRK group demonstrated significantly lower total HOAs (0.25 ± 0.07 μm) and spherical aberrations (+ 0.05 ± 0.02 μm) than SMILE and FS-LASIK ( P  < 0.001). TransPRK also showed superior contrast sensitivity, particularly in low-light conditions (6 cpd: 1.05 ± 0.12 log units, P  < 0.001). All techniques demonstrated comparable efficacy (indices > 1.0), with non-significant trends favoring SMILE for UCVA (98.08%) and TransPRK for refractive stability (-0.12 ± 0.25D; all P  > 0.05). The SMILE group preserved the best corneal biomechanics (CH: 10.1 ± 1.1 mmHg; CRF: 10.5 ± 1.3 mmHg), while FS-LASIK had the highest incidence of nighttime glare (26.8%) and halos (23.2%) ( P  < 0.05). Conclusions 
+ TransPRK has good postoperative visual quality, but its advantages may be mediated by its larger optical zone design. In terms of night vision performance, SMILE surgery can effectively preserve the biomechanical properties of the cornea, while FS-LASIK achieved comparable 6-month acuity; we did not assess time-to-recovery. Selection of surgical modality should be individualized based on patient-specific anatomical and lifestyle factors. Keywords: TransPRK, SMILE, FS-LASIK, Higher order aberration, Contrast sensitivity, Optical zone Introduction 
+ Myopia is the most common refractive error worldwide, with its prevalence having risen sharply over the past few decades, particularly in Asia [ 1 , 2 ]. With the rapid advancement of refractive correction technologies, corneal laser surgery has emerged as the mainstream choice due to its predictability and minimally invasive nature. Among these, TransPRK (Transepithelial Photorefractive Keratectomy), SMILE (Small Incision Lenticule Extraction), and FS-LASIK (Femtosecond Laser-Assisted LASIK) are the three core technologies currently in clinical use [ 3 – 7 ]. 
+ The success criteria for modern refractive surgery have shifted from simple vision correction to multi-dimensional optimization of visual quality. Studies have shown that the mechanisms underlying the generation of higher-order aberrations (HOAs) postoperatively vary significantly across different surgical procedures: TransPRK may increase spherical aberrations due to direct ablation of the corneal surface, SMILE may affect coma distribution due to the removal of the stromal lens, and FS-LASIK may alter the morphology of the corneal anterior surface [ 8 , 9 ]. These differences directly correlate with key functional indicators such as contrast sensitivity and night vision in patients postoperatively. 
+ Optical zone design, as a core parameter in surgical planning, exhibits a unique “double-edged sword” effect: enlarging the optical zone can reduce peripheral aberrations during pupil dilation (especially in low-light conditions), but this comes at the cost of sacrificing more corneal tissue, which may challenge the biomechanical limits of the cornea [ 10 ]. In current clinical practice, differences in how the optical zone is handled across various surgical techniques (e.g., SMILE is limited by the size of the pocket, and TransPRK involves varying ablation depths) have not yet led to a unified optimized protocol. 
+ Despite growing literature comparing these procedures, significant gaps remain. Many studies emphasize visual acuity and refractive predictability while neglecting multidimensional metrics such as HOAs, contrast sensitivity, and subjective visual symptoms. Moreover, few have systematically examined the relationship between optical zone parameters and postoperative refractive outcomes across multiple surgical techniques. 
+ This study aims to address these gaps by providing a comprehensive comparison of postoperative visual quality, optical zone characteristics, and corneal biomechanics among TransPRK, SMILE, and FS-LASIK. Specifically, we evaluate: (1) visual outcomes including HOAs, contrast sensitivity, and subjective visual disturbances; and (2) biomechanical changes after surgery. By doing so, we aim to support clinicians in selecting the most appropriate procedure tailored to individual anatomical and lifestyle needs, thereby optimizing patient outcomes. Methods 
+ Study design and participants 
+ This prospective cohort study included 82 patients (164 eyes) who underwent myopia correction at our ophthalmic center between January 2022 and December 2023. Participants were randomly assigned to one of three groups using a computer-generated randomization sequence, stratified by preoperative spherical equivalent (± 1.00D) and corneal thickness (± 20 μm). Patient preferences were documented but did not influence allocation: TransPRK (56 eyes), SMILE (52 eyes), or FS-LASIK (56 eyes). All subjects underwent comprehensive preoperative examinations, including uncorrected and best-corrected visual acuity, refraction, corneal topography, pachymetry, and fundus evaluation. Exclusion criteria included keratoconus, severe dry eye, corneal thickness < 480 μm, previous ocular surgery, autoimmune diseases, and pregnancy. All participants provided informed consent. Surgical procedures 
+ The same surgeon (W.C.) (10 years’ experience) performed all surgeries, while devices differed by procedure. 
+ TransPRK: All procedures were performed using Schwind Amaris 750 S. Optical zone: 6.5–7.0 mm; transition zone: 0.5 mm. Ablation depth was tailored to refractive error while preserving ≥ 280 μm of stromal bed. 
+ SMILE: Performed with the VisuMax femtosecond laser. Optical zone: 6.3–6.8 mm; lenticule thickness: 100–160 μm; incision: 2–3 mm at 12 o’clock. 
+ FS-LASIK: Utilized the IntraLase femtosecond laser for flap creation and WaveLight EX500 excimer laser for stromal ablation. Flap thickness: 100–110 μm; optical zone: 6.0–6.5 mm; transition zone: 0.5 mm. Surgical protocol 
+ Preoperative care 
+ Levofloxacin eye drops were administered for three days before surgery. Corneal topography, wavefront analysis, and biomechanical assessments were performed one day preoperatively. Intraoperative details 
+ TransPRK: Epithelium and stroma were ablated in a single-step laser treatment; the cornea was rinsed with antibiotics and protected with a bandage contact lens. SMILE: A femtosecond laser created a stromal lenticule, which was extracted through a small incision. FS-LASIK: A corneal flap was created and lifted, stromal ablation performed, and the flap repositioned. Postoperative care 
+ Patients received topical fluorometholone (tapered over one month) and artificial tears (four times daily for three months). Follow-up was conducted regularly. Outcome measures 
+ Baseline characteristics 
+ The following baseline information was recorded in this study: age (years), gender, preoperative equivalent spherical lens degree (D), and preoperative corneal thickness (µm). Visual acuity 
+ Post-surgery, the patients’ uncorrected visual acuity (UCVA) was assessed at 1, 3, and 6 months after the procedure. This was measured by measuring the patient’s visual acuity without wearing any corrective lenses under standard visual acuity chart conditions. Higher-order aberrations (HOAs) 
+ Total higher-order aberrations (HOA), spherical aberrations, and coma aberrations were measured using the Sirius corneal topography system (CSO, Italy) within a standardized 6.0 mm optical zone at 1, 3, and 6 months postoperatively. During analysis, a 6.0-millimeter diameter region centered on the corneal apex was selected to exclude peripheral corneal interference, ensuring data comparability. Aberration calculations were based on Zernike polynomials (6th order), and instrument calibration was performed daily by the same technician. Contrast sensitivity 
+ Measurements were taken using the CSV-1000E Contrast Sensitivity Tester (VectorVision, USA) under the following conditions: (1) Bright light conditions (85 cd/m²): Test spatial frequencies of 3, 6, 12, and 18 cpd, with patients wearing corrective lenses (if needed), and background lighting compliant with ISO 8596 standards. (2) Dark vision conditions (3 cd/m²): Same spatial frequencies, tested after 10 min of adaptation to the dark environment to avoid fluctuations in pupil size. (3) All tests were conducted by the same blinded technician, the instrument was calibrated regularly (once a month), and data were averaged from three measurements. Optical zone diameter and refractive stability 
+ Optical zone measurement: Quantitative analysis was performed at 6 months postoperatively using the Pentacam 3D corneal topography system (Oculus, Germany). The flattest point in the ablation zone was selected as the center, and the edge detection was manually calibrated (accuracy ± 0.05 mm). 
+ Refractive error calculation formula: Error value = |Postoperative equivalent spherical power (SE) − Target correction power|. 
+ Target power: Based on a personalized correction plan guided by preoperative wavefront aberration analysis. Corneal biomechanics 
+ Measurements were taken using an ocular response analyzer (ORA, Reichert 7, USA): Corneal hysteresis (CH): reflects the viscoelastic damping capacity of the cornea. Corneal resistance factor (CRF): characterizes the overall corneal stiffness. Five consecutive measurements were taken for each eye, and outliers (such as blinking interference) were excluded, with the median value recorded. Measurements were taken at the same time (9:00–11:00 AM) before surgery and 6 months after surgery to avoid diurnal fluctuations. Subjective visual quality 
+ The Chinese version of the National Eye Institute Refractive Surgery Quality of Life Questionnaire (NEI-RQL-42) was used to assess nighttime glare and halos. Definition: Positive symptoms were defined as occurring ≥ 3 times per week within 6 months postoperatively and affecting nighttime activities (e.g., driving). The control group was set as the preoperative baseline questionnaire, excluding those with preexisting night vision impairments. The questionnaire was entered by nurses who did not participate in the surgery using a blind method, and the data was double-checked. Statistical methods 
+ Data analysis was conducted using SPSS version 26.0. Continuous variables were expressed as mean ± standard deviation and assessed for normality using the Shapiro-Wilk test. Parametric comparisons were made using one-way ANOVA with Tukey’s post hoc test or Welch’s ANOVA with Games-Howell post hoc when appropriate. Categorical variables were compared using chi-square or Fisher’s exact test. A P-value < 0.05 was considered statistically significant. Results 
+ Preoperative baseline data of the three groups of patients 
+ Initially, 90 patients (180 eyes) were enrolled, with 8 excluded due to loss to follow-up ( n  = 5) or incomplete data ( n  = 3), leaving 82 patients (164 eyes) for final analysis. In this study, we enrolled 82 patients (164 eyes) with myopia, divided into three groups: TransPRK (28 patients, 56 eyes), SMILE (26 patients, 52 eyes), and FS-LASIK (28 patients, 56 eyes). 
+ Baseline characteristics such as age, gender, preoperative spherical equivalent, Uncorrected Visual Acuity, and corneal thickness were comparable among the groups ( P  > 0.05) (Table  1 ). The age distribution was 18–45 years old, the preoperative equivalent spherical lens degree ranged from − 1.00D to −8.00D, and the mean preoperative corneal thickness was 535.12–540.22 μm, and the baseline data were balanced among the groups ( P  > 0.05), which satisfied the prerequisites for subsequent comparative analysis. There was no statistically significant difference in preoperative UCVA (LogMAR), Total HOA and CS among the three groups of patients ( P  > 0.05, see Table  1 ). 
+ Table 1. 
+ Comparison of baseline data among the three groups of patients 
+ 
+ 
+ Indicators 
+ TransPRK group (56 eyes) 
+ SMILE group (52 eyes) 
+ FS-LASIK group (56 eyes) 
+ F/χ² value 
+ 
+ P value 
+ 
+ 
+ 
+ Age (years,  ) 
+ 28.51 ± 5.22 
+ 29.11 ± 4.80 
+ 27.89 ± 5.62 
+ 0.771 
+ 0.487 
+ 
+ 
+ Sex (m/f) 
+ 32/28 
+ 29/31 
+ 34/26 
+ 0.526 
+ 0.746 
+ 
+ 
+ Preoperative equivalent spherical lens degree (D,  ) 
+ −4.50 ± 1.20 
+ −4.65 ± 1.15 
+ −4.58 ± 1.30 
+ 0.360 
+ 0.721 
+ 
+ 
+ Preoperative corneal thickness (µm,  ) 
+ 535.12 ± 32.37 
+ 540.22 ± 28.03 
+ 538.11 ± 29.91 
+ 0.411 
+ 0.646 
+ 
+ 
+ UCVA (LogMAR,  ) 
+ 1.20 ± 0.15 
+ 1.18 ± 0.14 
+ 1.22 ± 0.16 
+ 0.305 
+ 0.738 
+ 
+ 
+ Total HOA (µm,  ) 
+ 0.19 ± 0.05 
+ 0.18 ± 0.04 
+ 0.20 ± 0.06 
+ 0.785 
+ 0.458 
+ 
+ 
+ CS (3 cpd, log units,  ) 
+ 1.62 ± 0.20 
+ 1.60 ± 0.18 
+ 1.58 ± 0.22 
+ 0.341 
+ 0.712 
+ 
+ 
+ 
+ Open in a new tab Comparison of uncorrected visual acuity 
+ The recovery of UCVA at each postoperative time point showed that one month after surgery, the SMILE group exhibited the highest proportion of patients with UCVA ≥ 1.0 (94.23%), significantly outperforming the TransPRK (89.28%) and FS-LASIK (91.07%) groups (χ²=9.869, P  = 0.007). At 3 months postoperatively, the proportion of patients achieving UCVA ≥ 1.0 in the SMILE group further improved to 98.08%, which was still significantly higher than the other two groups ( P  = 0.011). By 6 months postoperatively, the percentage of UCVA ≥ 1.0 reached more than 96% in all three groups, and the difference between the groups was not statistically significant ( P  > 0.05) (Table  2 ). 
+ Table 2. 
+ Comparison of uncorrected visual acuity recovery at different postoperative time points [number of eyes (%)] 
+ 
+ 
+ Groups 
+ 1 month after surgery 
+ 3 month after surgery 
+ 6 month after surgery 
+ 
+ 
+ 
+ TransPRK group (56 eyes) 
+ 50(89.28) 
+ 53(94.64) 
+ 54(96.43) 
+ 
+ 
+ SMILE group (52 eyes) 
+ 49(94.23) 
+ 51(98.08) 
+ 51(98.08) 
+ 
+ 
+ FS-LASIK group (56 eyes) 
+ 51(91.07) 
+ 53(94.64) 
+ 54(96.43) 
+ 
+ 
+ χ² value 
+ 9.869 
+ 6.084 
+ 2.105 
+ 
+ 
+ P value 
+ 0.007* 
+ 0.011* 
+ >0.05 
+ 
+ 
+ 
+ Open in a new tab 
+ * indicates P  < 0.05 At 6 months postoperatively, in terms of optical quality, the TransPRK group demonstrated the lowest total HOA (0.25 ± 0.07 μm), which was significantly lower than those of the SMILE (0.30 ± 0.08 μm) and FS-LASIK (0.38 ± 0.09 μm) groups (F = 22.561, P  < 0.001). Notably, the FS-LASIK group showed the most significant increase in spherical aberration (+ 0.15 ± 0.04 μm) compared to the TransPRK (+ 0.05 ± 0.02 μm) and SMILE (+ 0.08 ± 0.03 μm) groups (F = 18.902, P  < 0.001). Similarly, the TransPRK group had the lowest coma (0.12 ± 0.04 μm), with the FS-LASIK group reporting the highest (0.22 ± 0.06 μm) (F = 15.748, P  < 0.001) (Table  3 ). 
+ Table 3. 
+ Higher-order aberration (HOA) (µm,  ) at 6 months postoperatively 
+ 
+ 
+ Groups 
+ Total HOA 
+ Spherical aberration 
+ Coma 
+ 
+ 
+ 
+ TransPRK group (56 eyes) 
+ 0.25 ± 0.07 
+ + 0.05 ± 0.02 
+ 0.12 ± 0.04 
+ 
+ 
+ SMILE group (52 eyes) 
+ 0.30 ± 0.08 
+ + 0.08 ± 0.03 
+ 0.18 ± 0.05 
+ 
+ 
+ FS-LASIK group (56 eyes) 
+ 0.38 ± 0.09 
+ + 0.15 ± 0.04 
+ 0.22 ± 0.06 
+ 
+ 
+ F value 
+ 22.561 
+ 18.902 
+ 15.748 
+ 
+ 
+ P value 
+ <0.001* 
+ <0.001* 
+ <0.001* 
+ 
+ 
+ 
+ Open in a new tab 
+ * indicates P  < 0.05 Comparison of contrast sensitivity 
+ Contrast sensitivity in the TransPRK group at 3 cpd, 6 cpd, 12 cpd, and 18 cpd spatial frequencies was significantly higher than that of the other two groups in the 6-month postoperative brightfield condition ( P  < 0.05). Under 6 cpd conditions, in contrast sensitivity assessments, the TransPRK group performed best (1.30 ± 0.12 log units), significantly surpassing the SMILE (1.25 ± 0.10) and FS-LASIK (1.18 ± 0.15) groups (F = 7.879, P  < 0.001). The difference was more pronounced at high spatial frequencies (18 cpd) (F = 7.449, P  = 0.001) (Table  4 ). 
+ Table 4. 
+ Patients’ bright vision conditions at 6 months postoperatively (log units,  ) 
+ 
+ 
+ Groups 
+ 3 cpd 
+ 6 cpd 
+ 12 cpd 
+ 18 cpd 
+ 
+ 
+ 
+ TransPRK group (56 eyes) 
+ 1.65 ± 0.18 
+ 1.30 ± 0.12 
+ 1.20 ± 0.10 
+ 0.95 ± 0.08 
+ 
+ 
+ SMILE group (52 eyes) 
+ 1.60 ± 0.15 
+ 1.25 ± 0.10 
+ 1.15 ± 0.09 
+ 0.90 ± 0.07 
+ 
+ 
+ FS-LASIK group (56 eyes) 
+ 1.55 ± 0.20 
+ 1.18 ± 0.15 
+ 1.10 ± 0.12 
+ 0.85 ± 0.09 
+ 
+ 
+ F value 
+ 4.127 
+ 7.879 
+ 8.121 
+ 7.449 
+ 
+ 
+ P value 
+ 0.018* 
+ <0.001* 
+ <0.001* 
+ 0.001* 
+ 
+ 
+ 
+ Open in a new tab 
+ * indicates P  < 0.05 In addition to the contrast sensitivity in the bright-vision condition, this study further analyzed the differences in visual function in the dark-vision condition (3 cd/m²). Under dark-vision conditions at six months postoperatively, the TransPRK group exhibited significantly higher contrast sensitivity across all spatial frequencies (3, 6, 12, and 18 cpd) compared to the SMILE and FS-LASIK groups ( P  < 0.01) (Table  5 ). At 3 cpd, the TransPRK group showed higher contrast sensitivity than FS-LASIK (1.25 ± 0.15 vs. 1.10 ± 0.18; F = 6.324, P  = 0.002). High spatial frequency (18 cpd): the TransPRK group (0.60 ± 0.07) remained dominant, while the FS-LASIK group (0.48 ± 0.08) performed the worst (F = 8.76, P  < 0.001). 
+ Table 5. 
+ Dark vision conditions in patients at 6 months postoperatively (log units,  ) 
+ 
+ 
+ Groups 
+ 3 cpd 
+ 6 cpd 
+ 12 cpd 
+ 18 cpd 
+ 
+ 
+ 
+ TransPRK group (56 eyes) 
+ 1.25 ± 0.15 
+ 0.80 ± 0.09 
+ 1.05 ± 0.12 
+ 0.60 ± 0.07 
+ 
+ 
+ SMILE group (52 eyes) 
+ 1.18 ± 0.13 
+ 0.98 ± 0.10 
+ 0.75 ± 0.08 
+ 0.55 ± 0.06 
+ 
+ 
+ FS-LASIK group (56 eyes) 
+ 1.10 ± 0.18 
+ 0.88 ± 0.14 
+ 0.68 ± 0.11 
+ 0.48 ± 0.08 
+ 
+ 
+ F value 
+ 6.324 
+ 9.431 
+ 10.102 
+ 8.771 
+ 
+ 
+ P value 
+ 0.002* 
+ <0.001* 
+ <0.001* 
+ <0.001* 
+ 
+ 
+ 
+ Open in a new tab 
+ * indicates P  < 0.05 Efficacy analysis 
+ All three groups were > 1.0 (TransPRK 1.02, SMILE 1.05, FS-LASIK 1.01), indicating that all procedures were effective in improving visual acuity, but SMILE was slightly superior, with no statistically significant difference between the groups ( P  = 0.301); in the SMILE group (98.08%), the UCVA ≥ 20/20 was slightly higher than that of TransPRK and FS- LASIK (both 96.43%), but the difference was not significant ( P  = 0.690); in terms of ± 0.50D attainment rate, SMILE group (94.2%) > TransPRK (92.8%) > FS-LASIK (89.3%), but there was no statistically significant difference ( P  = 0.456); residual myopia was the highest in the FS-LASIK group (−0.25 ± 0.35D) and lowest in TransPRK (−0.12 ± 0.25D), but the difference was not significant ( P  = 0.060) (Table 6 ). 
+ Table 6. 
+ Postoperative efficacy outcomes at 6 months 
+ 
+ 
+ Parameter 
+ TransPRK Group (56 eyes) 
+ SMILE Group (52 eyes) 
+ FS-LASIK Group (56 eyes) 
+ F/χ² Value 
+ 
+ P Value 
+ 
+ 
+ 
+ Efficacy Index * 
+ 1.02 ± 0.03 
+ 1.05 ± 0.04 
+ 1.01 ± 0.05 
+ 1.210 
+ 0.301 
+ 
+ 
+ UCVA ≥ 20/20 (%) 
+ 96.43 
+ 98.08 
+ 96.43 
+ 0.742 
+ 0.690 
+ 
+ 
+ Within ± 0.50D of target (%) 
+ 92.8 
+ 94.2 
+ 89.3 
+ 1.572 
+ 0.456 
+ 
+ 
+ Within ± 1.00D of target (%) 
+ 100.0 
+ 100.0 
+ 98.2 
+ 2.105 
+ 0.349 
+ 
+ 
+ Postoperative SE (D, mean ± SD) 
+ −0.12 ± 0.25 
+ −0.15 ± 0.30 
+ −0.25 ± 0.35 
+ 2.876 
+ 0.060 
+ 
+ 
+ 
+ Open in a new tab 
+ Efficacy Index: Ratio of postoperative UCVA to preoperative BCVA (values > 1.0 indicate visual gain). UCVA ≥ 20/20: Percentage achieving uncorrected visual acuity of 20/20 or better. SE: Spherical equivalent; negative values indicate residual myopia. Statistical tests: ANOVA for continuous variables, χ² for proportions. Corneal biomechanical parameters 
+ At six months postoperatively, the SMILE group preserved the best corneal hysteresis (CH = 10.1 ± 1.1 mm Hg) and corneal resistance factor (CRF = 10.5 ± 1.3 mm Hg), significantly higher than the TransPRK and FS-LASIK groups ( P  < 0.001). The FS-LASIK group experienced significant weakening of corneal biomechanics due to flap creation (CH = 8.5 ± 1.3 mmHg, CRF = 9.0 ± 1.5 mmHg) (Table  7 ). Average reduction in CH/CRF: TransPRK (−1.2/−1.0 mmHg), SMILE (−0.8/−0.7 mmHg), FS-LASIK (−2.1/−2.0 mmHg). 
+ Table 7. 
+ Comparison of corneal Biomechanical parameters at 6 months postoperatively (mmHg,  ) 
+ 
+ 
+ Groups 
+ CH 
+ CRF 
+ 
+ 
+ 
+ TransPRK group (56 eyes) 
+ 9.8 ± 1.2 
+ 10.2 ± 1.4 
+ 
+ 
+ SMILE group (52 eyes) 
+ 10.1 ± 1.1 
+ 10.5 ± 1.3 
+ 
+ 
+ FS-LASIK group (56 eyes) 
+ 8.5 ± 1.3 
+ 9.0 ± 1.5 
+ 
+ 
+ F value 
+ 14.267 
+ 11.516 
+ 
+ 
+ P value 
+ <0.001* 
+ <0.001* 
+ 
+ 
+ 
+ Open in a new tab 
+ * indicates P  < 0.05 Safety assessment 
+ Safety analysis revealed no cases of BCVA loss ≥ 2 lines at 6 months (safety index: TransPRK 1.02 ± 0.03, SMILE 1.05 ± 0.04, FS-LASIK 1.01 ± 0.05, P  = 0.213). Efficacy was comparable, with 92.8% (TransPRK), 94.2% (SMILE), and 89.3% (FS-LASIK) of eyes achieving postoperative spherical equivalent within ± 0.50D (χ² = 1.572, P  = 0.456). 
+ The incidence of postoperative nighttime glare (26.78%) and halos (23.21%) was significantly higher in the FS-LASIK group than in the TransPRK group (14.28%, 10.71%) and the SMILE group (19.23%, 15.38%) (χ²=6.783–7.150, P  < 0.05).The incidence of subjective visual discomfort symptoms in the SMILE group was between the other two groups (Table  8 ). 
+ Table 8. 
+ Incidence of subjective visual symptoms at 6 months postoperatively [n (%)] 
+ 
+ 
+ Groups 
+ Night Glare 
+ Halo 
+ 
+ 
+ 
+ TransPRK group (56 eyes) 
+ 8(14.28) 
+ 6(10.71) 
+ 
+ 
+ SMILE group (52 eyes) 
+ 10(19.23) 
+ 8(15.38) 
+ 
+ 
+ FS-LASIK group (56 eyes) 
+ 15(26.78) 
+ 13(23.21) 
+ 
+ 
+ χ² value 
+ 6.783 
+ 7.150 
+ 
+ 
+ P value 
+ 0.034* 
+ 0.028* 
+ 
+ 
+ 
+ Open in a new tab 
+ * indicates P  < 0.05 Discussion 
+ In our investigation, we conducted a comprehensive analysis of the visual quality and optical area characteristics after three prominent refractive surgery techniques —TransPRK, SMILE, and FS-LASIK — for myopia correction. The findings revealed notable insights. 
+ Firstly, concerning HOA, the TransPRK cohort exhibited markedly lower levels of total HOA, spherical aberration, and coma compared to the other two groups post-surgery ( P  < 0.001). This advantage could be attributed to TransPRK’s flapless design and its approach of surface ablation. By eliminating the need for corneal flaps and minimizing surface irregularity during the ablation process, TransPRK may contribute to a reduction in aberration induction [ 11 ]. In contrast, FS-LASIK is prone to induce spherical and coma aberrations due to the altered biomechanical structure of the cornea caused by flap fabrication and the increased steepness of the edge of the cutting zone [ 12 , 13 ]. The microlens removal process in the SMILE group may cause a slight perturbation to the stromal layer, which results in a slightly higher HOA than that of TransPRK, but is still superior to that of FS-LASIK. 
+ Secondly, the TransPRK group exhibited a significant advantage in contrast sensitivity under both bright and dark vision conditions, with the most notable difference observed at lower spatial frequencies (3 cpd, 6 cpd) ( P  < 0.05). This may be related to its preservation of more corneal nerves and tear film stability [ 14 ]. In contrast, the FS-LASIK group had a shorter tear film break-up time (TBUT) due to more nerve damage during corneal flap healing, resulting in decreased contrast sensitivity. 
+ The difference in contrast sensitivity under dark vision conditions further validates the visual quality advantages and disadvantages of the three procedures: advantages of TransPRK: the flapless design reduces corneal biomechanical disturbances, and the larger optical zone mitigates aberration spreading after pupil dilation, allowing for high contrast sensitivity in low light [ 15 ]. Limitations of SMILE: Although the minimally invasive design reduces the risk of dry eye, the lens removal process may result in slight stromal irregularities and slightly higher HOA than TransPRK, particularly in dark vision [ 16 ]. Challenges of FS-LASIK: The structural disruption of the anterior stromal layer of the cornea, caused by flap making and the use of smaller optical zones, makes it susceptible to HOAs and significantly lower contrast sensitivity in dark vision [ 17 – 20 ]. 
+ Notably, the SMILE group exhibited superior retention of postoperative CH and CRF ( P  < 0.001), consistent with its flapless design and minimally invasive nature. The femtosecond laser creates a microlens within the stroma, avoiding superficial or flap cuts and thus maximizing the preservation of the biomechanical strength of the cornea [ 21 ]. In contrast, the FS-LASIK group had significantly weakened biomechanics (21.6% decrease in CH) due to structural disruption of the anterior stromal layer of the cornea caused by flap fabrication, which may increase the risk of postoperative corneal dilatation. This result supports the advantages of SMILE and TransPRK in patients with thin corneas or biomechanically weak corneas [ 22 , 23 ]. 
+ Based on the results of this study, patient needs and anatomical characteristics should be taken into account in clinical selection of surgical procedures: (1) Patients with high astigmatism: FS-LASIK performs better in short-term astigmatism correction, which may be related to the precise cutting mode of excimer laser. (2) People with night driving needs: TransPRK or SMILE is preferentially recommended to reduce nighttime glare and halos. (3) People with high risk of dry eye: some studies found that SMILE and TransPRK have significantly lower incidence of dry eye than FS-LASIK due to less nerve damage [ 24 ]. 
+ There are limitations to acknowledge. The small sample size ( n  = 82) may affect the statistical validity of the subgroup analysis. The short follow-up period (6 months) did not allow assessment of long-term refractive stability and corneal biomechanical changes. Data on wavefront aberration-guided or topography-guided personalized cutting were not included. This study maintained procedure-specific optical zone sizes to reflect clinical reality, which may introduce confounding factors when comparing different techniques. 
+ Future research should aim to broaden the sample size and extend the follow-up period beyond three years to understand better the prevalence of long-term complications (e.g., corneal dilatation). Explore the feasibility of biomechanically enhanced refractive surgery in conjunction with corneal collagen cross-linking [ 25 ] (CXL). To predict the optimal optical zone parameters for different surgical procedures using artificial intelligence modeling. Conclusion 
+ This study suggests that TransPRK’s advantages in visual quality metrics (HOA, contrast sensitivity) and nocturnal symptoms may be mediated by its larger optical zone design. FS-LASIK achieved comparable 6-month acuity; time-to-recovery was not assessed. These technique-specific outcomes should be interpreted considering their inherent optical zone differences. Clinical decisions require individualization between anatomical factors (e.g., corneal thickness) and lifestyle needs (e.g., night driving). Acknowledgements 
+ Not applicable. Authors’ contributions 
+ W.C: conceptualization, collecting data, and review & editing; Z.Y: collecting data and statistical analysis, and writing original draft. All authors read and approved the final version. Funding 
+ No funding or sponsorship was received for this study or publication of this article. Data availability 
+ The data will be available from the corresponding author on reasonable request. Declarations 
+ Ethics approval and consent to participate 
+ This study was approved by the Institutional Ethics Committee of Anyi County People’s Hospital of Jiangxi Province (Approval No. 2021-OPH-047). All procedures adhered to the tenets of the Declaration of Helsinki. Written informed consent was obtained from all participants prior to enrollment. Consent for publication 
+ Not applicable. Competing interests 
+ The authors declare no competing interests. Footnotes 
+ 
+ Publisher’s Note 
+ Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
+ References 
+ 
+ 
+ 1. Ren J, Yu CH. Current status and trend analysis of the disease burden of refractive errors in China from a global perspective. Public Health Prev Med. 2024;35(1):7–11. [ Google Scholar ] 
+ 
+ 2. Pan W, Saw SM, Wong TY, et al. Prevalence and Temporal trends in myopia and high myopia children in china: a systematic review and meta-analysis with projections from 2020 to 2050[J]. The Lancet Regional Health–Western Pacific; 2025. p. 55. 
+ 
+ 
+ 3. Hoang QV, Chan X, Zhu X, et al. Advances in management and treatment of high myopia and its complications[J]. Front Med. 2022;9:846540. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Koosha N, Riazi MS, Janfaza P, et al. Laser vision correction after radial keratotomy: A systematic review and meta-analysis[J]. J Cataract Refract Surg. 2022;10:1097. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Kanclerz P, Khoramnia R. Flap thickness and the risk of complications in mechanical microkeratome and femtosecond laser in situ keratomileusis: a literature review and statistical analysis. Diagnostics. 2021;11(9):1588.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Liu S, Zhou X, Zhao Y. Comparison of predictability in central corneal thickness reduction after SMILE and FS-LASIK for high myopia correction. Ophthalmol Ther. 2023;12(1):549–59.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Gao H, Liu M, Li N, et al. Femtosecond laser-assisted minimally invasive lamellar keratoplasty for the treatment of advanced keratoconus. Clin Exp Ophthalmol. 2022;50(3):294–302.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Chang JY, Lin PY, Hsu CC, et al. Comparison of clinical outcomes of LASIK, Trans-PRK, and SMILE for correction of myopia[J]. J Chin Med Association. 2022;85(2):145–51. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Hou X, Du K, Wen D, et al. Early visual quality outcomes after small-incision lenticule extraction surgery for correcting high myopic astigmatism[J]. BMC Ophthalmol. 2021;21:1–13.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Azor JA, Vega F, Armengol J, et al. Optical assessment and expected visual quality of four extended range of vision intraocular lenses. J Refract Surg. 2022;38(11):688–97.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Sima G, Tătaru CI, Munteanu M. Evaluation of the efficiency and safety of TransPRK and FS-LASIK refractive procedures on patients with astigmatism and amblyopia. Rom J Ophthalmol. 2023;67(3):267.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Wu Y, Huang Y, Wang SH, et al. Comparative study of objective visual quality between FS-LASIK and SMART in myopia. Int J Ophthalmol. 2022;15(3):502.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Ahmed HM, Salem NM, Al-Atabany W. Impact of post–refractive surgeries on corneal biomechanics—a review. J Clin Eng. 2021;46(4):177–88. [ Google Scholar ] 
+ 
+ 14. Chong YJ, Azzopardi M, Hussain G, et al. Clinical applications of anterior segment optical coherence tomography: an updated review. Diagnostics. 2024;14(2):122.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Sabhapandit S, Abdussamad A, Shaik TA, et al. Transepithelial photorefractive keratectomy for hyperopia correction: an uncharted territory. Clin Ophthalmol. 2023. 10.2147/OPTH.S415636.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Xue Y. Comparison of clinical efficacy of ICL implantation and SMILE correction in low myopia [D]. Sichuan University; 2021. 
+ 
+ 
+ 17. Yue P, Wang X, Wang Z, et al. The effect of femtosecond laser-assisted in situ keratomileusis on contrast sensitivity. Front Neurosci. 2024;18:1326572.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Wu Y, Wang S, Wang G, et al. Corneal asphericity and Higher-Order aberrations after FS‐LASIK and Trans‐PRK for Myopia[J]. J Ophthalmol. 2021;2021(1):3765046.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Zhao JJ, Wang R, Chen YB, et al. Confocal laser scanning microscopic observation of corneal nerve regeneration after femtosecond laser LASIK and femtosecond laser stromal lenticule extraction [J]. Clin J Ophthalmol. 2018;26(4):340–2. [ Google Scholar ] 
+ 
+ 20. Zhang ZZ, Wu LM, Jiang HX, et al. Effects of different posterior optical zone diameters of orthokeratology lenses on corneal biomechanics [J]. J Med Biomech. 2024;39(S01):431–431. [ Google Scholar ] 
+ 
+ 21. Xiao J, Li N, Zhang R et al. Efficacy of femtosecond laser small incision lenticule extraction for correcting moderate to high myopia and its impact on corneal morphology [J]. Chin J Laser Med, 2022;(002): 031. 
+ 
+ 
+ 22. Han BJ, Shi FR, Jiannan H. Efficacy of SMILE in treating myopic patients and its impact on corneal biomechanics [J]. Int J Ophthalmol. 2024;24(4):522–7. [ Google Scholar ] 
+ 
+ 23. Hasani H, Maskan M. Comparison of conventional versus trans-epithelial photorefractive keratectomy in hyperopia treatment: a contralateral study. J Iran Med Council. 2023;6(4):703–11. [ Google Scholar ] 
+ 
+ 24. Yang F, Cheng H, Zhao S, et al. The effect of incomplete blinking rate on corneal epithelial remodeling after trans-PRK surgery: a six-month study. Front Med. 2024;10:1305461. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Khoo P, Cabrera-Aguas M, Watson SL. Microbial keratitis after corneal collagen cross-linking for corneal ectasia. Asia-Pac J Ophthalmol. 2021;10(4):355–9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ Associated Data 
+ This section collects any data citations, data availability statements, or supplementary materials included in this article. 
+ Data Availability Statement 
+ The data will be available from the corresponding author on reasonable request.

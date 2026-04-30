@@ -1,0 +1,157 @@
+Source: Wikipedia
+Title: Intraocular pressure
+URL: https://en.wikipedia.org/wiki/Intraocular_pressure
+============================================================
+
+Intraocular pressure (IOP) is the fluid pressure inside the eye. Tonometry is the method eye care professionals use to determine this. IOP is an important aspect in the evaluation of patients at risk of glaucoma. Most tonometers are calibrated to measure pressure in millimeters of mercury (mmHg).
+
+
+== Physiology ==
+Intraocular pressure is determined by the production and drainage of aqueous humour by the ciliary body and its drainage via the trabecular meshwork and uveoscleral outflow. The reason for this is because the vitreous humour in the posterior segment has a relatively fixed volume and thus does not affect intraocular pressure regulation.
+An important quantitative relationship (Goldmann's equation) is as follows:
+
+  
+    
+      
+        
+          P
+          
+            o
+          
+        
+        =
+        
+          
+            
+              F
+              −
+              U
+            
+            C
+          
+        
+        +
+        
+          P
+          
+            v
+          
+        
+      
+    
+    {\displaystyle P_{o}={\frac {F-U}{C}}+P_{v}}
+  
+
+Where:
+
+  
+    
+      
+        
+          P
+          
+            o
+          
+        
+      
+    
+    {\displaystyle P_{o}}
+  
+ is the IOP in millimeters of mercury (mmHg)
+
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ the rate of aqueous humour formation in microliters per minute (μL/min)
+
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+  
+ the resorption of aqueous humour through the uveoscleral route (μL/min)
+
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  
+ is the facility of outflow in microliters per minute per millimeter of mercury (μL/min/mmHg)
+
+  
+    
+      
+        
+          P
+          
+            v
+          
+        
+      
+    
+    {\displaystyle P_{v}}
+  
+ the episcleral venous pressure in millimeters of mercury (mmHg).
+The above factors are those that drive IOP.
+
+
+== Measurement ==
+
+Palpation is one of the oldest, simplest, and least expensive methods for approximate IOP measurement, however it is very inaccurate unless the pressure is very high. Intraocular pressure is measured with a tonometer as part of a comprehensive eye examination. Contact lens sensors have also been used for continuous intraocular pressure monitoring.
+Measured values of intraocular pressure are influenced by corneal thickness and rigidity. As a result, some forms of refractive surgery (such as photorefractive keratectomy) can cause traditional intraocular pressure measurements to appear normal when in fact the pressure may be abnormally high. A newer transpalpebral and transscleral tonometry method is not influenced by corneal biomechanics and does not need to be adjusted for corneal irregularities as measurement is done over upper eyelid and sclera.
+
+
+== Classification ==
+Current consensus among ophthalmologists and optometrists defines normal intraocular pressure as that between 10 mmHg and 21 mmHg. The average value of intraocular pressure is 15.5 mmHg with fluctuations of about 2.75 mmHg.
+Ocular hypertension (OHT) is defined by intraocular pressure being higher than normal, in the absence of optic nerve damage or visual field loss.
+Ocular hypotension, hypotony, or ocular hypotony, is typically defined as intraocular pressure equal to or less than 5 mmHg. Such low intraocular pressure could indicate fluid leakage and deflation of the eyeball.
+
+
+== Influencing factors ==
+
+
+=== Daily variation ===
+Intraocular pressure varies throughout the night and day. The diurnal variation for normal eyes is between 3 and 6 mmHg and the variation may increase in glaucomatous eyes. During the night, intraocular pressure may not decrease despite the slower production of aqueous humour.   Glaucoma patients' 24-hour IOP profiles may differ from those of healthy individuals.
+
+
+=== Fitness and exercise ===
+There is some inconclusive research that indicates that exercise could possibly affect IOP (some positively and some negatively).
+
+
+=== Musical instruments ===
+Playing some musical wind instruments has been linked to increases in intraocular pressure.  A 2011 study focused on brass and woodwind instruments observed "temporary and sometimes dramatic elevations and fluctuations in IOP".
+Another study found that the magnitude of increase in intraocular pressure correlates with the intraoral resistance associated with the instrument, and linked intermittent elevation of intraocular pressure from playing high-resistance wind instruments to incidence of visual field loss.
+The range of intraoral pressure involved in various classes of ethnic wind instruments, such as Native American flutes, has been shown to be generally lower than Western classical wind instruments.
+
+
+=== Drugs ===
+Intraocular pressure also varies with a number of other factors such as heart rate, respiration, fluid intake, systemic medication and topical drugs. Alcohol and cannabis consumption leads to a transient decrease in intraocular pressure and caffeine may increase intraocular pressure.
+Taken orally, glycerol (often mixed with fruit juice to reduce its sweet taste) can cause a rapid, temporary decrease in intraocular pressure.  This can be a useful initial emergency treatment of severely elevated pressure.
+The depolarising muscle relaxant succinylcholine, which is used in anaesthesia, transiently increases IOP by around 10 mmHg for a few minutes.  This is significant for example if the patient requires anaesthesia for a trauma and has sustained an eye (globe) perforation.  The mechanism is not clear but it is thought to involve contraction of tonic myofibrils and transient dilation of choroidal blood vessels.  Ketamine also increases IOP.
+
+
+== Significance ==
+Ocular hypertension is the most important risk factor for glaucoma.
+Intraocular pressure has been measured as an outcome in a systematic review comparing the effect of neuroprotective agents in slowing the progression of open angle glaucoma.
+Differences in pressure between the two eyes are often clinically significant, and potentially associated with certain types of glaucoma, as well as  iritis or retinal detachment.
+Intraocular pressure may become elevated due to anatomical problems, inflammation of the eye, genetic factors, or as a side-effect from medication. Intraocular pressure laws follow fundamentally from physics. Any kinds of intraocular surgery should be done by considering the intraocular pressure fluctuation. Sudden increase of intraocular pressure can lead to intraocular micro barotrauma and cause ischemic effects and mechanical stress to retinal nerve fiber layer. Sudden intraocular pressure drop can lead to intraocular decompression that generates micro bubbles that potentially cause multiple micro emboli and leading to hypoxia, ischemia and retinal micro structure damage.
+
+
+== References ==
+
+
+== External links ==
+www.allaboutvision.com What To Expect During a Comprehensive Eye Exam
+www.emedicinehealth.com Ocular Hypertension
+www.tonometerdiaton.com Transpalpebral Transscleral Tonometry

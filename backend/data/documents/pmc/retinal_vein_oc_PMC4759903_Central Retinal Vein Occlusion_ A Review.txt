@@ -1,0 +1,133 @@
+Source: PubMed Central (PMC)
+PMCID: PMC4759903
+Title: Central Retinal Vein Occlusion: A Review of Current Evidence-based Treatment Options
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4759903/
+Year: 2016
+Disease: retinal_vein_occlusion
+Priority: 3
+============================================================
+
+Middle East Afr J Ophthalmol . 2016 Jan-Mar;23(1):44–48. doi: 10.4103/0974-9233.173132 
+ 
+ 
+ Central Retinal Vein Occlusion: A Review of Current Evidence-based Treatment Options 
+ Amy Patel 
+ Amy Patel 
+ 
+ 1 Department of Ophthalmology, Gavin Herbert Eye Institute, University of California, Irvine, California, USA 
+ Find articles by Amy Patel 
+ 
+ 
+ 1 , Christine Nguyen 
+ Christine Nguyen 
+ 
+ 1 Department of Ophthalmology, Gavin Herbert Eye Institute, University of California, Irvine, California, USA 
+ Find articles by Christine Nguyen 
+ 
+ 
+ 1 , Stephanie Lu 
+ Stephanie Lu 
+ 
+ 1 Department of Ophthalmology, Gavin Herbert Eye Institute, University of California, Irvine, California, USA 
+ Find articles by Stephanie Lu 
+ 
+ 
+ 1, ✉ 
+ 
+ 
+ Author information 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, Gavin Herbert Eye Institute, University of California, Irvine, California, USA 
+ 
+ ✉ Corresponding Author: Dr. Stephanie Lu, Department of Ophthalmology, Gavin Herbert Eye Institute, University of California, Irvine, California, USA. E-mail: sylu@uci.edu 
+ 
+ 
+ 
+ Copyright: © Middle East African Journal of Ophthalmology 
+ This is an open access article distributed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License, which allows others to remix, tweak, and build upon the work non-commercially, as long as the author is credited and the new creations are licensed under the identical terms. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC4759903  PMID: 26957838 
+ 
+ Abstract 
+ A central retinal vein occlusion (CRVO) can induce an ischemic and hypoxic state with resulting sequelae of macular edema and neovascularization. Many treatment options have been studied. Our review aims to investigate the safety and efficacy of the multiple treatment options of CRVO. A PubMed and Cochrane literature search was performed. Well-controlled randomized clinical trials that demonstrated strong level 1 evidence-based on the rating scale developed by the British Centre for Evidence-Based Medicine were included. Seven clinical trials met inclusion criteria to be included in this review. These included studies that investigated the safety and efficacy of retinal photocoagulation (1 study), intravitreal steroid treatment (2 studies), and antivascular endothelial growth factor treatment (4 studies) for the treatment of CRVO. In addition, studies evaluating surgical treatment options for CRVO were also included. Many treatment modalities have been demonstrated to be safe and efficacious in the treatment of CRVO. These treatment options offer therapeutic benefits for patients and clinically superior visual acuity and perhaps the quality of life after suffering from a CRVO. 
+ Keywords: Aflibercept, Anti-Vascular Endothelial Growth Factor, Central Retinal Vein Occlusion, Intravitreal Corticosteroids, Retinal Photocoagulation, Retinal Vein Occlusion INTRODUCTION 
+ Central retinal vein occlusion (CRVO) can be a debilitating and devastating disease process affecting primarily the adult population. It is the second most common retinal vascular disorder following diabetic retinopathy. 1 Though the exact etiology is poorly understood, it is suspected that venous occlusion induces an ischemic and hypoxic state that leads to visually significant sequelae including macular edema and anterior segment and retinal neovascularization. There are various treatment options to mitigate such negative sequelae. A literature review was performed, and various clinical trials were reviewed. Well-controlled randomized clinical trials that demonstrated strong level 1 evidence-based on the rating scale developed by the British Centre for Evidence-Based Medicine were included. RETINAL PHOTOCOAGULATION 
+ The Central Vein Occlusion (CVO) study group investigated the efficacy of macular grid photocoagulation for the treatment of macular edema secondary to a CRVO. In addition, the study aimed to determine whether photocoagulation therapy can prevent iris neovascularization in eyes with CVO and evidence of ischemic retina. About 728 eyes were enrolled in this prospective study with a total mean follow-up of 3 years. Patients were subdivided into one of the four groups depending on their perfusion status and the presence of decreased vision associated with macular edema. Patients in each trial group were then randomized to either undergo observation or treatment with retinal photocoagulation. Patients were followed and assessed with fundus angiography, iris photograph, and stereo color fundus photographs. The study demonstrated the efficacy of photocoagulation in reducing angiographic evidence of macular edema following CVO. However, this did not translate into significant improvement in visual acuity between treated and untreated eyes. Panretinal laser photocoagulation was shown to be beneficial for eyes with at least 2 h of iris neovascularization or any angle neovascularization. 2 CORTICOSTEROIDS 
+ Two major clinical trials have demonstrated the efficacy of corticosteroids in the treatment of CRVO. 
+ The Standard Care versus Corticosteroid for Retinal Vein Occlusion (SCORE) was a multi-center randomized clinical trial that studied and evaluated the clinical benefits of triamcinolone for treating macular edema associated with vein occlusion. 3 271 people who had a best-corrected visual acuity (BCVA) of 20/40–20/400 and optical coherence tomography demonstrating a central subfield thickness of 250 microns were enrolled in the study. The study compared intravitreal injection of 1 mg and 4 mg triamcinolone treatment versus standard care, which was observation. The study eyes received triamcinolone injections at 4-month interval unless retreatment was not indicated. The primary outcome measurement and the endpoint were a gain in visual acuity letter score of 15 or more from within a 12-month period. The proportion of patients meeting the primary end point was 7%, 27%, and 26% for the observation, 1 mg and 4 mg groups, respectively. The central retinal thickness (CRT) was similar among all three groups at 12 months. The rate of adverse events was higher in the 4 mg triamcinolone group compared to the 1 mg triamcinolone group and included cataract formation, elevated intraocular pressure (IOP), and glaucoma. 
+ Haller et al . 4 studied the efficacy and safety of an implantable dexamethasone (DEX) device for the treatment of macular edema associated with CRVO. A DEX implant is composed of a biodegradable copolymer of lactic acid and glycolic acid-containing micronized DEX. The drug–copolymer complex gradually releases the total dose of DEX over a series of months after insertion into the eye. The Global Evaluation of implantable dexamethasone in retinal Vein occlusion with macular edema trial aimed to assess the efficacy of a DEX implant in treating CRVO sequelae. Results were based on the two identical multicenter 6-month trials that included 1267 patients who had branch retinal vein occlusion or CRVO. Specifically, 437 patients had CRVO. Patients were randomized to receive a DEX implant with either 0.7 mg, or 0.3 mg or a sham implant. Patients were followed and evaluated at 6 months after implantation. Primary outcomes measured were similar to the SCORE trial and included time to reach a 15 letter improvement from baseline visual acuity. At day 180, 41% and 40% achieved this outcome in the DEX 0.7 and 0.35 mg groups and 23% in the sham group. At the 30- and 90-day mark, there was a statistically significant difference between the DEX versus sham treatment groups for reaching the primary outcome with DEX leading to improved results. However, this was not statistically significant at 180 days. The mean increase of visual acuity compared to baseline was statistically greater in the DEX group versus sham between 30 and 180 days. Mean central foveal thickness decreased in eyes with DEX compared to sham at 90 days, but the improvement was not maintained at day 180. 
+ At 6 months, patients in all groups could receive a DEX implant 0.7 mg if BCVA was <84 letters or CRT was >250 μm. 5 At 12 months, 32% of patients had a 15-letter gain in the 0.7 mg/0.7 mg DEX group. There was a mean decrease in central foveal thickness of 236 μm in both 0.3 mg/0.7 mg implant and 0.7 mg/0.7 mg implant groups compared to a 267 μm decrease in the sham/0.7 mg implant group. Cataract progression occurred in 90 of 302 phakic eyes that received 2 DEX implant 0.7 mg versus 5 of 88 sham-treated phakic eyes. In the group receiving 2 DEX 0.7 mg implant, there was a >10 IOP increase from baseline (12.6% after the first treatment and 15.4% after the second). The increase was transient and controlled with medication or observation. 
+ The results of these two high quality studies indicate the therapeutic benefits of corticosteroids in the treatment of CRVO. ANTI-VASCULAR ENDOTHELIAL GROWTH FACTOR 
+ Vascular endothelial growth factor (VEGF) is a signal protein that initiates angiogenesis and vascularization in a response to an ischemic state, and it is theorized to play a role in the pathophysiology of CRVO. With the advent of anti-VEGF treatments, many prospective clinical trials have demonstrated the efficacy and safety of anti-VEGF treatment in the treatment of CRVO. 
+ Ranibizumab 
+ The Ranibizumab for the treatment of macular edema after Central Retinal Vein Occlusion Study (CRUISE) trial investigated the efficacy and safety of intravitreal ranizumab injections in patients with macular edema associated with CRVO. 6 392 patients with a visual acuity of 20/40–20/320 and macular edema for <12 months after diagnosis of CRVO were included in the study. Enrolled patients were randomized to 0.3 mg, 0.5 mg, or sham injections. Primary outcome measurements were mean change in visual acuity from baseline, percent of patients gaining 15 letters on visual acuity testing, and percent of patients who lost 15 letters or more on visual acuity testing. Central foveal thickness decrease and change from baseline were also measured. At the 6-month mark, patients in the 0.3- and 0.5-mg ranibizumab treatment groups had gained a mean of 12.7 and 14.9 letters, respectively, compared with 0.8 letters in the sham group. 46.2% and 47.7% of patients in the 0.3- and 0.5-mg ranibizumab groups, respectively, had gained ≥15 letters from baseline BCVA, compared with 16.9% of patients in the sham group. 
+ In an extension of the CRUISE trial, Campochiaro et al . 7 published the 12-month results in which patients who were initially randomized to 0.3 mg or 0.5 mg ranibizumab or shame injection were able to receive 0.5 mg ranizumab on a pro re nata (PRN) basis if the BCVA was <20/40 or central foveal thickness was >250. The mean change from baseline BCVA was +13.9 letters in both ranizumab groups while the sham/0.5 mg group experienced at +7.3 letter improvement. While the sham/0.5 mg experienced an improvement in BCVA at 12 months, this improvement was significantly less than that of the ranibizumab group. The mean reduction in central foveal thickness was 453 µm, 461 µm, and 472 µm in the 0.3/0.5 ranibizumab, 0.5/0.5 ranibizumab, and sham/0.5 mg ranibizumab, respectively. Bevacizumab 
+ Epstein et al . investigated the efficacy and safety of intravitreal bevacizumab in the treatment of macular edema associated with CRVO. 8 Similar to other studies, this was a prospective randomized, double-masked trial. Sixty patients were enrolled in the study and randomized to receive intravitreal bevacizumab versus sham every 6 weeks for 6 consecutive months. The primary outcome measure was the proportion of patients with 15 letter increase in BCVA. At the 6 months mark, there was a statistically significant greater proportion of patients in the treated versus sham group with 15 letter increase in visual acuity. The mean reduction of CRT was also significantly greater in the treatment versus the sham group. After 6 months, all eyes were eligible to receive bevacizumab every 6 weeks or a PRN basis for months 6–12. At 12 months, 60% of patients treated with bevacizumab/bevacizumab gained >15 letters versus 33% in the sham/bevacizumab. 9 There was no difference in the decrease in central foveal thickness at 12 months. Aflibercept 
+ The VEGF Trap-Eye (VTE): Investigation of Efficacy and Safety in CRVO (COPERNICUS) study investigated the efficacy and safety of intravitreal VTE in eyes with macular edema secondary to CRVO. 10 189 eyes were enrolled. Patients were randomized (3:2) to receive monthly intravitreal VTE versus sham monthly for 6 months. After the 6 months period, treatment was given to both sham ad intravitreal aflibercept (VTE) groups as needed. Primary outcome measures were the proportion of eyes with a ≥15 letter gain or more in BCVA at weeks 24 (primary efficacy end point), mean changes in BCVA and CRT. At 24 weeks, treated eyes had a statistically significant higher percentage of patients reaching the primary endpoint versus the sham group. 
+ In the 12-month result of COPERNICUS, 11 all patients were eligible to receive VTE 2 mg every 4 weeks if they met specific retreatment criteria. About 55% of eyes in the VTE/VTE group gained >15 letters with a mean change in VA of +16.2 letters. In comparison, only 30% of the sham/VTE group gained >15 letters with a mean change in VA of +3.8 letters. The authors concluded that BCVA could be maintained with VTE PRN with less frequent dosing with close monitoring. 
+ Similarly, the General Assessment Limiting Infiltration of Exudates in central retinal vein Occlusion with VTE (GALILEO) study investigated the safety and efficacy of aflirbicept injections in the treatment of macular edema associated with CRVO. 12 177 patients were randomized in a 3:2 ratio to receive intravitreal aflirbicept. Primary outcome measures were similar to the COPERNICUS study and included 15 letter gain of visual acuity and central foveal thickness. At the 6-month mark, both 15 letter gain in visual acuity compared to baseline and central foveal thickness reduction were significantly greater in the treated versus sham group [ Table 1 ]. 
+ Table 1. 
+ Intravitreal corticosteroid and anti-vascular endothelial growth factor studies for macular edema associated with central retinal vein occlusion 
+ 
+ Open in a new tab Surgical techniques 
+ Various surgical options have also been studied for the treatment of CRVO; however, a level 1 study has validated none of these techniques. 
+ Retinal veins can be punctured via laser 13 or surgically 14 to create an anastomosis between the choroid and retina. This technique is thought reduces macular edema and subsequently improves vision. Reported complications include vitreous hemorrhage, 15 tractional retinal detachment, 16 and choroidal neovascular membrane (CNVM) 17 formation development. 
+ Another proposed surgical technique, radial optic neurotomy, 18 , 19 , 20 , 21 is based on surgically relieving compression of the central retinal vein near the optic nerve and improving blood flow. During pars plana vitrectomy, a microvitreoretinal blade is used to relax the scleral ring surrounding the optic nerve theoretically improving blood flow through the central vein. There are few studies describing the efficacy of this procedure. Common complications include vitreous hemorrhage and CNVM formation. 22 
+ Alternatively, a pars plana vitrectomy 23 has been proposed as a surgical treatment option. Studies report that vitrectomy reduces VEGF factors that may be trapped in the vitreous as well as reduces macular traction and subsequently the incidence of macular edema. Similar to other surgical treatment options, there is a limited scientific evidence to support this treatment modality. CONCLUSION 
+ Many treatment modalities have been demonstrated through high-quality clinical trials to be safe and efficacious in the treatment of CRVO's clinically significant sequelae. These treatment options offer the potential to improve visual acuity significantly and improve patient quality of life after suffering from a CRVO. There is sufficient level-1evidence to suggest antiinflammatory corticosteroids and anti-VEGF treatments play a significantly beneficial role in the treatment of CRVO. 
+ Financial support and sponsorship 
+ Nil. Conflicts of interest 
+ There are no conflicts of interest. REFERENCES 
+ 
+ 
+ 1. Cugati S, Wang JJ, Rochtchina E, Mitchell P. Ten-year incidence of retinal vein occlusion in an older population: The Blue Mountains Eye Study. Arch Ophthalmol. 2006;124:726–32. doi: 10.1001/archopht.124.5.726. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Central Vein Occlusion Study Group. Central vein occlusion study of photocoagulation therapy: Baseline findings. Online J Curr Clin Trials. 1993 Doc No 95. [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Ip MS, Scott IU, VanVeldhuisen PC, Oden NL, Blodi BA, Fisher M, et al. A randomized trial comparing the efficacy and safety of intravitreal triamcinolone with observation to treat vision loss associated with macular edema secondary to central retinal vein occlusion: The Standard Care vs Corticosteroid for Retinal Vein Occlusion (SCORE) study report 5. Arch Ophthalmol. 2009;127:1101–14. doi: 10.1001/archophthalmol.2009.234. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Haller JA, Bandello F, Belfort R, Jr, Blumenkranz MS, Gillies M, Heier J, et al. Randomized, sham-controlled trial of dexamethasone intravitreal implant in patients with macular edema due to retinal vein occlusion. Ophthalmology. 2010;117:1134–46.e3. doi: 10.1016/j.ophtha.2010.03.032. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Haller JA, Bandello F, Belfort R, Jr, Blumenkranz MS, Gillies M, Heier J, et al. Dexamethasone intravitreal implant in patients with macular edema related to branch or central retinal vein occlusion twelve-month study results. Ophthalmology. 2011;118:2453–60. doi: 10.1016/j.ophtha.2011.05.014. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Brown DM, Campochiaro PA, Singh RP, Li Z, Gray S, Saroj N, et al. Ranibizumab for macular edema following central retinal vein occlusion: Six-month primary end point results of a phase III study. Ophthalmology. 2010;117:1124–33.e1. doi: 10.1016/j.ophtha.2010.02.022. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Campochiaro PA, Brown DM, Awh CC, Lee SY, Gray S, Saroj N, et al. Sustained benefits from ranibizumab for macular edema following central retinal vein occlusion: Twelve-month outcomes of a phase III study. Ophthalmology. 2011;118:2041–9. doi: 10.1016/j.ophtha.2011.02.038. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Epstein DL, Algvere PV, von Wendt G, Seregard S, Kvanta A. Bevacizumab for macular edema in central retinal vein occlusion: A prospective, randomized, double-masked clinical study. Ophthalmology. 2012;119:1184–9. doi: 10.1016/j.ophtha.2012.01.022. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Epstein DL, Algvere PV, von Wendt G, Seregard S, Kvanta A. Benefit from bevacizumab for macular edema in central retinal vein occlusion: Twelve-month results of a prospective, randomized study. Ophthalmology. 2012;119:2587–91. doi: 10.1016/j.ophtha.2012.06.037. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Boyer D, Heier J, Brown DM, Clark WL, Vitti R, Berliner AJ, et al. Vascular endothelial growth factor Trap-Eye for macular edema secondary to central retinal vein occlusion: Six-month results of the phase 3 COPERNICUS study. Ophthalmology. 2012;119:1024–32. doi: 10.1016/j.ophtha.2012.01.042. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Brown DM, Heier JS, Clark WL, Boyer DS, Vitti R, Berliner AJ, et al. Intravitreal aflibercept injection for macular edema secondary to central retinal vein occlusion: 1-year results from the phase 3 COPERNICUS study. Am J Ophthalmol. 2013;155:429–37.e7. doi: 10.1016/j.ajo.2012.09.026. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Holz FG, Roider J, Ogura Y, Korobelnik JF, Simader C, Groetzbach G, et al. VEGF Trap-Eye for macular oedema secondary to central retinal vein occlusion: 6-month results of the phase III GALILEO study. Br J Ophthalmol. 2013;97:278–84. doi: 10.1136/bjophthalmol-2012-301504. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. McAllister IL, Gillies ME, Smithies LA, Rochtchina E, Harper CA, Daniell MD, et al. The Central Retinal Vein Bypass Study: A trial of laser-induced chorioretinal venous anastomosis for central retinal vein occlusion. Ophthalmology. 2010;117:954–65. doi: 10.1016/j.ophtha.2009.10.026. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Mirshahi A, Roohipoor R, Lashay A, Mohammadi SF, Mansouri MR. Surgical induction of chorioretinal venous anastomosis in ischaemic central retinal vein occlusion: A non-randomised controlled clinical trial. Br J Ophthalmol. 2005;89:64–9. doi: 10.1136/bjo.2004.045278. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Browning DJ, Rotberg MH. Vitreous Hemorrhage complicating laser-induced chorioretinal anastomosis for central retinal vein occlusion. Am J Ophthalmol. 1996;122:588–9. doi: 10.1016/s0002-9394(14)72128-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Luttrull JK. Epiretinal membrane and traction retinal detachment complicating laser-induced chorioretinal venous anastomosis. Am J Ophthalmol. 1997;123:698–9. doi: 10.1016/s0002-9394(14)71088-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Eccarius SG, Moran MJ, Slingsby JG. Choroidal neovascular membrane after laser-induced chorioretinal anastomosis. Am J Ophthalmol. 1996;122:590–1. doi: 10.1016/s0002-9394(14)72129-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Opremcak EM, Rehmar AJ, Ridenour CD, Kurz DE. Radial optic neurotomy for central retinal vein occlusion: 117 consecutive cases. Retina. 2006;26:297–305. doi: 10.1097/00006982-200603000-00008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Weizer JS, Stinnett SS, Fekrat S. Radial optic neurotomy as treatment for central retinal vein occlusion. Am J Ophthalmol. 2003;136:814–9. doi: 10.1016/s0002-9394(03)00698-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Friberg TR, Smolinski P, Hill S, Kurup SK. Biomechanical assessment of radial optic neurotomy. Ophthalmology. 2008;115:174–80. doi: 10.1016/j.ophtha.2007.03.013. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Arevalo JF, Garcia RA, Wu L, Rodriguez FJ, Dalma-Weiszhausz J, Quiroz-Mercado H, et al. Radial optic neurotomy for central retinal vein occlusion: Results of the Pan-American Collaborative Retina Study Group (PACORES) Retina. 2008;28:1044–52. doi: 10.1097/IAE.0b013e3181744153. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Binder S, Aggermann T, Brunner S. Long-term effects of radial optic neurotomy for central retinal vein occlusion consecutive interventional case series. Graefes Arch Clin Exp Ophthalmol. 2007;245:1447–52. doi: 10.1007/s00417-007-0565-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Leizaola-Fernández C, Suárez-Tatá L, Quiroz-Mercado H, Colina-Luquez J, Fromow-Guerra J, Jiménez-Sierra JM, et al. Vitrectomy with complete posterior hyaloid removal for ischemic central retinal vein occlusion: Series of cases. BMC Ophthalmol. 2005;5:10. doi: 10.1186/1471-2415-5-10. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

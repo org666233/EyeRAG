@@ -1,0 +1,1008 @@
+Source: PubMed Central (PMC)
+PMCID: PMC4422053
+Title: Aflibercept, Bevacizumab, or Ranibizumab for Diabetic Macular Edema
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4422053/
+Year: 2016
+Disease: anti_vegf
+Priority: 3
+============================================================
+
+N Engl J Med . Author manuscript; available in PMC: 2015 Sep 26. 
+ 
+ Published in final edited form as: N Engl J Med. 2015 Feb 18;372(13):1193–1203. doi: 10.1056/NEJMoa1414264 
+ 
+ 
+ Aflibercept, Bevacizumab, or Ranibizumab for Diabetic Macular Edema 
+ The Diabetic Retinopathy Clinical Research Network * 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ ✉ Address reprint requests to Mr. Glassman at the Jaeb Center for Health Research, 15310 Amberly Dr., Suite 350, Tampa, FL 33647, or at drcrstat2@jaeb.org 
+ 
+ 
+ * The study investigators and other personnel are listed in the Supplementary Appendix , available at NEJM.org. 
+ 
+ The members of the writing committee (John A. Wells, M.D., Palmetto Retina Center, West Columbia, SC; Adam R. Glassman, M.S., Jaeb Center for Health Research, Tampa, FL; Allison R. Ayala, M.S., Jaeb Center for Health Research, Tampa, FL; Lee M. Jampol, M.D., Feinberg School of Medicine, Northwestern University, Chicago; Lloyd Paul Aiello, M.D., Ph.D., Beetham Eye Institute, Joslin Diabetes Center, Harvard Medical School, Boston; Andrew N. Antoszyk, M.D., Charlotte Eye, Ear, Nose and Throat Associates, Charlotte, NC; Bambi Arnold-Bush, M.P.H., Jaeb Center for Health Research, Tampa, FL; Carl W. Baker, M.D., Paducah Retinal Center, Paducah, KY; Neil M. Bressler, M.D., Wilmer Eye Institute, Johns Hopkins University School of Medicine, Baltimore; David J. Browning, M.D., Charlotte Eye, Ear, Nose and Throat Associates, Charlotte, NC; Michael J. Elman, M.D., Elman Retina Group, Baltimore; Frederick L. Ferris, M.D., National Eye Institute, National Institutes of Health, Bethesda, MD; Scott M. Friedman, M.D., Florida Retina Consultants, Lakeland, FL; Michele Melia, Sc.M., Jaeb Center for Health Research, Tampa, FL; Dante J. Pieramici, M.D., California Retina Consultants, Santa Barbara; Jennifer K. Sun, M.D., M.P.H., Beetham Eye Institute, Joslin Diabetes Center, Harvard Medical School, Boston; and Roy W. Beck, M.D., Ph.D., Jaeb Center for Health Research, Tampa, FL) assume responsibility for the content of this article. 
+ 
+ Issue date 2015 Mar 26. 
+ 
+ Copyright © 2015 Massachusetts Medical Society. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC4422053  NIHMSID: NIHMS677065  PMID: 25692915 
+ 
+ The publisher's version of this article is available at N Engl J Med 
+ 
+ Abstract 
+ BACKGROUND 
+ The relative efficacy and safety of intravitreous aflibercept, bevacizumab, and ranibizumab in the treatment of diabetic macular edema are unknown. METHODS 
+ At 89 clinical sites, we randomly assigned 660 adults (mean age, 61±10 years) with diabetic macular edema involving the macular center to receive intravitreous aflibercept at a dose of 2.0 mg (224 participants), bevacizumab at a dose of 1.25 mg (218 participants), or ranibizumab at a dose of 0.3 mg (218 participants). The study drugs were administered as often as every 4 weeks, according to a protocol-specified algorithm. The primary outcome was the mean change in visual acuity at 1 year. RESULTS 
+ From baseline to 1 year, the mean visual-acuity letter score (range, 0 to 100, with higher scores indicating better visual acuity; a score of 85 is approximately 20/20) improved by 13.3 with aflibercept, by 9.7 with bevacizumab, and by 11.2 with ranibizumab. Although the improvement was greater with aflibercept than with the other two drugs (P<0.001 for aflibercept vs. bevacizumab and P = 0.03 for aflibercept vs. ranibizumab), it was not clinically meaningful, because the difference was driven by the eyes with worse visual acuity at baseline (P<0.001 for interaction). When the initial visual-acuity letter score was 78 to 69 (equivalent to approximately 20/32 to 20/40) (51% of participants), the mean improvement was 8.0 with aflibercept, 7.5 with bevacizumab, and 8.3 with ranibizumab (P>0.50 for each pairwise comparison). When the initial letter score was less than 69 (approximately 20/50 or worse), the mean improvement was 18.9 with aflibercept, 11.8 with bevacizumab, and 14.2 with ranibizumab (P<0.001 for aflibercept vs. bevacizumab, P = 0.003 for aflibercept vs. ranibizumab, and P = 0.21 for ranibizumab vs. bevacizumab). There were no significant differences among the study groups in the rates of serious adverse events (P = 0.40), hospitalization (P = 0.51), death (P = 0.72), or major cardiovascular events (P = 0.56). CONCLUSIONS 
+ Intravitreous aflibercept, bevacizumab, or ranibizumab improved vision in eyes with center-involved diabetic macular edema, but the relative effect depended on baseline visual acuity. When the initial visual-acuity loss was mild, there were no apparent differences, on average, among study groups. At worse levels of initial visual acuity, aflibercept was more effective at improving vision. (Funded by the National Institutes of Health; ClinicalTrials.gov number, NCT01627249 .) 
+ Diabetic macular edema, a manifestation of diabetic retinopathy that impairs central vision, affects approximately 750,000 people in the United States and is a leading cause of vision loss. 1 The costs associated with visual disability and treatment of diabetic macular edema are high. 2 The increasing prevalence of diabetes worldwide highlights the importance of diabetic macular edema as a global health issue. 3 
+ Vascular endothelial growth factor (VEGF) is an important mediator of abnormal vascular permeability in diabetic macular edema. 4 , 5 Intravitreous injections of anti-VEGF agents have been shown to be superior to laser photocoagulation of the macula, the standard treatment for diabetic macular edema since the 1980s. 6 – 13 In 2013, an estimated 90% of retinal specialists in the United States reported using anti-VEGF therapy for initial management of vision loss from diabetic macular edema involving the macular center. 14 
+ Three commonly used intravitreous VEGF inhibitors — aflibercept (Eylea, Regeneron Pharmaceuticals), bevacizumab (Avastin, Genentech), and ranibizumab (Lucentis, Genentech) — have been shown to be beneficial and relatively safe for the treatment of diabetic macular edema, 6 , 15 – 18 but only aflibercept and ranibizumab are approved by the Food and Drug Administration (FDA) for this indication. Bevacizumab, which is not approved by the FDA for any ocular indication, is widely used for off-label treatment of diabetic macular edema in repackaged aliquots containing approximately 1/500th of the systemic dose used in cancer therapy. On the basis of the Medicare allowable charges, the approximate cost for a single intravitreous injection is $1,950 for aflibercept (at a dose of 2.0 mg), $50 for bevacizumab (under the assumption that 10 mg is used to repackage a 1.25-mg dose), and $1,200 for ranibizumab (at a dose of 0.3 mg). 
+ To provide comparative efficacy and safety data, the Diabetic Retinopathy Clinical Research Network (DRCR.net), sponsored by the National Institutes of Health, conducted a randomized clinical trial to compare intravitreous aflibercept, bevacizumab, and ranibizumab for the treatment of diabetic macular edema involving the center of the macula and causing vision impairment. 
+ METHODS 
+ STUDY CONDUCT AND OVERSIGHT 
+ We conducted this multicenter, randomized clinical trial at 89 clinical sites in the United States. The study adhered to the tenets of the Declaration of Helsinki and was approved by local institutional review boards or a central institutional review board if the site did not have a local board. Study participants provided written informed consent. The manuscript was collaboratively written by the writing committee. The second and third members of the committee analyzed the data and vouch for the accuracy and completeness of the data and analyses, and the first member of the committee vouches for the fidelity of the study to the protocol (available with the full text of this article at NEJM.org). Oversight was conducted by an independent data and safety monitoring committee. 
+ Regeneron Pharmaceuticals provided the aflibercept at no cost, and Genentech provided the ranibizumab at no cost for the study. Genentech provided funding for blood-pressure cuffs and the collection of plasma and urine for testing not reported here. DRCR.net purchased the bevacizumab, and a central pharmacy (University of Pennsylvania Investigational Drug Service, Philadelphia) repackaged it into single-use vials containing the dose that is commonly used in clinical practice. In accordance with the DRCR.net Industry Collaboration Policies (available at www.drcr.net ), the DRCR.net had complete control over the design of the protocol, ownership of the data, and all editorial content of presentations and publications related to the protocol. STUDY POPULATION 
+ Study participants were at least 18 years of age, had type 1 or 2 diabetes, had at least one eye with a best corrected visual-acuity letter score (range, 0 to 100, with higher scores indicating better visual acuity) of 78 (approximate Snellen equivalent, 20/32) to 24 (approximate Snellen equivalent, 20/320) and center-involved diabetic macular edema on clinical examination and optical coherence tomography (OCT) according to protocol-defined thresholds, and had received no anti-VEGF treatment within the previous 12 months. Other eligibility criteria are listed in Table S1 in the Supplementary Appendix , available at NEJM.org. STUDY DESIGN 
+ One eye of each participant was randomly assigned in a 1:1:1 ratio to be injected with aflibercept (at a dose of 2.0 mg), bevacizumab (1.25 mg), or ranibizumab (0.3 mg). Randomization was performed at the DRCR.net study website, in permuted blocks and with stratification according to study site and visual acuity in the study eye. Each batch of repackaged bevacizumab underwent sterility, purity, and potency testing before use ( Table S2 in the Supplementary Appendix ). When the other (nonstudy) eye required anti-VEGF treatment (129 participants in the aflibercept group [58%], 122 participants in the bevacizumab group [56%], and 121 participants in the ranibizumab group [56%]), the agent that was used was the same as that used for the study eye. 
+ For each agent, the injection volume was 0.05 ml. Injections were performed with the use of topical anesthetic (70% of injections), subconjunctival anesthetic (7%), or both (23%). A sterile lid speculum was used, and povidone–iodine was applied to the injection site. The use of preinjection or postinjection antibiotics was at the investigator’s discretion. Details of the injection procedure are available at http://drcrnet.jaeb.org/ViewPage.aspx?PageName=Investig_Info . 
+ The primary outcome was assessed at the 1-year visit, with follow-up through 2 years. Only data through 1 year are reported here. During the first year, follow-up visits occurred every 4 weeks (±1 week). At baseline and each follow-up visit, certified personnel measured the best corrected visual acuity using the Electronic Early Treatment of Diabetic Retinopathy Study Visual Acuity Test 19 and performed a dilated ocular examination and spectral or time-domain OCT (97% and 3% of scans, respectively). OCT values were converted to time-domain–equivalent values for analysis and reporting. 20 Baseline and 1-year OCT scans were graded at the Duke Reading Center (Duke University). Any untoward medical occurrence, regardless of whether the event was considered to be related to treatment, was reported as an adverse event and coded according to the Medical Dictionary for Regulatory Activities (MedDRA). Hospital-discharge summaries were reviewed at the coordinating center. 
+ Study participants, reading-center graders, and the medical monitor who reviewed all adverse events were unaware of the treatment-group assignments. Visual-acuity and OCT technicians were unaware of the treatment-group assignments at the 1-year visit. Investigators and study coordinators were aware of the treatment-group assignments. TREATMENT PROTOCOL 
+ The study drugs were injected into the study eyes at baseline and then every 4 weeks unless visual acuity was 20/20 or better with a central subfield thickness below the eligibility threshold and there was no improvement or worsening in response to the past two injections. Improvement was considered to be an increase in the visualacuity letter score of 5 or more (approximately 1 Snellen line) or a decrease in the central subfield thickness of 10% or more; worsening was considered to be a decrease in the visual-acuity letter score of 5 or more or an increase in the central subfield thickness of 10% or more. Starting at the 24-week visit, irrespective of visual acuity and central subfield thickness, an injection was with-held if there was no improvement or worsening after two consecutive injections, but treatment was reinitiated if the visual-acuity letter score or the central subfield thickness worsened. 
+ Laser photocoagulation therapy (focal, grid, or both) was initiated at or after the 24-week visit for persistent diabetic macular edema, defined on the basis of protocol-specified criteria. Treatment for diabetic macular edema other than the randomly assigned anti-VEGF agent or laser therapy was permitted if a study eye met the criteria for treatment failure. Figure S1 in the Supplementary Appendix provides additional details. STATISTICAL ANALYSIS 
+ The primary outcome measure was the mean change in visual acuity from baseline to 1 year, with adjustment for baseline visual acuity. The primary analysis consisted of three pairwise comparisons among treatment groups with the use of an analysis of covariance model. Overall type I error was controlled with the use of the Hochberg method. 21 The sample size was estimated on the basis of an expected largest between-group difference in the visual-acuity letter score of 4.0, a standard deviation of 11.4 with adjustment for baseline visual acuity, an overall two-sided type I error rate of 0.049 (after an adjustment of 0.001 for interim monitoring), a rate of loss to follow-up of 7.5%, and a power of approximately 90%. 
+ The primary analysis followed the intention-to-treat principle and included all eyes that were randomly assigned to a study agent. Markov chain Monte Carlo method of multiple imputation was used to impute missing data on 1-year visual acuity on the basis of prior data. 22 Outlying values were truncated to 3 SD from the mean. Sensitivity analyses with different approaches for handling missing data produced similar results ( Table S3 in the Supplementary Appendix ). Binary visual-acuity outcomes were analyzed with the use of binomial regression, and outcomes regarding central subfield thickness were analyzed with the use of Poisson regression with robust variance estimation. 23 Analyses of visual acuity and central subfield thickness included adjustment for baseline visual acuity, and analyses of central subfield thickness included baseline thickness as a covariate. Prespecified interaction terms were included in pertinent models. There was no imputation for missing data in secondary analyses. 
+ Means (±SD) are reported. P values and confidence intervals are two-sided; visual-acuity and central-subfield-thickness outcomes incorporate an adjustment for multiple comparisons to allow for direct comparison with the overall type I error rate of 0.049 ( Tables S4 and S5 in the Supplementary Appendix ). For adverse events and number of treatments, if the P value for the overall three-group comparison was less than 0.05, P values for pairwise comparisons were calculated, with adjustment for multiple treatment comparisons. Analyses were performed with the use of SAS software, version 9.4 (SAS Institute). RESULTS 
+ STUDY PARTICIPANTS 
+ Between August 22, 2012, and August 28, 2013, 660 participants were randomly assigned to receive aflibercept (224 participants), bevacizumab (218), or ranibizumab (218). The mean age of the participants was 61±10 years; 47% were women, and 65% were white. A total of 90% of the participants had type 2 diabetes, and the mean duration of diabetes was 17±11 years. The mean visualacuity letter score at baseline was 64.8±11.3 (Snellen equivalent, approximately 20/50), and the mean central subfield thickness was 412±130 μ m. Baseline characteristics were similar in the three groups ( Table S6 in the Supplementary Appendix ). With deaths excluded, the overall rate of completion of the 1-year visit was 96% ( Fig. S2 in the Supplementary Appendix ). TREATMENT OF DIABETIC MACULAR EDEMA 
+ The median number of intravitreous injections administered (maximum possible injections, 13) was 9 (interquartile range, 8 to 11) in the aflibercept group, 10 (interquartile range, 8 to 12) in the bevacizumab group, and 10 (interquartile range, 8 to 11) in the ranibizumab group (P = 0.045 for overall comparison) ( Table S7 in the Supplementary Appendix ); 99% of the injections required by the protocol (on the basis of visual acuity and central subfield thickness) were given in each group at completed visits. Laser photocoagulation (focal, grid, or both) was performed at least once between 24 and 48 weeks in 76 of 208 aflibercept-treated eyes (37%), 115 of 206 bevacizumab-treated eyes (56%), and 95 of 206 ranibizumab-treated eyes (46%) (P<0.001 for overall comparison); 93%, 92%, and 95% of eyes, respectively, that required photocoagulation according to the protocol (on the basis of visual acuity and central subfield thickness) received at least one treatment. 
+ When initial visual acuity was 20/32 to 20/40, the median number of injections was 9 in each group, with 36% of aflibercept-treated eyes, 47% of bevacizumab-treated eyes, and 43% of ranibizumab-treated eyes receiving photocoagulation therapy. When initial visual acuity was 20/50 or worse, the median number of injections was 10 in the aflibercept group, 11 in the bevacizumab group, and 10 in the ranibizumab group, with 37%, 65%, and 50%, respectively, of treated eyes receiving photocoagulation therapy. EFFECT OF TREATMENT ON VISUAL ACUITY 
+ The mean improvement in the visual-acuity letter score at 1 year was greater with aflibercept than with bevacizumab or ranibizumab (13.3 vs. 9.7 and 11.2, respectively; P<0.001 for aflibercept vs. bevacizumab and P = 0.03 for aflibercept vs. ranibizumab), but the relative effect varied according to initial visual acuity (P<0.001 for interaction with visual acuity as a continuous variable and P = 0.002 for interaction with visual acuity as a categorical variable) ( Table S4 and Fig. S3 in the Supplementary Appendix ). When the initial visualacuity letter score was 78 to 69 (Snellen equivalent, 20/32 to 20/40) (51% of the cohort), the mean improvement from baseline was 8.0±7.6 with aflibercept, 7.5±7.4 with bevacizumab, and 8.3±6.8 with ranibizumab ( Table 1 ). When the initial visual-acuity letter score was less than 69 (Snellen equivalent, 20/50 or worse), the mean improvement was 18.9±11.5, 11.8±12.0, and 14.2±10.6, respectively (P<0.001 for aflibercept vs. bevacizumab, P = 0.003 for aflibercept vs. ranibizumab, and P = 0.21 for ranibizumab vs. bevacizumab) ( Table 1 ). 
+ Table 1. 
+ Visual-Acuity Outcomes. * 
+ 
+ 
+ 
+ Visual-Acuity Letter Score and Snellen Equivalent 
+ Aflibercept 
+ Bevacizumab 
+ Ranibizumab 
+ Aflibercept vs. Bevacizumab 
+ Aflibercept vs. Ranibizumab 
+ Ranibizumab vs. Bevacizumab 
+ 
+ 
+ Difference (95% CI) 
+ P Value 
+ Difference (95% CI) 
+ P Value 
+ Difference (95% CI) 
+ P Value 
+ 
+ 
+ 
+ 
+ Letter score of <69, equivalent to 20/50 or worse, at baseline 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ No. of eyes 
+ 102 
+ 102 
+ 101 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Visual acuity at baseline 
+ 
+ 
+ 
+ 
+  Mean letter score 
+ 56.2±11.1 
+ 56.6±10.6 
+ 56.5±9.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Approximate Snellen equivalent 
+ 20/80 
+ 20/80 
+ 20/80 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Visual acuity at 1 yr 
+ 
+ 
+ 
+ 
+  Mean letter score 
+ 75.2±10.9 
+ 68.5±13.6 
+ 70.7±12.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Approximate Snellen equivalent 
+ 20/32 
+ 20/40 
+ 20/40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Change from baseline in letter score 
+ 
+ 
+ 
+ 
+  Mean improvement 
+ 18.9±11.5 
+ 11.8±12.0 
+ 14.2±10.6 
+ 6.5 (2.9 to 10.1) 
+ <0.001 
+ 4.7 (1.4 to 8.0) 
+ 0.003 
+ 1.8 (−1.1 to 4.8) 
+ 0.21 
+ 
+ 
+ 
+ 
+ 
+  Improvement of ≥10 — no. (%) 
+ 79 (77) 
+ 61 (60) 
+ 70 (69) 
+ 17 (2 to 31) 
+ 0.02 
+ 10 (−4 to 23) 
+ 0.20 
+ 7 (−6 to 20) 
+ 0.28 
+ 
+ 
+ 
+ 
+ 
+  Worsening of ≥10 — no. (%) 
+ 1 (1) 
+ 4 (4) 
+ 2 (2) 
+ −3 (−7 to 2) 
+ 0.56 
+ −1 (−5 to 3) 
+ 0.56 
+ −1 (−6 to 3) 
+ 0.56 
+ 
+ 
+ 
+ 
+ 
+  Improvement of ≥15 — no. (%) 
+ 68 (67) 
+ 42 (41) 
+ 50 (50) 
+ 24 (9 to 39) 
+ <0.001 
+ 18 (4 to 32) 
+ 0.008 
+ 6 (−7 to 19) 
+ 0.34 
+ 
+ 
+ 
+ 
+ 
+  Worsening of ≥15 — no. (%) 
+ 1 (1) 
+ 2 (2) 
+ 2 (2) 
+ 0 (−3 to 3) 
+ 0.85 
+ −1 (−4 to 2) 
+ 0.85 
+ 1 (−3 to 4) 
+ 0.85 
+ 
+ 
+ 
+ 
+ 
+ Letter score of 78 to 69, equivalent to 20/32 to 20/40, at baseline 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ No. of eyes 
+ 106 
+ 104 
+ 105 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Visual acuity at baseline 
+ 
+ 
+ 
+ 
+  Mean letter score 
+ 73.5±2.6 
+ 72.8±2.9 
+ 73.4±2.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Approximate Snellen equivalent 
+ 20/32 
+ 20/40 
+ 20/40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Visual acuity at 1 yr 
+ 
+ 
+ 
+ 
+  Mean letter score 
+ 81.4±8.3 
+ 79.9±10.1 
+ 81.6±6.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Approximate Snellen equivalent 
+ 20/25 
+ 20/25 
+ 20/25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Change from baseline in letter score 
+ 
+ 
+ 
+ 
+  Mean improvement 
+ 8.0±7.6 
+ 7.5±7.4 
+ 8.3±6.8 
+ 0.7 (−1.3 to 2.7) 
+ 0.69 
+ −0.4 (−2.3 to 1.5) 
+ 0.69 
+ 1.1 (−0.9 to 3.1) 
+ 0.69 
+ 
+ 
+ 
+ 
+ 
+  Improvement of ≥10 — no. (%) 
+ 53 (50) 
+ 47 (45) 
+ 52 (50) 
+ 6 (−9 to 21) 
+ 0.82 
+ 0 (−13 to 14) 
+ 0.95 
+ 6 (−10 to 21) 
+ 0.82 
+ 
+ 
+ 
+ 
+ 
+  Worsening of ≥10 — no. (%) 
+ 4 (4) 
+ 2 (2) 
+ 1 (1) 
+ 2 (−3 to 6) 
+ 0.54 
+ 3 (−1 to 7) 
+ 0.54 
+ −1 (−4 to 2) 
+ 0.54 
+ 
+ 
+ 
+ 
+ 
+  Improvement of ≥15 — no. (%) 
+ 19 (18) 
+ 17 (16) 
+ 16 (15) 
+ 2 (−7 to 11) 
+ 0.73 
+ 4 (−5 to 12) 
+ 0.73 
+ −2 (−10 to 7) 
+ 0.73 
+ 
+ 
+ 
+ 
+ 
+  Worsening of ≥15 — no. (%) 
+ 2 (2) 
+ 1 (1) 
+ 1 (1) 
+ 1 (−2 to 4) 
+ 0.99 
+ 1 (−2 to 4) 
+ 0.99 
+ 0 (−3 to 3) 
+ 0.99 
+ 
+ 
+ 
+ Open in a new tab 
+ 
+ * Plus–minus values are means ±SD. Differences in percentages are shown as percentage points. Treatment-group comparisons were performed with the use of analysis-of-covariance models on imputed data, with adjustment for continuous baseline visual acuity, or with the use of binomial regression models, with adjustment for categorical baseline visual acuity. Reported P values have been adjusted for multiple treatment-group comparisons to account for an overall type I error rate of 0.049, and corresponding [1 − ( α ÷ i)] × 100% confidence intervals are reported, where i is the rank (1, 2, or 3) of the Hochberg-adjusted P value from among the descending ordered raw pairwise P values. See Table S4 in the Supplementary Appendix for additional details. 
+ As seen in Figure 1A , all three groups showed improvement in mean visual acuity by 4 weeks. In the eyes with worse initial visual acuity (letter score of <69, equivalent to 20/50 or worse), the greater efficacy of aflibercept started to become apparent as early as 4 weeks after the initiation of treatment ( Fig. 1B , and Fig. S4 in the Supplementary Appendix ). The percentages of eyes with a change in the letter score of 10 or more or 15 or more are provided in Table 1 , and in Table S4 in the Supplementary Appendix . A similar interaction between treatment and baseline central subfield thickness with respect to the change in visual acuity at 1 year was observed (P = 0.005) ( Table S8 in the Supplementary Appendix ), such that the effect of aflibercept on visual-acuity outcomes was greater when pretreatment thickness was greater. 
+ Figure 1. Mean Change in Visual Acuity over Time. 
+ 
+ Open in a new tab 
+ Shown are the changes in visual acuity overall (Panel A) and according to baseline visual acuity (Panel B). In Panel B, solid lines indicate baseline visual acuity of 20/50 or worse, and dashed lines indicate baseline visual acuity of 20/32 to 20/40. Outlying values were truncated to 3 SD from the mean. The number of eyes assessed at each 4-week interval ranged from 195 to 224 in the aflibercept group, 188 to 218 in the bevacizumab group, and 188 to 218 in the ranibizumab group (see Fig. S2 in the Supplementary Appendix for the exact number assessed at each 4-week interval). I bars indicate 95% confidence intervals. EFFECT OF TREATMENT ON RETINAL THICKENING 
+ At the 1-year visit, the central subfield thickness decreased, on average, by 169±138 μ m with aflibercept, 101±121 μ m with bevacizumab, and 147±134 μ m with ranibizumab; the thickness was less than 250 μ m in 135 of 205 eyes (66%), 74 of 203 eyes (36%), and 116 of 201 eyes (58%), respectively ( Fig. 2A , and Table S5 in the Supplementary Appendix ). The relative treatment effect on central subfield thickness varied according to initial visual acuity (P<0.001 for interaction) ( Table 2 and Fig. 2B ). Data on changes in retinal volume are provided in Table S9 in the Supplementary Appendix . 
+ Figure 2. Mean Change in Central Subfield Thickness over Time. 
+ 
+ Open in a new tab 
+ Shown are the changes in central subfield thickness overall (Panel A) and according to baseline visual acuity (Panel B). In Panel B, solid lines indicate baseline visual acuity of 20/50 or worse, and dashed lines indicate baseline visual acuity of 20/32 to 20/40. Central subfield thickness was assessed with the use of optical coherence tomography. The number of eyes assessed at each 4-week interval ranged from 192 to 221 in the aflibercept group, 186 to 216 in the bevacizumab group, and 185 to 215 in the ranibizumab group. I bars indicate 95% confidence intervals. Table 2. 
+ Central-Subfield-Thickness (CST) Outcomes. * 
+ 
+ 
+ 
+ Visual-Acuity Letter Score and Snellen Equivalent 
+ Aflibercept 
+ Bevacizumab 
+ Ranibizumab 
+ Aflibercept vs. Bevacizumab 
+ Aflibercept vs. Ranibizumab 
+ Ranibizumab vs. Bevacizumab 
+ 
+ 
+ Difference (95% CI) 
+ P Value 
+ Difference (95% CI) 
+ P Value 
+ Difference (95% CI) 
+ P Value 
+ 
+ 
+ 
+ 
+ Letter score of <69, equivalent to 20/50 or worse, at baseline 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ No. of eyes 
+ 101 
+ 100 
+ 99 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CST at baseline — μ m 
+ 452±145 
+ 467±155 
+ 431±138 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CST at 1 yr — μ m 
+ 238±81 
+ 328±154 
+ 252±92 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mean change in CST from baseline — μ m 
+ −210±151 
+ −135±152 
+ −176±151 
+ −86 (−122 to −50) 
+ <0.001 
+ −19 (−48 to 11) 
+ 0.22 
+ −67 (−101 to −33) 
+ <0.001 
+ 
+ 
+ 
+ 
+ 
+ CST <250 μ m at 1 yr — no. (%) 
+ 71 (70) 
+ 39 (39) 
+ 55 (56) 
+ 32 (16 to 48) 
+ <0.001 
+ 16 (3 to 30) 
+ 0.02 
+ 16 (2 to 29) 
+ 0.02 
+ 
+ 
+ 
+ 
+ 
+ Letter score of 78 to 69, equivalent to 20/32 to 20/40, at baseline 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ No. of eyes 
+ 104 
+ 103 
+ 102 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CST at baseline — μ m 
+ 373±108 
+ 363±88 
+ 384±99 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CST at 1 yr — μ m 
+ 242±57 
+ 294±82 
+ 263±84 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mean change in CST from baseline — μ m 
+ −129±110 
+ −67±65 
+ −119±109 
+ −56 (−78 to −33) 
+ <0.001 
+ −18 (−37 to 1) 
+ 0.06 
+ −38 (−59 to −16) 
+ <0.001 
+ 
+ 
+ 
+ 
+ 
+ CST <250 μ m at 1 yr — no. (%) 
+ 64 (62) 
+ 35 (34) 
+ 61 (60) 
+ 31 (16 to 45) 
+ <0.001 
+ −2 (−16 to 12) 
+ 0.79 
+ 33 (17 to 48) 
+ <0.001 
+ 
+ 
+ 
+ Open in a new tab 
+ 
+ * CST was assessed with the use of optical coherence tomography. Plus–minus values are means ±SD. Differences in percentages are shown as percentage points. Treatment-group comparisons were performed with the use of analysis-of-covariance models on observed data, with adjustment for continuous baseline visual acuity and continuous baseline CST, or with the use of Poisson regression models with robust variance estimation with identity link, with adjustment for categorical baseline visual acuity and categorical baseline CST. Reported P values have been adjusted for multiple treatment-group comparisons to account for an overall type I error rate of 0.049, and corresponding [1 – ( α ÷ i)] × 100% confidence intervals are reported, where i is the rank (1, 2, or 3) of the Hochberg-adjusted P value from among the descending ordered raw pairwise P values. See Table S5 in the Supplementary Appendix for additional details. 
+ SAFETY 
+ Ocular Adverse Events 
+ Injection-related infectious endophthalmitis occurred in one aflibercept-treated eye and one ranibizumab-treated eye (both nonstudy eyes) and no bevacizumab-treated eyes ( Table 3 ). Ocular inflammation other than endophthalmitis was reported in two study eyes in each study-drug group, as well as in three nonstudy eyes that had been treated with aflibercept, one nonstudy eye treated with bevacizumab, and no nonstudy eyes treated with ranibizumab. Ocular adverse events are detailed in Tables S13 and S14 in the Supplementary Appendix . 
+ Table 3. 
+ Ocular and Systemic Adverse Events of Interest through 1 Year. 
+ 
+ 
+ Event 
+ Aflibercept (N = 224) 
+ Bevacizumab (N = 218) 
+ Ranibizumab (N = 218) 
+ P Value * 
+ 
+ 
+ 
+ Prespecified ocular adverse events 
+ Study eyes 
+ 
+  No. of injections before 1 yr † 
+ 
+ 1991 
+ 2055 
+ 2011 ‡ 
+ 
+ 
+ 
+  Events occurring at least once through 1 yr — no. of eyes (%) † 
+ 
+ 
+   Endophthalmitis 
+ 0 
+ 0 
+ 0 
+ 
+ 
+ 
+   Inflammation § 
+ 
+ 2 (1) 
+ 2 (1) 
+ 2 (1) 
+ 1.0 
+ 
+ 
+   Retinal detachment or tear 
+ 0 
+ 1 (<0.5) 
+ 1 (<0.5) 
+ 0.55 
+ 
+ 
+   Vitreous hemorrhage 
+ 4 (2) 
+ 9 (4) 
+ 7 (3) 
+ 0.35 
+ 
+ 
+   Injection-related cataract 
+ 2 (1) 
+ 2 (1) 
+ 0 
+ 0.55 
+ 
+ 
+   Elevation in intraocular pressure ¶ 
+ 
+ 32 (14) 
+ 19 (9) 
+ 23 (11) 
+ 0.18 
+ 
+ Nonstudy eyes treated with a study agent 
+ 
+  No. of eyes treated before 1 yr † 
+ 
+ 129 
+ 122 
+ 121 
+ 
+ 
+ 
+  No. of injections before 1 yr † 
+ 
+ 753 
+ 841 
+ 766 || 
+ 
+ 
+ 
+ Events occurring at least once from the first injection through 1 yr — no. of eyes (%) † 
+ 
+ 
+   Endophthalmitis 
+ 1 (1) 
+ 0 
+ 1 (1) 
+ 0.77 
+ 
+ 
+   Inflammation § 
+ 
+ 3 (2) 
+ 1 (1) 
+ 0 
+ 0.33 
+ 
+ 
+   Retinal detachment or tear 
+ 0 
+ 0 
+ 0 
+ 
+ 
+ 
+   Vitreous hemorrhage 
+ 5 (4) 
+ 8 (7) 
+ 3 (2) 
+ 0.29 
+ 
+ 
+   Injection-related cataract 
+ 1 (1) 
+ 0 
+ 0 
+ 1.0 
+ 
+ 
+   Elevation in intraocular pressure ¶ 
+ 
+ 15 (12) 
+ 11 (9) 
+ 11 (9) 
+ 0.77 
+ 
+ Systemic events 
+ Vascular events occurring at least once through 1 yr — no. of participants (%) ** †† 
+ 
+ 
+  Nonfatal myocardial infarction 
+ 4 (2) 
+ 1 (<0.5) 
+ 3 (1) 
+ 
+ 
+ 
+  Nonfatal stroke 
+ 0 
+ 4 (2) 
+ 4 (2) 
+ 
+ 
+ 
+  Death from potential vascular cause or unknown cause 
+ 2 (1) 
+ 4 (2) 
+ 3 (1) 
+ 
+ 
+ 
+  Any event 
+ 6 (3) 
+ 9 (4) 
+ 10 (5) 
+ 0.56 
+ 
+ Prespecified events occurring at least once through 1 yr — no. of participants (%) †† 
+ 
+ 
+  Death from any cause 
+ 3 (1) 
+ 5 (2) 
+ 4 (2) 
+ 0.72 
+ 
+ 
+  Hospitalization 
+ 49 (22) 
+ 40 (18) 
+ 49 (22) 
+ 0.51 
+ 
+ 
+  Serious adverse event 
+ 59 (26) 
+ 46 (21) 
+ 55 (25) 
+ 0.40 
+ 
+ 
+  Gastrointestinal event ‡‡ 
+ 
+ 44 (20) 
+ 40 (18) 
+ 38 (17) 
+ 0.84 
+ 
+ 
+  Renal event §§ 
+ 
+ 28 (12) 
+ 23 (11) 
+ 24 (11) 
+ 0.81 
+ 
+ 
+  Hypertension 
+ 26 (12) 
+ 16 (7) 
+ 26 (12) 
+ 0.20 
+ 
+ 
+ 
+ Open in a new tab 
+ 
+ 
+ * The P values are for the overall three-group comparison by Fisher’s exact test. 
+ 
+ 
+ † If the 1-year visit was completed, then the visit date was used to define the 1-year time point; otherwise, 365 days was used. 
+ 
+ 
+ ‡ Seven study eyes were given one injection and two eyes were given two injections of 0.5 mg of ranibizumab before the Food and Drug Administration approved a 0.3-mg dose of ranibizumab for the treatment of diabetic macular edema. 
+ 
+ 
+ § Inflammation included the presence of inflammatory cells or flare in the anterior chamber, choroiditis, episcleritis, iritis, and the presence of vitreal cells. 
+ 
+ 
+ ¶ Elevation in intraocular pressure was defined as an increase in intraocular pressure of 10 mm Hg or more from baseline at any visit, an intraocular pressure of 30 mm Hg or more at any visit, or the initiation of medication to lower intraocular pressure that was not in use at baseline. There were no surgeries for glaucoma. 
+ 
+ 
+ || The numbers of nonstudy eyes that were injected with a 0.5-mg dose of ranibizumab were as follows: 8 eyes were given 1 injection, 2 eyes were given 2 injections, 1 eye was given 4 injections, 1 eye was given 5 injections, 1 eye was given 9 injections, and 1 eye was given 11 injections. 
+ 
+ 
+ ** Vascular events were defined according to the criteria of the Antiplatelet Trialists’ Collaboration. 24 
+ 
+ 
+ †† If the 1-year visit was completed after 365 days, then the visit date was used to define the 1-year time point; otherwise, 365 days was used. 
+ 
+ 
+ ‡‡ Gastrointestinal events included events with a Medical Dictionary for Regulatory Activities (MedDRA) system organ class of gastrointestinal disorders. 
+ 
+ 
+ §§ Renal events included a subset of events with a MedDRA system organ class of renal and urinary disorders that were indicative of intrinsic kidney disease, plus increased or abnormal blood creatinine level or renal transplantation from other system organ classes. 
+ 
+ Systemic Adverse Events 
+ Through 1 year, the rate of serious adverse events was similar in the three treatment groups (P = 0.40), as was the rate of hospitalization (P = 0.51) ( Table 3 , and Table S10 in the Supplementary Appendix ). The rate of death from any cause was 1% in the aflibercept group, 2% in the bevacizumab group, and 2% in the ranibizumab group (P = 0.72); the corresponding rates of vascular events (as defined by the Antiplatelet Trialists’ Collaboration 24 ) were 3%, 4%, and 5% (P = 0.56). In a post hoc analysis, there were no significant differences identified in comparisons of the frequency of events in each individual MedDRA system organ class ( Table S11 in the Supplementary Appendix ); however, the frequency of events in the combined MedDRA system organ classes of cardiac disorders and vascular disorders differed among treatment groups (P = 0.01 excluding hypertension events and P = 0.04 including hypertension events), with a higher frequency in the ranibizumab group than in the other two groups ( Table S12 in the Supplementary Appendix ). Details of systemic adverse events are provided in Table S15 in the Supplementary Appendix . DISCUSSION 
+ In this comparative-effectiveness, randomized clinical trial of center-involved diabetic macular edema causing decreased visual acuity, treatment with intravitreous aflibercept, bevacizumab, or ranibizumab was associated with a substantial improvement in mean visual acuity by 1 month, with the improvement sustained through 1 year with the use of a standardized retreatment protocol. On average, greater improvement was seen with aflibercept than with the other agents, although the magnitude of the greater effect of aflibercept lacked clinical applicability because it was dependent on initial visual acuity. When initial vision loss was mild (20/32 to 20/40, representing 51% of study eyes), there was little difference in mean visual acuity at 1 year among the three agents. At worse initial levels of vision, aflibercept had a clinically meaningful advantage; for example, an improvement in the visual-acuity letter score of at least 15 (3 Snellen lines) was observed in 63% more aflibercept-treated eyes than bevacizumab-treated eyes (67% vs. 41%) and in 34% more aflibercept-treated eyes than ranibizumab-treated eyes (67% vs. 50%). The effect of bevacizumab on reducing macular edema was less than that of the other two agents in both initial-visualacuity subgroups. Irrespective of initial visual acuity, few eyes treated with any one agent had substantial loss of visual acuity. 
+ The median number of injections was 9 or 10 in the three groups. Laser photocoagulation was performed in fewer aflibercept-treated eyes than eyes treated with the other agents, a finding that probably reflects the greater proportion of aflibercept-treated eyes with resolution of central-subfield– involved diabetic macular edema. The three compounds differ in structure, growth factor specificity, and VEGF-binding affinity, but the ways in which these differences may relate to in vivo efficacy is not fully understood. 25 – 28 
+ Rates of death, serious adverse events (including death), hospitalization, and prespecified systemic adverse events were similar in the three treatment groups. Although significant differences among treatment groups in the frequency of major cardiovascular events were not identified, a post hoc analysis showed that more participants in the ranibizumab group than in the other two groups reported adverse events when the MedDRA system organ classes of cardiac disorders and vascular disorders were combined. In light of the inconsistent cardiovascular associations among our study and prior trials, 6 , 29 – 31 the statistical association between ranibizumab and cardiovascular events that was observed only in our post hoc analysis may be due to chance. 
+ In a prior DRCR.net trial comparing ranibizumab with laser photocoagulation for the treatment of diabetic macular edema, there was no evidence of an increased cardiovascular risk with ranibizumab. 6 A post hoc analysis of previous trials involving persons with age-related macular degeneration showed that aflibercept might be associated with a greater risk of stroke than ranibizumab among persons 85 years of age or older, 32 but our trial did not show an increased risk of stroke with aflibercept. One prior trial of anti-VEGF agents for age-related macular degeneration suggested that bevacizumab might have greater systemic toxicity than ranibizumab, 33 but this was not confirmed by a recent Cochrane Collaboration meta-analysis. 34 With respect to ocular complications, endophthalmitis occurred rarely (in association with 0.02% of the injections), and no significant difference in intraocular inflammation was observed among the three groups. 
+ We could not identify evidence of confounding or bias to explain the results. Participants and outcome assessors were unaware of the treatment-group assignments. With regard to the results for bevacizumab, a central pharmacy repackaged the agent into single-use vials that underwent independent testing for sterility, purity, and potency before use, and this standard may not always be feasible in clinical practice. Lower-than-expected concentrations of bevacizumab in products obtained from pharmacies have been reported, although the potential effect on treatment outcomes is unknown. 35 When applying the results of this study to clinical practice, one should consider the eligibility criteria for this study, such as visual acuity, retinal thickness, and prior treatment for diabetic macular edema. The results may not apply to eyes with persistent or recurrent diabetic macular edema that are already being treated with anti-VEGF agents. 
+ In conclusion, intravitreous aflibercept, bevacizumab, and ranibizumab were effective and relatively safe treatments for diabetic macular edema causing vision impairment. When initial visualacuity loss was mild, there was, on average, little difference in visual acuity at 1 year among the three agents. However, at worse levels of initial visual acuity, aflibercept was more effective at improving vision. Supplementary Material 
+ Supplement1 
+ 
+ NIHMS677065-supplement-Supplement1.pdf (1.5MB, pdf) 
+ Acknowledgments 
+ Supported through a cooperative agreement from the National Eye Institute and the National Institute of Diabetes and Digestive and Kidney Diseases, NIH, Department of Health and Human Services (EY14231, EY23207, and EY18817). 
+ Dr. Wells reports receiving grant support from Genentech, Regeneron Pharmaceuticals, Allergan, and KalVista Pharmaceuticals. Dr. Jampol reports receiving fees for data monitoring from Quintiles/Stem Cell Organization and travel support from Novartis. Dr. Antoszyk reports receiving personal fees from Alimera Sciences, Allergan, Genentech, Regeneron Pharmaceuticals, and Valeant Pharmaceuticals International. Dr. Bressler reports receiving grant support through his institution from Bayer, Genentech, Novartis, and Regeneron Pharmaceuticals. Dr. Browning reports receiving personal fees and grant support from Novartis, receiving personal fees from Alimera Sciences, receiving grant support from Aerpio Therapeutics, Regeneron Pharmaceuticals, Pfizer, and Ophthotech, and holding stock in Zeiss. Dr. Elman reports receiving personal fees and grant support from Genentech/Roche. Ms. Melia reports receiving fees for serving on a data and safety monitoring board from Alimera Sciences. Dr. Pieramici reports receiving consulting fees and grant support from Genentech and grant support from Regeneron Pharmaceuticals. Dr. Sun reports receiving personal fees from Regeneron Pharmaceuticals, Eisai, Kowa American, and Abbott, grant support and use of loaned equipment from Boston Micromachines, grant support from Genentech and KalVista Pharmaceuticals, and use of loaned equipment from Optovue. Footnotes 
+ 
+ The content of this article is solely the responsibility of the members of the writing committee and does not necessarily represent the official views of the National Institutes of Health (NIH). 
+ No other potential conflict of interest relevant to this article was reported. 
+ Disclosure forms provided by the authors are available with the full text of this article at NEJM.org. A complete list of financial disclosures for the Diabetic Retinopathy Clinical Research Network investigators can be found at www.drcr.net . 
+ References 
+ 
+ 
+ 1. Varma R, Bressler NM, Doan QV, et al. Prevalence and risk factors for diabetic macular edema in the United States. JAMA Ophthalmol. 2014;132:1334–40. doi: 10.1001/jamaophthalmol.2014.2854. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Shea AM, Curtis LH, Hammill BG, et al. Resource use and costs associated with diabetic macular edema in elderly persons. Arch Ophthalmol. 2008;126:1748–54. doi: 10.1001/archopht.126.12.1748. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Diabetes: facts and figures. Brussels: International Diabetes Federation; 2014. ( http://www.idf.org/worlddiabetesday/toolkit/gp/facts-figures ) [ Google Scholar ] 
+ 
+ 4. Aiello LP, Avery RL, Arrigg PG, et al. Vascular endothelial growth factor in ocular fluid of patients with diabetic retinopathy and other retinal disorders. N Engl J Med. 1994;331:1480–7. doi: 10.1056/NEJM199412013312203. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Antonetti DA, Barber AJ, Hollinger LA, Wolpert EB, Gardner TW. Vascular endothelial growth factor induces rapid phosphorylation of tight junction proteins occludin and zonula occluden 1. A potential mechanism for vascular permeability in diabetic retinopathy and tumors. J Biol Chem. 1999;274:23463–7. doi: 10.1074/jbc.274.33.23463. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Diabetic Retinopathy Clinical Research Network. Randomized trial evaluating ranibizumab plus prompt or deferred laser or triamcinolone plus prompt laser for diabetic macular edema. Ophthalmology. 2010;117:1064–77. doi: 10.1016/j.ophtha.2010.02.031. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Nguyen QD, Brown DM, Marcus DM, et al. Ranibizumab for diabetic macular edema: results from 2 phase III randomized trials: RISE and RIDE. Ophthalmology. 2012;119:789–801. doi: 10.1016/j.ophtha.2011.12.039. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Nguyen QD, Shah SM, Khwaja AA, et al. Two-year outcomes of the Ranibizumab for Edema of the Macula in Diabetes (READ-2) study. Ophthalmology. 2010;117:2146–51. doi: 10.1016/j.ophtha.2010.08.016. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Diabetic Retinopathy Clinical Research Network. A phase II randomized clinical trial of intravitreal bevacizumab for diabetic macular edema. Ophthalmology. 2007;114:1860–7. doi: 10.1016/j.ophtha.2007.05.062. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Mitchell P, Bandello F, Schmidt-Erfurth U, et al. The RESTORE study: ranibizumab monotherapy or combined with laser versus laser monotherapy for diabetic macular edema. Ophthalmology. 2011;118:615–25. doi: 10.1016/j.ophtha.2011.01.031. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Michaelides M, Kaines A, Hamilton RD, et al. A prospective randomized trial of intravitreal bevacizumab or laser therapy in the management of diabetic macular edema (BOLT study) 12-month data: report 2. Ophthalmology. 2010;117:1078–86. doi: 10.1016/j.ophtha.2010.03.045. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Arevalo JF, Sanchez JG, Fromow-Guerra J, et al. Comparison of two doses of primary intravitreal bevacizumab (Avastin) for diffuse diabetic macular edema: results from the Pan-American Collaborative Retina Study Group (PACORES) at 12-month follow-up. Graefes Arch Clin Exp Ophthalmol. 2009;247:735–43. doi: 10.1007/s00417-008-1034-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Do DV, Nguyen QD, Boyer D, et al. One-year outcomes of the da Vinci Study of VEGF Trap-Eye in eyes with diabetic macular edema. Ophthalmology. 2012;119:1658–65. doi: 10.1016/j.ophtha.2012.02.010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. American Society of Retina Specialists Preference and Trends (PAT) Survey. 2013 ( http://www.asrs.org/asrs-community/pat-survey ) 
+ 
+ 
+ 15. Arevalo JF, Lasave AF, Wu L, et al. Intravitreal bevacizumab plus grid laser photocoagulation or intravitreal bevacizumab or grid laser photocoagulation for diffuse diabetic macular edema: results of the Pan-American Collaborative Retina Study Group at 24 months. Retina. 2013;33:403–13. doi: 10.1097/IAE.0b013e3182695b83. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Korobelnik JF, Do DV, Schmidt-Erfurth U, et al. Intravitreal aflibercept for diabetic macular edema. Ophthalmology. 2014;121:2247–54. doi: 10.1016/j.ophtha.2014.05.006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Brown DM, Nguyen QD, Marcus DM, et al. Long-term outcomes of ranibizumab therapy for diabetic macular edema: the 36-month results from two phase III trials: RISE and RIDE. Ophthalmology. 2013;120:2013–22. doi: 10.1016/j.ophtha.2013.02.034. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Rajendram R, Fraser-Bell S, Kaines A, et al. A 2-year prospective randomized controlled trial of intravitreal bevacizumab or laser therapy (BOLT) in the management of diabetic macular edema: 24-month data: report 3. Arch Ophthalmol. 2012;130:972–9. doi: 10.1001/archophthalmol.2012.393. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Beck RW, Moke PS, Turpin AH, et al. A computerized method of visual acuity testing: adaptation of the Early Treatment of Diabetic Retinopathy Study testing protocol. Am J Ophthalmol. 2003;135:194–205. doi: 10.1016/s0002-9394(02)01825-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Diabetic Retinopathy Clinical Research Network Writing Committee. Reproducibility of spectral-domain optical coherence tomography retinal thickness measurements and conversion to equivalent time-domain metrics in diabetic macular edema. JAMA Ophthalmol. 2014;132:1113–22. doi: 10.1001/jamaophthalmol.2014.1698. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Hochberg Y. A sharper Bonferroni procedure for multiple tests of significance. Biometrika. 1988;75:800–2. [ Google Scholar ] 
+ 
+ 22. Schafer JL. Multiple imputation: a primer. Stat Methods Med Res. 1999;8:3–15. doi: 10.1177/096228029900800102. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Spiegelman D, Hertzmark E. Easy SAS calculations for risk or prevalence ratios and differences. Am J Epidemiol. 2005;162:199–200. doi: 10.1093/aje/kwi188. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Antiplatelet Trialists’ Collaboration. Collaborative overview of randomised trials of antiplatelet therapy — I: Prevention of death, myocardial infarction, and stroke by prolonged antiplatelet therapy in various categories of patients. BMJ. 1994;308:81–106. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Aflibercept. Tarrytown, NY: Regeneron; 2012. (package insert) ( https://www.regeneron.com/Eylea/eylea-fpi.pdf ) [ Google Scholar ] 
+ 
+ 26. Bevacizumab. South San Francisco, CA: Genentech; 2004. (package insert) ( http://www.gene.com/download/pdf/avastin_prescribing.pdf ) [ Google Scholar ] 
+ 
+ 27. Lucentis. South San Francisco, CA: Genentech; 2014. (package insert) ( http://www.gene.com/download/pdf/lucentis_prescribing.pdf ) [ Google Scholar ] 
+ 
+ 28. Zou L, Lai H, Zhou Q, Xiao F. Lasting controversy on ranibizumab and bevacizumab. Theranostics. 2011;1:395–402. doi: 10.7150/thno/v01p0395. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Bressler NM, Boyer DS, Williams DF, et al. Cerebrovascular accidents in patients treated for choroidal neovascularization with ranibizumab in randomized controlled trials. Retina. 2012;32:1821–8. doi: 10.1097/IAE.0b013e31825db6ba. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Virgili G, Parravano M, Menchini F, Evans JR. Anti-vascular endothelial growth factor for diabetic macular oedema. Cochrane Database Syst Rev. 2014;10:CD007419. doi: 10.1002/14651858.CD007419.pub4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Rosenfeld PJ, Brown DM, Heier JS, et al. Ranibizumab for neovascular age-related macular degeneration. N Engl J Med. 2006;355:1419–31. doi: 10.1056/NEJMoa054481. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Committee for Medicinal Products for Human Use. Assessment report: Eylea. London: European Medicines Agency; 2012. [ Google Scholar ] 
+ 
+ 33. Comparison of Age-related Macular Degeneration Treatments Trials (CATT) Research Group. Ranibizumab and bevacizumab for treatment of neovascular age-related macular degeneration: two-year results. Ophthalmology. 2012;119:1388–98. doi: 10.1016/j.ophtha.2012.03.053. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Moja L, Lucenteforte E, Kwag KH, et al. Systemic safety of bevacizumab versus ranibizumab for neovascular age-related macular degeneration. Cochrane Database Syst Rev. 2014;9:CD011230. doi: 10.1002/14651858.CD011230.pub2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Yannuzzi NA, Klufas MA, Quach L, et al. Evaluation of compounded bevacizumab prepared for intravitreal injection. JAMA Ophthalmol. 2015;133:32–9. doi: 10.1001/jamaophthalmol.2014.3591. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ Associated Data 
+ This section collects any data citations, data availability statements, or supplementary materials included in this article. 
+ Supplementary Materials 
+ Supplement1 
+ 
+ NIHMS677065-supplement-Supplement1.pdf (1.5MB, pdf)

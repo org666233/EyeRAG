@@ -1,0 +1,79 @@
+Source: PubMed Central (PMC)
+PMCID: PMC1860212
+Title: Pterygium: pathophysiology and management
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1860212/
+Year: 2006
+Disease: pterygium
+Priority: 2
+============================================================
+
+editorial Br J Ophthalmol . 2006 Jun;90(6):665–666. doi: 10.1136/bjo.2006.091413 
+ 
+ 
+ Pterygium 
+ A S Solomon 
+ A S Solomon 
+ Find articles by A S Solomon 
+ 
+ 
+ 
+ 
+ Author information 
+ Copyright and License information 
+ 
+ 
+ 
+ ✉ Correspondence to: Arieh S Solomon, MD, PhD, Goldschleger Eye Research Institute, Faculty of Medicine, Tel‐Aviv University, Sheba Medical Center, Tel‐Hashomer, 52621, Israel; asolomon@post.tau.ac.il 
+ 
+ 
+ Copyright © 2006 BMJ Publishing Group 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC1860212  PMID: 16714259 
+ 
+ Short abstract 
+ Can we provide medical and not surgical cure? 
+ Keywords: pterygium, ultraviolet light, oxidative stress, p53, vascular endothelial growth factor, nitric oxide, MMP‐1, insulin‐like growth factor binding protein 
+ Pterygium is a common frequently occurring ocular surface lesion characterised by inflammation, angiogenesis, and cellular proliferation, which result in tissue remodelling. 
+ In this issue of BJO (p 769), Wong and colleagues present the finding of a new gene that was changed in primary pterygium. 
+ It is the gene for insulin‐like growth factor binding protein‐3, (IGFBP3), which modulates the effects of insulin‐like growth factor on cells. IGFB3 was significantly decreased in pterygium samples compared with normal conjunctiva. Decreased levels of IGFB3 protein have been strongly correlated with the presence of cancer. 1 It might be that the low level of IGFP3 is related to loss of control of the cell proliferation process, which explains the continued growth of pterygium. Solomon and colleagues 2 found in their work an insulin‐like growth factor binding protein‐2 (IGFBP2) overexpression in pterygium body fibroblasts. This is strong evidence to support the transformed phenotype of these cells and may explain the continual process of growth of fibrovascular tissue. The above findings elucidate two of many factors that are implied in the appearance and the development of pterygium. 
+ An overall view of the growth process of pterygium reveals a multiplicity of factors that are correlated and interrelated 
+ We have to remember that the increased incidence of pterygium is in people and populations that are exposed to excessive solar radiation. It is the ultraviolet light (UV) that plays the critical part in the pathogenesis of this disease. UV radiation starts a chain of events at the intracellular and extracellular level that involve DNA, RNA, and extracellular matrix composition. Di Girolamo and colleagues 3 showed in their work that UVB radiation stimulated the induction of matrix matalloproteinase (MMP)‐1 expression in human ocular surface epithelial cells, which is mediated through the ERK1/2 MAPK dependent pathway. 
+ Nolan and colleagues 4 found that UVB radiation creates overexpression of heparin binding epidermal growth factor (HB‐EGF) in pterygial tissue. HB‐EGF is a potent mitogen and may be considered a major driving force in the development of pterygium. Di Giorolamo and colleagues 5 correlated the two above findings in another study. They found that epidermal growth factor receptor signalling is partially responsible for the increased MMP‐1 expression in ocular cells after UVB radiation. Tsai and colleagues 6 present a very important aspect of the pathology of pterygium—oxidative DNA damage. UV radiation is noxious to the conjunctiva tissue either by direct phototoxic effect or indirectly by formation of radical oxygen species (ROS). One of the markers of oxidative stress is 8‐hydroxydeoxyguanosine (8‐OHdG). It is the result of UV damage to DNA. An overexpression of 8‐OhdG in pterygia was found in this study, a fact that correlates the UV with the oxidative damage to the conjunctiva and the creation of pterygium. The same evidence was found by Kau and colleagues. 7 
+ Pterygium involves in its development a vascular proliferative process. Marcovici and colleagues 8 found that VEGF and von‐Willebrand factor (vWF) are overexpressed in pterygium tissue. This is evidence of the angiogenesis that is found during the development of pterygium. 
+ An interesting finding can be related to the angiogenesis process. Ozdemir and colleagues 9 found that nitric oxide levels (NO) are lower in pterygium tissue than in normal conjunctiva. This fact might be the result of hyper‐irrigation of blood by the rich vascular net of the pterygium. This is opposite to the ischaemic conditions through which NO levels rise. 
+ Naib‐Majani and colleagues, in an immunohistochemical study, 10 presented results on the distribution of the extracellular matrix in pterygium. It was found that collagens III and IV were expressed, while collagens I, II, and VII were missing. Heparan sulfate was strongly expressed in blood vessel walls and epithelial membranes. The study indicates an active involvement of MMPs 8, 9, and 13 in the pathogenesis of pterygium. 
+ An overall view of the growth process of pterygium reveals a multiplicity of factors that are correlated and interrelated. Di Girolamo and colleagues 11 show, in an overview of the pathogenesis of pterygium, that the cytokines, growth factors, and MMPs are the main groups involved in that process. Climatic and geographical location are factors inducing the appearance of pterygium. 12 , 13 
+ We can observe three main factors that lead to the final product, the pterygium—mitogenity, construction of a new vascular net, and remodelling of the extracellular matrix. Altogether they create a new vascular and fibrotic tissue, which has an aggressive way of growing to and over the cornea. Today, surgical removal is the common way to treat pterygium, but the recurrence rate is reported to be high. 14 
+ It might be that understanding the biochemical process, which takes place in the growth of pterygium, can lead to the development of topical medications that may prevent or stop the pterygium in its early stage. 
+ References 
+ 
+ 
+ 1. Yu H, Rohan T. Role of the insulin‐like growth factor family in cancer development and progression. J Natl Cancer Inst 2000921472–1489. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Solomon A, Grueterich M, Li D Q. et al Over expression of Insulin‐like growth factor‐binding protein‐2 in pterygium body fibroblasts. Invest Ophthalmol Vis Sci 200344573–580. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Di Girolamo N, Coroneo M T, Wakefield D. UVB‐elicited induction of MMP‐1 expression in human ocular surface epithelial cells is mediated through the ERK1/MAPK‐dependent pathway. Invest Ophthalmol Vis Sci 2003444705–4714. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Nolan T M, Di Giorlamo N, Sachdev N H. et al The role of ultraviolet irradiation and heparin‐binding epidermal growth factor‐like growth factor in the pathogenesis of pterygium. Am J Pathol 2003162567–574. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Di Girolamo N, Coroneo M, Wakefield D. Epidermal growth factor receptor signaling is partially responsible for the increased matrix metalloproteinase‐1 expression in ocular epithelial cells after UVB radiation. Am J Pathol 2005167489–503. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Tsai Y Y, Cheng Y W, Lee H. et al Oxidative DNA damage in pterygium. Mol Vis 20051171–75. [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Kau H C, Tsai C C, Lee C F. et al Increased oxidative DNA damage, 8‐hydroxydeoxy‐guanosine, in human pterygium. Eye. 2005 Aug 19 [Epub ahead of print] [ DOI ] [ PubMed ] 
+ 
+ 8. Marcovici A L, Morad Y, Sandbank J. et al Angiogenesis in pterygium: morphometric and immunohistochemical study. Curr Eye Res 20022517–22 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Ozdemir G, Inanc F, Kilinc M. Investigation of nitric oxide in pterygium. Can J Ophthalmol 200540743–746. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Naib‐Majani W, Eltohami I, Wernert N. et al Distribution of extracellular matrix proteins in pterygium: an immunohistochemical study. Graefes Arch Clin Exp Ophthalmol 2004242332–338. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Di Girolamo N, Chui J, Coroneo M T. et al Pathogenesis of pterygia: role of cytokines, growth factors, and matrix melalloproteinases. Prog Retin Eye Res 200423195–228. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Solomon A S. Immunologic basis for the pathogenesis of pterygium. Am J Ophthalmol 198599216–217. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Tan C S, Lim T H, Koh W P. et al Epidemiology of pterygium on a tropical island in the Riau Archipelago. Eye. 2005 Sep 16 [Epub ahead of print] [ DOI ] [ PubMed ] 
+ 
+ 14. Fernandes M, Sangwan V S, Bansal A K. et al Outcome of pterygium surgery: analysis over 14 years. Eye 2005191182–1190. [ DOI ] [ PubMed ] [ Google Scholar ]

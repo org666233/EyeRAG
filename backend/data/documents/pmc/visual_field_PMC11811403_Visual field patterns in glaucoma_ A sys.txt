@@ -1,0 +1,1026 @@
+Source: PubMed Central (PMC)
+PMCID: PMC11811403
+Title: Visual field patterns in glaucoma: A systematic review
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11811403/
+Year: 2025
+Disease: visual_field
+Priority: 3
+============================================================
+
+Saudi J Ophthalmol . 2024 Dec 26;38(4):306–315. doi: 10.4103/sjopt.sjopt_143_24 
+ 
+ 
+ Visual field patterns in glaucoma: A systematic review 
+ Marlies F Vandersnickt 
+ Marlies F Vandersnickt 
+ 
+ 1 Department of Ophthalmology, University Hospitals UZ Leuven, Belgium 
+ Find articles by Marlies F Vandersnickt 
+ 
+ 
+ 1 , Jan van Eijgen 
+ Jan van Eijgen 
+ 
+ 1 Department of Ophthalmology, University Hospitals UZ Leuven, Belgium 
+ 
+ 2 Department of Neurosciences, Research Group Ophthalmology, KU Leuven, Leuven, Belgium 
+ Find articles by Jan van Eijgen 
+ 
+ 
+ 1, 2 , Sophie Lemmens 
+ Sophie Lemmens 
+ 
+ 1 Department of Ophthalmology, University Hospitals UZ Leuven, Belgium 
+ 
+ 2 Department of Neurosciences, Research Group Ophthalmology, KU Leuven, Leuven, Belgium 
+ Find articles by Sophie Lemmens 
+ 
+ 
+ 1, 2 , Ingeborg Stalmans 
+ Ingeborg Stalmans 
+ 
+ 1 Department of Ophthalmology, University Hospitals UZ Leuven, Belgium 
+ 
+ 2 Department of Neurosciences, Research Group Ophthalmology, KU Leuven, Leuven, Belgium 
+ Find articles by Ingeborg Stalmans 
+ 
+ 
+ 1, 2 , Luís A Pinto 
+ Luís A Pinto 
+ 
+ 3 Center of Ophthalmology and Scientific Studies, Faculty of Medicine, Universidade de Lisboa, Lisboa, Portugal 
+ 
+ 4 Department of Ophthalmology, Centro Hospitalar Universitário Lisboa Norte, Lisboa, Portugal 
+ Find articles by Luís A Pinto 
+ 
+ 
+ 3, 4 , Evelien M Vandewalle 
+ Evelien M Vandewalle 
+ 
+ 1 Department of Ophthalmology, University Hospitals UZ Leuven, Belgium 
+ 
+ 5 Department of Ophthalmology, AZ Diest, Diest, Belgium 
+ Find articles by Evelien M Vandewalle 
+ 
+ 
+ 1, 5, ✉ 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, University Hospitals UZ Leuven, Belgium 
+ 
+ 2 Department of Neurosciences, Research Group Ophthalmology, KU Leuven, Leuven, Belgium 
+ 
+ 3 Center of Ophthalmology and Scientific Studies, Faculty of Medicine, Universidade de Lisboa, Lisboa, Portugal 
+ 
+ 4 Department of Ophthalmology, Centro Hospitalar Universitário Lisboa Norte, Lisboa, Portugal 
+ 
+ 5 Department of Ophthalmology, AZ Diest, Diest, Belgium 
+ 
+ ✉ Address for correspondence: Dr. Evelien M. Vandewalle, Herestraat 49, 3000 Leuven, Belgium. E-mail: evelien.vandewalle@uzleuven.be 
+ 
+ 
+ Received 2024 Jun 22; Revised 2024 Sep 23; Accepted 2024 Oct 31; Collection date 2024 Oct-Dec. 
+ 
+ Copyright: © 2024 Saudi Journal of Ophthalmology 
+ This is an open access journal, and articles are distributed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License, which allows others to remix, tweak, and build upon the work non-commercially, as long as appropriate credit is given and the new creations are licensed under the identical terms. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC11811403  PMID: 39943959 
+ 
+ 
+ This article has been corrected. See Saudi J Ophthalmol. 2025 Oct 13;39(3):286 . 
+ Abstract 
+ The aim of this literature study is to investigate the specific visual field defects for each glaucoma subtype and evaluate their pattern of progression. A systematic search was performed in accordance with the PRISMA guidelines in Medline (via PubMed), Embase, Web of Science, and the Cochrane Library on January 23, 2024. The literature search identified 3332 records after deduplication. Sixty-nine articles were included after screening and assessment for eligibility. Specific visual field patterns for primary open-angle glaucoma, normal-tension glaucoma, primary angle-closure glaucoma, and juvenile open-angle glaucoma were summed up. Since the search results on visual field progression only covered primary open-angle glaucoma and normal-tension glaucoma, the further analysis was confined to these glaucoma subtypes. This systematic review summarizes the literature concerning visual field patterns in glaucoma for the ophthalmologist. 
+ Keywords: Normal-tension glaucoma, primary angle-closure glaucoma, primary open-angle glaucoma, visual field defects, visual field patterns, visual field progression I NTRODUCTION 
+ 
+ Glaucoma is a progressive optic neuropathy characterized by damage to the retinal nerve fiber layer (RNFL) and the optic nerve head associated with corresponding visual field loss.[ 1 ] Being the second-leading cause of blindness and primary cause of irreversible blindness, it poses an important public health concern.[ 2 ] In 2020, an estimated 76 million people worldwide were suffering from glaucoma and the associated reduced quality of life.[ 2 ] Many glaucoma patients face challenges in daily life due to the narrowing of their visual field and problems with light adaptation and sensitivity. These issues lead to reduced mobility outside the home, making activities such as walking, climbing stairs, recognizing faces, and driving more difficult.[ 3 ] Early detection of glaucomatous disease is the key to preventing further progression and functional impairment. 
+ Typical glaucomatous visual field defects (VFDs) are characterized by arcuate defects, nasal steps, and other patterns corresponding to the course of retinal nerve fibers that respect the nasal horizontal meridian and usually spare the visual field center up until a late disease stage.[ 4 ] However, glaucomatous visual field patterns often exhibit a diverse presentation, complicating the interpretation of VFDs.[ 5 ] 
+ The aim of this systematic review is to give a clear overview of the typical visual field patterns in glaucoma characterized by different glaucoma subtypes and address their influencing factors as well as the pattern of progression of the VFD. M ETHODS 
+ 
+ This literature review was performed in accordance with the the guidelines recommended by the Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA).[ 6 ] 
+ The literature search was performed in Medline (via PubMed), Embase, Web of Science (core collection) and the Cochrane Library on January 23, 2024, by MV and JVE. The search query can be found at length in the Supplementary Table 1 and the flowchart representing the literature search can be found in detail in Figure 1 . Only papers describing glaucomatous VFDs using static automated perimetry were included. Exclusion criteria were the following: Case reports, case series, abstracts, conference proceedings, reviews, meta-analyses and mathematical prediction models of progression. The reference lists of the selected articles were manually analyzed to include other relevant articles. Selection inconsistencies were solved by consensus. Initial search discovered 3332 articles after deduplication. After assessing 118 full-text articles, 69 records were included in the systematic review and 49 were excluded due to the reasons named in Figure 1 . 
+ Supplementary Table 1. 
+ Search query 
+ 
+ 
+ Database 
+ Queries used in search 
+ 
+ 
+ 
+ Medline (via PubMed) 
+ ((“Visual Fields”[Mesh] OR “Visual Field Tests”[Mesh] OR “Visual Field*”[tiab] OR “Vision Field*”[tiab]) AND (“Glaucoma”[Mesh] OR “Glaucoma*”[tiab])) AND (“Pattern Recognition, Visual”[Mesh] OR “Pattern*”[tiab]) 
+ 
+ 
+ Embase 
+ (“Visual field’/exp OR “Visual field*’:ti, ab, kw OR “Perimetry’:ti, ab, kw OR “Vision field*’:ti, ab, kw) AND (“Glaucoma’/exp OR “Glaucoma*’:ti, ab, kw) AND (“Pattern recognition’/exp OR “Pattern*’:ti, ab, kw) 
+ 
+ 
+ Web of Science (Core Collection) 
+ (TS=(“Visual field*” OR “Perimetry” OR “Vision field*”)) AND (TS=(“Glaucoma*”)) AND (TS=(“Pattern*”)) 
+ 
+ 
+ Cochrane library 
+ (Visual Field) AND (Glaucoma) AND (Pattern) 
+ 
+ 
+ 
+ Open in a new tab 
+ Search conducted on January 23, 2024 Figure 1. 
+ 
+ Open in a new tab 
+ PRISMA 2009 flow diagram. From Moher et al .[ 6 ] R ESULTS 
+ 
+ Our search query yielded 18 articles describing the VFDs in primary-open angle glaucoma (POAG), 6 articles discussing the risk factors for development of (specific) VFDs in POAG. Fifteen articles compared the VFDs of POAG to normal-tension glaucoma (NTG). 4 articles described the risk factors related to the development of (specific) VFDs in NTG. The search obtained 5 articles reporting the VFDs of primary angle-closure glaucoma (PACG) and acute primary angle-closure (APAC), 4 other articles compared VFDs of POAG to PACG. The search resulted in only one paper describing juvenile open-angle glaucoma (JOAG). Furthermore, the search query revealed 9 papers discussing the progression of VFDs in POAG and 7 papers discussing the progression of VFDs in NTG. No papers discussing the progression of VFDs in PACG of JOAG were found. 
+ Visual field patterns 
+ Retinal nerve fiber bundles are arranged in a specific distribution. As the greater part is located in the central 30° area, most early glaucomatous VFDs are detected within this region. Typical glaucomatous visual field patterns include nasal step, paracentral scotoma, arcuate-like defects, diffuse loss, and altitudinal defects. The blind spot is located at 15° temporally, where the optic nerve leaves the eye.[ 7 ] 
+ Primary-open angle glaucoma 
+ POAG is a chronic, progressive, potentially blinding, irreversible eye disease causing optic nerve rim and RNFL loss with related VFD’s. Angle appearance is normal and major risk factors include the level of IOP and older age. It generally occurs bilaterally, typically in an asymmetric fashion, and mostly after the age of 40.[ 8 , 9 ] Although POAG can also develop without an elevated intra-ocular pressure (IOP), known as NTG, an elevated IOP remains an important risk factor for POAG.[ 9 ] The nasal step is described as the most frequent and earliest VFD, followed by paracentral scotomas and arcuate-like defects.[ 4 , 10 , 11 , 12 , 13 , 14 , 15 , 16 , 17 ] The superior hemifield is more affected than the inferior hemifield, although the Blue Mountains Eye Study could not demonstrate a significant difference between the upper and lower visual field.[ 4 , 10 , 11 , 13 , 14 , 15 , 18 , 19 , 20 ] Moreover, in patients with bilateral glaucoma, isolated superior hemifield visual field loss was 2.1–5.1 times more common than isolated inferior hemifield visual field loss.[ 21 ] Repeatable diffuse visual field loss was in 4.4% of patients, the only sign of early glaucomatous visual field loss.[ 22 ] Nevertheless, diffuse visual field loss is nonspecific and can be caused by various other factors such as cataract, extreme miosis, and unreliable performance of the perimetry. Asman and Heijl did not show pure diffuse visual field loss as an early sign of glaucoma. In their study, 77% of the diffuse visual field loss was due to media opacities or miotic therapy.[ 23 ] In a study conducted by Mutlukan, early diffuse visual field loss converted into well-defined pattern defects at later stages. This suggests that generalized early visual field loss evolved into well-defined localized visual field pattern defects at advanced stages.[ 12 ] Table 1 gives an overview of the different types of VFDs found in patients with POAG. 
+ Table 1. 
+ Visual field patterns in primary open-angle glaucoma 
+ 
+ 
+ 
+ Author 
+ Number of patients 
+ Patient characteristics 
+ 
+ Visual field device 
+ Program 
+ Defects (%) 
+ 
+ 
+ P 
+ 
+ 
+ 
+ Mean age (years) 
+ Population 
+ Male: female 
+ Nasal step 
+ Hemifield defect 
+ Paracentral scotoma 
+ Arcuate scotoma 
+ 
+ 
+ 
+ 
+ Alipanahi et al . (2008) 
+ 618 POAG 
+ 67.2 
+ Iran 
+ 1:1 
+ HFA 
+ Program 24–2 
+ 15.5 30.1 ¶ 
+ 
+ 28.2* 15.7 † 
+ 
+ 1.5 
+ 28.2 30.1 ¶ 
+ 
+ 0.06 
+ 
+ 
+ Chakravarti et al . (2021) 
+ 28 POAG 
+ 60.7 
+ Indian 
+ 2:1 
+ HFA 
+ Program 24–2 and 10–2 
+ 82 ‡ 65* ,‡ 
+ 
+ 86* ,‡ 
+ 
+ N/A 
+ 72 ‡ 
+ 
+ <0.001 
+ 
+ 
+ Lee et al . (2003) 
+ 108 POAG 
+ >49 
+ White 
+ 2:3 
+ HFA 
+ Program 30–2 
+ 31.9 
+ 28.8* 31.7 † 
+ 
+ N/A 
+ 23.0 
+ N/A 
+ 
+ 
+ Nascimento et al . (2005) 
+ 152 POAG 
+ 66.5 
+ White 53.1%, brown 22.8%, black 24.1% 
+ 2:3 
+ HFA 
+ Program 24–2 
+ 40.1* 33.3* ,‡ 19.6 †,‡ 47.6* ,§ 35.6 †,|| 
+ 
+ N/A 
+ 13.8 23.5 ‡ 11.9 § 6.8 || 
+ 
+ 30.9* 5.9* ,‡ 14.3 †,§ 49.1* ,|| 23.7 †,|| 
+ 
+ <0.05 
+ 
+ 
+ Schiefer et al . (2010) 
+ 63 POAG 
+ 33–79 
+ N/A 
+ 1:1 
+ HFA Octopus 
+ Program 30–2 G-program 
+ >50* 
+ N/A 
+ >50* 
+ >50* 
+ <0.05 
+ 
+ 
+ Singh et al . (2020) 
+ 52 POAG 
+ 54.8 
+ Asian 
+ 14:11 
+ HFA 
+ Program 24–2 
+ 4.8* 6.5* ,‡ 
+ 
+ 50.9* 20.2 † 
+ 
+ 32.7 41.9 ‡ 23.5 § 
+ 
+ 26.9* 25.8* ,‡ 26.5* ,§ 
+ 
+ N/A 
+ 
+ 
+ Wang et al . (2020) 
+ 1103 POAG 
+ 70.4 
+ USA 
+ N/A 
+ HFA 
+ Program 24–2 and 10–2 
+ 25.4 || 
+ 
+ 15.3* ,|| 
+ 
+ 10.9 || 
+ 
+ N/A 
+ N/A 
+ 
+ 
+ 
+ Open in a new tab 
+ *VFD located in the superior hemifield, † VFD located in the inferior hemifield, ‡ Mild glaucoma, § Moderate glaucoma, || End-stage glaucoma, ¶ Patients with a nasal step as well as an arcuate scotoma. HFA: Humphrey field analyzer, N/A: Not available, VFD: Visual field defect, POAG: Primary-open angle glaucoma Influencing factors for visual field defects in primary-open angle glaucoma 
+ Visual field pattern defects are influenced by different factors and subgroup populations. Table 2 includes the risk factors for VFDs in POAG found in selected studies. Superior hemifield defects are more frequent than inferior hemifield defects in POAG.[ 4 , 10 , 13 , 14 , 15 , 18 ] Initial VFDs located in the superior hemifield were associated with greater disc ovality (maximum diameter of an ellipse fitted to disc contour/minimum diameter of an ellipse fitted to disc contour), β-peripapillary atrophy and thinner central corneal thickness. This suggests a different pathogenesis of the damage between the superior and inferior half of the disc.[ 24 ] Although a VFD was more common in the superior hemifield, a VFD in the inferior hemifield was more frequently found in both insulin-dependent as noninsulin-dependent diabetic patients (odds ratio [OR] =1.8).[ 25 ] The presence of systemic risk factors for glaucoma (especially NTG) such as hypotension, migraine, Raynaud’s phenomenon, and sleep apnea was significantly higher in POAG as well as NTG patients with an initial parafoveal scotoma than in patients with initial nasal step.[ 26 ] In NTG, these above-mentioned systemic risk factors for glaucoma were more prevalent in patients exhibiting initial central scotoma than in patients with initial peripheral scotoma.[ 27 ] These findings suggest that systemic vascular risk factors in POAG and NTG patients are associated with central VFDs. The underlying disease mechanism of POAG is multifactorial and still subject to a lot of ongoing research. Genetic research found that caveolin 1 and 2 (CAV1/CAV2) single-nucleotide polymorphisms were significantly associated with POAG, especially in women. CAV1/CAV2 single nucleotide polymorphisms were furthermore associated with paracentral VFDs.[ 28 ] In addition, body mass index and smoking (measured in pack-years) were more strongly associated with a lower risk of paracentral VFDs (HR [hazard ratio] Body mass index [BMI] =0.67; HR smoking = 0.92) than with peripheral VFDs (HR BMI = 0.93; HR smoking = 0.98).[ 29 ] The relation between cigarette smoking and POAG overall has been conflicting. Nicotine has been mentioned to have a neuroprotective role. Patients with low BMI may have impaired endothelium-dependent vasodilation or low cerebrospinal fluid pressure. This may translate into a higher translaminar cribrosa pressure gradient, causing damage to axonal transport in the paracentral fibers.[ 29 ] 
+ Table 2. 
+ Risk factors for visual field defects in primary open-angle glaucoma and normal tension glaucoma 
+ 
+ 
+ 
+ Author 
+ Number of patients 
+ Patient characteristics 
+ 
+ Visual field device 
+ Program 
+ Risk factor 
+ Defect 
+ OR 
+ 
+ 
+ Mean age (years) 
+ Population 
+ Male: female 
+ 
+ 
+ POAG 
+ 
+ 
+ 
+ Iwase et al . (2019) 
+ 214 POAG 
+ 66.5 
+ Asian 
+ 11:9 
+ HFA 
+ Program 24–2 and 30–2 
+ Disc ovality β-PPA CCT 
+ Inferior hemifield 
+ 0.357 0.296 1.023 
+ 
+ 
+ Kang et al . (2015) 
+ 119,930 POAG 
+ 62 
+ USA 
+ 1:1.8 
+ HFA 
+ N/A 
+ BMI Smoking 
+ Paracentral VFD 
+ 0.67* 0.92* 
+ 
+ 
+ Loomis et al . (2014) 
+ 3108 POAG 
+ 63.6–66.6 
+ USA 
+ 2:3 
+ HFA (if not available: Dicon or Octopus) 
+ Program 24–2 
+ CAV1/CAV2 SNPs 
+ Paracentral VFD 
+ 1.52 
+ 
+ 
+ Park et al . (2011) 
+ 122 POAG 
+ 62–63 
+ USA 
+ 2:3 
+ HFA 
+ Program 24–2 
+ IOP Disc hemorrhage Hypotension Migraine Raynaud’s Sleep apnea 
+ IPFS 
+ 0.675 2.588 (16% vs. 0%) † 5.750 2.667 (9% vs. 0%) † 
+ 
+ 
+ 
+ Zeiter et al . (1991) 
+ 197 POAG 
+ 68.3 DM 67.2 control 
+ USA 
+ 32:55 DM 56:54 control 
+ Automated perimetry 
+ N/A 
+ DM 
+ Inferior hemifield 
+ 1.769 
+ 
+ 
+ 
+ NTG 
+ 
+ 
+ 
+ Kang et al . (2015) 
+ 159 NTG 
+ 45.63 ICS 47.84 IPS 
+ Korea 
+ 1:1 
+ HFA 
+ Program 24–2 
+ Systemic hypotension Migraine Raynaud’s Self-reported snoring 
+ ICS 
+ 7.500 3.286 3.571 3.222 
+ 
+ 
+ Park et al . (2012) 
+ 60 NTG 
+ 55.37 
+ Korea 
+ 1:1 
+ HFA 
+ Program 24–2 
+ Low HRV Abnormal nail capillaroscopy 
+ ICS 
+ 3.516 2.772 ‡ 
+ 
+ 
+ 
+ Suzuki et al . (2004) 
+ 94 NTG 
+ 50.8 ischemic 50.7 nonischemic 
+ Japan 
+ 1:1 
+ HFA 
+ Program 30–2 
+ Ischemic changes 
+ ICS 
+ N/A § 
+ 
+ 
+ 
+ 
+ Open in a new tab 
+ *HR: BMI and smoking are inversely correlated with paracentral VFD, † OR could not be calculated, ‡ ORs with univariate analysis (in multivariate analysis the OR for low HRV was 3.258 and for abnormal capillaroscopy 2.198, § (TD–TD mean ) in the ischemic group was significantly more negative than that in the nonischemic group at 6 nonedged contiguous test points: #41, #48, #49, #50, #51, and #52. HFA: Humphrey field analyzer, N/A: Not available; β-PPA: β-peripapillary atrophy, CCT: Central corneal thickness, BMI; Body mass index, CAV1/CAV2 SNPs: Caveolin 1 and 2 single nucleotide polymorphisms, DM: Diabetes mellitus, IPFS: Initial parafoveal scotoma, ICS: Initial central scotoma, OR: Odds ratio, HRV: Heart rate variability, HR: Hazard ratio, NTG: Normal tension glaucoma, POAG: Primary-open angle glaucoma, VFD: Visual field defect Normal-tension glaucoma 
+ POAG is subclassified in NTG if maximal untreated IOP is ≤ 21 mmHg. The precise pathogenesis of NTG is still unclear, but the origin is believed to be multifactorial.[ 30 ] NTG patients show more localized VFDs and are characterized by deeper, more central, and more depressed VFDs compared to POAG patients.[ 31 ] Patients with POAG present more frequently with diffuse visual field loss.[ 31 , 32 , 33 , 34 , 35 , 36 , 37 , 38 , 39 , 40 , 41 , 42 , 43 ] The study conducted by Motolko et al. in 1982 and Iester et al. in 2012 could not confirm these results and found no relevant difference between NTG and POAG.[ 44 , 45 ] In contrast to Caprioli in 1984 and most other studies, the study performed by King in 1986 found that the mean eccentricity of scotomas in NTG patients was further away from fixation than in POAG patients.[ 31 , 46 ] Table 3 compares the visual field patterns in NTG and POAG using mean deviation (MD) to illustrate the visual field sensitivity loss and pattern standard deviation (PSD) representing the localized visual field loss. 
+ Table 3. 
+ Visual field patterns in primary open-angle glaucoma and normal tension glaucoma 
+ 
+ 
+ 
+ Author 
+ Number of patients 
+ Patient characteristics 
+ 
+ Visual field device 
+ Program 
+ MD (dB) with SD 
+ 
+ PSD (dB) with SD 
+ 
+ 
+ 
+ Mean age (years) 
+ Population 
+ Male:female 
+ NTG 
+ POAG 
+ NTG 
+ POAG 
+ 
+ 
+ 
+ 
+ Araie et al . (1993) 
+ NTG - 68 POAG - 62 
+ NTG - 54.8 POAG - 54.3 
+ Japan 
+ 1:1 
+ HFA 
+ Program 30–2 
+ −5.2±2.3 
+ −4.8±2.8 
+ 7.7±3.6 corr 
+ 
+ 5.6±3.2 corr 
+ 
+ 
+ 
+ Caprioli et al . (1986) 
+ NTG - 7 POAG - 8 
+ NTG - 65.4 POAG - 68 
+ USA 
+ 6:9 
+ Octopus 
+ Program 32 
+ −2.1±0.2 † 
+ 
+ −4.0±0.3 † 
+ 
+ N/A 
+ N/A 
+ 
+ 
+ Chauhan et al . (1989) 
+ NTG - 40 POAG - 40 
+ NTG - 63.5 POAG - 60.6 
+ Canada 
+ NTG - 12:28 POAG - 24:16 
+ HFA 
+ Program 30–2 
+ −5.04±3.56 
+ −5.03±3.49 
+ N/A* 
+ N/A 
+ 
+ 
+ Häntzschel et al . (2013) 
+ NTG - 126 POAG - 126 
+ NTG - 58.2 POAG - 57.4 
+ Germany 
+ NTG - 52:74 POAG - 1:1 
+ HFA 
+ Program 30–2 
+ −3.69±5.03 
+ −9.77±7.99 
+ 4.80±4.47 
+ 7.17±4.41 
+ 
+ 
+ Iester et al . (2012) 
+ NTG - 51 POAG - 57 
+ NTG - 61.3 POAG - 64.8 
+ Canada 
+ N/A 
+ HFA 
+ Program 30–2 
+ −6.31±6.01 
+ −7.69±5.02 
+ 7.08±4.16 6.51±4.3 corr 
+ 
+ 7.52±3.38 6.97±3.44 corr 
+ 
+ 
+ 
+ Jiang et al . (2021) 
+ NTG - 102 POAG - 74 
+ NTG - 62.8 POAG - 54.7 
+ China 
+ NTG - 49:53 POAG - 50:24 
+ HFA 
+ Program 24–2 
+ −6.17±5.28 
+ −16.79±10.17 
+ 0.60±3.98 
+ 8.01±3.99 
+ 
+ 
+ Koseki et al . (1995) 
+ NTG - 68 POAG - 62 
+ NTG - 60.3 POAG - 56.7 
+ Japan 
+ N/A 
+ HFA 
+ Program 10–2 (program 30–2 to confirm) 
+ −6.8±4.0 
+ −6.3±3.9 
+ 8.9±3.5 corr 
+ 
+ 6.8±4.3 corr 
+ 
+ 
+ 
+ Lachenmayr et al . (1992) 
+ NTG - 19 POAG - 35 
+ NTG - 64.1 POAG - 60.2 
+ Canada 
+ N/A 
+ HFA 
+ Program 30–2 
+ −4.05±4.10 
+ −4.75±3.88 
+ N/A 
+ N/A 
+ 
+ 
+ Park et al . (2017) 
+ NTG - 34 POAG - 34 
+ NTG - 33.9 POAG - 32.6 
+ Korea 
+ NTG 6:1 POAG 16:1 
+ HFA 
+ Program 30–2 
+ −5.90±5.03 
+ −5.74±5.03 
+ 7.12±4.88 
+ 6.69±5.03 
+ 
+ 
+ Sung et al . (2022) 
+ NTG - 38 POAG - 59 
+ NTG - 60.2 POAG - 61.8 
+ Korea 
+ NTG 16:22 POAG 45:14 
+ HFA 
+ Program 30–2 
+ −18.80±5.45 
+ −19.98±5.69 
+ 12.86±3.14 
+ 11.55±3.51 
+ 
+ 
+ Thonginnetra et al . (2010) 
+ NTG - 32 POAG - 32 
+ NTG - 64.4 POAG - 64.3 
+ USA 
+ NTG 1:3 POAG 1:1 
+ HFA 
+ Program 24–2 
+ −3.61±2.08 
+ −4.47±2.60 
+ 2.82±3.54 ‡ 
+ 
+ 4.98±2.46 
+ 
+ 
+ 
+ Open in a new tab 
+ *The NTG group had a greater number of normal locations ( P =0.009), clustered normal locations ( P =0.022) and larger clusters of normal locations ( P =0.021), † Analysis conducted with a diffuse group with higher IOP (POAG) and a localized group with lower IOP (NTG), ‡ NTG eyes had a higher percentage of abnormal test points and clusters of abnormal points in the central subfields than POAG eyes, corr CPSD. HFA: Humphrey field analyzer, N/A: Not available, SD: Standard deviation, CPSD: Corrected pattern standard deviation, POAG: Primary-open angle glaucoma, NTG: Normal tension glaucoma, PSD: Pattern standard deviation, MD: Mean deviation, IOP: Intra-ocular pressure, VFD: Visual field defect Influencing Factors for VFDs in NTG 
+ NTG patients suffering from a central VFD often have a distinctive set of vascular risk factors, such as systemic hypotension, migraine, Raynaud’s phenomenon and self-reported snoring, as already discussed above.[ 26 , 27 , 47 ] Patients with a low heart-rate variability or abnormal nail capillaroscopy presented more often with central VFDs[ 48 ] [ Table 2 ]. Primary angle-closure glaucoma 
+ PACG is the result of iridotrabecular contact causing glaucomatous optic neuropathy. Peripheral anterior synechiae and raised IOP may be absent at the time of initial examination. PACG is the second cause of irreversible glaucomatous blindness, after POAG. The prevalence of PACG in the adult Asian population is 0.75%, making them the most affected ethnic group.[ 49 ] In early disease stages, the VFDs are most common in the nasal area.[ 50 , 51 ] Jiang et al. and Sim et al. observed that (partial) arcuate defects were the most common types of VFDs in the PACG eyes.[ 52 , 53 ] Atalay et al. showed that the superior hemifield was more impaired than the inferior hemifield across the whole severity spectrum.[ 50 ] In contrast, Lau et al. found no significant difference in visual field loss between the superior and inferior hemifield.[ 51 ] 
+ Regarding an acute episode of angle-closure, Aung et al . found that the frequency of significant visual field loss at 6 months after the acute episode was limited to 38% of the patients.[ 54 ] A hemifield defect was the most common VFD within this population ( n = 29). Table 4 provides an overview of the studies regarding PACG and APAC. 
+ Table 4. 
+ Visual field patterns in primary angle-closure glaucoma and acute primary angle-closure 
+ 
+ 
+ 
+ Author 
+ Number of patients 
+ Patient characteristics 
+ 
+ Visual field device 
+ Program 
+ Defects (%) 
+ 
+ 
+ P 
+ 
+ 
+ 
+ Mean age (years) 
+ Population 
+ Male: female 
+ Nasal step 
+ Hemifield defect 
+ Paracentral scotoma 
+ Arcuate scotoma 
+ 
+ 
+ 
+ 
+ Atalay et al . (2016) 
+ 249 PACG 
+ 65.7 
+ Asian (92.7% Chinese) 
+ 1:1 
+ HFA 
+ Program 24–2 
+ 16 37.5 ‡ 16.7 § 0 || 
+ 
+ N/A ¶ 
+ 
+ 2 6.9 ‡ 0 § 0 || 
+ 
+ 22.4 8.3 ‡ 34.6 § 23.2 || 
+ 
+ N/A 
+ 
+ 
+ Lau et al . (2003) 
+ 146 PACG 
+ 70.2–73.3 
+ Asian 
+ 2:1 
+ HFA 
+ Program 24–2 
+ 52* ,‡ 58 †,‡ 
+ 
+ N/A 
+ 22 ‡ 53.8 § 
+ 
+ 38 ‡ 68.8 § 
+ 
+ <0.001 
+ 
+ 
+ Aung et al . (2001) 
+ 29 APAC 
+ 62.1 
+ Asian 
+ 8:21 
+ HFA 
+ Program 24–2 
+ N/A 
+ 72.7** 
+ N/A 
+ N/A 
+ N/A 
+ 
+ 
+ Sim et al . (2023) 
+ 289 PACG 
+ 65.7 
+ N/A 
+ 1:1 
+ N/A 
+ N/A 
+ 13.5 
+ N/A 
+ 5.2 
+ 30.4 
+ N/A 
+ 
+ 
+ Jiang et al . (2023) 
+ 48 PACG 
+ 61.2 
+ China 
+ 38:62 
+ HFA 
+ Program 24–2 
+ 8.3 ‡ 6.3 † 
+ 
+ N/A 
+ 6.3 ‡ 4.2 † 
+ 
+ 22.9 ‡ 16.6 † 
+ 
+ N/A 
+ 
+ 
+ 
+ Open in a new tab 
+ *VFD located in the superior hemifield, **38% of the patients had VFDs 6 months after an APAC, † VFD located in the inferior hemifield, ‡ Mild glaucoma, § Moderate glaucoma, || End-stage glaucoma, ¶ The MDs of all regions in the superior hemifield were worse than their counterparts in the inferior hemifield for all severity levels. HFA: Humphrey field analyzer; N/A: Not available, APAC: Acute primary angle-closure, VFD: Visual field defect, PACG: Primary angle-closure glaucoma Comparison between primary-open angle glaucoma and primary angle-closure glaucoma 
+ POAG and PACG differ regarding their underlying pathogenesis, which can lead to variations in the VFDs they exhibit. The superior hemifield and paracentral area are more affected in POAG compared to PACG.[ 55 , 56 , 57 , 58 ] PACG is characterized by a more diffuse and generalized visual field loss than POAG.[ 56 , 57 ] Notably, all these studies were conducted in an older Asian subgroup population with the Humphrey Field Analyzer (HFA) program 24-2. Table 5 presents the perimetric differences between POAG and PACG by means of MD and PSD. The table illustrates that POAG had an overall a higher PSD corresponding with more localized visual field loss. 
+ Table 5. 
+ Visual field patterns in primary open-angle glaucoma and primary angle-closure glaucoma 
+ 
+ 
+ 
+ Author 
+ Number of patients 
+ Patient characteristics 
+ 
+ Visual field device 
+ Program 
+ MD (dB) with SD 
+ 
+ PSD (dB) with SD 
+ 
+ 
+ 
+ Mean age (years) 
+ Population 
+ Male:female 
+ POAG 
+ PACG 
+ POAG 
+ PACG 
+ 
+ 
+ 
+ 
+ Gazzard et al . (2002) 
+ 129 POAG 105 PACG 
+ 62.2 
+ Asia 
+ 157:77 
+ HFA 
+ Program 24–2 
+ −14.37±9.18−9.15±6.86 ˄ −5.47±4.58 ˅ 
+ 
+ −18.22±9.28−7.69±6.49 ˄ −6.43±5.23 ˅ 
+ 
+ 7.63±3.49 7.04±3.73 corr 
+ 
+ 7.29±3.57 6.50±3.84 corr 
+ 
+ 
+ 
+ Nouri-Mahdavi et al . (2011) 
+ 32 POAG 32 PACG 
+ 68 
+ White 71.9% Asian 12.5% 
+ 1:1 POAG 1:1 PACG 
+ HFA 
+ Program 24–2 
+ −5.1±2.4 
+ −5.1±2.5 
+ 5.6±2.8 ￥ 
+ 
+ 5.7±3.2 ￥￥ 
+ 
+ 
+ 
+ Rhee et al . (2001) 
+ 11 POAG 14 PACG 
+ 67.7 POAG 65.4 PACG 
+ Korea 
+ 4:7 POAG 2:12 PACG 
+ HFA 
+ Program 24–2 
+ −6.17±1.80 
+ −5.26±2.07 
+ 5.59±2.17 4.95±2.29 corr,ǂ 
+ 
+ 4.55±2.25 3.62±2.52 corr 
+ 
+ 
+ 
+ Yousefi et al . (2018) 
+ 327 POAG 204 PACG 
+ 54.1 POAG 67.3 PACG 
+ Japan 
+ 1:1 POAG 2:3 PACG 
+ HFA 
+ Program 24–2 
+ −6.7±6.2 
+ −8.8±8.7 
+ N/A ₸ 
+ 
+ N/A 
+ 
+ 
+ 
+ Open in a new tab 
+ ˄ VFD located in the superior hemifield, ˅ VFD located in the inferior hemifield, ￥ 72% VFDs were in paracentral area in POAG group, ￥￥ 47% VFDs were in paracentral area in PACG group, ǂ Test point difference in #22, #23, #39, #40 and #42, ₸ More localized loss in POAG (there was a higher PSD for a given mTD), corr CPSD. Both POAG and PACG had more VFDs in the superior hemifield. Although this was more pronounced in the POAG group. HFA: Humphrey Field analyzer, N/A: Not available, SD: Standard deviation, CPSD: Corrected pattern SD, POAG: Primary-open angle glaucoma, NTG: Normal tension glaucoma, PSD: Pattern standard deviation, MD: Mean deviation, IOP: Intra-ocular pressure, VFD: Visual field defect, PACG: Primary angle-closure glaucoma Juvenile open-angle glaucoma 
+ Patients symptomatic before the age of 40, beyond infancy and usually after puberty or early adulthood, suffer from JOAG. Ko et al. found that the VFDs in these patients are generally symmetric between the superior and inferior hemifield. More diffuse VFD may be more common in JOAG patients than in POAG patients.[ 59 ] Progression of visual field patterns 
+ Primary-open angle glaucoma 
+ The most common pattern of progression is the deepening of an existing scotoma, followed by expansion, rather than the development of new scotomas, emphasizing the importance of reliable baseline VF testing.[ 60 , 61 ] With increasing severity, the VFD showed progression to the center and progression toward a connection with the blind spot.[ 61 ] The initial parafoveal scotoma showed a characteristic pattern of progression in a retrospective study conducted by Su et al . The parafoveal scotoma in the superior hemifield initially had an arcuate pattern that first deepened 3° to 5° above fixation, then elongated toward the physiologic blind spot, and spread towards the nasal periphery, sparing the area corresponding to the papillomacular bundle [ Figure 2 ]. The inferior parafoveal scotoma, showed similar characteristics, but tended to be further away from fixation.[ 62 ] POAG patients progress faster in the superior hemifield defects compared to the inferior counterparts.[ 58 , 63 , 64 , 65 ] This difference is more pronounced in the central, paracentral, and nasal area.[ 1 , 64 ] In a study conducted by O’Brien and Schwartz, the greatest rate of field loss occurred in the temporal region ( P = 0.011), followed by the superotemporal region ( P = 0.056), although this was not statistically significant.[ 66 ] Baek et al. found that in POAG patients exhibiting an initial single-hemifield defect, 41.7% showed involvement of the other hemifield during an average follow-up period of 8 years. Specifically, in older patients, the absence of optic disc vertical tilt involvement of the other hemifield was more probable.[ 67 ] Patients with initial damage in both hemifields had higher chances of glaucomatous progression.[ 68 ] The risk of fellow eye progression in patients with unilateral visual field loss was low (6.3% over a follow-up of 76 months). The risk of progression of the fellow eye at 5 years was 7.2%.[ 69 ] 
+ Figure 2. 
+ 
+ Open in a new tab 
+ Progression of parafoveal visual field defects in POAG. Most VFDs in POAG show a typical pattern of progression. There is initially deepening of the parafoveal scotoma, followed by expansion (green). Later the VFD elongates towards the blind spot (yellow) and lastly it spreads towards the nasal periphery (blue). The scotoma is shown superiorly as this is the most common location. The inferior scotoma, shows similar characteristics, but tends to be further away from fixation[ 60 , 62 ] Normal-tension glaucoma 
+ NTG patients progress more often in the paracentral area.[ 1 , 70 , 71 ] NTG patients with lower heart-rate variability had faster central visual field progression than those with higher heart-rate variability.[ 72 ] Other vascular factors, such as migraine and orthostatic dysfunction were also related to increased central visual field progression.[ 72 ] Global progression rate did not differ between NTG and POAG in a study by Arhlich et al .[ 71 , 73 ] Fukuchi et al. showed that the inferior hemifield progressed slower in NTG patients compared to POAG patients.[ 63 ] Moreover, in NTG patients, the progression rate was faster in the superior hemifield compared to the inferior hemifield.[ 1 ] This difference is also present in patients with POAG.[ 19 , 20 , 58 , 63 , 64 , 65 , 74 ] C ONCLUSION 
+ 
+ This review systematically summarized the VFD patterns in different glaucoma subgroups as well as their influencing factors and pattern of progression. 
+ Early-stage POAG poses a diagnostic difficulty as the visual field loss tends to be nonspecific and generalized.[ 22 , 43 ] In more advanced glaucoma, the initial generalized VFDs evolve into well-defined localized patterns.[ 12 ] The nasal step is the earliest VFD in POAG patients, followed by paracentral and arcuate-like scotomas, respectively, and the superior hemifield is more often affected than the inferior hemifield.[ 4 , 10 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 19 , 20 ] NTG VFDs are more localized and closer to fixation compared to POAG VFDs, in line with the 1995 review from by Araie.[ 31 , 32 , 33 , 34 , 35 , 36 , 37 , 38 , 39 , 40 , 75 ] The visual field of NTG patients, compromised by vascular risk factors such as hypotension, migraine, Raynaud’s phenomenon and sleep apnea, are characterized by central VFDs.[ 26 , 27 , 47 , 48 ] This finding points to the need of registration of these vascular risk factors in the follow-up of glaucoma patients. 
+ In PACG patients, the nasal and arcuate areas are most affected and the superior hemifield is more involved than the inferior counterpart.[ 50 , 51 , 52 , 53 ] Most patients (62% after 6 months) recover from APAC with no chronic VFDs.[ 54 ] In comparison to PACG, the superior hemifield and paracentral area are more affected in POAG.[ 55 , 56 , 57 , 58 ] 
+ Glaucoma is a progressive disease, and progression occurs over the course of several years. Glaucoma patients, therefore, require lengthy follow-up. In POAG patients, the superior hemifield progresses faster than its inferior counterpart.[ 19 , 20 , 58 , 63 , 64 , 65 ] The typical pattern of POAG progression is the deepening of the initial VFD, followed by expansion, pointing to the importance of initial baseline testing.[ 60 ] Later, the initial parafoveal scotoma elongates toward the optic nerve and finally spreads toward the nasal periphery [ Figure 2 ].[ 62 ] The paracentral region progresses faster in NTG, whereas POAG progression is more diffuse.[ 1 , 70 , 71 ] Identifying progressive VFDs can be challenging in practice. In fact, static automated perimetry requires patient cooperation, which is often compromised by cataract formation, dermatochalasis or ptosis, poor positioning, concentration, fatigue, and fixating difficulties.[ 76 , 77 ] Poor fixation results in fewer localized defects[ 78 ] and mask-related artefacts can mimick glaucomatous VFDs.[ 79 ] Accordingly, careful attention to these confounding factors is warranted by the examiner. In clinical practice, at least three baseline visual field tests should be obtained to minimize false positive and false negative results.[ 80 , 81 , 82 ] 
+ Some limitations need to be addressed. Firstly, slow progression in glaucoma and lengthy follow-up introduces bias and methodological errors due to drop-out, therapy change, technological advancement, patient’s age, and race. Broman et al. stratified for race, gender, and age and found a higher duration of disease in the African-derived population.[ 83 ] Second, distinct heterogeneity exists in defining progression. The EMGT defined progression by sustained increases of visual field loss in three consecutive C30-2 Humphrey tests. The perimetric outpoint of progression was defined by the significant progression of the same three or more points in pattern deviation change probability maps in three consecutive C30-2 Humphrey Fields.[ 84 ] Meanwhile, in the study of Chen et al. , the (modified) Anderson criteria were used. Research to optimize progression criteria is highly needed. Third, different perimetry devices, protocols and software complicate interpretation further. In this review, 24-2 and 30-2 degrees are the most common field of views, where a nasal step defect was the most common VFD. 10-2 protocols better fit to detect macular damage which could be left undetected with 24-2 protocols.[ 14 , 85 , 86 , 87 , 88 , 89 , 90 ] Peripheral visual field loss, on the contrary, can be more adequately mapped by 24-2 or 30-2 visual field testing.[ 91 , 92 ] A variety of different protocols are used in the conducted studies, for example the Swedish Interactive Threshold Algorithm (SITA) Standard, SITA Fast, SITA Faster. The SITA Standard has proven itself reliable since it double-checks the sensitivity of each spot. The SITA Fast and SITA Faster takes less time but is also less reliable, so patients need to be tested more often to ensure reliable results. Therefore, SITA Standard should detect VFD’s and progression earlier than SITA Fast and SITA Faster.[ 93 ] Finally, this systematic review excluded articles in other languages due to the language barrier. No articles discussing the progression pattern of JOAG or PCAG were obtained with our search query. 
+ This is to our knowledge, the first systematic review that summarizes glaucomatous visual field patterns, their influencing factors and pattern of progression. Knowledge regarding the extent of VFDs and their progression pattern is important for all glaucoma caregivers. More research concerning VFD prediction, the definition of glaucoma progression and the optimal examining protocol is needed. 
+ Conflicts of interest 
+ There are no conflicts of interest. Funding Statement 
+ 
+Nil.
+ R EFERENCES 
+ 
+ 
+ 
+ 1. Cho HK, Kee C. Comparison of the progression rates of the superior, inferior, and both hemifield defects in normal-tension glaucoma patients. Am J Ophthalmol. 2012;154:958–68.e1. doi: 10.1016/j.ajo.2012.05.025. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Allison K, Patel D, Alabi O. Epidemiology of glaucoma: The past, present, and predictions for the future. Cureus. 2020;12:e11686. doi: 10.7759/cureus.11686. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Fea AM, Hengerer F, Lavia C, Au L. Glaucoma quality of life. J Ophthalmol. 2017;2017:4257151. doi: 10.1155/2017/4257151. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Schiefer U, Papageorgiou E, Sample PA, Pascual JP, Selig B, Krapp E, et al. Spatial pattern of glaucomatous visual field loss obtained with regionally condensed stimulus arrangements. Invest Ophthalmol Vis Sci. 2010;51:5685–9. doi: 10.1167/iovs.09-5067. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Keltner JL, Johnson CA, Cello KE, Edwards MA, Bandermann SE, Kass MA, et al. Classification of visual field abnormalities in the ocular hypertension treatment study. Arch Ophthalmol. 2003;121:643–50. doi: 10.1001/archopht.121.5.643. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Moher D, Liberati A, Tetzlaff J, Altman DG, PRISMA Group Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med. 2009;6:e1000097. doi: 10.1371/journal.pmed.1000097. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Racette L, Fischer M, Bebie H, Holló G, Johnson CA, Matsumoto C. 9th. Switzerland: Haag-Streit AG; 2019. Visual Field Digest: A Guide to Perimetry and the Octopus Perimeter. [ Google Scholar ] 
+ 
+ 8. Weinreb RN, Khaw PT. Primary open-angle glaucoma. Lancet. 2004;363:1711–20. doi: 10.1016/S0140-6736(04)16257-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Bertaud S, Aragno V, Baudouin C, Labbé A. Primary open-angle glaucoma. Rev Med Interne. 2019;40:445–52. doi: 10.1016/j.revmed.2018.12.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Alipanahi R, Sayyahmelli M, Ghojazadeh L, Sayyahmelli S. Common visual field defect in the open angle glaucoma eyes. Rawal Med J. 2008;33:98–100. [ Google Scholar ] 
+ 
+ 11. Lee AJ, Wang JJ, Rochtchina E, Healey P, Chia EM, Mitchell P. Patterns of glaucomatous visual field defects in an older population: The blue mountains eye study. Clin Exp Ophthalmol. 2003;31:331–5. doi: 10.1046/j.1442-9071.2003.00660.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Mutlukan E. Diffuse and localised visual field defects to automated perimetry in primary open angle glaucoma. Eye (Lond) 1995;9:745–50. doi: 10.1038/eye.1995.188. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Nascimento VC, Kasahara N, Cohen R, Almeida GV, Mandia C, Jr., Paolera MD. Location and frequency of visual field defects as measured by SITA (Swedish interactive threshold algorithm) strategy in primary open angle glaucoma. Arq Bras Oftalmol. 2005;68:661–5. doi: 10.1590/s0004-27492005000500017. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Chakravarti T, Moghimi S, De Moraes CG, Weinreb RN. Central-most visual field defects in early glaucoma. J Glaucoma. 2021;30:e68–75. doi: 10.1097/IJG.0000000000001747. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Wang M, Tichelaar J, Pasquale LR, Shen LQ, Boland MV, Wellik SR, et al. Characterization of central visual field loss in end-stage glaucoma by unsupervised artificial intelligence. JAMA Ophthalmol. 2020;138:190–8. doi: 10.1001/jamaophthalmol.2019.5413. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Wang M, Shen LQ, Pasquale LR, Boland MV, Wellik SR, De Moraes CG, et al. Artificial intelligence classification of central visual field patterns in glaucoma. Ophthalmology. 2020;127:731–8. doi: 10.1016/j.ophtha.2019.12.004. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Nilforushan N, Yadgari M, Jazayeri A. Comparison between visual field defect in pigmentary glaucoma and primary open-angle glaucoma. Int Ophthalmol. 2016;36:637–42. doi: 10.1007/s10792-016-0173-z. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Singh P, Rijal A. Pattern of visual field defects in newly diagnosed primary open angle glaucoma patients attending tertiary care hospital, Kathmandu, Nepal. Nepal Med Coll J. 2020;22:203–10. [ Google Scholar ] 
+ 
+ 19. Jiang J, Ye C, Zhang C, Ye W, Wang X, Shang X, et al. Intraocular asymmetry of visual field defects in primary angle-closure glaucoma, high-tension glaucoma, and normal-tension glaucoma in a Chinese population. Sci Rep. 2021;11:11674. doi: 10.1038/s41598-021-91173-8. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Park IK, Kim KW, Moon NJ, Shin JH, Chun YS. Comparison of superior and inferior visual field asymmetry between normal-tension and high-tension glaucoma. J Glaucoma. 2021;30:648–55. doi: 10.1097/IJG.0000000000001872. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Hu S, Smith ND, Saunders LJ, Crabb DP. Patterns of binocular visual field loss derived from large-scale patient data from glaucoma clinics. Ophthalmology. 2015;122:2399–406. doi: 10.1016/j.ophtha.2015.08.005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Chauhan BC, LeBlanc RP, Shaw AM, Chan AB, McCormick TA. Repeatable diffuse visual field loss in open-angle glaucoma. Ophthalmology. 1997;104:532–8. doi: 10.1016/s0161-6420(97)30279-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Asman P, Heijl A. Diffuse visual field loss and glaucoma. Acta Ophthalmol (Copenh) 1994;72:303–8. doi: 10.1111/j.1755-3768.1994.tb02763.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Iwase A, Araie M. Primary open-angle glaucoma with initial visual field damage in the superior and inferior hemifields: Comparison in a population-based setting. J Glaucoma. 2019;28:493–7. doi: 10.1097/IJG.0000000000001241. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Zeiter JH, Shin DH, Baek NH. Visual field defects in diabetic patients with primary open-angle glaucoma. Am J Ophthalmol. 1991;111:581–4. doi: 10.1016/s0002-9394(14)73702-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Park SC, De Moraes CG, Teng CC, Tello C, Liebmann JM, Ritch R. Initial parafoveal versus peripheral scotomas in glaucoma: Risk factors and visual field characteristics. Ophthalmology. 2011;118:1782–9. doi: 10.1016/j.ophtha.2011.02.013. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Kang JW, Park B, Cho BJ. Comparison of risk factors for initial central scotoma versus initial peripheral scotoma in normal-tension glaucoma. Korean J Ophthalmol. 2015;29:102–8. doi: 10.3341/kjo.2015.29.2.102. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Loomis SJ, Kang JH, Weinreb RN, Yaspan BL, Cooke Bailey JN, Gaasterland D, et al. Association of CAV1/CAV2 genomic variants with primary open-angle glaucoma overall and by gender and pattern of visual field loss. Ophthalmology. 2014;121:508–16. doi: 10.1016/j.ophtha.2013.09.012. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Kang JH, Loomis SJ, Rosner BA, Wiggs JL, Pasquale LR. Comparison of risk factor profiles for primary open-angle glaucoma subtypes defined by pattern of visual field loss: A prospective study. Invest Ophthalmol Vis Sci. 2015;56:2439–48. doi: 10.1167/iovs.14-16088. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Esporcatte BL, Tavares IM. Normal-tension glaucoma: An update. Arq Bras Oftalmol. 2016;79:270–6. doi: 10.5935/0004-2749.20160077. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Caprioli J, Spaeth GL. Comparison of visual field defects in the low-tension glaucomas with those in the high-tension glaucomas. Am J Ophthalmol. 1984;97:730–7. doi: 10.1016/0002-9394(84)90505-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Caprioli J, Sears M. Patterns of early visual field loss in open-angle glaucoma. Trans Am Ophthalmol Soc. 1986;84:133–45. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Chauhan BC, Drance SM, Douglas GR, Johnson CA. Visual field damage in normal-tension and high-tension glaucoma. Am J Ophthalmol. 1989;108:636–42. doi: 10.1016/0002-9394(89)90854-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Häntzschel J, Terai N, Sorgenfrei F, Haustein M, Pillunat K, Pillunat LE. Morphological and functional differences between normal-tension and high-tension glaucoma. Acta Ophthalmol. 2013;91:e386–91. doi: 10.1111/aos.12061. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Koseki N, Araie M, Suzuki Y, Yamagami J. Visual field damage proximal to fixation in normal- and high-tension glaucoma eyes. Jpn J Ophthalmol. 1995;39:274–83. [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Lachenmayr BJ, Drance SM. Central function and visual field damage in glaucoma. Int Ophthalmol. 1992;16:203–9. doi: 10.1007/BF00917962. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Park JH, Yoo C, Park J, Kim YY. Visual field defects in young patients with open-angle glaucoma: Comparison between high-tension and normal-tension glaucoma. J Glaucoma. 2017;26:541–7. doi: 10.1097/IJG.0000000000000667. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Thonginnetra O, Greenstein VC, Chu D, Liebmann JM, Ritch R, Hood DC. Normal versus high tension glaucoma: A comparison of functional and structural defects. J Glaucoma. 2010;19:151–7. doi: 10.1097/IJG.0b013e318193c45c. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Samuelson TW, Spaeth GL. Focal and diffuse visual field defects: Their relationship to intraocular pressure. Ophthalmic Surg. 1993;24:519–25. [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Araie M, Yamagami J, Suziki Y. Visual field defects in normal-tension and high-tension glaucoma. Ophthalmology. 1993;100:1808–14. doi: 10.1016/s0161-6420(93)31394-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Sung MS, Ji YS, Heo H, Park SW. Comparison of the structure-function relationship between advanced primary open angle glaucoma and normal tension glaucoma. J Glaucoma. 2022;31:574–83. doi: 10.1097/IJG.0000000000002053. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Zeiter JH, Shin DH, Juzych MS, Jarvi TS, Spoor TC, Zwas F. Visual field defects in patients with normal-tension glaucoma and patients with high-tension glaucoma. Am J Ophthalmol. 1992;114:758–63. doi: 10.1016/s0002-9394(14)74056-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Crick RP, Vogel R, Newson RB, Shipley MJ, Blackmore H, Palmer A, et al. The visual field in chronic simple glaucoma and ocular hypertension; its character, progress, relationship to the level of intraocular pressure and response to treatment. Eye (Lond) 1989;3:536–46. doi: 10.1038/eye.1989.85. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Iester M, De Feo F, Douglas GR. Visual field loss morphology in high- and normal-tension glaucoma. J Ophthalmol. 2012;2012:327326. doi: 10.1155/2012/327326. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Motolko M, Drance SM, Douglas GR. Visual field defects in low-tension glaucoma. Comparison of defects in low-tension glaucoma and chronic open angle glaucoma. Arch Ophthalmol. 1982;100:1074–7. doi: 10.1001/archopht.1982.01030040052005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. King D, Drance SM, Douglas G, Schulzer M, Wijsman K. Comparison of visual field defects in normal-tension glaucoma and high-tension glaucoma. Am J Ophthalmol. 1986;101:204–7. doi: 10.1016/0002-9394(86)90596-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Suzuki J, Tomidokoro A, Araie M, Tomita G, Yamagami J, Okubo T, et al. Visual field damage in normal-tension glaucoma patients with or without ischemic changes in cerebral magnetic resonance imaging. Jpn J Ophthalmol. 2004;48:340–4. doi: 10.1007/s10384-004-0072-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Park HY, Jung KI, Na KS, Park SH, Park CK. Visual field characteristics in normal-tension glaucoma patients with autonomic dysfunction and abnormal peripheral microcirculation. Am J Ophthalmol. 2012;154:466–75.e1. doi: 10.1016/j.ajo.2012.03.028. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Cheng JW, Zong Y, Zeng YY, Wei RL. The prevalence of primary angle closure glaucoma in adult Asians: A systematic review and meta-analysis. PLoS One. 2014;9:e103222. doi: 10.1371/journal.pone.0103222. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Atalay E, Nongpiur ME, Yap SC, Wong TT, Goh D, Husain R, et al. Pattern of visual field loss in primary angle-closure glaucoma across different severity levels. Ophthalmology. 2016;123:1957–64. doi: 10.1016/j.ophtha.2016.05.026. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Lau LI, Liu CJ, Chou JC, Hsu WM, Liu JH. Patterns of visual field defects in chronic angle-closure glaucoma with different disease severity. Ophthalmology. 2003;110:1890–4. doi: 10.1016/S0161-6420(03)00666-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Jiang J, Ye C, Zhang C, Lin Z, Tang Y, Ye W, et al. The patterns of visual field defects in primary angle-closure glaucoma compared to high-tension glaucoma and normal-tension glaucoma. Ophthalmic Res. 2023;66:940–8. doi: 10.1159/000530175. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Sim C, Umapathi R, Hlaing TN, Aung T, Nongpiur ME. Pattern of initial visual field defect in primary angle closure glaucoma. Invest Ophthalmol Vis Sci. 2023;64:5495. [ Google Scholar ] 
+ 
+ 54. Aung T, Looi AL, Chew PT. The visual field following acute primary angle closure. Acta Ophthalmol Scand. 2001;79:298–300. doi: 10.1034/j.1600-0420.2001.790318.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Gazzard G, Foster PJ, Viswanathan AC, Devereux JG, Oen FT, Chew PT, et al. The severity and spatial distribution of visual field defects in primary glaucoma: A comparison of primary open-angle glaucoma and primary angle-closure glaucoma. Arch Ophthalmol. 2002;120:1636–43. doi: 10.1001/archopht.120.12.1636. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Nouri-Mahdavi K, Supawavej C, Bitrian E, Giaconi JA, Law SK, Coleman AL, et al. Patterns of damage in chronic angle-closure glaucoma compared to primary open-angle glaucoma. Am J Ophthalmol. 2011;152:74–80.e2. doi: 10.1016/j.ajo.2011.01.008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Rhee K, Kim YY, Nam DH, Jung HR. Comparison of visual field defects between primary open-angle glaucoma and chronic primary angle-closure glaucoma in the early or moderate stage of the disease. Korean J Ophthalmol. 2001;15:27–31. doi: 10.3341/kjo.2001.15.1.27. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Yousefi S, Sakai H, Murata H, Fujino Y, Garway-Heath D, Weinreb R, et al. Asymmetric patterns of visual field defect in primary open-angle and primary angle-closure glaucoma. Invest Ophthalmol Vis Sci. 2018;59:1279–87. doi: 10.1167/iovs.17-22980. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Ko YC, Liu CJ, Chou JC, Chen MR, Hsu WM, Liu JH. Comparisons of risk factors and visual field changes between juvenile-onset and late-onset primary open-angle glaucoma. Ophthalmologica. 2002;216:27–32. doi: 10.1159/000048293. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Boden C, Blumenthal EZ, Pascual J, McEwan G, Weinreb RN, Medeiros F, et al. Patterns of glaucomatous visual field progression identified by three progression criteria. Am J Ophthalmol. 2004;138:1029–36. doi: 10.1016/j.ajo.2004.07.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Germano RA, Germano CS, Susanna FN, Susanna R. Patterns of visual field loss in early, moderate, and severe stages of open angle glaucoma. J Glaucoma. 2022;31:609–13. doi: 10.1097/IJG.0000000000001986. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Su D, Park SC, Simonson JL, Liebmann JM, Ritch R. Progression pattern of initial parafoveal scotomas in glaucoma. Ophthalmology. 2013;120:520–7. doi: 10.1016/j.ophtha.2012.08.018. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Fukuchi T, Yoshino T, Sawada H, Seki M, Togano T, Tanaka T, et al. Progression rate of total, and upper and lower visual field defects in open-angle glaucoma patients. Clin Ophthalmol. 2010;4:1315–23. doi: 10.2147/OPTH.S13101. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Yousefi S, Sakai H, Murata H, Fujino Y, Matsuura M, Garway-Heath D, et al. Rates of visual field loss in primary open-angle glaucoma and primary angle-closure glaucoma: Asymmetric patterns. Invest Ophthalmol Vis Sci. 2018;59:5717–25. doi: 10.1167/iovs.18-25140. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Yousefi S, Mahmoudi Nezhad GS, Pourahmad S, Vermeer KA, Lemij HG. Distribution and rates of visual field loss across different disease stages in primary open-angle glaucoma. Ophthalmol Glaucoma. 2018;1:52–60. doi: 10.1016/j.ogla.2018.05.005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. O’Brien C, Schwartz B. The visual field in chronic open angle glaucoma: The rate of change in different regions of the field. Eye (Lond) 1990;4:557–62. doi: 10.1038/eye.1990.77. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Baek SU, Kim YK, Park KH, Jeoung JW. Long-term follow-up on glaucoma patients with initial single-hemifield defect: Progression patterns and associated factors. J Glaucoma. 2019;28:1041–7. doi: 10.1097/IJG.0000000000001391. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. De Moraes CG, Prata TS, Tello C, Ritch R, Liebmann JM. Glaucoma with early visual field loss affecting both hemifields and the risk of disease progression. Arch Ophthalmol. 2009;127:1129–34. doi: 10.1001/archophthalmol.2009.165. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Chen PP, Park RJ. Visual field progression in patients with initially unilateral visual field loss from chronic open-angle glaucoma. Ophthalmology. 2000;107:1688–92. doi: 10.1016/s0161-6420(00)00229-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Gliklich RE, Steinmann WC, Spaeth GL. Visual field change in low-tension glaucoma over a five-year follow-up. Ophthalmology. 1989;96:316–20. doi: 10.1016/s0161-6420(89)33070-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Ahrlich KG, De Moraes CG, Teng CC, Prata TS, Tello C, Ritch R, et al. Visual field progression differences between normal-tension and exfoliative high-tension glaucoma. Invest Ophthalmol Vis Sci. 2010;51:1458–63. doi: 10.1167/iovs.09-3806. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Park HY, Park SH, Park CK. Central visual field progression in normal-tension glaucoma patients with autonomic dysfunction. Invest Ophthalmol Vis Sci. 2014;55:2557–63. doi: 10.1167/iovs.13-13742. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Rasker MT, van den Enden A, Bakker D, Hoyng PF. Rate of visual field loss in progressive glaucoma. Arch Ophthalmol. 2000;118:481–8. doi: 10.1001/archopht.118.4.481. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Su WW, Hsieh SS, Cheng ST, Su CW, Wu WC, Chen HS. Visual subfield progression in glaucoma subtypes. J Ophthalmol. 2018;2018:7864219. doi: 10.1155/2018/7864219. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Araie M. Pattern of visual field defects in normal-tension and high-tension glaucoma. Curr Opin Ophthalmol. 1995;6:36–45. doi: 10.1097/00055735-199504000-00007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Chung HJ, Choi JH, Lee YC, Kim SY. Effect of cataract opacity type and glaucoma severity on visual field index. Optom Vis Sci. 2016;93:575–8. doi: 10.1097/OPX.0000000000000842. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Kosmin AS, Wishart PK, Birch MK. Apparent glaucomatous visual field defects caused by dermatochalasis. Eye (Lond) 1997;11:682–6. doi: 10.1038/eye.1997.177. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Katz J, Sommer A. Screening for glaucomatous visual field loss. The effect of patient reliability. Ophthalmology. 1990;97:1032–7. doi: 10.1016/s0161-6420(90)32467-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Gómez Mariscal M, Muñoz-Negrete FJ, Muñoz-Ramón PV, Aguado Casanova V, Jaumandreu L, Rebolleda G. Avoiding mask-related artefacts in visual field tests during the COVID-19 pandemic. Br J Ophthalmol. 2022;106:947–51. doi: 10.1136/bjophthalmol-2020-318408. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Tiwari US, Aishwarya A, Bhale A. Influence of learning effect on reliability parameters and global indices of standard automated perimetry in cases of primary open angle glaucoma. Rom J Ophthalmol. 2018;62:277–81. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. De Tarso Pierre-Filho P, Gomes PR, Pierre ET, Pierre LM. Learning effect of Humphrey matrix frequency doubling technology perimetry in patients with open-angle glaucoma. Eur J Ophthalmol. 2010;20:538–41. doi: 10.1177/112067211002000328. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Lamparter J, Schulze A, Schuff AC, Berres M, Pfeiffer N, Hoffmann EM. Learning curve and fatigue effect of flicker defined form perimetry. Am J Ophthalmol. 2011;151:1057–64.e1. doi: 10.1016/j.ajo.2010.11.031. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Broman AT, Quigley HA, West SK, Katz J, Munoz B, Bandeen-Roche K, et al. Estimating the rate of progressive visual field damage in those with open-angle glaucoma, from cross-sectional data. Invest Ophthalmol Vis Sci. 2008;49:66–76. doi: 10.1167/iovs.07-0866. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Heijl A, Leske MC, Bengtsson B, Hyman L. The early manifest glaucoma trial: Study aims and design. IOVS. 1999;40 doi: 10.1016/s0161-6420(99)90497-9. ARVO Abstract 2990. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Traynis I, De Moraes CG, Raza AS, Liebmann JM, Ritch R, Hood DC. Prevalence and nature of early glaucomatous defects in the central 10 of the visual field. JAMA Ophthalmol. 2014;132:291–7. doi: 10.1001/jamaophthalmol.2013.7656. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Park SC, Kung Y, Su D, Simonson JL, Furlanetto RL, Liebmann JM, et al. Parafoveal scotoma progression in glaucoma: Humphrey 10-2 versus 24-2 visual field analysis. Ophthalmology. 2013;120:1546–50. doi: 10.1016/j.ophtha.2013.01.045. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Ekici E, Moghimi S, Hou H, Proudfoot J, Zangwill LM, Do JL, et al. Central visual field defects in patients with distinct glaucomatous optic disc phenotypes. Am J Ophthalmol. 2021;223:229–40. doi: 10.1016/j.ajo.2020.10.015. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Hood DC, Raza AS, de Moraes CG, Odel JG, Greenstein VC, Liebmann JM, et al. Initial arcuate defects within the central 10 degrees in glaucoma. Invest Ophthalmol Vis Sci. 2011;52:940–6. doi: 10.1167/iovs.10-5803. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. West ME, Sharpe GP, Hutchison DM, Rafuse PE, Shuba LM, Nicolela MT, et al. Value of 10-2 visual field testing in glaucoma patients with early 24-2 visual field loss. Ophthalmology. 2021;128:545–53. doi: 10.1016/j.ophtha.2020.08.033. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Odden JL, Mihailovic A, Boland MV, Friedman DS, West SK, Ramulu PY. Evaluation of central and peripheral visual field concordance in glaucoma. Invest Ophthalmol Vis Sci. 2016;57:2797–804. doi: 10.1167/iovs.15-19053. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. Wang Y, Henson DB. Diagnostic performance of visual field test using subsets of the 24-2 test pattern for early glaucomatous field loss. Invest Ophthalmol Vis Sci. 2013;54:756–61. doi: 10.1167/iovs.12-10468. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. Brusini P, Salvetat ML, Zeppieri M, Parisi L. Frequency doubling technology perimetry with the Humphrey matrix 30-2 test. J Glaucoma. 2006;15:77–83. doi: 10.1097/00061198-200604000-00001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 93. Prokopich CL, Fingeret M, Smith T, Flanagan JG. Repeatability of perimetric threshold estimation algorithms in glaucoma: A comparison of Sita-standard, Sita-fast and Humphrey full threshold. American Academy of Optometry. 1999:254. [ Google Scholar ]

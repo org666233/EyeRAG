@@ -1,0 +1,70 @@
+---
+source: zhwiki
+title: 1號染色體
+url: https://zh.wikipedia.org/wiki/1%E8%99%9F%E6%9F%93%E8%89%B2%E9%AB%94
+disease: 眼科
+type: encyclopedia
+language: zh
+---
+
+1号染色体是人类染色体中最大的一条。如同其他的体染色体，一般人类身体内的细胞中，会有两条1号染色体。在1号染色体，缠绕了大约245,522,847个核苷酸碱基对（DNA的基本讯息单位），大概包含了人类细胞中8%的DNA。
+辨识染色体上的基因是遗传学研究的一部分。在2000年时，辨识出来的基因是897个；根据2007年NCBI的资料，1号染色体中一共包含2782个基因；2010年，1号染色体上发现的基因数量在原有的基础上增至4228个，共能编码1985种不同的蛋白质。人类基因组计划花了20年才将这些序列排序完成。
+另外单一核苷酸多型性（single nucleotide polymorphism；SNP；核苷酸的变异量）在1号染色体中大约是74,000。
+
+基因
+以下列举1号染色体中的一些基因与它们的作用或产物：
+
+ACADM：酰基辅脢A去氢酶（Acyl-Coenzyme A dehydrogenase）的C-4到C-12直链。
+ASPM：决定脑部大小。
+COL11A1：XI型α1胶原（collagen, type XI, alpha 1）。
+CPT2：肉毒碱棕榈酰基转移酶II（carnitine palmitoyltransferase II）。
+DBT：二氢硫辛胺支链转酰基酶E2（dihydrolipoamide branched chain transacylase E2）。
+HPC1：前列腺癌基因。
+IRF6：结缔组织成形基因。
+
+相关疾病
+以下是一些与1号染色体上的基因有关的疾病：
+
+阿兹海默症
+阿兹海默症第4型
+乳癌
+肉毒碱棕榈酰基转移酶II缺乏症（Carnitine palmitoyltransferase II deficiency）
+恰克-马利-杜斯氏症（Charcot-Marie-Tooth disease）
+恰克-马利-杜斯氏症第1型（Charcot-Marie-Tooth disease, type 1）
+恰克-马利-杜斯氏症第2型（Charcot-Marie-Tooth disease, type 2）
+先天性甲状腺低能症（congenital hypothyroidism）
+先天性耳聋，体染色体隐性耳聋36（autosomal recessive deafness 36）
+埃勒斯-丹洛斯综合征（Ehlers-Danlos syndrome）
+埃勒斯-丹洛斯综合征后突侧弯型（Ehlers-Danlos syndrome, kyphoscoliosis type）
+半乳糖血症（galactosemia）
+高雪氏症（Gaucher disease）
+高雪氏症第1型
+高雪氏症第2型
+高雪氏症第3型
+类高雪氏症（Gaucher-like disease）
+青光眼
+血色素沉着症（Hemochromatosis）
+血色素沉着症第2型（Hemochromatosis, type 2）
+肝红细胞生成性卟啉病（Hepatoerythropoietic porphyria）
+高胱胺酸尿症（Homocystinuria）
+小脑症（Microcephaly）
+帕金森氏症
+嗜铬细胞瘤（Pheochromocytoma）
+紫质症（porphyria）
+迟发性皮肤卟啉症（porphyria cutanea tarda）
+腘翼状胬肉综合征（popliteal pterygium syndrome）
+摄护腺癌
+史蒂克勒氏综合征（Stickler syndrome）
+遗传性耳聋-色素性视网膜炎综合征（Usher syndrome）
+不定性卟啉病（Variegate porphyria）
+
+参考文献
+
+其他
+National Institutes of Health. Chromosome 1. Genetics Home Reference.   [2006-05-17]. （原始内容存档于2012-02-04）. 
+Murphy WJ, Fronicke L, O'Brien SJ, Stanyon R. The origin of human chromosome 1 and its homologs in placental mammals. Genome Res. 2003, 13 (8): 1880–8. PMID 12869576. 
+Schutte BC, Carpten JD, Forus A, Gregory SG, Horii A, White PS. Report and abstracts of the sixth international workshop on human chromosome 1 mapping 2000. Iowa City, Iowa, USA. 2000年9月30日-10月3日. Cytogenet Cell Genet. 2001, 92 (1-2): 23–41. PMID 11306795. 
+Reuters 2006-05-17 Wed
+
+参见
+位于1号人类染色体的基因

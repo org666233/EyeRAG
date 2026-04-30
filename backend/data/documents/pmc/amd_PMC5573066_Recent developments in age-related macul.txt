@@ -1,0 +1,793 @@
+Source: PubMed Central (PMC)
+PMCID: PMC5573066
+Title: Recent developments in age-related macular degeneration
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5573066/
+Year: 2017
+Disease: amd
+Priority: 1
+============================================================
+
+Clin Interv Aging . 2017 Aug 22;12:1313–1330. doi: 10.2147/CIA.S143508 
+ 
+ 
+ Recent developments in age-related macular degeneration: a review 
+ Waseem M Al-Zamil 
+ Waseem M Al-Zamil 
+ 
+ 1 Department of Ophthalmology, Imam Abdulrahman Bin Faisal University, Al-Khobar, Saudi Arabia 
+ Find articles by Waseem M Al-Zamil 
+ 
+ 
+ 1 , Sanaa A Yassin 
+ Sanaa A Yassin 
+ 
+ 1 Department of Ophthalmology, Imam Abdulrahman Bin Faisal University, Al-Khobar, Saudi Arabia 
+ Find articles by Sanaa A Yassin 
+ 
+ 
+ 1, ✉ 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, Imam Abdulrahman Bin Faisal University, Al-Khobar, Saudi Arabia 
+ 
+ ✉ Correspondence: Sanaa A Yassin, Department of Ophthalmology, Imam Abdulrahman Bin Faisal University, PO Box 40097, Al-Khobar 31952, Saudi Arabia, Tel +966 5 0480 5108, Fax +966 3 896 6776, Email syassin@uod.edu.sa 
+ 
+ 
+ Collection date 2017. 
+ 
+ © 2017 Al-Zamil and Yassin. This work is published and licensed by Dove Medical Press Limited 
+ The full terms of this license are available at https://www.dovepress.com/terms.php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License ( http://creativecommons.org/licenses/by-nc/3.0/ ). By accessing the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC5573066  PMID: 28860733 
+ 
+ Abstract 
+ Background 
+ Visual impairment in elderly people is a considerable health problem that significantly affects quality of life of millions worldwide. The magnitude of this issue is becoming more evident with an aging population and an increasing number of older individuals. Objective 
+ The objective of this article was to review the clinical and pathological aspects of age-related macular degeneration (AMD), diagnostic tools, and therapeutic modalities presently available or underway for both atrophic and wet forms of the disease. Methods 
+ An online review of the PubMed database was performed, searching for the key words. The search was limited to articles published since 1980 to date. Results 
+ Several risk factors have been linked to AMD, such as age (>60 years), lifestyle (smoking and diet), and family history. Although the pathogenesis of AMD remains unclear, genetic factors have been implicated in the condition. Treatment for atrophic AMD is mainly close observation, coupled with nutritional supplements such as zinc and antioxidants, whereas treatment of wet AMD is based on targeting choroidal neovascular membranes. Conclusion 
+ Identification of modifiable risk factors would improve the possibilities of preventing the progression of AMD. The role of anti-vascular endothelial growth factor (anti-VEGF) agents has transformed the therapeutic approach of the potentially blinding disease “wet AMD” into a more favorable outcome. Keywords: age-related macular degeneration, anti-VEGF, risk factors, treatment Introduction 
+ Age-related macular degeneration (AMD) is an acquired disease of the macula characterized by progressive visual impairment because of late-onset neurodegeneration of the photoreceptor–retinal pigment epithelial complex. AMD is a major cause of central visual loss in the developed world affecting 10% of people older than 65 years and more than 25% of people older than 75 years. 1 In the US alone, ~2 million individuals have advanced AMD and >8 million individuals have an intermediate form of the disease. These numbers are expected to rise by 50% in 2020. 2 In Saudi Arabia, AMD represents 3.3% of the major causes of blindness in individuals older than 50 years. 3 
+ Human retinal pigment epithelium (RPE) is a non-dividing cell, which has several functions essential for the maintenance of photoreceptor cells. RPE undergoes various changes during aging, leading to the emergence of a clinically detectable focal yellow accumulation of extracellular, polymorphous material, called drusen, at the interface between the RPE and the inner collagenous zone of Bruch’s membrane. The presence of drusen within the macula is the hallmark sign of AMD. However, individuals with small drusen in the absence of other ocular abnormalities are at a decreased risk to progress to the more severe forms of the disease. A widely variable clinical presentation related to drusen characteristics and pigmentary disturbances, such as hypopigmentation and hyperpigmentation, can be found in individuals with AMD. 4 Various pathologies, including focal detachment of the RPE, outer retinal atrophy, and new blood vessel growth between Bruch’s membrane and the retina, can progress into either geographic atrophy (GA) or choroidal neovascularization (CNV) AMD, which are also known as dry or wet AMD, respectively. 
+ The aim of this review was to recapitulate the extensive work conducted over the last 3 decades in the clinical and pathological aspects of AMD, diagnostic tools, and therapeutic modalities presently available or underway for both atrophic and wet forms of the disease. An online review of the database PubMed was performed, searching for the key words: age-related macular degeneration, risk factors, VEGF, prevention, genetics, management, and phrases in combination. Some literature was derived from the reference lists of identified publications. Additionally literature search of the Clinical Trials ( https://ClinicalTrials.gov ) was performed using “age-related macular degeneration” as keyword. The search was limited to articles published since 1980 to date. Pathophysiology 
+ The exact pathophysiology of AMD is not fully understood; however, findings from ongoing studies are expanding our knowledge of the disease and the underlying mechanism. It is believed that the pathogenesis of AMD is the result of a complex multifactorial interaction between metabolic, functional, genetic, and environmental factors. 5 With aging, intracellular residual bodies containing lipofuscin accumulate in RPE cells. 6 RPE cells express such materials that would normally be eliminated by the choriocapillaris; however, as RPE dysfunction progresses, it results in alterations in the permeability of Bruch’s membrane, which leads to an accumulation of extruded material (drusen) between the two layers. 7 The appearance of drusen may either be found with or is proceeded by a thickening of the collagenous layers of Bruch’s membrane, a degeneration of elastin and collagen within the membrane, and its calcification. 7 Furthermore, it has been observed that the choriocapillaris thins in patients with AMD, which may contribute to the decline in the removal of extracellular material that results in drusen formation. 8 
+ Twin studies have demonstrated that family history is an established risk factor for AMD. 9 One study recently reported that drusen formation may stimulate an inflammatory cascade that has a role in AMD progression. 10 Another study found evidence that polymorphisms in genes that encode complement factors, which have an important role in the immune system, can affect AMD risk either by increasing the risk for or by protecting against development of the disease. 11 Evidence of associations between increased risk of AMD and complement factor H ( CFH ) on chromosome 1 12 and pleckstrin homology domain containing A1 ( PLEKHA1 ) and the hypothetical gene LOC387715 on chromosome 10 has been documented. 13 In contrast, another study found protective effects of genetic polymorphisms in complement factor B ( CFB ), complement component 2 ( C2 ) on chromosome 6, and specific haplotypes in CFH that demonstrated decreased risk of AMD. 11 
+ CFH suppresses complement pathway; hence, in the presence of abnormal CFH activity, the complement cascade is activated with a consequent downstream inflammatory response to subretinal tissues. 14 Inflammatory components from the cascade pathway have been identified within drusen, 10 and additionally, environmental factors such as smoking can decrease CFH levels, which may account for smokers having a significantly increased risk of developing AMD compared to nonsmokers. 15 , 16 Furthermore, complement pathway activation could be inhibited because of the protective effects conferred by polymorphisms in CFB and C2 , thereby limiting the degree of chronic inflammation. 11 Additional evidence suggests that choroidal C-reactive protein-specific deposition contributes to AMD pathogenesis in individuals with homozygous CFH . 17 
+ Drusen formation signals RPE dysfunction, which promotes RPE loss with further progression that results in photoreceptor death. 18 As previously described, RPE degeneration consequently leads to dysfunction of Bruch’s membrane. Progressive damage to Bruch’s membrane with the upregulation of vascular endothelial growth factor (VEGF) promotes the outgrowth of abnormal choroidal vessels underneath the RPE and, subsequently, under the retina. Initially, these abnormal vessels present with subretinal extravasations that may hemorrhage before they regress and form a disciform scar. Thus, the visual outcome of end-stage wet AMD is the permanent loss of central vision. 8 
+ Several studies have investigated the molecular pathway that underlies GA and vision loss. 19 , 20 This pathway implies that RPE death consequently leads to photoreceptor loss, which progressively results in visual loss over time. Low levels of the ribonucleic acid (RNA)-cleaving enzyme, DICER1, in RPE cells were observed in patients with dry AMD. 21 It was reported that decreased levels of DICER1 lead to a decreased rate in the breakdown of RNA-Alu molecules, which are noncoding sequences of RNA. The overabundance of cytoplasmic RNA-Alu activates inflammatory proteins such as NLRP3 in the inflammasome, which results in the activation of a cascade of molecular reactions that result in RPE cell loss. 22 , 23 Furthermore, mitochondrial dysfunction has been associated with the development of dry AMD. The mitochondrial dysmorphology observed in the RPE in individuals with AMD was consistent with severe dysfunction. 24 Risk factors 
+ Age 
+ The development of advanced AMD has multifactorial risk factors, such as increasing age, ethnicity, and genetics. Age is the strongest predictor of AMD. 25 Although infrequent in people younger than 50 years, the risk of acquiring AMD increases more than threefold in patients older than 75 years compared to patients between 65 and 74 years of age. 26 , 27 In the US, AMD is found in 30% of individuals older than 85 years. 26 Family history and genetics 
+ AMD is most frequently found in Caucasians, followed by Hispanics and Asians with the lowest rate reported in African Americans. 2 There is an increased risk in individuals with a positive family history of AMD, which is typically multifactorial in nature. Siblings of an affected individual have a threefold to sixfold higher risk than those of the general population. 28 
+ To date, 34 genetic loci including 52 gene variants have been identified that have been linked to AMD. 29 Using genome-wide screening approaches, several sets of gene variants have been identified in different chromosomes, including chromosomes 1, 6, and 10. 30 , 31 These culprit genes play role in controlling immune response, inflammatory processes, and retina homeostasis, and the extent of dysfunction of these reactions in individuals with AMD is attributed to variations found in these loci. The most investigated candidate genes are CFH on chromosome 1 at 1q31.3, high-temperature requirement serine peptidase 1 ( HTRA1 ; also known as age-related maculopathy [ARM] susceptibility 2 [ ARMS2 ]) on chromosome 10 at 10q26, and CFB/C2 on chromosome 6 at 6p21.3. 32 , 33 Other genetic variants putatively related to AMD include a polymorphism in lipase C hepatic type ( LIPC ), which is involved in high-density lipoprotein cholesterol metabolism; 34 the single-nucleotide polymorphism (SNP) rs3775291 in toll-like receptor 3 ( TLR3 ); 19 and the tissue inhibitor of metalloproteinase 3 ( TIMP3 ). 35 
+ The contribution and role of genetic predisposition extend beyond increased susceptibility of an individual developing AMD and may also affect treatment response. Smailhodzic et al 36 demonstrated a cumulative effect of high-risk alleles in CFH, ARMS2 , and VEGFA that were associated with a younger age of onset and inadequate response to intravitreal anti-vascular endothelial growth factor (anti-VEGF) agents in individuals with AMD. Medina et al 37 also found that in individuals with a homozygous CC group, variants of the CFH gene polymorphism T1277C were associated with delayed functional and limited morphological response to the initial intravitreal injection of Avastin (bevacizumab) in wet AMD. Therefore, further pharmacogenomic studies may aid in developing a rational guide to treatment regimens and to optimize treatment response tailored to an individual’s genetic background. Lifestyle, diet, and nutrition 
+ Smoking is the main influential modifiable risk factor, and patients should be encouraged at each visit to refrain from smoking to prevent further visual loss. Smokers for >40 years are two to four times more likely to develop AMD than nonsmokers of the same age. 38 The ALIENOR study from France showed that high pulse pressure was associated with an increased risk of late-stage AMD, whereas systolic or diastolic blood pressure or the use of antihypertensive medications was not significantly associated with an increased risk of either early- or late-stage AMD. 39 
+ A high intake of certain fats, such as saturated fats, trans fats, and omega-6 fatty acids, has been associated with a twofold increase in the prevalence of AMD, whereas monounsaturated fats were potentially protective. 40 There is conflicting evidence concerning the role of sunlight exposure in AMD occurrence. In a study that compared sun exposure of individuals with end-stage AMD to unaffected spouses, researchers found no evidence of an association; 41 however, other studies have shown that high-energy visible light may contribute to AMD. 42 , 43 Furthermore, data from several large population-based studies have indicated that there may be a gender effect with women at a higher risk to develop AMD compared to men. 26 , 44 
+ It has been investigated whether dietary antioxidants, such as vitamins C and E, carotenoids (eg, lutein and zeaxanthin), and zinc, are additional risk factors for AMD; however, data from observational studies revealed insufficient evidence supporting a role. 45 , 46 Aspirin use 
+ There is inconsistent evidence linking aspirin use and AMD. The Beaver Dam Eye Study demonstrated that the incidence of late-stage AMD in patients who used aspirin at least twice weekly for 10 years was higher compared to in those who did not use aspirin, 47 whereas a different study reported that aspirin conferred a potentially protective effect against developing the disease. 48 A meta-analysis of 10 studies, including >171,000 patients, concluded that aspirin use was not a risk factor for AMD. 49 Based on the available information on aspirin use in patients with AMD, the current preferred practice is to continue aspirin therapy prescribed by physicians. Other risk factors 
+ Combined analysis of longitudinal data from two large population-based cohorts suggests an increased risk of developing late-stage AMD, particularly neovascular AMD in older individuals who undergo cataract surgery. 50 
+ Other proposed risk factors for AMD include abdominal obesity, especially among men; 51 hyperlipidemia; 52 hyperopia; 53 light iris color; 41 cardiovascular disease; 25 hormonal status; 54 alcohol use; 55 vitamin B and D status; 56 , 57 and elevated C-reactive protein. 58 
+ A systematic review including 18 prospective and cross-sectional studies and six case–control studies involving 113,780 individuals identified age (>60 years), smoking, previous cataract surgery, and a family history of AMD as strong risk factors for AMD, whereas increased body mass index, previous cardiovascular disease, hypertension, and higher plasma fibrinogen were found to be moderate risk factors. 25 
+ Table 1 summarizes the risk factors associated with AMD. 
+ Table 1. 
+ Summary of risk factors for AMD 
+ 
+ 
+ Risk factors 
+ Strength and consistency of association 
+ 
+ 
+ 
+ Older age 
+ Strong and consistent 
+ 
+ 
+ Cigarette smoking 
+ 
+ 
+ 
+ Previous cataract surgery 
+ 
+ 
+ 
+ Family history of AMD 
+ 
+ 
+ 
+ Higher body mass index 
+ Moderate and consistent 
+ 
+ 
+ History of cardiovascular disease 
+ 
+ 
+ 
+ Hypertension 
+ 
+ 
+ 
+ Higher plasma fibrinogen 
+ 
+ 
+ 
+ Gender 
+ Weak and inconsistent 
+ 
+ 
+ Ethnicity 
+ 
+ 
+ 
+ Diabetes 
+ 
+ 
+ 
+ Iris color 
+ 
+ 
+ 
+ History of cerebrovascular disease 
+ 
+ 
+ 
+ Serum total cholesterol 
+ 
+ 
+ 
+ HDL cholesterol 
+ 
+ 
+ 
+ Triglyceride levels 
+ 
+ 
+ 
+ 
+ Open in a new tab 
+ Abbreviations: AMD, age-related macular degeneration; HDL, high-density lipoprotein. Classification and severity grading 
+ Various classification systems are used to delineate and characterize AMD for both clinical and research purposes. Currently, there is no universally accepted consensus on specific definitions, although conventionally, AMD has two main types of macular degeneration known as dry and wet AMD. Dry AMD, which is also known as the nonexudative form, is the most common type, comprising ~90% of all diagnosed cases. GA is the advanced stage of dry AMD. Wet AMD is also known as the exudative form, and although less common than dry AMD, it is associated with a more rapid progression to advanced vision loss. The main manifestations of wet AMD are CNV and pigment epithelial detachment (PED). Approximately 10%–20% of patients with nonexudative AMD may develop the wet form, which is estimated to affect 1.75 million people in the US. 2 , 59 
+ The development of standardized photographic retinal grading methods such as the Wisconsin ARM grading system 60 was followed by the International ARM Epidemiological Study for classification and grading, 61 which redefined the diagnostic system and led to the adoption of a stricter criterion for diagnosing AMD. The ARM grading system was characterized by minimal or moderate nonexudative age-related changes in the macula. By definition, the presence of advanced RPE atrophy (ie, GA) or CNV was essential to establish a diagnosis of nonexudative AMD or wet AMD, respectively. After applying the International Classification criteria, ARM accounted for ~85%–90% of cases with AMD representing 10%–15% of affected individuals with age-related macular changes. 
+ The Age-Related Eye Disease Study (AREDS) defined the categories of AMD based on the presenting features of drusen, atrophy, and neovascularization ( Table 2 ). Drusen were classified as small (<63 μm in diameter), intermediate (63–124 μm), or large (>125 μm). ARED categories of AMD were defined as: 1) no AMD if there were fewer than five small drusen; 2) mild AMD based on the identification of multiple small drusen or at least one intermediate-sized drusen; 3) intermediate AMD classified by extensive intermediate-sized drusen, more than one large drusen, or non-central GA; and 4) advanced AMD determined by central GA or CNV causing vision loss (defined as visual acuity [VA] worse than 20/32) in one eye. 62 
+ Table 2. 
+ Demonstration of the classification of AMD, according to AREDS 
+ 
+ 
+ Classification 
+ Category 
+ Clinical signs 
+ 
+ 
+ 
+ 
+ No AMD 
+ 1 
+ 
+ 
+ 
+ 0–5 small drusen (<63 μm in diameter) 
+ 
+ 
+ Early AMD 
+ 2 
+ 
+ 
+ 
+ Multiple small drusen or a few intermediate-sized (63–124 μm in diameter) drusen, or macular pigmentary changes 
+ 
+ 
+ Intermediate AMD 
+ 3 
+ 
+ 
+ 
+ Extensive intermediate drusen or at least one large (≥125 μm) drusen, or GA not involving the foveal center 
+ 
+ 
+ Advanced AMD 
+ 4 
+ 
+ 
+ 
+ GA involving the foveal center or any evidence of choroidal neovascularization a 
+ 
+ 
+ 
+ 
+ Open in a new tab 
+ 
+ Note: 
+ 
+ a Subretinal hemorrhage, serous retinal or RPE detachments, lipid exudates, or fibrovascular scar. 
+ 
+ Abbreviations: AMD, age-related macular degeneration; AREDS, Age-Related Eye Disease Study; GA, geographic atrophy; RPE, retinal pigment epithelium. 
+ Klein et al developed a risk assessment model using data from AREDS; the model incorporated demographic, environmental, phenotypic, and genetic covariates. The model gave satisfactory results, with very good discrimination, calibration, and overall performance. This risk assessment tool was made available for online use. 63 Clinical features and diagnosis 
+ AMD is characterized by a variable presentation of clinically observable changes at the posterior pole. 
+ Variable types, sizes, and distribution of drusen within the posterior pole with a high degree of symmetry between the two eyes of an individual are characteristics of dry AMD. 64 Pseudodrusen are a different entity from conventional drusen. They are drusenoid deposits located in the subretinal space above the RPE. 65 Pseudodrusen are associated with advanced AMD. 66 They have been classified into three groups, dot, reticular, and confluent pseudodrusen, depending on different morphological appearances. 67 It was found that the prevalence of GA was associated with the presence of ribbon-dominant (confluent)-type pseudodrusen, large soft drusen, and female gender. 68 Pigmentary disturbances are a frequent finding in AMD that can be in the form of either focal hyperpigmentation or hypopigmentation. Progressive well-demarcated atrophic patches of the RPE may appear in the perifoveal area. Over time, these atrophic patches enlarge and may coalesce, resulting in GA. 7 Wet AMD may present with drusen, PED, intraretinal hemorrhages, and CNV, which appears as a well-demarcated graying area of the retina. 59 
+ There are different methods for diagnosis, including fundus imaging and optical coherence tomography (OCT). Digital fundus photography is an effective approach to document clinical findings. 60 However, there are a few difficulties that hinder precision of color photograph measurements, such as image quality, resolution, noise, and dynamic, as well as the sensitivity of the camera, media clarity, and fundus pigmentation. Foveal involvement is also difficult to determine. Fundus autofluorescence (FAF) imaging depends on the stimulated emission of light from molecules in the RPE, mainly lipofuscin. 69 FAF imaging is a helpful tool for evaluating and monitoring the topographic structure and health of the RPE because the localized deposition of lipofuscin in RPE cells results in increased autofluorescence, whereas in contrast, a decrease or absence of RPE lipofuscin will result in a decreased FAF signal. 70 , 71 
+ In case of GA, a well-circumscribed dark area typically appears in FAF images that clearly delineates atrophy of the RPE. 72 Increased autofluorescence surrounding the GA area has been considered a risk factor for the progression of AMD. 71 , 73 The multicenter Fundus Autofluorescence in Age-related Macular Degeneration (FAM) study using a confocal scanning laser ophthalmoscopy classified patterns of abnormal FAF in the junctional zone of GA in patients with AMD into five different patterns as follows: none, focal increased, banded, patchy, and diffuse. 70 The progression rate of GA was highest in eyes with the diffuse trickling pattern followed by the banded pattern in a study on 54 eyes. 74 A hyperpigmented area in the fundus can either show as decreased FAF intensities because of absorption by melanin granules or as increased FAF signal, which is believed to arise from melanolipofuscin. Similarly, variable increased or decreased intensities of FAF can be observed in non-RPE-related changes, such as subpigment epithelial or subneurosensory detachments, areas with extracellular fluid exudation or hemorrhage with subsequent biosynthesis of fluorophores that possess autofluorescent properties. 69 , 75 
+ Spectral-domain optical coherence tomography (SD-OCT) has provided an improved understanding of the microstructural changes related to AMD. 76 For example, drusen may appear as elevations at the level of the RPE. In GA, OCT demonstrated loss of the RPE layer and photoreceptor bands within the atrophic lesion. 76 In addition, OCT is used to determine subretinal or intraretinal blood or fluid. 77 Fluid appears as black gaps or elevations and is indicative of wet AMD. OCT is often used when fluorescein angiography (FA) is equivocal and is used to monitor treatment responses. 78 The technology of OCT has progressed rapidly since its first introduction to ophthalmology in 1995. 79 Improved axial resolution and increased scanning speed have facilitated the introduction of new OCT techniques, which can more effectively visualize the posterior segment. 80 En-face OCT is one such visualization approach that has significantly benefited from technical advancements. En-face OCT in current systems is based on software reconstruction of OCT images. 
+ Nunes et al 81 used en-face OCT to study the progression of GA at the inner/outer segment junction of 30 patients with AMD. Interestingly, they found outer retinal disruption that extended beyond the borders of GA, which are visualized as focal hyporeflective areas on en-face OCT, predicted GA progression for 1 year in 43.3% of eyes in their patient cohort. Another novel technique OCT angiography (OCT-A) is an in vivo noninvasive imaging of blood vessels with a high resolution in three dimensions, thus enabling a qualitative and quantitative analysis of characteristics of normal and pathological blood vessels at different layers of the retina and choroid. OCT-A may have applications in both neovascular and non-neovascular AMD. In neovascular AMD, OCT-A can be used to monitor treatment response over time, 82 while in non-neovascular AMD, it is useful to study the choriocapillaris and other vascular structures believed to be important in the pathogenesis of the disease. 8 , 77 
+ FA reveals drusen that bind fluorescein and hyperfluorescence in the late stage of angiography; however, fluorescein uptake depends on the components found in drusen that can vary from being hydrophobic to hydrophilic ( Figure 1 ). Consequently, only 50% of clinically identifiable drusen will stain with fluorescein. 83 Large drusen tend to stain with fluorescein more frequently than smaller drusen. During the transit phase of FA, areas of GA appear as well-demarcated patches of hyperfluorescence surrounded by a rim of blocked fluorescence with visualization of the choroidal vessels passing through the region. In the late phase of FA, some staining may persist. 84 The gold standard for confirming diagnosis whenever CNV is suspected is FA. In addition, FA may assist in determining the pattern (classic or occult), borders, composition, and location of the neovascular complex as well as guide treatment with laser or intravitreal injections. 84 
+ Figure 1. 
+ 
+ Open in a new tab 
+ Fundus photograph and late FA phase demonstrating drusen. 
+ Note: FA shows fewer drusen than clinically identifiable. 
+ Abbreviation: FA, fluorescein angiography. In the early phases of FA, CNV presents as a hyperfluorescent lesion that enlarges in size and intensity in late phases as the fluorescein leaks from the neovascular membranes. The two major angiographic patterns are classic and occult forms of CNV. Differences between the two patterns are thought to arise from the location of the neovascular membrane. In classic lesions, CNV penetrates the RPE and grows in front of the RPE, whereas occult lesions are sub-RPE. 85 As shown in Figure 2 , classic CNV is characterized by well-circumscribed lesions with early hyperfluorescence and progressive leakage in later frames. A concomitant pooling of fluorescein in the subretinal space can also be observed. Occult CNV is categorized as an ill-defined leakage from an undetermined source. Occult CNV is also presumed when a fibrovascular PED is suspected because these detachments are accompanied with an irregular RPE elevation and a stippled hyperfluorescent pattern with or without leakage or pooling. 84 
+ Figure 2. 
+ 
+ Open in a new tab 
+ Classic choroidal neovascular membrane in AMD is depicted on FA, showing early hyperfluorescence with progressively increasing hyperfluorescence on successive images, surrounded by hypofluorescence due to blockage from subretinal hemorrhage. 
+ Abbreviations: AMD, age-related macular degeneration; FA, fluorescein angiography. The value of indocyanine green (ICG) angiography in assessing and treating AMD has been debated. Nevertheless, ICG is useful in assessing specific forms of AMD, such as occult CNV, which is poorly defined, and lesions like retinal angiomatous proliferation or idiopathic polypoidal choroidal vasculopathy. 86 
+ Although their specific role in clinical practice is not distinctly determined, other tests such as microperimetry can be used to quantify retinal sensitivity and fixation in AMD. 87 , 88 Prophylaxis and treatment of dry AMD 
+ Current management of GA in AMD basically depends on documentation, observation, and surveillance for early recognition of any changes in visual function and detection of CNV at a treatable stage. 89 Home monitoring for changes in the central visual field is usually advised using an Amsler grid to detect the presence of metamorphopsia or scotoma in individuals with dry AMD, although the sensitivity of Amsler charts in revealing macular disease can be suboptimal. 90 
+ The identification of modifiable risk factors and the development of future preventive treatments are crucial because there is currently no available treatment of dry AMD and population aging will result in a major upsurge in AMD burden on both families and socioeconomically. 91 Thus, intense efforts have been made to identify possible therapeutic targets to reduce disease progression. Tobacco smoking is consistently associated with AMD, and because it is a modifiable risk factor, a primary therapeutic recommendation should advocate the significance of smoking cessation. 25 In addition, the preventive role of antioxidant supplements was evaluated in several studies. 62 , 92 , 93 Oxidative damage from various sources, such as light exposure, inflammation, and oxidative stress, to the retina has been strongly linked with AMD. Although results from initial epidemiological studies indicated an association, later studies were inconclusive. 94 – 97 The AREDS study was designed to determine whether antioxidant supplementation could have protective effects against AMD. 62 , 92 AREDS was a multicenter, randomized, double-masked, clinical trial that enrolled 3,640 participants and was stratified into four categories of severity. The study demonstrated that a daily dose of vitamin C (500 mg), vitamin E (400 IU), β-carotene (15 mg), zinc oxide (80 mg), and cupric oxide (2 mg) significantly reduced the odds of developing advanced AMD in individuals with high-risk characteristics. The greatest risk reduction (34% odds reduction) was seen in participants from categories 3 and 4, who received both antioxidants and zinc (odds ratio [OR] =0.66; P =0.001), compared to other categories in the treatment arm. 
+ A second AREDS study (AREDS2) was started in 2006 to evaluate the role of oral supplementation with high doses of lutein, zeaxanthin, and omega-3 fatty acids (docosahexaenoic acid [DHA] and its precursor eicosapentaenoic acid [EPA]). 98 A second objective of the study was to assess the effects of eliminating beta-carotene and reducing the zinc dose from the original AREDS formula. After a median 5-year follow-up, there was no convincing support toward including DHA/EPA or lutein/zeaxanthin to the AREDS formula, although subgroup analysis indicated that substitution of beta-carotene with lutein and zeaxanthin showed a slightly decreased risk of progression (hazard ratio =0.82; P =0.02). However, participants who were former smokers and took the revised formula with beta-carotene were more prone to lung cancer compared to those whose formula did not include beta-carotene (2.0% vs 0.9%, respectively; P =0.04). The final recommendation from AREDS2 was to substitute beta-carotene with lutein/zeaxanthin in the updated formula. 98 
+ Dry AMD has no approved treatment, which is driving efforts toward understanding the pathophysiology of the disease for the scientific development of rationale treatments. Several innovative treatments for dry AMD are in progress. Because inflammation and polymorphisms in genes involved in the complement pathway have been consistently linked to AMD pathogenesis, several trials were performed to evaluate the safety, tolerability, and response of different complement inhibitors to treat dry AMD. 99 The 18-month Phase II MAHALO study assessed the efficacy of monthly intravitreal injections of lampalizumab in halting the progression of GA in patients with bilateral disease. 100 Lampalizumab (anti-factor D Fab) is a humanized monoclonal antibody (Fab fragment), which is a selective inhibitor of complement factor D ( CFD ). Using autofluorescence and color fundus photographs, it was found that patients had a 20% reduction in mean change from baseline in the GA area at month 18. Remarkably, in a subset of complement factor I-positive patients, intravitreal administration of lampalizumab was associated with a significant 44% reduction in the GA area progression at month 18 compared to sham treatment ( P <0.005). Lampalizumab is under further evaluation in two large, prospective, Phase III, randomized, double-masked clinical trials, CHROMA and SPECTRI. 101 , 102 Currently, lampalizumab is the most promising potential therapeutic agent for dry AMD that may be commercially available as early as 2019. 
+ There is evidence that tetracyclines can target the low-grade inflammation caused by aberrant complement pathway activation, which is believed to underlie the pathogenesis of dry AMD, and may also slow the progression of GA. Doxycycline is a broad-spectrum antibiotic at a dose of 100 mg a day; however, at a lower dosage (20–40 mg/day), it acts as an anti-inflammatory. 103 Low-dose oral doxycycline is currently approved for treating the inflammatory lesions of rosacea and is under investigation in a randomized, double-masked, placebo-controlled study (TOGA) to determine its efficacy and safety in slowing the progression of GA in patients with AMD. 104 
+ Statins are lipid-lowering anti-inflammatory agents with pleiotropic actions. There is emerging genetic and pathological evidence from a cross-sectional study that included 5,604 participants in the National Health and Nutrition Examination Survey from 2005 to 2008, ≥40 years of age, who were confirmed to diagnosis of AMD, the use of statins, and comorbidities and health-related behaviors such as smoking. The study suggests a possible role for statins in delaying the progression of AMD and its prevention in individuals at the age of 68 years or older; 105 however, additional studies are needed to fully evaluate their therapeutic importance. 
+ A novel mitochondrial protective compound, MTP-131 (Ocuvia), is a topical ophthalmological investigational drug under development to treat dry AMD. Preliminary testing of MTP-131 in cell culture and in a mouse model of AMD was performed, and the results indicated that the investigational drug was highly effective in several experimental models. 106 Currently, a Phase I/II open-label dose-escalation clinical study on topical MTP-131 is carried on to determine its safety and tolerability in patients with diabetic macular edema and dry AMD. 107 
+ Rapamycin (Sirolimus) is an inhibitor of the mammalian target of rapamycin complex (mTOR), which is a pleiotropic protein kinase involved in regulating organismal growth and homeostasis. Sirolimus is clinically administered as an immunosuppressive agent following organ transplantation for its ability to suppress T-cell and B-cell proliferation and antibody production. 108 However, intravitreal or subconjunctival (440 μg/every 3 months) administration of sirolimus in six eyes or 11 eyes, respectively, showed no effect on VA, GA size, or GA progression in patients with dry AMD. 108 , 109 
+ Stem-cell therapy is under investigation as a potential cell-replacement approach for damaged and lost photoreceptors and RPE cells in GA lesions. A prospective study of nine patients with atrophic AMD (median age of 77 years) showed that subretinal transplantation of human embryonic stem cell-derived retinal epithelial cells improved VA at 12 months in the treated eye compared to that in the untreated eye. 110 Although the procedure was well tolerated and patients were followed for up to 3 years, these findings only support proof of concept and are too preliminary to suggest its use in treatment. Table 3 lists the emerging treatments targeting advanced AMD. 
+ Table 3. 
+ Emerging treatments targeting advanced AMD are being tested actively in clinical trials 
+ 
+ 
+ Agent 
+ Targeted pathology 
+ Route of administration 
+ Mechanism of action 
+ 
+ 
+ 
+ Lampalizumab 99 
+ 
+ GA 
+ Intravitreal 
+ Anti-factor D Fab 
+ 
+ 
+ Oracea 104 
+ 
+ GA 
+ Oral 
+ Antibiotic–anti-inflammatory 
+ 
+ 
+ MTP-131 (Ocuvia) 107 
+ 
+ GA 
+ Topical 
+ Mitochondrial protective compound 
+ 
+ 
+ MA09-hRPE 110 
+ 
+ GA 
+ Subretinal injection 
+ Human umbilical tissue-derived cells 
+ 
+ 
+ Brimonidine tartrate implant 113 
+ 
+ GA 
+ Intravitreal implant 
+ Alpha-2-antagonist 
+ 
+ 
+ Eculizumab 188 
+ 
+ GA 
+ Intravitreal 
+ mAb against complement factor C5 
+ 
+ 
+ 
+ E10030 172 , 173 
+ 
+ Neovascular AMD 
+ Intravitreal 
+ Anti-PDGF PEGylated aptamer 
+ 
+ 
+ Proton radiation 189 
+ 
+ Neovascular AMD 
+ External radiation 
+ Radiation: proton radiation 
+ 
+ 
+ Abicipar pegol 190 
+ 
+ Neovascular AMD 
+ Intravitreal injection 
+ Anti-VEGF 
+ 
+ 
+ RTH258 191 
+ 
+ Neovascular AMD 
+ Intravitreal injection 
+ Anti-VEGF 
+ 
+ 
+ 
+ Open in a new tab 
+ Abbreviations: AMD, age-related macular degeneration; GA, geographic atrophy; PDGF, platelet-derived growth factor; VEGF, vascular endothelial growth factor. Other promising concepts of therapeutic approaches in the pipeline are to target inflammasomes, 111 visual cycle modulators, 112 , 113 glatiramer acetate (suppressor of T cells and downregulates inflammatory cytokines), 114 and neuroprotection. 113 , 115 As part of regular patient care and to ensure continued quality of life, individuals with poor vision should be supported by low vision aids as needed. Treatment of wet AMD 
+ Management of wet AMD has undergone significant advances in recent years. So far, none of the used treatments could certainly cure the disease or reverse its course. Macular photocoagulation studies (1970s) showed the effectiveness and efficacy of laser photocoagulation in the treatment of wet AMD. Remarkable visual outcome was described in extrafoveal lesions, 116 , 117 while parafoveal lesions showed less favorable results. 118 , 119 
+ Laser therapy was not considered as an ideal procedure for treating subfoveal lesions despite reported benefits. 120 , 121 Currently, the adoption of laser photocoagulation in the treatment of wet AMD is hampered by several issues, including a high recurrence rate; a risk of producing vision loss, especially with subfoveal membranes; and a limited visual improvement potential. In the era of anti-VEGF therapies, the role of direct photocoagulation as a major treatment approach for wet AMD is waning. However, if used, this treatment should be limited to treat very small lesions outside the central macula. 
+ Photodynamic therapy (PDT) was introduced in the late 1990s. 122 The photosensitizer verteporfin is administered intravenously at a dose of 6 mg/m 2 of body surface area and is activated by photons with a low-energy visible red laser (689 nm) using a specific type of contact lens. The activated dye forms reactive-free radicals that damage the vascular endothelium and induce occlusion of new vessels. Verteporfin is an approved photosensitizer by the US Food and Drug Administration (FDA) for ophthalmic use. The selectivity of the photosensitizer to the CNV, which retains the dye more avidly than normal vessels, allows directed targeting at the lesion without damaging surrounding tissues. In a Phase III trial, 609 participants with subfoveal neovascular AMD were randomized to PDT or placebo; it demonstrated that more eyes treated with PDT were spared from moderate vision loss than those treated with placebo (loss of <15 letters of VA at 12 months; 61% vs 46%, respectively; P <0.001). 122 In subgroup analyses, the VA benefit (<15 letters lost) found in the PDT arm was robustly demonstrated in eyes with predominantly classic lesions on FA compared to the placebo arm (67% vs 39%, respectively; P <0.001). The effects were maintained at 2 123 and 3 years 124 of follow-up. The use of PDT became more prevalent worldwide for a brief period. However, because of inadequate and unpredictable effects of PDT on CNV, which have led to a large number of recurrences and the need for retreatments, 125 , 126 and with the rise of other treatment options, the use of PDT in treating wet AMD has declined. In the current anti-VEGF treatment era, PDT alone is infrequently used in practice. However, its use is usually considered in combination with an anti-VEGF agent and/or steroid administration as a second line of therapy in eyes that are not responding to monotherapy. 126 , 127 
+ The first anti-VEGF agent that received FDA approval for the treatment of wet AMD was in 2004. Macugen (pegaptanib) was considered a unique therapy in its objective and mechanism of action. 128 It is a RNA aptamer that specifically binds to the VEGF-165 isoform. In the VISION studies, participants with different types of subfoveal CNV were randomized to receive 0.3, 1.0, or 3.0 mg of intravitreal pegaptanib injections or sham treatment every 6 weeks over a period of 48 weeks. 128 At 48 weeks, patients receiving 0.3 mg pegaptanib were more likely to have maintained their VA or to have gained acuity compared to those who received sham injection (33% vs 23%, respectively; P =0.003). However, since this study, newer and more effective anti-VEGF agents have widely substituted pegaptanib. 
+ Lucentis (ranibizumab) is a recombinant humanized IgG1 monoclonal Fab fragment created from the same parent antibody as bevacizumab. It inhibits all biologically active VEGF-A isoforms. In 2006, ranibizumab was approved by the FDA for the treatment of wet AMD after its effectiveness was determined in the ANCHOR 129 and MARINA 130 trials. In the ANCHOR study, 423 patients with predominantly classic CNV were randomized 1:1:1 to verteporfin PDT plus monthly sham intraocular injection or to sham verteporfin PDT plus monthly intravitreal ranibizumab (0.3 or 0.5 mg) injection. The role of ranibizumab in the treatment of predominantly classic CNV was highlighted and showed improved VA (35.7%–40.3%) in patients at 1 year with a low rate of severe ocular adverse events. 129 The MARINA trial investigated the role of intravitreal administration of ranibizumab in the management of 716 patients with minimally classic or occult CNV for 2 years and demonstrated that ranibizumab prevented loss <15 letters in 94.5% of patients and improved mean VA in 24.8%–33.8% of patients. 130 
+ A recombinant humanized monoclonal IgG1, bevacizumab, is an anti-VEGF-A antibody originally developed for systemic administration as a chemotherapeutic agent, receiving FDA approval for the treatment of colorectal cancer, non-small cell lung cancer, glioblastoma multiforme, renal cell carcinoma, cervical cancer, ovarian cancer, fallopian tube cancer, and peritoneal cancer. 131 However, because of its low cost, its off-label use became prevalent as an alternative intravitreal anti-VEGF for the treatment of several retinal diseases. 131 The National Eye Institute funded the randomized Comparison of AMD Treatments Trials (CATT) to compare the effectiveness of bevacizumab versus ranibizumab for neovascular AMD. 132 , 133 A total of 1,208 participants with neovascular AMD were randomized to ranibizumab or bevacizumab on either a monthly or as-needed schedule. Both bevacizumab and ranibizumab had similar efficacies on VA over 24 months, and there were no differences between the two drugs in the frequency of death or arteriothrombotic events. The remaining issue was the unresolved debate of higher rates of serious adverse events with bevacizumab because of a lack of specificity to conditions associated with inhibition of VEGF. The Inhibition of VEGF in Age-related Choroidal Neovascularization (IVAN) study was a second head-to-head trial with an analogous protocol, enrolling 610 patients, and its primary outcome of best VA at 2 years again supported the fact that bevacizumab was not inferior to ranibizumab. 134 A meta-analysis evaluating the results of the data from both the CATT and the IVAN trials convincingly demonstrated that bevacizumab was not inferior to ranibizumab in best-corrected VA in patients with wet AMD. 135 Since these studies, two additional randomized trials evaluated both drugs and demonstrated non-inferiority 136 or equivalent efficacy 137 of bevacizumab compared to ranibizumab. 
+ Eylea (aflibercept) is the latest approved anti-VEGF agent, which is a VEGF-A receptor decoy with a high affinity to all VEGF-A and VEGF-B isoforms and to placental growth factor. 138 , 139 It is a recombinant fusion protein consisting of the ligand-binding elements of human VEGF receptor 1 and receptor 2 fused to the human immunoglobulin G1 fragment crystallizable (Fc) region. Aflibercept received FDA approval in 2011 and promptly gained popularity competing with other anti-VEGF agents on the market. The VIEW trials included two parallel trials that randomly assigned 2,419 participants to 0.5 mg aflibercept monthly, 2.0 mg aflibercept monthly, 2.0 mg aflibercept every 2 months after three initial monthly doses, or 0.5 mg ranibizumab monthly. 140 All the aflibercept groups, including the bimonthly group, were shown to be non-inferior to monthly ranibizumab. 140 The sustained effects of aflibercept can be accounted for its higher binding affinity. 141 
+ Basically, four dosing regimens of anti-VEGF treatment in neovascular AMD are in clinical use, a fixed regimen using monthly or bimonthly injections, a pro re nata (PRN) strategy, a treat-and-extend regimen, and an observe-and-plan regimen. 142 Generally, initial treatment with intravitreal anti-VEGF agents is given at a fixed monthly interval. 130 , 132 , 140 However, once disease stability is achieved, the follow-up and treatment plan are tailored according to clinical status and the judgment of the treating physician, in an attempt to reduce the treatment frequency and inconvenience on patients’ life. 142 In the PRN strategy, the retreatment is an individualized regimen based on monthly evaluation visits, to detect early disease recurrence. 143 – 146 This regimen allows for a reduced number of injections; however, the tremendous burden of monthly visit on patients and the health care system is unresolved. The treat-and-extend regimen is based on progressive lengthening of the intervals between the visit-injection dates. 147 , 148 Each visit is combined with an injection, and the visit result determines the subsequent interval to the next visit-injection date. This approach is becoming increasingly popular. It allowed for reducing the number of injections and simultaneously the number of visits with lower costs compared with fixed, monthly retreatment, along with maintaining an overall good VA outcome. 149 – 151 Treat-and-extend regimen showed several advantages over the PRN regimen, reducing the number of visits along with the number of injections, ranging from 7.6 to 8.4 in the first year. 149 – 151 The observe-and-plan regimen is based on an initial three loading doses, followed by a monthly observation; once signs of recurrence appeared on SD-OCT, the ideal treatment interval is considered to be 2 weeks shorter than the elapsed interval. 142 Subsequently, this interval is then applied for several fixed injections without intermittent evaluation. Monitoring visits following each series of injections aim to tune the interval in the subsequent injection series. This emerging regimen achieved a favorable functional outcome with fewer clinic visits. 152 , 153 
+ Several cost-effective analyses studies compared the less frequent injections of aflibercept with ranibizumab and bevacizumab. 154 – 156 All studies agreed that irrespective of the treatment protocol used, bevacizumab is cost-efficient in a comparison with aflibercept, which in turn is more cost-efficient than ranibizumab. 154 – 156 
+ Currently, the three widely used intravitreal anti-VEGF agents, ranibizumab, bevacizumab, and aflibercept, have proven to be highly effective treatments that can effectively prevent legal blindness in patients with wet AMD. 157 – 159 However, there is a compelling need for a long-lasting therapy solution for patients with AMD because of the cost of the drugs, patient access and adherence to treatment, and the increasing burden of frequent office visits to receive injections, especially as the population ages. Considerable research efforts continue toward developing extended-release therapeutics and intraocular drug-delivery devices. 131 , 160 – 165 
+ Table 4 summarizes the important results of some of the studies done on anti-VEGF for neovascular AMD. 
+ Table 4. 
+ Summary of the important results of some of the studies done on anti-VEGF for neovascular AMD 
+ 
+ 
+ Study 
+ Drug 
+ Conclusions 
+ 
+ 
+ 
+ MARINA 130 
+ 
+ Ranibizumab 
+ • Intravitreal administration of ranibizumab for 2 years prevented vision loss and improved mean VA, with low rates of serious adverse events, in patients with minimally classic or occult (with no classic lesions) CNV secondary to AMD • Most important predictors of VA outcomes were (in decreasing order of importance) baseline VA score, CNV lesion size, and age 
+ 
+ 
+ ANCHOR 129 
+ 
+ Ranibizumab 
+ • In this 2-year study, ranibizumab provided greater clinical benefit than verteporfin PDT in patients with AMD with new-onset, predominantly classic CNV • Rates of serious adverse events were low 
+ 
+ 
+ HORIZON 192 
+ 
+ Ranibizumab 
+ • Multiple ranibizumab injections were well tolerated for ≥4 years. With less frequent follow-up leading to less treatment, there was an incremental decline in the VA gains achieved with monthly treatment 
+ 
+ 
+ CATT 132 
+ 
+ Ranibizumab, bevacizumab 
+ • Ranibizumab and bevacizumab had similar effects on VA over a 2-year period • Treatment as needed resulted in less gain in VA • There were no differences in-between drugs in rates of death or arteriothrombotic events 
+ 
+ 
+ VIEW I/VIEW II 140 
+ 
+ Aflibercept, ranibizumab 
+ • Visual improvement achieved at week 52 was largely maintained through week 96 with both aflibercept and ranibizumab injections • The original 2q8 aflibercept group achieved efficacy results that were similar to ranibizumab, with an average of 5.3 fewer injections over the 96-week period • Intravitreal aflibercept had generally favorable safety through week 96 
+ 
+ 
+ SEVEN-UP 193 
+ 
+ Ranibizumab 
+ • Approximately 7 years after ranibizumab therapy in the ANCHOR or MARINA trials, one-third of patients demonstrated good visual outcomes, whereas another one-third had poor outcomes • Compared with baseline, almost half of eyes were stable, whereas one-third declined by ≥15 letters. Even at this late stage in the therapeutic course, exudative AMD patients remain at risk for substantial visual decline 
+ 
+ 
+ 
+ Open in a new tab 
+ Abbreviations: VEGF, vascular endothelial growth factor; AMD, age-related macular degeneration; VA, visual acuity; CNV, choroidal neovascularization; PDT, photodynamic therapy. An adjuvant treatment used in combination with VEGF inhibition is transpupillary thermotherapy (TTT). TTT delivers a waveform near the infrared spectrum through the pupil to the target tissue. At low doses (136 mW/mm), the surrounding neurosensory retina is not damaged. In a trial using sham procedure as a control, 100 patients with wet AMD were randomized to receive low-dose TTT or sham TTT every 3 months for 2 years. Patients in the TTT group required fewer treatments with ranibizumab compared to those in the sham group (mean 8.0 vs 6.3 over 2 years, respectively). There were no differences in the corrected VA or the lesion area between the two groups. 166 
+ PDT in combination with anti-VEGF and steroid administration is currently reserved as a second-line therapy for patients not responding to monotherapy with an anti-VEGF agent. Combined therapy using ranibizumab and verteporfin PDT was more effective than PDT alone, 167 and the combination of PDT with bevacizumab has also been effective in many cases. 168 , 169 Reports on whether intravitreal administration of triamcinolone in combination with PDT provides added benefits are conflicting. 170 , 171 
+ Pegpleranib ( E10030 , Fovista; Ophthotech, New York, NY, USA) is a new drug, which is an inhibitor of platelet-derived growth factor (anti-PDGF) aptamer that binds to PDGF. Pegpleranib promotes decrease in the pericyte density in the neovascular membrane, making it more receptive to anti-VEGF agents, and therefore, it is administered intravitreally in combination with anti-VEGF. Pegpleranib has shown promising early results in Phase I and Phase II trials. 172 , 173 The pegpleranib Phase III program consists of three clinical trials to evaluate the safety and efficacy of pegpleranib in combination with multiple anti-VEGF agents (ranibizumab, bevacizumab, and aflibercept) for the treatment of wet AMD. However, the two Phase III studies comparing pegpleranib and ranibizumab combination treatment over standard-of-care ranibizumab monotherapy were terminated. The outcomes of these studies did not meet the primary end point, which was an additional letter gain in best-corrected VA, to indicate superiority of combination therapy with pegpleranib and ranibizumab over ranibizumab monotherapy. 174 Although it has been announced that patient recruitment in a Phase III trial of pegpleranib in combination with aflibercept or bevacizumab for the treatment of wet AMD has been completed, data have not yet been provided. 
+ Other treatment modalities under investigation include the role of adjunctive treatments alongside anti-VEGF by stereotactic radiotherapy (ie, use of a low-voltage external beam) to reduce the frequency of intravitreal injections needed while maintaining VA. 175 , 176 Ranjbar et al 177 demonstrated that the mean number of intravitreal injections was reduced by almost 50% during the 12 months after stereotactic radiotherapy compared to the number required the year before and that VA increased by one line (logMAR). Other promising therapeutic approaches are modulators of angiogenesis. 178 Home-monitoring devices for the early detection of disease progression and development of CNV may increase the likelihood of an earlier initiation of treatment, which may further improve clinical outcomes. 179 Findings from a previous study have indicated that early detection of AMD can be achieved with devices that measure defective dark adaptation. 180 
+ Two main surgical procedures have been attempted for AMD with limited success, namely, submacular surgery and macular translocation surgery. Submacular surgery involves removal of abnormal subretinal neovascularization and any large submacular hemorrhages, if present. Clinical trials were unsatisfactory, showing a lack of benefit to the patients and high rates of complications. 181 – 183 However, there may be a role for submacular surgery in treating AMD, but only for patients with extensive peripapillary membranes. 184 Macular translocation surgery is experimental and involves relocating the macula to a less affected area of the retina in patients with subfoveal CNV. 185 , 186 The advent of effective pharmacological therapy has limited the use of this surgical modality to either patients with large submacular hemorrhages or patients unresponsive to anti-VEGF treatment. 187 The surgical risks are serious, including retinal detachment, proliferative vitreoretinopathy, and diplopia. 183 Conclusion 
+ Available evidence indicates that risk profiling of AMD is largely based on advanced age of the patient, lifestyle decisions (smoking and diet), family history of AMD, and signs of soft drusen and pigmentary abnormalities. The identification of major susceptibility genes over the last decade has opened new insights toward understanding the role of complement-mediated inflammation and oxidative stress in disease pathogenesis and, consequently, identified underlying mechanistic pathways for the development of novel therapeutic approaches. Treatment of atrophic AMD is largely close observation coupled with nutritional supplements, such as zinc and antioxidants. However, treatment of wet AMD is based on targeting choroidal neovascular membranes. Advances in anti-VEGF agents have transformed the approach in treating patients with wet AMD. These advances have resulted in more favorable outcomes for a previously blinding disease. Substantial research efforts continue in the identification and evaluation of new therapeutic modalities for both forms of this disease. Footnotes 
+ 
+ Disclosure 
+ The authors report no conflicts of interest in this work. 
+ References 
+ 
+ 
+ 1. Smith W, Assink J, Klein R, et al. Risk factors for age-related macular degeneration: pooled findings from three continents. Ophthalmology. 2001;108(4):697–704. doi: 10.1016/s0161-6420(00)00580-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Chou R, Dana T, Bougatsos C, Grusing S, Blazina I. Screening for impaired visual acuity in older adults: updated evidence report and systematic review for the US Preventive Services Task Force. JAMA. 2016;315(9):915–933. doi: 10.1001/jama.2016.0783. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Hajar S, Al Hazmi A, Wasli M, Mousa A, Rabiu M. Prevalence and causes of blindness and diabetic retinopathy in Southern Saudi Arabia. Saudi Med J. 2015;36(4):449–455. doi: 10.15537/smj.2015.4.10371. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Ferris FL, Davis MD, Clemons TE, et al. Age-Related Eye Disease Study (AREDS) Research Group A simplified severity scale for age-related macular degeneration: AREDS Report No. 18. Arch Ophthalmol. 2005;123(11):1570–1574. doi: 10.1001/archopht.123.11.1570. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Kijlstra A, Berendschot TT. Age-related macular degeneration: a complementopathy? Ophthalmic Res. 2015;54(2):64–73. doi: 10.1159/000432401. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Okubo A, Rosa RH, Jr, Bunce CV, et al. The relationships of age changes in retinal pigment epithelium and Bruch’s membrane. Invest Ophthalmol Vis Sci. 1999;40(2):443–449. [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Green WR, McDonnell PJ, Yeo JH. Pathologic features of senile macular degeneration. Ophthalmology. 1985;92(5):615–627. [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Biesemeier A, Taubitz T, Julien S, Yoeruek E, Schraermeyer U. Choriocapillaris breakdown precedes retinal degeneration in age-related macular degeneration. Neurobiol Aging. 2014;35(11):2562–2573. doi: 10.1016/j.neurobiolaging.2014.05.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Haddad S, Chen CA, Santangelo SL, Seddon JM. The genetics of age-related macular degeneration: a review of progress to date. Surv Ophthalmol. 2006;51(4):316–363. doi: 10.1016/j.survophthal.2006.05.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Johnson LV, Leitner WP, Staples MK, Anderson DH. Complement activation and inflammatory processes in Drusen formation and age related macular degeneration. Exp Eye Res. 2001;73(6):887–896. doi: 10.1006/exer.2001.1094. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Gold B, Merriam JE, Zernant J, et al. Variation in factor B (BF) and complement component 2 (C2) genes is associated with age-related macular degeneration. Nat Genet. 2006;38(4):458–462. doi: 10.1038/ng1750. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Edwards AO, Ritter R, 3rd, Abel KJ, Manning A, Panhuysen C, Farrer LA. Complement factor H polymorphism and age-related macular degeneration. Science. 2005;308(5720):421–424. doi: 10.1126/science.1110189. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Jakobsdottir J, Conley YP, Weeks DE, Mah TS, Ferrell RE, Gorin MB. Susceptibility genes for age-related maculopathy on chromosome 10q26. Am J Hum Genet. 2005;77(3):389–407. doi: 10.1086/444437. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Hageman GS, Anderson DH, Johnson LV, et al. A common haplotype in the complement regulatory gene factor H (HF1/CFH) predisposes individuals to age-related macular degeneration. Proc Natl Acad Sci U S A. 2005;102(20):7227–7232. doi: 10.1073/pnas.0501536102. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Esparza-Gordillo J, Soria JM, Buil A, et al. Genetic and environmental factors influencing the human factor H plasma levels. Immunogenetics. 2004;56(2):77–82. doi: 10.1007/s00251-004-0660-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Sepp T, Khan JC, Thurlby DA, et al. Complement factor H variant Y402H is a major risk determinant for geographic atrophy and choroidal neovascularization in smokers and nonsmokers. Invest Ophthalmol Vis Sci. 2006;47(2):536–540. doi: 10.1167/iovs.05-1143. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Johnson PT, Betts KE, Radeke MJ, Hageman GS, Anderson DH, Johnson LV. Individuals homozygous for the age-related macular degeneration risk-conferring variant of complement factor H have elevated levels of CRP in the choroid. Proc Natl Acad Sci U S A. 2006;103(46):17456–17461. doi: 10.1073/pnas.0606234103. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Bressler NM, Silva JC, Bressler SB, Fine SL, Green WR. Clinicopathologic correlation of drusen and retinal pigment epithelial abnormalities in age-related macular degeneration. Retina. 1994;14(2):130–142. [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Yang Z, Stratton C, Francis PJ, et al. Toll-like receptor 3 and geographic atrophy in age-related macular degeneration. N Engl J Med. 2008;359(14):1456–1463. doi: 10.1056/NEJMoa0802437. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Shaw PX, Stiles T, Douglas C, et al. Oxidative stress, innate immunity, and age-related macular degeneration. AIMS Mol Sci. 2016;3(2):196–221. doi: 10.3934/molsci.2016.2.196. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Ambati J, Ambati BK, Yoo SH, Ianchulev S, Adamis AP. Age-related macular degeneration: etiology, pathogenesis, and therapeutic strategies. Surv Ophthalmol. 2003;48(3):257–293. doi: 10.1016/s0039-6257(03)00030-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Tarallo V, Hirano Y, Gelfand BD, et al. DICER1 loss and Alu RNA induce age-related macular degeneration via the NLRP3 inflammasome and MyD88. Cell. 2012;149(4):847–859. doi: 10.1016/j.cell.2012.03.036. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Kaneko H, Dridi S, Tarallo V, et al. DICER1 deficit induces Alu RNA toxicity in age-related macular degeneration. Nature. 2011;471(7338):325–330. doi: 10.1038/nature09830. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Nordgaard CL, Karunadharma PP, Feng X, Olsen TW, Ferrington DA. Mitochondrial proteomics of the retinal pigment epithelium at progressive stages of age-related macular degeneration. Invest Ophthalmol Vis Sci. 2008;49(7):2848–2855. doi: 10.1167/iovs.07-1352. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Chakravarthy U, Wong TY, Fletcher A, et al. Clinical risk factors for age-related macular degeneration: a systematic review and meta-analysis. BMC Ophthalmol. 2010;10:31. doi: 10.1186/1471-2415-10-31. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Klein R, Klein BE, Linton KL. Prevalence of age-related maculopathy. The Beaver Dam Eye Study. Ophthalmology. 1992;99(6):933–943. doi: 10.1016/s0161-6420(92)31871-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Leibowitz HM, Krueger DE, Maunder LR, et al. The Framingham Eye Study monograph: an ophthalmological and epidemiological study of cataract, glaucoma, diabetic retinopathy, macular degeneration, and visual acuity in a general population of 2631 adults, 1973–1975. Surv Ophthalmol. 1980;24(suppl):335–610. [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Maller J, George S, Purcell S, et al. Common variation in three genes, including a noncoding variant in CFH, strongly influences risk of age-related macular degeneration. Nat Genet. 2006;38(9):1055–1059. doi: 10.1038/ng1873. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Fritsche LG, Igl W, Bailey JN, et al. A large genome-wide association study of age-related macular degeneration highlights contributions of rare and common variants. Nat Genet. 2016;48(2):134–143. doi: 10.1038/ng.3448. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Klein ML, Schultz DW, Edwards A, et al. Age-related macular degeneration. Clinical features in a large family and linkage to chromosome 1q. Arch Ophthalmol. 1998;116(8):1082–1088. doi: 10.1001/archopht.116.8.1082. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Majewski J, Schultz DW, Weleber RG, et al. Age-related macular degeneration – a genome scan in extended families. Am J Hum Genet. 2003;73(3):540–550. doi: 10.1086/377701. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Hughes AE, Orr N, Esfandiary H, Diaz-Torres M, Goodship T, Chakravarthy U. A common CFH haplotype, with deletion of CFHR1 and CFHR3, is associated with lower risk of age-related macular degeneration. Nat Genet. 2006;38(10):1173–1177. doi: 10.1038/ng1890. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Cipriani V, Leung HT, Plagnol V, et al. Genome-wide association study of age-related macular degeneration identifies associated variants in the TNXB-FKBPL-NOTCH4 region of chromosome 6p21.3. Hum Mol Genet. 2012;21(18):4138–4150. doi: 10.1093/hmg/dds225. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Neale BM, Fagerness J, Reynolds R, et al. Genome-wide association study of advanced age-related macular degeneration identifies a role of the hepatic lipase gene (LIPC) Proc Natl Acad Sci U S A. 2010;107(16):7395–7400. doi: 10.1073/pnas.0912019107. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Weber BH, Vogt G, Pruett RC, Stohr H, Felbor U. Mutations in the tissue inhibitor of metalloproteinases-3 (TIMP3) in patients with Sorsby’s fundus dystrophy. Nat Genet. 1994;8(4):352–356. doi: 10.1038/ng1294-352. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Smailhodzic D, Muether PS, Chen J, et al. Cumulative effect of risk alleles in CFH, ARMS2, and VEGFA on the response to ranibizumab treatment in age-related macular degeneration. Ophthalmology. 2012;119(11):2304–2311. doi: 10.1016/j.ophtha.2012.05.040. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Medina FM, Alves Lopes da Motta A, Takahashi WY, et al. Pharmacogenetic effect of complement factor H gene polymorphism in response to the initial intravitreal injection of bevacizumab for wet age-related macular degeneration. Ophthalmic Res. 2015;54(4):169–174. doi: 10.1159/000439172. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. McCarty CA, Mukesh BN, Fu CL, Mitchell P, Wang JJ, Taylor HR. Risk factors for age-related maculopathy: the Visual Impairment Project. Arch Ophthalmol. 2001;119(10):1455–1462. doi: 10.1001/archopht.119.10.1455. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Cougnard-Gregoire A, Delyfer MN, Korobelnik JF, et al. Long-term blood pressure and age-related macular degeneration: the ALIENOR study. Invest Ophthalmol Vis Sci. 2013;54(3):1905–1912. doi: 10.1167/iovs.12-10192. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Parekh N, Voland RP, Moeller SM, et al. CAREDS Research Study Group Association between dietary fat intake and age-related macular degeneration in the Carotenoids in Age-Related Eye Disease Study (CAREDS): an ancillary study of the women’s health initiative. Arch Ophthalmol. 2009;127(11):1483–1493. doi: 10.1001/archophthalmol.2009.130. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Khan JC, Shahid H, Thurlby DA, et al. Genetic Factors in AMD Study Age related macular degeneration and sun exposure, iris colour, and skin sensitivity to sunlight. Br J Ophthalmol. 2006;90(1):29–32. doi: 10.1136/bjo.2005.073825. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Glazer-Hockstein C, Dunaief JL. Could blue light-blocking lenses decrease the risk of age-related macular degeneration? Retina. 2006;26(1):1–4. doi: 10.1097/00006982-200601000-00001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Margrain TH, Boulton M, Marshall J, Sliney DH. Do blue light filters confer protection against age-related macular degeneration? Prog Retinal Eye Res. 2004;23(5):523–531. doi: 10.1016/j.preteyeres.2004.05.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Klein R, Rowland ML, Harris MI. Racial/ethnic differences in age-related maculopathy. Third National Health and Nutrition Examination Survey. Ophthalmology. 1995;102(3):371–381. doi: 10.1016/s0161-6420(95)31012-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Chong EW, Wong TY, Kreis AJ, Simpson JA, Guymer RH. Dietary antioxidants and primary prevention of age related macular degeneration: systematic review and meta-analysis. BMJ. 2007;335(7623):755. doi: 10.1136/bmj.39350.500428.47. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Moriarty-Craige SE, Adkison J, Lynn M, et al. Antioxidant supplements prevent oxidation of cysteine/cystine redox in patients with age-related macular degeneration. Am J Ophthalmol. 2005;140(6):1020–1026. doi: 10.1016/j.ajo.2005.06.043. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Klein BE, Howard KP, Gangnon RE, Dreyer JO, Lee KE, Klein R. Long-term use of aspirin and age-related macular degeneration. JAMA. 2012;308(23):2469–2478. doi: 10.1001/jama.2012.65406. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Christen WG, Glynn RJ, Ajani UA, et al. Age-related maculopathy in a randomized trial of low-dose aspirin among US physicians. Arch Ophthalmol. 2001;119(8):1143–1149. doi: 10.1001/archopht.119.8.1143. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Zhu W, Wu Y, Xu D, et al. Aspirin use and risk of age-related macular degeneration: a meta-analysis. PLoS One. 2013;8(3):e58821. doi: 10.1371/journal.pone.0058821. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Wang JJ, Klein R, Smith W, Klein BE, Tomany S, Mitchell P. Cataract surgery and the 5-year incidence of late-stage age-related maculopathy: pooled findings from the Beaver Dam and Blue Mountains eye studies. Ophthalmology. 2003;110(10):1960–1967. doi: 10.1016/s0161-6420(03)00816-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Adams MK, Simpson JA, Aung KZ, et al. Abdominal obesity and age-related macular degeneration. Am J Epidemiol. 2011;173(11):1246–1255. doi: 10.1093/aje/kwr005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Dasari B, Prasanthi JR, Marwarha G, Singh BB, Ghribi O. Cholesterol-enriched diet causes age-related macular degeneration-like pathology in rabbit retina. BMC Ophthalmol. 2011;11:22. doi: 10.1186/1471-2415-11-22. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Sandberg MA, Tolentino MJ, Miller S, Berson EL, Gaudio AR. Hyperopia and neovascularization in age-related macular degeneration. Ophthalmology. 1993;100(7):1009–1013. doi: 10.1016/s0161-6420(93)31546-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Feskanich D, Cho E, Schaumberg DA, Colditz GA, Hankinson SE. Menopausal and reproductive factors and risk of age-related macular degeneration. Arch Ophthalmol. 2008;126(4):519–524. doi: 10.1001/archopht.126.4.519. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Chong EW, Kreis AJ, Wong TY, Simpson JA, Guymer RH. Alcohol consumption and the risk of age-related macular degeneration: a systematic review and meta-analysis. Am J Ophthalmol. 2008;145(4):707–715. doi: 10.1016/j.ajo.2007.12.005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Gopinath B, Flood VM, Rochtchina E, Wang JJ, Mitchell P. Homocysteine, folate, vitamin B-12, and 10-y incidence of age-related macular degeneration. Am J Clin Nutr. 2013;98(1):129–135. doi: 10.3945/ajcn.112.057091. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Millen AE, Voland R, Sondel SA, et al. CAREDS Study Group Vitamin D status and early age-related macular degeneration in postmenopausal women. Arch Ophthalmol. 2011;129(4):481–489. doi: 10.1001/archophthalmol.2011.48. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Schaumberg DA, Christen WG, Buring JE, Glynn RJ, Rifai N, Ridker PM. High-sensitivity C-reactive protein, other markers of inflammation, and the incidence of macular degeneration in women. Arch Ophthalmol. 2007;125(3):300–305. doi: 10.1001/archopht.125.3.300. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Tielsch JM, Javitt JC, Coleman A, Katz J, Sommer A. The prevalence of blindness and visual impairment among nursing home residents in Baltimore. N Engl J Med. 1995;332(18):1205–1209. doi: 10.1056/NEJM199505043321806. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Klein R, Davis MD, Magli YL, Segal P, Klein BE, Hubbard L. The Wisconsin age-related maculopathy grading system. Ophthalmology. 1991;98(7):1128–1134. doi: 10.1016/s0161-6420(91)32186-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Bird AC, Bressler NM, Bressler SB, et al. An international classification and grading system for age-related maculopathy and age-related macular degeneration. The International ARM Epidemiological Study Group. Surv Ophthalmol. 1995;39(5):367–374. doi: 10.1016/s0039-6257(05)80092-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. AREDS-Study-Group A randomized, placebo-controlled, clinical trial of high-dose supplementation with vitamins C and E, beta carotene, and zinc for age-related macular degeneration and vision loss: AREDS report no. 8. Arch Ophthalmol. 2001;119(10):1417–1436. doi: 10.1001/archopht.119.10.1417. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Klein ML, Francis PJ, Ferris FL, 3rd, Hamon SC, Clemons TE. Risk assessment model for development of advanced age-related macular degeneration. Arch Ophthalmol. 2011;129(12):1543–1550. doi: 10.1001/archophthalmol.2011.216. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Barondes M, Pauleikhoff D, Chisholm IC, Minassian D, Bird AC. Bilaterality of drusen. Br J Ophthalmol. 1990;74(3):180–182. doi: 10.1136/bjo.74.3.180. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Zweifel SA, Imamura Y, Spaide TC, Fujiwara T, Spaide RF. Prevalence and significance of subretinal drusenoid deposits (reticular pseudodrusen) in age-related macular degeneration. Ophthalmology. 2010;117(9):1775–1781. doi: 10.1016/j.ophtha.2010.01.027. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Klein R, Meuer SM, Knudtson MD, Iyengar SK, Klein BE. The epidemiology of retinal reticular drusen. Am J Ophthalmol. 2008;145(2):317–326. doi: 10.1016/j.ajo.2007.09.008. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Zhou Q, Daniel E, Maguire MG, et al. Comparison of Age-Related Macular Degeneration Treatments Trials Research Group Pseudodrusen and incidence of late age-related macular degeneration in fellow eyes in the comparison of age-related macular degeneration treatments trials. Ophthalmology. 2016;123(7):1530–1540. doi: 10.1016/j.ophtha.2016.02.043. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Shijo T, Sakurada Y, Yoneyama S, et al. Prevalence and characteristics of pseudodrusen subtypes in advanced age-related macular degeneration. Graefes Arch Clin Exp Ophthalmol. 2017;255(6):1125–1131. doi: 10.1007/s00417-017-3622-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. von Ruckmann A, Fitzke FW, Bird AC. Fundus autofluorescence in age-related macular disease imaged with a laser scanning ophthalmoscope. Invest Ophthalmol Vis Sci. 1997;38(2):478–486. [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Bindewald A, Schmitz-Valckenberg S, Jorzik JJ, et al. Classification of abnormal fundus autofluorescence patterns in the junctional zone of geographic atrophy in patients with age related macular degeneration. Br J Ophthalmol. 2005;89(7):874–878. doi: 10.1136/bjo.2004.057794. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Schmitz-Valckenberg S, Bindewald-Wittich A, Dolar-Szczasny J, et al. Fundus Autofluorescence in Age-Related Macular Degeneration Study Group Correlation between the area of increased autofluorescence surrounding geographic atrophy and disease progression in patients with AMD. Invest Ophthalmol Vis Sci. 2006;47(6):2648–2654. doi: 10.1167/iovs.05-0892. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. von Ruckmann A, Fitzke FW, Bird AC. Distribution of fundus autofluorescence with a scanning laser ophthalmoscope. Br J Ophthalmol. 1995;79(5):407–412. doi: 10.1136/bjo.79.5.407. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Bearelly S, Khanifar AA, Lederer DE, et al. Use of fundus autofluorescence images to predict geographic atrophy progression. Retina. 2011;31(1):81–86. doi: 10.1097/IAE.0b013e3181e0958b. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Batioglu F, Gedik Oguz Y, Demirel S, Ozmert E. Geographic atrophy progression in eyes with age-related macular degeneration: role of fundus autofluorescence patterns, fellow eye and baseline atrophy area. Ophthalmic Res. 2014;52(2):53–59. doi: 10.1159/000361077. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Sawa M, Ober MD, Spaide RF. Autofluorescence and retinal pigment epithelial atrophy after subretinal hemorrhage. Retina. 2006;26(1):119–120. doi: 10.1097/00006982-200601000-00025. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Wu Z, Luu CD, Ayton LN, et al. Optical coherence tomography-defined changes preceding the development of drusen-associated atrophy in age-related macular degeneration. Ophthalmology. 2014;121(12):2415–2422. doi: 10.1016/j.ophtha.2014.06.034. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Jia Y, Bailey ST, Wilson DJ, et al. Quantitative optical coherence tomography angiography of choroidal neovascularization in age-related macular degeneration. Ophthalmology. 2014;121(7):1435–1444. doi: 10.1016/j.ophtha.2014.01.034. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Kaiser PK. The Massachusetts Eye and Ear Infirmary Illustrated Manual of Ophthalmology. London: Elsevier Health Sciences; 2014. [ Google Scholar ] 
+ 
+ 79. Puliafito CA, Hee MR, Lin CP, et al. Imaging of macular diseases with optical coherence tomography. Ophthalmology. 1995;102(2):217–229. doi: 10.1016/s0161-6420(95)31032-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Gabriele ML, Wollstein G, Ishikawa H, et al. Optical coherence tomography: history, current status, and laboratory work. Invest Ophthalmol Vis Sci. 2011;52(5):2425–2436. doi: 10.1167/iovs.10-6312. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Nunes RP, Gregori G, Yehoshua Z, et al. Predicting the progression of geographic atrophy in age-related macular degeneration with SD-OCT en face imaging of the outer retina. Ophthalmic Surg Lasers Imaging Retina. 2013;44(4):344–359. doi: 10.3928/23258160-20130715-06. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Coscas G, Lupidi M, Coscas F, Francais C, Cagini C, Souied EH. Optical coherence tomography angiography during follow-up: qualitative and quantitative analysis of mixed type I and II choroidal neovascularization after vascular endothelial growth factor trap therapy. Ophthalmic Res. 2015;54(2):57–63. doi: 10.1159/000433547. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Friedman D, Parker JS, Kimble JA, Delori FC, McGwin G, Jr, Curcio CA. Quantification of fluorescein-stained drusen associated with age-related macular degeneration. Retina. 2012;32(1):19–24. doi: 10.1097/IAE.0b013e318219e5e9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Bressler BA. Ryan’s Retinal Imaging and Diagnostics. 5th ed. Elsevier Health Sciences; 2013. Neovascular (exudative or “wet”) age-related macular degeneration; pp. 1183–1212. [ Google Scholar ] 
+ 
+ 85. Lim LS, Mitchell P, Seddon JM, Holz FG, Wong TY. Age-related macular degeneration. Lancet. 2012;379(9827):1728–1738. doi: 10.1016/S0140-6736(12)60282-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Spaide RF, Yannuzzi LA, Slakter JS, Sorenson J, Orlach DA. Indocyanine green videoangiography of idiopathic polypoidal choroidal vasculopathy. Retina. 1995;15(2):100–110. doi: 10.1097/00006982-199515020-00003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Midena E, Vujosevic S, Convento E, Manfre A, Cavarzeran F, Pilotto E. Microperimetry and fundus autofluorescence in patients with early age-related macular degeneration. Br J Ophthalmol. 2007;91(11):1499–1503. doi: 10.1136/bjo.2007.119685. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Sunness JS, Margalit E, Srikumaran D, et al. The long-term natural history of geographic atrophy from age-related macular degeneration: enlargement of atrophy and implications for interventional clinical trials. Ophthalmology. 2007;114(2):271–277. doi: 10.1016/j.ophtha.2006.09.016. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Jager RD, Mieler WF, Miller JW. Age-related macular degeneration. N Engl J Med. 2008;358(24):2606–2617. doi: 10.1056/NEJMra0801537. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Crossland M, Rubin G. The Amsler chart: absence of evidence is not evidence of absence. Br J Ophthalmol. 2007;91(3):391–393. doi: 10.1136/bjo.2006.095315. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. Krishnadev N, Meleth AD, Chew EY. Nutritional supplements for age-related macular degeneration. Curr Opin Ophthalmol. 2010;21(3):184–189. doi: 10.1097/ICU.0b013e32833866ee. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. AREDS-Study-Group Risk factors associated with age-related macular degeneration. A case-control study in the age-related eye disease study: age-related eye disease study report number 3. Ophthalmology. 2000;107(12):2224–2232. doi: 10.1016/s0161-6420(00)00409-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 93. Chew EY, Clemons TE, Agron E, et al. Age-Related Eye Disease Study Ten-year follow-up of age-related macular degeneration in the age-related eye disease study: AREDS report no. 36. JAMA Ophthalmol. 2014;132(3):272–277. doi: 10.1001/jamaophthalmol.2013.6636. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 94. Taylor HR, Tikellis G, Robman LD, McCarty CA, McNeil JJ. Vitamin E supplementation and macular degeneration: randomised controlled trial. BMJ. 2002;325(7354):11. doi: 10.1136/bmj.325.7354.11. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 95. Parisi V, Tedeschi M, Gallinaro G, et al. CARMIS Study Group Carotenoids and antioxidants in age-related maculopathy Italian study: multifocal electroretinogram modifications after 1 year. Ophthalmology. 2008;115(2):324–333.e2. doi: 10.1016/j.ophtha.2007.05.029. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 96. Christen WG, Gaziano JM, Hennekens CH. Design of Physicians’ Health Study II – a randomized trial of beta-carotene, vitamins E and C, and multivitamins, in prevention of cancer, cardiovascular disease, and eye disease, and review of results of completed trials. Ann Epidemiol. 2000;10(2):125–134. doi: 10.1016/s1047-2797(99)00042-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 97. Newsome DA, Swartz M, Leone NC, Elston RC, Miller E. Oral zinc in macular degeneration. Arch Ophthalmol. 1988;106(2):192–198. doi: 10.1001/archopht.1988.01060130202026. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 98. AREDS2-Study-Group Lutein + zeaxanthin and omega-3 fatty acids for age-related macular degeneration: the Age-Related Eye Disease Study 2 (AREDS2) randomized clinical trial. JAMA. 2013;309(19):2005–2015. doi: 10.1001/jama.2013.4997. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 99. Geerlings MJ, de Jong EK, den Hollander AI. The complement system in age-related macular degeneration: a review of rare genetic variants and implications for personalized treatment. Mol Immunol. 2017;84:65–76. doi: 10.1016/j.molimm.2016.11.016. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 100. Rhoades W, Dickson D, Do DV. Potential role of lampalizumab for treatment of geographic atrophy. Clin Ophthalmol. 2015;9:1049–1056. doi: 10.2147/OPTH.S59725. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] [ Retracted ] 
+ 
+ 101. ClinicalTrials.gov A study investigating the efficacy and safety of lampalizumab intravitreal injections in participants with geographic atrophy secondary to age-related macular degeneration (CHROMA) [Accessed November 17, 2016]. Available from: https://clinicaltrials.gov/ct2/show/NCT02247479 . NLM identifier: NCT02247479 . 
+ 
+ 
+ 102. ClinicalTrials.gov A study investigating the efficacy and safety of lampalizumab intravitreal injections in participants with geographic atrophy secondary to age-related macular degeneration (SPECTRI) [Accessed July 28, 2017]. Available from: https://clinicaltrials.gov/ct2/show/NCT02247531 . NLM identifier: NCT02247531 . 
+ 
+ 
+ 103. Di Caprio R, Lembo S, Di Costanzo L, Balato A, Monfrecola G. Anti-inflammatory properties of low and high doxycycline doses: an in vitro study. Mediators Inflamm. 2015;2015:329418. doi: 10.1155/2015/329418. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 104. ClinicalTrials.gov Clinical study to evaluate treatment with Oracea® for geographic atrophy (TOGA) (TOGA) [Accessed July 28, 2017]. Available from: https://clinicaltrials.gov/ct2/show/NCT01782989 . NLM identifier: NCT01782989 . 
+ 
+ 
+ 105. Barbosa DT, Mendes TS, Cintron-Colon HR, et al. Age-related macular degeneration and protective effect of HMG Co-A reductase inhibitors (statins): results from the National Health and Nutrition Examination Survey 2005–2008. Eye (Lond) 2014;28(4):472–480. doi: 10.1038/eye.2014.8. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 106. Szeto HH, Birk AV. Serendipity and the discovery of novel compounds that restore mitochondrial plasticity. Clin Pharmacol Ther. 2014;96(6):672–683. doi: 10.1038/clpt.2014.174. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 107. ClinicalTrials.gov A study of MTP-131 topical ophthalmic solution in subjects with diabetic macular edema and non-exudative intermediate age-related macular degeneration (SPIOC-101) [Accessed April 17, 2015]. Available from: https://clinicaltrials.gov/ct2/show/NCT02314299?term=MTP-131&rank=4 . NLM identifier: NCT02314299 . 
+ 
+ 
+ 108. Wong WT, Dresner S, Forooghian F, et al. Treatment of geographic atrophy with subconjunctival sirolimus: results of a phase I/II clinical trial. Invest Ophthalmol Vis Sci. 2013;54(4):2941–2950. doi: 10.1167/iovs.13-11650. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 109. Petrou PA, Cunningham D, Shimel K, et al. Intravitreal sirolimus for the treatment of geographic atrophy: results of a phase I/II clinical trial. Invest Ophthalmol Vis Sci. 2014;56(1):330–338. doi: 10.1167/iovs.14-15877. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 110. Schwartz SD, Regillo CD, Lam BL, et al. Human embryonic stem cell-derived retinal pigment epithelium in patients with age-related macular degeneration and Stargardt’s macular dystrophy: follow-up of two open-label phase 1/2 studies. Lancet. 2015;385(9967):509–516. doi: 10.1016/S0140-6736(14)61376-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 111. Gao J, Liu RT, Cao S, et al. NLRP3 inflammasome: activation and regulation in age-related macular degeneration. Mediators Inflamm. 2015;2015:690243. doi: 10.1155/2015/690243. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 112. Kubota R, Boman NL, David R, Mallikaarjun S, Patil S, Birch D. Safety and effect on rod function of ACU-4429, a novel small-molecule visual cycle modulator. Retina. 2012;32(1):183–188. doi: 10.1097/IAE.0b013e318217369e. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 113. Tsai JC. Canadian Journal of Ophthalmology Lecture: translational research advances in glaucoma neuroprotection. Can J Ophthalmol. 2013;48(3):141–145. doi: 10.1016/j.jcjo.2013.02.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 114. Landa G, Butovsky O, Shoshani J, Schwartz M, Pollack A. Weekly vaccination with Copaxone (glatiramer acetate) as a potential therapy for dry age-related macular degeneration. Curr Eye Res. 2008;33(11):1011–1013. doi: 10.1080/02713680802484637. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 115. Wong WT, Kam W, Cunningham D, et al. Treatment of geographic atrophy by the topical administration of OT-551: results of a phase II clinical trial. Invest Ophthalmol Vis Sci. 2010;51(12):6131–6139. doi: 10.1167/iovs.10-5637. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 116. Argon laser photocoagulation for senile macular degeneration. Results of a randomized clinical trial. Arch Ophthalmol. 1982;100(6):912–918. doi: 10.1001/archopht.1982.01030030920003. No authors listed. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 117. Macular Photocoagulation Study Group Argon laser photocoagulation for neovascular maculopathy. Three-year results from randomized clinical trials. Arch Ophthalmol. 1986;104(5):694–701. [ PubMed ] [ Google Scholar ] 
+ 
+ 118. Macular Photocoagulation Study Group Laser photocoagulation for juxtafoveal choroidal neovascularization. Five-year results from randomized clinical trials. Arch Ophthalmol. 1994;112(4):500–509. [ PubMed ] [ Google Scholar ] 
+ 
+ 119. Macular Photocoagulation Study Group The influence of treatment extent on the visual acuity of eyes treated with Krypton laser for juxtafoveal choroidal neovascularization. Arch Ophthalmol. 1995;113(2):190–194. doi: 10.1001/archopht.1995.01100020074032. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 120. Group MPS. Persistent and recurrent neovascularization after laser photocoagulation for subfoveal choroidal neovascularization of age-related macular degeneration. Arch Ophthalmol. 1994;112(4):489–499. doi: 10.1001/archopht.1994.01090160065024. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 121. Group MPS. Laser photocoagulation of subfoveal neovascular lesions of age-related macular degeneration. Updated findings from two clinical trials. Arch Ophthalmol. 1993;111(9):1200–1209. doi: 10.1001/archopht.1993.01090090052019. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 122. Group TS. Photodynamic therapy of subfoveal choroidal neovascularization in age-related macular degeneration with verteporfin: one-year results of 2 randomized clinical trials – TAP report. Treatment of age-related macular degeneration with photodynamic therapy (TAP) Study Group. Arch Ophthalmol. 1999;117(10):1329–1345. [ PubMed ] [ Google Scholar ] 
+ 
+ 123. Bressler NM, Treatment of Age-Related Macular Degeneration with Photodynamic Therapy (TAP) Study Group Photodynamic therapy of subfoveal choroidal neovascularization in age-related macular degeneration with verteporfin: two-year results of 2 randomized clinical trials-tap report 2. Arch Ophthalmol. 2001;119(2):198–207. [ PubMed ] [ Google Scholar ] 
+ 
+ 124. Blumenkranz MS, Bressler NM, Bressler SB, et al. Treatment of Age-Related Macular Degeneration with Photodynamic Therapy (TAP) Study Group Verteporfin therapy for subfoveal choroidal neovascularization in age-related macular degeneration: three-year results of an open-label extension of 2 randomized clinical trials – TAP Report no. 5. Arch Ophthalmol. 2002;120(10):1307–1314. doi: 10.1001/archopht.120.10.1307. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 125. Gaynes BI, Fiscella RG. Safety of verteporfin for treatment of sub-foveal choroidal neovascular membranes associated with age-related macular degeneration. Expert Opin Drug Saf. 2004;3(4):345–361. doi: 10.1517/14740338.3.4.345. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 126. Michels S, Hansmann F, Geitzenauer W, Schmidt-Erfurth U. Influence of treatment parameters on selectivity of verteporfin therapy. Invest Ophthalmol Vis Sci. 2006;47(1):371–376. doi: 10.1167/iovs.05-0354. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 127. Schmidt-Erfurth UM, Richard G, Augustin A, et al. European Society for Retina Specialists’ Guidelines Committee (EURETINA) Guidance for the treatment of neovascular age-related macular degeneration. Acta Ophthalmol Scand. 2007;85(5):486–494. doi: 10.1111/j.1600-0420.2007.00979.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 128. Gragoudas ES, Adamis AP, Cunningham ET, Jr, et al. VEGF Inhibition Study in Ocular Neovascularization Clinical Trial Group Pegaptanib for neovascular age-related macular degeneration. N Engl J Med. 2004;351(27):2805–2816. doi: 10.1056/NEJMoa042760. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 129. Brown DM, Michels M, Kaiser PK, et al. ANCHOR Study Group Ranibizumab versus verteporfin photodynamic therapy for neovascular age-related macular degeneration: two-year results of the ANCHOR study. Ophthalmology. 2009;116(1):57–65.e5. doi: 10.1016/j.ophtha.2008.10.018. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 130. Rosenfeld PJ, Brown DM, Heier JS, et al. MARINA Study Group Ranibizumab for neovascular age-related macular degeneration. N Engl J Med. 2006;355(14):1419–1431. doi: 10.1056/NEJMoa054481. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 131. Yonekawa Y, Miller JW, Kim IK. Age-related macular degeneration: advances in management and diagnosis. J Clin Med. 2015;4(2):343–359. doi: 10.3390/jcm4020343. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 132. Comparison of Age-related Macular Degeneration Treatments Trials (CATT) Research Group. Martin DF, Maguire MG, et al. Ranibizumab and bevacizumab for treatment of neovascular age-related macular degeneration: two-year results. Ophthalmology. 2012;119(7):1388–1398. doi: 10.1016/j.ophtha.2012.03.053. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 133. Kim BJ, Ying GS, Huang J, Levy NE, Maguire MG, CATT Research Group Sporadic visual acuity loss in the comparison of age-related macular degeneration treatments trials (CATT) Am J Ophthalmol. 2014;158(1):128–135.e10. doi: 10.1016/j.ajo.2014.04.004. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 134. Chakravarthy U, Harding SP, Rogers CA, et al. IVAN Study Investigators Alternative treatments to inhibit VEGF in age-related choroidal neovascularisation: 2-year findings of the IVAN randomised controlled trial. Lancet. 2013;382(9900):1258–1267. doi: 10.1016/S0140-6736(13)61501-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 135. Chakravarthy U, Harding SP, Rogers CA, et al. A randomised controlled trial to assess the clinical effectiveness and cost-effectiveness of alternative treatments to Inhibit VEGF in Age-related choroidal Neovascularisation (IVAN) Health Technol Assess. 2015;19(78):1–298. doi: 10.3310/hta19780. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 136. Kodjikian L, Souied EH, Mimoun G, et al. GEFAL Study Group Ranibizumab versus bevacizumab for neovascular age-related macular degeneration: results from the GEFAL noninferiority randomized trial. Ophthalmology. 2013;120(11):2300–2309. doi: 10.1016/j.ophtha.2013.06.020. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 137. Berg K, Hadzalic E, Gjertsen I, et al. Ranibizumab or bevacizumab for neovascular age-related macular degeneration according to the lucentis compared to avastin study treat-and-extend protocol: two-year results. Ophthalmology. 2016;123(1):51–59. doi: 10.1016/j.ophtha.2015.09.018. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 138. Browning DJ, Kaiser PK, Rosenfeld PJ, Stewart MW. Aflibercept for age-related macular degeneration: a game-changer or quiet addition? Am J Ophthalmol. 2012;154(2):222–226. doi: 10.1016/j.ajo.2012.04.020. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 139. Stewart MW. Aflibercept (VEGF Trap-eye): the newest anti-VEGF drug. Br J Ophthalmol. 2012;96(9):1157–1158. doi: 10.1136/bjophthalmol-2011-300654. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 140. Heier JS, Brown DM, Chong V, et al. VIEW 1 and VIEW 2 Study Groups Intravitreal aflibercept (VEGF trap-eye) in wet age-related macular degeneration. Ophthalmology. 2012;119(12):2537–2548. doi: 10.1016/j.ophtha.2012.09.006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 141. Papadopoulos N, Martin J, Ruan Q, et al. Binding and neutralization of vascular endothelial growth factor (VEGF) and related ligands by VEGF Trap, ranibizumab and bevacizumab. Angiogenesis. 2012;15(2):171–185. doi: 10.1007/s10456-011-9249-6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 142. Mantel I. Optimizing the anti-VEGF treatment strategy for neovascular age-related macular degeneration: from clinical trials to real-life requirements. Transl Vis Sci Technol. 2015;4(3):6. doi: 10.1167/tvst.4.3.6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 143. Busbee BG, Ho AC, Brown DM, et al. HARBOR Study Group Twelve-month efficacy and safety of 0.5 mg or 2.0 mg ranibizumab in patients with subfoveal neovascular age-related macular degeneration. Ophthalmology. 2013;120(5):1046–1056. doi: 10.1016/j.ophtha.2012.10.014. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 144. Fung AE, Lalwani GA, Rosenfeld PJ, et al. An optical coherence tomography-guided, variable dosing regimen with intravitreal ranibizumab (Lucentis) for neovascular age-related macular degeneration. Am J Ophthalmol. 2007;143(4):566–583. doi: 10.1016/j.ajo.2007.01.028. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 145. IVAN Study Investigators. Chakravarthy U, Harding SP, et al. Ranibizumab versus bevacizumab to treat neovascular age-related macular degeneration: one-year findings from the IVAN randomized trial. Ophthalmology. 2012;119(7):1399–1411. doi: 10.1016/j.ophtha.2012.04.015. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 146. CATT Research Group. Martin DF, Maguire MG, et al. Ranibizumab and bevacizumab for neovascular age-related macular degeneration. N Engl J Med. 2011;364(20):1897–1908. doi: 10.1056/NEJMoa1102673. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 147. Lalwani GA, Rosenfeld PJ, Fung AE, et al. A variable-dosing regimen with intravitreal ranibizumab for neovascular age-related macular degeneration: year 2 of the PrONTO Study. Am J Ophthalmol. 2009;148(1):43–58.e1. doi: 10.1016/j.ajo.2009.01.024. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 148. Engelbert M, Zweifel SA, Freund KB. Long-term follow-up for type 1 (subretinal pigment epithelium) neovascularization using a modified “treat and extend” dosing regimen of intravitreal antivascular endothelial growth factor therapy. Retina. 2010;30(9):1368–1375. doi: 10.1097/IAE.0b013e3181d50cbf. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 149. Gupta OP, Shienbaum G, Patel AH, Fecarotta C, Kaiser RS, Regillo CD. A treat and extend regimen using ranibizumab for neovascular age-related macular degeneration clinical and economic impact. Ophthalmology. 2010;117(11):2134–2140. doi: 10.1016/j.ophtha.2010.02.032. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 150. Rayess N, Houston SK, 3rd, Gupta OP, Ho AC, Regillo CD. Treatment outcomes after 3 years in neovascular age-related macular degeneration using a treat-and-extend regimen. Am J Ophthalmol. 2015;159(1):3.e1–8.e1. doi: 10.1016/j.ajo.2014.09.011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 151. Shienbaum G, Gupta OP, Fecarotta C, Patel AH, Kaiser RS, Regillo CD. Bevacizumab for neovascular age-related macular degeneration using a treat-and-extend regimen: clinical and economic impact. Am J Ophthalmol. 2012;153(3):468.e1–473.e1. doi: 10.1016/j.ajo.2011.08.011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 152. Mantel I, Niderprim SA, Gianniou C, Deli A, Ambresin A. Reducing the clinical burden of ranibizumab treatment for neovascular age-related macular degeneration using an individually planned regimen. Br J Ophthalmol. 2014;98(9):1192–1196. doi: 10.1136/bjophthalmol-2013-304556. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 153. Gianniou C, Dirani A, Ferrini W, et al. Two-year outcome of an observe-and-plan regimen for neovascular age-related macular degeneration: how to alleviate the clinical burden with maintained functional results. Eye (Lond) 2015;29(3):342–349. doi: 10.1038/eye.2014.258. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 154. Vottonen P, Kankaanpaa E. Cost-effectiveness of treating wet age-related macular degeneration at the Kuopio University Hospital in Finland based on a two-eye Markov transition model. Acta Ophthalmol. 2016;94(7):652–656. doi: 10.1111/aos.13185. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 155. Elshout M, van der Reis MI, Webers CA, Schouten JS. The cost-utility of aflibercept for the treatment of age-related macular degeneration compared to bevacizumab and ranibizumab and the influence of model parameters. Graefes Arch Clin Exp Ophthalmol. 2014;252(12):1911–1920. doi: 10.1007/s00417-014-2641-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 156. Shaikh AH, Toussaint BW, Miller DM, et al. Cost comparison of intravitreal aflibercept with bevacizumab and ranibizumab for the treatment of wet age-related macular degeneration. Ophthalmic Surg Lasers Imaging Retina. 2015;46(1):62–66. doi: 10.3928/23258160-20150101-10. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 157. Park DH, Sun HJ, Lee SJ. A comparison of responses to intravitreal bevacizumab, ranibizumab, or aflibercept injections for neovascular age-related macular degeneration. Int Ophthalmol. 2016 Nov 8; doi: 10.1007/s10792-016-0391-4. Epub. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 158. Au A, Parikh VS, Singh RP, et al. Comparison of anti-VEGF therapies on fibrovascular pigment epithelial detachments in age-related macular degeneration. Br J Ophthalmol. 2017;101(7):970–975. doi: 10.1136/bjophthalmol-2016-309434. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 159. Ba J, Peng RS, Xu D, et al. Intravitreal anti-VEGF injections for treating wet age-related macular degeneration: a systematic review and meta-analysis. Drug Des Devel Ther. 2015;9:5397–5405. doi: 10.2147/DDDT.S86269. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 160. Campochiaro PA, Channa R, Berger BB, et al. Treatment of diabetic macular edema with a designed ankyrin repeat protein that binds vascular endothelial growth factor: a phase I/II study. Am J Ophthalmol. 2013;155(4):697–704. 704.e1–e2. doi: 10.1016/j.ajo.2012.09.032. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 161. Souied EH, Devin F, Mauget-Faysse M, et al. MP0112 Study Group Treatment of exudative age-related macular degeneration with a designed ankyrin repeat protein that binds vascular endothelial growth factor: a phase I/II study. Am J Ophthalmol. 2014;158(4):724.e2–732.e2. doi: 10.1016/j.ajo.2014.05.037. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 162. Dugel PU, Warburton J, Weichselberger A, Sallstig P. A 2-year study comparing the efficacy and safety of brolucizumab vs aflibercept in subjects with neovascular age-related macular degeneration: testing an alternative treatment regimen. Invest Ophthalmol Vis Sci. 2016;57(12):5018–5018. [ Google Scholar ] 
+ 
+ 163. Guerrero-Naranjo JL, Quiroz-Mercado H, Sanchez-Bermudez G, et al. Safety of implantation of the NT-503 device in patients with Choroidal Neovascularization secondary to age-related macular degeneration. Invest Ophthalmol Vis Sci. 2013;54(15):3298–3298. [ Google Scholar ] 
+ 
+ 164. ClinicalTrials.gov Study of the efficacy and safety of the ranibizumab port delivery system for sustained delivery of ranibizumab in participants with subfoveal neovascular age-related macular degeneration (LADDER) [Accessed July 28, 2017]. Available from: https://clinicaltrials.gov/ct2/show/NCT02510794 . NLM identifier: NCT02510794 . 
+ 
+ 
+ 165. Replenish [webpage on the Internet] Our Technology: Ophthalmic Micropump System. [Accessed July 28, 2017]. Available from: www.replenishinc.com/our-technology/ophthalmic-micropump-system . 
+ 
+ 
+ 166. Soderberg AC, Algvere PV, Hengstler JC, Soderberg P, Seregard S, Kvanta A. Combination therapy with low-dose transpupillary thermotherapy and intravitreal ranibizumab for neovascular age-related macular degeneration: a 24-month prospective randomised clinical study. Br J Ophthalmol. 2012;96(5):714–718. doi: 10.1136/bjophthalmol-2011-300721. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 167. Antoszyk AN, Tuomi L, Chung CY, Singh A, FOCUS Study Group Ranibizumab combined with verteporfin photodynamic therapy in neovascular age-related macular degeneration (FOCUS): year 2 results. Am J Ophthalmol. 2008;145(5):862–874. doi: 10.1016/j.ajo.2007.12.029. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 168. Costa RA, Jorge R, Calucci D, Melo LA, Jr, Cardillo JA, Scott IU. Intravitreal bevacizumab (Avastin) in combination with verteporfin photodynamic therapy for choroidal neovascularization associated with age-related macular degeneration (IBeVe Study) Graefes Arch Clin Exp Ophthalmol. 2007;245(9):1273–1280. doi: 10.1007/s00417-007-0557-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 169. Kaiser PK, Boyer DS, Garcia R, et al. Verteporfin photodynamic therapy combined with intravitreal bevacizumab for neovascular age-related macular degeneration. Ophthalmology. 2009;116(4):747–755. 755.e741. doi: 10.1016/j.ophtha.2008.12.057. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 170. Piermarocchi S, Sartore M, Lo Giudice G, Maritan V, Midena E, Segato T. Combination of photodynamic therapy and intraocular triamcinolone for exudative age-related macular degeneration and long-term chorioretinal macular atrophy. Arch Ophthalmol. 2008;126(10):1367–1374. doi: 10.1001/archopht.126.10.1367. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 171. Kovacs KD, Quirk MT, Kinoshita T, et al. A retrospective analysis of triple combination therapy with intravitreal bevacizumab, posterior sub-tenon’s triamcinolone acetonide, and low-fluence verteporfin photodynamic therapy in patients with neovascular age-related macular degeneration. Retina. 2011;31(3):446–452. doi: 10.1097/IAE.0b013e3181f6391f. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 172. ClinicalTrials.gov A phase 1, safety, tolerability and pharmacokinetic profile of intravitreous injections of E10030 (anti-PDGF pegylated aptamer) in subjects with neovascular age-related macular degeneration. [Accessed July 28, 2017]. Available from: https://clinicaltrials.gov/show/NCT00569140 . NLM identifier: NCT00569140 . 
+ 
+ 
+ 173. ClinicalTrials.gov A safety and efficacy study of E10030 (anti-PDGF pegylated aptamer) plus lucentis for neovascular age-related macular degeneration. [Accessed July 28, 2017]. Available from: https://clinicaltrials.gov/ct2/show/results/NCT01089517?term=E10030&rank=3 . NLM identifier: NCT01089517 . 
+ 
+ 
+ 174. ClinicalTrials.gov A phase 3 safety and efficacy study of Fovista® (E10030) intravitreous administration in combination with Lucentis® compared to Lucentis® monotherapy. [Accessed July 28, 2017]. Available from: https://clinical-trials.gov/ct2/show/NCT01940900 . NLM identifier: NCT01940900 . 
+ 
+ 
+ 175. Jackson TL, Chakravarthy U, Kaiser PK, et al. INTREPID Study Group Stereotactic radiotherapy for neovascular age-related macular degeneration: 52-week safety and efficacy results of the INTREPID study. Ophthalmology. 2013;120(9):1893–1900. doi: 10.1016/j.ophtha.2013.02.016. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 176. Neffendorf JE, Desai R, Wang Y, et al. StereoTactic radiotherapy for wet age-related macular degeneration (STAR): study protocol for a randomised controlled clinical trial. Trials. 2016;17(1):560. doi: 10.1186/s13063-016-1676-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 177. Ranjbar M, Kurz M, Holzhey A, Melchert C, Rades D, Grisanti S. Stereotactic radiotherapy in neovascular age-related macular degeneration: real-life efficacy and morphological evaluation of the outer retina-choroid complex. Medicine. 2016;95(52):e5729. doi: 10.1097/MD.0000000000005729. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 178. Yanai R, Mulki L, Hasegawa E, et al. Cytochrome P450-generated metabolites derived from omega-3 fatty acids attenuate neovascularization. Proc Natl Acad Sci U S A. 2014;111(26):9603–9608. doi: 10.1073/pnas.1401191111. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 179. AREDS2-HOME Study Research Group. Chew EY, Clemons TE, et al. Randomized trial of a home monitoring system for early detection of choroidal neovascularization home monitoring of the Eye (HOME) study. Ophthalmology. 2014;121(2):535–544. doi: 10.1016/j.ophtha.2013.10.027. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 180. Jackson GR, Scott IU, Kim IK, Quillen DA, Iannaccone A, Edwards JG. Diagnostic sensitivity and specificity of dark adaptometry for detection of age-related macular degeneration. Invest Ophthalmol Vis Sci. 2014;55(3):1427–1431. doi: 10.1167/iovs.13-13745. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 181. Hawkins BS, Bressler NM, Miskala PH, et al. Submacular Surgery Trials (SST) Research Group Surgery for subfoveal choroidal neovascularization in age-related macular degeneration: ophthalmic findings: SST report no. 11. Ophthalmology. 2004;111(11):1967–1980. doi: 10.1016/j.ophtha.2004.07.021. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 182. Bressler NM, Bressler SB, Childs AL, et al. Submacular Surgery Trials (SST) Research Group Surgery for hemorrhagic choroidal neovascular lesions of age-related macular degeneration: ophthalmic findings: SST report no. 13. Ophthalmology. 2004;111(11):1993–2006. doi: 10.1016/j.ophtha.2004.07.023. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 183. Giansanti F, Eandi CM, Virgili G. Submacular surgery for choroidal neovascularisation secondary to age-related macular degeneration. Cochrane Database Syst Rev. 2009;(2):Cd006931. doi: 10.1002/14651858.CD006931.pub2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 184. Kertes PJ. Massive peripapillary subretinal neovascularization: an indication for submacular surgery. Retina. 2004;24(2):219–225. doi: 10.1097/00006982-200404000-00005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 185. MacLaren RE, Bird AC, Sathia PJ, Aylward GW. Long-term results of submacular surgery combined with macular translocation of the retinal pigment epithelium in neovascular age-related macular degeneration. Ophthalmology. 2005;112(12):2081–2087. doi: 10.1016/j.ophtha.2005.06.029. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 186. Chen FK, Patel PJ, Uppal GS, Tufail A, Coffey PJ, Da Cruz L. Long-term outcomes following full macular translocation surgery in neovascular age-related macular degeneration. Br J Ophthalmol. 2010;94(10):1337–1343. doi: 10.1136/bjo.2009.172593. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 187. van Romunde SH, Polito A, Bertazzi L, Guerriero M, Pertile G. Long-term results of full macular translocation for choroidal neovascularization in age-related macular degeneration. Ophthalmology. 2015;122(7):1366–1374. doi: 10.1016/j.ophtha.2015.03.012. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 188. ClinicalTrials.gov Complement inhibition with eculizumab for the treatment of non-exudative macular degeneration (AMD) (COMPLETE) [Accessed July 28, 2017]. Available from: https://clinicaltrials.gov/ct2/show/NCT00935883 . NLM identifier: NCT00935883 . 
+ 
+ 
+ 189. ClinicalTrials.gov Proton radiation therapy for macular degeneration. [Accessed July 28, 2017]. Available from: https://clinicaltrials.gov/ct2/show/NCT01833325?term=proton+radiation&recrs=d&cond=AMD&rank=1 . NLM identifier: NCT01833325 . 
+ 
+ 
+ 190. ClinicalTrials.gov A safety and efficacy study of abicipar pegol in patients with neovascular age-related macular degeneration (CDER) [Accessed July 28, 2017]. Available from: https://clinicaltrials.gov/ct2/show/NCT02462928?term=Abicipar+pegol&recrs=d&cond=AMD&rank=3 . NLM identifier: NCT02462928 . 
+ 
+ 
+ 191. ClinicalTrials.gov Efficacy and safety of RTH258 versus aflibercept – study 2. [Accessed July 28, 2017]. Available from: https://clinicaltrials.gov/ct2/show/NCT02434328?term=RTH258&recrs=d&cond=AMD&rank=1 . NLM identifier: NCT02434328 . 
+ 
+ 
+ 192. Singer MA, Awh CC, Sadda S, et al. HORIZON: an open-label extension trial of ranibizumab for choroidal neovascularization secondary to age-related macular degeneration. Ophthalmology. 2012;119(6):1175–1183. doi: 10.1016/j.ophtha.2011.12.016. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 193. Rofagha S, Bhisitkul RB, Boyer DS, Sadda SR, Zhang K, SEVEN-UP Study Group Seven-year outcomes in ranibizumab-treated patients in ANCHOR, MARINA, and HORIZON: a multicenter cohort study (SEVEN-UP) Ophthalmology. 2013;120(11):2292–2299. doi: 10.1016/j.ophtha.2013.03.046. [ DOI ] [ PubMed ] [ Google Scholar ]

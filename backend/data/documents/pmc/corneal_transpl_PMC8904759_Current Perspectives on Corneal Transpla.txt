@@ -1,0 +1,538 @@
+Source: PubMed Central (PMC)
+PMCID: PMC8904759
+Title: Current Perspectives on Corneal Transplantation
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8904759/
+Year: 2022
+Disease: corneal_transplant
+Priority: 2
+============================================================
+
+Clin Ophthalmol . 2022 Mar 4;16:631–646. doi: 10.2147/OPTH.S289359 
+ 
+ 
+ Current Perspectives on Corneal Transplantation 
+ Siyin Liu 
+ Siyin Liu 
+ 
+ 1 Manchester Royal Eye Hospital, Manchester University NHS Foundation Trust, Manchester, UK 
+ 
+ 2 School of Biological Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester, UK 
+ Find articles by Siyin Liu 
+ 
+ 
+ 1, 2 , Yee Ling Wong 
+ Yee Ling Wong 
+ 
+ 1 Manchester Royal Eye Hospital, Manchester University NHS Foundation Trust, Manchester, UK 
+ Find articles by Yee Ling Wong 
+ 
+ 
+ 1 , Andrew Walkden 
+ Andrew Walkden 
+ 
+ 1 Manchester Royal Eye Hospital, Manchester University NHS Foundation Trust, Manchester, UK 
+ 
+ 2 School of Biological Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester, UK 
+ Find articles by Andrew Walkden 
+ 
+ 
+ 1, 2, ✉ 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Manchester Royal Eye Hospital, Manchester University NHS Foundation Trust, Manchester, UK 
+ 
+ 2 School of Biological Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester, UK 
+ 
+ ✉ Correspondence: Andrew Walkden, Email walkdenandrew@gmail.com 
+ 
+ 
+ Received 2021 Nov 20; Accepted 2022 Jan 20; Collection date 2022. 
+ 
+ © 2022 Liu et al. 
+ This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License ( http://creativecommons.org/licenses/by-nc/3.0/ ). By accessing the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms ( https://www.dovepress.com/terms.php ). 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC8904759  PMID: 35282172 
+ 
+ Abstract 
+ Disease of the cornea is the third leading cause of blindness worldwide. Corneal graft surgery is one of the most successful forms of solid organ transplantations in humans, with ever-increasing developments in surgical technique. To date, approximately 4504 corneal transplants are performed in the United Kingdom each year. While full thickness transplantation was the most commonly performed keratoplasty over the last few decades, selective lamellar transplantation of the diseased layers of the cornea has been universally adopted. This comprehensive review aims to provide an updated synthesis on different types of corneal transplantations, their treatment outcomes, and the associated complications of each procedure in both adult and paediatric population. In addition, we also present an up-to-date summary of the emerging therapeutic approaches that have the potential to reduce the demand for donor-dependent keratoplasty. 
+ Keywords: corneal transplantation, corneal blindness, keratoplasty, graft rejection, graft survival Introduction 
+ In health, the cornea is a transparent and avascular connective tissue that provides protective and refractive components that contribute to visual function. Numerous degenerative, dystrophic, infectious, inflammatory or traumatic conditions can compromise corneal clarity, all with the potential to cause visual loss. Corneal disease is the third leading cause of blindness worldwide after cataracts and glaucoma. 1 , 2 Infectious eye diseases such as trachoma remain the leading cause of corneal blindness in the developing world, whereas degenerative or iatrogenic causes such as Fuchs’ endothelial corneal dystrophy (FECD) and pseudophakic bullous keratopathy (PBK) are more common in developed countries. Once corneal clarity is lost, transplantation is the current therapeutic intervention of choice with the goal of improving visual acuity. 
+ Corneas are the most frequently transplanted human tissue worldwide. This success is primarily attributed to corneal “immune privilege”, resulting in a reduced inflammatory response following transplantation due to the lack of afferent lymphatic and efferent blood vessels in the recipient cornea, a lack of major histocompatibility antigens class II, and the anterior chamber–associated immune deviation. 3 , 4 It is estimated that 12.7 million people are waiting for a corneal transplant worldwide, but there is huge variability in the availability of donor tissues across different geographical locations. 1 In the UK, 4504 corneal transplants were performed in 2019; 5 In the USA, there were 85,601 corneas transplanted in the same year. 6 The USA, Sri Lanka, and Italy are some of the few countries with a surplus of donor tissue for exportation, accounting for 85%, 9%, and 3% of the total number of exported tissues, respectively. In addition, other exporting countries were the Philippines, the Netherlands, the Czech Republic, France, Australia, and Colombia (by decreasing number of exported corneas ranging from 588 to 17). 1 In stark and disappointing contrast, at least 55.3% of the world’s population have no access to corneal transplant material. 1 The Structure and Function of the Cornea 
+ The human cornea consists of six discernible layers. The surface epithelium comprises four to six layers of stratified, non-keratinizing squamous cells. 7 The most superficial two to three layers of epithelial cells have apical microvilli and microplicae, which allow adherence and even spread of the overlying tear film. The tight junctions between neighboring cells prevent external pathogens from passing through the epithelial layers into the deeper layers. The two to three cell layers underneath, the suprabasal layers, also possess similar tight intercellular junctions. The singular “basal cell layer” secrets the underlying basement membrane and attaches to it by hemidesmosome networks, which prevents the epithelium from shedding from the deeper layers. The epithelial basement membrane is formed by collagen type IV and laminin, which mediates epithelial wound repair. 8 Corneal epithelial cells have an average lifespan of 7 to 10 days. Regeneration is enabled by limbal epithelial stem cells (LESC), a group of slow cycling cells that fulfil the characteristics of stem cells: slow-cycling, lack of differentiation, and high proliferative capacity. 9–11 LESCs reside in the palisades of Vogt, a radially orientated fibrovascular ridges and epithelial crypts located at the limbus. 12 , 13 When activated, for example, in response to corneal epithelial wounding, LESCs proliferate and differentiate into progeny transient amplifying cells, which migrate centripetally towards the central cornea until the advancing ends meet along ‘Y-shaped contact lines’ to re-establish epithelial cover of the corneal surface. 14–16 During states of increased LESCs replicative turnover, a whorled appearance on the cornea reflecting the path of epithelial cell migration is visible and has been termed “hurricane keratopathy”. 17 Dua and Forrester further demonstrated that in corneal epithelial defects involving the limbus, LESCs preferentially reepithelialised the limbus first prior to covering the central cornea. 18 
+ Beneath the corneal epithelium, the Bowman’s layer is the acellular, non-regenerative anterior portion of the stroma. Eighty percent of corneal thickness and its structural framework is provided by the stroma, which is composed of type I and type V collagen. They are arranged in parallel fibrils in order to ensure transparency in addition to mechanical strength. The specialized proteoglycans and keratocytes surrounding the collagen regulate hydration and homeostasis. Posterior to the stroma, the Descemet membrane (DM) is secreted by the underlying endothelial cells from 8-weeks gestation and acts as a basement membrane. The innermost endothelial layer consists of a monolayer of hexagonal cells with intercellular tight and gap junctions. The well-documented Na + /K + ATPase pump maintains deturgescence and clarity of the cornea. Corneal endothelial cell density (ECD) progressively declines throughout life at an average rate of approximately 0.6%: 19 During the first decade of life, the mean ECD has been reported to be about 4640, then it declines to 2970 by 30 years of age, and it continues to drop to 2400 at 80 years of age. 20 Aim of Paper 
+ We aim to provide a comprehensive literature review of the different types of corneal transplantations, their treatment outcomes, and the associated complications of each procedure within the same article. In addition, we also present an up-to-date summary of the emerging therapeutic approaches that have the potential for reducing the demand for donor-dependent keratoplasty. We follow the same approach for reporting outcomes of each form of corneal transplant to produce a more intuitive article for the reader. We also provide a summary Table 1 that helps to display this information in one place.
+ 
+ Table 1. 
+ Synthesis of the more commonly (A) and less commonly (B) performed transplant procedures discussed in the review article 
+ 
+ A More Commonly Performed Transplant Procedures 
+ 
+ Procedure 
+ 
+ No of cases performed in the UK 2019-2020 (% of total number of cases) 1 
+ 
+ Indications 
+ Survival rate 
+ Rejection rate 
+ Other common complications 
+ 
+ 
+ PK 
+ 1218 (27.0%) 
+ Keratoconus FECD PBK Ulcerating keratitis Infectious keratitis Re-graft Dystrophies Ectasias Trauma Opacification 
+ Mixed-pathology data:- 98% at 2 years- 90% at 5 years- 60-80% at 10 years- 72% at 15 yearsKeratoconus-specific data:- 98% at 2 years- 89% at 10 yearsPBK-specific data:- 87% at 2 years- 40% at 10 yearsFECD-specific data:- 97% at 2 years- 73% at 10 years 
+ 21-31% 
+ Primary graft failure 0.3-12%Late endothelial failure 2.8-9.2%Glaucoma 0.4-21.5%Microbial keratitis 1.76-25% 
+ 
+ 
+ DALK 
+ 420 (9.3%) 
+ Keratoconus Anterior stromal scarringDystrophiesInfectious keratitis 
+ Mixed-pathology data:- 99.3% at 9 years- 93.9% at 10 years Keratoconus-specific data:- 90.0-90.4% at 5 years 
+ 0.8-10.9% 
+ Primary graft failure 0.9%Late endothelial failure 0.4-3.8%Glaucoma 0.0-9.0%Microbial keratitis 0.2-27.7% 
+ 
+ 
+ DSAEK 
+ 1487 (33.0%) 
+ FECDPBKPPMDCHED 
+ Mixed-pathology data:- 78.4-94.2% at 5 years - 79% at 10 years FECD-specific data - 97% at 5 years - 92% at 10 years PBK-specific data - 89% at 5 years - 62% at 10 years 
+ 2.2-7.9 
+ Primary graft failure 1.4-4.7%Late endothelial failure 2.6-5.3%Raised IOP 11.9%Microbial keratitis 0.5%Graft detachment 0.7-17.8% 
+ 
+ 
+ DMEK 
+ 1042 (23.1%) 
+ Same as DSAEK 
+ Mixed-pathology data:- 90.0-97.4% at 5 years 
+ 0.1-5% 
+ Primary graft failure 0.2-4.1%Late endothelial failure 1.3-2.8%Raised IOP 1.6-25%Graft detachment 4.0-34.6% 
+ 
+ B Less Commonly Performed Transplant Procedures 
+ 
+ Procedure 
+ Indications 
+ Survival rate 
+ Visual outcome 
+ Complications 
+ 
+ 
+ Paediatric Corneal Transplant 
+ PK: congenital corneal opacities, anterior segment dysgenesis, infectious keratitis, corneal scarring, keratoconus. SALK: superficial corneal opacities, Reis-Buckler corneal dystrophy. DALK: keratoconus, corneal scarring, corneal dystrophies, MPS, SJS, chemical injury. DSAEK: CHED, PPMD, Peter’s Anomaly, decompensated cornea, rejected PKP grafts. DMEK: corneal decompensation, endothelial dystrophy 
+ PK: 80-100% at 5 years, 90% at 10 years (12-30% at 5 years for Sclerocornea and Peter’s Anomaly) DALK: 90-96% at 42 months DMEK: 66.7% at 12 months 
+ PK: 0.5 LogMAR at 10 years (Poor visual outcome for patients <5 years / Sclerocornea) SALK: 0.45 LogMAR at 12 years DMEK: 0.5 LogMAR at 12 months 
+ PK: infection (52%), vascularisation (41%), rejection (36%), endothelial failure, deprivational amblyopia, glaucoma, re transplantation, lensectomy SALK: micro perforation (6.3%), graft melt (2%), deep vascularisation (23%), corneal opacification (26%), suture granuloma (3.3%) DALK: micro perforation (17.6%), DM detachment (0.05% – 7.6%), stromal rejection (5 – 9.8%), unstable refraction, suture related complications, DSAEK: graft detachment (21%), ECL (19 – 53%), lens opacities (40%), IOP rise, graft rejection, persisting stromal haze. 
+ 
+ 
+ BKPro 
+ Bilateral severe corneal blindness, previous failed corneal transplants with poor prognosis for PK, ocular surface disease (MMP, SJS), neurotrophic cornea, aniridia, chemical injuries, LSCD. 
+ 98.9% at 1 year, 94% at 2 years, 75% at 5 years 
+ 0.00 to 1.00 LogMAR at 5 years (68% for non-cicatrizing condition, 43 for circatricial pemphigoid, 64% for chemical burns, 0% for SJS) 
+ postoperative glaucoma, infective keratitis, corneal melt, endophthalmitis, retinal detachment, RPM, persistent inflammation 
+ 
+ 
+ OOKP 
+ SJS, ocular pemphigoid, Lyell syndrome, TENS, epidermolysis bullosa acquisita, trachoma, chemical injury, lid loss (Crouzon disease), complete LSCD, multiple failed PKs, corneal decompensation following vitrectomy and silicone oil filling that cannot be removed safely. 
+ 87.8-100% at 5 years, 81% at 20 years 
+ 0.48 LogMAR or better at 20 years (46-72%) 
+ intraoperative VH (0-52%) mucosal overgrowth, mucosal ulceration, glaucoma (7-47%), cataracts, endophthalmitis (2-8%) 
+ 
+ 
+ Open in a new tab 
+ Abbreviations : PK, penetrating keratoplasty; DALK, deep anterior lamellar keratoplasty; DSAEK, descemet stripping automated endothelial keratoplasty; descemet membrane endothelial keratoplasty; FECD, Fuchs’ endothelial corneal dystrophy; PBK, pseudophakic bullous keratopathy; PPMD, posterior polymorphous corneal dystrophy; CHED, congenital hereditary endothelial dystrophy; IOP, intraocular pressure. Method 
+ All studies included in this review were collated through online databases PubMed and Scopus using the search terms “corneal transplantation”, “corneal blindness”, “keratoplasty”, “graft rejection”, “graft survival”. Promising studies listed in selected articles were also reviewed for potential inclusion. Inclusion criteria include availability in English full text, relevancy to corneal diseases and keratoplasty, quality of the data and the source published and whether other studies have cited the articles. Penetrating Keratoplasty 
+ Zirm performed the first successful penetrating keratoplasty (PK) in 1905. Until recently, PK was the most frequently performed corneal transplantation technique globally. However, both anterior and posterior lamellar keratoplasty techniques have become increasingly popular in the last decade as they are less invasive with reduced risks of complications. 21 As a result of the rapid adoption of these new methods, the proportion of PK grafts has reduced from 45% to 27% over the last 10 years in the UK. 5 The same phenomenon is also observed in other areas of the world. 21–23 
+ Indications 
+ PK can be utilised to replace opacifying diseases of all corneal layers. 24–26 With the introduction of modern lamellar transplantation techniques and their associated quicker visual rehabilitation and reduced risk of rejection, there appears to be a trend towards favouring these techniques if they are technically possible. As a result, the commonest indications for PKs nowadays include advanced keratoconus not amenable to DALK, tectonic grafts for acute ulcerating or infectious keratitis, and previous graft failure. 22 Indications for PK also vary greatly depending on geographic locations, with keratoconus being the main indication in Europe and Australia, active keratitis in Asia, and PBK in North America. 27 Graft Survival 
+ As the most well-established procedure for corneal transplant, PK overall is a successful and effective treatment for improving visual function. In a case series of 3992 eyes, the graft survival rate was 90% at 5 years and 82% at 10 years. 28 Other studies have also demonstrated a PK graft survival rate higher than 70% at 10 years follow-up. 29–32 However, the outcome of PK is variable depending on several factors, with the indication for surgery playing a major role in influencing the graft survival rate, with keratoconus patients achieving the best long-term results. 33 , 34 A multi-national registry study based in the European Union reported 2-year real-world graft survival of 98% for keratoconic patients, 97% for FECD, 87% for PBK, 85% for trauma and 74% for infectious keratitis. 35 Australian-based registry data demonstrated an 89% 10-year graft survival rate for keratoconus, 73% for FECD, 70% for non-herpetic scars, 60% for herpetic scars, 40% for PBK and only 37% for regrafts. 36 A retrospective study with a mean follow-up of 12.8 years also showed a much higher graft survival rate of 94.7% in keratoconics compared to 11.1% for a regraft. 37 In developing countries, the graft survival rate was lower than in many western studies. This is hypothesised to be due to the higher percentage of patients with high-risk indications, lower quality of donor corneas and reduced access to medicines and expert care. 38 , 39 There is also evidence that suggests graft survival rates are higher in those cases performed at specialist centres. 40 , 41 Graft Rejection 
+ Immunological corneal graft rejection is one of the main reasons for graft failure in PK. 42 , 43 Rahman et al reported 21% of the cases experienced at least one episode of graft rejection after PK, 44 whereas Olson et al reported allograft reaction in 31% of the cases but none progressed to graft failure. 45 Long-term large studies demonstrated that 28–34% of graft failures are caused by irreversible rejection. 28 , 30–32 , 36 Even in the absence of rejection, donor corneal endothelial cell loss is progressive for 10 years post-PK, which causes late failure of the graft. 46 The rate of endothelial cell loss was reported to be about 33% to 40% within the first 2 years, 53–70% at the end of the fifth year and stabilising at 12% after 10 years. 47–50 Armitage et al proposed that the surgical trauma leads to chronic pro-inflammatory anterior chamber environment and therefore endothelial decay. 51 Late endothelial failure accounts for 20–45% of post-PK graft failure. 28–31 , 36 , 47 , 48 Primary graft failure, defined as “the failure of an oedematous graft to clear with no identifiable reason within 2 weeks post-transplant”, occurs in 0–12% of cases 29 , 52 , 53 and constitutes 1–14% of overall graft failure. Other Complications 
+ Post-PK glaucoma is caused by corticosteroid-induced IOP elevation and/or surgical alteration of the anterior chamber angle, 54 and its incidence is estimated to be 21.5%. 55 Treatments for post-PK glaucoma are also associated with an increased risk of graft failure, with a 5-year failure rate of 20%, 29% and 58% in eyes treated with anti-glaucomatous drops alone, glaucoma surgery alone or both, respectively. 56 Post-PK re-epithelization is compromised due to corneal denervation and the use of topical corticosteroids. Ocular surface complications form 18% of graft failure. The rate of microbial keratitis post-PK was reported to range from 1.76% to 25%. 57 , 58 Gram-positive organisms are the predominant causative agents for microbial keratitis following PK. 59–61 Loose sutures may act as a nidus for organisms and compromise the epithelial barrier to infection, and prolonged corticosteroid use may alter host defence mechanisms; therefore, both are iatrogenic risk factors for microbial keratitis. 59 , 61 More than half of the grafts affected by microbial keratitis are reported to eventually progress to failure. 60 Visual Outcome 
+ Various authors reported different visual outcomes of PK. Paglen et al and Pramanik et al reported best-corrected visual acuity (BCVA; expresses in Snellen; refractive errors corrected by either contact lens or spectacles) of more than 6/12 in 73% of the patients at more than 10 years of follow-up, 33 , 34 whereas only 48% achieved the same level of vision at 5 years in a case-series by Rahman et al. 44 In the developing world, only a minority of patients managed to attain BCVA above 6/18 with spectacle and contact-lens correction. 62 , 63 Deep Anterior Lamellar Keratoplasty 
+ Despite PK being the first form of ocular transplantation, with the progressive developments in lamellar surgical techniques, deep anterior lamellar keratoplasty (DALK) has become a popular surgical technique for treating stromal pathology, theoretically eliminating endothelial graft rejection as the host DM and endothelium remains. Nine percent of the grafts performed in the UK were for DALK cases between 2019 and 2020. 5 
+ The most technically challenging and critical step in DALK is the separation of corneal stroma from DM. Most contemporary methods involve initial partial trephination of the cornea, followed by various approaches to delaminate stroma from the underlying DM. Sugita and Kondo’s method involves injecting fluid into stroma for hydrodelamination 64 ; Melle’s technique utilises ophthalmic viscosurgical devices to achieve lamellar dissection. 65 The most widely adopted technique is Anwar’s “Big Bubble”, where air is injected into the deep stroma, with the air cleaving DM (and in some cases posterior stroma) from the remaining host tissue. A donor corneal button, with DM removed, is then sutured to the host cornea. 66 
+ Indication 
+ Keratoconus is the leading indication for DALK. 22 Indeed, expert consensus agrees that DALK is the preferred modality of corneal transplant in keratoconus without deep scars and DM breaks from prior hydrops episodes. 67 DALK is also an option for anterior stromal scarring, 22 , 68 corneal dystrophies, 69 and infectious keratitis. 22 , 70 Graft Survival 
+ As a relatively new surgical technique for corneal transplantation, long-term follow-up data on DALK are not as detailed as that for PK. From the limited studies published, the survival rate of DALK has been reported to be higher than that of PK. In a retrospective comparative study, Arundhati et al reported a significantly higher proportion of graft survival in patients that underwent DALK in comparison to PK at 10 years follow-up (93.9% vs 72.0%). 71 Sarnicola et al showed a mean survival of 99.3% from a cohort of 660 patients with mixed pathologies at 9 years post-DALK. 70 Other studies have also demonstrated the DALK graft survival rate to be higher than 90% in recipients with keratoconus at 5-year follow-up timepoints. 72–74 On the other hand, the Australian Corneal Graft Registry reported a 77.0% survival rate in 1531 patients at 6 years. 75 From the same registry data, age was shown to be an independent factor that influenced graft survival over a 33-years follow-up period; DALK performed in recipients aged under 60 had superior survival to those performed in recipients aged 60 and over. 75 Graft Rejection 
+ Donor-derived corneal endothelial cells are susceptible to recognition by host immune mechanisms. As the host endothelial cells are preserved in DALK, endothelial immune-mediated graft rejection cannot occur, though stromal and sub-epithelial and epithelial rejections are still possible. Feizi et al report that 10.9% and 3.1% of the cases suffer sub-epithelial and stromal graft rejection episodes following DALK, respectively. 76 The 2014 systemic review by Keane et al and the more recent meta-analysis by Song et al concluded that graft rejection episodes were more likely to occur in PK than in DALK (meta-analysis result: Odds ratio=2.69, 95% confidence interval: 1.62–4.48). 77 , 78 William et al documented the percentage of graft failure due to irreversible immunological rejection in DALK was 1.7%, compared to 28% in PK. 75 Comparative studies demonstrated lower levels of endothelial cell loss after DALK when comparing DALK versus PK at different time points of post-surgery follow-up: 14.90–15.04% vs 15.44–25.71% at 12 months, 16.32–18.12% vs 26.98–36.24% at 24 months, 19.39 vs 46.05% at 36 months, and 21.02% vs 47.82% at 48 months after surgery. 50 , 69 Over a longer follow-up period, endothelial cell density was shown to progressively decrease after PK until it stabilises approximately 10 years post-surgery, by which time 67% endothelial cell loss had occurred; 31 in contrast, endothelial cells appeared to decrease in the immediate post-operative period after DALK but tended to stabilise at around 6-months to 1-year and remain stable for nearly 10 years after DALK. 79 Interestingly, endothelial cell counts have also been reported to be stable or even higher after DALK. 80 Therefore, late corneal failure due to progressive endothelial decay is less likely after DALK. 79 Other Complications 
+ The incidence of post-DALK glaucoma was reported to be less than 5%, a figure much lower than that reported in PK. 81 It has been postulated that the potential distortion of the iridocorneal angle is reduced as the anterior chamber is not breached in DALK, therefore the risk of developing glaucoma is lower than in PK. 82 Use of post-DALK topical corticosteroids is often shorter than that required in PK, which lowers the risk of corticosteroid-induced IOP elevation. Studies comparing the incidence of glaucoma after DALK versus PK had found that glaucoma developed in 0.0–9.0% of DALK patients, in contrast to 9.6–15.0% of PK cases. 83–86 Up to two-third of the PK cases with post-operative glaucoma required surgical interventions, while most patients with post-DALK glaucoma needed medical treatment alone. 85 , 87 A 12-year retrospective analysis in the UK reported that 27.7% of the DALK cases developed microbial keratitis, compared to 6.7% of eyes undergone PK. 58 The incidence of fungal keratitis post-DALK was reported to be 0.052%. 88 
+ Although there are some advantages to DALK compared to PK, there is a subset of complications unique to DALK. Intraoperative micro-perforations can occur when trying to split DM from the stroma. It is said that those of 1mm or less can be managed intraoperatively and does not prevent transplantation of the onlay anterior stromal graft, but post-operative DM detachment and formation of a double anterior chamber may develop. 89 This may require rebubbling with an air or gas tamponade into the anterior chamber, which can in turn cause endothelial cell loss and pupillary block by the tamponade, and in severe cases, precipitate an attack of aqueous misdirection. 90 , 91 
+ In cases of macro-perforations or large lamellar splits of DM, conversion to PK is usually required intraoperatively; one study conducted in 2010 had reported a conversion rate as high as 60%. 92 As DALK gained popularity, the complication rate reported by a recent large series had reduced to 16.2% to 20.7%. 93–95 Interface haze from residual stroma may cause glare or reduced acuity, but is unlikely to occur if DM is completely bared during the procedure. 68 Rarely, interface haemorrhage from stromal neovascularization may occur. 83 Microbial infections are also possible as DALK grafts still succumb to the same issues as PK in terms of having sutures present on the ocular surface for many months post-surgery, in addition to prolonged topical steroid usage. 96 , 97 As with any intraocular procedure, epithelial downgrowth may also rarely arise after DALK; a cohort study had reported two cases of post-DALK epithelial downgrowth, which led to graft failure in one case. 83 Visual Outcome 
+ The currently available literature suggests that both DALK and PK are successful in improving visual outcomes. A review by Reinhart et al concluded that DALK and PK lead to comparable BCVA and refractive outcomes; 68 Shi et al, on the other hand, suggest that PK provides greater BCVA improvement with no differences in refractive outcomes. 98 More recently, a systematic review by Henein and Nanavaty demonstrated strong evidence of superior post-operative refractive astigmatism following DALK, but no difference in post-operative spherical equivalence or keratometric astigmatism between the two procedures. 99 These findings are broadly in concordance with a Cochrane review by Keane et al, which also showed no significant differences in keratometric astigmatism and spherical equivalent comparing DALK to PK. 77 Intriguingly, a recent meta-analysis by Song et al concluded that there was no significant difference in post-operative BCVA and astigmatism in comparison to PK, but spherical equivalents were found to be greater in DALK than in PK. 78 The disparity between these findings is in part attributed to newer studies being included, which reflect the improvement of surgical techniques over time, such as refining donor graft size and achieving a more uniform dissection of the stroma. It is also important to note that most existing comparative studies recruited solely keratoconic patients as subjects. Long-term follow-up data reported a mean BCVA of 6/7.5 at 4 to 6 years follow-up post-DALK, 73 , 79 and 29% of the patients with BCVA of 6/6 at 5 years. 72 Descemet Stripping Automated Endothelial Keratoplasty 
+ The first attempt at posterior lamellar keratoplasty was reported by Tillett in 1956, a technique that required a large incision and partial trephination of posterior donor cornea, removal of the posterior half of the recipient cornea, and securing of the donor graft via placement of seven double-arm sutures. 100 Since then, more innovative approaches have been described by various authors. 101 , 102 Terry et al proposed a technique that involved dissecting a posterior lamellar disc from the recipient cornea through a 9mm sclerocorneal incision, followed by the introduction of trephined donor graft tissue of equal size into the anterior chamber. 103 The graft was then tamponaded against the recipient posterior cornea by air while the patient remained in a supine position. This technique was termed deep lamellar endothelial keratoplasty (DLEK), but the procedure was challenging and has not been widely adopted. 104 , 105 Melles et al refined the technique by utilising a smaller, self-sealing 5-mm tunnel to perform a novel step called descemetorhexis, which involved removal of pathological DM and endothelium from the recipient cornea; this was followed by insertion of “taco-folded” donor tissue, including endothelium, DM and a layer of stroma, into the anterior chamber, which was then adhered to recipient cornea by air injection. 106 This technique was termed Descemet stripping endothelial keratoplasty but soon evolved into Descemet Stripping Automated Endothelial Keratoplasty (DSAEK) when Gorovoy et al integrated the use of an automated microkeratome for donor tissue dissection. 107 Some authors observed that thinner grafts led to better BCVA due to less change in the relationship between the anterior and posterior corneal curvatures of the recipient cornea, 108 , 109 although this theory is controversial as some studies found no significant correlation between graft thickness and visual acuity. 109 , 110 Nevertheless, based on this principle, Ultrathin-DSAEK (UT-DSAEK) was developed, which used ultrathin grafts of 100μm, half of the conventional graft thickness. 111 
+ Indication 
+ DSAEK (and other endothelial keratoplasty techniques) has been universally adopted as the preferred technique for treating corneal endothelial disease, as it provided predictability and rapid visual rehabilitation. In 2005, endothelial keratoplasty represented only 4.5% of corneal grafts in the United States. 112 As per the NHS Blood Transfusion and Transplant Service, 5 in 2020, a third of the grafts performed in the UK were DSAEKs. The commonest indications were FECD, PBK and previous endothelial graft failure. 105 Posterior polymorphous corneal dystrophy, congenital hereditary endothelial dystrophy, iridocorneal endothelial syndrome and trauma are less common indications. 113 Graft Survival 
+ As the surgical learning curve began with various DSAEK techniques, graft survival rates were shown to be variable among different studies. 112 These tended to have smaller sample sizes and the operating surgeons were still refining this relatively new technique. Long-term follow-up data demonstrated overall survival rates for DSAEK to be comparable or better than that for PK. Most single centre studies showed a graft survival rate of 93% or above at 5 years after DSAEK; 114–116 National registry data with large sample sizes report DSAEK graft survival rates of 93.4%, 74.8% and 56% in Netherland, Singapore, and Australia, respectively. 75 , 117 , 118 Although lower than the post-DSAEK graft survival rate reported by other single-centre studies (Price et al: 93% at 5-years; Ang et al: 79.4% at 5-year), 116 , 119 the DSAEK survival in Singapore was still superior to PK in the same dataset at 5-year follow-up (DSAEK 78.4% vs PK 54.6%), 117 while the authors of the Australian registry data concluded that PK exhibited significantly better survival than DSAEK performed for PBK and FECD (at 6-year follow-up, PBK: DSAEK 45.0% vs PK 52.0%; FECD: DSAEK 69.0% vs PK 90.0%). 75 The variable conclusions drawn by different studies may be due to discrepancies in tissue quality and storage techniques, different clinical indications, baseline donor factors such age or pre-graft endothelial cell density, and recipient factors, eg, preoperative glaucoma. The latest modification of the procedure, UT-DSAEK, demonstrated a survival rate of 94.2% at 5 years, which was comparable to conventional DSAEK. 111 Graft Rejection 
+ With endothelial keratoplasty, the most immunogenic layer of the cornea is being transplanted. Remarkably, immunological graft rejection rates in DSAEK are much lower than PK. DSAEK is also much less invasive to the recipient eye with less post-operative inflammatory drive and less neurotrophic effect. 115 Price et al published a 5-year graft rejection rate of 7.9% after DSAEK, 116 the Singapore Corneal Transplant Registry documented a 5.0% rejection rate at 5-year follow-up (14.1% for PK in the same dataset), 117 while Madi et al reported on 3.9% of rejection episode after UT-DSAEK. 111 Australian registry data found 13% of graft failure in DSAEK was due to irreversible rejection. 75 The reported long-term loss of endothelial cell density was 48–67% at 5-year follow-up post-DSAEK. 116 , 119 , 120 Initial endothelial cell loss in DSAEK was reported to be higher than in PK, followed by constant low-grade cell loss at a rate of 11.7% per year over 5 years. 115 The immediate post-operative cell loss was attributed to donor trauma during surgery. Late endothelial failure accounts for 32–100% of post-DSAEK graft failure. 121 Primary graft failure rate for DSAEK ranges from 0% to 29%, 122 in contrast to 0–12% after PK. 29 , 52 , 53 Other Complications 
+ Graft detachment is the most common post-DSAEK complication and is unique to endothelial keratoplasty. Risk factors for graft detachment include the inadequate size of the recipient stromal bed, eye rubbing, traumatic descemetorhexis, excessive surgical trauma or poorly orientated grafts. While most graft detachments can be recognised by corneal oedema or direct visualization of a double anterior chamber on slit-lamp biomicroscopy, anterior segment-optical coherence tomography (OCT) is a highly effective way of confirming detachments. Recent literature reports that the graft detachment rate is 0.7–14.8% of the cases after DSAEK. 111 , 117 Like most other forms of keratoplasty, raised IOP and glaucoma are well-recognised post-operative complications of DSAEK. In addition to the common corticosteroid-induced IOP elevation, a mechanical pupillary block by residual air left in the anterior chamber can lead to early post-operative acute glaucoma and if prolonged, aqueous misdirection. 123 , 124 An air bubble extending beyond the inferior pupillary border with the patient upright could hamper aqueous flow into the anterior chamber and trabecular meshwork, and the effect of air misdirection can be exaggerated in eyes with floppy iris and peripheral anterior synechiae formation. 125 Maier et al reported an incidence of post-DSAEK glaucoma in 11.9% of the cases. 126 Visual Outcome 
+ DSAEK provides predictable and superior visual outcomes with faster visual recovery in comparison to PK. 117 Woo et al reported 23.6% of the patients had BCVA 6/7.5 or better 3 years after DSAEK 117 ; van Rooij et al also found that BCVA of patients who had DSAEK was significantly better than those who had PK at 2-year follow-up (6/12 vs 6/15). 127 Spherical equivalent was not significantly different between DSAEK and PK, but significantly less post-operative astigmatism developed in DSAEK. 127 UT-DSAEK was also shown to deliver superior visual outcomes to PK (6/9.5 vs 6/15), 128 and 50% of the eyes had BCVA of 6/6 or above 5-years post procedure. 111 In comparison to DSAEK, UT-DSAEK was found to provide significantly better post-operative BCVA at 12-months follow-up (6/7.5 vs 6/9.5) in a clinical trial, but no difference in spherical equivalent was demonstrated. 129 Descemet Membrane Endothelial Keratoplasty 
+ After introducing DSAEK, Melles et al continued the advancement of lamellar surgery and described a new endothelial keratoplasty, termed Descemet membrane endothelial keratoplasty (DMEK). 130 With DMEK, a 10–15 μm thick graft tissue consisting of only DM and endothelium without any stroma is carefully prepared from donor corneas by a descemetorhexis. Owing to the ultrathin property of its graft tissue, DMEK provides faster visual rehabilitation, better visual outcomes, and lower immune rejection rates than DSAEK. 122 , 131 This ultrathin graft technique can be technically challenging, and time-consuming donor preparation and graft attachment have been reported as reasons that may have prevented the wider adoption of DMEK. 132 , 133 One of the most challenging aspects of this procedure is orientating the graft so that the endothelium is facing down into the AC. Several techniques have been developed to aid graft orientation, eg, intraoperative OCT, 134 ultrasound biomicroscopy, 135 and stamping, staining or tearing one side of the graft before insertion. 136 The indications for DMEK are similar, but not identical, to those of DSAEK. 
+ Graft Survival 
+ Single-centre, retrospective analysis has shown 5-year graft survival rates to be 90–95% in eyes that underwent DMEK. 116 , 117 , 137 , 138 The graft survival rate was said to be 62.5% in eyes with known confounding factors, 139 with prior trauma, glaucoma drainage device implant, previous failed keratoplasty shown to impact negatively on graft survival outcomes. 140 , 141 National registry data in Singapore demonstrated a superior graft survival of 97.4%, compared to the 78.4% and 54.6% in DSAEK and PK at 5-year, respectively. 117 Even in patients with PBK, an indication known to produce poorer graft survival outcomes, those who underwent DMEK still had better graft-survival outcomes of 94.7% at 5-years than DSAEK (61.7%). Graft Rejection 
+ Various studies have demonstrated noticeably lower rejection rates after DMEK (0.7–5%) than DSAEK (5–12%) 117 , 131 , 132 , 142 and PK (18–31%). 44 , 45 , 117 , 131 DMEK grafts are said to have 15 times lower risk of rejection than DSAEK 2 years after surgery, and this is thought to be due to the lack of stromal tissue being transplanted in DMEK cases. The Australian Corneal Graft Registry reports that graft failure rates caused by irreversible rejection were 9% for DMEK, compared to 13% and 28% for DSAEK and PK, respectively. 75 It is also worth noting that rejection episodes after DMEK may be under-recognised as some patients may be asymptomatic. 143 , 144 Regarding endothelial cell loss, most studies found no statistically significant difference between DMEK and DSAEK at 6 months (31% vs 30%), 145 1 year (44% vs 41%) 146 and 5 years. 116 Primary graft failure for DMEK ranges from 0% to 12.5% 122 while late endothelial failure accounts for 20% of graft failure within 5 years of post-operative follow-up. 116 Other Complications 
+ As is the case for DSAEK, graft detachment was the most common complication of DMEK. Early publications on DMEK report a graft detachment rate of 30% 130 and partial detachment rates of 62–63%. 132 , 133 , 147 As the surgical learning curve of DMEK increases, graft detachments can be reduced to around 4–34.6%. 144 Although some authors have suggested that the tighter DMEK scroll from younger donors is more challenging to unfold 148 , 149 and therefore postulate that younger donor age may be associated with a higher risk of graft detachment, 150 others have demonstrated that there is no correlation between donor age and increased re-bubbling rates. 151 , 152 While most partial graft detachments may not necessitate intervention, 153 0.2–75% of the cases were reported to require post-operative re-bubbling. 122 Some authors suggest that re-bubbling and hyperinflation significantly impact on endothelial cell survival. 154 In contrast, others argue that earlier re-bubbling provides a better visual outcome and reduces the risk of corneal scarring without affecting endothelial cell density. 144 , 155 The literature would suggest that the graft detachment rate of DMEK tends to be higher than that of DSAEK, likely due to the tendency of the graft edge to scroll up inherently and peel itself away from the recipient cornea. Moreover, the graft detachment rate in DMEK is probably underestimated as subtle peripheral detachments may not be reported as they are unlikely to require further intervention. 
+ Post-operative IOP elevation is the second most common complication after DMEK. The mechanisms of raised IOP after DMEK are largely the same as those described in DSAEK. The reported incidence of steroid-induced raised IOP ranged from 1.6% to 25%, 156–160 whereas the rates of pupillary block were 2.7–15.4%. 159 , 160 Judicious tapering of the post-operative steroid regimen, concurrent use of anti-glaucomatous treatments and inferior iridotomy to prevent pupillary block are effective methods for managing IOP elevation after endothelial keratoplasty. 161 The incidence of post-operative glaucoma was reported to be lower after endothelial keratoplasty than PK, 162 and IOP-lowering treatment was less likely to be required after endothelial keratoplasty. 163 Such discrepancies may be due to the variation in surgical indications, ie, endothelial keratoplasties are performed in eyes with endothelial decompensation alone, whereas PK is usually reserved for eyes with more severely disorganised anterior segments. 164 , 165 Graft failure rate after DMEK is higher in eyes with prior glaucoma surgical interventions than eyes treated with IOP-lowering drops alone, 166 similar to the observation reported after PK and DSAEK. 167 , 168 The intermittent corneal touch of glaucoma drainage shunts and the chronic endothelial toxicity and proinflammatory state of aqueous after breaching the blood–aqueous barrier are some of the factors that may contribute to chronic endothelial damage. 169–171 Compared to DSAEK, DMEK has been shown to achieve a superior visual outcome (DMEK 40% vs DSAEK 15%, 1-year post-op BCVA 6/12 or higher) and lower rates of graft failure (DMEK 2% vs DSAEK 20%) in eyes with prior glaucoma surgical interventions. 172 Visual Outcome 
+ One of the main advantages of DMEK is the enhanced visual outcome compared to DSAEK due to a reduced interface effect. Previous studies have reported 32–85% of the patients achieving BCVA of 6/7.5 or better at 6 months after DMEK. 122 Registry data showed 42.9% and 31.3% of the patients attaining 6/7.5 BCVA at 1 and 3 years after DMEK. 75 Most comparative studies reported significantly better BCVA in patients with DMEK compared to PK, DSAEK, and even UT-DSAEK at 1 year (Woo et al: DMEK 6/9.5 vs DSAEK 6/19 vs UT-DSAEK 6/9.5 vs PK 6/38). 117 , 122 , 173 Funding Statement 
+ SL is supported by the National Institutes of Health Research (ACF-2019-06-009). Disclosure 
+ The authors report no conflicts of interest in this work. References 
+ 
+ 
+ 1. Gain P, Jullienne R, He Z, et al. Global survey of corneal transplantation and eye banking. JAMA Ophthalmol . 2016;134(2):167. doi: 10.1001/jamaophthalmol.2015.4776 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Mathews PM, Lindsley K, Aldave AJ, Akpek EK. Etiology of global corneal blindness and current practices of corneal transplantation: a focused review. Cornea . 2018;37:6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Streilein JW, Yamada J, Dana MR, Ksander BR. Anterior chamber-associated immune deviation, ocular immune privilege, and orthotopic corneal allografts. Transplant Proc . 1999;31(3):1472–1475. doi: 10.1016/S0041-1345(99)00010-X [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Wang HM, Kaplan HJ, Chan WC, Johnson M. The distribution and ontogeny of MHC antigens in murine ocular tissue. Invest Ophthalmol Vis Sci . 1987;28(8):1383–1389. [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Annual activity report - cornea activity. ODT clinical - NHS blood and transplant: annual activity report - cornea activity. Available from: https://nhsbtdbe.blob.core.windows.net/umbraco-assets-corp/19197/section-10-cornea-activity.pdf . Accessed June
+7, 2021. 
+ 
+ 
+ 6. Eye Bank Association of America. Statistical report. Available from: https://restoresight.org/wp-content/uploads/2020/04/2019-EBAA-Stat-Report-FINAL.pdf . Accessed August
+31, 2021. 
+ 
+ 
+ 7. DelMonte DW, Kim T. Anatomy and physiology of the cornea. J Cataract Refract Surg . 2011;37(3):588–598. doi: 10.1016/j.jcrs.2010.12.037 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Barrera V, Troughton LD, Iorio V, et al. Differential distribution of laminin n-terminus α31 across the ocular surface: implications for corneal wound repair. Invest Ophthalmol Vis Sci . 2018;59(10):4082–4093. doi: 10.1167/iovs.18-24037 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Cotsarelis G, Cheng SZ, Dong G, Sun TT, Lavker RM. Existence of slow-cycling limbal epithelial basal cells that can be preferentially stimulated to proliferate: implications on epithelial stem cells. Cell . 1989;57(2):201–209. doi: 10.1016/0092-8674(89)90958-6 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Pellegrini G, Golisano O, Paterna P, et al. Location and clonal analysis of stem cells and their differentiated progeny in the human ocular surface. J Cell Biol . 1999;145(4):769–782. doi: 10.1083/jcb.145.4.769 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Tseng SC. Concept and application of limbal stem cells. Eye (Lond) . 1989;3(Pt 2):141–157. doi: 10.1038/eye.1989.22 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Goldberg MF, Bron AJ. Limbal palisades of Vogt. Trans Am Ophthalmol Soc . 1982;80:155–171. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Townsend WM. The limbal palisades of Vogt. Trans Am Ophthalmol Soc . 1991;89:721–756. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Lehrer MS, Sun TT, Lavker RM. Strategies of epithelial repair: modulation of stem cell and transit amplifying cell proliferation. J Cell Sci . 1998;111(19):2867–2875. doi: 10.1242/jcs.111.19.2867 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Notara M, Alatza A, Gilfillan J, et al. In sickness and in health: corneal epithelial stem cell biology, pathology and therapy. Exp Eye Res . 2010;90(2):188–195. doi: 10.1016/j.exer.2009.09.023 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Dua HS, Forrester JV. Clinical patterns of corneal epithelial wound healing. Am J Ophthalmol . 1987;104(5):481–489. doi: 10.1016/S0002-9394(14)74105-4 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Dua HS, Gomes JAP. Clinical course of hurricane keratopathy. Br J Ophthalmol . 2000;84(3):285–288. doi: 10.1136/bjo.84.3.285 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Dua HS, Forrester JV. The corneoscleral limbus in human corneal epithelial wound healing. Am J Ophthalmol . 1990;110(6):646–656. doi: 10.1016/S0002-9394(14)77062-X [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Bourne WM, Nelson LR, Hodge DO. Central corneal endothelial cell changes over a ten-year period. Invest Ophthalmol Vis Sci . 1997;38(3):779–782. [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Møller-Pedersen T. A comparative study of human corneal keratocyte and endothelial cell density during aging. Cornea . 1997;16(3):333–338. [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Zhang AQ, Rubenstein D, Price AJ, et al. Evolving surgical techniques of and indications for corneal transplantation in Ontario: 2000–2012. Can J Ophthalmol . 2013;48(3):153–159. doi: 10.1016/j.jcjo.2012.12.008 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Le R, Yucel N, Khattak S, Yucel YH, Prud’homme GJ, Gupta N. Current indications and surgical approaches to corneal transplants at the University of Toronto: a clinical-pathological study. Can J Ophthalmol . 2017;52(1):74–79. doi: 10.1016/j.jcjo.2016.07.005 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Flockerzi E, Maier P, Böhringer D, et al. Trends in corneal transplantation from 2001 to 2016 in Germany: a report of the DOG–section cornea and its keratoplasty registry. Am J Ophthalmol . 2018;188:91–98. doi: 10.1016/j.ajo.2018.01.018 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Darlington JK, Adrean SD, Schwab IR. Trends of penetrating keratoplasty in the United States from 1980 to 2004. Ophthalmology . 2006;113(12):2171–2175. doi: 10.1016/j.ophtha.2006.06.034 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Wang J, Hasenfus A, Schirra F, Bohle RM, Seitz B, Szentmáry N. Changing indications for penetrating keratoplasty in Homburg/Saar from 2001 to 2010—histopathology of 1200 corneal buttons. Graefes Arch Clin Exp Ophthalmol . 2013;251(3):797–802. doi: 10.1007/s00417-012-2117-2 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Stewart RMK, Jones MNA, Batterbury M, Tole D, Larkin DFP, Kaye SB. Effect of glaucoma on corneal graft survival according to indication for penetrating keratoplasty. Am J Ophthalmol . 2011;151(2):257–262.e1. doi: 10.1016/j.ajo.2010.08.018 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Matthaei M, Sandhaeger H, Hermel M, et al. Changing indications in penetrating keratoplasty: a systematic review of 34 years of global reporting. Transplantation . 2017;101(6):1387–1399. doi: 10.1097/TP.0000000000001281 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Thompson RW, Price MO, Bowers PJ, Price FW. Long-term graft survival after penetrating keratoplasty. Ophthalmology . 2003;110(7):1396–1402. doi: 10.1016/S0161-6420(03)00463-9 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Mannis MJ, Holland EJ, Gal RL; Writing Committee for the Cornea Donor Study Research Group. The effect of donor age on penetrating keratoplasty for endothelial disease: graft survival after 10 years in the Cornea Donor Study. Ophthalmology . 2013;120(12):2419–2427. doi: 10.1016/j.ophtha.2013.08.026 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Fukuoka S, Honda N, Ono K, Mimura T, Usui T, Amano S. Extended long-term results of penetrating keratoplasty for keratoconus. Cornea . 2010;29(5):528–530. doi: 10.1097/ICO.0b013e3181c29705 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Patel SV, Hodge DO, Bourne WM. Corneal endothelium and postoperative outcomes 15 years after penetrating keratoplasty. Am J Ophthalmol . 2005;139(2):311–319. doi: 10.1016/j.ajo.2004.09.045 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Inoue K, Amano S, Oshika T, Tsuru T. Risk factors for corneal graft failure and rejection in penetrating keratoplasty. Acta Ophthalmologica Scandinavica . 2001;79(3):251–255. doi: 10.1034/j.1600-0420.2001.790308.x [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Pramanik S, Musch DC, Sutphin JE, Farjo AA. Extended long-term outcomes of penetrating keratoplasty for keratoconus. Ophthalmology . 2006;113(9):1633–1638. doi: 10.1016/j.ophtha.2006.02.058 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Paglen PG, Fine M, Abbott RL, Webster RG. The prognosis for keratoplasty in keratoconus. Ophthalmology . 1982;89(6):651–654. doi: 10.1016/S0161-6420(82)34753-3 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Dunker SL, Armitage WJ, Armitage M, et al. Outcomes of corneal transplantation in Europe: report by the European Cornea and Cell Transplantation Registry. J Cataract Refract Surg . 2021;47(6):780–785. doi: 10.1097/j.jcrs.0000000000000520 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Williams KA, Lowe M, Bartlett C, Kelly TL, Coster DJ; Contributors on B of A. Risk factors for human corneal graft failure within the Australian corneal graft registry. Transplantation . 2008;86(12):1720–1724. doi: 10.1097/TP.0b013e3181903b0a [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Muraine M, Sanchez C, Watt L, Retout A, Brasseur G. Long-term results of penetrating keratoplasty. A 10-year-plus retrospective study. Graefes Arch Clin Exp Ophthalmol . 2003;241(7):571–576. doi: 10.1007/s00417-003-0691-z [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Joshi SA, Jagdale SS, More PD, Deshpande M. Outcome of optical penetrating keratoplasties at a tertiary care eye institute in Western India. Indian J Ophthalmol . 2012;60(1):15–21. doi: 10.4103/0301-4738.91337 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Arya SK, Raj A, Bamotra RK, Bhatti A, Deswal J, Sindhu M. Indications and graft survival analysis in optical penetrating keratoplasty in a tertiary care center in North India: a 5-year study. Int Ophthalmol . 2018;38(4):1669–1679. doi: 10.1007/s10792-017-0641-0 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Teenan DW, Sim KT, Hawksworth NR. Outcomes of corneal transplantation: a corneal surgeon vs the general ophthalmologist. Eye . 2003;17(6):727–730. doi: 10.1038/sj.eye.6700486 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Beckingsale P, Mavrikakis I, Al‐Yousuf N, Mavrikakis E, Daya SM. Penetrating keratoplasty: outcomes from a corneal unit compared to national data. Br J Ophthalmol . 2006;90(6):728–731. doi: 10.1136/bjo.2005.086272 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Coster DJ, Williams KA. The impact of corneal allograft rejection on the long-term outcome of corneal transplantation. Am J Ophthalmol . 2005;140(6):1112–1122. doi: 10.1016/j.ajo.2005.07.024 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Waldock A, Cook SD. Corneal transplantation: how successful are we?
+ Br J Ophthalmol . 2000;84(8):813–815. doi: 10.1136/bjo.84.8.813 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Rahman I, Carley F, Hillarby C, Brahma A, Tullo AB. Penetrating keratoplasty: indications, outcomes, and complications. Eye . 2009;23(6):1288–1294. doi: 10.1038/eye.2008.305 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Olson RJ, Pingree M, Ridges R, Lundergan ML, Alldredge C, Clinch TE. Penetrating keratoplasty for keratoconus: a long-term review of results and complications. J Cataract Refract Surg . 2000;26(7):987–991. doi: 10.1016/s0886-3350(00)00430-2 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Claerhout I, Beele H, Kestelyn P. Graft failure: I. Endothelial cell loss. Int Ophthalmol . 2008;28(3):165–173. doi: 10.1007/s10792-007-9087-0 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Inoue K, Kimura C, Amano S, Oshika T, Tsuru T. Corneal endothelial cell changes twenty years after penetrating keratoplasty. Jpn J Ophthalmol . 2002;46(2):189–192. doi: 10.1016/s0021-5155(01)00485-3 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Borderie VM, Boëlle PY, Touzeau O, Allouch C, Boutboul S, Laroche L. Predicted long-term outcome of corneal transplantation. Ophthalmology . 2009;116(12):2354–2360. doi: 10.1016/j.ophtha.2009.05.009 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Cornea Donor Study Investigator Group. Donor age and corneal endothelial cell loss 5 years after successful corneal transplantation: specular microscopy ancillary study results. Ophthalmology . 2008;115(4):627–632.e8. doi: 10.1016/j.ophtha.2008.01.004 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Kubaloglu A, Koytak A, Sari ES, Akyol S, Kurnaz E, Ozerturk Y. Corneal endothelium after deep anterior lamellar keratoplasty and penetrating keratoplasty for keratoconus: a four-year comparative study. Indian J Ophthalmol . 2012;60(1):35. doi: 10.4103/0301-4738.90490 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Armitage WJ, Dick AD, Bourne WM. Predicting endothelial cell loss and long-term corneal graft survival. Invest Ophthalmol Vis Sci . 2003;44(8):3326–3331. doi: 10.1167/iovs.02-1255 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Fasolo A, Capuzzo C, Fornea M, et al. Risk factors for graft failure after penetrating keratoplasty: 5-year follow-up from the corneal transplant epidemiological study. Cornea . 2011;30(12):1328–1335. doi: 10.1097/ICO.0b013e318206895a [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Kelly TL. Corneal transplantation for keratoconus: a registry study. Arch Ophthalmol . 2011;129(6):691. doi: 10.1001/archophthalmol.2011.7 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Dada T, Aggarwal A, Minudath K, et al. Post-penetrating keratoplasty glaucoma. Indian J Ophthalmol . 2008;56(4):269–277. doi: 10.4103/0301-4738.41410 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Wu S, Xu J, Ahmad A. Incidence and risk factors for post-penetrating keratoplasty glaucoma: a systematic review and meta-analysis. PLoS One . 2017;12(4):e0176261. doi: 10.1371/journal.pone.0176261 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Sugar A, Tanner JP, Dontchev M, et al. Recipient risk factors for graft failure in the cornea donor study. Ophthalmology . 2009;116(6):1023–1028. doi: 10.1016/j.ophtha.2008.12.050 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Vajpayee RB, Sharma N, Sinha R, Agarwal T, Singhvi A. Infectious keratitis following keratoplasty. Surv Ophthalmol . 2007;52(1):1–12. doi: 10.1016/j.survophthal.2006.10.001 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Griffin B, Walkden A, Okonkwo A, Au L, Brahma A, Carley F. Microbial keratitis in corneal transplants: a 12-year analysis. OPTH . 2020;14:3591–3597. doi: 10.2147/OPTH.S275067 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Bates AK, Kirkness CM, Ficker LA, Steele AD, Rice NS. Microbial keratitis after penetrating keratoplasty. Eye (Lond) . 1990;4(Pt 1):74–78. doi: 10.1038/eye.1990.8 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Sun JP, Chen WL, Huang JY, Hou YC, Wang IJ, Hu FR. Microbial keratitis after penetrating keratoplasty. Am J Ophthalmol . 2017;178:150–156. doi: 10.1016/j.ajo.2017.03.022 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Wright TM, Afshari NA. Microbial keratitis following corneal transplantation. Am J Ophthalmol . 2006;142(6):1061–1062. doi: 10.1016/j.ajo.2006.06.051 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Dandona L, Naduvilath TJ, Janarthanan M, Ragu K, Rao GN. Survival analysis and visual outcome in a large series of corneal transplants in India. Br J Ophthalmol . 1997;81(9):726–731. doi: 10.1136/bjo.81.9.726 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Raj A, Gupta N, Dhasmana R, Nagpal RC, Bahadur H, Maitreya A. Indications and visual outcome of penetrating keratoplasty in tertiary eye care institute in Uttarakhand. J Clin Diagn Res . 2016;10(6):NC01–NC04. doi: 10.7860/JCDR/2016/16709.7954 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Sugita J, Kondo J. Deep lamellar keratoplasty with complete removal of pathological stroma for vision improvement. Br J Ophthalmol . 1997;81(3):184–188. doi: 10.1136/bjo.81.3.184 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. van Dooren BTH, Mulder PGH, Nieuwendaal CP, Beekhuis WH, Melles GRJ. Endothelial cell density after deep anterior lamellar keratoplasty (Melles technique). Am J Ophthalmol . 2004;137(3):397–400. doi: 10.1016/j.ajo.2003.09.053 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Anwar M, Teichmann KD. Big-bubble technique to bare Descemet’s membrane in anterior lamellar keratoplasty. J Cataract Refract Surg . 2002;28(3):398–403. doi: 10.1016/s0886-3350(01)01181-6 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Gomes JAP, Tan D, Rapuano CJ, et al. Global consensus on keratoconus and ectatic diseases. Cornea . 2015;34(4):359–369. doi: 10.1097/ICO.0000000000000408 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Reinhart WJ, Musch DC, Jacobs DS, Lee WB, Kaufman SC, Shtein RM. Deep anterior lamellar keratoplasty as an alternative to penetrating keratoplasty: a report by the American Academy of Ophthalmology. Ophthalmology . 2011;118(1):209–218. doi: 10.1016/j.ophtha.2010.11.002 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Sogutlu Sari E, Kubaloglu A, Unal M, et al. Deep anterior lamellar keratoplasty versus penetrating keratoplasty for macular corneal dystrophy: a randomized trial. Am J Ophthalmol . 2013;156(2):267–274.e1. doi: 10.1016/j.ajo.2013.03.007 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Sabatino F, Sarnicola E, Sarnicola C, et al. Early deep anterior lamellar keratoplasty for fungal keratitis poorly responsive to medical treatment. Eye (Lond) . 2017;31(12):1639–1646. doi: 10.1038/eye.2017.228 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Arundhati A, Chew MC, Lim L, et al. Comparative study of long-term graft survival between penetrating keratoplasty and deep anterior lamellar keratoplasty. Am J Ophthalmol . 2020;224:207–216. doi: 10.1016/j.ajo.2020.11.006 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Kasbekar SA, Jones MNA, Ahmad S, Larkin DFP, Kaye SB; Ocular Tissue Advisory Group (audit study 15). Corneal transplant surgery for keratoconus and the effect of surgeon experience on deep anterior lamellar keratoplasty outcomes. Am J Ophthalmol . 2014;158(6):1239–1246. doi: 10.1016/j.ajo.2014.08.029 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Romano V, Iovieno A, Parente G, Soldani AM, Fontana L. Long-term clinical outcomes of deep anterior lamellar keratoplasty in patients with keratoconus. Am J Ophthalmol . 2015;159(3):505–511. doi: 10.1016/j.ajo.2014.11.033 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Guan M, Zhao W, Zhang Y, et al. Graft survival rate of deep anterior lamellar keratoplasty for keratoconus: a meta-analysis. Medicine (Baltimore) . 2018;97(28):e11404. doi: 10.1097/MD.0000000000011404 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Williams KA, Keane MC, Coffey NE, Jones VJ, Mills RA, Coster DJ. The Australian corneal graft registry 2018 report. South Australian Health and Medical Research Institute; 2018. Available from: https://dspace.flinders.edu.au/xmlui/handle/2328/37917 . Accessed May
+2, 2021. [ Google Scholar ] 
+ 
+ 76. Feizi S, Javadi MA, Jamali H, Mirbabaee F. Deep anterior lamellar keratoplasty in patients with keratoconus: big-bubble technique. Cornea . 2010;29(2):177–182. doi: 10.1097/ICO.0b013e3181af25b7 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Keane M, Coster D, Ziaei M, Williams K. Deep anterior lamellar keratoplasty versus penetrating keratoplasty for treating keratoconus. Cochrane Database Syst Rev . 2014;(7):CD009700. doi: 10.1002/14651858.CD009700.pub2 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Song Y, Zhang J, Pan Z. Systematic review and meta-analysis of clinical outcomes of penetrating keratoplasty versus deep anterior lamellar keratoplasty for keratoconus. Exp Clin Transplant . 2020;18(4):417–428. doi: 10.6002/ect.2019.0123 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Sarnicola V, Toro P, Sarnicola C, Sarnicola E, Ruggiero A. Long-term graft survival in deep anterior lamellar keratoplasty. Cornea . 2012;31(6):621–626. doi: 10.1097/ICO.0b013e31823d0412 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Salouti R, Masoumpour M, Nowroozzadeh MH, Zamani M, Ghoreyshi M, Melles GRJ. Changes in corneal endothelial cell profile measurements after deep anterior lamellar keratoplasty for keratoconus. Cornea . 2013;32(6):751–756. doi: 10.1097/ICO.0b013e31826cbd44 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Huang OS, Mehta JS, Htoon HM, Tan DT, Wong TT. Incidence and risk factors of elevated intraocular pressure following deep anterior lamellar keratoplasty. Am J Ophthalmol . 2016;170:153–160. doi: 10.1016/j.ajo.2016.07.025 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Maurino V, Aiello F. Glaucoma risks in advanced corneal surgery. Prog Brain Res . 2015;221:271–295. doi: 10.1016/bs.pbr.2015.06.009 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Han DCY, Mehta JS, Por YM, Htoon HM, Tan DTH. Comparison of outcomes of lamellar keratoplasty and penetrating keratoplasty in keratoconus. Am J Ophthalmol . 2009;148(5):744–751.e1. doi: 10.1016/j.ajo.2009.05.028 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Haddadin RI, Chodosh J. Corneal transplantation and glaucoma. Semin Ophthalmol . 2014;29(5–6):380–396. doi: 10.3109/08820538.2014.959201 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Tan DTH, Anshu A, Parthasarathy A, Htoon HM. Visual acuity outcomes after deep anterior lamellar keratoplasty: a case-control study. Br J Ophthalmol . 2010;94(10):1295–1299. doi: 10.1136/bjo.2009.167528 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Ritterband DC, Shapiro D, Trubnik V, et al. Penetrating keratoplasty with pars plana glaucoma drainage devices. Cornea . 2007;26(9):1060–1066. doi: 10.1097/ICO.0b013e3181342835 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Zhang YM, Wu SQ, Yao YF. Long-term comparison of full-bed deep anterior lamellar keratoplasty and penetrating keratoplasty in treating keratoconus. J Zhejiang Univ Sci B . 2013;14(5):438–450. doi: 10.1631/jzus.B1200272 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Aldave AJ, DeMatteo J, Glasser DB, et al. Report of the Eye Bank Association of America medical advisory board subcommittee on fungal infection after corneal transplantation. Cornea . 2013;32(2):149–154. doi: 10.1097/ICO.0b013e31825e83bf [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Den S, Shimmura S, Tsubota K, Shimazaki J. Impact of the Descemet membrane perforation on surgical outcomes after deep lamellar keratoplasty. Am J Ophthalmol . 2007;143(5):750–754. doi: 10.1016/j.ajo.2007.01.053 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Shimmura S, Tsubota K. Deep anterior lamellar keratoplasty. Curr Opin Ophthalmol . 2006;17(4):349–355. doi: 10.1097/01.icu.0000233953.09595.91 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. Anwar M, Teichmann KD. Deep lamellar keratoplasty: surgical techniques for anterior lamellar keratoplasty with and without baring of Descemet’s membrane. Cornea . 2002;21(4):374–383. doi: 10.1097/00003226-200205000-00009 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. Unal M, Bilgin B, Yucel I, Akar Y, Apaydin C. Conversion to deep anterior lamellar keratoplasty (DALK): learning curve with big-bubble technique. Ophthalmic Surg Lasers Imaging . 2010;41(6):642–650. doi: 10.3928/15428877-20100929-09 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 93. Gadhvi KA, Romano V, Cueto LFV, Aiello F, Day AC, Allan BD. Deep anterior lamellar keratoplasty for keratoconus: multisurgeon results. Am J Ophthalmol . 2019;201:54–62. doi: 10.1016/j.ajo.2019.01.022 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 94. Schaub F, Heindl LM, Enders P, Roters S, Bachmann BO, Cursiefen C. Tiefe anteriore lamelläre keratoplastik. Ophthalmologe . 2017;114(11):1019–1026. doi: 10.1007/s00347-016-0424-4 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 95. Myerscough J, Friehmann A, Bovone C, Mimouni M, Busin M. Evaluation of the risk factors associated with conversion of intended deep anterior lamellar keratoplasty to penetrating keratoplasty. Br J Ophthalmol . 2020;104(6):764–767. doi: 10.1136/bjophthalmol-2019-314352 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 96. Kanavi MR, Foroutan AR, Kamel MR, Afsar N, Javadi MA. Candida interface keratitis after deep anterior lamellar keratoplasty: clinical, microbiologic, histopathologic, and confocal microscopic reports. Cornea . 2007;26(8):913–916. doi: 10.1097/ICO.0b013e3180ca9a61 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 97. Fontana L, Parente G, Di Pede B, Tassinari G. Candida albicans interface infection after deep anterior lamellar keratoplasty. Cornea . 2007;26(7):883–885. doi: 10.1097/ICO.0b013e318074e475 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 98. Jie-liang S, Yi-fan F, Ji-guo YU, Qin-mei W. Meta analysis of deep lamellar keratoplasty and penetrating keratoplasty for keratoconus. Chin J Exp Ophthalmol . 2012;2012(10):926–931. [ Google Scholar ] 
+ 
+ 99. Henein C, Nanavaty MA. Systematic review comparing penetrating keratoplasty and deep anterior lamellar keratoplasty for management of keratoconus. Cont Lens Anterior Eye . 2017;40(1):3–14. doi: 10.1016/j.clae.2016.10.001 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 100. Tillett CW. Posterior lamellar keratoplasty. Am J Ophthalmol . 1956;41(3):530–533. doi: 10.1016/0002-9394(56)91269-7 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 101. Barraquer-Somers E, Chan CC, Green WR. Corneal epithelial iron deposition. Ophthalmology . 1983;90(6):729–734. doi: 10.1016/S0161-6420(83)34519-X [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 102. Melles GR, Eggink FA, Lander F, et al. A surgical technique for posterior lamellar keratoplasty. Cornea . 1998;17(6):618–626. doi: 10.1097/00003226-199811000-00010 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 103. Terry MA, Ousley PJ. Deep lamellar endothelial keratoplasty in the first United States patients: early clinical results. Cornea . 2001;20(3):239–243. doi: 10.1097/00003226-200104000-00001 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 104. Patel SV. Graft survival and endothelial outcomes in the new era of endothelial keratoplasty. Exp Eye Res . 2012;95(1):40–47. doi: 10.1016/j.exer.2011.05.013 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 105. Price MO, Gupta P, Lass J, Price FW. EK (DLEK, DSEK, DMEK): new frontier in cornea surgery. Annu Rev Vis Sci . 2017;3:69–90. doi: 10.1146/annurev-vision-102016-061400 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 106. Melles GRJ, Wijdh RHJ, Nieuwendaal CP. A technique to excise the Descemet membrane from a recipient cornea (descemetorhexis). Cornea . 2004;23(3):286–288. doi: 10.1097/00003226-200404000-00011 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 107. Gorovoy MS. Descemet-stripping automated endothelial keratoplasty. Cornea . 2006;25(8):886–889. doi: 10.1097/01.ico.0000214224.90743.01 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 108. Neff KD, Biber JM, Holland EJ. Comparison of central corneal graft thickness to visual acuity outcomes in endothelial keratoplasty. Cornea . 2011;30(4):388–391. doi: 10.1097/ICO.0b013e3181f236c6 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 109. Feizi S, Javadi MA. Effect of donor graft thickness on clinical outcomes after Descemet stripping automated endothelial keratoplasty. J Ophthalmic Vis Res . 2019;14(1):18–26. doi: 10.4103/jovr.jovr_55_17 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 110. Shinton AJ, Tsatsos M, Konstantopoulos A, et al. Impact of graft thickness on visual acuity after Descemet’s stripping endothelial keratoplasty. Br J Ophthalmol . 2012;96(2):246–249. doi: 10.1136/bjophthalmol-2011-300462 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 111. Madi S, Leon P, Nahum Y, Giannaccare G, Beltz J, Busin M. Five-year outcomes of ultrathin Descemet stripping automated endothelial keratoplasty. Cornea . 2019;38(9):6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 112. Anshu A, Price MO, Tan DTH, Price FW. Endothelial keratoplasty: a revolution in evolution. Surv Ophthalmol . 2012;57(3):236–252. doi: 10.1016/j.survophthal.2011.10.005 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 113. Ple-Plakon PA, Shtein RM. Trends in corneal transplantation: indications and techniques. Curr Opin Ophthalmol . 2014;25(4):300–305. doi: 10.1097/ICU.0000000000000080 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 114. Price MO, Gorovoy M, Benetz BA, et al. Descemet’s stripping automated endothelial keratoplasty outcomes compared with penetrating keratoplasty from the Cornea Donor Study. Ophthalmology . 2010;117(3):438–444. doi: 10.1016/j.ophtha.2009.07.036 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 115. Fajgenbaum MAP, Hollick EJ. Modeling endothelial cell loss after Descemet stripping endothelial keratoplasty: data from 5 years of follow-up. Cornea . 2017;36(5):553–560. doi: 10.1097/ICO.0000000000001177 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 116. Price DA, Kelley M, Price FW, Price MO. Five-year graft survival of Descemet membrane endothelial keratoplasty (EK) versus Descemet stripping EK and the effect of donor sex matching. Ophthalmology . 2018;125(10):1508–1514. doi: 10.1016/j.ophtha.2018.03.050 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 117. Woo JH, Ang M, Htoon HM, Tan D. Descemet membrane endothelial keratoplasty versus Descemet stripping automated endothelial keratoplasty and penetrating keratoplasty. Am J Ophthalmol . 2019;207:288–303. doi: 10.1016/j.ajo.2019.06.012 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 118. Dickman MM, Peeters JM, van den Biggelaar FJ, et al. Changing practice patterns and long-term outcomes of endothelial versus penetrating keratoplasty: a prospective Dutch registry study. Am J Ophthalmol . 2016;170:133–142. doi: 10.1016/j.ajo.2016.07.024 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 119. Ang M, Soh Y, Htoon HM, Mehta JS, Tan D. Five-year graft survival comparing Descemet stripping automated endothelial keratoplasty and penetrating keratoplasty. Ophthalmology . 2016;123(8):1646–1652. doi: 10.1016/j.ophtha.2016.04.049 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 120. Wacker K, Baratz KH, Maguire LJ, McLaren JW, Patel SV. Descemet stripping endothelial keratoplasty for Fuchs’ endothelial corneal dystrophy: five-year results of a prospective study. Ophthalmology . 2016;123(1):154–160. doi: 10.1016/j.ophtha.2015.09.023 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 121. Alio JL, Montesel A, El Sayyad F, Barraquer RI, Arnalich-Montiel F, Alio Del Barrio JL. Corneal graft failure: an update. Br J Ophthalmol . 2020;bjophthalmol-2020-316705. doi: 10.1136/bjophthalmol-2020-316705 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 122. Deng SX, Lee WB, Hammersmith KM, et al. Descemet membrane endothelial keratoplasty: safety and outcomes: a report by the American Academy of Ophthalmology. Ophthalmology . 2018;125(2):295–310. doi: 10.1016/j.ophtha.2017.08.015 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 123. Lee JS, Desai NR, Schmidt GW, et al. Secondary angle closure caused by air migrating behind the pupil in Descemet stripping endothelial keratoplasty. Cornea . 2009;28(6):652–656. doi: 10.1097/ICO.0b013e318191b883 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 124. Price FW, Price MO. Descemet’s stripping with endothelial keratoplasty in 200 eyes: early challenges and techniques to enhance donor adherence. J Cataract Refract Surg . 2006;32(3):411–418. doi: 10.1016/j.jcrs.2005.12.078 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 125. Banitt MR, Chopra V. Descemet’s stripping with automated endothelial keratoplasty and glaucoma. Curr Opin Ophthalmol . 2010;21(2):144–149. doi: 10.1097/ICU.0b013e3283360b95 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 126. Maier AKB, Klamann MKJ, Torun N, et al. Intraocular pressure elevation and post-DSEK glaucoma after Descemet`s stripping endothelial keratoplasty. Graefes Arch Clin Exp Ophthalmol . 2013;251(4):1191–1198. doi: 10.1007/s00417-012-2203-5 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 127. van Rooij J, Lucas EH, Geerards AJ, Remeijer L, Wubbels R. Corneal transplantation for Fuchs´ endothelial dystrophy: a comparison of three surgical techniques concerning 10 year graft survival and visual function. PLoS One . 2018;13(10):e0203993. doi: 10.1371/journal.pone.0203993 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 128. Castellucci M, Novara C, Casuccio A, et al. Bilateral ultrathin Descemet’s stripping automated endothelial keratoplasty vs. bilateral penetrating keratoplasty in Fuchs’ dystrophy: corneal higher-order aberrations, contrast sensitivity and quality of life. Medicina (Kaunas) . 2021;57(2). doi: 10.3390/medicina57020133 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 129. Dickman MM, Kruit PJ, Remeijer L, et al. A randomized multicenter clinical trial of ultrathin Descemet stripping automated endothelial keratoplasty (DSAEK) versus DSAEK. Ophthalmology . 2016;123(11):2276–2284. doi: 10.1016/j.ophtha.2016.07.036 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 130. Melles GRJ, Ong TS, Ververs B, van der Wees J. Preliminary clinical results of Descemet membrane endothelial keratoplasty. Am J Ophthalmol . 2008;145(2):222–227. doi: 10.1016/j.ajo.2007.09.021 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 131. Anshu A, Price MO, Price FW. Risk of corneal transplant rejection significantly reduced with Descemet’s membrane endothelial keratoplasty. Ophthalmology . 2012;119(3):536–540. doi: 10.1016/j.ophtha.2011.09.019 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 132. Guerra FP, Anshu A, Price MO, Giebel AW, Price FW. Descemet’s membrane endothelial keratoplasty: prospective study of 1-year visual outcomes, graft survival, and endothelial cell loss. Ophthalmology . 2011;118(12):2368–2373. doi: 10.1016/j.ophtha.2011.06.002 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 133. Price MO, Giebel AW, Fairchild KM, Price FW. Descemet’s membrane endothelial keratoplasty: prospective multicenter study of visual and refractive outcomes and endothelial survival. Ophthalmology . 2009;116(12):2361–2368. doi: 10.1016/j.ophtha.2009.07.010 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 134. Saad A, Guilbert E, Grise-Dulac A, Sabatier P, Gatinel D. Intraoperative OCT-assisted DMEK: 14 consecutive cases. Cornea . 2015;34(7):802–807. doi: 10.1097/ICO.0000000000000462 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 135. Nahum Y, Galor O, Atar M, Bahar I, Livny E. Real-time intraoperative ultrasound biomicroscopy for determining graft orientation during Descemet’s membrane endothelial keratoplasty. Acta Ophthalmol . 2021;99(1):e96–e100. doi: 10.1111/aos.14515 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 136. Livny E, Bahar I, Nahum Y. “Ghost DMEK” technique: circular peripheral staining of Descemet’s membrane endothelial keratoplasty grafts. Cornea . 2019;38(2):252–255. doi: 10.1097/ICO.0000000000001816 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 137. Birbal RS, Ni Dhubhghaill S, Bourgonje VJA, et al. Five-year graft survival and clinical outcomes of 500 consecutive cases after Descemet membrane endothelial keratoplasty. Cornea . 2020;39(3):290–297. doi: 10.1097/ICO.0000000000002120 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 138. Schlögl A, Tourtas T, Kruse FE, Weller JM. Long-term clinical outcome after Descemet membrane endothelial keratoplasty. Am J Ophthalmol . 2016;169:218–226. doi: 10.1016/j.ajo.2016.07.002 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 139. Bayyoud T, Gelisken F, Rohrbach JM, Blumenstock G, Bartz-Schmidt KU, Thaler S. Outcomes after Descemet membrane endothelial keratoplasty over a period of 7 years at a tertiary referral center: endothelial cell density, central corneal thickness, and visual acuity. Graefes Arch Clin Exp Ophthalmol . 2021;259:1907–1914. doi: 10.1007/s00417-021-05152-w [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 140. Birbal RS, Tong CM, Dapena I, et al. Clinical outcomes of Descemet membrane endothelial keratoplasty in eyes with a glaucoma drainage device. Am J Ophthalmol . 2019;199:150–158. doi: 10.1016/j.ajo.2018.11.014 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 141. Pasari A, Price MO, Feng MT, Price FW. Descemet membrane endothelial keratoplasty for failed penetrating keratoplasty: visual outcomes and graft survival. Cornea . 2019;38(2):151–156. doi: 10.1097/ICO.0000000000001763 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 142. Li JY, Terry MA, Goshe J, Shamie N, Davis-Boozer D. Graft rejection after Descemet’s stripping automated endothelial keratoplasty: graft survival and endothelial cell loss. Ophthalmology . 2012;119(1):90–94. doi: 10.1016/j.ophtha.2011.07.007 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 143. Hos D, Tuac O, Schaub F, et al. Incidence and clinical course of immune reactions after dDescemet membrane endothelial keratoplasty: retrospective analysis of 1000 consecutive eyes. Ophthalmology . 2017;124(4):512–518. doi: 10.1016/j.ophtha.2016.12.017 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 144. Ang M, Wilkins MR, Mehta JS, Tan D. Descemet membrane endothelial keratoplasty. Br J Ophthalmol . 2016;100(1):15–21. doi: 10.1136/bjophthalmol-2015-306837 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 145. Singh A, Zarei-Ghanavati M, Avadhanam V, Liu C. Systematic review and meta-analysis of clinical outcomes of Descemet membrane endothelial keratoplasty versus Descemet stripping endothelial keratoplasty/Descemet stripping automated endothelial keratoplasty. Cornea . 2017;36(11):1437–1443. doi: 10.1097/ICO.0000000000001320 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 146. Droutsas K, Lazaridis A, Papaconstantinou D, et al. Visual outcomes after Descemet membrane endothelial keratoplasty versus Descemet stripping automated endothelial keratoplasty—comparison of specific matched pairs. Cornea . 2016;35(6):765–771. doi: 10.1097/ICO.0000000000000822 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 147. Guerra FP, Anshu A, Price MO, Price FW. Endothelial keratoplasty: fellow eyes comparison of Descemet stripping automated endothelial keratoplasty and Descemet membrane endothelial keratoplasty. Cornea . 2011;30(12):1382–1386. doi: 10.1097/ICO.0b013e31821ddd25 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 148. Kruse FE, Schrehardt US, Tourtas T. Optimizing outcomes with Descemet’s membrane endothelial keratoplasty. Curr Opin Ophthalmol . 2014;25(4):325–334. doi: 10.1097/ICU.0000000000000072 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 149. Steven P, Le Blanc C, Velten K, et al. Optimizing Descemet membrane endothelial keratoplasty using intraoperative optical coherence tomography. JAMA Ophthalmol . 2013;131(9):1135–1142. doi: 10.1001/jamaophthalmol.2013.4672 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 150. Rodríguez-calvo de Mora M, Groeneveld-van Beek EA, Frank LE, et al. Association between graft storage time and donor age with endothelial cell density and graft adherence after Descemet membrane endothelial keratoplasty. JAMA Ophthalmol . 2016;134(1):91–94. doi: 10.1001/jamaophthalmol.2015.4499 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 151. Schaub F, Enders P, Zachewicz J, et al. Impact of donor age on Descemet membrane endothelial keratoplasty outcome: evaluation of donors aged 17–55 years. Am J Ophthalmol . 2016;170:119–127. doi: 10.1016/j.ajo.2016.08.005 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 152. Straiko MD, Bauer AJ, Straiko MMW, et al. Donor DMEK tissue characteristics: association with rebubble rate and 6-month endothelial cell loss. Cornea . 2020;39(10):1267–1273. doi: 10.1097/ICO.0000000000002398 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 153. Dirisamer M, van Dijk K, Dapena I, et al. Prevention and management of graft detachment in Descemet membrane endothelial keratoplasty. Arch Ophthalmol . 2012;130(3):280–291. doi: 10.1001/archophthalmol.2011.343 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 154. Feng MT, Price MO, Miller JM, Price FWJ. Air reinjection and endothelial cell density in Descemet membrane endothelial keratoplasty: five-year follow-up. J Cataract Refract Surg . 2014;40(7):1116–1121. doi: 10.1016/j.jcrs.2014.04.023 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 155. Baydoun L, van Dijk K, Dapena I, et al. Repeat Descemet membrane endothelial keratoplasty after complicated primary Descemet membrane endothelial keratoplasty. Ophthalmology . 2015;122(1):8–16. doi: 10.1016/j.ophtha.2014.07.024 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 156. Price MO, Scanameo A, Feng MT, Price FW. Descemet’s membrane endothelial keratoplasty: risk of immunologic rejection episodes after discontinuing topical corticosteroids. Ophthalmology . 2016;123(6):1232–1236. doi: 10.1016/j.ophtha.2016.02.001 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 157. Price MO, Price FW, Kruse FE, Bachmann BO, Tourtas T. Randomized comparison of topical prednisolone acetate 1% versus fluorometholone 0.1% in the first year after Descemet membrane endothelial keratoplasty. Cornea . 2014;33(9):880–886. doi: 10.1097/ICO.0000000000000206 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 158. Price MO, Feng MT, Scanameo A, Price FW. Loteprednol etabonate 0.5% gel vs. prednisolone acetate 1% solution after Descemet membrane endothelial keratoplasty: prospective randomized trial. Cornea . 2015;34(8):853–858. doi: 10.1097/ICO.0000000000000475 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 159. Hoerster R, Stanzel TP, Bachmann BO, Siebelmann S, Felsch M, Cursiefen C. Intensified topical steroids as prophylaxis for macular edema after posterior lamellar keratoplasty combined with cataract surgery. Am J Ophthalmol . 2016;163:174–179.e2. doi: 10.1016/j.ajo.2015.12.008 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 160. Maier AKB, Gundlach E, Schroeter J, et al. Influence of the difficulty of graft unfolding and attachment on the outcome in Descemet membrane endothelial keratoplasty. Graefes Arch Clin Exp Ophthalmol . 2015;253(6):895–900. doi: 10.1007/s00417-015-2939-9 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 161. Baltaziak M, Chew HF, Podbielski DW, Ahmed IIK. Glaucoma after corneal replacement. Surv Ophthalmol . 2018;63(2):135–148. doi: 10.1016/j.survophthal.2017.09.003 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 162. Borderie VM, Loriaut P, Bouheraoua N, Nordmann JP. Incidence of intraocular pressure elevation and glaucoma after lamellar versus full-thickness penetrating keratoplasty. Ophthalmology . 2016;123(7):1428–1434. doi: 10.1016/j.ophtha.2016.03.034 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 163. Sharma RA, Bursztyn LL, Golesic E, Mather R, Tingey DP. Comparison of intraocular pressure post penetrating keratoplasty vs Descemet’s stripping endothelial keratoplasty. Can J Ophthalmol . 2016;51(1):19–24. doi: 10.1016/j.jcjo.2015.09.014 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 164. França ET, Arcieri ES, Arcieri RS, Rocha FJ. A study of glaucoma after penetrating keratoplasty. Cornea . 2002;21(3):284–288. doi: 10.1097/00003226-200204000-00009 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 165. Yildirim N, Gursoy H, Sahin A, Ozer A, Colak E. Glaucoma after penetrating keratoplasty: incidence, risk factors, and management. J Ophthalmol . 2011;2011:951294. doi: 10.1155/2011/951294 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 166. Bonnet C, Ghaffari R, Alkadi T, et al. Long-term outcomes of Descemet membrane endothelial keratoplasty in eyes with prior glaucoma surgery. Am J Ophthalmol . 2020;218:288–295. doi: 10.1016/j.ajo.2020.06.022 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 167. Anshu A, Price MO, Price FW. Descemet’s stripping endothelial keratoplasty: long-term graft survival and risk factors for failure in eyes with preexisting glaucoma. Ophthalmology . 2012;119(10):1982–1987. doi: 10.1016/j.ophtha.2012.04.031 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 168. Kwon YH, Taylor JM, Hong S, et al. Long-term results of eyes with penetrating keratoplasty and glaucoma drainage tube implant. Ophthalmology . 2001;108(2):272–278. doi: 10.1016/S0161-6420(00)00496-6 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 169. Janson BJ, Alward WL, Kwon YH, et al. Glaucoma-associated corneal endothelial cell damage: a review. Surv Ophthalmol . 2018;63(4):500–506. doi: 10.1016/j.survophthal.2017.11.002 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 170. Rosenfeld C, Price MO, Lai X, Witzmann FA, Price FW. Distinctive and pervasive alterations in aqueous humor protein composition following different types of glaucoma surgery. Mol Vis . 2015;21:911–918. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 171. Anshu A, Price MO, Richardson MR, et al. Alterations in the aqueous humor proteome in patients with a glaucoma shunt device. Mol Vis . 2011;17:1891–1900. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 172. Lin SR, Prapaipanich P, Yu F, et al. Comparison of endothelial keratoplasty techniques in patients with prior glaucoma surgery: a case-matched study. Am J Ophthalmol . 2019;206:94–101. doi: 10.1016/j.ajo.2019.03.020 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 173. Chamberlain W, Lin CC, Austin A, et al. Descemet endothelial thickness comparison trial: a randomized trial comparing ultrathin Descemet stripping automated endothelial keratoplasty with Descemet membrane endothelial keratoplasty. Ophthalmology . 2019;126(1):19–26. doi: 10.1016/j.ophtha.2018.05.019 [ DOI ] [ PubMed ] [ Google Scholar ]

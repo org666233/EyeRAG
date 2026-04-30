@@ -1,0 +1,330 @@
+Source: PubMed Central (PMC)
+PMCID: PMC6113746
+Title: The role of anti-VEGF in the management of proliferative DR
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6113746/
+Year: 2018
+Disease: anti_vegf
+Priority: 3
+============================================================
+
+Drugs Context . 2018 Aug 13;7:212532. doi: 10.7573/dic.212532 
+ 
+ 
+ The role of anti-vascular endothelial growth factor (anti-VEGF) in the management of proliferative diabetic retinopathy 
+ Yue Zhao 
+ 
+ Yue Zhao , MD 
+ 
+ 
+ 1 Cole Eye Institute, Cleveland Clinic Foundation, Cleveland, OH, USA 
+ Find articles by Yue Zhao 
+ 
+ 
+ 1 , Rishi P Singh 
+ 
+ Rishi P Singh , MD 
+ 
+ 
+ 1 Cole Eye Institute, Cleveland Clinic Foundation, Cleveland, OH, USA 
+ 
+ 2 Case Western Reserve University School of Medicine, Cleveland, OH, USA 
+ Find articles by Rishi P Singh 
+ 
+ 
+ 1, 2, ✉ 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Cole Eye Institute, Cleveland Clinic Foundation, Cleveland, OH, USA 
+ 
+ 2 Case Western Reserve University School of Medicine, Cleveland, OH, USA 
+ 
+ 
+ ✉ Correspondence: Rishi P Singh, 9500 Euclid Avenue, i32, Cleveland, OH 44195, USA. singhr@ccf.org 
+ 
+ 
+ ✉ Corresponding author. 
+ 
+ 
+ 
+ Received 2018 Apr 4; Revised 2018 Jul 19; Accepted 2018 Jul 20; Collection date 2018. 
+ 
+ Copyright © 2018 Zhao Y, Singh RP. 
+ Published by Drugs in Context under Creative Commons License Deed CC BY NC ND 4.0 which allows anyone to copy, distribute, and transmit the article provided it is properly attributed in the manner specified below. No commercial use without permission. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC6113746  PMID: 30181760 
+ 
+ Abstract 
+ Diabetes is a major cause of visual impairment among working-age adults in the United States. The proliferative form of diabetic retinopathy is associated with severe vision loss (acuity <5/200). The standard treatment in proliferative diabetic retinopathy (PDR) is panretinal photocoagulation (PRP), which is effective but has established side effects such as peripheral visual-field constraints. Vascular endothelial growth factor (VEGF) is thought to drive the process of vascular proliferation. Drugs targeting VEGF (anti-VEGF) have been studied extensively in diabetic macular edema (DME), and results have shown that diabetic retinopathy regresses with anti-VEGF treatment. Recent studies show that anti-VEGF is not inferior to PRP for PDR while treatment is maintained, though recurrence rate when anti-VEGF treatment is stopped is unclear. In vitreous hemorrhage where PRP cannot be performed, use of anti-VEGF medications can treat underlying PDR and delay or reduce need for vitrectomy. Limitations of anti-VEGF treatment, however, require careful patient selection and monitoring. This review discusses recent clinical trials and guidelines for anti-VEGF use in PDR. 
+ Keywords: aflibercept, angiogenesis inhibitors, antibodies, monoclonal, humanized antibodies, bevacizumab, diabetic retinopathy, intravitreal injection, ranibizumab, vascular endothelial growth factor A Introduction 
+ Diabetes mellitus is the leading cause of blindness among adults aged 20–64 in the United States. 1 The National Diabetes Statistics Report published by the Centers for Disease Control and Prevention (CDC) estimated that 9.4% of the US population suffers from diabetes. 2 Of patients with diabetes, 28.5% had evidence of diabetic retinopathy, and 4.4% had vision-threatening retinopathy. 3 Proliferative diabetic retinopathy (PDR) is characterized by growth of neovascular vessels, which are prone to leakage, bleeding, and the development of vitreoretinal membranes and tractional retinal detachment. They can also invade the anterior segment to cause neovascular glaucoma or ischemia. Risk of vision loss is significantly higher with PDR than nonproliferative diabetic retinopathy (NPDR), and PDR is more prevalent in type 1 diabetes, where patients present at a younger age. 4 The Diabetic Retinopathy Study (DRS) found that almost half of eyes with PDR and high-risk characteristics will progress to severe vision loss (visual acuity <5/200) without treatment. 5 
+ Panretinal photocoagulation has been the standard of care for PDR for decades. However, recent data demonstrate that anti-vascular endothelial growth factor (VEGF) intravitreal injections can be used to treat PDR without photocoagulation of peripheral retina. The purpose of this review is to discuss the encouraging results of anti-VEGF use in PDR and highlight the limitations of anti-VEGF treatment that necessitate careful patient selection and monitoring. A PubMed literature search of articles up to February 2018 was performed using keywords, ‘proliferative diabetic retinopathy’ and ‘anti-VEGF.’ The Diabetic Retinopathy Clinical Research Network (DRCRnet) publications were also reviewed. Articles and their references were assessed and included as deemed relevant by the authors. 
+ VEGF drives PDR 
+ PDR is a microvascular disease, where relative retinal ischemia produces a pro-angiogenic environment. Angiogenesis is mediated in large part by VEGF. 6 , 7 The VEGF family consists of multiple isoforms that are required for the normal development of the vasculature and lymphatics. Molecular studies have shown that VEGF-A promoted vascular permeability and angiogenesis through its interactions with VEGF receptor 2 (VEGFR-2) on vascular endothelial cells. 8 Capillary endothelial tight-junction disruption and development of endothelial cell fenestration weakened blood vessels. VEGF-A also stimulated endothelial cell proliferation and migration – changes associated with early angiogenesis. 9 , 10 
+ In the eye, the VEGF-A165 splice variant of VEGF-A has been implicated as the cause of pathologic revascularization in the retina. 11 Injection of VEGF into animal eyes produced a phenotype similar to diabetic or ischemic retinopathy with intraretinal hemorrhage, vessel tortuosity, retinal edema, and intraretinal vascular proliferations. 12 In contrast, inhibition of VEGF prevented iris neovascularization. 13 Human studies showed that eyes with PDR had higher levels of VEGF in vitreous or fibrovascular tissues than normal eyes. 14 – 16 Panretinal photocoagulation in PDR 
+ The standard of care in PDR has been panretinal photocoagulation (PRP), as the DRS study demonstrated that PRP reduced the rate of severe vision loss by >50%. The thermal destruction of ischemic retina decreases the signal for angiogenesis, promotes regression of neovascularization, and decreases the risk of hemorrhage or development of tractional membranes. VEGF levels in the vitreous were shown to decline after PRP, and regression of PDR was confirmed on exam. 17 However, PRP has well-established limitations. It requires a cooperative patient and a clear view of the retina. Peripheral vision is permanently lost with the destruction of peripheral retina, and nyctalopia and transient decline in visual acuity (VA) have also been reported. 18 Macular edema can develop or worsen after PRP, adversely affecting vision. 19 In a series of 175 eyes treated with PRP, McDonald and Schatz found that 8% of eyes developed chronic macular edema leading to two lines or greater vision loss. 20 More recently, Protocol S found that the cumulative 2-year probability of developing visually significant central diabetic macular edema (DME) was 28% in the PRP-treated group. Additionally, laser-associated breaks in Bruch’s membrane can lead to development of choroidal neovascularization, and damage to the posterior ciliary nerves can lead to mydriasis and loss of accommodation. 21 Other side effects include uveal effusion, angle closure glaucoma, serous retinal detachment, and vitreous hemorrhage. 22 , 23 In recent years, the development of molecules that target VEGF itself has changed the approach to diabetic retinopathy. There are four therapies that target VEGF, including three antibodies against VEGF (anti-VEGF). Current therapies targeting VEGF 
+ Pegaptanib (Macugen; Eyetech Inc, Cedar Knolls, NJ, USA) is a 28 nucleotide RNA aptamer that binds to the VEGF-A165 isomer. 24 It was studied and used predominantly in the treatment of DME, and its use has declined in favor of antibody-based treatments. The Macugen Diabetic Retinopathy Study Group included 16 eyes with PDR, of which 13 received pegaptanib. The study noted that eight underwent regression of neovascularization. Once the medication was stopped, neovascularization progression resumed. 25 
+ Bevacizumab (Avastin; Genentech, San Francisco, CA, USA) is a full-length recombinant humanized anti-VEGF monoclonal antibody (IgG) initially Food and Drug Administration (FDA) approved for treatment of metastatic colorectal cancers. 26 It has twice the half-life of ranibizumab. 27 , 28 Ophthalmic uses of bevacizumab are not FDA approved; however, its safety and efficacy have been shown in multiple neovascular age-related macular degeneration trials and DME trials, such as DRCRnet protocol T. 29 Protocol T compared mean improvement in VA after intravitreal aflibercept, ranibizumab, or bevacizumab treatment in DME. It found that in eyes with VA of 20/40 or better, there was no significant difference in mean improvement in VA among bevacizumab (7.5±7.4 Early Treatment Diabetic Retinopathy Study (ETDRS) letters), ranibizumab (8.3±6.8), or aflibercept (8.0±7.6). In eyes with vision 20/50 or worse, aflibercept (18.9±11.5 letters) had better outcomes than bevacizumab (11.8±12) or ranibizumab (14.2±10.6) at 1-year follow-up. This difference continued to be significant between aflibercept and bevacizumab at 2-year follow-up. No significant difference in serious adverse reactions, major cardiovascular events, or hospitalization among the three medications was found. 
+ Ranibizumab (Lucentis; Genentech, San Francisco, CA, USA/Novartis Ophthalmics, Basel, Switzerland) is a recombinant antibody fragment of the humanized anti-VEGF monoclonal antibody. Based on bevacizumab, ranibizumab underwent affinity maturation to increase binding affinity to all isoforms of VEGF. Its half-life is shorter than other anti-VEGF molecules due to the lack of the antibody Fc domain. 30 The RISE and RIDE studies, discussed later, demonstrated efficacy of ranibizumab in DME. 31 Based on multiple trials, the FDA approved ranibizumab in 2017 for all stages of diabetic retinopathy. 
+ Aflibercept (Eylea; Regeneron, Tarrytown, NY, USA) is a recombinant fusion protein of the binding domains of human VEGF-R1 and VEGF-R2, fused with the Fc domain of human IgG1. It binds endogenous VEGF molecules to prevent their activation of VEGF-R, and it has been shown to bind VEGF with greater affinity than other anti-VEGF agents. Additionally, it can bind placental growth factor (PIGF). 32 It was FDA-approved for the treatment of neovascular age-related macular degeneration (AMD) in 2011. The VISTA and VIVID trials studied aflibercept use in DME. 33 Clinical trials of anti-VEGF medications for DME 
+ The use of anti-VEGF medication in diabetes was first established in macular edema trials. During the studies, investigators noted that eyes randomized to the anti-VEGF group were more likely to have regression of diabetic retinopathy and were less likely to develop PDR. The ETDRS diabetic retinopathy severity scale (DRSS) is the standard method of grading retinopathy severity in clinical trials. Seven 30-degree stereoscopic images of the retina are compared to standard photographs. 18 , 34 Each eye is given a score from 10 (no retinopathy) to 85 (advanced PDR), and both eyes are combined on a graded level. Macular edema was noted separately. Progression of retinopathy was defined as change in two to three steps in the Diabetes Control and Complications Trial and United Kingdom Prospective Diabetes Study. 35 , 36 
+ The RISE/RIDE study 
+ The RISE and RIDE studies were two parallel phase 3 randomized control trials that evaluated long-term visual outcomes in patients with DME who were treated solely with ranibizumab. 31 Participants received either ranibizumab, 0.3 or 0.5 mg, or a sham injection. Rescue focal macular laser was performed at physician discretion at month 3. The primary outcome was the proportion of patients with a gain of 15 or more EDTRS letters at 24 months. It showed that a significantly larger proportion of patients receiving ranibizumab (44.8% of patients receiving 0.3 mg ranibizumab and 39.2% of patients receiving 0.5 mg ranibizumab) had a gain of 15+ letters compared with 18.1% of sham-treated patients. Analysis of the DRSS showed that 35.7–38.5% of ranibizumab-injected eyes saw an improvement in their retinopathy compared to 4–7% in the sham group. Of eyes with highest severity NPDR at baseline, more than 75% experienced two severity levels of improvement by month 12 ( Table 1 ). Progression of retinopathy was observed in only 0–4.7% of ranibizumab-injected eyes, compared with 8.7–10.5% of sham-injected eyes. Ranibizumab-injected eyes also were less likely to develop PDR (1.6–5.6%) compared to sham (11.5–15%) and less likely to need PRP. 
+ Table 1. 
+ Percentage of eyes with ≥ 2 levels of DRSS improvement in all eyes and highest-risk NPDR eyes at 3 and 12 months of the RISE/RIDE study. A significantly high proportion of eyes treated with ranibizumab had improvement of diabetic retinopathy by two levels or more by the DRSS scale than with sham injection. This was true for all eyes with diabetic retinopathy ( p <0.001), but more so for the subset of eyes with the highest-risk NPDR at baseline. Thirty-two percent (32%) showed two or more levels of improvement after 3 months of treatment and 76% after 12 months of treatment, significantly higher than proportion of eyes receiving sham injection (0% at 3 months, 2% at 12 months, p <0.001). 
+ 
+ 
+ 
+ 
+ Sham injection 
+ Ranibizumab, 0.3 mg 
+ 
+ p -value 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Month 3 
+ 
+ 
+ 
+ 
+ 
+  All eyes 
+ 3% 
+ 18% 
+ 
+ p <0.001 
+ 
+ 
+  Highest-risk NPDR 
+ 0% 
+ 32% 
+ 
+ p <0.001 
+ 
+ 
+ 
+ 
+ 
+ Month 12 
+ 
+ 
+ 
+ 
+ 
+  All eyes 
+ 3% 
+ 18% 
+ 
+ p <0.001 
+ 
+ 
+  Highest-risk NPDR 
+ 2% 
+ 76% 
+ 
+ p <0.001 
+ 
+ 
+ 
+ Open in a new tab 
+ DRSS, diabetic retinopathy severity scale; NPDR, nonproliferative diabetic retinopathy. The VIVID/VISTA studies 
+ The effect of anti-VEGF medications on diabetic retinopathy severity was also noted in aflibercept studies. The VIVID and VISTA trials compared intravitreal aflibercept, 2 mg, every 4 or 8 weeks with macular laser for DME. 33 The primary outcome was change in mean best corrected visual acuity (BCVA) over 52 weeks. Mean BCVA gain from baseline in VISTA was 12.5 letters in aflibercept every 4 weeks, and 10.7 in aflibercept every 8 weeks, compared to 0.2 letters with laser ( p <0.0001). VIVID had similar results with greater VA gains in aflibercept-treated eyes (10.5 letters, every 4 weeks; 10.7 letters, every 8 weeks) when compared to laser (1.2 letters, p <0.0001). A larger percentage (41.6% and 31.1% versus 7.8% in VISTA and 32.4% and 33.3% versus 9.1% in VIVID) of eyes treated with aflibercept also gained >15 or more EDTRS letters ( p <0.0001). A greater proportion of aflibercept-treated eyes were likely to experience a two-step or greater regression in DRSS in VISTA (33.8% every 4 weeks and 29.1% every 8 weeks versus 14.3% with laser, p <0.01) and VIVID (33.3% every 4 weeks and 27.7% every 8 weeks versus 7.5%, p <0.001). These results were maintained through 148 weeks of follow-up. Protocol T comparison of bevacizumab, ranibizumab, and aflibercept 
+ Comparison studies of anti-VEGF also showed that diabetic retinopathy regression was observed after treatment with all three anti-VEGF therapies. Protocol T was a comparison of bevacizumab, ranibizumab, and aflibercept for DME. 29 A total of 660 patients (423 eyes with NPDR and 93 eyes with PDR) were randomized in a 1:1:1 fashion to intravitreal injection every 4 weeks for the first 6 months, then treatment following a predefined algorithm. Focal macular laser could be performed at 24 weeks for persistent DME. Eyes were followed for 2 years, and macular edema results were previously discussed. 
+ Post hoc analysis was performed to determine rate of diabetic retinopathy regression in the three treatment groups. 37 In NPDR eyes, 31.2% of aflibercept-treated eyes, 37.7% of ranibizumab-treated eyes, and 22.1% of bevacizumab-treated eyes demonstrated improvement in severity of diabetic retinopathy. Aflibercept ( p =0.004) and ranibizumab ( p =0.01) were more strongly associated with diabetic retinopathy regression. At 2 years, there was no significant difference among the three groups (aflibercept, 24.8%; ranibizumab 31%; bevacizumab 22.1%). More improvement (51.9 and 64.6%) was seen with more severe forms of NPDR (severity levels 47 and 53). 
+ In eyes with PDR, a significantly higher percentage of eyes demonstrated improvement in diabetic retinopathy after aflibercept treatment (75.9%) when compared to ranibizumab (55.2%, p =0.02) or bevacizumab (31.4%, p <0.001). The difference between ranibizumab and bevacizumab was nonsignificant ( p =0.09). Seventy percent (70%) of eyes showed sustained improvement into year 2. Among eyes that did not improve at year 1, 21.4% did experience improvement by year 2 (aflibercept: 66.7%, bevacizumab: 13%, and ranibizumab: 15.4%), suggesting continued treatment despite initial nonresponse may be beneficial. 
+ The proportion of eyes with worsening diabetic retinopathy was not significantly different among the three groups in NPDR or PDR eyes. At year 2, worsening NPDR was seen in 10.2% of eyes in the aflibercept group, 10.2% in the bevacizumab group, and 7.1% in the ranibizumab group. Two-point-four percent of eyes (2.4%) progressed to PDR. In eyes with PDR, worsening retinopathy was seen in 17.2% of aflibercept-treated eyes, 26.4% in the bevacizumab group, and 17.6% in the ranibizumab group. Vitreous hemorrhage was the most common indication of NPDR and PDR progression. 
+ DME studies show that anti-VEGF treatment can promote regression of diabetic retinopathy. Anti-VEGF therapy has a greater effect in severe NPDR or PDR than mild or moderate NPDR. Aflibercept may be more effective at promoting regression, but the difference diminishes with time. Despite active treatment, diabetic retinopathy continues to worsen in a subset of eyes, especially in those with PDR. Clinical trials of anti-VEGF medications in PDR 
+ Anti-VEGF is frequently used as an adjunct to PRP in PDR. In eyes with persistent, active neovascularization, despite repeated PRP treatments, anti-VEGF medications were shown to significantly reduce the area of leakage and improve VA. 38 In treatment-naïve PDR, eyes receiving a combination of PRP with anti-VEGF treatment had a more rapid and larger reduction in area of active neovascularization than PRP alone. 39 Figueira et al. studied 87 patients with high-risk PDR and found similar results. 40 However, these studies did not address whether anti-VEGF monotherapy is sufficient for PDR management. 
+ DRCR Protocol S: intravitreal ranibizumab compared with PRP for PDR 
+ DRCR Protocol S was a randomized clinical trial designed to determine whether ranibizumab, 0.5 mg, was noninferior to PRP for PDR. 41 Three hundred and ninety-four (394) treatment-naïve eyes with PDR were randomized 1:1 to treatment with intravitreal ranibizumab or PRP. Primary outcome was mean VA improvement at 2 years. Ranibizumab was injected every 4 weeks through week 12, after which further injections were administered based on a prespecified algorithm. Injection at weeks 16 and 20 were required unless all neovascularization had regressed. The PRP group received full laser treatment over 1–3 sessions and was allowed to receive anti-VEGF medication if DME was present. 
+ The average change in VA at 2 years was +2.8 letters in the ranibizumab group, compared to +0.2 letters in the PRP group ( p <0.001 for noninferiority). There was no difference in percentage of eyes with quiescent PDR (PRP: 30%, ranibizumab: 35%). Although 98% of eyes in the PRP group received the per-protocol initial PRP treatment, 45% of eyes needed supplemental PRP for PDR progression. Only 6% of eyes in the ranibizumab group needed rescue PRP treatment. Of 155 eyes without baseline DME and received PRP, 62 received ranibizumab over 2 years of follow-up. The cumulative 2-year probability of developing visually significant central DME was 9% in the ranibizumab group compared with 28% in the PRP group. 
+ Risk factors for progression of PDR were identified through a post hoc analysis. 42 A composite outcome was used to determine worsening PDR, including vitreous hemorrhage, neovascularization of the iris or angle, neovascular glaucoma, retinal detachment, as well as need for further PRP or vitrectomy. Overall, the PRP group had a higher proportion (42 versus 34%, p =0.063) of outcomes associated with PDR progression. When the analysis was adjusted for severity of PDR, there was a significantly higher proportion of outcomes associated with PDR progression in the PRP group, when compared to the ranibizumab group (HR 1.45, p =0.024). This became more apparent when assessing eyes with center-involving DME that were randomized to PRP. These eyes did not receive adjunct ranibizumab and had a higher hazard ratio for adverse outcomes (HR 1.73, p =0.004) compared to ranibizumab alone. 
+ The most significant risk factor for development of poor outcomes in PRP and ranibizumab treatment groups was severity of PDR based on ETDRS severity scale. Additional risk factors for worsening PDR included: presence of epiretinal membrane, neovascularization of the disk with neovascularization elsewhere, and presence of vitreous hemorrhage. In the PRP group, treatment with pattern scan PRP was associated with worse outcomes compared to single-spot PRP (60 versus 39%, p <0.008). Vitreous hemorrhage was the most common adverse event. 
+ In Protocol S, ranibizumab-treated eyes had better VA outcomes (+2.8 versus 0.2 letters), less development of DME (PRP: 28%, ranibizumab: 9%, p <0.001), and less need for vitrectomy (PRP: 15%, ranibizumab: 4%, p <0.001). They were less likely to experience events associated with PDR progression than eyes treated with PRP, especially in PDR with high-risk characteristics. The authors emphasized close follow-up of both PRP- and ranibizumab-treated eyes, because 42% of PRP-treated eyes and 34% of ranibizumab-treated eyes demonstrated progression of PDR as defined by the post hoc composite outcome. The most common adverse outcome was vitreous hemorrhage, which was also the most common reason for vitrectomy. PRP-treated eyes required more vitrectomy and additional PRP sessions. CLARITY: intravitreal aflibercept compared with PRP for PDR 
+ CLARITY was a phase 2b, single-blind, noninferiority trial comparing intravitreal aflibercept to PRP in newly diagnosed or previously laser-treated active PDR. 43 Patients were treated with three-monthly injections of aflibercept (2 mg/0.05 mL) and reassessed every 4 weeks thereafter for further injections as needed, or treated with standard PRP and reassessed every 8 weeks for further PRP. Primary outcome was change in BCVA at 52 weeks. A total of 232 patients (123 untreated and 109 previously treated) underwent randomization. Aflibercept was found to be noninferior to PRP, with a difference of +3.9 EDTRS letters (95% CI: 2.3–5.6) favoring aflibercept at 2 years. Regression of retinal neovascularization at 2 years was seen in 81% of aflibercept-treated eyes and 78% of PRP-treated eyes. Sixty-four (64%) of aflibercept-treated eyes had total regression of neovascularization, compared to 34% in PRP eyes. Accordingly, the aflibercept group had greater improvement in retinopathy as graded by ETDRS retinopathy severity score ( p =0.016). 
+ Eyes receiving PRP were more likely to develop new or increasing vitreous hemorrhage (18 versus 9%, p =0.034) and more likely to need vitrectomy, though this was not statistically significant (6 versus 1%, p =0.066). Aflibercept-treated eyes appeared to have more inflammation (8 versus 3%, p =0.075) and corneal-related problems such as abrasion, epithelial erosions, and conjunctival lacerations (4 versus 0%, p =0.060). Patients with baseline macular edema were excluded. At 2 years, proportion of macular edema was 11% in the aflibercept group and 29% in the PRP group. Anti-VEGF therapy for vitreous hemorrhage associated with PDR 
+ In eyes with vitreous hemorrhage due to PDR, PRP is not possible until the blood clears or vitrectomy is performed. Anti-VEGF therapy can instead be used to treat the underlying PDR, but it may not reduce the need for vitrectomy to remove nonclearing vitreous hemorrhage. The DRCR network Protocol N studied rate of vitrectomy after intravitreal anti-VEGF for vitreous hemorrhage. 44 Two-hundred sixty-one (261) eyes with PDR and vitreous hemorrhage that prevented PRP treatment were randomized to intravitreal ranibizumab, 0.5 mg, compared with intravitreal saline at baseline, week 4, and week 8. No difference was found in rate of vitrectomy by week 16 (ranibizumab: 12%; saline: 17%, p =0.37). Due to low overall rate of vitrectomies, the study was underpowered to detect a difference in vitrectomy rates. 
+ The ranibizumab group was more likely to complete PRP without need for vitrectomy (44 versus 31%, p =0.05), and VA outcomes also favored the ranibizumab group (22±23 letters) compared to the saline group (16±31 letters, p =0.04). However, there was no difference in percentage of eyes with poor (20/200 or worse) or very poor (20/800 or worse) VA between the groups. Twenty percent (20%) of ranibizumab-treated eyes had poor VA compared to 27% of saline-treated eyes, and 11% of ranibizumab-treated eyes had very poor VA compared to 16% of saline-treated eyes. Side effects of anti-VEGF medications 
+ There are limitations and risks to anti-VEGF use. Common side effects include transient increase in intraocular pressure and floaters. 45 , 46 Operator complications including traumatic intraocular injuries, such as to the lens, have also been reported. Endophthalmitis is uncommon, with prevalence estimated at 1 per 1000 injections. 47 Rare side effects include uveitis, which has been reported with aflibercept and bevacizumab. 48 , 49 
+ A serious vision-threatening complication of anti-VEGF use in PDR is the development of tractional retinal detachment in the setting of pre-existing membranes. It is hypothesized that VEGF-associated neovascularization and connective tissue growth factor (CTGF)-associated fibrosis balance each other in the PDR eye. When anti-VEGF medications are used, the balance favors CTCF and an ‘angio-fibrotic switch’ is flipped. CTGF promotes cell apoptosis, accelerates fibrosis, and produces traction on the underlying retina. 50 , 51 This occurs more frequently in the first month of anti-VEGF treatment and in eyes with long-standing (>15 years), poorly controlled diabetic retinopathy. 52 , 53 Other risk factors identified include vitreous hemorrhage, PDR resistant to PRP, and higher dose of intravitreal anti-VEGF. 
+ Systemic side effects of anti-VEGF medications are also a concern. In cancer trials, high doses of anti-VEGF medications were associated with increase in bowel perforation, arterial thromboembolism, myocardial infarction (MI), stroke, and hypertension. 54 These side effects have not been confirmed with the lower dose and intravitreal route of ophthalmic anti-VEGF use, though studies were not powered to detect systemic adverse effects. The RISE/RIDE studies found an increase in incidence of stroke in ranibizumab, 0.5 mg, compared with 0.3 mg dose (4.8 versus 2.0%), while the incidence of MI at 36 months was 7.2% in the 0.3 mg cohort and 3.6% in the 0.5 mg cohort. However, the study was not powered to detect a difference in MI incidence between the cohorts. In VIVID/VISTA, the overall nonocular side effects were similar between the three groups and related to underlying comorbidities. No difference was found among three anti-VEGF medications in Protocol T. 29 Protocol S also did not find a difference in serious adverse events, including hospitalization, death, Antiplatelet Trialists’ Collaboration arteriothromboembolic events, or MedDRA organ system class events between PRP or ranibizumab. 41 Multiple meta-analyses of the data have both demonstrated and refuted increases in risk of death or cerebrovascular events. 55 , 56 Discussion 
+ In summary, anti-VEGF medications are an important addition to the arsenal of PDR treatments. Studies in DME have demonstrated that anti-VEGF medications can promote regression of diabetic retinopathy in both NPDR and PDR, keeping in mind that PDR can still develop despite monthly treatments. The severity of the retinopathy is associated with a more robust response. Protocol T demonstrated that all three medications – aflibercept, ranibizumab, and bevacizumab – have a favorable effect in diabetic retinopathy. 29 In NPDR, aflibercept had better outcomes in year 1, but no visually significant difference among the three groups was found by year 2. VIVID/VISTA results up to 148 weeks of treatment showed that with continued treatment, the effect on retinopathy severity is durable. 33 
+ Anti-VEGF can be used as an adjunct to PRP and as primary treatment in proliferative retinopathy; Protocol S demonstrated that ranibizumab alone was noninferior to PRP. 41 Outcomes favored ranibizumab, with improved VA gains (2.8 versus 0.2 letters), improvement of pre-existing DME, lower rates of DME development, and less need for rescue laser or vitrectomy. Additionally, in subgroup analysis, comparing those eyes with DME and PDR, the visual outcomes favored treatment with ranibizumab (median +10, range 0 to +16 letters) compared to PRP (median +5, range −4 to +13 letters). Post hoc analysis also favored ranibizumab treatment. 42 Eyes receiving PRP were more likely to have signs of PDR progression, especially vitreous hemorrhage, than intravitreal ranibizumab treatment alone. Again, severity of disease was the strongest predictor of adverse outcomes. It is important to recognize that a large percentage of eyes in both groups had complications of active PDR despite continuous treatment. These results suggest that anti-VEGF can be started early in severe NPDR or PDR disease course, and aggressive treatment may be necessary in severe PDR. 
+ In eyes with proliferative retinopathy and vitreous hemorrhage that preclude PRP, anti-VEGF treatment can be used to treat the underlying retinopathy and may delay but may not reduce need for surgery. DRCR Protocol H, though underpowered, did not show a significant difference in rates of vitrectomy at 16 weeks between saline injection or ranibizumab-injected eyes. 44 Eyes that received ranibizumab did have better VA outcomes (+22±23 versus +16±31 ETDRS letters). 
+ There are limitations to anti-VEGF therapies for diabetic retinopathy. PRP is cost-effective, can be completed in a few office visits, and treatment has long-lasting effects. 57 In contrast, there is no known treatment period after which it is safe to discontinue anti-VEGF therapy. Studies have shown that once the anti-VEGF medication is stopped, neovascularization will reoccur or continue to progress. 58 Additionally, while PRP targets ischemic retina and reduces the drive for VEGF, effects of anti-VEGF on retinal ischemia are unclear. Further analysis of DRCR protocol T and S also remind us that despite treatment, approximately 30% of eyes with retinopathy will continue to worsen. In young patients with PDR, the need of close monitoring and the uncertainty of long-term outcomes with anti-VEGF treatment are especially of concern. 
+ Major ocular adverse effects of anti-VEGF intravitreal injections, such as intraocular pressure rise, are transient but may be relevant in patients with glaucoma. Serious adverse effects such as endophthalmitis are rare but accumulate with continuous injections. In proliferative disease, there is also the risk of tractional retinal detachments after anti-VEGF use in eyes with pre-existing vitreoretinal membranes, which can lead to vision loss. 
+ The cost and time of anti-VEGF monotherapy is also a burden upon patients and the healthcare system. Many patients with diabetic retinopathy are of working age, suffer from poorly controlled diabetes with systemic manifestations, and face socioeconomic strains. For healthcare systems, it was estimated that the cost utility for PRP was 85% lower than intravitreal anti-VEGF therapy in facility settings. For each line of vision saved, the estimated cost of anti-VEGF therapy ($16,849) was more than double that of PRP ($725). 59 The efficacy of the two treatments is similar. Protocol S did not show a significant difference between PRP and ranibizumab in overall percentage of eyes achieving quiescent PDR. 41 
+ In light of these studies, the American Academy of Ophthalmology (AAO) Preferred Practice Pattern committee now states that there is sufficient evidence for the treatment of diabetic retinopathy with anti-VEGF treatment. 60 The Preferred Practice Pattern states, “It would be reasonable to consider use of ranibizumab in severe NPDR patients in settings where laser surgery would be considered,” and in high-risk PDR, an anti-VEGF alternative to PRP could be considered for patients who can follow-up regularly, especially if there is macular edema. Anti-VEGF medications monotherapy can be considered as first-line therapy with PDR assuming judicious oversight by the clinician for disease progression. It also has a role in situations where PRP is not possible, due to media opacity, dense cataract, or nonclearing vitreous hemorrhage, where the patient is unable to go to the operating room. 61 
+ The role of anti-VEGF treatment in NPDR is also evolving. The AAO Preferred Practice Pattern recommends considering anti-VEGF treatment in severe NPDR where PRP would otherwise be considered. Anti-VEGF treatment has also been shown to reduce diabetic retinopathy severity and is associated with lower rates of PDR development. Currently, the management of NPDR consists of risk factor modification. Use of anti-VEGF medications in addition to risk factor modification may prevent development of PDR. Ongoing studies are addressing the effect of treatment on fluorescein angiography and the role of treatment in NPDR. 
+ The PANORAMA study (Clinicaltrials.gov identifier: NCT02718326 ) is an ongoing phase 3 clinical trial comparing intravitreal aflibercept to sham injections in severe NPDR. 62 The goal of the PANORAMA study is to determine whether anti-VEGF treatment has a role in NPDR. Both type 1 and type 2 diabetes mellitus patients were recruited. Primary outcome is percentage of patients improving by two or more steps on the DRSS at 24 and 52 weeks. Secondary outcomes will be followed through week 100 and include rate of vision-threatening complications, DME, PRP, and area under the curve for change in BCVA. 
+ The PRIDE Study for PDR (Clinicaltrials.gov identifier: NCT01594281 ) is an ongoing trial comparing safety and efficacy ranibizumab alone versus ranibizumab with PRP versus PRP alone. 63 Eyes with PDR but without macular edema or previous PRP were randomized to one of the three groups. Primary outcome will be change in neovascularization area on fluorescein angiography over 12 months. Secondary outcomes include BCVA, change in DRSS, change in retinal thickness on optical coherence tomography (OCT), and rate of patients with significant ETDRS letter gain or loss. 
+ DRCR Protocol W (Clinicaltrials.gov identifier: NCT02634333 ) is an ongoing trial of NPDR eyes that are risk of developing PDR or center-involving macular edema. 64 Eyes will be randomized to intravitreal aflibercept, 2 mg, compared with sham injection and treated at 1, 2, and 4 months, followed by injections every 4 months. Outcomes will be evaluated at 2 and 4 years. Primary outcome will be time to development of a composite outcome including: evidence of PDR, neovascularization of the disc (optic disc) (NVD) or neovascularization elsewhere (in the retina) (NVE) based on imaging studies, or clinical evidence of at least 2 clock hours of NVI, evidence of neovascularization of the angle (NVA) or neovascular glaucoma (NVG), center-involving macular edema with OCT and VA changes, and treatment for DME or PDR. Mean change in VA from baseline will be assessed at 4 years. Secondary outcomes include change in vision, OCT description of anatomy, worsening of diabetic retinopathy, safety, and costs. 
+ These results could potentially change the approach to NPDR and prevent development of sight-threatening complications. Additional areas of study include addressing duration of anti-VEGF treatment in PDR, to determine if it can be safe to discontinue treatment. Characterization of anti-VEGF medication retinal ischemia will also be important. In the 30% of PDR eyes at risk of progression despite PRP or anti-VEGF, treatment protocol and efficacy remain to be determined. Finally, differences in efficacy of anti-VEGF medications on PDR should be clarified, to identify if one agent is more effective in PDR. Footnotes 
+ 
+ Contributions: Both authors actively participated in the preparation of the manuscript. 
+ Disclosure and potential conflicts of interest: YZ reports no conflicts of interest. RPS reports grants and personal fees from Regeneron, grants and personal fees from Genentech, grants and personal fees from Alcon, personal fees from Zeiss, and personal fees from Optos during the conduct of the study. The International Committee of Medical Journal Editors (ICMJE) Potential Conflicts of Interests form for the authors are available for download at http://www.drugsincontext.com/wp-content/uploads/2018/07/dic.212532-COI.pdf 
+ Funding declaration: There was no funding for this manuscript. 
+ Correct attribution: Copyright © 2018 Zhao Y, Singh RP. https://doi.org/10.7573/dic.212532 . Published by Drugs in Context under Creative Commons License Deed CC BY NC ND 4.0. 
+ Article URL: 
+ https://www.drugsincontext.com/the-role-of-anti-vascular-endothelial-growth-factor-anti-vegf-in-the-management-of-proliferative-diabetic-retinopathy 
+ Provenance: invited; externally peer reviewed. 
+ Drugs in Context is published by BioExcel Publishing Ltd. Registered office: Plaza Building, Lee High Road, London, England, SE13 5PT. 
+ BioExcel Publishing Limited is registered in England Number 10038393. VAT GB 252772009. 
+ For all manuscript and submissions enquiries, contact the Editorial office dic.editorial@bioexcelpublishing.com 
+ For all permissions, rights and reprints, contact David Hughes david.hughes@bioexcelpublishing.com 
+ Peer review comments to author: 2 July 2018 
+ References 
+ 
+ 
+ 1. Klein BEK. Overview of epidemiologic studies of diabetic retinopathy. Ophthalmic Epidemiol. 2007;14(4):179–183. doi: 10.1080/09286580701396720. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Centers for Disease Control and Prevention. National Diabetes Statistics Report, 2017. Atlanta, GA: Centers for Disease Control and Prevention, US Department of Health and Human Services; 2017. [Accessed February 23, 2018]. 
+ https://www.cdc.gov/diabetes/pdfs/data/statistics/national-diabetes-statistics-report.pdf 
+. [ Google Scholar ] 
+ 
+ 3. Zhang X, Saaddine JB, Chou C-F, et al. Prevalence of diabetic retinopathy in the United States, 2005–2008. JAMA. 2010;304(6):649–656. doi: 10.1001/jama.2010.1111. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Yau JWY, Rogers SL, Kawasaki R, et al. Meta-Analysis for Eye Disease (META-EYE) Study Group. Global prevalence and major risk factors of diabetic retinopathy. Diabetes Care. 2012;35(3):556–564. doi: 10.2337/dc11-1909. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Photocoagulation treatment of proliferative diabetic retinopathy. Clinical application of Diabetic Retinopathy Study (DRS) findings, DRS Report Number 8. The Diabetic Retinopathy Study Research Group. Ophthalmology. 1981;88(7):583–600. doi: 10.1016/S0161-6420(81)34978-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Senger DR, Galli SJ, Dvorak AM, Perruzzi CA, Harvey VS, Dvorak HF. Tumor cells secrete a vascular permeability factor that promotes accumulation of ascites fluid. Science. 1983;219(4587):983–985. doi: 10.1126/science.6823562. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Witmer AN, Vrensen GFJM, Van Noorden CJF, Schlingemann RO. Vascular endothelial growth factors and angiogenesis in eye disease. Prog Retin Eye Res. 2003;22(1):1–29. doi: 10.1016/S1350-9462(02)00043-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Carmeliet P. Mechanisms of angiogenesis and arteriogenesis. Nat Med. 2000;6(4):389–395. doi: 10.1038/74651. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Miller JW, Adamis AP, Shima DT, et al. Vascular endothelial growth factor/vascular permeability factor is temporally and spatially correlated with ocular angiogenesis in a primate model. Am J Pathol. 1994;145(3):574–584. doi: 10.1097/00006982-199515020-00021. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Shibuya M. Differential roles of vascular endothelial growth factor receptor-1 and receptor-2 in angiogenesis. J Biochem Mol Biol. 2006;39(5):469–478. doi: 10.5483/BMBRep.2006.39.5.469. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Ishida S, Usui T, Yamashiro K, et al. VEGF164 is proinflammatory in the diabetic retina. Invest Ophthalmol Vis Sci. 2003;44(5):2155–2162. doi: 10.1167/iovs.02-0807. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Tolentino MJ, Miller JW, Gragoudas ES, et al. Intravitreous injections of vascular endothelial growth factor produce retinal ischemia and microangiopathy in an adult primate. Ophthalmology. 1996;103(11):1820–1828. doi: 10.1016/S0161-6420(96)30420-X. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Adamis AP, Shima DT, Tolentino MJ, et al. Inhibition of vascular endothelial growth factor prevents retinal ischemia-associated iris neovascularization in a nonhuman primate. Arch Ophthalmol. 1996;114(1):66–71. doi: 10.1001/archopht.1996.01100130062010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Lim JI, Spee C, Hinton DR. A comparison of hypoxia-inducible factor-α in surgically excised neovascular membranes of patients with diabetes compared with idiopathic epiretinal membranes in nondiabetic patients. Retina. 2010;30(9):1472–1478. doi: 10.1097/IAE.0b013e3181d6df09. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Abu El-Asrar AM, Missotten L, Geboes K. Expression of hypoxia-inducible factor-1alpha and the protein products of its target genes in diabetic fibrovascular epiretinal membranes. Br J Ophthalmol. 2007;91(6):822–826. doi: 10.1136/bjo.2006.109876. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Wang X, Wang G, Wang Y. Intravitreous vascular endothelial growth factor and hypoxia-inducible factor 1a in patients with proliferative diabetic retinopathy. Am J Ophthalmol. 2009;148(6):883–889. doi: 10.1016/j.ajo.2009.07.007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Aiello LP, Avery RL, Arrigg PG, et al. Vascular endothelial growth factor in ocular fluid of patients with diabetic retinopathy and other retinal disorders. N Engl J Med. 1994;331(22):1480–1487. doi: 10.1056/NEJM199412013312203. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Flynn HW, Chew EY, Simons BD, Barton FB, Remaley NA, Ferris FL. Pars plana vitrectomy in the Early Treatment Diabetic Retinopathy Study. ETDRS report number 17. The Early Treatment Diabetic Retinopathy Study Research Group. Ophthalmology. 1992;99(9):1351–1357. doi: 10.1016/S0161-6420(92)31779-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Shimura M, Yasuda K, Nakazawa T, Kano T, Ohta S, Tamai M. Quantifying alterations of macular thickness before and after panretinal photocoagulation in patients with severe diabetic retinopathy and good vision. Ophthalmology. 2003;110(12):2386–2394. doi: 10.1016/j.ophtha.2003.05.008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. McDonald HR, Schatz H. Visual loss following panretinal photocoagulation for proliferative diabetic retinopathy. Ophthalmology. 1985;92(3):388–393. doi: 10.1016/S0161-6420(85)34016-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Patel JI, Jenkins L, Benjamin L, Webber S. Dilated pupils and loss of accommodation following diode panretinal photocoagulation with sub-tenon local anaesthetic in four cases. Eye Lond Engl. 2002;16(5):628–632. doi: 10.1038/sj.eye.6700004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Moriarty AP, Spalton DJ, Shilling JS, Ffytche TJ, Bulsara M. Breakdown of the blood-aqueous barrier after argon laser panretinal photocoagulation for proliferative diabetic retinopathy. Ophthalmology. 1996;103(5):833–838. doi: 10.1016/S0161-6420(96)30607-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Fong DS, Girach A, Boney A. Visual side effects of successful scatter laser photocoagulation surgery for proliferative diabetic retinopathy: a literature review. Retina. 2007;27(7):816–824. doi: 10.1097/IAE.0b013e318042d32c. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Drolet DW, Nelson J, Tucker CE, et al. Pharmacokinetics and safety of an anti-vascular endothelial growth factor aptamer (NX1838) following injection into the vitreous humor of rhesus monkeys. Pharm Res. 2000;17(12):1503–1510. doi: 10.1023/A:1007657109012. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Adamis AP, Altaweel M, Bressler NM, et al. Macugen Diabetic Retinopathy Study Group. Changes in retinal neovascularization after pegaptanib (Macugen) therapy in diabetic individuals. Ophthalmology. 2006;113(1):23–28. doi: 10.1016/j.ophtha.2005.10.012. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Ferrara N, Hillan KJ, Gerber H-P, Novotny W. Discovery and development of bevacizumab, an anti-VEGF antibody for treating cancer. Nat Rev Drug Discov. 2004;3(5):391–400. doi: 10.1038/nrd1381. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Abdallah W, Fawzi AA. Anti-VEGF therapy in proliferative diabetic retinopathy. Int Ophthalmol Clin. 2009;49(2):95–107. doi: 10.1097/IIO.0b013e31819fd84a. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Avery RL, Pearlman J, Pieramici DJ, et al. Intravitreal bevacizumab (Avastin) in the treatment of proliferative diabetic retinopathy. Ophthalmology. 2006;113(10):1695e1–15. doi: 10.1016/j.ophtha.2006.05.064. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Wells JA, Glassman AR, Ayala AR, et al. Diabetic Retinopathy Clinical Research Network. Aflibercept, bevacizumab, or ranibizumab for diabetic macular edema: two-year results from a comparative effectiveness randomized clinical trial. Ophthalmology. 2016;123(6):1351–1359. doi: 10.1016/j.ophtha.2016.02.022. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Rosenfeld PJ, Heier JS, Hantsbarger G, Shams N. Tolerability and efficacy of multiple escalating doses of ranibizumab (Lucentis) for neovascular age-related macular degeneration. Ophthalmology. 2006;113(4):623.e1. doi: 10.1016/j.ophtha.2006.01.027. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Nguyen QD, Brown DM, Marcus DM, et al. RISE and RIDE Research Group. Ranibizumab for diabetic macular edema: results from 2 phase III randomized trials: RISE and RIDE. Ophthalmology. 2012;119(4):789–801. doi: 10.1016/j.ophtha.2011.12.039. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Papadopoulos N, Martin J, Ruan Q, et al. Binding and neutralization of vascular endothelial growth factor (VEGF) and related ligands by VEGF Trap, ranibizumab and bevacizumab. Angiogenesis. 2012;15(2):171–185. doi: 10.1007/s10456-011-9249-6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Heier JS, Korobelnik J-F, Brown DM, et al. Intravitreal aflibercept for diabetic macular edema: 148-week results from the VISTA and VIVID studies. Ophthalmology. 2016;123(11):2376–2385. doi: 10.1016/j.ophtha.2016.07.032. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Grading diabetic retinopathy from stereoscopic color fundus photographs – an extension of the modified Airlie House classification. ETDRS report number 10. Early Treatment Diabetic Retinopathy Study Research Group. Ophthalmology. 1991;98(5 Suppl):786–806. doi: 10.1016/S0161-6420(13)38012-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications Research Group. Lachin JM, Genuth S, Cleary P, Davis MD, Nathan DM. Retinopathy and nephropathy in patients with type 1 diabetes four years after a trial of intensive therapy. N Engl J Med. 2000;342(6):381–389. doi: 10.1056/NEJM200002103420603. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Tight blood pressure control and risk of macrovascular and microvascular complications in type 2 diabetes: UKPDS 38. UK Prospective Diabetes Study Group. BMJ. 1998;317(7160):703–713. doi: 10.1136/bmj.317.7160.703. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Bressler SB, Liu D, Glassman AR, et al. Diabetic Retinopathy Clinical Research Network. Change in diabetic retinopathy through 2 years: secondary analysis of a randomized clinical trial comparing aflibercept, bevacizumab, and ranibizumab. JAMA Ophthalmol. 2017;135(6):558–568. doi: 10.1001/jamaophthalmol.2017.0821. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Jorge R, Costa RA, Calucci D, Cintra LP, Scott IU. Intravitreal bevacizumab (Avastin) for persistent new vessels in diabetic retinopathy (IBEPE study) Retina. 2006;26(9):1006–1013. doi: 10.1097/01.iae.0000246884.76018.63. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Tonello M, Costa RA, Almeida FPP, Barbosa JC, Scott IU, Jorge R. Panretinal photocoagulation versus PRP plus intravitreal bevacizumab for high-risk proliferative diabetic retinopathy (IBeHi study) Acta Ophthalmol (Copenh) 2008;86(4):385–389. doi: 10.1111/j.1600-0420.2007.01056.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Figueira J, Fletcher E, Massin P, et al. EVICR.net Study Group. Ranibizumab plus panretinal photocoagulation versus panretinal photocoagulation alone for high-risk proliferative diabetic retinopathy (PROTEUS Study) Ophthalmology. 2018;25(5):691–700. doi: 10.1016/j.ophtha.2017.12.008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Writing Committee for the Diabetic Retinopathy Clinical Research Network. Gross JG, Glassman AR, Jampol LM, et al. Panretinal photocoagulation vs intravitreous ranibizumab for proliferative diabetic retinopathy: a randomized clinical trial. JAMA. 2015;314(20):2137–2146. doi: 10.1001/jama.2015.15217. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Bressler SB, Beaulieu WT, Glassman AR, et al. Diabetic Retinopathy Clinical Research Network. Factors associated with worsening proliferative diabetic retinopathy in eyes treated with panretinal photocoagulation or ranibizumab. Ophthalmology. 2017;124(4):431–439. doi: 10.1016/j.ophtha.2016.12.005. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Sivaprasad S, Prevost AT, Vasconcelos JC, et al. CLARITY Study Group. Clinical efficacy of intravitreal aflibercept versus panretinal photocoagulation for best corrected visual acuity in patients with proliferative diabetic retinopathy at 52 weeks (CLARITY): a multicentre, single-blinded, randomised, controlled, phase 2b, non-inferiority trial. Lancet Lond Engl. 2017;389(10085):2193–2203. doi: 10.1016/S0140-6736(17)31193-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Bhavsar AR, Torres K, Beck RW, et al. Randomized clinical trial evaluating intravitreal ranibizumab or saline for vitreous hemorrhage from proliferative diabetic retinopathy. JAMA Ophthalmol. 2013;131(3):283–293. doi: 10.1001/jamaophthalmol.2013.2015. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Wu L, Martínez-Castellanos MA, Quiroz-Mercado H, et al. Pan American Collaborative Retina Group (PACORES) Twelve-month safety of intravitreal injections of bevacizumab (Avastin): results of the Pan-American Collaborative Retina Study Group (PACORES) Graefes Arch Clin Exp Ophthalmol Albrecht Von Graefes Arch Klin Exp Ophthalmol. 2008;246(1):81–87. doi: 10.1007/s00417-007-0660-z. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Herrero-Vanrell R, Refojo MF. Biodegradable microspheres for vitreoretinal drug delivery. Adv Drug Deliv Rev. 2001;52(1):5–16. doi: 10.1016/S0169-409X(01)00200-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Jonas JB, Spandau UH, Rensch F, Von Baltz S, Schlichtenbrede F. Infectious and noninfectious endophthalmitis after intravitreal bevacizumab. J Ocul Pharmacol Ther. 2007;23(3):240–242. doi: 10.1089/jop.2006.0146. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Hahn P, Kim JE, Stinnett S, et al. American Society of Retina Specialists Therapeutic Surveillance Committee. Aflibercept-related sterile inflammation. Ophthalmology. 2013;120(5):1100–1.e1–5. doi: 10.1016/j.ophtha.2012.11.018. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Chong DY, Anand R, Williams PD, Qureshi JA, Callanan DG. Characterization of sterile intraocular inflammatory responses after intravitreal bevacizumab injection. Retina. 2010;30(9):1432–1440. doi: 10.1097/IAE.0b013e3181dc04da. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Jiao C, Eliott D, Spee C, et al. Apoptosis and angiofibrosis in diabetic tractional membranes after vascular endothelial growth factor inhibition: results of a prospective trial, Report No. 2. Retina. 2017 doi: 10.1097/IAE.0000000000001952. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Kuiper EJ, Van Nieuwenhoven FA, de Smet MD, et al. The angio-fibrotic switch of VEGF and CTGF in proliferative diabetic retinopathy. PLoS One. 2008;3(7):e2675. doi: 10.1371/journal.pone.0002675. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Arevalo JF, Sanchez JG, Saldarriaga L, et al. Pan American Collaborative Retina Study Group. Retinal detachment after bevacizumab. Ophthalmology. 2011;118(11):2304.e3–7. doi: 10.1016/j.ophtha.2011.05.015. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Arevalo JF, Maia M, Flynn HW, et al. Tractional retinal detachment following intravitreal bevacizumab (Avastin) in patients with severe proliferative diabetic retinopathy. Br J Ophthalmol. 2008;92(2):213–216. doi: 10.1136/bjo.2007.127142. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Scappaticci FA, Skillings JR, Holden SN, et al. Arterial thromboembolic events in patients with metastatic carcinoma treated with chemotherapy and bevacizumab. J Natl Cancer Inst. 2007;99(16):1232–1239. doi: 10.1093/jnci/djm086. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Avery RL, Gordon GM. Systemic safety of prolonged monthly anti-vascular endothelial growth factor therapy for diabetic macular edema: a systematic review and meta-analysis. JAMA Ophthalmol. 2016;134(1):21–29. doi: 10.1001/jamaophthalmol.2015.4070. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Virgili G, Parravano M, Menchini F, Evans JR. Anti-vascular endothelial growth factor for diabetic macular oedema. Cochrane Database Syst Rev. 2014;(10):CD007419. doi: 10.1002/14651858.CD007419.pub4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Blankenship GW. Fifteen-year argon laser and xenon photocoagulation results of Bascom Palmer Eye Institute’s patients participating in the diabetic retinopathy study. Ophthalmology. 1991;98(2):125–128. doi: 10.1016/S0161-6420(91)32326-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Mirshahi A, Roohipoor R, Lashay A, Mohammadi S-F, Abdoallahi A, Faghihi H. Bevacizumab-augmented retinal laser photocoagulation in proliferative diabetic retinopathy: a randomized double-masked clinical trial. Eur J Ophthalmol. 2008;18(2):263–269. doi: 10.1177/112067210801800215. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Lin J, Chang JS, Smiddy WE. Cost evaluation of panretinal photocoagulation versus intravitreal ranibizumab for proliferative diabetic retinopathy. Ophthalmology. 2016;123(9):1912–1918. doi: 10.1016/j.ophtha.2016.05.037. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Diabetic Retinopathy PPP – Updated 2017 [Internet] American Academy of Ophthalmology; 2017. [Accessed March 25, 2018]. 
+ https://www.aao.org/preferred-practice-pattern/diabetic-retinopathy-ppp-updated-2017 
+. [ Google Scholar ] 
+ 
+ 61. Spaide RF, Fisher YL. Intravitreal bevacizumab (Avastin) treatment of proliferative diabetic retinopathy complicated by vitreous hemorrhage. Retina. 2006;26(3):275–278. doi: 10.1097/00006982-200603000-00004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Study of the efficacy and safety of intravitreal (IVT) aflibercept for the improvement of moderately severe to severe nonproliferative diabetic retinopathy (NPDR) – Full Text View. ClinicalTrials.gov [Internet] [Accessed February 23, 2018]. 
+ https://clinicaltrials.gov/ct2/show/NCT02718326 
+. 
+ 
+ 
+ 63. Multicenter 12 months clinical study to evaluate efficacy and safety of ranibizumab alone or in combination with laser photocoagulation vs. laser photocoagulation alone in proliferative diabetic retinopathy (PRIDE) – Full Text View. ClinicalTrials.gov [Internet] [Accessed July 14, 2018]. 
+ https://clinicaltrials.gov/ct2/show/NCT01594281 
+. 
+ 
+ 
+ 64. Anti-VEGF treatment for prevention of PDR/DME – Full Text View. ClinicalTrials.gov [Internet] [Accessed March 13, 2018]. 
+ https://clinicaltrials.gov/ct2/show/NCT02634333 
+.

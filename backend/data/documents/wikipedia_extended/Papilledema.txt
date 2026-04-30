@@ -1,0 +1,74 @@
+Source: Wikipedia
+Title: Papilledema
+URL: https://en.wikipedia.org/wiki/Papilledema
+============================================================
+
+Papilledema or papilloedema is optic disc swelling that is caused by increased intracranial pressure due to any cause. The swelling is usually bilateral and can occur over a period of hours to weeks. Unilateral presentation is extremely rare.
+In intracranial hypertension, the optic disc swelling most commonly occurs bilaterally. When papilledema is found on fundoscopy, further evaluation is warranted because vision loss can result if the underlying condition is not treated. Further evaluation with a CT scan or MRI of the brain and/or spine is usually done. Recent research has shown that point-of-care ultrasound can be used to measure optic nerve sheath diameter for detection of increased intracranial pressure and shows good diagnostic test accuracy compared to CT. Thus, if there is a question of papilledema on fundoscopic examination or if the optic disc cannot be adequately visualized, ultrasound can be used to rapidly assess for increased intracranial pressure and help direct further evaluation and intervention. Unilateral papilledema can suggest a disease in the eye itself, such as an optic nerve glioma.
+
+
+== Signs and symptoms ==
+
+Despite being classically referred to as a key symptom of rising intracranial pressure, papilledema is often not present in patients seen in an acute setting such as an emergency room. Many urgent cases of increased ICP only have identifiable papilledema after a day or more.
+Early on, papilledema may be discovered on examination with an ophthalmoscope without any changes in patient vision. It can progress to enlargement of the blind spot, blurring of vision, a concentric blind spot pattern, or diplopia (double vision). Ultimately, total loss of vision can occur, as well as other patterns of permanent injury to the optic nerve.
+
+The signs of papilledema that may be seen using an ophthalmoscope include:
+
+venous engorgement (usually the first signs)
+loss of venous pulsation
+hemorrhages over and/or adjacent to the optic disc
+blurring of optic margins
+elevation of the optic disc
+Paton's lines (radial retinal lines cascading from the optic disc)
+On visual field examination, the physician may elicit an enlarged blind spot; the visual acuity may remain relatively intact until papilledema is severe or prolonged.
+
+
+== Causes ==
+Raised intracranial pressure as a result of one or more of the following:
+
+Brain tumor, idiopathic intracranial hypertension (also known as Pseudotumor Cerebri), cerebral venous sinus thrombosis or intracerebral hemorrhage
+Respiratory failure
+Isotretinoin, which is a powerful derivative of vitamin A, rarely causes papilledema.
+medications like tetracycline
+Hypervitaminosis A, in some people who take megadoses of nutritional supplements and vitamins.
+Hyperammonemia, elevated level of ammonia in blood (including cerebral edema/intracranial pressure)
+Guillain–Barré syndrome, due to elevated protein levels
+POEMS syndrome, a paraneoplastic syndrome that can cause increased intracranial pressure.
+Foster Kennedy syndrome (FKS)
+Chiari malformation
+Tumors of the frontal lobe
+Acute mountain sickness and high-altitude cerebral edema
+Meningitis, leading to increased cranial pressure
+Intracranial aneurysm, or Cerebral aneurysm, which can cause Intracranial hypertension
+Malignant hypertension
+Medulloblastoma
+Obesity
+Orbital
+Glaucoma: central retinal vein occlusion, cavernous sinus thrombosis
+Local lesion: optic neuritis, Ischemic optic neuropathy, methanol poisoning, infiltration of the disc by glioma, sarcoidosis and Lymphoma
+Acute lymphocytic leukemia (caused by infiltration of the retinal vessels by immature leukocytes)
+Long periods of weightlessness (microgravity) (See also visual impairment and intracranial pressure)
+
+
+== Pathophysiology ==
+As the optic nerve sheath is continuous with the subarachnoid space of the brain (and is regarded as an extension of the central nervous system), increased pressure is transmitted through to the optic nerve.  The brain itself is relatively spared from pathological consequences of high pressure.  However, the anterior end of the optic nerve stops abruptly at the eye.  Hence the pressure is asymmetrical and this causes a pinching and protrusion of the optic nerve at its head.  The fibers of the retinal ganglion cells of the optic disc become engorged and bulge anteriorly.  Persistent and extensive optic nerve head swelling, or optic disc edema, can lead to loss of these fibers and permanent visual impairment.
+
+
+== Diagnosis ==
+Checking the eyes for signs of papilledema should be carried out whenever there is a clinical suspicion of raised intracranial pressure, and is recommended in newly onset headaches. This may be done by ophthalmoscopy or fundus photography, and possibly slit lamp examination.
+It is important to determine whether the observed condition is due to optic nerve head drusen, which can cause an elevation of the optic nerve head that can be mistaken for papilledema.  For this reason, optic nerve head drusen is also called pseudopapilledema.
+
+
+== Treatment ==
+Historically, papilledema was a potential contraindication to lumbar puncture, as it indicates a risk for tentorial herniation and subsequent death via cerebral herniation, however newer imaging techniques have been more useful at determining when and when not to conduct a lumbar puncture. Imaging by CT or MRI is usually done to find out whether there is a structural cause i.e., tumor.  A magnetic resonance angiography (MRA) and magnetic resonance venography (MRV) may also be ordered to rule out the possibility of stenosis or thrombosis of the arterial or venous systems.
+The treatment depends largely on the underlying cause. However, the root cause of papilledema is the increased intracranial pressure (ICP). This is a dangerous sign, indicative of a brain tumor, CNS inflammation or idiopathic intracranial hypertension (IIH) that may become manifest in the near future.
+Thus, a biopsy is routinely performed prior to the treatment in the initial stages of papilledema to detect whether a brain tumor is present. If detected, laser treatment, radiation and surgeries can be used to treat the tumor.
+To decrease ICP, medications can be administered by increasing the absorption of cerebrospinal fluid (CSF), or decreasing its production. Such medicines include diuretics like acetazolamide and furosemide. These diuretics, along with surgical interventions, can also treat IIH. In IIH, weight loss (even a loss of 10-15%) can lead to normalization of ICP.
+Meanwhile, steroids can reduce inflammation (if this is a contributing factor to increased ICP), and may help to prevent vision loss. However, steroids have also been known to cause increased ICP, especially with a change in dosage. However, if a severe inflammatory condition exists, such as multiple sclerosis, steroids with anti-inflammatory effects such as Methylprednisolone and prednisone can help.
+Other treatments include repeated lumbar punctures to remove excess spinal fluid in the cranium. The removal of potentially causative medicines including tetracyclines and vitamin A analogues may help decrease ICP; however, this is only necessary if the medication is truly felt to contribute to the ICP increase.
+
+
+== References ==
+
+
+== External links ==

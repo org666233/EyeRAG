@@ -1,0 +1,454 @@
+Source: PubMed Central (PMC)
+PMCID: PMC9955122
+Title: An Overview of Corneal Transplantation in the Past Decade
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9955122/
+Year: 2023
+Disease: corneal_transplant
+Priority: 2
+============================================================
+
+Clin Pract . 2023 Feb 14;13(1):264–279. doi: 10.3390/clinpract13010024 
+ 
+ 
+ An Overview of Corneal Transplantation in the Past Decade 
+ Mutali Musa 
+ Mutali Musa 
+ 
+ 1 Department of Optometry, University of Benin, Benin City 300238, Nigeria 
+ Find articles by Mutali Musa 
+ 
+ 
+ 1 , Marco Zeppieri 
+ Marco Zeppieri 
+ 
+ 2 Department of Ophthalmology, University Hospital of Udine, 33100 Udine, Italy 
+ Find articles by Marco Zeppieri 
+ 
+ 
+ 2, * , Ehimare S Enaholo 
+ Ehimare S Enaholo 
+ 
+ 3 Centre for Sight Africa, Nkpor, Onitsha 434112, Nigeria 
+ 
+ 4 Africa Eye Laser Centre, Benin 300001, Nigeria 
+ Find articles by Ehimare S Enaholo 
+ 
+ 
+ 3, 4 , Ekele Chukwuyem 
+ Ekele Chukwuyem 
+ 
+ 3 Centre for Sight Africa, Nkpor, Onitsha 434112, Nigeria 
+ 
+ 4 Africa Eye Laser Centre, Benin 300001, Nigeria 
+ Find articles by Ekele Chukwuyem 
+ 
+ 
+ 3, 4 , Carlo Salati 
+ Carlo Salati 
+ 
+ 2 Department of Ophthalmology, University Hospital of Udine, 33100 Udine, Italy 
+ Find articles by Carlo Salati 
+ 
+ 
+ 2 
+ 
+ Editor: Mitsuru Nakazawa 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Optometry, University of Benin, Benin City 300238, Nigeria 
+ 
+ 2 Department of Ophthalmology, University Hospital of Udine, 33100 Udine, Italy 
+ 
+ 3 Centre for Sight Africa, Nkpor, Onitsha 434112, Nigeria 
+ 
+ 4 Africa Eye Laser Centre, Benin 300001, Nigeria 
+ 
+ * Correspondence: markzeppieri@hotmail.com 
+ 
+ Roles 
+ 
+ Mitsuru Nakazawa : Academic Editor 
+ 
+ 
+ Received 2023 Jan 13; Revised 2023 Feb 7; Accepted 2023 Feb 10; Collection date 2023 Feb. 
+ 
+ © 2023 by the authors. 
+ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ ). 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC9955122  PMID: 36826166 
+ 
+ Abstract 
+ The cornea is a transparent avascular structure located in the front of the eye that refracts light entering the eyes and also serves as a barrier between the outside world and the internal contents of the eye. Like every other body part, the cornea may suffer insult from trauma, infection, and inflammation. In the case of trauma, a prior infection that left a scar, or conditions such as keratoconus that warrant the removal of all or part of the cornea (keratoplasty), it is important to use healthy donor corneal tissues and cells that can replace the damaged cornea. The types of cornea transplant techniques employed currently include: penetrating keratoplasty, endothelial keratoplasty (EK), and artificial cornea transplant. Postoperative failure acutely or after years can result after a cornea transplant and may require a repeat transplant. This minireview briefly examines the various types of corneal transplant methodologies, indications, contraindications, presurgical protocols, sources of cornea transplant material, wound healing after surgery complications, co-morbidities, and the effect of COVID-19 in corneal transplant surgery. 
+ Keywords: cornea transplant (CT), penetrating keratoplasty, endothelial keratoplasty (EK), artificial cornea transplant, COVID-19 1. Introduction 
+ The cornea is an avascular tissue that is transparent due to the arrangement of its component cells, its avascularity and the metabolic processes its endothelium carries out [ 1 ]. It measures 11–12 mm horizontally and 10–11 mm vertically. The cornea is 500–600 μm thick in the center while it gets thicker towards the periphery. The cornea is aspheric and has a refractive index of 1.376. Research has found the average cornea radius to be 7.8 mm, which results in a dioptric power of 43.25 D on the front surface of the cornea, using the keratometer calibration index of 1.3375 [ 2 ]. The total dioptric power of a normal human eye is about 58.60 D, and the cornea contributes 74%. This shows the importance of the cornea in vision as it contributes the most to bending light rays. In simpler terms, its curvature influences to a large extent the possibility of refractive error being present. The cornea is the major cause of astigmatism in the human refractive system. A healthy cornea is a trilaminar tissue with the following layers: the epithelium, Bowman’s layer (epithelial basement membrane), substantia propria (or stroma), Descemet’s membrane (basement membrane of stroma), and endothelium [ 3 ]. 2. Materials and Methods 
+ We searched the Pubmed database using the following search criteria; “corneal transplantation” [MeSH Terms] OR (“corneal” [All Fields] AND “transplantation” [All Fields]) OR “corneal transplantation” [All Fields] OR (“cornea” [All Fields] AND “transplantation” [All Fields]) OR “cornea transplantation” [All Fields]. Given that this study was focused on CT in the last decade, we narrowed the search criteria to 2012 to 2023, resulting in a return of 3021 results. The search words using only “transplant” or “keratoplasty” or other single words were not considered in our minireview to avoid an overabundance of potentially impertinent studies. This search strategy was limiting and could have potentially and unintentionally excluded opinion leaders in this field of research. A Prisma Table was also generated, showing further stratification steps. 
+ 2.1. Corneal Transplant—Methodology, Indications, and Contraindications 
+ Corneal transplantation (CT) is indicated via any processes leading to loss of corneal transparency, with neuroretinal integrity and optimal visual potential otherwise preserved [ 4 ]. CT is usually required for the management of advanced corneal dystrophies, corneal degenerations, and occluding corneal scars secondary to mechanical, chemical, or thermal injuries, all without comorbid ocular disease conditions to consider ( Figure 1 ). 
+ Figure 1. 
+ 
+ Open in a new tab 
+ Flow Chart depicting a summary of Cornea Transplant. * 1276 records were excluded for being out of range chronologically; ** Records that did not contain the word transplant in their title were removed; *** Records were based on limbal and other body parts transplants. CTs are among the most common procedure performed in many tertiary eye centers worldwide [ 5 , 6 , 7 , 8 , 9 , 10 , 11 , 12 ]. Various forms of CT are carried out, depending on the laminar depth of scarring or recipient corneal tissue viability. Lamellar keratoplasty is indicated when scarring extends to the corneal epithelium, Bowman’s layer, and stroma. This can either be anterior lamellar keratoplasty (ALK) for more superficial graft implantation; or deep lamellar keratoplasty (DLK) [ 13 ] when the stroma is equally diseased. The technique of penetrating keratoplasty (PK) replaces the entire thickness of corneal tissue [ 14 ]. The advent of endothelial keratoplasty (EK) has evolved the surgical approach to corneal endothelial dystrophies (i.e., Fuch’s endothelial dystrophy (FED), congenital hereditary endothelial dystrophy), and other corneal insults causing endothelial pump failure. EK is performed via various techniques, including Descemet’s stripping endothelial keratoplasty (DSEK), Descemet’s membrane endothelial keratoplasty (DMEK), Descemet’s membrane automated endothelial keratoplasty (DMAEK), and posterior lamellar keratoplasty (PLK) [ 15 , 16 ]. Usually, for lamellar keratoplasty and penetrating keratoplasty, donor corneal tissue is secured to recipient corneal tissue via peripheral sutures. Meanwhile, endothelial keratoplasty (EK) has evolved to the use of appositional intracameral gas bubbles and ophthalmic viscoelastic solution. 2.2. Presurgical Protocols 
+ Proper patient selection is key to yielding reasonable CT outcomes. A thorough corneal, anterior and gross posterior segment evaluation, in addition to a systemic workup, should ideally be carried out prior to qualifying all potential CT candidates. With regard to preoperative corneal evaluation, the depth of corneal tissue scarring and evidence of corneal ectasia should be determined. Detection of keratic precipitates (mutton fat, stellate or pigmented) indicates active or latent migration and deposition of immune moieties. The resultant hyperimmune sensitization disrupts the ocular immune privilege, decreasing the chances of post-graft tissue survival by more than four-fold [ 17 ]. Established intrastromal corneal neovascularization also often portends enhanced migration of phagocytes to host corneal tissue, thus compromising ocular immune privilege [ 18 ]. Clinical signs of anterior synechiae should also be looked out for, especially for EK candidates. 
+ When significant corneal stromal haze or widespread leucomatous scarring impairs intraocular evaluation, imaging modalities such as anterior segment-ocular coherence tomography (AS-OCT), ultrasound biomicroscopy (UBM), and B scan ultrasonography can be respectively utilized to gain a gross outline of individualized intraocular integrity. Corneal central thickness (CCT) measurements with pachymetry have, in the past, been correlated with corneal endothelial cell (CEC) loss [ 19 ], mostly among contact lens wearers and pseudophakic individuals [ 20 ]; hence, it may be an empirical indicator of viable host endothelial physiology prior to lamellar keratoplasty [ 21 ]. The patient’s innate or adaptive immune status plays a fundamental role in CT outcomes, especially in terms of the risk of post-graft rejection [ 22 ]. 
+ Under normal circumstances, the trilaminar cornea is devoid of lymphocytes. The cornea’s innate defense systems are provided by bacteriostatic enzymes in the tear film, the equilibrium of microbiome/normal flora on the ocular surface and the corneal epithelial barrier attributes [ 23 ]. This innate non-infiltrated status of healthy corneal tissue is commonly termed the “ocular immune privilege”. In cases of chronic infectious or inflammatory keratitis, however, polymorphonuclear lymphocytes are sensitized to migrate to offended corneal tissue, either through circulation via aqueous humor and/or progression of capillary vascular loops within corneal interstices [ 24 ]. These adaptive changes in corneal physiology have been linked with very poor graft survival outcomes post-CT. Host tissue fitting these unwanted criteria is advisably ruled out for allograft CT [ 25 ]. 
+ Standardized procedures of donor corneal tissue viability analysis are usually followed prior to harvesting and cryopreservation with corneal banks [ 26 ]. With regards to recipient immune status, physiological or disease states inducing immune dysregulation [ 25 ] such as pregnancy, poorly managed diabetes mellitus (DM), active tuberculosis, an acquired immunodeficiency syndrome (AIDS) or human immune virus (HIV) with low CD4 counts should be screened out. 
+ Rooij et al. conducted a comparative analysis of three standard methods of CT for the management of Fuchs endothelial dystrophy. They found that there was no significant difference between improvement using conventional PK, inverted mushroom PK and DSAEK [ 27 ]. 2.3. Sources of Cornea Transplant Material 
+ Globally, the need for donor corneal tissue to ease the burden of avoidable corneal blindness far outweighs the availability of viable graft tissue for CT [ 26 ]. The demand for viable corneal grafts is further increased by the need for repeat keratoplasty for eyes with a previous history of graft rejection [ 28 ]. Although widespread socioeconomic and religious differences contribute to difficulties with harvesting corneas promptly postmortem, other morphological, anatomical and physiological hindrances skew the demand-supply of corneal grafts to the negative [ 29 ]. The scarcity of corneal allografts suggests that alternative strategies for obtaining viable cornea transplant material could help close the gap, particularly in developing and underdeveloped areas [ 30 ]. 
+ Safe strategies for extending the viability period of donor tissue before allografting have been explored [ 31 ]. Glycerol-preserved corneas have been deemed comparable to fresh corneal tissue for emergent transplantation needs [ 32 ]. Conventionally, penetrating keratoplasty is carried out using allograft [ 28 ]. The implantation of “cell-free” biomaterials enabling corneal regeneration may evolve into human applications in the future, particularly for high-risk CT cases. This transplantation strategy has been applied to porcine eyes via anterior lamellar keratoplasty, with good tissue stability but inconsistent visual resolution accounted for [ 33 ]. 
+ Autologous graft sourcing also represents a viable strategy in rare cases where healthy corneal tissue on the contralateral side may not be of great functionality due to late comorbid ocular disease [ 34 ]. Homonymous corneal transplantation has been carried out post-enucleation for a patient with a central leucoma on the right eye and large choroidal melanoma on the left eye; findings thus far suggest that preoperative histopathological assessment of corneal-limbal tissue may be reliable enough to evade chances of neoplastic spread via autografting from such diseased eyes [ 34 ]. 
+ Corneal transplantation of autologous tragal perichondrium with an amniotic membrane overlay has been reported to yield symptomatic relief among patients with bullous keratopathy compared to controls [ 35 ]. Culturing human corneal endothelial cells from mesenchymal stem cells originating from the neural crest has also been explored [ 36 ]. 2.4. Wound Healing after Cornea Transplant—New Perspectives 
+ A common complication of wound healing is neovascularization. Topical bevacizumab application post-CT four times daily for 24 weeks was found to statistically reduce the occurrence of neovascularization [ 37 ]. Better results were obtained when bevacizumab was administered subconjunctivally compared to topically [ 38 ]. 
+ Immune rejection after CT has been successfully managed via donor-derived, tolerogenic dendritic cells [ 39 ]. A blockade of E-selectin adhesion receptors [ 40 ] has been shown to prolong CT graft survival. The monoclonal antibody RMT1-10 also enhanced the survival of corneal allografts in-situ [ 41 ]. Matching donor and recipient human leukocyte antigens (HLA) may also prevent an autoimmune breakdown of the graft after CT [ 42 ]. Topical application of cyclosporine nanomicelle eye drops (CNED) may also suppress the immune response by downregulating the NF-κB and ICAM-1 expression [ 43 ]. 2.5. Other Uses of Corneal Transplants 
+ In cases where there is a severe corneal ulceration threatening the integrity of the globe, a penetrating keratoplasty can be the last chance of saving that eye [ 44 ]. The key cutoff is when the corneal endothelium is compromised. Therapeutic-tectonic penetrating keratoplasty continues to show promise in eyes affected by infectious corneal ulcers. Jafarinasab et al. published a review of 32 eyes that had suffered blunt trauma and were at high risk of globe rupture due to corneal perforation secondary to infections. Twenty-six eyes eventually underwent penetrating keratoplasty, and five underwent DALK. One eye was managed with a Tectonic graft [ 45 ]. They reported significant improvements in globe stability, although some eyes suffered a recurrence of the presenting infections. Doğan and Arslan reported even better outcomes, with 42 out of 43 patients achieving stable globe integrity [ 46 ]. 2.6. Preparation and Storage of Donor Corneas 
+ Corneal donation involves identifying a potential donor eye, preparing the eye for removal of the graft, extraction of donor tissue and storage. Therefore, the preparation of corneal grafts takes up a critical stage in this regard due to the high demand for cornea tissue and relatively lower supply [ 47 , 48 ]. Intra-operative optical coherence tomography has been useful in the preparations of corneal tissue during extraction. Donor tissue preparation can also be done under this new technology [ 49 ]. This technique showed a remarkable 98.5% match with other standard clinical grading. Specular spectroscopy can be used to evaluate endothelial cell density. Modis et al. suggested that specular and non-specular spectroscopy can be used as exchangeable [ 50 ]. Bonci et al. compared two methods of preparation of donor corneas; one method used a Hanna trephine with an external chamber, while the other used the same Hanna trephine but with a punch [ 51 ]. The methods extracted the donor cornea along the epithelium-endothelium and endothelium-epithelium directions, respectively. The study revealed that endothelial cell density (ECD) loss was less in the epithelium-endothelium cut corneas. As ophthalmic surgeons are ultimately responsible for carrying out these procedures, it is imperative that they keep abreast with different developments in the field by retraining and reviewing relevant literature. 
+ Hagenah and Winter reviewed recent trends in globe disinfection before graft extraction [ 52 ]. They suggested a 3% povidone-iodine solution for disinfecting the globes. It is also advised that extracted corneal tissue should be secured in a corneoscleral disc for some time to antibiotics neutralize any remaining contaminants. They recommended that storage containers can be sealed or changed every two weeks under aseptic conditions [ 52 ]. Wykrota et al. examined activities at an Eye bank over a period of nine years and reported that low endothelial cell count (ECC) was the most common reason for discarding banked corneas, followed by tissue contamination [ 53 ]. Solley et al. reported a new device for preparing grafts via Descemet membrane endothelial keratoplasty in diabetic and non-diabetic eyes. This new device, the DescePrep, performed well with a 97% success rate and average cell death post-extraction at 7.9% ± 3.7% for all corneas [ 54 ]. 
+ The ECD can be a very important indicator of the eventual viability of the graft. Gupta and Gupta examined 100 eyes that received corneal transplants within a two-year period over periodic intervals. They reported that the most endothelial cell loss was seen in patients undergoing a repeat graft, while keratoconus-grafted eyes showed the lowest loss [ 55 ]. Another study found that while ECD was not related to endothelial decompensation after transplant, it was positively r = correlated with the same at six months post-operation [ 56 ]. This study also reported a drop in ECD to lower than 500 cells/mm 2 in 14% of its participants and co-morbidities in corneal transplant medicine. 
+ This relative scarcity of corneas for transplant puts their storage on the front burner for many researchers. The numbers of overall grafts properly stored and the eventual viability of the grafts when needed for eventual transplant are two key indices that can advise on the progress of corneal tissue storage development. Garcin et al. developed an active storage device which they called a bioreactor and compared its preservation abilities versus the organ culture storage technique. They published results showing that the bioreactor had a 23% higher rate of endothelial cell survival than the organ culture technique [ 57 ]. They also reported better transparency and tissue integrity in the corneas stored using the bioreactor as compared to the organ culture technique. The authors also showed increased longevity of tissue preservation by using active storage. They conducted a random trial using 24 paired corneas equally split between organ culture and their active storage machine. Their study showed that the active storage system maintained tissue integrity, endothelial cell viability, and numbers in addition to the expression of biochemical stability markers like CD166. In contrast, the organ culture-stored corneas were all found to be unsuitable for corneal transplant at the same time period [ 58 ]. 
+ Generally, the causes of CT failure have been classified into: 
+ 
+ Failure of the cornea graft (PGF). 
+ Immunological reaction by the host to the graft [ 59 ]. 
+ Non-immunological factors such as spontaneous decompensation, glaucoma and diseases [ 60 , 61 ]. Wound dehiscence and surgical trauma are included in this classification [ 62 ]. 
+ Other distinct factors [ 63 ]. 
+ 
+ The cornea endothelium is an inner barrier to edematous damage from aqueous humor breaching into the cornea. Endothelial cell count (CEC) is therefore essential to assess the ability of the eye to retain this protective ability. Studies have shown that the CEC is significantly reduced when corneas are extracted for grafting [ 64 ]. Jafarinasab et al. reported on the outcomes of CT in 32 eyes that had previously suffered globe rupture. They reported a progressive reduction in stability in the host-graft interface. They also suggested that an uncompromised Descemet’s membrane layer can help to mitigate this occurrence [ 65 ]. This Endothelium/Descemet complex thickness (En/DMT) is a good indicator of the prognosis of stability after a successful CT. In fact, an increased En/DMT thickness is an indicator of tissue rejection post-CT, especially in high-risk corneas [ 66 ]. 
+ Cytokine elevation has also been observed in eyes that suffered CT failure [ 67 ], although topical postoperative drugs like levofloxacin, Fk506 and dexamethasone had no deleterious effect when used post-PKP [ 68 , 69 ]. Any disruption in the normal homeostatic and tissue balance in the cornea can first result in corneal haze (CH) [ 69 ]. Pentacam Scheimpflug densitometry was used to measure CH in 44 and an incidence of 6.8% (95%CI: 1.4–18.7%) in a tertiary hospital-based study [ 70 ]. Corneal densitometry measured 21.86 ± 6.22 GSU preoperatively in the 44 eyes. However, this reduced to 21.23 ± 4.29 GSU at 12 months postoperatively ( p = 0.815). 
+ Wound dehiscence is a common complication post-CT. A study was conducted in the Riyal Eye and Ear hospital to assess the incidence and clinical demographic of 72 eyes who visited a center for surgery [ 71 ]. Perioperative wound dehiscence may also occur at the host-graft junction and lead to a failure of the CT [ 72 ]. The presence of lymphatic vessels within neovascularized failed CT has also been implicated. It remains to be determined if this suggests a new direction for future preventive management [ 73 ]. Fine needle diathermy has been indicated as a novel method of managing this lymphangiogenesis [ 74 ]. 
+ Corneal opacities impede intraoperative visualization during cataract extraction and vitreoretinal surgery [ 75 ]. Performing keratoplasty prior to other secondary intraocular surgeries, however, may risk graft tissue viability. Hence, bi-procedural approaches have been explored. Combined keratoplasty and pars plana vitrectomy (PPV) has been successfully performed. The study reported, however, high rates of graft failure, which were correlated with active intraoperative corneal inflammation [ 76 ]. Planned EK following cataract surgery has also been recommended amongst patients with endothelial dysfunctions: dystrophic, degenerative or secondary to ocular disease like glaucoma [ 75 ]. Features consistent with the ocular dysgenesis disorder, aniridia, have been shown to manifest onto donor corneal buttons following transplantation to diseased corneas [ 77 ]. 
+ Clinicians should also note that patients receiving immune checkpoint medication are at risk of CT rejection [ 78 ]. Common systemic conditions like diabetes can encourage infection and delay wound healing. Infective agents/diseases have also been implicated as sources of poor outcomes. Donors may be the source of infective pathogens that eventually lead to a CT rejection in the future. A Saudi Arabia study found that 0.88% of donated corneas used in 684 CT cases were positive for infective pathogens [ 79 ]. Candida infections are commonly reported as culprits in CT failure [ 80 ]. In a review of 789 eyes that underwent CT at two Indian centers, five eyes (0.63%) developed complications secondary to Candida infections. Contributing risk factors were prolonged steroid use, repeated CT, and cornea epithelial weakness [ 81 ]. 
+ Another study at a different center reported an incidence of microbial keratitis in 4.77% of 1508 eyes that had undergone CT [ 82 ]. Natamycin and voriconazole have been suggested as viable therapeutic regimens for managing Candida infections [ 83 ]. Mucormycosis has been registered post-deep-anterior-lamellar-keratoplasty (DALK) [ 84 ], with a suggestion to manage any sinusitis in a diabetic patient before attempting CT surgery. Giurgola et al. have suggested that Kerasave, a new synthetic product, may drastically reduce in-vitro contamination of donor corneas [ 85 ]. Animal models have also indicated that injection of mesenchymal stem cells may limit acute post-CT inflammation [ 86 ]. 
+ Non-infective unforeseen events can also complicate the CT process. Jarstad et al. reported a case of cardiac failure in an otherwise healthy young adult during CT surgery that was successfully managed [ 87 ]. Another common complication of CT is glaucoma [ 88 ]. Management may include pharmacological agents or surgery. Studies have shown that surgery for glaucoma after CT has been implicated in CT rejection [ 89 ]. 
+ Rare conditions like monoclonal gammopathy of undetermined significance are also implicated, especially in the presence of elevated levels of abnormal M proteins [ 90 ]. Paniz-Mondolfi et al. also reported the isolation of Colletotrichum chlorophyti in an eye with postoperative endophthalmitis after CT [ 91 ]. Another study reported a post-CT infection of Alternaria alternate [ 92 ]. The human cytomegalovirus (CMV) is known to attack tissue all over the body. Like all viral conditions, it can lie dormant for extended periods and become active without warning. CMV endothelitis results in loss of CEC and subsequent poor prognosis. 
+ As with any grafting procedure, immunologic interactions between the host and donor tissue can be problematic. However, non-immunologic factors can also be a factor in the loss of CEC, even with patients receiving autologous CT [ 93 ]. Repeat transplant/graft procedures are also a risk factor in the failure of CT. Aboshisha et al. conducted a large-scale study to examine the survival rates for regraft procedures for keratoconus, Fuch’s endothelial dystrophy, and pseudophakic bullous keratopathy (PBK). PK and EK were the procedures of choice for FE dystrophy and PBK, while PK and DALK were the procedures of choice for keratoconus [ 94 ]. Sometimes, the failure is not in the procedure nor the result but in the patient’s experiences after CT [ 95 ]. Masmoudi et al. reported a patient suffering from Charles Bonnet syndrome after CT [ 96 ]. 2.7. The Effect of COVID-19 on Corneal Transplant Medicine and Services 
+ The avascularity and degree of sensory innervation of the cornea ensure the maintenance of its structural integrity and function. A deviation from the regular structural integrity and outline precipitated by cornea diseases is the fourth leading cause of blindness worldwide. Most visual impairments resulting from cornea morbidities are avertible and reversible. Cornea transplantation is a required surgical intervention in cornea diseases which results in a deep lamellar cornea structural deformity; however, as with most solid-organ transplants, the risk of transmission of infectious diseases to the handlers of donor tissues and recipients cannot be overlooked. The Eye Bank Association of America (EBAA) released updated recommendations and policy changes with the advent of the COVID-19 pandemic [ 97 ]. 
+ The COVID-19 pandemic resulted in acute and chronic shortages of donor corneas in a healthcare system that already had a long list of patients waiting [ 98 , 99 ]. A study from Riyadh, in which data from patients who underwent keratoplasty between January 2006 to March 2021 were retrospectively reviewed, showed aphakic/pseudophakic bullous keratopathy, keratoconus, regraft, and keratitis as the most common indication for keratoplasty. Furthermore, it was found that lamellar keratoplasty was more favored than penetrating keratoplasty during that era. There was a significant reduction in CT during the COVID-19 period. These researchers reported that painful eyes and emergencies were prioritized [ 100 ]. Due to safety concerns, most surgical procedures without an emergency tag were often delayed or canceled. Reviews of the Italian national eye bank report, in which data from 13 out of 13 Italian eye banks were analyzed, demonstrated a statistically significant decrease in the number of donor corneas retrieved in 2020 as compared to a similar era in 2019 and 2018 [ 101 , 102 ]. 
+ Several questions regarding the spread and transmission of SAR-CoV-2 in tears and ocular tissues have been asked. The first was to identify the presence of SAR-CoV-2 in tears which may enable its transmission and subsequent infection of ocular tissues [ 103 ]. In a study of 38 confirmed cases, 31.6% of the patients were found to have conjunctival signs, although most of these patients were in the critical phase [ 104 ]. Consequently, the screening of donor corneas from COVID-19 patients is of great relevance. The insufficiency of evidence-based studies establishing the presence of the COVID-19 virus in the cornea and tears of COVID-19 patients, however, has delayed evidence-based consensus. As such, preferred practice guidelines ensure zero risk of transmission of the disease be instituted [ 105 ]. The short-term availability of transplant corneas after harvesting makes cornea transplant an always urgent surgical intervention; consequently, satisfactory safety adjustments to eye clinics and ophthalmic surgery organizations, as well as reliable diagnostic procedures, should be favored to minimize the risk of transmission of SARs-CoV-2 [ 106 ]. 
+ The shortage of donor tissue during the COVID-19 pandemic also had positive results. Clinicians reported an innovative procedure and were able to use a single donor cornea for four different recipients undergoing CT for different conditions [ 107 ]. Another study reported three patients benefitting from a single cornea [ 108 ]. Access of CT recipients to needed care also became constrained during the early pandemic months [ 109 ]. Procurement and distribution channels for donor corneas were also disrupted worldwide due to flight restrictions and lockdowns [ 107 , 110 ]. Joshi et al. reported on 10 patients who suffered CT failure in an Indian setting. They opined that the fear of contracting SARs-CoV-2 was a factor that resulted in the delayed presentation of these patients [ 111 ]. Thuret et al. assessed the effect of the COVID-19 pandemic on corneal transplants in Europe. In particular, they looked at how corneas were obtained and distributed to eye banks between May 2018 and 2020. They concluded that the additional screening and testing protocols occasioned by the COVID-19 pandemic resulted in a decrease in the donor pool, as expected. They recommended that evidence-based protocols and recommendations should be investigated to ensure that the new screening and testing protocols are justified [ 112 ]. 2.8. Cornea Transplant in Developing Countries 
+ A 15-year review of corneal donations in southern Africa revealed that cultural beliefs have led to a marked reduction in donation numbers [ 113 ]. However, another study among drivers in Africa reported that 67.3% of participants were willing to sign up to donate their corneas after obtaining some knowledge of the importance of corneal transplants. Eze et al. carried out a questionnaire to assess the knowledge and attitudes in a University environment [ 114 ] in Nigeria. The responses of clinical-based students were compared to non-clinical students. They found significant deficits in knowledge and attitudes to ocular tissue transplant and donation. They suggested that the introduction of the subject matter of corneal transplants into the undergraduate coursework and awareness will improve understanding and knowledge among the two groups. This was also corroborated by work credited to Williams and Muir [ 115 ]. The William and Muir study suggested factors including age, race and being Muslim was correlated with a higher willingness to donate corneas. However, they reported that a modifiable factor that affected willingness to operate was knowledge and awareness. In fact, Wang et al. suggested that patients who had required corneal transplants in the past were more likely to show better knowledge and accede to donating their corneas [ 116 , 117 ]. Hussen et al. suggested implementing awareness creation programs in communities [ 118 ]. 
+ Gain et al. conducted a systematic review of reports on corneal transplant medicine and eye banks. They then conducted interview series among specialists spanning 148 different countries. In total, they reviewed 184,576 surgeries using 283,530 corneas obtained from 742 cornea banks. Their work concluded that there was indeed a scarcity of corneas worldwide. Their calculated availability was estimated at only one cornea for every 70 eligible transplant patients. They suggested an acceleration of alternative/artificial solutions such as keratoprostheses [ 119 ]. 2.9. Current Perspectives on CT 
+ The first CT took place in 1884 using a bovine cornea [ 120 ]. CT has come a long way since then. Recent publications suggest partial thickness CTs are the most common procedures performed in eye centers, with FED being the leading cause of corneal disease both in the United Kingdom, Hong Kong and Canada [ 121 , 122 , 123 , 124 , 125 ] as compared to previous decades when full thickness CT was common. The opposite was reported in Poland, where full-thickness CT made up 82% of surgeries in a study [ 125 ]. 
+ Amagai et al. reported the successful development of a novel tissue carrier for donor graft tissue [ 126 ]. They validated a poly(lactic acid)-based carrier for cell sheets transplantation of cornea sheets in animal models. All-laser CT procedures have been reported to improve outcomes [ 127 ]. Femtosecond Laser-assisted cornea matrix transplantation has also shown promise in correcting ametropia [ 126 , 128 ]. 
+ Tissue-engineered construct models for corneal endothelial keratoplasty have shown greater pharmacoeconomic potentials than those working with donor tissue [ 127 ]. Ultraviolet corneal cross-linking yields greater than 80% corneal topographic stability postoperatively. However, PK and DALK remain first-line surgical options for advanced keratoconus (KC), with a significant complication profile. Thus, Bowman’s layer transplantation is a promising strategy for avoiding very invasive keratoplasty at advanced stages of KC [ 129 ]. Intraoperative AS-OCT has been reported to be of great value during PLK in the case of congenital posterior polymorphous dystrophy [ 130 ]. For determining corneal endothelial cell density (ECD) post-grafting, confocal microscopic ‘polygonal’ variable cell count has been deemed the most clinically applicable method, with comparable reliability to planimetry [ 131 ]. 
+ Azithromycin treatment regimen has been reported to reduce the incidence of high-risk allograft rejection in murine models [ 132 ]. Preoperative incubation of donor corneas in media containing recipient-specific human serum (HS) has been suggested to yield improved graft success outcomes in the eighth year post-CT [ 131 ]. It has been recommended that performing limbal stem cell allograft transplantation from human leukocyte antigen (HLA)-matched donors, combined with amniotic membrane transplantation prior to PK-induced graft success outcomes in a patient with a previous history of multi-graft rejection [ 133 ]. Some promise has been depicted via angiopoietin-2 blockade therapy post-allogeneic corneal transplantation by inhibiting lymphangiogenesis [ 134 ]. 
+ Steroid therapy after ocular surgery is indicated for the prevention of inflammation and also for its immunosuppressive properties. Poinard et al. conducted a study to assess the adherence of cornea transplant receivers to prescribed postoperative steroid therapy [ 135 ]. Steroid therapy is usually maintained topically for one-year post-transplant. They monitored a cohort of 30 patients for a duration of one year after surgery using a KaliJAR device that recorded the number of doses of eyedrops leaving a vial. They observed a high correlation between the KaliJAR-reported and self-reported doses of steroids in the patients. They, therefore, concluded that the KaliJAR was an accurate device that has potential applications in monitoring patients with poor drug adherence. 
+ Trone et al. also conducted a pilot study (Phase II) as part of a clinical trial to assess the safety of a new dropless PK which incorporated a subconjunctival steroid implant [ 136 ]. Fourteen patients received this implant after a corneal transplant and were monitored for changes in IOP and corneal transplant stability indices. Indices included inflammation, central corneal thickness, and tissue rejection. They successfully achieved stable IOP in all participants and reported an average resorption period of 1.5 months, with one patient suffering a rejection. 2.10. Keratoprostheses: A Game Changer 
+ As already stated, conventional keratoplasty involves allogeneic transplantation of corneal tissue: tissue-specifics depending on the disease section of the cornea [ 137 ]. Notably, penetrating keratoplasty (PK) is preserved for severe inflammatory, infectious or degenerative keratitis or resolution of visual impairment with associated extensive corneal scarring [ 138 ]. Limitations to PK for such indications include immune responses to donor antigens and poor supply to meet the demands for viable trilamellar corneal tissue [ 139 ]. The advent of artificial corneal transplant material, also termed keratoprosthesis (KPro), may well provide long-term solutions to pressing questions probing the field of corneal preservation and transplantation [ 140 ]. 
+ Keratoprestheses require a clear central optic zone to enable refraction onto the retina. Historically, early KPro material consisted of convex glass sheets which served as optics surrounded by metallic rims made of silver, quartz, platinum and like materials [ 141 ]. Attempts were also made to secure corneal tissue between plates of glass. The era of KPros gained greater validity and application following the development of polymethylmethacrylate (PMMA)-based biologically integrable material for the replacement of failed allogeneic grafts, as well as the early evolution of surgical applications. 
+ Retrospectively, the Boston type-1 KPro (with its phakic and aphakic models) and the Osteo-odonto KPro have reportedly recorded proven highest success rates. The use of the temporary Eckardt KPro and other retrievable soft contact lens media has been successfully trialed for posterior segment visualization during vitreoretinal procedures with combined keratoplasty [ 142 , 143 ]. Eyes with good tear secretion and non-severe ocular surface disease (OSD) are recommended to fair better with the Boston keratoprosthesis, while on the other hand, cases of marked OSD with severe structural adnexal defects are suggested for the use of Osteo-odonto KPro. 
+ Preoperative preparation requires ocular imaging and biometric analysis to determine anterior chamber depth; gross morphological iridocorneal angle integrity; crystalline lens presence/position; also, and retinal function and integrity (which may require electrophysiology in doubtful cases). 
+ Major complications reported post-KPro implantation include glaucoma, persistent autoimmune reaction with cases of coexisting system autoimmune disease (leading to melting and chronic inflammation, infection, and retinal detachment. However, it is worth stating that proper preoperative or perioperative identification of ocular surface or related human leukocyte antigen (HLA)-driven responses can help to avert further sight loss following KPro implantation. 3. Conclusions 
+ Corneal specialist surgeons should be globally incentivized to encourage uptake, training, and retraining in modern techniques of allograft transplantation. The major impediment to optimal management of corneal blindness aside from donor shortage remains post-CT rejection/graft failure. Finding solutions may depend on the rate of progress regarding the incorporation of either biological material or procedural modulation of stem cell differentiation to avascular corneal-like tissue, especially for immune-mediated graft failure. There will certainly be limitations to this approach, specifically in the exploitation of totipotent embryonic stem cells. Strategies to prolong the viability time of donor grafts would also serve to minimize cost effectiveness preoperatively. Demand for CT may also decrease if current advances in local ocular stem cell application and amniotic membrane transplantation reduce the incidence of corneal scarring following chemical injury and deep corneal ulceration. Acknowledgments 
+ The authors wish to acknowledge Godwin Okoye of Africa Eye Laser Centre Ltd. and Centre for Sight Ltd. Author Contributions 
+ Conceptualization, M.M. and M.Z.; methodology, M.M., M.Z., E.C. and E.S.E.; validation, M.M., M.Z. and C.S.; formal analysis, M.M., M.Z., E.S.E. and E.C.; investigation, M.M., E.C. and E.S.E.; resources, C.S.; writing—original draft preparation, M.M. and M.Z.; writing—review and editing, M.M., E.S.E., E.C. and M.Z.; visualization, M.M., M.Z., E.S.E., E.C. and C.S. supervision, C.S.; project administration, C.S. All authors have read and agreed to the published version of the manuscript. Institutional Review Board Statement 
+ Not applicable. Informed Consent Statement 
+ Not applicable. Data Availability Statement 
+ Not applicable. Conflicts of Interest 
+ The authors declare no conflict of interest. Funding Statement 
+ This research received no external funding. Footnotes 
+ Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content. References 
+ 
+ 
+ 1. Rates E.R.D., Almeida C.D., Costa E.D.P.F., Farias R.J.D.M., Santos-Oliveira R., Alencar L.M.R. Layer-by-layer investigation of ultrastructures and biomechanics of human cornea. Int. J. Mol. Sci. 2022;23:7833. doi: 10.3390/ijms23147833. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Musa M.J., Zeppieri M. Principles and Technique of Fogging during Subjective Refraction. StatPearls; Treasure Island, FL, USA: 2022. [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Sridhar M.S. Anatomy of cornea and ocular surface. Indian J. Ophthalmol. 2018;66:190–194. doi: 10.4103/ijo.IJO_646_17. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Rémont L., Duchesne B., La C., Rakic J.M., Hick S. Updates in corneal transplantation. Rev. Med. de Liege. 2014;69:490–496. [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Mota S.H.-D., Jacobo M.P., Revuelta G.G., Martínez R.M.P. Corneal transplant in a second level hospital. A survival analysis. Gac. Med. De Mex. 2013;149:425–430. [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Belghmaidi S., Hajji I., Soummane H., Ennassiri W., Essafi H., Moutaouakil A. Corneal transplantation: Study carried out at the Department of Ophthalmology, University Hospital Center Mohammed VI, Marrakech. Pan. Afr. Med. J. 2016;23:158. doi: 10.11604/pamj.2016.23.158.8667. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Studený P., Hamouz J., Kuchynka P. Corneal transplantations in the Czech Republic in 2012. Czech Slovak Ophthalmol. 2014;70:224–227. [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Verdiguel-Sotelo K., Carrasco-Quiroz A., Rangel-Servín J. Prognostic category of corneal transplantation in a referal center. Rev. Med. Del Inst. Mex. Del Seguro Soc. 2016;54:738–745. [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Sabater-Cruz N., Figueras-Roca M., Padró-Pitarch L., Tort J., Casaroli-Marano R.P. Corneal transplantation activity in Catalonia, Spain, from 2011 to 2018: Evolution of indications and surgical techniques. PLoS ONE. 2021;16:e0249946. doi: 10.1371/journal.pone.0249946. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Galvis V., Tello A., Gomez A.J., Rangel C.M., Prada A.M., Camacho P.A. Corneal transplantation at an ophthalmological referral center in colombia: Indications and techniques (2004–2011) Open Ophthalmol. J. 2013;7:30–33. doi: 10.2174/1874364101307010030. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Chen M.C., Kunselman A.R., Stetter C.M., Hannush S.B., Roberts B.W. Corneal transplantation at Tenwek Hospital, Kenya, East Africa: Analysis of outcomes and associated patient socioeconomic characteristics. PLoS ONE. 2017;12:e0187026. doi: 10.1371/journal.pone.0187026. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Hwang S., Chung T.-Y., Han J., Kim K., Lim D.H. Corneal transplantation for keratoconus in South Korea. Sci. Rep. 2021;11:12580. doi: 10.1038/s41598-021-92133-y. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Sarnicola C., Sarnicola E., Cheung A.Y., Sarnicola V. Deep anterior lamellar keratoplasty: Can all ruptures be fixed? Cornea. 2023;42:80–88. doi: 10.1097/ICO.0000000000003054. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Qureshi S., Dohlman T.H. Penetrating keratoplasty: Indications and graft survival by geographic region. Semin. Ophthalmol. 2022;38:31–43. doi: 10.1080/08820538.2022.2152710. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Sharma N., Mandal S., Asif M., Maharana P., Titiyal J. A review of techniques and outcomes of endothelial keratoplasty in congenital hereditary endothelial dystrophy. Indian J. Ophthalmol. 2022;70:4108. doi: 10.4103/ijo.IJO_1313_22. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Goodman C.F.B., Mittal R.B., Awidi A., Vanner E.A., Han E., Daoud Y.J., Koo E.H. Outcomes of secondary intraocular lens implantation and descemet stripping endothelial keratoplasty—Comparing staged versus combined surgical approach. Cornea. 2022. 
+publish ahead
+. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 17. Shahrudin N.A., Zahidin A.Z.M., Noh U.K., Halim W.H., Din N. CMV endotheliitis: A cause for recurrent failed corneal transplant. GMS Ophthalmol. Cases. 2017;7:Doc31. doi: 10.3205/oc000082. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Zhong W., Montana M., Santosa S.M., Isjwara I.D., Huang Y.-H., Han K.-Y., O’Neil C., Wang A., Cortina M.S., de la Cruz J., et al. Angiogenesis and lymphangiogenesis in corneal transplantation–A review. Surv. Ophthalmol. 2018;63:453–479. doi: 10.1016/j.survophthal.2017.12.008. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Verdier D.D., Sugar A., Baratz K., Beck R., Dontchev M., Dunn S., Gal R.L., Holland E.J., Kollman C., Lass J.H., et al. Corneal thickness as a predictor of corneal transplant outcome. Cornea. 2013;32:729–736. doi: 10.1097/ICO.0b013e31827b14c7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Zhou H.W., Xie L.X. Effects of cataract surgery on endothelium in transplanted corneal grafts: Comparison of extracapsular cataract extraction and phacoemulsification for complicated cataract after penetrating keratoplasty. Chin. Med. J. 2016;129:2096–2101. doi: 10.4103/0366-6999.189050. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Steger B., Kaye S.B., Romano V. Corneal transplantation: The fine line between donor shortage and tissue quality. BMJ Open Ophthalmol. 2022;7:e001046. doi: 10.1136/bmjophth-2022-001046. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Niederkorn J.Y. Corneal transplantation and immune privilege. Int. Rev. Immunol. 2013;32:57–67. doi: 10.3109/08830185.2012.737877. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Shaharuddin B., Ahmad S., Meeson A., Ali S. Concise review: Immunological properties of ocular surface and importance of limbal stem cells for transplantation. Stem Cells Transl. Med. 2013;2:614–624. doi: 10.5966/sctm.2012-0143. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Armitage W.J., Goodchild C., Griffin M.D., Gunn D.J., Hjortdal J., Lohan P., Murphy C.C., Pleyer U., Ritter T., Tole D.M., et al. High-risk corneal transplantation: Recent developments and future possibilities. Transplantation. 2019;103:2468–2478. doi: 10.1097/TP.0000000000002938. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Major J., Foroncewicz B., Szaflik J.P., Mucha K. Immunology and Donor-Specific Antibodies in Corneal Transplantation. Arch. Immunol. Et Ther. Exp. 2021;69:32. doi: 10.1007/s00005-021-00636-3. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Boynton G.E., Woodward M.A. Eye-bank preparation of endothelial tissue. Curr. Opin. Ophthalmol. 2014;25:319–324. doi: 10.1097/ICU.0000000000000060. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Van Rooij J., Lucas E.H., Geerards A.J., Remeijer L., Wubbels R. Corneal transplantation for Fuchs’ endothelial dystrophy: A comparison of three surgical techniques concerning 10 year graft survival and visual function. PLoS ONE. 2018;13:e0203993. doi: 10.1371/journal.pone.0203993. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Akpek E.K., Alkharashi M., Hwang F., Ng S.M., Lindsley K. Artificial corneas versus donor corneas for repeat corneal transplants. Cochrane Database Syst. Rev. 2014;11:CD009561. doi: 10.1002/14651858.CD009561.pub2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Arya S.K., Raj A., Deswal J., Kohli P., Rai R. Donor demographics and factors affecting corneal utilisation in Eye Bank of North India. Int. Ophthalmol. 2021;41:1773–1781. doi: 10.1007/s10792-021-01736-x. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Fu L., Hollick E.J. Artificial Cornea Transplantation. StatPearls; Treasure Island, FL, USA: 2022. [ PubMed ] [ Google Scholar ] 
+ 
+ 31. AlMutlak M., Li J.Y., Bin Helayel H., Fairaq R. Future of corneal donation and transplantation: Insights from the COVID-19 pandemic. Cornea. 2020;40:274–276. doi: 10.1097/ICO.0000000000002538. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Gupta N., Dhasmana R., Maitreya A., Badahur H. Glycerol-preserved corneal tissue in emergency corneal transplantation: An alternative for fresh corneal tissue in COVID-19 crisis. Indian J. Ophthalmol. 2020;68:1412–1416. doi: 10.4103/ijo.IJO_1198_20. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Islam M.M., Buznyk O., Reddy J.C., Pasyechnikova N., Alarcon E.I., Hayes S., Lewis P., Fagerholm P., He C., Iakymenko S., et al. Biomaterials-enabled cornea regeneration in patients at high risk for re-jection of donor tissue transplantation. NPJ Regen. Med. 2018;3:2. doi: 10.1038/s41536-017-0038-8. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Iglicki M., Loewenstein A., Manera M., Castro C., Busch C., Zur D., Negri H.P. Autologous corneal transplant from an enucleated fellow eye for choroidal melanoma: A case report. Case Rep. Ophthalmol. 2020;11:181–188. doi: 10.1159/000507776. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Kim K.W., Chun Y.S., Kim J.C. Autologous tragal perichondrium transplantation: A novel approach for the management of painful bullous keratopathy. Korean J. Ophthalmol. 2013;27:149–157. doi: 10.3341/kjo.2013.27.3.149. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Parekh M., Ferrari S., Sheridan C., Kaye S., Ahmad S. Concise review: An update on the culture of human corneal en-dothelial cells for transplantation. Stem Cells Transl. Med. 2016;5:258–264. doi: 10.5966/sctm.2015-0181. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Bhatti N., Qidwai U.S.A., Hussain M., Kazi A. Efficacy of topical bevacizumab in high-risk corneal transplant survival. Pak. J. Med. Sci. 2013;29:519–522. doi: 10.12669/pjms.292.3089. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Bhatti N., Qidwai U., Hussain M., Kazi A. Efficacy of sub-conjunctival and topical bevacizumab in high-risk corneal transplant survival. J. Pak. Med. Assoc. 2013;63:1256–1259. [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Hattori T., Saban D.R., Emami-Naeini P., Chauhan S.K., Funaki T., Ueno H., Dana R. Donor-derived, tolerogenic dendritic cells suppress immune rejection in the indirect allosensitization-dominant setting of corneal transplantation. J. Leukoc. Biol. 2012;91:621–627. doi: 10.1189/jlb.1011500. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Dohlman T., Di Zazzo A., Omoto M., Hua J., Ding J., Hamrah P., Chauhan S.K., Dana R. E-selectin mediates immune cell trafficking in corneal transplantation. Transplantation. 2016;100:772–780. doi: 10.1097/TP.0000000000001107. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Guo Y.-Y., Yin C.-J., Zhao M., Guo L.-T., Su R.-F., Fu X.-X., Dong W.-L., Tan X.-B. Effect of RMT1-10 on the immunological characteristics of dendritic cells cultured in vitro and corneal transplantation in vivo. Eur. Rev. Med. Pharmacol. Sci. 2019;23:9150–9162. doi: 10.26355/eurrev_201911_19405. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Sachdeva G.S., Cabada J.P., Karim S.S., Kahandawa D.L., Thomas K.A., Kumar A., Barry R.J., Butt G.F. Effectiveness of matching human leukocyte antigens (HLA) in corneal transplantation: A systematic review protocol. Syst. Rev. 2021;10:150. doi: 10.1186/s13643-021-01704-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Zhang H., Wang L., Zhang L. Cyclosporine nanomicelle eye drop: A novel medication for corneal graft transplantation treatment. Biol. Pharm. Bull. 2015;38:893–900. doi: 10.1248/bpb.b15-00111. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Singh R., Gupta N., Vanathi M., Tandon R. Corneal transplantation in the modern era. Indian J. Med. Res. 2019;150:7–22. doi: 10.4103/ijmr.IJMR_141_19. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Jafarinasab M.R., Feizi S., Esfandiari H., Kheiri B., Feizi M. Traumatic wound dehiscence following corneal transplanta-tion. J. Ophthalmic Vis. Res. 2012;7:214–218. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Doğan C., Arslan O. Outcomes of therapeutic and tectonic penetrating keratoplasty in eyes with perforated infectious corneal ulcer. Turk. J. Ophthalmol. 2019;49:55–60. doi: 10.4274/tjo.galenos.2018.06937. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Linke S.J., Eddy M.-T., Bednarz J., Fricke O.H., Wulff B., Schröder A.-S., Hassenstein A., Klemm M., Püschel K., Richard G., et al. Thirty years of cornea cultivation: Long-term experience in a single eye bank. Acta Ophthalmol. 2012;91:571–578. doi: 10.1111/j.1755-3768.2012.02471.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Sharma N., Nathawat R., Parihar J.S. Policy framework for advancing eye banking and cornea transplantation. Indian J. Ophthalmol. 2021;69:2563. doi: 10.4103/ijo.IJO_2341_21. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Agarwal R., Shakarwal C., Sharma N., Titiyal J. Intraoperative optical coherence tomography-guided donor corneal tissue assessment and preparation. Indian J. Ophthalmol. 2022;70:3496. doi: 10.4103/ijo.IJO_1124_22. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Modis L., Jr., Langenbucher A., Seitz B. Corneal endothelial cell density and pachymetry measured by contact and noncontact specular microscopy. J. Cataract. Refract. Surg. 2002;28:1763–1769. doi: 10.1016/S0886-3350(02)01296-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Bonci P., Della Valle V., Lia A. Preparation of donor corneas: A study of the endothelial population. Eur. J. Ophthalmol. 2008;18:341–344. doi: 10.1177/112067210801800304. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Hagenah M., Winter R. Disinfection of human donor corneas during preparation and preservation. Klin. Monbl. Augenheilkd. 1996;209:1–6. doi: 10.1055/s-2008-1035268. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Wykrota A.A., Weinstein I., Hamon L., Daas L., Flockerzi E., Suffo S., Seitz B. Approval rates for corneal donation and the origin of donor tissue for transplantation at a university-based tertiary referral center with corneal subspecialization hosting a LIONS Eye Bank. BMC Ophthalmol. 2022;22:17. doi: 10.1186/s12886-022-02248-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Solley K.D., Berges A., Diaz C., Ostrander B.T., Ding A.S., Larson S.A., Frank K., Lee D., Guerrero J., deCarvalho T., et al. Evaluation of efficacy, efficiency, and cell viability of a novel descemet membrane endothelial keratoplasty graft preparation device, DescePrep, in nondiabetic and diabetic human donor corneas. Cornea. 2022;41:505–511. doi: 10.1097/ICO.0000000000002861. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Gupta A.K., Gupta R.K. Quantitative & qualitative analysis of endothelial cells of donor cornea before & after penetrating keratoplasty in different pathological conditions. Indian J. Med. Res. 2016;143:213–219. doi: 10.4103/0971-5916.180210. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Lass J.H., Sugar A., Benetz B.A., Beck R.W., Dontchev M., Gal R.L., Kollman C., Gross R., Heck E., Holland E.J., et al. Endothelial cell density to predict endothelial graft failure after penetrating keratoplasty. Arch. Ophthalmol. 2010;128:63–69. doi: 10.1001/archophthalmol.2010.128.63. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Garcin T., Gauthier A.-S., Crouzet E., He Z., Herbepin P., Perrache C., Acquart S., Cognasse F., Forest F., Thuret G., et al. Innovative corneal active storage machine for long-term eye banking. Am. J. Transplant. 2018;19:1641–1651. doi: 10.1111/ajt.15238. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Garcin T., Gauthier A.-S., Crouzet E., He Z., Herbepin P., Perrache C., Acquart S., Cognasse F., Forest F., Gain P., et al. Three-month storage of human corneas in an active storage machine. Transplantation. 2020;104:1159–1165. doi: 10.1097/TP.0000000000003109. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Amouzegar A., Chauhan S.K., Dana R. Alloimmunity and tolerance in corneal transplantation. J. Immunol. 2016;196:3983–3991. doi: 10.4049/jimmunol.1600251. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Martheswaran T., Desautels J.D., Moshirfar M., Shmunes K.M., Ronquillo Y., Hoopes P.C. A contemporary risk analysis of iatrogenic transmission of Creutzfeldt-Jakob Disease (CJD) via corneal transplantation in the United States. Ophthalmol. Ther. 2020;9:465–483. doi: 10.1007/s40123-020-00272-8. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Soda R., Fukuoka H., Sotozono C. A case of recurrent fungal keratitis post-amniotic membrane transplantation for corneal perforation. Case Rep. Ophthalmol. 2022;13:147–153. doi: 10.1159/000522369. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Chow K.M., Alias R. A 10-Year retrospective case series on wound dehiscence following corneal transplant. Cureus. 2022;14:e25184. doi: 10.7759/cureus.25184. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Gómez-Benlloch A., Montesel A., Pareja-Aricò L., Mingo-Botín D., Michael R., Barraquer R.I., Alió J. Causes of corneal transplant failure: A multicentric study. Acta Ophthalmol. 2021;99:e922–e928. doi: 10.1111/aos.14708. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Chauhan S.K., Jurkunas U., Funaki T., Dastjerdi M., Dana R. Quantification of allospecific and nonspecific corneal endo-thelial cell damage after corneal transplantation. Eye. 2015;29:136–144. doi: 10.1038/eye.2014.248. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Gellert A., Unterlauft J.D., Rehak M., Girbardt C. Descemet membrane endothelial keratoplasty (DMEK) improves vi-sion-related quality of life. Graefes Arch. Clin. Exp. Ophthalmol. 2022;260:3639–3645. doi: 10.1007/s00417-022-05711-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Eleiwa T., Elsawy A., Ozcan E., Chase C., Feuer W., Yoo S.H., Perez V.L., Shousha M.F.A. Prediction of corneal graft rejection using central endothelium/Descemet’s membrane complex thickness in high-risk corneal transplants. Sci. Rep. 2021;11:14542. doi: 10.1038/s41598-021-93892-4. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Yamaguchi T., Higa K., Tsubota K., Shimazaki J. Elevation of preoperative recipient aqueous cytokine levels in eyes with primary graft failure after corneal transplantation. Mol. Vis. 2018;24:613–620. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Fodor M., Petrovski G., Pásztor D., Gogolák P., Rajnavölgyi É., Berta A. Effects of Awakening and the Use of Topical Dexamethasone and Levofloxacin on the Cytokine Levels in Tears Following Corneal Transplantation. J. Immunol. Res. 2014;2014:570685. doi: 10.1155/2014/570685. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Yuan J., Zhai J.-J., Huang X., Zhou S.-Y., Chen J.-Q. Ocular Safety and Pharmacokinetics Study of FK506 Suspension Eye Drops After Corneal Transplantation. J. Ocul. Pharmacol. Ther. 2012;28:153–158. doi: 10.1089/jop.2011.0108. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Khattak A., An-Nakhli F. Incidence and quantification of corneal haze by Pentacam Scheimpflug densitometry following photorefractive keratectomy for myopia in virgin and post corneal transplant eyes with dark irides. Saudi J. Ophthalmol. 2020;34:8–12. doi: 10.4103/1319-4534.301295. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Stevenson L.J., Abell R.G., McGuinness M.B., Vajpayee R.B. Comparative evaluation of clinical characteristics and visual outcomes of traumatic and non-traumatic graft dehiscence following corneal transplantation surgery. Clin. Ophthalmol. 2019;ume 13:2243–2249. doi: 10.2147/OPTH.S227631. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Learned D.L., Gupta C.K., Stec L.A., Heidemann D.G. Perioperative corneal transplant wound dehiscence. Anesthesiology. 2016;124:185. doi: 10.1097/ALN.0000000000000797. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Diamond M.A., Chan S.W.S., Zhou X., Glinka Y., Girard E., Yucel Y., Gupta N. Lymphatic vessels identified in failed corneal transplants with neovascularisation. Br. J. Ophthalmol. 2018;103:421–427. doi: 10.1136/bjophthalmol-2018-312630. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Le V.N.H., Schneider A.-C., Scholz R., Bock F., Cursiefen C. Fine Needle-Diathermy Regresses Pathological Corneal (Lymph)Angiogenesis and Promotes High-Risk Corneal Transplant Survival. Sci. Rep. 2018;8:5707. doi: 10.1038/s41598-018-24037-3. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Bourges J.L. When cataracts lead to a corneal transplant. Med. Sci. 2020;36:747–751. doi: 10.1051/medsci/2020132. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Oh J.Y., Lee D.S., Heo J.W., Choi H.J., Kim M.K., Wee W.R. Combined corneal allotransplantation and vitreoretinal surgery using an Eckardt temporary keratoprosthesis: Analysis for factors determining corneal allograft survival. Clin. Ophthalmol. 2014;8:449–454. doi: 10.2147/OPTH.S60008. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Vicente A., Byström B., Lindström M., Stenevi U., Domellöf F.P. Aniridia-related keratopathy: Structural changes in naïve and transplanted corneal buttons. PLoS ONE. 2018;13:e0198822. doi: 10.1371/journal.pone.0198822. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Moshirfar M., Basharat N.F., Seitz T.S., Ply B.K., Ronquillo Y.C., Hoopes P.C. Corneal Transplant Rejections in Patients Receiving Immune Checkpoint Inhibitors. J. Clin. Med. 2022;11:5647. doi: 10.3390/jcm11195647. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Almulhim A., Alnaim A.F., Abdulrazek A., Alotaibi H.A. Incidence and outcomes of transplant of infected donor corneal tissues in a tertiary hospital in Saudi Arabia. Cureus. 2022;14:e25514. doi: 10.7759/cureus.25514. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Cabra-Rodríguez R., Tenorio-Abreu A., Breval I.Z.-Y. Candida parapsilosis infection in a corneal transplant patient. Rev. Esp. Quim. 2018;31:285–287. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Sati A., Wagh S., Mishra S., Kumar S., Kumar P. Post-corneal transplant Candida keratitis—Incidence and outcome. Indian J. Ophthalmol. 2022;70:536. doi: 10.4103/ijo.IJO_560_21. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Griffin B., Walkden A., Okonkwo A., Au L., Brahma A., Carley F. Microbial keratitis in corneal transplants: A 12-year analysis. Clin. Ophthalmol. 2020;ume 14:3591–3597. doi: 10.2147/OPTH.S275067. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. van der Wekken-Pas L., de Haas P., Wisse R., Rados M., van der Elst K. Candida keratitis and endopthalmitis after corneal transplantation; two case reports, a novel regimen and literature overview of therapeutic options. Eur. J. Ophthalmol. 2021 doi: 10.1177/11206721211060140. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Raffa L. Rhino-orbito-cerebral mucormycosis following penetrating keratoplasty. J. Surg. Case Rep. 2019;2019:rjz314. doi: 10.1093/jscr/rjz314. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Giurgola L., Gatto C., Honisch C., Rossi O., Ragazzi E., Tothova J.D. Killing efficacy of a new hypothermic corneal storage medium against the micro-organisms frequently found in human donor cornea intended for transplantation. BMJ Open Ophthalmol. 2021;6:e000833. doi: 10.1136/bmjophth-2021-000833. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Oh J.Y., Lee R.H., Yu J.M., Ko J.H., Lee H.J., Ko A.Y., Roddy G.W., Prockop D.J. Intravenous mesenchymal stem cells prevented rejection of allogeneic corneal transplants by aborting the early inflammatory response. Mol. Ther. 2012;20:2143–2152. doi: 10.1038/mt.2012.165. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Jarstad A., Chou J., Garg S. Cardiac arrest during cornea transplant surgery. BMJ Case Rep. 2020;13:e235272. doi: 10.1136/bcr-2020-235272. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Kornmann H.L., Gedde S.J. Glaucoma management after corneal transplantation surgeries. Curr. Opin. Ophthalmol. 2016;27:132–139. doi: 10.1097/ICU.0000000000000237. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Al-Mahmood A.M., Al-Swailem S.A., Edward D.P. Glaucoma and Corneal Transplant Procedures. J. Ophthalmol. 2012;2012:576394. doi: 10.1155/2012/576394. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Nobacht S., Kusters B., Breukink M.B., Rongen G.A., Cruysberg J.R.M. Recurrence of paraproteinemic crystalline ker-atopathy after corneal transplantation: A case of monoclonal gammopathy of ocular significance. Am. J. Ophthalmol. Case Rep. 2020;19:100803. doi: 10.1016/j.ajoc.2020.100803. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. Paniz-Mondolfi A.E., Agemy S., Canete-Gibas C., Gitman M.R., Iacob C.E., Necula I., Wang C.Y., Delgado Noguera L.A., Sanders C., Wiederhold N.P., et al. First report of human infection caused by Colletotrichum chlo-rophyti occurring in a post-corneal transplant patient with endophthalmitis. Med. Mycol. Case Rep. 2021;32:73–76. doi: 10.1016/j.mmcr.2021.04.002. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. Konidaris V., Mersinoglou A., Vyzantiadis T.-A., Papadopoulou D., Boboridis K.G., Ekonomidis P. Corneal Transplant Infection due to Alternaria alternata: A Case Report. Case Rep. Ophthalmol. Med. 2013;2013:589620. doi: 10.1155/2013/589620. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 93. Martinez J.D., Galor A., Perez V.L., Karp C.L., Yoo S.H., Alfonso E.C. Endothelial graft failure after contralateral autologous corneal transplantation. Cornea. 2013;32:745–750. doi: 10.1097/ICO.0b013e31826dff17. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 94. Aboshiha J., Jones M.N.A., Hopkinson C.L., Larkin D.F.P. Differential survival of penetrating and lamellar transplants in management of failed corneal grafts. JAMA Ophthalmol. 2018;136:859. doi: 10.1001/jamaophthalmol.2018.1515. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 95. Tan D., Ang M., Arundhati A., Khor W.-B. Development of selective lamellar keratoplasty within an asian corneal transplant program: The singapore corneal transplant study (an American ophthalmological society thesis) Am. J. Ophthalmol. 2015;113:T10. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 96. Masmoudi J., Feki I., Trigui D., Baati I., Jaoua A. Complex visual hallucinations secondary to corneal transplant: The Charles Bonnet syndrome. La Tunis. medicale. 2015;93:396–397. [ PubMed ] [ Google Scholar ] 
+ 
+ 97. Desautels J.D., Moshirfar M., Martheswaran T., Shmunes K.M., Ronquillo Y. Risks Posed to Corneal Transplant Recipients by COVID-19-Affected Donors. Ophthalmol. Ther. 2020;9:371–379. doi: 10.1007/s40123-020-00254-w. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 98. Thakkar J., Jeria S., Thakkar A. A review of corneal transplantation: An insight on the overall global post-COVID-19 impact. Cureus. 2022;14:e29160. doi: 10.7759/cureus.29160. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 99. Anonymous. Correction: Corneal transplantation in the aftermath of the COVID-19 pandemic: An international perspective. Br. J. Ophthalmol. 2022;106:e1. doi: 10.1136/bjophthalmol-2020-317013corr1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 100. Tanyildiz B., Oklar M., Gunaydin N.T., Kandemir B. Changing trends in the corneal transplantation and the impact of the COVID-19 pandemic on corneal transplant recipient selection. Saudi J. Ophthalmol. 2022;36:95–101. doi: 10.4103/sjopt.sjopt_251_21. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 101. Aiello F., Besso F.G., Pocobelli G., Afflitto G.G., Gisoldi R.A.M.C., Nucci C., Ponzin D., Bonci P., Calabrò G., Ceccuzzi R., et al. Corneal transplant during COVID-19 pandemic: The Italian Eye Bank national report. Cell Tissue Bank. 2021;22:697–702. doi: 10.1007/s10561-021-09934-8. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 102. Mencucci R., Cennamo M., Ponzin D., Besso F.G., Pocobelli G., Buzzi M., Nucci C., Aiello F. Impact of the COVID-19 pandemic on corneal transplantation: A report from the Italian association of eye banks. Front. Med. 2022;9:844601. doi: 10.3389/fmed.2022.844601. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 103. Ang M., Moriyama A., Colby K., Sutton G., Liang L., Sharma N., Hjortdal J., Lam D.S.C., Williams G.P., Armitage J., et al. Corneal transplantation in the aftermath of the COVID-19 pandemic: An international perspective. Br. J. Ophthalmol. 2020;104:1477–1481. doi: 10.1136/bjophthalmol-2020-317013. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 104. Wu P., Duan F., Luo C., Liu Q., Qu X., Liang L., Wu K. Characteristics of ocular findings of patients with coronavirus disease 2019 (COVID-19) in Hubei Province, China. JAMA Ophthalmol. 2020;138:575–578. doi: 10.1001/jamaophthalmol.2020.1291. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 105. Pandey A.K., Mudgil N., Wadgave Y., Mishra S.S. Corneal transplantation during COVID-19 pandemic: Need for special considerations—A live review. AIMS Public Health. 2021;8:186–195. doi: 10.3934/publichealth.2021014. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 106. Franch A., Fasolo A., Carraro P., Favarato M., Birattari F., Leon P.E., Ponzin D. Corneal transplantation during the COVID-19 pandemic: An operational guide. Eur. J. Ophthalmol. 2021;32:842–847. doi: 10.1177/11206721211006565. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 107. Siddharthan K.S., Agrawal A., Reddy J.K. Four in one: Four recepients with a single donor tissue—A novel concept for eye transplantation surgery post-COVID-19. Indian J. Ophthalmol. 2020;68:2471–2474. doi: 10.4103/ijo.IJO_1602_20. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 108. Sati A., Shankar S., Jha A., Gurunadh V.S. Customised component corneal transplantation: A blessing for three patients. BMJ Case Rep. 2014;2014:bcr2014205579. doi: 10.1136/bcr-2014-205579. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 109. Bhalerao S., Vuyyuru S., Mohamed A., Gogri P., Garg P., Mallipudi R. Impact of COVID-19 related national lockdown on care of corneal transplantation patients at a tertiary eye care centre in India. Indian J. Ophthalmol. 2021;69:1569–1574. doi: 10.4103/ijo.IJO_133_21. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 110. Garcia A.M.G., de Sousa L.B., Shiguematsu A.I. Impacts of COVID-19 pandemic and public policies on corneal transplantations in Brazil. Arq. Bras. de Oftalmol. 2023;86:277–285. doi: 10.5935/0004-2749.20230074. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 111. Bhat S., Joshi P., Balasubramaniam A. Impact of COVID-19 pandemic on patients with corneal transplant. Indian J. Ophthalmol. 2021;69:1967–1968. doi: 10.4103/ijo.IJO_651_21. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 112. Thuret G., Courrier E., Poinard S., Gain P., Baud’Huin M., Martinache I., Cursiefen C., Maier P., Hjortdal J., Ibanez J.S., et al. One threat, different answers: The impact of COVID-19 pandemic on cornea donation and donor selection across Europe. Br. J. Ophthalmol. 2020;106:312–318. doi: 10.1136/bjophthalmol-2020-317938. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 113. York N.J., Tinley C. Corneal donations in South Africa: A 15-year review. S. Afr. Med. J. 2017;107:697–701. doi: 10.7196/SAMJ.2017.v107i8.12482. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 114. Eze B.I., Okoye O., Eze J.N. Knowledge and attitudes regarding eye donation and corneal transplant: Medical versus non-medical university students in a developing country in Africa. Exp. Clin. Transpl. 2014;12:454–461. [ PubMed ] [ Google Scholar ] 
+ 
+ 115. Williams A.M., Muir K.W. Awareness and attitudes toward corneal donation: Challenges and opportunities. Clin. Ophthalmol. 2018;ume 12:1049–1059. doi: 10.2147/OPTH.S142702. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 116. Wang X., Jin L., Wang J., Garrett E.H., Shuman J., Yang K., Schottman T., Chen T., Wang J., Wang C., et al. Attitudes and knowledge concerning corneal donation in a population-based sample of urban Chinese adults. Cornea. 2016;35:1362–1367. doi: 10.1097/ICO.0000000000000943. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 117. Roba A.A., Tilahun Y., Bekele S. Life with another cornea: Impact of corneal transplantation and eye banking in Ethiopia. Ethiop. Med. J. 2013;51:67–72. [ PubMed ] [ Google Scholar ] 
+ 
+ 118. Hussen M.S., Gebreselassie K.L., Woredekal A.T., Adimassu N.F. Willingness to donate eyes and its associated factors among adults in Gondar town, North West Ethiopia. BMC Ophthalmol. 2017;17:178. doi: 10.1186/s12886-017-0577-1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 119. Gain P., Jullienne R., He Z., Aldossary M., Acquart S., Cognasse F., Thuret G. Global survey of corneal transplantation and eye banking. JAMA Ophthalmol. 2016;134:167–173. doi: 10.1001/jamaophthalmol.2015.4776. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 120. Kim M.K., Hara H. Current status of corneal xenotransplantation. Int. J. Surg. 2015;23:255–260. doi: 10.1016/j.ijsu.2015.07.685. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 121. Le R., Yucel N., Khattak S., Yucel Y.H., Prud’Homme G.J., Gupta N. Current indications and surgical approaches to corneal transplants at the University of Toronto: A clinical-pathological study. Can. J. Ophthalmol. 2016;52:74–79. doi: 10.1016/j.jcjo.2016.07.005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 122. Liu S., Wong Y.L., Walkden A. Current perspectives on corneal transplantation. Clin. Ophthalmol. 2022;16:631–646. doi: 10.2147/OPTH.S289359. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 123. Wong Y.L., Liu S., Walkden A. Current perspectives on corneal transplantation (Part 2) Clin. Ophthalmol. 2022;16:647–659. doi: 10.2147/OPTH.S349582. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 124. Young A.L., Kam K.W., Jhanji V., Cheng L.L., Rao S.K. A new era in corneal transplantation: Paradigm shift and evolution of techniques. Hong Kong Med. J. 2012;18:509–516. [ PubMed ] [ Google Scholar ] 
+ 
+ 125. Grzybowski A., Patryn R. Current state of corneal transplants in Poland. Acta Ophthalmol. 2017;96:e93–e94. doi: 10.1111/aos.13406. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 126. Amagai Y., Karasawa K., Kyungsook J., Matsuda A., Kojima M., Watanabe J., Hibi T., Matsuda H., Tanaka A. Development of a novel carrier optimized for cell sheet transplantation. Biomatter. 2015;5:e1027846. doi: 10.1080/21592535.2015.1027846. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 127. Rossi F., Canovetti A., Malandrini A., Lenzetti I., Pini R., Menabuoni L. An “all-laser” endothelial transplant. J. Vis. Exp. 2015;101:e52939. doi: 10.3791/52939. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 128. Zheng X., Zhang D., Li S., Zhang J., Zheng J., Du L., Gao J. An Experimental Study of Femto-Laser in Assisting Xenograft Acellular Cornea Matrix Lens Transplantation. Experiment. 2018;24:5208–5215. doi: 10.12659/MSM.909294. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 129. Dragnea D.C., Birbal R.S., Ham L., Dapena I., Oellerich S., van Dijk K., Melles G.R.J. Bowman layer transplantation in the treatment of keratoconus. Eye Vis. 2018;5:24. doi: 10.1186/s40662-018-0117-y. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 130. Muijzer M.B., Kroes H.Y., Hasselt P.M., Wisse R.P.L. Bilateral posterior lamellar corneal transplant surgery in an infant of 17 weeks old: Surgical challenges and the added value of intraoperative optical coherence tomography. Clin. Case Rep. 2022;10:e05637. doi: 10.1002/ccr3.5637. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 131. Jonuscheit S., Doughty M.J., Ramaesh K. Assessment of a variable frame (polygonal) method to estimate corneal endothelial cell counts after corneal transplantation. Eye. 2012;26:803–809. doi: 10.1038/eye.2012.42. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 132. Medina C.A., Rowe A., Yun H., Knickelbein J.E., Lathrop K.L., Hendricks R.L. Azithromycin treatment increases survival of high-risk corneal allotransplants. Cornea. 2013;32:658–666. doi: 10.1097/ICO.0b013e318274a690. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 133. Capozzi P., Petroni S., Buzzonetti L. Combined HLA matched limbal stem cells allograft with amniotic membrane trans-plantation as a prophylactic surgical procedure to prevent corneal graft rejection after penetrating keratoplasty: Case report. Ann. Ist. Super. Sanita. 2014;50:298–300. doi: 10.4415/ANN_14_03_13. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 134. Zhang L., Li G., Sessa R., Kang G.J., Shi M., Ge S., Gong A.J., Wen Y., Chintharlapalli S., Chen L. Angiopoietin-2 blockade promotes survival of corneal transplants. Investig. Opthalmol. Vis. Sci. 2017;58:79–86. doi: 10.1167/iovs.16-20485. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 135. Poinard S., Garcin T., Trone M.C., Mentek M., Lambert C., Bonjean P., Renault D., Thuret G., Gain P., Gauthier A.S. Ob-jective measurement of adherence to topical steroid medication after penetrating keratoplasty using an electronic monitoring aid: A pilot study. Digit Health. 2022;8:20552076221121155. doi: 10.1177/20552076221121155. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 136. Trone M.C., Poinard S., Crouzet E., Garcin T., Mentek M., Forest F., Matray M., Thuret G., Gain P. Dropless penetrating keratoplasty using a subconjunctival dexamethasone implant: Safety pilot study. Br. J. Ophthalmol. 2021;107:181–186. doi: 10.1136/bjophthalmol-2021-319376. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 137. Liu Y., Li X., Li W., Jiu X., Tian M. Systematic review and meta-analysis of femtosecond laser–enabled keratoplasty versus conventional penetrating keratoplasty. Eur. J. Ophthalmol. 2020;31:976–987. doi: 10.1177/1120672120914488. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 138. Hos D., Matthaei M., Bock F., Maruyama K., Notara M., Clahsen T., Hou Y., Le V.N.H., Salabarria A.C., Horstmann J., et al. Immune reactions after modern lamellar (DALK, DSAEK, DMEK) versus conventional pene-trating corneal transplantation. Prog. Retin. Eye. Res. 2019;73:100768. doi: 10.1016/j.preteyeres.2019.07.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 139. Heinzelmann S., Böhringer D., Eberwein P., Reinhard T., Maier P. Outcomes of Descemet membrane endothelial keratoplasty, Descemet stripping automated endothelial keratoplasty and penetrating keratoplasty from a single centre study. Graefe’s Arch. Clin. Exp. Ophthalmol. 2016;254:515–522. doi: 10.1007/s00417-015-3248-z. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 140. Dohlman C. The boston keratoprosthesis—The first 50 years: Some reminiscences. Annu. Rev. Vis. Sci. 2022;8:1–32. doi: 10.1146/annurev-vision-100820-021253. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 141. Avadhanam V., Smith H., Liu C. Keratoprostheses for corneal blindness: A review of contemporary devices. Clin. Ophthalmol. 2015;ume 9:697–720. doi: 10.2147/OPTH.S27083. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 142. Omari A.M., Khan N.B., Tausif H.M., Nyalakonda R.B., Williams G.A.M., Gupta C.M. Temporary Keratoprosthesis with Penetrating Keratoplasty in Conjunction with Pars Plana Vitrectomy for Repair of Retinal Detachments in Patients with Anterior and Posterior Segment Pathology. Retin. Cases Brief Rep. 2021. 
+publish ahead
+. [ DOI ] [ PubMed ] 
+ 
+ 143. Cisiecki S.M., Bonińska K.M., Bednarski M.M. Temporary keratoprosthesis combined with vitrectomy for severe globe injury. Retin. Cases Brief Rep. 2022. 
+publish ahead
+. [ DOI ] [ PubMed ] 
+ Associated Data 
+ This section collects any data citations, data availability statements, or supplementary materials included in this article. 
+ Data Availability Statement 
+ Not applicable.

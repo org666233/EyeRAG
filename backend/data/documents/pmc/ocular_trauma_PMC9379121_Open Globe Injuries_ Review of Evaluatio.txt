@@ -1,0 +1,477 @@
+Source: PubMed Central (PMC)
+PMCID: PMC9379121
+Title: Open Globe Injuries: Review of Evaluation, Management, and Surgical Pearls
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9379121/
+Year: 2022
+Disease: ocular_trauma
+Priority: 3
+============================================================
+
+Clin Ophthalmol . 2022 Aug 10;16:2545–2559. doi: 10.2147/OPTH.S372011 
+ 
+ 
+ Open Globe Injuries: Review of Evaluation, Management, and Surgical Pearls 
+ Yujia Zhou 
+ Yujia Zhou 
+ 
+ 1 Department of Ophthalmology, University of Florida College of Medicine, Gainesville, FL, USA 
+ Find articles by Yujia Zhou 
+ 
+ 
+ 1, ✉ , Mark DiSclafani 
+ Mark DiSclafani 
+ 
+ 2 Department of Ophthalmology, University of South Florida Morsani College of Medicine, Tampa, FL, USA 
+ Find articles by Mark DiSclafani 
+ 
+ 
+ 2 , Lauren Jeang 
+ Lauren Jeang 
+ 
+ 1 Department of Ophthalmology, University of Florida College of Medicine, Gainesville, FL, USA 
+ Find articles by Lauren Jeang 
+ 
+ 
+ 1 , Ankit A Shah 
+ Ankit A Shah 
+ 
+ 1 Department of Ophthalmology, University of Florida College of Medicine, Gainesville, FL, USA 
+ Find articles by Ankit A Shah 
+ 
+ 
+ 1 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, University of Florida College of Medicine, Gainesville, FL, USA 
+ 
+ 2 Department of Ophthalmology, University of South Florida Morsani College of Medicine, Tampa, FL, USA 
+ 
+ ✉ Correspondence: Yujia Zhou, Department of Ophthalmology, University of Florida College of Medicine, 1600 SW Archer Road, Gainesville, FL, 32608, USA, Tel +1 305 342-9166, Email yzhou1996@ufl.edu 
+ 
+ 
+ Received 2022 May 6; Accepted 2022 Jul 22; Collection date 2022. 
+ 
+ © 2022 Zhou et al. 
+ This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License ( http://creativecommons.org/licenses/by-nc/3.0/ ). By accessing the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms ( https://www.dovepress.com/terms.php ). 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC9379121  PMID: 35983163 
+ 
+ Abstract 
+ Ocular trauma may either be closed globe or open globe. Open globe injuries are full-thickness defects of the eyewall and are often differentiated by the mechanisms of injury from which they are caused: sharp or blunt trauma. They are ocular emergencies and can lead to substantial visual morbidity. Without timely intervention, damage is irreversible and leads to permanent vision loss. The goals of evaluation are to identify the mechanism of injury, characterize the extent of injury, and gather relevant history. If an open globe is suspected, ophthalmologic consultation should be requested. Once an open globe is diagnosed, preparations for surgery should be made immediately and steps should be taken to avoid further injury. Intraocular infection risk is relatively high, requiring immediate empiric systemic antibiotics. Emergent surgical exploration and primary closure is indicated whenever possible. After initial closure, secondary surgery and revision may be needed to improve vision outcomes, followed by extensive follow-up. In this review, best practices for evaluation and management are reviewed, with particular focus on the surgical approach and techniques. 
+ Keywords: ocular trauma, repair of open globe, open globe surgery, open globe surgical pearls, ophthalmic surgery Background 
+ Open globe injuries (OGIs) are full-thickness defects of the eyewall and are often differentiated by the mechanisms of injury from which they are caused: sharp or blunt trauma. They are ocular emergencies and can lead to substantial visual morbidity. Without timely intervention, damage is irreversible and leads to permanent vision loss. In this review, best practices for evaluation and management are reviewed, with particular focus on the surgical approach and techniques. 
+ Pathophysiology 
+ Ocular trauma may either be closed globe or open globe. 1 A closed globe injury does not fully penetrate the eye wall (ie, the cornea, limbus, and sclera) whereas an OGI penetrates the full thickness of the eye wall. The eye wall provides anatomic rigidity and aligns the visual axis, thereby providing a physical barrier against environmental insults. 2 
+ When an OGI occurs, hemorrhage and extrusion of intraocular content may occur, including vitreous, lens, iris, and retina. 3–5 In severe cases of extrusion, the eye can collapse and result in an expulsive choroidal hemorrhage. Even in the absence of choroidal hemorrhage, endophthalmitis is common especially if a retained intraocular foreign body is present. 6 Classification 
+ OGIs are primarily classified using standardized terminology describing blunt or sharp mechanisms of injury. 1 Ruptured globes refer to blunt trauma, wherein high intraocular pressure (IOP) ruptures weak points in the eye wall through an inside-out mechanism ( Figure 1A ). Ruptures occur most often behind the rectus muscle insertions, which may be as thin as 0.3 mm 7 . The limbus, optic nerve, and prior surgical sites are also weak points and prone to injury. 8–12 Lacerations refer to OGIs caused by sharp trauma, wherein an object cuts or punctures the eye through an outside-in mechanism. 1 Although lacerations are termed “sharp” trauma, any mechanism that directly penetrates the eye, such as a gunshot, is a laceration. Lacerations are further classified as penetrating or perforating injuries ( Figure 1B and C ). Perforating injuries have related entry and exit wounds while penetrating injuries refer to wounds without an exit. If the offending object remains in the eye, it is termed an intraocular foreign body (IOFB). 
+ Figure 1. 
+ 
+ Open in a new tab 
+ Open Globe Classification. Cross sectional views are shown with various mechanisms of open globe injury. ( A ) In ruptured globes, the wound can occur elsewhere from the impact site. ( B ) A penetrating injury is an entry wound without an exit wound and may have a retained intraocular foreign body. ( C ) A perforating injury is a pair of entry and exit wounds caused by the same object. ( D ) Zone I injuries are limited to the cornea and limbus, while zone II injuries extend 5 mm posterior to the limbus and zone III injuries extend beyond 5 mm posterior to the limbus. Further classification of OGIs refer to clinical findings and anatomical location. 13 , 14 Firstly, OGI grading is based on best-corrected visual acuity (BCVA), ranging from 20/40 or better (grade 1) to no light perception (grade 5). 15 Next is the presence or absence of an afferent pupillary defect (APD) in the injured eye or a reverse APD in the uninjured eye. Lastly, anatomical zones extending posteriorly from the cornea ( Figure 1D ) describe injury extent. 13 The limbus separates zones I and II, while zone III extends from 5 mm posterior to the limbus towards the optic nerve. Epidemiology 
+ The demographics associated with OGI vary by mechanism. Overall, most patients with OGIs are men, mostly from work-related injuries. 16–18 Anterior lacerations, often from projectiles, are the most common OGI in men (80%). 16 Globe ruptures are more common in women (70%) and caused usually from falls. 16 , 19 Women with OGIs are also likely to have zone III injuries with poorer visual acuity outcomes at 3 months after injury. 16 Children have similar patterns of OGI compared to adults, where most incidences occur in males from lacerations. 20 , 21 Firework injury, however, is more common in children than in adults. 20 In addition, younger age (<5 years) is associated with poorer visual outcomes in children whereas older age (>65 years) is associated with poorer visual outcomes in adults. 21 , 22 In the geriatric population (>65 years), globe ruptures were the most common OGI, primarily due to falls. 22 Evaluation 
+ Following ocular trauma, open globes must be quickly ruled out. The goals of evaluation are to identify the mechanism of injury, characterize the extent of injury, and gather relevant history. If an OGI is suspected, ophthalmologic consultation should be requested. Once an OGI is diagnosed, preparations for surgery should be made immediately. History 
+ In cases of significant ocular trauma, an OGI should be presumed until proven otherwise. OGI outcomes are also dependent on the time-to-surgery. 23 A purposeful history can rapidly profile the injury and guide further evaluation after the patient is stabilized. Any injury involving sharp, high-velocity projectiles, forceful blunt trauma, explosives or fireworks, Ehler-Danlos syndrome, osteogenesis imperfecta, or history of ocular trauma raise the index of suspicion. 24–26 Previous large incisions from ocular surgery such as extracapsular cataract surgery, radial keratotomy, or corneal transplantation are more likely to open from injury. 27–30 The use of safety glasses at time of injury is protective against OGI. 31 Setting of injury, timing of injury, allergies, immunization status, and time of last ingestion are also useful for surgical planning and antibiotic choice. Physical Exam 
+ Evaluation of an OGI requires an ocular exam including visual acuity measurement, APD testing if possible, 32 direct visualization through slit lamp examination, 33 and fundus examination when possible. During examination, any pressure on the eye should be avoided, as it can extrude intraocular contents. 34 If an OGI is found and characterized on examination, preparations for surgery should precede further examination. 35 
+ Visual inspection may be done by penlight or slit lamp exam. Large anterior OGIs (zone I to II) may be obviously deformed or penetrated on penlight inspection ( Figure 2A ). Small lacerations can also be identified with the Seidel test, where the eye is instilled with proparacaine, then fluorescein, and illuminated by a cobalt-blue light or Wood’s lamp. A positive Seidel test shows a clear stream of leaking aqueous humor disrupting the fluorescein dye ( Figure 2B ). In obvious OGIs, the technique is contraindicated. 
+ Figure 2. 
+ 
+ Open in a new tab 
+ Penlight Open Globe Injury Findings. Selected findings by penlight displayed here, although examination may also be done by slit lamp. ( A ) Obvious left eye penetrating open globe with a retained fishing hook. ( B ) Penetrating injury of the left eye with aqueous humor leaking in a pool of fluorescein stain indicating a positive Seidel sign. ( C ) Right eye penetrating open globe injury with prolapsed iris. ( D ) Left eye penetrating open globe injury with a bead of extruded vitreous. ( E ) Right eye penetrating open globe injury with displaced lens extruding from a corneal laceration. ( F ) Dense 360-degree subconjunctival hemorrhage in the setting of ground-level fall suggesting occult open globe injury. ( G ) Obvious left eye globe rupture with significant volume loss causing a deformed anterior chamber. ( H ) Obvious right eye ruptured globe with significant volume loss causing disruption of the scleral contour. ( I ) Right eye peaked pupil pointing to an occult open globe injury of the inferotemporal sclera. (J ) Left eye globe rupture with displaced lens and missing temporal section of iris. On inspection, any extruded intraocular tissue is diagnostic of an OGI. 34 The dark colored uvea frequently prolapses ( Figure 2C ), typically from zone II and is highly visible against the sclera, while beads of vitreous are transparent and may be difficult to identify ( Figure 2D ). Rarely, prolapsed crystalline lens ( Figure 2E ) or intraocular lens (IOLs) appear as a well-circumscribed mass incarcerated in a previous surgical wound or beneath conjunctiva. Blood, such as in a hyphema or a dense, diffuse subconjunctival hemorrhage ( Figure 2F ), can obscure eye injury but also suggest OGI. Other suggestive findings include an abnormal anterior chamber depth ( Figure 2G ), irregular scleral contour ( Figure 2H ), peaked pupil ( Figure 2I ), and displaced or missing structures such as the iris and lens ( Figure 2J ). The peaked pupil is particularly useful since it tends to point towards the site of injury. 
+ Dilated fundus exam should be done at the earliest opportunity after evaluating for APD and angle closure. 33 Foreign bodies, retinal detachments, and posterior globe ruptures may be visualized or ruled out, although blood may obscure the view. Alternatively, the presence of an asymmetric red reflex may be detected with an ophthalmoscope if fundoscopy is not available. Other techniques such as extraocular movements, confrontational visual field testing, brightness perception, and color testing may be deferred if clinical examination confirms open globe injury or after exploration is performed in the operating room. 1 IOP measurement is contraindicated in suspected OGI. 5 Imaging 
+ In ocular trauma cases where ocular examination is limited, imaging studies are used to evaluate suspected OGI. Noncontrast orbital or maxillofacial computed tomography (CT) is the recommended imaging modality for ocular trauma, but noncontrast head CT scans are adequate and readily available. 36 CT imaging has high specificity (90–100%), moderate sensitivity (50–80%), and good interrater reliability (κ > 60%) for detecting OGIs. 37–40 The most specific CT findings for OGI are changes in globe contour and vitreous hemorrhage (>98%). 37 , 39 Abnormal globe contours take multiple forms including a “flat tire”, “mushroom sign” and discontinuous sclera ( Figure 3A ). Vitreous hemorrhage increases the attenuation of the vitreous and can form layers appearing as thickened sclera ( Figure 3B ). Intraocular air is also a good predictor of OGIs but should not be confused with wooden IOFBs or iatrogenic perfluorocarbon gas in the postoperative period of retina surgery. 39–41 Only radiopaque foreign bodies are reliably detected on CT ( Figure 3C ), and even then may resemble cataract or scleral plaque calcifications. 42 Abnormal anterior chamber depth may be present in OGIs ( Figure 3D ), best assessed by comparing anterior chamber depth in both eyes in high-quality axial slices. A shallow anterior chamber suggests an anterior OGI, whereas an abnormally deep anterior chamber suggests a posterior OGI, with differences as low as a few millimeters. 43 Overall, CT imaging is specific, but not sensitive and does not rule out OGIs. 37 
+ Figure 3. 
+ 
+ Open in a new tab 
+ Computed Tomography of Open Globe Injuries. Open globe injury wounds are represented by dotted dark red lines and sutures by solid black lines, numbered in order of placement. ( A ) CT axial image of a right eye penetrating globe injury with deflated globe colloquially known as a “mushroom sign”, in addition to intraconal air. ( B ) CT sagittal image of a left eye penetrating globe injury with vitreous hyper-attenuation in a dependent distribution indicating layered vitreous hemorrhage. ( C ) CT axial image of a left eye penetrating globe injury with a retained metallic intraocular foreign body, later determined to be a steel ball bearing. ( D ) CT axial image of a left eye penetrating open globe injury with shallow left anterior chamber, and distances labelled in yellow (right eye, 3.3 mm) and white (left eye, 2.5 mm). B scan ultrasound can provide some advantages over CT imaging but is not advised for confirmed open globes. In rare instances, ultrasound may be performed cautiously to determine posterior pathology when view is limited. Compared to CT, ultrasound is moderately sensitive (48–66%) for detection of IOFBs. 44 Ultrasonography also offers high resolution for posterior injuries compared to CT and has a high specificity (100%) for retinal detachment and foreign bodies. 45 
+ Magnetic resonance imaging is contraindicated in the evaluation of open globe injury due to the time needed for testing and potential catastrophic complications that may arise if a metallic intraocular foreign body is present. It does not offer additional clinical value in the acute setting unless there is a high suspicion of occult OGI. 41 , 46 
+ Conventional views on plain film X-ray are moderately sensitive for fractures (64–78%) compared to CT, but cannot diagnose OGI. 47 For foreign bodies, plain film detection was 70% sensitive compared to CT for obvious OGIs. 48 Therefore, a plain film is not recommended unless CT is unavailable. Management 
+ Steps should be taken to avoid further injury once OGI is diagnosed. Infection risk is high and requires immediate empiric systemic antibiotics. Emergent surgical exploration and primary closure is indicated for OGIs whenever possible. After initial closure, secondary surgery and revision may be needed to improve vision outcomes, followed by extensive follow-up. Preoperative Management 
+ Ideally, a primary repair within 12 to 24 hours of the injury leads to improved visual outcomes and lower rates of endophthalmitis. 23 The goals of preoperative management are to limit further injury to the eye and to expedite surgical intervention, ideally within 24 hours. 23 Delays in surgery increase risk for endophthalmitis and choroidal hemorrhage. Ophthalmologic consultation should be requested if not already present, and the patient should be made nil per os to facilitate anesthesia. General anesthesia is the preferred anesthesia choice. Protruding foreign bodies act as tamponades and should be reserved for removal in the operating room. An eye shield should be placed immediately over the affected eye, or over both eyes if there is suspicion of bilateral OGIs. 34 The eye shield protects the eye during the preoperative phase but may be briefly removed to administer topical medication. Tetanus immunization status should be addressed, and appropriate prophylaxis should be given. 49 
+ OGIs are painful and associated with episodes of emesis. 50 High dose antiemetics (eg, intravenous (IV) ondansetron 0.15 mg/kg, up to 12 mg) should be given to prevent Valsalva maneuver, which can increase risk for intraocular expulsion. If adequate ocular examination is not possible, examination under sedation should be attempted. Sedatives (eg, IV lorazepam 0.05 mg/kg, up to 2 mg) and opioid pain medication (eg, IV morphine, 0.1 mg/kg, up to 10 mg) may be given as needed for pain control. Non-steroidal anti-inflammatory drugs are relatively contraindicated due to their anti-platelet effects. If initial examination cannot be completed in this manner, it can be performed later under general anesthesia in the operating room. 
+ Surgical repair is preferably performed under general anesthesia. 51 Some anesthesiologists use succinylcholine for its rapid action, but it may increase IOP due to extended mask application, hypercapnia, and repeated intubation attempts. 52 When using succinylcholine, other drugs such as narcotics, propofol, or lidocaine can help mitigate increased IOP. 52 Nevertheless, the depolarizing nature of succinylcholine may cause co-contraction of extraocular muscles and risk expulsion of intraocular contents, increasing surgical difficulty and adversely affecting outcomes. Thus, these agents are contraindicated with frank corneo-scleral perforation or laceration. Non-depolarizing induction agents such as rocuronium (0.6–1.2 mg/kg IV), which have minimal effects on IOP, are generally preferred for general anesthesia. 53 , 54 For low-risk anterior OGIs, regional blocks with monitored anesthesia care and small injected anesthetic volumes (3–4 mL) have comparable time-to-surgery and visual outcomes to general anesthesia but are rarely used. 55–57 Due to these issues, preoperative consultation with the anesthesia provider is highly recommended. 
+ Endophthalmitis is a potential complication of OGI and requires antibiotic prophylaxis. 58 Broad spectrum IV antibiotics should be given for at least 48 hours, including vancomycin (15 mg/kg, up to 1.5 g) and a third-generation cephalosporin such as ceftazidime (50 mg/kg, up to 2 g) for coverage of gram positive and gram-negative bacteria. 6 , 59 Fluoroquinolones such as ciprofloxacin (10 mg/kg, up to 400 mg) may be used for penicillin-allergic patients. High-risk cases involving organic IOFBs or soil may require prophylactic antifungal coverage. 6 When there is concern for delayed primary closure or IOFB, intravitreal antibiotics are injected intraoperatively. Nonpreserved topical antibiotics such as moxifloxacin may also be indicated as part of a complete antibiotic regimen. Povidone-iodine or an alternative antiseptic should be used to prepare the eye and surrounding skin for surgery, but the concentrations used for surgical preparation may be toxic and should not be introduced into the wound itself. Surgical Exploration 
+ Surgical exploration begins with gentle irrigation of the injured eye with balanced salt solution. 5 Prior to this, cultures of the wound and any prolapsed intraocular should be considered, depending on the nature of the wound and if there is delay in closure. High pressure perpendicular irrigation may flush foreign material into the wound and should be avoided. A surgical microscope is useful for exploration of anterior structures, whereas surgical loupes are more appropriate for exploration of a sloping scleral wall and the extraocular muscles. 34 OGIs should be explored in an anterior to posterior approach, but repairs on large injuries should be prioritized if they prevent adequate surgical exposure. 
+ Unless a posterior OGI has been explicitly ruled out, a 360° peritomy is required to expose and inspect all four quadrants of the posterior sclera. Peritomy slightly anterior to the insertion of the rectus muscles will give a large view past the conjunctiva. Between each of the rectus muscles, Tenon’s capsule is buttonholed in each quadrant to pass a traction suture. 4–0 black silk sutures are inserted shank-first through the buttonhole and under each rectus muscle with care not to damage the muscle sheaths to allow for gentle control of the globe. 34 If the muscle tendon or insertion is damaged, secure both the muscle tendon and insertion with a 6–0 double-armed suture. 60 Injuries under the rectus insertions require removal of the muscle tendon at the insertion and reinsertion after scleral repair. 
+ Iris and other uveal tissue may be prolapsed but should not be excised unless clearly devitalized. Before and during any closure, use viscoelastic and an iris or cyclodialysis spatula to gently reposit incarcerated or prolapsed tissue. To draw a prolapsed or incarcerated iris away from an anterior wound, dispersive viscoelastic is injected through a paracentesis opposite the wound to deepen the anterior chamber. Cohesive viscoelastic injection or a cyclodialysis spatula is used to sweep the iris if dispersive viscoelastic is insufficient. For injuries with a violated lens capsule, cataract extraction should be performed at the time of open globe repair if possible or secondary repair within a few days to reduce the risk of lens-induced uveitis and postoperative glaucoma. 61 Prolapsed vitreous will require anterior vitrectomy with a vitrectomy probe, as opposed to aspiration. General Surgical Approach 
+ Repairs are complex and may require multiple surgeries. The goals of primary repair are to secure a watertight wound closure and reestablish normal anatomical ocular relationships. A general approach begins with cleaning the wound edges of foreign bodies and granulation tissue. After proper wound cleansing, place widely spaced sutures to make the globe “visco-tight” (ie, impermeable to viscoelastic) such that further suturing does not cause significant tissue collapse. After the globe is visco-tight, additional sutures may be placed and refined to make the globe watertight (ie, Seidel-negative). Suggested suture sizes are 10–0 nylon for the cornea, 9–0 nylon for the limbus, 8–0 nylon for anterior sclera, and 7–0 nylon for posterior sclera. 5 , 62 Spatulated microsurgical needles are preferred for corneal and scleral repairs, and tapered needles for closing a peritomy after repair. Spatulated needles may be used in place of tapered needles for affixing conjunctiva to sclera if scleral repair is successful and no watertight conjunctival closure is needed. Non-absorbable nylon sutures are preferred for closing cornea and sclera, but absorbable Vicryl (polyglycolic acid) sutures have the durability needed for wounds with good healing potential and may be indicated for pediatric and intellectually delayed patients so that they do not need to undergo suture removal in the operating room. 
+ Prioritize aligning the limbus first if it is involved ( Figure 4A ), then place sutures to approximate normal globe anatomy, avoiding suture placement in the central visual axis. 62 Special considerations for cornea are described later ( Figure 4B and C ). Linear wounds are best approximated by placing sequential bisecting sutures ( Figure 4D ), which divide a wound into two linear wounds of equal length (ie, halving) until the space between each suture is sealed. Approach complex and stellate wounds as a series of linear wounds ( Figure 4E ) to be closed first. After linear portions of a complex wound are closed, treat intersections as a punctate wound by closing with a mattress or purse-string suture. Depending on the nature of the stellate wound, a temporary purse-string suture may be initially placed in the intersection to facilitate a “visco-tight” seal during repair of linear portions and then replaced after closing linear portions. If wound intersections cannot be closed by suture, apply short-chain cyanoacrylate glue (eg, Isodent) after cleaning and drying the wound as last resort. A soft therapeutic bandage contact lens may be placed to tamponade micro-leaks and to increase patient comfort. After a globe has been sealed with sutures, initial sutures may be too loose or too tight, and should be replaced. The wound should be watertight and free of incarcerated tissue after refining all sutures. 
+ Figure 4. 
+ 
+ Open in a new tab 
+ Suture Order. Open globe injury wounds are represented by dotted dark red lines and sutures by solid black lines, numbered in order of placement. If the wound is not “visco-tight”, sutures marked by an asterisk may be placed first to facilitate an initial “visco-tight” seal. ( A ) Place sutures to align the limbus first in corneoscleral wounds. ( B ) Place corneal sutures from the limbus to the central visual axis, using shorter, deeper, and more closely spaced sutures towards the center of the cornea. ( C ) For lacerations traversing the diameter of the cornea, place sutures in a centripetal alternating order. ( D ) Use sequential bisecting sutures for linear scleral wounds, first in the middle of the wound, then between remaining open segments until the wound is closed. ( E ) Close linear segments of complex and stellate wounds first, then close intersections with a mattress or purse-string suture. ( F ) For wounds extending posterior to the equator, place sutures in an anterior to posterior order until surgical exposure is inadequate. Sutures should be placed perpendicular to the wound ( Figure 5A ), or radially around the central visual axis when possible on the cornea, with adequate tension to close wound edges ( Figure 5B ). Sutures create zones of tension to seal a length of wound approximately equal to suture length, and these zones must overlap to create a continuous seal ( Figure 5C ). On the cornea and along irregular wounds, use shorter and closely spaced sutures to better approximate the intended seal. The adjoined tissue should meet perpendicularly, with the needle entering and exiting perpendicularly into the wound surface, mirrored on both sides ( Figure 5D ). If the wound opens at an oblique angle, a longer suture favoring the overriding side of the wound ( Figure 5E ) will give superior support despite appearing exteriorly asymmetric. Under most circumstances, use a partial thickness suture (70–90%) to avoid creating new channels for infection into the eye ( Figure 5F ). If possible, tightly trim and bury knots away from the visual axis to avoid patient discomfort and abrasion of the extraocular tissues ( Figure 5G ). Any scleral patch grafts should be oversewn with interrupted mattress sutures ( Figure 5H ). 
+ Figure 5. 
+ 
+ Open in a new tab 
+ Suture Technique. Wounds are represented by dotted dark red lines and sutures by solid black lines. Cross sections represent sclera with the left side oriented towards the anterior globe. ( A ) Sutures should be placed perpendicular to the wound. ( B ) The length of a suture is approximately equal to the length of wound it seals, and these zones of sealing (gray) must overlap. ( C ) Tighten sutures to fully appose wound edges. ( D ) Sutures should enter and exit the wound perpendicular to the eye wall, equidistant to the wound on both sides. ( E ) Wounds that open at an oblique angle require a longer suture favoring the overriding side of the wound. ( F ) Only corneal sutures near the central visual axis may be full thickness; sutures should be partial thickness otherwise. ( G ) Suture knots should be rotated 90° and buried away from the visual axis if possible. ( H ) Oversew preserved pericardium or scleral patches to replace lost tissue. A primary enucleation or evisceration is not recommended unless the globe is not salvageable and primary closure is not possible. 63 Even then, it is often recommended to delay evisceration and enucleation for up to 2 weeks to allow the patient to process their sudden eye change and to make an informed decision. Corneal Wound Repair 
+ The cornea is an optical surface and requires special treatment to preserve visual acuity during OGI repairs. Any suture on the cornea has the potential to leave scarring and is ideally minimized. Small corneal lacerations may not require sutures. 62 Instead, the cornea is cleaned and dried at the wound, and minimal fibrin or cyanoacrylate glue is applied to seal the wound before application of a bandage contact lens. 
+ If the anterior chamber is shallow and sutures are required, inject viscoelastic through the corneal wound to deepen the anterior chamber, block bleeding, and protect the iris from sutures. Once the anterior chamber is at least partially formed, a standard paracentesis may be safely performed to facilitate further viscoelastic injection. For any corneoscleral wounds, the limbus should be aligned before beginning any corneal repair ( Figure 4A ), but after paracentesis. Some ophthalmologists opt for full-thickness sutures on the cornea instead of partial-thickness sutures to minimize corneal edema and distortion at the cost of increasing infection risk. 5 Near the limbus, however, sutures should not be full thickness as they can introduce limbal stem cells into the anterior chamber, increasing risk for epithelial downgrowth. Knots increase distortion of the corneal stroma and should be buried away from the visual axis ( Figure 5G ). 
+ The nature of the wound will dictate suture spacing to initially gain a “visco-tight” and finally a watertight seal. In general, one 10–0 nylon suture can close 1.0–1.5 mm of a linear wound but only 0.5–1.0 mm of a jagged or irregular wound. However, sutures create tension that flattens the corneal surface and create undesirable refractive errors. If sutures near the visual axis are unavoidable, use short, interrupted, and closely spaced sutures (0.5–1.0 mm). Close peripheral cornea with longer shallower passes and the shorter deeper passes in the mid and apical cornea ( Figure 4B ). Half-circle needles will help to facilitate these short and deep sutures near the visual axis. This approach will promote the healing cornea to maintain a prolate contour. 64 For lacerations across the visual axis, place sutures in a centripetal, symmetric, and alternating order ( Figure 4C ) as opposed to serial bisecting sutures, which may introduce astigmatism. If sutures in the central visual axis are unavoidable, 11–0 nylon sutures are preferred. Scleral Wound Repair 
+ The sclera lies posterior to the structures of the conjunctiva, Tenon’s capsule, and the extraocular muscles. If possible, full exposure of scleral wounds should be attempted prior to repair. 34 Posterior sclera requires extensive globe manipulation to expose and is therefore inaccessible during most OGI surgeries. If a wound extends posterior to the equator, it may not be possible to close the entire wound with bisecting sutures. Instead, place sutures in an anterior to posterior order ( Figure 4F ) until surgical exposure is inadequate for further repair. 5 The risk of iatrogenic vitreous prolapse outweighs the benefit of surgical closure for posterior scleral wounds and they may be left to heal by secondary intention. Small or punctate posterior OGIs may also granulate spontaneously within days and do not require sutures. Large wounds with extensive tissue loss may not be fully approximated. Oversew preserved pericardium or scleral patches ( Figure 5H ) to replace the lost tissue. Bury or rotate tightly trimmed scleral knots posteriorly for patient comfort and cover with the repair of the Tendons/conjunctival layer. Vitreoretinal Surgery 
+ Vitreoretinal surgery for OGIs may be done emergently with the OGI repair or in a two-stage approach after the primary repair. 35 Indications for a one-stage repair with vitrectomy are rare, primarily for concurrent IOFBs. 34 Even then, only certain IOFBs which pose a risk for retinal toxicity and endophthalmitis may need extraction via sclerotomy. Ferric, cupric, and most organic foreign materials pose a significant risk, whereas inert materials such as plastic, zinc, aluminum, and glass may be tolerated until secondary repair or allowed to remain in place. 65 
+ Vitreoretinal surgery requires a watertight globe and an experienced vitreoretinal surgeon, which may not be available in an emergency setting. The vitreous body is also tightly adherent to the retina and complicates emergent surgery but will spontaneously detach in the days following trauma and simplify or necessitate a secondary surgery. Cases with corneal involvement also prevent posterior inspection, although endoscopic assistance or a temporary keratoprosthesis may provide an otherwise unavailable view. Finally, the risk of an expulsive hemorrhage is reduced in secondary interventions. 35 If a two-stage approach is chosen, vitrectomy should be scheduled within a timeframe of 3–14 days after globe closure with potent corticosteroids, antibiotics and cycloplegia during the interim. Longer waiting periods risk proliferative vitreoretinopathy, retinal detachment, and retinal scarring. 66 Alternative non-invasive approaches, such as primary scleral buckling can reduce the rate of subsequent retinal detachments. 67 
+ Consider cultures and prophylactic intravitreal antibiotics in contaminated or delayed cases. Whereas cultures can be tapped from the anterior chamber with a 25-gauge needle, pre-vitrectomy vitreous is a thick fluid that requires a larger needle (eg, 22-gauge) and is the gold-standard for cultures. 68 Intravitreal vancomycin (1.0 mg/0.1 mL) and ceftazidime (2.25 mg/0.1 mL) are preferred while an equal dose of cefazolin may be used if ceftazidime is unavailable. Intravitreal amikacin (0.4 mg/0.1 mL) can substitute for ceftazidime in patients allergic to penicillin, but is associated with a greater risk of macular toxicity. 6 , 69 Alternatively, vancomycin may be added to balanced salt solution infusion during vitrectomy. 70 In cases where fungal infection is suspected, intravitreal amphotericin (5 μg/0.1 mL) is administered. Posterior ruptures may be considered sterile perforations and the use of systemic and/or intraocular antibiotics is debatable. Postoperative Management 
+ After primary repair, topical antibiotics, corticosteroids and cycloplegics are administered. For contaminated or complex repairs, consider injecting subconjunctival antibiotics. 6 Systemic antibiotics should be continued for at least 48 hours and may be continued for seven to ten days, except for small posterior ruptured globes. IV vancomycin 1 g every 12 hours and ceftazidime 1 g every 8 hours are common doses for adults with normal renal function but should be dose-adjusted for younger or renally impaired patients. Fluoroquinolones such as levofloxacin 500 mg once daily by mouth or IV may substitute for ceftazidime in patients with penicillin allergies. This protocol reduces posttraumatic endophthalmitis to as low as 0.9%. 59 The repaired eye should be covered with an eye shield and protected from any external pressure. Several days of systemic corticosteroids can be given to reduce the risk of sympathetic ophthalmia, but evidence is inconclusive for this rare complication. 71 
+ Follow-up the day after surgery is crucial to monitor the watertight seal of the globe and plan for secondary repair if indicated ( Figure 6A and B ). Further follow-up including full ocular examination on both eyes can be done at 1 week, 1 month, 3 months, and 1 year, or more frequently if the situation dictates. During this follow-up period, severe complications such as endophthalmitis, retinal detachment, hemorrhage, orbital compartment syndrome, and sympathetic ophthalmia must be ruled out at every visit. Although these complications are rare, especially sympathetic ophthalmia (<1% after OGI), they can result in loss of a viable eye. 72 Secondary repair may be scheduled based on discussion with the patient when indications arise ( Table 1 ).
+ 
+ Figure 6. 
+ 
+ Open in a new tab 
+ Postoperative Right Eye Photographs. ( A ) A Patient’s right eye with nasal coloboma, corneal scarring, and corneal sutures after a repair of a stellate wound created by penetrating open globe injury. Wounds should be watertight and free of vitreous at case conclusion. ( B ) The same patient’s right eye after penetrating keratoplasty as secondary repair of corneal open globe injury. Table 1. 
+ Indications for Secondary Repair After Open Globe Injury 
+ 
+ 
+ Secondary Surgery 
+ Indications 
+ 
+ 
+ 
+ Vitrectomy 
+ Retinal Detachment 
+ 
+ Vitreous Hemorrhage 
+ Intraocular Foreign Body 
+ Endophthalmitis 
+ Ruptured posterior capsule 
+ 
+ Cataract extraction 
+ Traumatic cataract 
+ 
+ Displaced lens 
+ 
+ Penetrating keratoplasty 
+ Corneal scarring 
+ 
+ Infectious keratitis 
+ 
+ Iris repair 
+ Traumatic mydriasis 
+ 
+ Iridodialysis 
+ Incarcerated or necrotic iris 
+ 
+ Floor or wall fracture repair 
+ Blowout fracture 
+ 
+ Extraocular muscle entrapment 
+ 
+ Strabismus surgery 
+ Extraocular muscle disinsertion 
+ 
+ Extraocular muscle laceration 
+ 
+ Evisceration or enucleation 
+ Blind painful eye 
+ 
+ Unresponsive endophthalmitis 
+ Disfigured globe 
+ Sympathetic ophthalmia 
+ 
+ 
+ Open in a new tab 
+ Notes : Secondary repairs may be scheduled when the globe is sufficiently stable In a non-emergent setting, secondary repair should be preceded by discussion of the risks, benefits, and prognosis associated with intervention. If visualization of the posterior pole was not possible prior to or during the time of the primary repair, a gentle B-scan or fundus examination is recommended to determine the extent of retinal injury at follow-up and determine necessity of secondary surgery. Posterior injuries may develop after the initial injury and repeat ultrasounds provide a reliable method of assessing clinical progression. 45 Visualization of a retinal detachment or a possible intraocular foreign body may hasten need for earlier secondary repair. Prognosis 
+ Several factors influence the likelihood of preserving vision after OGI, with preoperative visual acuity, absence of APD, and anterior injury location as the most impactful predictors of good visual acuity. 13 , 73 Therefore, these are also the data included in prognostic models. The Ocular Trauma Score ( Table 2 ) was the first and most widely used prognostic model to estimate final visual acuity after OGI repairs. In 2008, Schmidt et al created an alternative prognostic model, the classification and regression tree, to predict vision outcomes after OGI using a more data-driven approach validated by prospective data, with similar performance to the OTS. 14 , 74 Broader classification systems and the Pediatric Ocular Trauma Score were also devised to include other features with prognostic value. 75 , 76 
+ 
+ Table 2. 
+ Vision Prognosis by Ocular Trauma Score 
+ 
+ 
+ 
+ 1 . Calculate the sum of points as determined by the preoperative visual acuity and associated ocular injuries. Only include one BCVA category. 
+ Preoperative Features 
+ Points 
+ 
+ 
+ BCVA = NLP 
+ 60 
+ 
+ 
+ BCVA = LP or HM 
+ 70 
+ 
+ 
+ BCVA = 1/200 – 19/200 
+ 80 
+ 
+ 
+ BCVA = 20/200 – 20/50 
+ 90 
+ 
+ 
+ BCVA ≥ 20/40 
+ 100 
+ 
+ 
+ Globe rupture 
+ −23 
+ 
+ 
+ Endophthalmitis 
+ −17 
+ 
+ 
+ Perforating injury 
+ −14 
+ 
+ 
+ Retinal detachment 
+ −11 
+ 
+ 
+ RAPD present 
+ −10 
+ 
+ 
+ 
+ 2 . Determine the OTS based on the sum of points calculated from preoperative features. 
+ Sum of points 
+ OTS score 
+ 
+ 
+ 0–44 
+ 1 
+ 
+ 
+ 45–65 
+ 2 
+ 
+ 
+ 66–80 
+ 3 
+ 
+ 
+ 81–91 
+ 4 
+ 
+ 
+ 92–100 
+ 5 
+ 
+ 
+ 
+ 3 . Estimate probability of final vision acuities based on the OTS. 
+ OTS score 
+ NLP 
+ LP or HM 
+ 1/200 – 19/200 
+ 20/200 – 20/50 
+ ≥20/40 
+ 
+ 
+ 1 
+ 73% 
+ 17% 
+ 7% 
+ 2% 
+ 1% 
+ 
+ 
+ 2 
+ 28% 
+ 26% 
+ 18% 
+ 13% 
+ 15% 
+ 
+ 
+ 3 
+ 2% 
+ 11% 
+ 15% 
+ 28% 
+ 44% 
+ 
+ 
+ 4 
+ 1% 
+ 2% 
+ 2% 
+ 21% 
+ 74% 
+ 
+ 
+ 5 
+ 0% 
+ 1% 
+ 2% 
+ 5% 
+ 92% 
+ 
+ 
+ Open in a new tab 
+ Notes : Table displayed is adapted from the Ocular Trauma Score based created by Kuhn et al in 2002. The leftmost column describes steps involved in estimating vision potential. The OTS stratifies injuries into five categories correlating with a probability distribution of likely visual outcomes after OGI. Despite the severe reputation of OGIs, visual acuity prognosis is optimistic. Most patients have an improvement in visual acuity following repair and management. 77–79 Final visual acuity after OGIs is better than 20/40 in up to 39% of patients, and only 9% of patients are likely to have no light perception. 74 Despite improvements in ocular surgery technique and technology, visual outcomes remain consistent with the OTS since its inception in 2002. However, the incidence of open globe injury is decreasing, and preventive measures such as protective eyewear represent an important aspect of ophthalmic practice. 19 , 80 Conclusion 
+ Timely evaluation and treatment of OGIs is necessary to reduce vision morbidity and mortality. Evaluation should quickly identify OGIs and characterize the injury, prioritizing expedition to surgery. Analgesia, antibiotics, and eye protection are necessary to limit IOP, prevent infection, and prevent further injury. Adequate surgical exploration is needed throughout the injured globe, and repairs must result in a fully watertight seal. Suture technique is vital to produce this outcome and can be further optimized with special attention paid to corneal sutures. After primary repair, IOP control and antibiotics are also needed, followed by secondary repair and close follow-up. Outcomes are variable but can be improved by with the above guidelines. Disclosure 
+ The authors report no conflicts of interest in this work. References 
+ 
+ 
+ 1. Kuhn F, Morris R, Witherspoon CD, Heimann K, Jeffers JB, Treister G. A standardized classification of ocular trauma. Ophthalmology . 1996;103(2):240–243. doi: 10.1016/S0161-6420(96)30710-0 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Kolb H. Gross Anatomy of the Eye . Salt Lake City (UT): University of Utah Health Sciences Center; 1995. [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Navon SE. Management of the ruptured globe. Int Ophthalmol Clin . 1995;35(1):71–91. doi: 10.1097/00004397-199503510-00009 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Duke-Elder SMPA. System of Ophthalmology Vol. 14, Part 1 . London: KimptonSt. Louis: Mosby; 1972. [ Google Scholar ] 
+ 
+ 5. Kuhn F, Pelayes DE. Management of the ruptured eye. Eur Ophth Rev . 2009;3(1):48–50. doi: 10.17925/EOR.2009.03.01.48 [ DOI ] [ Google Scholar ] 
+ 
+ 6. Ahmed Y, Schimel AM, Pathengay A, Colyer MH, Flynn HW. Endophthalmitis following open-globe injuries. Eye . 2012;26(2):212–217. doi: 10.1038/eye.2011.313 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Olsen TW, Aaberg SY, Geroski DH, Edelhauser HF. Human sclera: thickness and surface area. Am J Ophthalmol . 1998;125(2):237–241. doi: 10.1016/S0002-9394(99)80096-8 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Murata N, Yokogawa H, Kobayashi A, Yamazaki N, Sugiyama K. Clinical features of single and repeated globe rupture after penetrating keratoplasty. Clin Ophthalmol . 2013;7:461–465. doi: 10.2147/OPTH.S42117 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Rau A, Lovald ST, Nissman S, McNulty J, Ochoa JA, Baldwinson M. The mechanics of corneal deformation and rupture for penetrating injury in the human eye. Injury . 2018;49(2):230–235. doi: 10.1016/j.injury.2017.11.037 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Cherry PM. Indirect traumatic rupture of the globe. Arch Ophthalmol . 1978;96(2):252–256. doi: 10.1001/archopht.1978.03910050120003 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Cherry PM. Rupture of the globe. Arch Ophthalmol . 1972;88(5):498–507. doi: 10.1001/archopht.1972.01000030500006 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Riffenburgh RS. Contusion rupture of the sclera. Arch Ophthalmol . 1963;69(6):722–726. doi: 10.1001/archopht.1963.00960040728007 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Pieramici DJ, Sternberg P Jr., Aaberg TM Sr., et al. A system for classifying mechanical injuries of the eye (globe). The ocular trauma classification group. Am J Ophthalmol . 1997;123(6):820–831. doi: 10.1016/S0002-9394(14)71132-8 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Schmidt GW, Broman AT, Hindman HB, Grant MP. Vision survival after open globe injury predicted by classification and regression tree analysis. Ophthalmology . 2008;115(1):202–209. doi: 10.1016/j.ophtha.2007.04.008 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Sternberg P Jr., de Juan E Jr., Michels RG, Auer C. Multivariate analysis of prognostic factors in penetrating ocular injuries. Am J Ophthalmol . 1984;98(4):467–472. doi: 10.1016/0002-9394(84)90133-8 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Koo L, Kapadia MK, Singh RP, Sheridan R, Hatton MP. Gender differences in etiology and outcome of open globe injuries. J Trauma . 2005;59(1):175–178. doi: 10.1097/01.TA.0000173624.37438.D6 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Casson RJ, Walker JC, Newland HS. Four-year review of open eye injuries at the Royal Adelaide Hospital. Clin Experiment Ophthalmol . 2002;30(1):15–18. doi: 10.1046/j.1442-9071.2002.00484.x [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Ustaoglu M, Karapapak M, Tiryaki S, et al. Demographic characteristics and visual outcomes of open globe injuries in a tertiary hospital in Istanbul, Turkey. Eur J Trauma Emerg Surg . 2020;46(3):549–556. doi: 10.1007/s00068-018-1060-2 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Mir TA, Canner JK, Zafar S, Srikumaran D, Friedman DS, Woreta FA. Characteristics of open globe injuries in the United States from 2006 to 2014. JAMA Ophthalmol . 2020;138(3):268–275. doi: 10.1001/jamaophthalmol.2019.5823 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Li X, Zarbin MA, Bhagat N. Pediatric open globe injury: a review of the literature. J Emerg Trauma Shock . 2015;8(4):216–223. doi: 10.4103/0974-2700.166663 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Rostomian K, Thach AB, Isfahani A, Pakkar A, Pakkar R, Borchert M. Open globe injuries in children. J Am Assoc Pediatr Ophthalmol Strabismus . 1998;2(4):234–238. doi: 10.1016/S1091-8531(98)90058-1 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Andreoli MT, Andreoli CM. Geriatric traumatic open globe injuries. Ophthalmology . 2011;118(1):156–159. doi: 10.1016/j.ophtha.2010.04.034 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Blanch RJ, Bishop J, Javidi H, Murray PI. Effect of time to primary repair on final visual outcome after open globe injury. Br J Ophthalmol . 2019;103(10):1491–1494. doi: 10.1136/bjophthalmol-2017-311559 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Walkden A, Burkitt-Wright E, Au L. Brittle cornea syndrome: current perspectives. Clin Ophthalmol . 2019;13:1511–1516. doi: 10.2147/OPTH.S185287 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Treurniet S, Burger P, Ghyczy EA, et al. Ocular characteristics and complications in patients with osteogenesis imperfecta: a systematic review. Acta Ophthalmol . 2022;100(1):e16–e28. doi: 10.1111/aos.14882 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Chang IT, Prendes MA, Tarbet KJ, Amadi AJ, Chang SH, Shaftel SS. Ocular injuries from fireworks: the 11-year experience of a US level I trauma center. Eye . 2016;30(10):1324–1330. doi: 10.1038/eye.2016.104 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Peacock LW, Slade SG, Martiz J, Chuang A, Yee RW. Ocular integrity after refractive procedures. Ophthalmology . 1997;104(7):1079–1083. doi: 10.1016/S0161-6420(97)30182-1 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Pinheiro MN, Bryant MR, Tayyanipour R, Nassaralla BA, Wee WR, McDonnell PJ. Corneal integrity after refractive surgery: effects of radial keratotomy and mini-radial keratotomy. Ophthalmology . 1995;102(2):297–301. doi: 10.1016/S0161-6420(95)31025-1 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Kawashima M, Kawakita T, Shimmura S, Tsubota K, Shimazaki J. Characteristics of traumatic globe rupture after keratoplasty. Ophthalmology . 2009;116(11):2072–2076. doi: 10.1016/j.ophtha.2009.04.047 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Swan KC, Meyer SL, Squires E. Late wound separation after cataract extraction. Ophthalmology . 1978;85(10):991–1003. doi: 10.1016/S0161-6420(78)35583-4 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Yu TSI, Liu H, Hui K. A case–control study of eye injuries in the workplace in Hong Kong. Ophthalmology . 2004;111(1):70–74. doi: 10.1016/j.ophtha.2003.05.018 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Broadway DC. How to test for a relative afferent pupillary defect (RAPD). Community Eye Health . 2012;25(79–80):58–59. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Harlanjr JB Jr., Pieramici DJ. Evaluation of patients with ocular trauma. Ophthalmol Clin North Am . 2002;15(2):153–161. doi: 10.1016/S0896-1549(02)00006-8 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Chronopoulos A, Ong JM, Thumann G, Schutz JS. Occult globe rupture: diagnostic and treatment challenge. Surv Ophthalmol . 2018;63(5):694–699. doi: 10.1016/j.survophthal.2018.04.001 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Joussen AM, Müller B, Kirchhof B, Stappler T, Zeitz O. Rupture of the globe: what to do, what not to do. Klin Monbl Augenheilkd . 2020;237(09):1070–1078. doi: 10.1055/a-1233-8997 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Lee HJ, Jilani M, Frohman L, Baker S. CT of orbital trauma. Emerg Radiol . 2004;10(4):168–172. doi: 10.1007/s10140-003-0282-7 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Crowell EL, Koduri VA, Supsupin EP, et al. Accuracy of computed tomography imaging criteria in the diagnosis of adult open globe injuries by neuroradiology and ophthalmology. Acad Emerg Med . 2017;24(9):1072–1079. doi: 10.1111/acem.13249 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Joseph DP, Pieramici DJ, Beauchamp NJ Jr.
+Computed tomography in the diagnosis and prognosis of open-globe injuries. Ophthalmology . 2000;107(10):1899–1906. doi: 10.1016/S0161-6420(00)00335-3 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Kubal WS. Imaging of orbital trauma. RadioGraphics . 2008;28(6):1729–1739. doi: 10.1148/rg.286085523 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Sung EK, Nadgir RN, Fujita A, et al. Injuries of the globe: what can the radiologist offer?
+ Radiographics . 2014;34(3):764–776. doi: 10.1148/rg.343135120 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Adesanya OO, Dawkins DM. Intraorbital wooden foreign body (IOFB): mimicking air on CT. Emerg Radiol . 2007;14(1):45–49. doi: 10.1007/s10140-007-0576-2 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. LeBedis CA, Sakai O. Nontraumatic orbital conditions: diagnosis with CT and MR imaging in the emergent setting. RadioGraphics . 2008;28(6):1741–1753. doi: 10.1148/rg.286085515 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Weissman JL, Beatty RL, Hirsch WL, Curtin HD. Enlarged anterior chamber: CT finding of a ruptured globe. AJNR Am J Neuroradiol . 1995;16(4 Suppl):936–938. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Patel SN, Langer PD, Zarbin MA, Bhagat N. Diagnostic value of clinical examination and radiographic imaging in identification of intraocular foreign bodies in open globe injury. Eur J Ophthalmol . 2011;22(2):259–268. doi: 10.5301/EJO.2011.8347 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Andreoli MT, Yiu G, Hart L, Andreoli CM. B-scan ultrasonography following open globe repair. Eye . 2014;28(4):381–385. doi: 10.1038/eye.2013.289 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Rao SK, Nunez D, Gahbauer H. MRI evaluation of an open globe injury. Emerg Radiol . 2003;10(3):144–146. doi: 10.1007/s10140-003-0303-6 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Iinuma T, Hirota Y, Ishio K. Orbital wall fractures. conventional views and CT. Rhinology . 1994;32(2):81–83. [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Saeed A, Cassidy L, Malone DE, Beatty S. Plain X-ray and computed tomography of the orbit in cases and suspected cases of intraocular foreign body. Eye . 2008;22(11):1373–1377. doi: 10.1038/sj.eye.6702876 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Iyer MN, Kranias G, Daun ME. Post-traumatic endophthalmitis involving clostridium tetani and bacillus spp. Am J Ophthalmol . 2001;132(1):116–117. doi: 10.1016/S0002-9394(00)00948-X [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Andreoli CM, Gardiner MF, Paysse EA, Moreira ME
+Open globe injuries: emergency evaluation and initial management; 2020. 
+ 
+ 
+ 51. Badrinath Shyamala K, Vazeery A, McCarthy Robert J, Ivankovich Anthony D. The effect of different methods of inducing anesthesia on intraocular pressure. Anesthesiology . 1986;65(4):431–434. doi: 10.1097/00000542-198610000-00016 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Chidiac Elie J. Succinylcholine and the open globe: questions unanswered. Anesthesiology . 2004;100(4):1035–1036. doi: 10.1097/00000542-200404000-00045 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Vachon Claude A, Warner David O, Bacon douglas R. Succinylcholine and the open globe: tracing the teaching. Anesthesiology . 2003;99(1):220–223. doi: 10.1097/00000542-200307000-00033 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Rich Alvin L, Witherspoon CD, Morris Robert E, Feist Richard M. Use of nondepolarizing anesthetic agents in penetrating ocular injuries. Anesthesiology . 1986;65(1):108. doi: 10.1097/00000542-198607000-00034 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. McClellan AJ, Daubert JJ, Relhan N, Tran KD, Flynn HW, Gayer S. Comparison of regional vs general anesthesia for surgical repair of open-globe injuries at a university referral center. Ophthalmol Retina . 2017;1(3):188–191. doi: 10.1016/j.oret.2016.11.006 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Scott Ingrid U, Gayer S, Voo I, Flynn Harry W, Diniz Jose R, Venkatraman A. Regional anesthesia with monitored anesthesia care for surgical repair of selected open globe injuries. Ophthalmic Surg Lasers Imaging Retina . 2005;36(2):122–128. doi: 10.3928/1542-8877-20050301-08 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Mavrakanas NA, Stathopoulos C, Schutz JS. Are ocular injection anesthetic blocks obsolete? Indications and guidelines. Curr Opin Ophthalmol . 2011;22(1):58–63. doi: 10.1097/ICU.0b013e328341426f [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Essex RW, Yi Q, Charles PG, Allen PJ. Post-traumatic endophthalmitis. Ophthalmology . 2004;111(11):2015–2022. doi: 10.1016/j.ophtha.2003.09.041 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Andreoli CM, Andreoli MT, Kloek CE, Ahuero AE, Vavvas D, Durand ML. Low rate of endophthalmitis in a large series of open globe injuries. Am J Ophthalmol . 2009;147(4):601–608.e602. doi: 10.1016/j.ajo.2008.10.023 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Wright KW, Thompson L. Color Atlas of Strabismus Surgery . Springer; 2007. [ Google Scholar ] 
+ 
+ 61. Kim WS, Kim KH. Cataract surgery in eyes with trauma. In: Kim WS, Kim KH, editors. Challenges in Cataract Surgery: Principles and Techniques for Successful Management . Berlin, Heidelberg: Springer Berlin Heidelberg; 2016: 51–54. [ Google Scholar ] 
+ 
+ 62. Krachmer JH, Mannis MJ, Holland EJ. Cornea e-Book: Chapter 147 . Elsevier Health Sciences; 2010. [ Google Scholar ] 
+ 
+ 63. Ojuok E, Uppuluri A, Langer PD, Zarbin MA, Thangamathesvaran L, Bhagat N. Predictive factors of enucleation after open globe injuries. Graefes Arch Clin Exp Ophthalmol . 2021;259(1):247–255. doi: 10.1007/s00417-020-04794-6 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Rowsey JJ. Ten caveats in keratorefractive surgery. Ophthalmology . 1983;90(2):148–155. doi: 10.1016/S0161-6420(83)34591-7 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Yeh S, Colyer MH, Weichel ED. Current trends in the management of intraocular foreign bodies. Curr Opin Ophthalmol . 2008;19(3):225–233. doi: 10.1097/ICU.0b013e3282fa75f1 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Melamud A, Pham H, Stoumbos Z. Early vitrectomy for spontaneous, fundus-obscuring vitreous hemorrhage. Am J Ophthalmol . 2015;160(5):1073–1077.e1071. doi: 10.1016/j.ajo.2015.07.025 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Arroyo JG, Postel EA, Stone T, McCuen BW, Egan KM. A matched study of primary scleral buckle placement during repair of posterior segment open globe injuries. Br J Ophthalmol . 2003;87(1):75–78. doi: 10.1136/bjo.87.1.75 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. AlBloushi AF, Ajamil-Rodanes S, Testi I, Wagland C, Grant-McKenzie N, Pavesio C. Diagnostic value of culture results from aqueous tap versus vitreous tap in cases of bacterial endophthalmitis. Br J Ophthalmol . 2021; 106: 815–819. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Galloway G, Ramsay A, Jordan K, Vivian A. Macular infarction after intravitreal amikacin: mounting evidence against amikacin. Br J Ophthalmol . 2002;86(3):359–360. doi: 10.1136/bjo.86.3.359 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Pietras-Baczewska A, Jasińska E, Toro MD, et al. Urgent vitrectomy with vancomycin infusion, silicone oil endotamponade, and general antibiotic treatment in multiple cases of endophthalmitis from a single day of intravitreal injections—case series. J Clin Med . 2021;10(5):1059. doi: 10.3390/jcm10051059 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Mclean JM. Steroid prophylaxis in sympathetic ophthalmia. Am J Ophthalmol . 1958;45(4):162–164. doi: 10.1016/0002-9394(58)90238-1 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Savar A, Andreoli MT, Kloek CE, Andreoli CM. Enucleation for open globe injury. Am J Ophthalmol . 2009;147(4):595–600.e591. doi: 10.1016/j.ajo.2008.10.017 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Kuhn F, Morris R, Mester V, Witherspoon CD, Mann L. Predicting the severity of an eye injury: the Ocular Trauma Score (OTS). In: Kuhn F, editor. Ocular Traumatology . Berlin, Heidelberg: Springer Berlin Heidelberg; 2008: 17–22. [ Google Scholar ] 
+ 
+ 74. Man CYW, Steel D. Visual outcome after open globe injury: a comparison of two prognostic models—the ocular trauma score and the classification and regression tree. Eye . 2010;24(1):84–89. doi: 10.1038/eye.2009.16 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Acar U, Tok OY, Acar DE, Burcu A, Ornek F. A new ocular trauma score in pediatric penetrating eye injuries. Eye . 2011;25(3):370–374. doi: 10.1038/eye.2010.211 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Shukla B, Agrawal R, Shukla D, Seen S. Systematic analysis of ocular trauma by a new proposed ocular trauma classification. Indian J Ophthalmol . 2017;65(8):719–722. doi: 10.4103/ijo.IJO_241_17 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Mayer CS, Reznicek L, Baur ID, Khoramnia R. Open globe injuries: classifications and prognostic factors for functional outcome. Diagnostics . 2021;11(10):1851. doi: 10.3390/diagnostics11101851 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Pimolrat W, Choovuthayakorn J, Watanachai N, et al. Predictive factors of open globe injury in patients requiring vitrectomy. Injury . 2014;45(1):212–216. doi: 10.1016/j.injury.2013.06.003 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Scanzera AC, Dunbar G, Shah V, Cortina MS, Leiderman YI, Shorter E. Visual rehabilitation with contact lenses following open globe trauma. Eye Contact Lens . 2021;47(5):288–291. doi: 10.1097/ICL.0000000000000756 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Patel PS, Uppuluri A, Zarbin MA, Bhagat N. Epidemiologic trends in pediatric ocular injury in the USA from 2010 to 2019. Graefes Arch Clin Exp Ophthalmol . 2022;260(4):1387–1394. doi: 10.1007/s00417-021-05368-w [ DOI ] [ PubMed ] [ Google Scholar ]

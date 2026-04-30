@@ -1,0 +1,824 @@
+Source: PubMed Central (PMC)
+PMCID: PMC4181632
+Title: Pharmacotherapy for uveitis: current management and emerging therapy
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4181632/
+Year: 2014
+Disease: uveitis
+Priority: 2
+============================================================
+
+Clin Ophthalmol . 2014 Sep 22;8:1891–1911. doi: 10.2147/OPTH.S47778 
+ 
+ 
+ Pharmacotherapy for uveitis: current management and emerging therapy 
+ Robert J Barry 
+ Robert J Barry 
+ 
+ 1 Academic Unit of Ophthalmology, Centre for Translational Inflammation, Research, University of Birmingham, UK 
+ Find articles by Robert J Barry 
+ 
+ 
+ 1 , Quan Dong Nguyen 
+ Quan Dong Nguyen 
+ 
+ 2 Stanley M Truhlsen Eye Institute, University of Nebraska Medical Center, Omaha, NE, USA 
+ Find articles by Quan Dong Nguyen 
+ 
+ 
+ 2 , Richard W Lee 
+ Richard W Lee 
+ 
+ 3 Inflammation and Immunotherapy Theme, National Institute for Health Research (NIHR) Biomedical Research Centre at Moorfields Eye Hospital NHS Foundation Trust and UCL Institute of Ophthalmology, University Hospitals Bristol NHS Foundation Trust and University of Bristol, Bristol, UK 
+ Find articles by Richard W Lee 
+ 
+ 
+ 3 , Philip I Murray 
+ Philip I Murray 
+ 
+ 1 Academic Unit of Ophthalmology, Centre for Translational Inflammation, Research, University of Birmingham, UK 
+ Find articles by Philip I Murray 
+ 
+ 
+ 1 , Alastair K Denniston 
+ Alastair K Denniston 
+ 
+ 1 Academic Unit of Ophthalmology, Centre for Translational Inflammation, Research, University of Birmingham, UK 
+ 
+ 4 Department of Ophthalmology, Queen Elizabeth Hospital Birmingham, University Hospitals Birmingham NHS Foundation Trust, Birmingham, UK 
+ Find articles by Alastair K Denniston 
+ 
+ 
+ 1, 4, ✉ 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Academic Unit of Ophthalmology, Centre for Translational Inflammation, Research, University of Birmingham, UK 
+ 
+ 2 Stanley M Truhlsen Eye Institute, University of Nebraska Medical Center, Omaha, NE, USA 
+ 
+ 3 Inflammation and Immunotherapy Theme, National Institute for Health Research (NIHR) Biomedical Research Centre at Moorfields Eye Hospital NHS Foundation Trust and UCL Institute of Ophthalmology, University Hospitals Bristol NHS Foundation Trust and University of Bristol, Bristol, UK 
+ 
+ 4 Department of Ophthalmology, Queen Elizabeth Hospital Birmingham, University Hospitals Birmingham NHS Foundation Trust, Birmingham, UK 
+ 
+ ✉ Correspondence: Alastair K Denniston, Queen Elizabeth Hospital Birmingham, University Hospitals Birmingham NHS Foundation trust, Mindelsohn Way, Edgbaston, Birmingham, B15 2WB, UK, Email a.denniston@bham.ac.uk 
+ 
+ 
+ Collection date 2014. 
+ 
+ © 2014 Barry et al. This work is published by Dove Medical Press Limited, and licensed under Creative Commons Attribution – Non Commercial (unported, v3.0) License 
+ The full terms of the License are available at http://creativecommons.org/licenses/by-nc/3.0/ . Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC4181632  PMID: 25284976 
+ 
+ Abstract 
+ Uveitis, a group of conditions characterized by intraocular inflammation, is a major cause of sight loss in the working population. Most uveitis seen in Western countries is noninfectious and appears to be autoimmune or autoinflammatory in nature, requiring treatment with immunosuppressive and/or anti-inflammatory drugs. In this educational review, we outline the ideal characteristics of drugs for uveitis and review the data to support the use of current and emerging therapies in this context. It is crucial that we continue to develop new therapies for use in uveitis that aim to suppress disease activity, prevent accumulation of damage, and preserve visual function for patients with the minimum possible side effects. 
+ Keywords: clinical trials, immunomodulatory therapeutic agents, immunosuppression, inflammation, uvea Background 
+ Uveitis, a significant cause of blindness worldwide, is a term applied to a wide range of conditions that are characterized by intraocular inflammation. Many cases of “uveitis” do indeed involve inflammation of the uvea (which comprises the iris, ciliary body, and choroid), but may also involve adjacent structures such as the retina or vitreous. Uveitis is highly heterogeneous, varying in etiology, pattern, tissue involved, and extent. The uveitis specialist may be confronted by a small, localized area of inflammation in a single tissue in a non-sight-threatening location, or widespread blinding inflammation involving almost all ocular tissues. Visual impairment is common, affecting between 2.8% and 10% of patients, 1 – 3 and may result directly from damage to uveal tract structures, or may occur due to secondary effects on neighboring tissues: for example, accelerated cataract formation, glaucoma, and macular edema. 4 
+ The Standardization of Uveitis Nomenclature (SUN) working group classifies uveitis according to the site of primary inflammation. 5 Anterior chamber inflammation is categorized as “anterior uveitis”, and includes iritis, iridocyclitis, and anterior cyclitis. Inflammation primarily affecting the vitreous is referred to as “intermediate uveitis”, and includes pars planitis, posterior cyclitis, and hyalitis. “Posterior uveitis” describes inflammation of the retina or choroid. Finally, “pan-uveitis” describes the situation where inflammation is seen throughout the anterior chamber, vitreous, and retina or choroid. According to the SUN criteria, disease is further classified according to onset (sudden or insidious), duration (limited or persistent), and course (acute, recurrent, or chronic). 
+ Pathophysiology 
+ Uveitis can be either infectious or noninfectious; whilst both may present with similar clinical features, they are best considered as distinct disease entities since the underlying pathophysiology and treatment strategies are very different. 
+ Whilst common in the developing world, infectious causes account for the minority of uveitis cases presenting to tertiary referral centers in the West. Infectious causes include organisms such as toxoplasma, cytomegalovirus, syphilis, and herpes viruses. 6 , 7 Local infection results in foreign antigen presentation to ocular immune cells, with appropriate immune activation aimed at clearing the invading organism. Uveitis occurs as a secondary effect of this immune activation. 
+ Noninfectious uveitis is thought to result from inappropriate activation of the immune system 8 and it is therefore not surprising that it is often associated with systemic autoimmune or autoinflammatory diseases such as ankylosing spondylitis (AS), sarcoidosis, or Behçet’s Disease (BD). In the remainder, however, no such systemic association is identified; these cases are generally labeled as “idiopathic” in recognition of the fact that the autoimmune/autoinflammatory origin of most of these cases is presumed rather than proven. Human data and experimental models indicate parallel changes in the inflammatory milieu of the intraocular microenvironment. Uveitis may be induced in animal models by a range of mechanisms that cause differentiation of naïve CD4+ T-cells to pathogenic effector cells, resulting in tissue damage. 9 – 13 Although similar pathogenic effector cells have been recovered from ocular fluids and tissue in human uveitis, the evidence for autoreactive T-cells (such as seen in the animal models) is much more limited. 14 , 15 
+ Such idiopathic cases account for the largest cohort of patients seen in most clinical practices in the West. In a retrospective study of all uveitis cases presenting to a tertiary center, Rodriguez et al reported 34% to be idiopathic, 10.4% to be associated with seronegative spondyloarthropathies, and 9.6% to be associated with sarcoidosis, 16 although it should be noted that certain conditions are typically associated with particular anatomical groups, such as anterior uveitis with seronegative spondyloarthropathies. It is also of interest to note that, in a report from the Systemic Immunosuppressive Therapy for Eye Diseases (SITE) retrospective study of US tertiary uveitis services, the leading systemic associations in 4,911 patients with uveitis were sarcoidosis (7%), seronegative spondyloarthropathy (5%), juvenile idiopathic arthritis (JIA) (5%), and BD (3%). 17 Brief overview of treatment strategies 
+ For infectious causes, treatment is aimed at eradicating the pathogenic organism with appropriately targeted antimicrobial therapy. In severe cases, such agents may be delivered directly to the eye by intravitreal injection, or are more frequently administered systemically by an oral or intravenous route. Once the infectious agent is considered to be under control, immunosuppressive agents such as corticosteroids may be used judiciously to limit tissue damage. 
+ For noninfectious causes, treatment involves suppression of the local immune response. It is useful to consider the concept of disease activity versus damage when treating inflammatory disease. 18 , 19 “Activity” refers to the ongoing immune response, which may be acute or chronic, but is usually reversible. “Damage” refers to the effect of active inflammation on native tissues; it is usually irreversible. In simple terms, persistent activity will lead to accumulation of damage. In theory, effective therapy should suppress all activity and prevent or halt accumulation of damage. 
+ Therapy in noninfectious uveitis is aimed at suppressing the immune system, and ranges from topical therapy (commonly corticosteroid eye drops) to systemic immunosuppression with either high-dose corticosteroids (oral, intravenous, intramuscular, or subcutaneous) or a wide range of corticosteroid-sparing immunomodulatory therapeutic (IMT) agents. 20 , 21 Ideally, treatment should be targeted to the mechanism and localized to the tissue to maximize the efficacy/side-effect profile. However, this is often not achieved and new therapies should therefore aim to suppress disease activity, prevent accumulation of damage, and preserve visual function for patients with the minimum number of possible adverse events. 22 – 24 Introduction to the epidemiology of uveitis 
+ Uveitis is considered a rare disease, 25 with an estimated incidence between 17 and 52 people per 100,000 population in Europe and the USA, 1 , 7 , 26 , 27 although a higher incidence of disease may be observed in Chinese and Japanese populations. 28 Despite this rarity, it is a disproportionately common cause of legally-recognized visual impairment, and is the fourth most common cause of blindness in the working-age population in the developed world. 2 , 29 , 30 Uveitis can occur in any age group; however, it is particularly prevalent in younger people, with a mean age at onset of less than 40 years. 30 
+ Epidemiological studies in uveitis are particularly prone to bias. Most notably, a range of criteria exist for diagnosis and categorization of different uveitis entities; the relatively recent introduction of SUN working group anatomical classification has helped standardize practice; however, clinical, etiological, and pathological classification criteria have been used variably throughout the literature, and it is often difficult to compare published data from multiple sources. 29 , 31 – 34 In addition, since the majority of research in uveitis is generated from tertiary referral centers with relatively little data from community-based practice, there is bias towards severe disease and a relative under-representation of more straightforward cases. 35 Furthermore, given the heterogeneity of uveitis entities and the wide geographic variation in both clinical features and disease etiology, comparison between different regions is difficult. 6 
+ Disease etiology shows significant variation with age, with some forms of uveitis affecting specific groups. For example, in European populations, uveitis due to JIA occurs almost exclusively in children; 36 , 37 human leucocyte antigen (HLA)-B27-positive disease is seen in young adults; 38 and masquerade syndromes and lymphoma are more commonly seen in the elderly. 25 
+ Infectious uveitis is relatively rare in developed countries, accounting for 13%–21% of cases, and is thought to be mostly due to infection by herpes viruses. 6 , 25 This is in stark contrast with developing countries, where up to 50% of uveitis is thought to have an infectious etiology. The most common infectious causes in these populations are toxoplasmosis, tuberculosis, onchocerciasis, cysticercosis, leprosy, and leptospirosis. 39 
+ In Western countries, anterior uveitis accounts for at least half of all cases, 40 of which idiopathic disease accounts for approximately 50%. 27 The most common clinical associations in those countries are HLA-B27-positive disease, AS, and Fuchs heterochromic iridocyclitis. 6 It is estimated that up to 55% of Caucasian patients with acute anterior uveitis are HLA-B27 positive, compared to only 5%–10% in the general population. 41 In contrast, the prevalence of anterior uveitis is much lower in Asian populations, which is thought to be due to the lower frequency of HLA-B27 positivity and AS. 42 Despite this, it should be noted that HLA-B27 positivity remains the most common association with acute anterior uveitis in most Asian populations. 40 , 42 
+ Intermediate uveitis is the least common form of disease across all geographic regions, with an estimated incidence of 1.5–2.08 per 100,000 population in Western populations. 6 There is thought to be a strong association with human T-cell lymphotropic virus type 1, 43 and several authors have noted an association between pars planitis and multiple sclerosis (MS), although this has yet to be fully characterized. 44 , 45 
+ Posterior uveitis accounts for 15%–30% of diagnoses. The most common cause worldwide is toxoplasmosis, followed by idiopathic disease. 6 , 40 , 42 It follows that posterior uveitis is more common in developing countries, owing to the higher prevalence of infectious diseases in these populations. 39 BD and Vogt–Koyanagi–Harada (VKH) disease are two rare but important noninfectious causes of posterior uveitis. 46 , 47 Cytomegalovirus retinitis is associated with human immunodeficiency virus infection, but its incidence is decreasing with the use of modern highly active anti-retroviral therapy. 6 
+ It is difficult to accurately estimate the prevalence of panuveitis; in one recent large-scale review of epidemiological studies, the prevalence varied from 1% to 69% depending on geographic location. 6 It is probable that panuveitis is more heavily affected by the biases described above than other types of uveitis, particularly referral bias skewing patient populations towards more severe disease in tertiary referral centers, and, as a result, these figures are unlikely to be representative of the general population. Idiopathic disease is most common in Europe, USA, Australia, and India, whilst infectious causes are again more common in most developing countries, and BD is an important cause in Asia and countries along the historic “silk route” (Middle East and Mediterranean regions). 30 , 48 – 51 Current treatment options 
+ Any treatment strategy for uveitis needs to consider a number of factors. 52 First, the etiology (ie, infectious versus noninfectious), which will define the type of treatment required (antimicrobial versus anti-inflammatory/immunosuppressive). Second, the extent of uveitis and associated inflammation – this includes: 1) anatomical location within the eye (as per SUN classification); 5 2) unilaterality or bilaterality; and 3) presence of systemic disease. These factors are important considerations when deciding whether topical, local, or systemic treatments are likely to be required. Third, the severity of disease, which may necessitate “rescue” therapy or additional treatment. Fourth, potential complications of either the disease itself or of treatments of the disease. 
+ Infectious versus noninfectious uveitis 
+ One of the most important (and sometimes difficult) challenges to confront the uveitis specialist is whether the inflammatory process is the result of an infectious agent. Establishing or excluding this may sometimes be possible on clinical appearance alone, 53 but is often supplemented by investigations on the peripheral blood (commonly serology, interferon gamma release assays for Mycobacterium tuberculosis , and hematological and biochemical markers) or ocular fluids (polymerase chain reaction for suspected microbes; less commonly Goldmann–Witmer coefficient); imaging is also commonly used to characterize associated systemic disease. 54 , 55 
+ In some cases, treatment may need to be started before the results of such investigations are available. For example, in the presence of suspected acute retinal necrosis, samples of aqueous humor and vitreous humor should be taken and sent for polymerase chain reaction concurrently with starting treatment (commonly intravitreal foscarnet and either oral valacyclovir or intravenous acyclovir). 56 This situation also highlights another issue: that some cases of infectious uveitis may provoke a strong inflammatory reaction both at the time and sometimes beyond the infectious component of disease; this may in turn require cautious immunosuppression to limit tissue damage and maximize visual potential following treatment. The focus of the remainder of this review will be on noninfectious uveitis. Although this noninfectious group is markedly heterogeneous, the apparent overlap in etiology (autoimmune or autoinflammatory) leads to an overlap in the strategies for treatment and in the types of drugs used. Extent and severity of uveitis and associated inflammation 
+ In general, isolated uncomplicated anterior uveitis (whether unilateral or bilateral) can often be managed by topical therapy alone; frequent topical corticosteroids are used for rescue treatment, and then titrated down to complete cessation (in acute disease) or to a low frequency maintenance regimen (chronic disease or frequent recurrences); a mydriatic is commonly prescribed to reduce the risk of posterior synechiae. 54 
+ In cases of posterior segment uveitis (intermediate, posterior, or panuveitis), the topical route provides inadequate penetration to the inflamed tissue, although topical therapies may still have an adjunctive role. For these cases, the choice of treatment will depend on whether the disease is unilateral or bilateral, and whether it is isolated or is a manifestation of a systemic inflammatory process. Unilateral and, increasingly, bilateral disease may be treated by local therapies (peribulbar, sub-Tenon’s, or intravitreal routes); corticosteroids are the most common drugs given by these routes although the role of other agents (see “Update on drugs currently in development stages for uveitis treatment” section for further details) are also being assessed. Local therapy may be sufficient to control the disease, but in more severe inflammation, or in the presence of systemic disease, systemic therapy is likely to be necessary. In addition, there may be contraindications to the use of local therapies in some cases. 57 
+ Recognition and treatment of any associated systemic disease is a priority. Therapy initiated for coexistent systemic inflammatory disease may ameliorate any active uveitis, reducing the need for direct ophthalmic intervention. Once again, rescue therapy is traditionally performed with corticosteroids (either intravenous or oral), with maintenance therapy comprising either a lower dose of corticosteroid or a steroid-sparing IMT agent. 57 The range of steroid-sparing IMT agents available (including biologics) is steadily increasing, although the evidence of their efficacy and safety in uveitis is often lacking. 22 Current options include antimetabolites (such as methotrexate and mycophenolate mofetil), T-cell inhibitors (such as cyclosporine), and alkylating agents (such as cyclophosphamide). More recently, biological therapies (such as infliximab) have been utilized in the management of severe and refractory uveitis. 21 , 23 , 58 – 60 A brief discussion of such agents is included in the next section. Comparative safety, efficacy, and tolerability of the drugs available for uveitis treatment 
+ When considering the drugs currently available for use in the treatment of ocular inflammation, it is important to recognize the limitations in the evidence that supports their role in uveitis. 22 For many agents there are no randomized controlled trials in uveitis and, thus, justification of their use is based on open-label cohort studies, uncontrolled case-series, extrapolation from their use in other inflammatory conditions, and expert opinion. As a result, it is not yet possible to provide a definitive account of which treatment is “best” for any particular variant of uveitis. Similarly, given the acknowledged limitations in the evidence base, there is no clear line between those drugs that are “established” and those that are still “in development”. For the purposes of this review, we have included within the “established” group those agents that are commonly used by specialists in uveitis services (this includes many second-line agents and the older anti-tumor necrosis factor [TNF] agents). Within the “in development” group, we consider both those agents that are in early phase of development and those agents that have established efficacy in other diseases, but have as yet limited evidence for their role in uveitis. 
+ Please refer to Table 1 for a summary of the therapeutic agents discussed in this review. Further guidance for the monitoring of these agents may be found from a number of external resources; 61 , 62 however, it should be noted that guidance varies between institutions and, thus, all such advice should be checked against local protocols. 
+ Table 1. 
+ List of therapeutic agents discussed in review 
+ 
+ 
+ Category 
+ Class 
+ Subtypes 
+ Examples 
+ 
+ 
+ 
+ Corticosteroids 
+ Corticosteroids 
+ – 
+ Prednisolone Methylprednisolone Iluvien Ozurdex Retisert 
+ 
+ 
+ Second-line agents 
+ T-cell inhibitors 
+ Calcineurin inhibitor 
+ Cyclosporine Tacrolimus Voclosporin 
+ 
+ 
+ 
+ mTOR inhibitor 
+ Everolimus Sirolimus 
+ 
+ 
+ Antimetabolites 
+ Purine antagonist DHFR inhibitor IMPDH inhibitor 
+ Azathioprine Methotrexate Mycophenolate mofetil 
+ 
+ 
+ Alkylating agents 
+ – 
+ Chlorambucil Cyclophosphamide 
+ 
+ 
+ Biologics 
+ Anti-TNF 
+ Anti-TNFα Anti-TNFα and β 
+ Adalimumab Certolizumab Golimumab Infliximab Etanercept 
+ 
+ 
+ Other biologic agents 
+ Anti-CD11a Anti-CD20 Anti-CD28 Anti-CD52 Anti-IL1 Anti-IL1β 
+ Efalizumab Rituximab Abatacept Alemtuzumab Anakinra Canakinumab Gevokizumab 
+ 
+ 
+ 
+ Anti-IL2 Anti-IL6 Anti-IL17A Interferons S1P inhibitor VEGF inhibitors 
+ Daclizumab Tocilizumab Secukinumab Interferon α/β Fingolimod Aflibercept Bevacizumab Ranibizumab 
+ 
+ 
+ Other agents 
+ Other 
+ – 
+ IVIG 
+ 
+ 
+ 
+ Open in a new tab 
+ Abbreviations: CD, cluster of differentiation; DHFR, dihydrofolate reductase; IL, interleukin; IMPDH, inosine monophosphate dehydrogenase; IVIG, intravenous immunoglobulin; mTOR, mammalian target of rapamycin; S1P, sphingosine-1-phosphate; TNF, tumor necrosis factor; VEGF, vascular endothelial growth factor. Corticosteroids 
+ Corticosteroids are well known for their potent anti-inflammatory effects and have been used to treat uveitis since 1950. 63 , 64 Their anti-inflammatory mechanism is complex, and only partly understood: 65 key components appear to include: direct binding of the glucocorticoid/receptor complex to genes involved in the inflammatory cascade; indirect effects on other transcription factors such as activating protein-1 or nuclear factor-kappa B; inhibitory effects on many inflammation-associated molecules such as cytokines, chemokines, arachidonic acid metabolites, and adhesion molecules; and upregulation of many anti-inflammatory mediators. 
+ Whilst this diverse mechanism of action drives an excellent anti-inflammatory response, it also causes significant unwanted side effects. 23 Ocular side effects (more common with topical or local administration) include accelerated cataract formation and increase in intraocular pressure. 66 , 67 Systemic side effects (more common with systemic administration) include hypertension, diabetes, Cushing’s syndrome, osteoporosis, and disorders of sleep, mood, and appetite. 57 
+ Corticosteroids continue to have a vital role in terms of “rescue” therapy, but their use as a maintenance therapy is limited by their associated side effects. The American Uveitis Society expert consensus recommendations suggest a maintenance dose of no more than 10 mg oral prednisolone equivalent per day, and this is broadly in line with guidelines from other inflammatory diseases. 57 However, in a survey study among physicians who manage patients with uveitis, it was learned that such guidelines are not always followed. 68 
+ There is thus a desire to develop treatments with similar anti-inflammatory effects to corticosteroids, but with fewer side effects; this concept of “steroid-sparing agents” describes any anti-inflammatory medication/IMT agent which may be used in place of corticosteroids, or which may allow reduction of corticosteroid dose and attenuation of steroid-induced side effects. T-cell inhibitors 
+ Cyclosporine was initially developed for use in solid organ transplantation and is known to reversibly bind to and inhibit calcineurin, which in turn inhibits the activity of circulating T-cells. 69 , 70 It is fast acting, reaching peak efficacy within 7–15 days of initiation of therapy. It is administered orally and in uveitis is commonly given at 2.5–5 mg/kg twice daily, although it should be noted that, within the retrospective multicenter SITE study, it appeared that the dose range of 150–250 mg/day appeared to have equal effect, but with lower rates of side effects, than doses of greater than 250 mg/day. 71 Cyclosporine has demonstrated efficacy in various forms of posterior uveitis. In uveitis secondary to BD, Masuda et al conducted a randomized controlled trial of cyclosporine versus colchicine in 96 patients, demonstrating that both frequency and severity of disease flares were reduced in the cyclosporine group. 72 Smaller noncon-trolled studies by Nussenblatt et al 73 and Graham et al 74 reported apparent benefit in mixed cohorts of patients with severe refractory posterior uveitis that included sarcoidosis, idiopathic retinal vasculitis, and BD. Side effects include hypertension, renal impairment, gingivitis, and hirsutism. In the retrospective multicenter SITE study, there were 373 patients who received cyclosporine for uveitis, of whom 11% had to cease the drug within 1 year due to side effects. 71 
+ Tacrolimus (FK-506) is a macrolide antibiotic with a similar mechanism of action to cyclosporine. 69 , 70 It is orally administered and, in uveitis, is commonly given at 0.03–0.08 mg/kg/day, but requires trough-level monitoring (aiming for 8–12 ng/L). Like cyclosporine, it has been used extensively in solid organ transplantation. It appears to have equivalent efficacy and better tolerability than cyclosporine. In a randomized but nonmasked controlled trial of 37 patients with refractory posterior segment uveitis (including idiopathic, BD, and sarcoidosis), Murphy et al reported equivalent “success” in the two groups, but significantly lower rates of hypertension and hypercholesterolemia in the tacrolimus group; there was a 5% discontinuation rate for renal impairment in both groups. 75 Other side effects include neurological symptoms, gastrointestinal symptoms, and hyperglycemia. Antimetabolites 
+ Azathioprine interferes with purine incorporation into DNA, resulting in synthesis of nonfunctional DNA sequences and blocking protein synthesis in lymphoid cells. It is also known to selectively inhibit T-cell function, suppress homing in circulating T-cells, decrease development of monocyte precursors, and suppress the role of natural killer cells in antibody-dependent cytotoxic reactions. 76 , 77 It is orally administered at a starting dose of 2–3 mg/kg/day, before being titrated according to response and side effects, 21 achieving efficacy within 4–12 weeks. It has been suggested to be effective in management of a wide range of ocular inflammatory conditions including: scleritis secondary to relapsing polychondritis; 78 ocular cicatricial pemphigoid; 79 JIA-associated iridocyclitis unresponsive to corticosteroids; 80 intermediate uveitis; 81 and sympathetic ophthalmia. 82 It has also been shown to be useful in controlling ocular inflammation in the context of BD. 83 The SITE retrospective review reported control of inflammation in 62% and steroid-sparing effect in 47% of patients using azathioprine for ocular inflammatory disease at 1 year. 84 Side effects include gastrointestinal upset, affecting up to 12% of patients, 85 and myelosuppression for which regular monitoring of blood count is required. 86 In the aforementioned SITE retrospective review, discontinuation due to side effects occurred at a rate of 0.16 per person year. 84 Despite numerous reports suggesting an increased risk of neoplasia with long-term use of azathioprine, 87 , 88 a recent critical appraisal of the literature concluded there was no significant increase in the incidence of malignancy associated with its use for ocular inflammation. 89 
+ Methotrexate is a folic acid analogue and inhibitor of dihydrofolate reductase, and therefore inhibits DNA reproduction. 77 It is administered weekly either orally or by intramuscular injection at a starting dose of 2.5–10 mg/week and is titrated to effect with a maximum dose of 50 mg/week, 21 with one study demonstrating control of ocular inflammation in 76% of patients at a mean dose of 12.3 mg/week. 90 It has a lag time of 3–6 weeks from initiation of treatment to full therapeutic effect. Its efficacy has been demonstrated in a variety of uveitis entities in several retrospective reviews, 91 – 94 and, in the SITE retrospective cohort study of 384 patients, ocular inflammatory disease was suppressed in 66% of patients at 1 year, allowing for tapering of steroids to 10 mg/day in 58%. 95 Successful outcomes were again observed in a variety of conditions, with highest rates observed in anterior uveitis and scleritis. Side effects include gastrointestinal symptoms, cytopenia, and hepatotoxicity, with abnormal liver function observed in 15% of patients. 96 No increased risk of neoplasia has been demonstrated with long-term use. 89 
+ Mycophenolate mofetil is an inosine monophosphate dehydrogenase inhibitor that disrupts purine synthesis, and preferentially inhibits DNA synthesis by B- and T-cells. 97 It is administered orally at a starting dose of 500 mg twice daily, and is increased to 1 g twice daily after 2 weeks provided that side effects are acceptable 21 with regular monitoring of blood count and liver-function tests. 57 Efficacy is achieved within 2–12 weeks after commencing treatment. In one study, 65% of patients achieved control of ocular inflammation on monotherapy, with steroid-sparing effects in 54% of patients. 98 In another case series of patients with uveitis and scleritis intolerant to methotrexate, 47/85 patients achieved control of inflammation on mycophenolate, with five patients achieving complete remission and being able to discontinue all immunosuppression. 99 These findings are concordant with the retrospective SITE review, which demonstrated control of ocular inflammation in 73%, and steroid-sparing effects in 55% of patients. 100 The most frequent side effects are those of gastrointestinal disturbance. Elevation of liver enzymes, leukopenia, and thrombocytopenia are less commonly reported. 77 Alkylating agents 
+ Cyclophosphamide exerts a cytotoxic effect on rapidly proliferating cells by alkylating nucleophilic groups on DNA bases. This results in cross-linking of DNA bases, abnormal base pairing, and strand breakage. Immunosuppressive effects are thought to be mediated by these cytotoxic effects on immunocompetent lymphocytes. 101 It may be administered either orally or as intravenous pulses. Some authors have demonstrated greater efficacy with oral administration; however, pulsed intravenous dosing is widely regarded to have a more preferable side-effect profile than oral dosing. 102 , 103 A loading course of infusions is usually commenced at 2-weekly intervals; since the degree of immunosuppression is reflected by the degree of lymphopenia, dosage is titrated to a leukocyte count of 3,500–4,500 cells/μL. Therapeutic efficacy is usually achieved within 2–8 weeks, and frequency of infusions is reduced as the inflammatory disease stabilizes. 57 , 104 In one widely-used protocol in the UK, cyclophosphamide is administered by intravenous infusion at an initial dose of 15 mg/kg at 2, 4, 7, 10, and 13 weeks, with monthly infusions thereafter to a maximum of nine pulses. 105 This protocol has been reported to successfully treat both refractory sclerokeratitis and uveitis, achieving control of inflammation in 71% and 41% of patients, respectively. 106 In the SITE retrospective review of 215 patients, 76% achieved control of ocular inflammation, and a steroid-sparing effect was demonstrated in 61%. 107 There are a number of potentially serious side effects, including leukopenia, hemorrhagic cystitis, secondary malignancy, and sterility; however, treatment benefits are thought to outweigh risks when used as short-term intravenous therapy. 108 – 110 
+ Chlorambucil has a similar action to cyclophosphamide, replacing hydrogen ions with alkyl groups on DNA bases, resulting in disruption of DNA synthesis in rapidly dividing cells. 111 It is orally administered at a starting dose of 0.1 mg/kg/day, with dosage titrated to response and side effects to a maximum dose of 6–12 mg/day. 21 Therapeutic efficacy is usually achieved within 4–12 weeks of onset, but it is less predictable than that of cyclophosphamide. In a review of 44 patients with refractory uveitis secondary to BD, Mudun et al demonstrated resolution of inflammation in 66% of patients with short-term chlorambucil therapy. 112 In another review of 53 patients with refractory uveitis due to a range of etiologies, 70% achieved remission with an average dose of 20 mg chlorambucil daily for an average of 16 weeks’ duration. 113 Furthermore, in a review of 28 patients with refractory uveitis secondary to BD, JIA, pars planitis, sympathetic ophthalmia, idiopathic uveitis, Crohn’s disease, and HLA-B27-positive disease, a positive response was observed in 68% with a median daily dose of 8 mg, over a median duration of 12 months. 114 The main side effect is bone marrow suppression, which, whilst usually reversible, may progress to irreversible aplastic anemia. It is also associated with an increased incidence of cutaneous malignancy, and in patients with preexisting neoplastic disease may lead to an increase in secondary hematological malignancy. 57 Chlorambucil is not used as often as cyclophosphamide by uveitis specialists who wish to employ alkylating agents to control the inflammation. Anti-TNFα 
+ Infliximab (Remicade; Janssen Biotech, Inc., Horsham, PA, USA) is a chimeric immunoglobulin (Ig)G monoclonal antibody that binds to TNFα and inhibits its biological function. It is composed of a human constant region, and murine variable region. 115 – 117 As is common to all anti-TNFα therapy, patients with evidence of acute infection are excluded from treatment, and, prior to commencing treatment, all patients should be screened for latent tuberculosis infection, in addition to hepatitis B virus if there are any known risk factors. Patients with moderate to severe heart failure are also excluded, and those with mild cardiac disease should be closely monitored. Blood count and liver function are checked at baseline and monitored monthly for the duration of therapy. 118 Infliximab is administered intravenously, usually with a short “loading course” of three doses at 2-weekly intervals at a dose of 3–5 mg/kg, then maintenance doses are administered every 4–8 weeks at 5–10 mg/kg. 57 , 119 , 120 Treatment is usually continued for up to 2 years after disease quiescence is achieved. 121 
+ Infliximab has been used successfully to treat uveitis associated with BD unresponsive to other therapies, 122 – 124 and also in uveitis secondary to birdshot chorioretinopathy (BSCR), 125 JIA, 126 , 127 AS, sarcoidosis, and Crohn’s disease. 128 , 129 In a 2-year prospective study by Suhler et al of 31 patients with refractory uveitis, 77% were deemed to have achieved clinical success within 10 weeks of commencing treatment with infliximab. 130 , 131 In another review of 25 patients with BD-related uveitis, Sfikakis et al demonstrated resolution of vitritis, macular edema, retinitis, and retinal vasculitis in over 90% of patients within 4 weeks of commencing treatment. 124 
+ Reactions during infusion are common and are thought to be largely due to the presence of the murine variable region, but can usually be managed successfully with antihistamines and analgesics. Potentially, fatal opportunistic infections have been observed in patients treated with infliximab, and, as a result, infliximab is contraindicated for patients with active, clinically significant infections, and should be used with caution in those with a history of chronic or recurrent infections. Caution is also required in patients with preexisting heart disease and neurological disease. 119 Studies of infliximab in ocular inflammatory disease have shown increased incidence of thromboembolism, drug-induced lupus-type reactions, and possibly solid malignancy. 131 
+ Adalimumab (Humira; AbbVie, Inc., North Chicago, IL, USA) is a humanized monoclonal IgG antibody to TNFα, 132 which is administered subcutaneously 2-weekly at a typical dose of 40 mg 133 and has been shown to be effective in the management of refractory uveitis due to a range of etiologies. 133 – 137 In a recent retrospective review of 60 patients with noninfectious uveitis across three centers, adalimumab was administered at a dose of 40 mg every other week for a mean duration of 87.9 weeks. Overall, 81.7% of patients were deemed to have shown improvement in their clinical condition, as judged by reduction in macular edema, increase in visual acuity, reduction in anterior chamber cells, reduced frequency of disease flares, or by steroid-sparing effect. 134 In another open-label, uncontrolled review of 274 patients with anterior uveitis secondary to AS, disease flare frequency was reduced by 51%, and when they did occur, disease flares were deemed to be less severe than prior to commencing adalimumab therapy. 133 It has a similar mechanism of action and side effect profile to infliximab, with the advantage of fewer injection site reactions, owing to the fact that it is completely humanized. 23 Currently, the VISUAL studies are being conducted worldwide to evaluate the potential role of adalimumab in the management of noninfectious uveitis (VISUAL I: NCT 01138657 ; VISUAL II: NCT 01124838 ; VISUAL III: NCT 01148225 ). 
+ Etanercept (Enbrel; Immunex Corporation, Thousand Oaks, CA, USA) comprises a soluble TNF receptor and a human IgG Fc fragment, which is able to block the activity of both TNFα and TNFβ. 115 , 116 , 138 It is administered subcutaneously twice per week at a typical dose of 25 mg. 57 Whilst early studies showed favorable outcomes of etanercept therapy, 139 – 141 subsequent studies were generally disappointing. Quartier et al demonstrated that whilst there was an initial improvement in uveitis secondary to JIA, this was maintained in only 50% of patients at 1 year. 142 In a randomized controlled trial of the use of etanercept in JIA-associated uveitis, Smith et al found no benefit of etanercept over placebo. 143 Similarly Foster et al found that etanercept was no better than placebo in preventing uveitis relapses in previously controlled patients when tapering methotrexate therapy. 144 When compared to infliximab, etanercept has been shown to be inferior in controlling and preventing recurrence of ocular inflammation. 145 Side effects are similar to infliximab and adalimumab. 21 Because of low efficacy, etanercept is rarely used to manage uveitis. Other biologic agents 
+ Rituximab (Rituxan; Genentech, Inc., South San Francisco, CA, USA) is a human/murine chimeric monoclonal IgG antibody directed against cluster of differentiation (CD)20 on the surface of B-cells. CD20 regulates the early differentiation and maturation of B-cells, and inhibition results in cell death by apoptosis. 146 Rituximab therapy results in depletion of B-cells and reduction of IgG and IgM levels for 6–12 months following therapy. 147 It is commonly administered as two infusions, 2-weeks apart, at a quoted dose of either 375 mg/m 2 body area, 21 , 148 or 1,000 mg per infusion. 149 , 150 It has been demonstrated to be effective in the management of refractory uveitis secondary to BD, 149 , 150 JIA, 148 , 151 and BSCR. 152 Side effects are potentially fatal, and include severe sepsis, infusion reactions with severe adult respiratory distress syndrome, bronchospasm, pulmonary edema, angioedema, Steven–Johnson syndrome, and toxic epidermal necrolysis. 153 
+ Abatacept (Orencia; Bristol-Myers Squibb, New York, NY, USA) is a fusion protein that inhibits costimulation of T-cells through blockage of the interaction between CD28 and CD80/86. 154 It is administered intravenously at monthly intervals. 155 Current data in uveitis is limited to case reports and case series; however, it has been repeatedly demonstrated to successfully treat uveitis in JIA. 156 – 158 Side effects include pneumonia and malignancy. 23 
+ Daclizumab (Zenapax; Hoffman-La Roche Ltd., Basel, Switzerland) is a humanized monoclonal antibody to the alpha subunit of the IL-2 receptor on the surface of T-cells. It binds CD25 on the IL-2 receptor of activated human lymphocytes, thus blocking the activity of autoreactive T-cells without suppressing the function of the immune system. 159 It is administered intravenously, usually at a starting dose of 1 mg/kg once every 2 weeks, with dose and frequency titrated to response and side effects to a maximum dose of 200 mg. 160 It has been shown to be well tolerated by patients in the management of uveitis, 161 , 162 with side effects including lymphadenopathy, psoriasiform rashes, mild peripheral edema, and infections. There appears to be no increased risk of malignancy associated with its use. 163 In one open label trial of daclizumab for various etiologies of intermediate and posterior uveitis, 4-weekly infusions resulted in improved inflammation and increased visual acuity in 80% of patients at 1 year, 164 which was maintained at 4 years. 165 Other reviews have shown daclizumab to be effective in uveitis secondary to BSCR, JIA, VKH, and idiopathic intermediate and posterior uveitis. 162 , 166 , 167 Data for BD has been equivocal, with one double-masked, randomized controlled trial finding daclizumab less effective than placebo. 168 Despite showing promise in the treatment of uveitis, daclizumab was discontinued by the manufacturer in 2009 due to decreasing market demand. 155 
+ Interferons (IFNs) are a group of cytokines synthesized by a variety of cell types with immunomodulatory, antiproliferative, and antiviral properties. The type I interferons (IFNα and IFNβ) act to increase expression of major histocompatibility complex class 1 molecules, and activate macrophages and natural killer cells. 60 , 169 They are typically administered subcutaneously at a dose of 3–6 million IU/day, at a frequency between three times weekly and once daily. 119 Interferons have been used to treat ocular inflammation since 1994, with strong evidence of efficacy in the management of uveitis secondary to BD 170 , 171 and MS. 172 , 173 Kötter et al performed a large scale systematic review of 36 studies assessing the use of interferons for uveitis secondary to BD; 182 of 338 patients were commenced on interferon therapy, of which 94% showed partial or complete resolution of inflammation within 2–4 weeks. 171 Common side effects include a flu-like illness and mild leukopenia, whilst mood disturbance such as depression and suicidal ideation have been less frequently reported. 169 , 171 Intravenous Ig (IVIg) 
+ IVIg contains 97%–98% intact human IgG with subclass distribution similar to normal plasma. Donations originate from a large number of donors (7,000–10,000) and therefore provide a broad spectrum of antibodies against pathogens. 174 IVIg is thought to have a multifactorial mechanism of action, including: blockage of IgG Fc fragment receptors on macrophages; modulation of cytokine synthesis and release; modulation of compliment; selection of B- and T-cell repertoires; neutralization of circulating autoantibodies; and interaction with other B- and T-cell surface receptors. 175 IVIg is administered intravenously at a dose of 1–2.5 g/kg/cycle of treatment divided over 3 days. Infusions are repeated at 2- to 4-weekly intervals until inflammation is controlled, after which infusions are repeated every 5–6 weeks for at least 2 years after remission has been achieved. 176 Side effects include aseptic meningitis, thromboembolism, and risk of transmission of blood-borne disorders. 147 It has been shown to be effective in treatment of cases of uveitis secondary to BSCR, 177 BD, 178 and VKH. 179 Vascular endothelial growth factor (VEGF) inhibitors 
+ VEGF has been implicated in the induction of inflammation in uveitic eyes, 180 , 181 and, as a result, intravitreal VEGF inhibitors have been used in the management of persistent macular edema secondary to inflammatory disorders. Currently available VEGF inhibitors include ranibizumab (Lucentis; Novartis International AG, Basel, Switzerland), bevacizumab (Avastin; Hoffman-La Roche Ltd./Genentech, Inc.), and aflibercept (Eylea; Regeneron, Tarrytown, NY, USA, and Bayer AG, Leverkusen, Germany). Treatment usually involves a course of three intravitreal injections at monthly intervals, followed by further injections depending on treatment response. Most data suggests that whilst such agents may successfully reduce macular thickness, the reduction in edema does not correspond to an increase in visual acuity. 180 , 182 – 184 When direct comparisons have been made, macular thickness and visual outcomes in uveitic macular edema are in fact better with intravitreal triamcinolone injections than with anti-VEGF agents. 185 – 187 This is likely to be due to the increased anti-inflammatory effect of steroids compared to VEGF inhibitors. 188 There are potential risks associated with the injection procedure itself: intravitreal injection may cause increased intraocular pressure, and also carries the infrequent but serious risk of infectious endophthalmitis. Whilst systemic side effects are rare, the risk of serious cardiovascular events remains a topic of debate. 189 , 190 Update on drugs currently in development stages for uveitis treatment 
+ Therapeutic agents are very rarely developed for the primary purpose of treating ocular inflammatory disease; instead, most advances in treatment occur when drugs previously used to successfully manage systemic inflammatory diseases are adapted for use in ophthalmology. Most immunomodulatory therapy is thus first used in conditions such as transplant medicine, rheumatoid arthritis (RA), psoriasis, or MS before being trialed in patients with uveitis, and is then usually used off-label, being documented as case reports or case series in the medical literature. 
+ Corticosteroids 
+ Intravitreal injection of triamcinolone acetonide is commonly used in control of uveitic macular edema, since it allows higher concentrations of corticosteroid to be delivered directly to the posterior pole than can be achieved with topical or systemic therapy. 191 Duration of action is, however, limited to 3–4 months at best, necessitating frequent repeat therapy and carrying risks of complications for the patient. 192 As a result, there has been a drive to develop longer-acting corticosteroid implants, which provide similar anti-inflammatory activity over a prolonged period of time. 
+ Ozurdex (Allergan, Inc., Irvine, CA, USA) is a “bio-erodible” dexamethasone implant using a solid polymer delivery system, in which dexamethasone is combined with biodegradable material in the form of a small rod, which is injected into the vitreous cavity using a specific injector. 20 Dexamethasone is released in a biphasic manner over 6 months, with higher concentrations released for the first 6 weeks, followed by lower concentrations for the following months. 193 After this time, the implant dissolves to CO 2 and H 2 O leaving no residue within the eye. 194 It is licensed for use in uveitis in USA and Europe. 
+ The license for Ozurdex is primarily based on HURON, a Phase III posterior segment uveitis study. This study, published in 2011, was a double-masked, randomized, controlled trial that compared the effect of two implant doses (0.7 mg and 0.35 mg) with sham injection. Both implant doses proved effective in controlling vitreous inflammation and improving visual acuity with reduction in cystoid macular edema, but the higher-dose implant had a longer duration of action without a significant increase in side effects, and is the implant now available. A total of 47% of patients treated with the 0.7 mg implant had a vitreous haze score of zero at 8 weeks (versus 12% for the sham injection group). The implant was still effective at the 6-month time point. Ozurdex was found to be safe with a low incidence of cataract reported over the 26-week period (15% of patients developed clinically evident lens opacity, but none sufficient to require surgery). The key potential side effect of raised intraocular pressure (IOP) was also low with IOP >25 mmHg occurring in less than 10% of patients. 195 Ozurdex 0.7 mg implants have also been shown to be effective in reducing macular thickness and increasing visual acuity in uveitic macular edema in vitrectomized eyes, 196 and have been shown to be effective in cases of pediatric uveitis. 197 
+ Given the success of these implantable therapies, there has been a desire to develop similar implants with an extended half-life. Fluocinolone acetate (FA) is significantly less soluble than dexamethasone in aqueous humor, and thus has potential to persist for far longer within the eye. 198 Retisert (Bausch & Lomb Incorporated, Bridgewater, NJ, USA) contains 0.59 mg FA, which is surgically placed into the vitreous cavity, where it persists for 30 months. 199 It was approved for use in noninfectious uveitis by the US Food and Drug Administration (FDA) in 2005, and several large-scale studies have documented its efficacy. 200 – 202 It is, however, associated with significant side effects. In one large scale review, all phakic patients were observed to develop cataract within 3 years of implantation, and significant IOP increases requiring trabeculectomy were observed in 40%. 200 
+ Iluvien (Alimera Sciences, Alpharetta, GA, USA; and pSivida Corp, Watertown, MA, USA) is an alternative FA insert that has been licensed for usage in diabetic macular edema 203 – 205 and is currently under evaluation in uveitis (Phase III trial ongoing, NCT 01694186 ). It has advantages over Retisert of being injectable via a 25-gauge injector system, and is thought to cause fewer corticosteroid side effects due to the release of a lower dose of the drug (0.2 or 0.5 μg/day compared to 0.59 μg/day with Retisert), although there still appears to be significant cataract progression following implantation. 204 , 205 Phase III clinical trials of FA inserts in eyes with noninfectious uveitis are currently underway, being led by pSivida Corp. 206 T-cell inhibitors 
+ Everolimus (Zortress [USA]/Certican [Europe and other countries]; Novartis International AG) is a mammalian target of rapamycin (mTOR) inhibitor, which inhibits T-cell proliferation and differentiation by blocking IL-2 signal transduction. mTOR inhibitors act at a later stage in the IL-2 signaling pathway than the commonly used calcineurin antagonists, and as a result are thought to have differential effects on different classes of CD4 T-cells, preserving regulatory T-cell responses whilst blocking development of other more pathogenic CD4 + T-cells. 207 – 209 For this reason, mTOR inhibitors are thought to be particularly useful in autoimmune disease where a regulatory T-cell effect may be beneficial, and as such have been used in the treatment of RA. 210 Everolimus is thought to have a preferable side effect profile to other mTOR inhibitors, 211 , 212 with higher bioavailability and shorter half-life than other agents. 213 
+ Given these qualities, there has been interest in Everolimus as an alternative therapy in uveitis refractory to corticosteroids and other calcineurin inhibitors. Heiligenhaus et al performed a nonrandom, open-label, prospective pilot study of 12 patients with endogenous uveitis refractory to corticosteroids and cyclosporine (nine patients with anterior and intermediate uveitis, three patients with panuveitis). 214 Everolimus was initiated at an oral dose of 0.75 mg twice daily and adjusted from week 1 to obtain trough serum levels in the range of 3–8 ng/mL, with a maximum daily dose of 2.5 mg. On review at 3 months, uveitis was deemed inactive in all patients; however, by 12 months, inflammation had returned in four patients in whom therapy had been tapered or withdrawn. Visual acuity was stable throughout the period of observation, macular thickness was reduced, and a 50% reduction in dose of steroids or cyclosporine was achieved for all patients. Disease recurrence was observed in 50% of patients within 1 month of terminating everolimus therapy. No significant adverse events were documented. 
+ Everolimus therefore appears as an attractive option in the management of disease where other calcineurin inhibitors have failed, or where there is thought to be an autoimmune etiology. Further studies are required in this area. 
+ Sirolimus (Rapamune; Pfizer, Inc., New York, NY, USA) is another mTOR inhibitor with a proven track record in controlling inflammation. 215 Systemic administration of sirolimus has been approved in multiple, diverse clinical applications including prevention of organ rejection, 216 prevention of coronary restenosis, 217 and treatment of advanced renal cell carcinoma 218 in the US, Japan, and European Union. Systemically delivered sirolimus has also been used in cases of refractory uveitis. 219 , 220 A proprietary formulation of sirolimus for local (intravitreal or subconjunctival) injection has been developed. 221 The SAVE (Sirolimus as a Therapeutic Approach for UVEitis) study has reported the safety and bioactivity of subconjunctival and intravitreal sirolimus in noninfectious uveitis. 222 The SAVE-2 Phase II study is being conducted to evaluate two different doses of intravitreal sirolimus for uveitis ( NCT 01280669 ). In addition, SAKURA studies are two Phase III multicenter, randomized, international clinical trials that are being performed at this time to seek indication for intravitreal sirolimus in the management of noninfectious uveitis of the posterior segment. 223 
+ Voclosporin (Luveniq; Lux Biosciences, Inc., New Jersey City, NJ, USA) is a calcineurin inhibitor with a similar structure to cyclosporine, with the exception of a functional group in an amino acid. 224 It has been associated with less nephrotoxicity than cyclosporine 225 and used successfully in the management of plaque psoriasis. 226 , 227 The LUMINATE (Lux Uveitis Multicenter Investigation of a New Approach to Treatment) trials sought to assess the safety and efficacy of voclosporin for treatment, maintenance, and control of all forms of noninfectious uveitis, and took the form of three randomized, double-blind, placebo-controlled Phase II/III trials in patients with severe, sight-threatening disease. 228 Initial results were promising, with a 50% reduction in inflammation in patients with active uveitis compared to 29% in placebo at 16 and 24 weeks, a reduction in recurrence of inflammation in quiescent disease of 50%, and reduction of oral prednisolone to 5 mg/day or less in 96%–98% of patients. 229 , 230 Unfortunately, subsequent Phase III trials did not meet the primary end point of change from baseline in vitreous haze at 12 weeks or at the time of treatment failure, if earlier, and the manufacturers did not seek regulatory approval for use of voclosporin in uveitis in USA or Europe. 231 Anti-TNFα 
+ Golimumab (Simponi; Janssen Biotech, Inc.) is a human monoclonal antibody to TNFα with the advantage of requiring only monthly subcutaneous injection; it is administered at a dosage of 50 mg. Published case reports have demonstrated treatment success in refractory uveitis secondary to BD, 232 JIA, 233 , 234 idiopathic retinal vasculitis, 235 seronegative spondyloarthropathy-associated disease, 236 and HLA-B27-positive disease. 234 In one series including 34 eyes of 17 patients (13 patients with JIA-associated disease and four with HLA-B27-positive disease), an initial response was observed in 14 patients, with 12 patients achieving cessation of active inflammation at their most recent clinic visit. Mean follow-up time was 21.9 months, during which time visual acuity remained stable in 26 eyes, improved in seven eyes, and worsened in one eye. Mean oral prednisolone dose was 12.5 mg/day prior to commencing treatment, and had reduced to 3.5 mg/day at the end of the period of observation. 234 In another recent series of three patients with JIA-associated disease, one patient achieved long-term quiescence with golimumab therapy, one showed an initial improvement but developed recurrent disease, and the final patient showed significant improvement without achieving complete quiescence. 233 No controlled trials have been published, and no direct comparisons against cyclosporine have yet been made. 
+ Certolizumab (Cimzia; UCB, Inc., Smyrna, GA, USA) consists only of the pegylated humanized Fab fragment of a monoclonal antibody directed against TNFα. It is administered subcutaneously at a dose of 400 mg once every 2 weeks. 237 There is a single case report documenting successful treatment of RA-associated scleritis, in which quiescence was achieved at 6 months; 238 however, there are currently no studies reporting outcomes in noninfectious uveitis. Other immune modulators 
+ Anakinra (Kineret; Swedish Orphan Biovitrum AB [publ], Stockholm, Sweden) is a recombinant interleukin (IL)-1 receptor antagonist that has been approved for use in RA. 239 There is experimental evidence to suggest that IL-1 is involved in the pathogenesis of uveitis, 240 and anakinra has thus been suggested as a potential agent for management of refractory inflammation. 241 Interestingly, the only clinical data for use in uveitis is a case report of a patient with chronic infantile neurological cutaneous articular (CINCA) syndrome, which is thought to be an IL-1 mediated condition. In this report, a 4-year old boy with bilateral CINCA-associated panuveitis unresponsive to corticosteroids, methotrexate, and etanercept achieved quiescent anterior uveitis, and resolution of vitritis and papillitis, at a dose of 1 mg/kg/day. 240 
+ Gevokizumab (XOMA 052; XOMA Corporation, Berkeley, CA, USA) is a humanized monoclonal antibody to IL-1β, which is a proinflammatory cytokine involved in a wide range of pathological processes. 242 In an open-label pilot study by Gül et al seven patients with BD-associated acute posterior or panuveitis resistant to azathioprine and/or cyclosporine and receiving oral prednisolone at a dose of 10 mg/day or less were treated with a single infusion of 0.3 mg/kg gevokizumab. All immunosuppressive medication was stopped at baseline, and safety, pharmacokinetics, and uveitis status was evaluated. Complete resolution of intraocular inflammation was observed in all patients within 4–21 days (median 14 days), and response was maintained for a median duration of 49 days. 243 Phase III, double-masked, placebo-controlled trials are currently underway for patients with BD-associated uveitis (EYEGUARD-B), and for patients with active noninfectious and controlled noninfectious intermediate, posterior, or panuveitis (EYEGUARD-A and EYEGUARD-C). 244 
+ Canakinumab (Ilaris; Novartis International AG) is a humanized monoclonal antibody to IL-1β licensed for use in systemic JIA and cryopyrin-associated periodic syndromes in adults and children 4 years of age or older. It is usually administered by subcutaneous injection every 4–8 weeks, but can also be given intravenously. 245 It has been used to successfully treat uveitis associated with BD 246 and Blau syndrome, 247 but data is currently limited to case reports only. 
+ Alemtuzumab (Campath; Genzyme Corporation, Cambridge, MA, USA) is a humanized monoclonal antibody to CD52 primarily used in the management of B-cell chronic lymphocytic leukemia, which has also shown benefit in conditions such as RA and MS. 248 , 249 Studies of its use in ophthalmology are limited. An early report by Isaacs et al described a 45-year-old male with severe panuveitis, with choroiditis and retinal vasculitis, that was resistant to therapy with corticosteroids, cyclophosphamide, and IVIg. Alemtuzumab was administered intravenously at a dose of 12 mg/day for 5 days with an initial improvement in inflammation. However, the patient suffered a fatal myocardial infarction whilst under follow-up. 250 In a later, uncontrolled series of ten patients, Dick et al reported good initial responses and long-lasting remission in six patients with uveitis (four with retinal vasculitis, one with BD, and one with sympathetic ophthalmia). 251 Side effects include flu-like illness and cytopenias. 
+ Efalizumab (Raptiva; Genentech, Inc.) is a humanized monoclonal antibody to CD11a, which is a subunit of lymphocyte function-associated antigen-1 that is involved in antigen presentation and T-cell adhesion to the vascular endothelium. It is administered subcutaneously on a weekly basis and was originally approved by the FDA for use in psoriasis. Initial ophthalmic data was promising, with one case report and one prospective noncomparative Phase I/II trial both reporting resolution of uveitic macular edema with efalizumab therapy. 252 , 253 However, it was later shown to increase the risk of progressive multifocal leukoencephalopathy, and, thus, the drug was withdrawn from the market. 254 
+ Tocilizumab (Actemr; Genentech, Inc.) is a humanized monoclonal IL-6 receptor antibody that inhibits downstream signaling; 255 IL-6 is a cytokine secreted by both B- and T-cells, and is known to participate in T-cell activation, Ig secretion, leukocyte recruitment, and the differentiation and proliferation of hematopoietic precursor cells. 256 IL-6 has been shown to be an important inflammatory cytokine in the aqueous humor, and is thus an interesting target for therapeutic intervention. 8 , 257 , 258 Tocilizumab has previously been used in the treatment of RA, and is usually administered intravenously at a dose range of 4–12 mg/kg at 2- to 4-weekly intervals. 155 It has been demonstrated to successfully control refractory uveitis of various etiologies, including JIA, BD, BSCR, and Castleman disease. 259 – 263 There is also an evolving body of literature to suggest that tocilizumab is effective at reducing macular thickness and increasing visual acuity in uveitic macular edema. 262 , 264 , 265 A Phase I/II clinical trial of tocilizumab in JIA-associated uveitis has been launched ( NCT 01717170 ). In addition, the multicenter, randomized STOP-UVEITIS study on the safety, tolerability, and bioactivity of two different doses of tocilizumab in intermediate, posterior, and panuveitis is currently underway in the United States. 155 
+ Interestingly, episodes of paradoxical ocular inflammation have been reported in patients receiving tocilizumab therapy for systemic disease; Wendling et al reported a first episode of uveitis in a 45-year-old male being treated for HLA-B27-positive AS, and a first episode of peripheral ulcerative keratitis in another 65-year-old male being treated for RA. 266 Sato et al also published a case report of a 72-year-old female with RA who, after discontinuing tocilizumab, developed severe uveitis associated with hypopyon, requiring rescue therapy with corticosteroids. 267 Careful observation for similar paradoxical effects is required as clinical trials progress. 
+ In addition, the SATURN Study, a multicenter, randomized clinical trial of sarilumab (another IL-6 inhibitor) in intermediate, posterior, and panuveitis, is being conducted in Europe and the US. 268 
+ Secukinumab (AIN457; Novartis International AG) is a selective, high-affinity, fully human monoclonal antibody that binds and neutralizes human IL-17A, 269 , 270 which is an inflammatory cytokine secreted by Th17 CD4 + T-cells. 271 – 273 It has been evaluated in a range of inflammatory conditions, including AS, RA, and psoriasis. 274 Th17 cells have been implicated in the pathogenesis of uveitis in experimental models, 275 , 276 and circulating levels of IL-17A have been shown to be increased in patients with VKH, BD, and other forms of uveitis. 277 – 279 
+ Dick et al recently published the results of three clinical trials assessing the effect of secukinumab versus placebo in BD-associated posterior and panuveitis (SHIELD study, 118 patients randomized), non-BD-associated active noninfectious uveitis (INSURE study, 31 patients randomized), and non-BD-associated quiescent noninfectious uveitis (ENDURE study, 125 patients randomized). After a loading phase, secukinumab was administered subcutaneously at a dose of 300 mg 2- or 4-weekly in the SHIELD study, and 300 mg 2- or 4-weekly or 150 mg 4-weekly in both the INSURE and ENDURE studies. Primary outcome measures were reduction of uveitis recurrence or vitreous haze score during withdrawal of concomitant immunosuppressive medication. Unfortunately, on completion of the SHIELD study, there was insufficient evidence of efficacy, resulting in the early termination of the remaining studies. 280 
+ Fingolimod (FTY720, Gilenya; Novartis International AG) prevents T-cell migration to inflammatory sites by reducing expression of the sphingosine-1 phosphate receptor normally required for egress from secondary lymphoid tissues. It is orally administered with once-daily dosing of 0.5–1.25 mg, and has been shown to be effective in Phase III trials in relapsing MS, for which it has been FDA-approved. 281 In vivo data suggested a beneficial effect in experimental models of uveitis, 282 – 284 leading to considerable interest in its use for ophthalmic inflammation. Further development has been held back by concerns over a potential increased risk of developing macular edema. In a pooled analysis of 2,615 patients enrolled in three clinical trials in MS, 19 patients with no previous history of uveitis were observed to develop macular edema. 285 , 286 This was considered more likely with higher doses of treatment, occurring in 15 patients (1.2%) receiving 1.25 mg/day versus four patients (0.3%) receiving 0.5 mg/day. A Phase II trial was commenced evaluating fingolimod in noninfectious posterior segment uveitis, but was terminated early. 
+ Ultimately, future therapeutic strategies must be based upon rigorous scientific research; as our understanding of the pathogenesis of uveitis increases, it is likely that more mechanism-focused therapies will be developed, for example, targeting of IL-15, IL-22, and IL-23. 287 It is also important to note that considerable in vivo data exists for the use of both gene therapy 288 – 290 and RNA interference 291 – 293 in models of ocular inflammation. Both modalities offer the potential of being able to suppress specific genes and proteins in the inflammatory cascade, and may provide the most targeted treatment, and therefore the fewest side effects in the management of refractory ocular inflammation in the future. 294 Patient-specific considerations 
+ Uveitis specialists should seek to treat the patient, rather than simply suppress the uveitis. As such, it is important to take a holistic approach to treatment, and be aware that issues of compliance and confidence in the doctor–patient relationship are equally as important as the efficacy of a therapeutic intervention. 
+ Past medical and past ocular history will dictate treatment choice; severe allergies and coexistent disease may be absolute contraindications to some medications, for example, chronic liver disease and methotrexate. 96 Similarly, high-dose steroids may be avoided in patients known to respond with increased intraocular pressure. 67 Patients may also have uveitis secondary to systemic disease for which they may already be receiving IMT agents; it may be necessary to consider switching treatment, or deciding on an additional therapy, for example, adding oral steroids or methotrexate to an anti-TNFα agent. 
+ Method and frequency of administration may also guide treatment choice. For example, children may not tolerate frequent topical application of eye drops and may be more compliant with daily oral medication, and patients of working age may find it difficult to attend regular clinic appointments for intravenous infusions of therapy. 
+ There is also the issue of extrapolation of trial data to “real-world” settings. Phase I clinical trials usually recruit young, healthy patients to assess safety and bioavailability of a novel therapeutic agent, whilst Phase II and III trials will usually exclude children and pregnant females, and may avoid women of child-bearing age. Caution is thus required before any medication is used off-label in these patient groups. 
+ Women of child-bearing age require particular caution; medications such as methotrexate are teratogenic, whilst others such as chlorambucil and cyclophosphamide may cause sterility and early menopause. 24 , 57 
+ Patients should be given sufficient information regarding the potential risks and benefits of any therapeutic agent, so that they can give proper informed consent, and feel confident in the proposed course of treatment. Conclusion 
+ The increasing choices of immunosuppressives/immunomodulatory therapy and the advent of more targeted therapies are both an opportunity and a challenge. The clinicians should always consider the patient first and foremost. It is vital that one establishes the efficacy and safety profile of both established and emerging therapies so that treatment decisions can be informed and appropriate to the individual. In addition, it is likely that stricter regulatory frameworks and tighter budgetary constraints may make it even more difficult to navigate the latest hurdles in the drug-development pathway of licensing and funding approval. With such considerations in mind, we need to recognize that to some extent the whole uveitis pharmacopoeia is “in development”. Acknowledgments 
+ RJB is supported by a Fight for Sight (UK) Clinical Fellowship. RWL is supported by the National Institute for Health Research (NIHR) Biomedical Research Centre based at Moorfields Eye Hospital NHS Foundation Trust and UCL Institute of Ophthalmology (UK). AKD is supported by Fight for Sight (UK) and Olivia’s Vision (UK). The views expressed are those of the authors and not necessarily those of the NHS, the NIHR, or the Department of Health. Footnotes 
+ 
+ Disclosure 
+ The authors report no conflicts of interest in this work. 
+ References 
+ 
+ 
+ 1. Darrell RW, Wagener HP, Kurland LT. Epidemiology of uveitis. Incidence and prevalence in a small urban community. Arch Ophthalmol. 1962;68:502–514. doi: 10.1001/archopht.1962.00960030506014. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Suttorp-Schulten MS, Rothova A. The possible impact of uveitis in blindness: a literature survey. Br J Ophthalmol. 1996;80(9):844–848. doi: 10.1136/bjo.80.9.844. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Goldstein H. The reported demography and causes of blindness throughout the world. Adv Ophthalmol. 1980;40:1–99. [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Forrester JV. Uveitis: pathogenesis. Lancet. 1991;338(8781):1498–1501. doi: 10.1016/0140-6736(91)92309-p. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Jabbs D, Nussenblatt RB, Rosenbaum JT, Standardization of Uveitis Nomenclature (SUN) Working Group Standardization of uveitis nomenclature for reporting clinical data. Results of the First International Workshop. Am J Ophthalmol. 2005;140:509–516. doi: 10.1016/j.ajo.2005.03.057. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Miserocchi E, Fogliato G, Modorati G, Bandello F. Review on the worldwide epidemiology of uveitis. Eur J Ophthalmol. 2013;23(5):705–717. doi: 10.5301/ejo.5000278. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Cimino L, Aldigeri R, Salvarani C, et al. The causes of uveitis in a referral centre of Northern Italy. Int Ophthalmol. 2010;30(5):521–529. doi: 10.1007/s10792-010-9359-y. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Curnow SJ, Scheel-Toellner D, Jenkinson W, et al. Inhibition of T-cell apoptosis in the aqueous humor of patients with uveitis by IL-6/soluble IL-6 receptor trans-signaling. J Immunol. 2004;173(8):5290–5297. doi: 10.4049/jimmunol.173.8.5290. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Denniston AK, Kottoor SH, Khan I, et al. Endogenous cortisol and TGF-beta in human aqueous humor contribute to ocular immune privilege by regulating dendritic cell function. J Immunol. 2011;186(1):305–311. doi: 10.4049/jimmunol.1001450. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Takeuchi M, Alard P, Streilein JW. TGF-beta promotes immune deviation by altering accessory signals of antigen-presenting cells. J Immunol. 1998;160(4):1589–1597. [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Takeuchi M, Kosiewicz MM, Alard P, Streilein JW. On the mechanisms by which transforming growth factor-beta 2 alters antigen-presenting abilities of macrophages on T-cell activation. Eur J Immunol. 1997;27(7):1648–1656. doi: 10.1002/eji.1830270709. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Taylor AW, Yee DG, Nishida T, Namba K. Neuropeptide regulation of immunity. The immunosuppressive activity of alpha-melanocyte-stimulating hormone (alpha-MSH) Ann N Y Acad Sci. 2000;917:239–247. doi: 10.1111/j.1749-6632.2000.tb05389.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Taylor AW, Streilein JW, Cousins SW. Identification of alpha- melanocyte stimulating hormone as a potential immunosuppressive factor in aqueous humor. Curr Eye Res. 1992;11(12):1199–1206. doi: 10.3109/02713689208999545. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Gocho K, Kondo I, Yamaki K. Identification of Autoreactive T-Cells in Vogt-Koyanagi-Harada Disease. Invest Ophthalmol Vis Sci. 2001;42(9):2004–2009. [ PubMed ] [ Google Scholar ] 
+ 
+ 15. De Smet MD, Bitar G, Mainigi S, Nussenblatt RB. Human S-antigen determinant recognition in uveitis. Invest Ophthalmol Vis Sci. 2001;42(13):3233–3238. [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Rodriguez A, Calonge M, Pedroza-Seres M, et al. Referral patterns of uveitis in a tertiary eye care center. Arch Ophthalmol. 1996;114(5):593–599. doi: 10.1001/archopht.1996.01100130585016. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Zaidi AA, Ying G, Daniel E, et al. Hypopyon in patients with uveitis. Ophthalmology. 2010;117(2):366–372. doi: 10.1016/j.ophtha.2009.07.025. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Barry RJ, Sutcliffe N, Isenberg Da, et al. The Sjögren’s Syndrome Damage Index – a damage index for use in clinical trials and observational studies in primary Sjögren’s syndrome. Rheumatology. 2008;47(8):1193–1198. doi: 10.1093/rheumatology/ken164. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Skopouli FN, Dafni U, Ioannidis JP, Moutsopoulos HM. Clinical evolution, and morbidity and mortality of primary Sjögren’s syndrome. Semin Arthritis Rheum. 2000;29(5):296–304. doi: 10.1016/s0049-0172(00)80016-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Tempest-Roe S, Joshi L, Dick AD, Taylor SR. Local therapies for inflammatory eye disease in translation: past, present and future. BMC Ophthalmol. 2013;13(1):39. doi: 10.1186/1471-2415-13-39. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Durrani K, Zakka FR, Ahmed M, Memon M, Siddique SS, Foster CS. Systemic therapy with conventional and novel immunomodulatory agents for ocular inflammatory disease. Surv Ophthalmol. 2011;56(6):474–510. doi: 10.1016/j.survophthal.2011.05.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Denniston AK, Dick AD. Systemic therapies for inflammatory eye disease: past, present and future. BMC Ophthalmol. 2013;13:18. doi: 10.1186/1471-2415-13-18. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Gallego-Pinazo R, Dolz-Marco R, Martínez-Castillo S, Arévalo JF, Díaz-Llopis M. Update on the principles and novel local and systemic therapies for the treatment of non-infectious uveitis. Inflamm Allergy Drug Targets. 2013;12(1):38–45. doi: 10.2174/1871528111312010006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Larson T, Nusseblatt RB, Sen HN. Emerging Drugs for Uveitis. Expert Opin Emerg Drugs. 2012;16(2):309–322. doi: 10.1517/14728214.2011.537824. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Barisani-Asenbauer T, Maca SM, Mejdoubi L, Emminger W, Machold K, Auer H. Uveitis-a rare disease often associated with systemic diseases and infections-a systematic review of 2,619 patients. Orphanet J Rare Dis. 2012;7:57. doi: 10.1186/1750-1172-7-57. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Gritz DC, Wong IG. Incidence and prevalence of uveitis in Northern California; the Northern California Epidemiology of Uveitis Study. Ophthalmology. 2004;111(3):491–500. doi: 10.1016/j.ophtha.2003.06.014. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Suhler EB, Lloyd MJ, Choi D, Rosenbaum JT, Austin DF. Incidence and prevalence of uveitis in Veterans Affairs Medical Centers of the Pacific Northwest. Am J Ophthalmol. 2008;146(6):890–896. doi: 10.1016/j.ajo.2008.09.014. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Hwang DK, Chou YJ, Pu CY, Chou P. Epidemiology of uveitis among the Chinese population in Taiwan: a population-based study. Ophthalmology. 2012;119(11):2371–2376. doi: 10.1016/j.ophtha.2012.05.026. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Read RW, Holland GN, Rao NA, et al. Revised diagnostic criteria for Vogt-Koyanagi-Harada disease: report of an international committee on nomenclature. Am J Ophthalmol. 2001;131(5):647–652. doi: 10.1016/s0002-9394(01)00925-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Bodaghi B, Cassoux N, Wechsler B, et al. Chronic severe uveitis: etiology and visual outcome in 927 patients from a single center. Medicine. 2001;80(4):263–270. doi: 10.1097/00005792-200107000-00005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Bloch-Michel E, Nussenblatt RB. International Uveitis Study Group recommendations for the evaluation of intraocular inflammatory disease. Am J Ophthalmol. 1987;103(2):234–235. doi: 10.1016/s0002-9394(14)74235-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Holland GN. Standard diagnostic criteria for the acute retinal necrosis syndrome. Executive Committee of the American Uveitis Society. Am J Ophthalmol. 1994;117(5):663–667. doi: 10.1016/s0002-9394(14)70075-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Engstrom RE, Holland GN, Margolis TP, et al. The progressive outer retinal necrosis syndrome. A variant of necrotizing herpetic retinopathy in patients with AIDS. Ophthalmology. 1994;101(9):1488–1502. doi: 10.1016/s0161-6420(94)31142-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Mandeville JT, Levinson RD, Holland GN. The tubulointerstitial nephritis and uveitis syndrome. Surv Ophthalmol. 2001;46(3):195–208. doi: 10.1016/s0039-6257(01)00261-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. McCannel CA, Holland GN, Helm CJ, Cornell PJ, Winston JV, Rimmer TG. Causes of uveitis in the general practice of ophthalmology. UCLA Community-Based Uveitis Study Group. Am J Ophthalmol. 1996;121(1):35–46. doi: 10.1016/s0002-9394(14)70532-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Heiligenhaus A, Heinz C, Edelsten C, Kotaniemi K, Minden K. Review for disease of the year: epidemiology of juvenile idiopathic arthritis and its associated uveitis: the probable risk factors. Ocul Immunol Inflamm. 2013;21(3):180–191. doi: 10.3109/09273948.2013.791701. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Smith JA, Mackensen F, Sen HN, et al. Epidemiology and course of disease in childhood uveitis. Ophthalmology. 2009;116(8):1544–1551. doi: 10.1016/j.ophtha.2009.05.002. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Rothova A, van Veenedaal WG, Linssen A, Glasius E, Kijlstra A, de Jong PT. Clinical features of acute anterior uveitis. Am J Ophthalmol. 1987;103(2):137–145. doi: 10.1016/s0002-9394(14)74218-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. London NJ, Rathinam SR, Cunningham ET., Jr The epidemiology of uveitis in developing countries. Int Ophthalmol Clin. 2010;50(2):1–17. doi: 10.1097/IIO.0b013e3181d2cc6b. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Wakefiled D, Chang J. Epidemiology of uveitis. Int Ophthalmol Clin. 2005;45(2):1–13. doi: 10.1097/01.iio.0000155938.83083.94. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Brewerton DA, Caffrey M, Nicholls A, Walters D, James DC. Acute anterior uveitis and HL-A 27. Lancet. 1973;302(7836):994–996. doi: 10.1016/s0140-6736(73)91090-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Chang JH, Wakefield D. Uveitis: a global perspective. Ocul Immunol Inflamm. 2002;10(4):263–279. doi: 10.1076/ocii.10.4.263.15592. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Ohguro N, Sonoda KH, Takeuchi M, Matsumura M, Mochizuki M. The 2009 prospective multi-center epidemiologic survey of uveitis in Japan. Jpn J Ophthalmol. 2012;56(5):432–435. doi: 10.1007/s10384-012-0158-z. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Zein G, Berta A, Foster CS. Multiple sclerosis-associated uveitis. Ocul Immunol Inflamm. 2004;12(2):137–142. doi: 10.1080/09273940490895344. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Zierhut M, Foster CS. Multiple sclerosis, sarcoidosis and other diseases in patients with pars planitis. Dev Ophthalmol. 1992;23:41–47. doi: 10.1159/000429628. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Yang P, Zhang Z, Zhou H, et al. Clinical patterns and characteristics of uveitis in a tertiary center for uveitis in China. Curr Eye Res. 2005;30(11):943–948. doi: 10.1080/02713680500263606. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Rathinam SR, Namperumalsamy P. Global variation and pattern changes in epidemiology of uveitis. Indian J Ophthalmol. 2007;55(3):173–183. doi: 10.4103/0301-4738.31936. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Chung YM, Yeh TS, Liu JH. Endogenous uveitis in Chinese – an analysis of 240 cases in a uveitis clinic. Jpn J Ophthalmol. 1988;32(1):64–69. [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Kotake S, Furudate N, Sasamoto Y, Yoshikawa K, Goda C, Matsuda H. Characteristics of endogenous uveitis in Hokkaido, Japan. Graefes Arch Clin Exp Ophthalmol. 1996;234(10):599–603. doi: 10.1007/BF00185291. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Wakabayashi T, Morimura Y, Miyamoto Y, Okada AA. Changing patterns of intraocular inflammatory disease in Japan. Ocul Immunol Inflamm. 2003;11(4):277–286. doi: 10.1076/ocii.11.4.277.18260. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Tugal-Tutkun I. Behçet disease in the developing world. Int Ophthalmol Clin. 2010;50(2):87–98. doi: 10.1097/IIO.0b013e3181d2e030. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Jabs DA, Busingye J. Approach to the diagnosis of the uveitides. Am J Ophthalmol. 2013;156(2):228–236. doi: 10.1016/j.ajo.2013.03.027. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Mandelcorn ED. Infectious causes of posterior uveitis. Can J Ophthalmol. 2013;48(1):31–39. doi: 10.1016/j.jcjo.2012.11.013. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Guly CM, Forrester JV. Investigation and management of uveitis. BMJ. 2010;341:c4976. doi: 10.1136/bmj.c4976. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. De Groot-Mijnes JDF, Rothova A, Van Loon AM, et al. Polymerase chain reaction and Goldmann-Witmer coefficient analysis are complimentary for the diagnosis of infectious uveitis. Am J Ophthalmol. 2006;141(2):313–318. doi: 10.1016/j.ajo.2005.09.017. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Wong RW, Jumper JM, McDonald HR, et al. Emerging concepts in the management of acute retinal necrosis. Br J Ophthalmol. 2013;97(5):545–552. doi: 10.1136/bjophthalmol-2012-301983. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Jabs DA, Rosenbaum JT, Foster S, et al. Guidelines for the Use of Immunosuppressive Drugs in Patients with Ocular Inflammatory Disorders: recommendations of an expert panel. Am J Ophthalmol. 2000;130:492–513. doi: 10.1016/s0002-9394(00)00659-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Pato E, Muñoz-Fernández S, Francisco F, et al. Systematic review on the effectiveness of immunosuppressants and biological therapies in the treatment of autoimmune posterior uveitis. Semin Arthritis Rheum. 2011;40(4):314–323. doi: 10.1016/j.semarthrit.2010.05.008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Cordero-Coma M, Yilmaz T, Onal S. Systematic review of anti-tumor necrosis factor-alpha therapy for treatment of immune-mediated uveitis. Ocul Immunol Inflamm. 2013;21(1):19–27. doi: 10.3109/09273948.2012.723107. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Saadoun D, Bodaghi B, Bienvenu B, et al. Biotherapies in inflammatory ocular disorders: interferons, immunoglobulins, monoclonal antibodies. Autoimmun Rev. 2013;12(7):774–783. doi: 10.1016/j.autrev.2013.02.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Chakravarty K, McDonald H, Pullar T, et al. BSR/BHPR guideline for disease-modifying anti-rheumatic drug (DMARD) therapy in consultation with the British Association of Dermatologists. Rheumatology (Oxford) 2008;47(6):924–925. doi: 10.1093/rheumatology/kel216a. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Management of DMARDS [webpage on the Internet] National Institute of Health and Clinical Excellence Clinical Knowledge Summaries (UK); [Accessed June 19, 2014]. [updated January 2013; cited June 19, 2014]. Available from: http://cks.nice.org.uk/dmards . [ Google Scholar ] 
+ 
+ 63. Carryer HM, Koelsche GA, Prickman LE, Maytum CK, Lake CF, Williams HL. Effects of cortisone on bronchial asthma and hay fever occurring in subjects sensitive to ragweed pollen. Proc Staff Meet Mayo Clin. 1950;25(17):482–486. [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Gordon DM. Effects of pituitary adrenocorticotrophic hormone (ACTH) therapy in ophthalmologic conditions. J Am Med Assoc. 1950;142(16):1271. [ Google Scholar ] 
+ 
+ 65. van der Velden VH. Glucocorticoids: mechanisms of action and anti-inflammatory potential in asthma. Mediators Inflamm. 1998;7:229–237. doi: 10.1080/09629359890910. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Pavesio CE, Decory HH. Treatment of ocular inflammatory conditions with loteprednol etabonate. Br J Ophthalmol. 2008;92(4):455–459. doi: 10.1136/bjo.2007.132621. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Becker B, Mills DW. Elevated intraocular pressure following corticosteroid eye drops. J Am Med Assoc. 1963;185:884–886. doi: 10.1001/jama.1963.03060110088027. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Nguyen QD, Hatef E, Kayen B, et al. A cross-sectional study of the current treatment patterns in noninfectious uveitis among specialists in the United States. Ophthalmology. 2011;118(1):184–190. doi: 10.1016/j.ophtha.2010.03.029. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Rühlmann A, Nordheim A. Effects of the immunosuppressive drugs CsA and FK506 on intracellular signalling and gene regulation. Immunobiology. 1997;198(1–3):192–206. doi: 10.1016/S0171-2985(97)80040-X. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Ho S, Clipstone N, Timmermann L, et al. The mechanism of action of cyclosporin A and FK506. Clin Immunol Immunopathol. 1996;80(3 Pt 2):S40–S45. doi: 10.1006/clin.1996.0140. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Kaçmaz RO, Kempen JH, Newcomb C, et al. Cyclosporine for Ocular Inflammatory Diseases. Ophthalmology. 2011;117(3):576–584. doi: 10.1016/j.ophtha.2009.08.010. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Masuda K, Nakajima A, Urayama A, Nakae K, Kogure M, Inaba G. Double-masked trial of cyclosporin versus colchicine and long-term open study of cyclosporin in Behçet’s disease. Lancet. 1989;1(8647):1093–1096. doi: 10.1016/s0140-6736(89)92381-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Nussenblatt RB, Palestine AG, Rook AH, Scher I, Wacker WB, Gery I. Treatment of intraocular inflammatory disease with cyclosporin A. Lancet. 1983;2(8344):235–238. doi: 10.1016/s0140-6736(83)90230-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Graham EM, Sanders MD, James DG, Hamblin A, Kasp Grochowska E, Dumonde D. Cyclosporin A in the treatment of posterior uveitis. Trans Ophthalmol Soc U K. 1985;104(2):146–151. [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Murphy CC, Greiner K, Plskova J, et al. Cyclosporine vs tacrolimus therapy for posterior and intermediate uveitis. Arch Ophthalmol. 2005;123(5):634–641. doi: 10.1001/archopht.123.5.634. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Chan GL, Canafax DM, Johnson CA. The therapeutic use of azathioprine in renal transplantation. Pharmacotherapy. 1987;7(5):165–177. doi: 10.1002/j.1875-9114.1987.tb04046.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Okada AA. Immunomodulatory therapy for ocular inflammatory disease: a basic manual and review of the literature. Ocul Immunol Inflamm. 2005;13(5):335–351. doi: 10.1080/09273940590951034. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Hoang-Xaun T, Foster CS, Rice BA. Scleritis in relapsing polychondritis. Response to therapy. Ophthalmology. 1990;97(7):892–898. doi: 10.1016/s0161-6420(90)32485-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Saw VP, Dart JK, Rauz S, et al. Immunosuppressive therapy for ocular mucous membrane pemphigoid strategies and outcomes. Ophthalmology. 2008;115(2):253–261. doi: 10.1016/j.ophtha.2007.04.027. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Hemady RK, Baer JC, Foster CS. Immunosuppressive drugs in the management of progressive, corticosteroid-resistant uveitis associated with juvenile rheumatoid arthritis. Int Ophthalmol Clin. 1992;32(1):241–252. doi: 10.1097/00004397-199203210-00018. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Newell FW, Krill AE. Treatment of uveitis with azathioprine (Imuran) Trans Ophthalmol Soc U K. 1967;87:499–511. [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Moore CE. Sympathetic ophthalmitis treated with azathioprine. Br J Ophthalmol. 1968;52(9):688–690. doi: 10.1136/bjo.52.9.688. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Yazici H, Pazarli H, Barnes C, et al. A controlled trial of azathioprine in Behcet’s syndrome. N Engl J Med. 1990;322(5):281–285. doi: 10.1056/NEJM199002013220501. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Pasadhika S, Kempen JH, Newcomb C, et al. Azathioprine for Ocular Inflammatory Disease. Am J Ophthalmol. 2009;148(4):500–509. doi: 10.1016/j.ajo.2009.05.008. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Cade R, Mars D, Privette M, et al. Effect of long-term azathioprine administration in adults with minimal-change glomerulonephritis and nephrotic syndrome resistant to corticosteroids. Arch Intern Med. 1986;146(4):737–741. [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Singh G, Fries JF, Spitz P, Williams CA. Toxic effects of azathioprine in rheumatoid arthritis. A national post-marketing perspective. Arthritis Rheum. 1989;32(7):837–843. [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Asten P, Barrett J, Symmons D. Risk of developing certain malignancies is related to duration of immunosuppressive drug exposure in patients with rheumatic diseases. J Rheumatol. 1999;26(8):1705–1714. [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Penn I. Malignancies associated with immunosuppressive or cytotoxic therapy. Surgery. 1978;83(5):492–502. [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Kempen JH, Gangaputra S, Daniel E, et al. Long term risk of malignancy among patients treated with immunosuppressive agents for ocular inflammation: a critical assessment of the evidence. Am J Ophthalmol. 2009;146(6):802–812. doi: 10.1016/j.ajo.2008.04.035. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Samson CM, Waheed N, Baltatzis S, Foster CS. Methotrexate therapy for chronic noninfectious uveitis: analysis of a case series of 160 patients. Ophthalmology. 2001;108(6):1134–1139. doi: 10.1016/s0161-6420(01)00576-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. Bom S, Zamiri P, Lightman S. Use of methotrexate in the management of sight-threatening uveitis. Ocul Immunol Inflamm. 2001;9(1):35–40. doi: 10.1076/ocii.9.1.35.3983. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. Holz FG, Krastel H, Breitbart A, Schwarz-Eywill M, Pezzutto A, Völcker HE. Low-dose methotrexate treatment in noninfectious uveitis resistant to corticosteroids. Ger J Ophthalmol. 1992;1(3–4):142–144. [ PubMed ] [ Google Scholar ] 
+ 
+ 93. Kaplan-Messas A, Barkana Y, Avni I, Neumann R. Methotrexate as a first-line corticosteroid-sparing therapy in a cohort of uveitis and scleritis. Ocul Immunol Inflamm. 2003;11(2):131–139. doi: 10.1076/ocii.11.2.131.15919. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 94. Shah SS, Lowder CY, Schmitt MA, Wilke WS, Kosmorsky GS, Meisler DM. Low-dose methotrexate therapy for ocular inflammatory disease. Ophthalmology. 1992;99(9):1419–1423. doi: 10.1016/s0161-6420(92)31790-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 95. Gangaputra S, Newcomb CW, Liesegang TL, et al. Methotrexate for Ocular Inflammatory Diseases. Ophthalmology. 2009;116(11):2188–2198. doi: 10.1016/j.ophtha.2009.04.020. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 96. Kremer JM, Alarcón GS, Lightfoot RW, Jr, et al. Methotrexate for rheumatoid arthritis. Suggested guidelines for monitoring liver toxicity. American College of Rheumatology. Arthritis Rheum. 1994;37(3):316–328. doi: 10.1002/art.1780370304. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 97. Allison AC, Eugui EM. Immunosuppressive and other effects of mycophenolic acid and an ester prodrug, mycophenolate mofetil. Immunol Rev. 1993;136:5–28. doi: 10.1111/j.1600-065x.1993.tb00652.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 98. Baltatzis S, Tufail F, Yu EN, Vredeveld CM, Foster CS. Mycophenolate mofetil as an immunomodulatory agent in the treatment of chronic ocular inflammatory disorders. Ophthalmology. 2003;110(5):1061–1065. doi: 10.1016/S0161-6420(03)00092-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 99. Sobrin L, Christen W, Foster CS. Mycophenolate mofetil after methotrexate failure or intolerance in the treatment of scleritis and uveitis. Ophthalmology. 2008;115(8):1416–1421. doi: 10.1016/j.ophtha.2007.12.011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 100. Daniel E, Thorne JE, Newcomb CW, et al. Mycophenolate mofetil for ocular inflammation. Am J Ophthalmol. 2010;149(3):423–432. doi: 10.1016/j.ajo.2009.09.026. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 101. Ahmed AR, Hombal SM. Cyclophosphamide (Cytoxan). A review on relevant pharmacology and clinical uses. J Am Acad Dermatol. 1984;11(6):1115–1126. doi: 10.1016/s0190-9622(84)80193-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 102. De Groot K, Harper L, Jayne DRW, et al. Pulse versus daily oral cyclophosphamide for induction of remission in antineutrophil cytoplasmic antibody-associated vasculitis: a randomized trial. Ann Intern Med. 2009;150(10):670–680. doi: 10.7326/0003-4819-150-10-200905190-00004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 103. Adu D, Pall A, Luqmani RA, et al. Controlled trial of pulse versus continuous prednisolone and cyclophosphamide in the treatment of systemic vasculitis. QJM. 1997;90(6):401–409. doi: 10.1093/qjmed/90.6.401. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 104. Durrani K, Papaliodis GN, Foster CS. Pulse IV cyclophosphamide in ocular inflammatory disease: efficacy and short-term safety. Ophthalmology. 2004;111(5):960–965. doi: 10.1016/j.ophtha.2003.08.034. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 105. Carruthers DM. Rational therapy in systemic necrotising vasculitis. Clin Med. 2001;1:7–9. doi: 10.7861/clinmedicine.1-1-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 106. Khan IJ, Barry RJ, Amissah-Arthur KN, et al. Ten-year experience of pulsed intravenous cyclophosphamide and methylprednisolone protocol (PICM protocol) in severe ocular inflammatory disease. Br J Ophthalmol. 2012;97(9):1118–1122. doi: 10.1136/bjophthalmol-2012-302130. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 107. Pujari SS, Kempen JH, Newcomb CW, et al. Cyclophosphamide for ocular inflammatory diseases. Ophthalmology. 2011;117(2):356–365. doi: 10.1016/j.ophtha.2009.06.060. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 108. Martin-Suarez I, D’Cruz D, Mansoor M, Fernandes AP, Khamashta MA, Hughes GR. Immunosuppressive treatment in severe connective tissue diseases: effects of low dose intravenous cyclophosphamide. Ann Rheum Dis. 1997;56:481–487. doi: 10.1136/ard.56.8.481. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 109. Kempen JH, Daniel E, Dunn JP, et al. Overall and cancer related mortality among patients with. BMJ. 2009;339:b2480. doi: 10.1136/bmj.b2480. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 110. Blumenfeld Z, Haim N. Prevention of gonadal damage during cytotoxic therapy. Ann Med. 1997;29(3):199–206. doi: 10.3109/07853899708999337. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 111. Newell DR, Calvert AH, Harrap KR, McElwain TJ. Studies on the pharmacokinetics of chlorambucil and prednimustine in man. Br J Clin Pharmacol. 1983;15(2):253–258. doi: 10.1111/j.1365-2125.1983.tb01494.x. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 112. Mudun BA, Ergen A, Ipcioglu SU, Burumcek EY, Durlu Y, Arslan MO. Short-term chlorambucil for refractory uveitis in Behcet’s disease. Ocul Immunol Inflamm. 2001;9(4):219–229. doi: 10.1076/ocii.9.4.219.3957. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 113. Goldstein DA, Fontanilla FA, Kaul S, Sahin O, Tessler HH. Long-term follow-up of patients treated with short-term high-dose chlorambucil for sight-threatening ocular inflammation. Ophthalmology. 2002;109(2):370–377. doi: 10.1016/s0161-6420(01)00942-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 114. Miserocchi E, Baltatzis S, Ekong A, Roque M, Foster CS. Efficacy and safety of chlorambucil in intractable noninfectious uveitis: the Massachusetts Eye and Ear Infirmary experience. Ophthalmology. 2002;109(1):137–142. doi: 10.1016/s0161-6420(01)00864-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 115. Wooley PH, Dutcher J, Widmer MB, Gillis S. Influence of a recombinant human soluble tumor necrosis factor receptor FC fusion protein on type II collagen-induced arthritis in mice. J Immunol. 1993;151(11):6602–6607. [ PubMed ] [ Google Scholar ] 
+ 
+ 116. Scallon B, Cai A, Solowski N, et al. Binding and functional comparisons of two types of tumor necrosis factor antagonists. J Pharmacol Exp Ther. 2002;301(2):418–426. doi: 10.1124/jpet.301.2.418. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 117. Scallon BJ, Moore MA, Trinh H, Knight DM, Ghrayeb J. Chimeric anti-TNF-alpha monoclonal antibody cA2 binds recombinant transmembrane TNF-alpha and activates immune effector functions. Cytokine. 1995;7(3):251–259. doi: 10.1006/cyto.1995.0029. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 118. Lin J, Ziring D, Desai S, et al. TNFa blockade in human diseases: an overview of efficacy and safety. Clin Immunol. 2009;126(1):13–30. doi: 10.1016/j.clim.2007.08.012. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 119. Braun J, Brandt J, Listing J, et al. Long-term efficacy and safety of infliximab in the treatment of ankylosing spondylitis: an open, observational, extension study of a three-month, randomized, placebo-controlled trial. Arthritis Rheum. 2003;48(8):2224–2233. doi: 10.1002/art.11104. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 120. Sobrin L, Kim EC, Christen W, Papadaki T, Letko E, Foster CS. Infliximab therapy for the treatment of refractory ocular inflammatory disease. Arch Ophthalmol. 2007;125(7):895–900. doi: 10.1001/archopht.125.7.895. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 121. Lee FF, Foster CS. Pharmacotherapy of uveitis. Expert Opin Pharmacother. 2010;11(7):1135–1146. doi: 10.1517/14656561003713534. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 122. Niccoli L, Nannini C, Benucci M, et al. Long-term efficacy of infliximab in refractory posterior uveitis of Behcet’s disease: a 24-month follow-up study. Rheumatology (Oxford) 2007;46(7):1161–1164. doi: 10.1093/rheumatology/kem101. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 123. Markomichelakis N, Delicha E, Masselos S, Fragiadaki K, Kaklamanis P, Sfikakis PP. A single infliximab infusion vs corticosteroids for acute panuveitis attacks in Behçet’s disease: a comparative 4-week study. Rheumatology (Oxford) 2011;50(3):593–597. doi: 10.1093/rheumatology/keq366. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 124. Sfikakis PP, Kaklamanis PH, Elezoglou A, et al. Infliximab for recurrent, sight-threatening ocular inflammation in Adamantiades-Behçet disease. Ann Intern Med. 2004;140(5):404–406. doi: 10.7326/0003-4819-140-5-200403020-00025. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 125. Artornsombudh P, Gevorgyan O, Payal A, Siddique SS, Foster CS. Infliximab treatment of patients with birdshot retinochoroidopathy. Ophthalmology. 2013;120(3):588–592. doi: 10.1016/j.ophtha.2012.05.048. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 126. Kahn P, Weiss M, Imundo LF, Levy DM. Favorable response to high-dose infliximab for refractory childhood uveitis. Ophthalmology. 2006;113(5):860–864. doi: 10.1016/j.ophtha.2006.01.005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 127. Rajaraman RT, Kimura Y, Li S, Haines K, Chu DS. Retrospective case review of pediatric patients with uveitis treated with infliximab. Ophthalmology. 2006;113(2):308–314. doi: 10.1016/j.ophtha.2005.09.037. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 128. Baughman RP, Bradley DA, Lower EE. Infliximab in chronic ocular inflammation. Int J Clin Pharmacol Ther. 2005;43(1):7–11. doi: 10.5414/cpp43007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 129. Bodaghi B, Bui Quoc E, Wechsler B, et al. Therapeutic use of infliximab in sight threatening uveitis: retrospective analysis of efficacy, safety, and limiting factors. Ann Rheum Dis. 2005;64(6):962–964. doi: 10.1136/ard.2004.025882. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 130. Suhler EB, Smith JR, Wertheim MS, et al. A prospective trial of infliximab therapy for refractory uveitis: preliminary safety and efficacy outcomes. Arch Ophthalmol. 2005;123(7):903–912. doi: 10.1001/archopht.123.7.903. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 131. Suhler EB, Smith JR, Giles TR, et al. Infliximab therapy for refractory uveitis: 2-year results of a prospective trial. Arch Ophthalmol. 2009;127(6):819–822. doi: 10.1001/archophthalmol.2009.141. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 132. Kaymakcalan Z, Sakorafas P, Bose S, et al. Comparisons of affinities, avidities, and complement activation of adalimumab, infliximab, and etanercept in binding to soluble and membrane tumor necrosis factor. Clin Immunol. 2009;131(2):308–316. doi: 10.1016/j.clim.2009.01.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 133. Rudwaleit M, Rødevand E, Holck P, et al. Adalimumab effectively reduces the rate of anterior uveitis flares in patients with active ankylosing spondylitis: results of a prospective open-label study. Ann Rheum Dis. 2009;68(5):696–701. doi: 10.1136/ard.2008.092585. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 134. Dobner BC, Max R, Becker MD, et al. A three-centre experience with adalimumab for the treatment of non-infectious uveitis. Br J Ophthalmol. 2013;97(2):134–138. doi: 10.1136/bjophthalmol-2011-301401. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 135. Sen ES, Sharma S, Hinchcliffe A, Dick AD, Ramanan AV. Use of adalimumab in refractory non-infectious childhood chronic uveitis: efficacy in ocular disease – a case cohort interventional study. Rheumatology (Oxford) 2012;51(12):2199–2203. doi: 10.1093/rheumatology/kes212. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 136. Diaz-Llopis M, García-Delpech S, Salom D, et al. Adalimumab therapy for refractory uveitis: a pilot study. J Ocul Pharmacol Ther. 2008;24(3):351–361. doi: 10.1089/jop.2007.0104. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 137. Tynjälä P, Kotaniemi K, Lindahl P, et al. Adalimumab in juvenile idiopathic arthritis-associated chronic anterior uveitis. Rheumatology (Oxford) 2008;47(3):339–344. doi: 10.1093/rheumatology/kem356. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 138. Calabrese LH. Molecular differences in anticytokine therapies. Clin Exp Rheumatol. 2003;21(2):241–248. [ PubMed ] [ Google Scholar ] 
+ 
+ 139. Reiff A, Takei S, Sadeghi S, et al. Etanercept therapy in children with treatment-resistant uveitis. Arthritis Rheum. 2001;44(6):1411–1415. doi: 10.1002/1529-0131(200106)44:6<1411::AID-ART235>3.0.CO;2-O. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 140. Reiff A. Long-term outcome of etanercept therapy in children with treatment-refractory uveitis. Arthritis Rheum. 2003;48(7):2079–2080. doi: 10.1002/art.11155. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 141. Smith JR, Levinson RD, Holland GN, et al. Differential efficacy of tumor necrosis factor inhibition in the management of inflammatory eye disease and associated rheumatic disease. Arthritis Rheum. 2001;45(3):252–257. doi: 10.1002/1529-0131(200106)45:3<252::AID-ART257>3.0.CO;2-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 142. Quartier P, Taupin P, Bourdeaut F, et al. Efficacy of etanercept for the treatment of juvenile idiopathic arthritis according to the onset type. Arthritis Rheum. 2003;48(4):1093–1101. doi: 10.1002/art.10885. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 143. Smith JA, Thompson DJ, Whitcup SM, et al. A randomized, placebo-controlled, double-masked clinical trial of etanercept for the treatment of uveitis associated with juvenile idiopathic arthritis. Arthritis Rheum. 2005;53(1):18–23. doi: 10.1002/art.20904. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 144. Foster CS, Tufail F, Waheed NK, et al. Efficacy of etanercept in preventing relapse of uveitis controlled by methotrexate. Arch Ophthalmol. 2003;121(4):437–440. doi: 10.1001/archopht.121.4.437. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 145. Galor A, Perez VL, Hammel JP, Lowder CY. Differential effectiveness of etanercept and infliximab in the treatment of ocular inflammation. Ophthalmology. 2006;113(12):2317–2323. doi: 10.1016/j.ophtha.2006.04.038. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 146. Treon SP, Anderson KC. The use of rituximab in the treatment of malignant and nonmalignant plasma cell disorders. Semin Oncol. 2000;27(6 Suppl 12):79–85. [ PubMed ] [ Google Scholar ] 
+ 
+ 147. Lim L, Suhler EB, Smith JR. Biologic therapies for inflammatory eye disease. Clin Experiment Ophthalmol. 2006;34(4):365–374. doi: 10.1111/j.1442-9071.2006.01225.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 148. Heiligenhaus A, Miserocchi E, Heinz C, Gerloni V, Kotaniemi K. Treatment of severe uveitis associated with juvenile idiopathic arthritis with anti-CD20 monoclonal antibody (rituximab) Rheumatology (Oxford) 2011;50(8):1390–1394. doi: 10.1093/rheumatology/ker107. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 149. Sadreddini S, Noshad H, Molaeefard M, Noshad R. Treatment of retinal vasculitis in Behçet’s disease with rituximab. Mod Rheumatol. 2008;18(3):306–308. doi: 10.1007/s10165-008-0057-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 150. Davatchi F, Shams H, Rezaipoor M, et al. Rituximab in intractable ocular lesions of Behcet’s disease; randomized single-blind control study (pilot study) Int J Rheum Dis. 2010;13(3):246–252. doi: 10.1111/j.1756-185X.2010.01546.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 151. Miserocchi E, Pontikaki I, Modorati G, Bandello F, Meroni PL, Gerloni V. Rituximab for uveitis. Ophthalmology. 2011;118(1):223–224. doi: 10.1016/j.ophtha.2010.07.031. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 152. Tomkins-Netzer O, Taylor SR, Lightman S. Can rituximab induce long-term disease remission in patients with intra-ocular non-infectious inflammation? Ophthalmologica. 2013;230(3):109–115. doi: 10.1159/000351426. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 153. Rubbert-Roth A, Tak PP, Zerbini C, et al. Efficacy and safety of various repeat treatment dosing regimens of rituximab in patients with active rheumatoid arthritis: results of a Phase III randomized study (MIRROR) Rheumatology (Oxford) 2010;49(9):1683–1693. doi: 10.1093/rheumatology/keq116. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 154. Keating GM. Abatacept: a review of its use in the management of rheumatoid arthritis. Drugs. 2013;73(10):1095–1119. doi: 10.1007/s40265-013-0080-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 155. Pasadhika S, Rosenbaum JT. Update on the use of systemic biologic agents in the treatment of noninfectious uveitis. Biologics. 2014;8:67–81. doi: 10.2147/BTT.S41477. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 156. Angeles-Han S, Flynn T, Lehman T. Abatacept for refractory juvenile idiopathic arthritis-associated uveitis-a case report. J Rheumatol. 2008;35(9):1897–1898. [ PubMed ] [ Google Scholar ] 
+ 
+ 157. Zulian F, Balzarin M, Falcini F, et al. Abatacept for severe anti-tumor necrosis factor alpha refractory juvenile idiopathic arthritis-related uveitis. Arthritis Care Res (Hoboken) 2010;62(6):821–825. doi: 10.1002/acr.20115. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 158. Kenawy N, Cleary G, Mewar D, Beare N, Chandna A, Pearce I. Abatacept: a potential therapy in refractory cases of juvenile idiopathic arthritis-associated uveitis. Graefes Arch Clin Exp Ophthalmol. 2011;249(2):297–300. doi: 10.1007/s00417-010-1523-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 159. Yang H, Wang J, Du J, et al. Structural basis of immunosuppression by the therapeutic antibody daclizumab. Cell Res. 2010;20(12):1361–1371. doi: 10.1038/cr.2010.130. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 160. Bhat P, Castañeda-Cervantes RA, Doctor PP, Foster CS. Intravenous daclizumab for recalcitrant ocular inflammatory disease. Graefes Arch Clin Exp Ophthalmol. 2009;247(5):687–692. doi: 10.1007/s00417-009-1043-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 161. Papaliodis GN, Chu D, Foster CS. Treatment of ocular inflammatory disorders with daclizumab. Ophthalmology. 2003;110(4):786–789. doi: 10.1016/S0161-6420(02)01932-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 162. Sen HN, Levy-Clarke G, Faia LJ, et al. High-dose daclizumab for the treatment of juvenile idiopathic arthritis-associated active anterior uveitis. Am J Ophthalmol. 2009;148(5):696–703. doi: 10.1016/j.ajo.2009.06.003. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 163. Webster AC, Ruster LP, McGee R, et al. Interleukin 2 receptor antagonists for kidney transplant recipients. Cochrane database Syst Rev. 2010;(1):CD003897. doi: 10.1002/14651858.CD003897.pub3. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 164. Nussenblatt RB, Fortin E, Schiffman R, et al. Treatment of noninfectious intermediate and posterior uveitis with the humanized anti-Tac mAb: a phase I/II clinical trial. Proc Natl Acad Sci U S A. 1999;96(13):7462–7466. doi: 10.1073/pnas.96.13.7462. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 165. Nussenblatt RB, Thompson DJ, Li Z, et al. Humanized anti-interleukin-2 (IL-2) receptor alpha therapy: long-term results in uveitis patients and preliminary safety and activity data for establishing parameters for subcutaneous administration. J Autoimmun. 2003;21(3):283–293. doi: 10.1016/s0896-8411(03)00113-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 166. Sobrin L, Huang JJ, Christen W, Kafkala C, Choopong P, Foster CS. Daclizumab for treatment of birdshot chorioretinopathy. Arch Ophthalmol. 2008;126(2):186–191. doi: 10.1001/archophthalmol.2007.49. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 167. Yeh S, Wroblewski K, Buggage R, et al. High-dose humanized anti-IL-2 receptor alpha antibody (daclizumab) for the treatment of active, noninfectious uveitis. J Autoimmmun. 2009;31(2):91–97. doi: 10.1016/j.jaut.2008.05.001. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 168. Buggage RR, Levy-Clarke G, Sen HN, et al. A double-masked, randomized study to investigate the safety and efficacy of daclizumab to treat the ocular complications related to Behçet’s disease. Ocul Immunol Inflamm. 2007;15(2):63–70. doi: 10.1080/09273940701299370. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 169. Deuter C, Stübiger N, Zierhut M. Interferon-α therapy in noninfectious uveitis. Dev Ophthalmol. 2012;51:90–97. doi: 10.1159/000336324. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 170. Gueudry J, Wechsler B, Terrada C, et al. Long-term efficacy and safety of low-dose interferon alpha2a therapy in severe uveitis associated with Behçet disease. Am J Ophthalmol. 2008;146(6):837–844. doi: 10.1016/j.ajo.2008.08.038. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 171. Kötter I, Günaydin I, Zierhut M, Stübiger N. The use of interferon alpha in Behçet disease: review of the literature. Semin Arthritis Rheum. 2004;33(5):320–335. doi: 10.1016/j.semarthrit.2003.09.010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 172. Becker MD, Heiligenhaus A, Hudde T, et al. Interferon as a treatment for uveitis associated with multiple sclerosis. Br J Ophthalmol. 2005;89(10):1254–1257. doi: 10.1136/bjo.2004.061119. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 173. Mackensen F, Max R, Becker MD. Interferons and their potential in the treatment of ocular inflammation. Clin Ophthalmol. 2009;3:559–566. doi: 10.2147/opth.s3308. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 174. Stein MR. The new generation of liquid intravenous immunoglobulin formulations in patient care: a comparison of intravenous immunoglobulins. Postgrad Med. 2010;122(5):176–184. doi: 10.3810/pgm.2010.09.2214. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 175. Kazatchkine MD, Kaveri SV. Immunomodulation of autoimmune and inflammatory diseases with intravenous immune globulin. N Engl J Med. 2001;345(10):747–755. doi: 10.1056/NEJMra993360. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 176. Onal S, Foster CS, Ahmed AR. Efficacy of intravenous immunoglobulin treatment in refractory uveitis. Ocul Immunol Inflamm. 2006;14(6):367–374. doi: 10.1080/09273940601025966. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 177. LeHoang P, Cassoux N, George F, Kullmann N, Kazatchkine MD. Intravenous immunoglobulin (IVIg) for the treatment of birdshot retinochoroidopathy. Ocul Immunol Inflamm. 2000;8(1):49–57. [ PubMed ] [ Google Scholar ] 
+ 
+ 178. Seider N, Beiran I, Scharf J, Miller B. Intravenous immunoglobulin therapy for resistant ocular Behçet’s disease. Br J Ophthalmol. 2001;85(11):1287–1288. doi: 10.1136/bjo.85.11.1287. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 179. González-Delgado M, González C, Blázquez JI, Salas-Puig J, Castro J, Hernández-Lahoz C. Intravenous immunoglobulin therapy in Vogt-Koyanagi-Harada syndrome. Neurologia. 2004;19(7):401–403. Spanish. [ PubMed ] [ Google Scholar ] 
+ 
+ 180. Weiss K, Steinbrugger I, Weger M, et al. Intravitreal VEGF levels in uveitis patients and treatment of uveitic macular oedema with intravitreal bevacizumab. Eye (Lond) 2009;23(9):1812–1818. doi: 10.1038/eye.2008.388. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 181. Fine HF, Baffi J, Reed GF, Csaky KG, Nussenblatt RB. Aqueous humor and plasma vascular endothelial growth factor in uveitis-associated cystoid macular edema. Am J Ophthalmol. 2001;132(5):794–796. doi: 10.1016/s0002-9394(01)01103-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 182. Cordero Coma M, Sobrin L, Onal S, Christen W, Foster CS. Intravitreal bevacizumab for treatment of uveitic macular edema. Ophthalmology. 2007;114(8):1574–1579. doi: 10.1016/j.ophtha.2006.11.028. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 183. Mackensen F, Heinz C, Becker MD, Heiligenhaus A. Intravitreal bevacizumab (avastin) as a treatment for refractory macular edema in patients with uveitis: a pilot study. Retina. 2008;28(1):41–45. doi: 10.1097/IAE.0b013e318156db75. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 184. Acharya NR, Hong KC, Lee SM. Ranibizumab for refractory uveitis-related macular edema. Am J Ophthalmol. 2009;148(2):303–309. doi: 10.1016/j.ajo.2009.03.028. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 185. Lasave AF, Zeballos DG, El-Haig WM, Díaz-Llopis M, Salom D, Arevalo JF. Short-term results of a single intravitreal bevacizumab (avastin) injection versus a single intravitreal triamcinolone acetonide (kenacort) injection for the management of refractory noninfectious uveitic cystoid macular edema. Ocul Immunol Inflamm. 2009;17(6):423–430. doi: 10.3109/09273940903221610. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 186. Bae JH, Lee CS, Lee SC. Efficacy and safety of intravitreal bevacizumab compared with intravitreal and posterior sub-tenon triamcinolone acetonide for treatment of uveitic cystoid macular edema. Retina. 2011;31(1):111–118. doi: 10.1097/IAE.0b013e3181e378af. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 187. Soheilian M, Rabbanikhah Z, Ramezani A, Kiavash V, Yaseri M, Peyman GA. Intravitreal bevacizumab versus triamcinolone acetonide for refractory uveitic cystoid macular edema: a randomized pilot study. J Ocul Pharmacol Ther. 2010;26(2):199–206. doi: 10.1089/jop.2009.0093. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 188. Cervantes-Castañeda RA, Giuliari GP, Gallagher MJ, et al. Intravitreal bevacizumab in refractory uveitic macular edema: one-year follow-up. Eur J Ophthalmol. 2009;19(4):622–629. doi: 10.1177/112067210901900417. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 189. Rosenfeld PJ, Brown DM, Heier JS, et al. Ranibizumab for neovascular age-related macular degeneration. N Engl J Med. 2006;355(14):1419–1431. doi: 10.1056/NEJMoa054481. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 190. Brown DM, Kaiser PK, Michels M, et al. Ranibizumab versus verteporfin for neovascular age-related macular degeneration. N Engl J Med. 2006;355(14):1432–1444. doi: 10.1056/NEJMoa062655. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 191. Inoue M, Takeda K, Morita K, Yamada M, Tanigawara Y, Oguchi Y. Vitreous concentrations of triamcinolone acetonide in human eyes after intravitreal or subtenon injection. Am J Ophthalmol. 2004;138(6):1046–1048. doi: 10.1016/j.ajo.2004.05.028. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 192. Van Kooij B, Rothova A, de Vries P. The pros and cons of intravitreal triamcinolone injections for uveitis and inflammatory cystoid macular edema. Ocul Immunol Inflamm. 2006;14(2):73–85. doi: 10.1080/09273940500545684. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 193. Chang-Lin JE, Attar M, Acheampong AA, et al. Pharmacokinetics and pharmacodynamics of a sustained-release dexamethasone intravitreal implant. Invest Ophthalmol Vis Sci. 2011;52(1):80–86. doi: 10.1167/iovs.10-5285. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 194. Da Silva GR, da Silva Cunha A, Jr, Ayres E, Oréfice RL. Effect of the macromolecular architecture of biodegradable polyurethanes on the controlled delivery of ocular drugs. J Mater Sci Mater Med. 2009;20(2):481–487. doi: 10.1007/s10856-008-3607-y. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 195. Lowder C, Belfort R, Lightman S, et al. Dexamethasone intravitreal implant for noninfectious intermediate or posterior uveitis. Arch Ophthalmol. 2011;129(5):545–553. doi: 10.1001/archophthalmol.2010.339. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 196. Adán A, Pelegrín L, Rey A, et al. Dexamethasone intravitreal implant for treatment of uveitic persistent cystoid macular edema in vitrectomized patients. Retina. 2013;33(7):1435–1440. doi: 10.1097/IAE.0b013e31827e247b. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 197. Taylor SRJ, Tomkins-Netzer O, Joshi L, Morarji J, McLoone E, Lightman S. Dexamethasone implant in pediatric uveitis. Ophthalmology. 2012;119(11):2412–2412. doi: 10.1016/j.ophtha.2012.07.025. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 198. Jaffe GJ, Ben-Nun J, Guo H, Dunn JP, Ashton P. Fluocinolone acetonide sustained drug delivery device to treat severe uveitis. Ophthalmology. 2000;107(11):2024–2033. doi: 10.1016/s0161-6420(00)00466-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 199. Hunter RS, Lobo AM. Dexamethasone intravitreal implant for the treatment of noninfectious uveitis. Clin Ophthalmol. 2011;5:1613–1621. doi: 10.2147/OPTH.S17419. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 200. Jaffe GJ, Martin D, Callanan D, Pearson PA, Levy B, Comstock T. Fluocinolone acetonide implant (Retisert) for noninfectious posterior uveitis: thirty-four-week results of a multicenter randomized clinical study. Ophthalmology. 2006;113(6):1020–1027. doi: 10.1016/j.ophtha.2006.02.021. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 201. Multicenter Uveitis Steroid Treatment (MUST) Trial Research Group. Kempen JH, Altaweel MM, et al. Randomized comparison of systemic anti-inflammatory therapy versus fluocinolone acetonide implant for intermediate, posterior, and panuveitis: the multicenter uveitis steroid treatment trial. Ophthalmology. 2011;118(10):1916–1926. doi: 10.1016/j.ophtha.2011.07.027. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 202. Callanan DG, Jaffe GJ, Martin DF, Pearson PA, Comstock TL. Treatment of posterior uveitis with a fluocinolone acetonide implant: three-year clinical trial results. Arch Ophthalmol. 2008;126(9):1191–1201. doi: 10.1001/archopht.126.9.1191. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 203. Kane FE, Burdan J, Cutino A, Green KE. Iluvien: a new sustained delivery technology for posterior eye disease. Expert Opin Drug Deliv. 2008;5(9):1039–1046. doi: 10.1517/17425247.5.9.1039. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 204. Campochiaro PA, Hafiz G, Shah SM, et al. Sustained ocular delivery of fluocinolone acetonide by an intravitreal insert. Ophthalmology. 2010;117(7):1393–1399. doi: 10.1016/j.ophtha.2009.11.024. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 205. Sanford M. Fluocinolone acetonide intravitreal implant (Iluvien®): in diabetic macular oedema. Drugs. 2013;73(2):187–193. doi: 10.1007/s40265-013-0010-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 206. Focused Therapeutics/Visionary Science [webpage on the Internet] Watertown: pSivida Corp; [Accessed June 19, 2014]. [cited April 15, 2014]. Available from: http://www.psivida.com/ [ Google Scholar ] 
+ 
+ 207. Chen J. Novel regulatory mechanisms of mTOR signaling. Curr Top Microbiol Immunol. 2004;279:245–257. doi: 10.1007/978-3-642-18930-2_14. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 208. Kang J, Huddleston SJ, Fraser JM, Khoruts A. De novo induction of antigen-specific CD4+CD25+Foxp3+ regulatory T-cells in vivo following systemic antigen administration accompanied by blockade of mTOR. J Leukoc Biol. 2008;83(5):1230–1239. doi: 10.1189/jlb.1207851. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 209. Zeiser R, Leveson-Gower DB, Zambricki EA, et al. Differential impact of mammalian target of rapamycin inhibition on CD4+CD25+Foxp3+ regulatory T-cells compared with conventional CD4+ T-cells. Blood. 2008;111(1):453–462. doi: 10.1182/blood-2007-06-094482. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 210. Bruyn GA, Tate G, Caeiro F, et al. Everolimus in patients with rheumatoid arthritis receiving concomitant methotrexate: a 3-month, double-blind, randomised, placebo-controlled, parallel-group, proof-of-concept study. Ann Rheum Dis. 2008;67(8):1090–1095. doi: 10.1136/ard.2007.078808. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 211. Lieberthal W, Fuhro R, Andry CC, et al. Rapamycin impairs recovery from acute renal failure: role of cell-cycle arrest and apoptosis of tubular cells. Am J Physiol Renal Physiol. 2001;281(4):F693–F706. doi: 10.1152/ajprenal.2001.281.4.F693. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 212. Tenderich G, Fuchs U, Zittermann A, Muckelbauer R, Berthold HK, Koerfer R. Comparison of sirolimus and everolimus in their effects on blood lipid profiles and haematological parameters in heart transplant recipients. Clin Transplant. 2007;21(4):536–543. doi: 10.1111/j.1399-0012.2007.00686.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 213. Crowe A, Bruelisauer A, Duerr L, Guntz P, Lemaire M. Absorption and intestinal metabolism of SDZ-RAD and rapamycin in rats. Drug Metab Dispos. 1999;27(5):627–632. [ PubMed ] [ Google Scholar ] 
+ 
+ 214. Heiligenhaus A, Zurek-Imhoff B, Roesel M, Hennig M, Rammrath D, Heinz C. Everolimus for the treatment of uveitis refractory to cyclosporine A: a pilot study. Graefes Arch Clin Exp Ophthalmol. 2013;251(1):143–152. doi: 10.1007/s00417-012-2163-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 215. Sehgal S. Sirolimus: its discovery, biological properties, and mechanism of action. Transplant Proc. 2003;35(3):S7–S14. doi: 10.1016/s0041-1345(03)00211-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 216. Veroux M, Tallarita T, Corona D, D’Assoro A, Gurrieri C, Veroux P. Sirolimus in solid organ transplantation: current therapies and new frontiers. Immunotherapy. 2011;3(12):1487–1497. doi: 10.2217/imt.11.143. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 217. Dasari TW, Patel B, Saucedo JF. Systematic review of effectiveness of oral sirolimus after bare-metal stenting of coronary arteries for prevention of in-stent restenosis. Am J Cardiol. 2013;112(9):1322–1327. doi: 10.1016/j.amjcard.2013.05.074. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 218. Javaid MM, Chowdhury S, Henderson A, Olsburgh J. Advanced native kidney renal cell carcinoma in renal transplant recipients: role of sirolimus as dual anti-cancer and anti-rejection agent. Clin Nephrol. 2013;79(2):154–160. doi: 10.5414/cn107107. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 219. Shanmuganathan VA, Casely EM, Raj D, et al. The efficacy of sirolimus in the treatment of patients with refractory uveitis. Br J Ophthalmol. 2005;89(6):666–669. doi: 10.1136/bjo.2004.048199. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 220. Phillips BN, Wroblewski KJ. A retrospective review of oral low-dose sirolimus (rapamycin) for the treatment of active uveitis. J Ophthalmic Inflamm Infect. 2011;1(1):29–34. doi: 10.1007/s12348-010-0015-5. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 221. Sen HN, Larson TA, Meleth AD, Smith WM, Nussenblatt RB. Sunconjunctival sirolimus for the treatment of chronic active anterior uveitis: results of a pilot trial. Am J Ophthalmol. 2012;153(6):1038–1042. doi: 10.1016/j.ajo.2011.12.018. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 222. Nguyen QD, Ibrahim MA, Watters A, et al. Ocular tolerability and efficacy of intravitreal and subconjunctival injections of sirolimus in patients with non-infectious uveitis: primary 6-month results of the SAVE Study. J Ophthalmic Inflamm Infect. 2013;3(1):32. doi: 10.1186/1869-5760-3-32. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 223. Santen Inc Study Assessing Double-masked Uveitis Treatment (SAKURA) [Accessed June 19, 2014]. Available from: http://clinicaltrials.gov/show/NCT01358266 . NLM identifier: NCT01358266 . 
+ 
+ 
+ 224. Dumont FJ. ISAtx-247 (Isotechnika/Roche) Curr Opin Investig Drugs. 2004;5(5):542–550. [ PubMed ] [ Google Scholar ] 
+ 
+ 225. Aspeslet L, Freitag D, Trepanier D, et al. ISA(TX)247: a novel calcineurin inhibitor. Transplant Proc. 2001;33:1048–1051. doi: 10.1016/s0041-1345(00)02325-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 226. Bissonnette R, Papp K, Poulin Y, et al. A randomized, multi-center, double-blind, placebo-controlled phase 2 trial of ISA247 in patients with chronic plaque psoriasis. J Acad Dermatology. 2006;54(3):472–478. doi: 10.1016/j.jaad.2005.10.061. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 227. Papp K, Bissonnette R, Rosoph L, et al. Efficacy of ISA247 in plaque psoriasis: a randomised, multicentre, double-blind, placebo-controlled phase III study. Lancet. 2008;371:1337–1342. doi: 10.1016/S0140-6736(08)60593-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 228. Anglade E, Aspeslet LJ, Weiss SL. A new agent for the treatment of noninfectious uveitis: rationale and design of three LUMINATE (Lux Uveitis Multicenter Investigation of a New Approach to Treatment) trials of steroid-sparing voclosporin. Clin Ophthalmol. 2008;2(4):693–702. doi: 10.2147/opth.s2452. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 229. Roesel M, Tappeiner C, Heiligenhaus A, Heinz C. Oral voclosporin: novel calcineurin inhibitor for treatment of noninfectious uveitis. Clin Ophthalmol. 2011;5:1309–1313. doi: 10.2147/OPTH.S11125. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 230. Schultz C. Voclosporin as a treatment for noninfectious uveitis. Ophthalmol Eye Dis. 2013;5:5–10. doi: 10.4137/OED.S7995. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 231. Voclosporin uveitis study fails to meet primary endpoint [webpage on the Internet] Santa Monica: Advanstar Communications, Inc; 2013. [Accessed June 19, 2014]. [updated Jan 2, 2013; cited March 20, 2014]. Available from: http://ophthalmologytimes.modernmedicine.com/ophthalmologytimes/news/modernmedicine/modern-medicine-feature-articles/voclosporin-uveitis-study-fa . [ Google Scholar ] 
+ 
+ 232. Mesquida M, Victoria Hernández M, Llorenç V, et al. Behçet disease-associated uveitis successfully treated with golimumab. Ocul Immunol Inflamm. 2013;21(2):160–162. doi: 10.3109/09273948.2012.741744. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 233. William M, Faez S, Papaliodis GN, Lobo A. Golimumab for the treatment of refractory juvenile idiopathic arthritis-associated uveitis. J Ophthalmic Inflamm Infect. 2012;2:231–233. doi: 10.1007/s12348-012-0081-y. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 234. Miserocchi E, Modorati G, Pontikaki I, Meroni PL, Gerloni V. Long-term treatment with golimumab for severe uveitis. Ocul Immunol Inflamm. 2014;22(2):90–95. doi: 10.3109/09273948.2013.844265. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 235. Cordero-Coma M, Salom D, Díaz-Llopis M, López-Prats MJ, Calleja S. Golimumab for uveitis. Ophthalmology. 2011;118(9):1892.e3–e4. doi: 10.1016/j.ophtha.2011.05.019. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 236. Faez S, Lobo AM, Sobrin L, Papaliodis GN. Treatment of seronegative spondyloarthropathy-associated uveitis with golimumab: retrospective case series. Clin Experiment Ophthalmol. 2014;42(4):392–395. doi: 10.1111/ceo.12207. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 237. Sánchez-Cano D, Callejas-Rubio JL, Ruiz-Villaverde R, Ríos- Fernández R, Ortego-Centeno N. Off-label uses of anti-TNF therapy in three frequent disorders: Behçet’s disease, sarcoidosis, and noninfectious uveitis. Mediators Inflamm. 2013;2013:286857. doi: 10.1155/2013/286857. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 238. Tlucek PS, Stone DU. Certolizumab pegol therapy for rheumatoid arthritis-associated scleritis. Cornea. 2012;31(1):90–91. doi: 10.1097/ICO.0b013e318211400a. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 239. Dinarello CA, Simon A, van der Meer JW. Treating Inflammation by blocking interleukin-1 in a broad spectrum of diseases. Nat Rev Drug Discov. 2012;11(8):633–652. doi: 10.1038/nrd3800. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 240. Teoh SC, Sharma S, Hogan A, Lee R, Ramanan AV, Dick AD. Tailoring biological treatment: anakinra treatment of posterior uveitis associated with the CINCA syndrome. Br J Ophthalmol. 2007;91(2):263–264. doi: 10.1136/bjo.2006.0101477. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 241. Mesquida M, Molins B, Llorenç V, et al. Current and future treatments for Behçet’s uveitis: road to remission. Int Ophthalmol. 2014;34(2):365–381. doi: 10.1007/s10792-013-9788-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 242. Issafras H, Corbin JA, Goldfine ID, Roell MK. Detailed mechanistic analysis of gevokizumab, an allosteric anti-IL-1β antibody with differential receptor-modulating properties. J Pharmacol Exp Ther. 2014;348(1):202–215. doi: 10.1124/jpet.113.205443. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 243. Gül A, Tugal-Tutkun I, Dinarello CA, et al. Interleukin-1β-regulating antibody XOMA 052 (gevokizumab) in the treatment of acute exacerbations of resistant uveitis of Behcet’s disease: an open-label pilot study. Ann Rheum Dis. 2012;71(4):563–566. doi: 10.1136/annrheumdis-2011-155143. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 244. EyeGuard Study [homepage on the Internet] Eyeguard: 2013. [Accessed June 19, 2014]. [cited March 20, 2014]. Available from: http://www.eyeguard.com . [ Google Scholar ] 
+ 
+ 245. Lachmann HJ, Kone-Paut I, Kuemmerle-Deschner JB, et al. Use of canakinumab in the cryopyrin-associated periodic syndrome. N Engl J Med. 2009;360:2416–2425. doi: 10.1056/NEJMoa0810787. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 246. Ugurlu S, Ucar D, Seyahi E, Hatemi G, Yurdakul S. Canakinumab in a patient with juvenile Behcet’s syndrome with refractory eye disease. Ann Rheum Dis. 2012;71(9):1589–1591. doi: 10.1136/annrheumdis-2012-201383. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 247. Simonini G, Xu Z, Caputo R, et al. Clinical and transcriptional response to the long-acting interleukin-1 blocker canakinumab in Blau syndrome-related uveitis. Arthritis Rheum. 2013;65(2):513–518. doi: 10.1002/art.37776. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 248. Isaacs JD, Watts RA, Hazleman BL, et al. Humanised monoclonal antibody therapy for rheumatoid arthritis. Lancet. 1992;340(8822):748–752. doi: 10.1016/0140-6736(92)92294-p. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 249. Coles AJ, Twyman CL, Arnold DL, et al. Alemtuzumab for patients with relapsing multiple sclerosis after disease-modifying therapy: a randomised controlled phase 3 trial. Lancet. 2012;380(9856):1829–1839. doi: 10.1016/S0140-6736(12)61768-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 250. Isaacs J, Hale G, Waldmann H, et al. Monoclonal antibody therapy of chronic intraocular inflammation using Campath-1H. Br J Ophthalmol. 1995;79(11):1054–1055. doi: 10.1136/bjo.79.11.1054. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 251. Dick AD, Meyer P, James T, et al. Campath-1H therapy in refractory ocular inflammatory disease. Br J Ophthalmol. 2000;84(1):107–109. doi: 10.1136/bjo.84.1.107. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 252. Wang J, Ibrahim M, Turkcuoglu P, et al. Intercellular adhesion molecule inhibitors as potential therapy for refractory uveitic macular edema. Ocul Immunol Inflamm. 2010;18(5):395–398. doi: 10.3109/09273948.2010.483317. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 253. Faia LJ, Sen HN, Li Z, Yeh S, Wroblewski KJ, Nussenblatt RB. Treatment of inflammatory macular edema with humanized anti-CD11a antibody therapy. Invest Ophthalmol Vis Sci. 2011;52(9):6919–6924. doi: 10.1167/iovs.10-5896. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 254. Talamonti M, Teoli M, Botti E, Spallone G, Chimenti S, Costanzo A. Patients with moderate to severe plaque psoriasis: one year after the European Medicines Agency recommendation of efalizumab suspension. Dermatology. 2011;222(3):250–255. doi: 10.1159/000326111. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 255. Venkiteshwaran A. Tocilizumab. MAbs. 2009;1(5):432–438. doi: 10.4161/mabs.1.5.9497. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 256. Romano M, Sironi M, Toniatti C, et al. Role of IL-6 and its soluble receptor in induction of chemokines and leukocyte recruitment. Immunity. 1997;6(3):315–325. doi: 10.1016/s1074-7613(00)80334-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 257. Simon D, Denniston AK, Tomlins PJ, et al. Soluble gp130, an antagonist of IL-6 transsignaling, is elevated in uveitis aqueous humor. Invest Ophthalmol Vis Sci. 2008;49(9):3988–3991. doi: 10.1167/iovs.08-1953. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 258. Mesquida M, Leszczynska A, Llorenç V, Adán A. Interleukin-6 blockade in ocular inflammatory diseases. Clin Exp Immunol. 2014;176(3):301–309. doi: 10.1111/cei.12295. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 259. Tappeiner C, Heinz C, Ganser G, Heiligenhaus A. Is tocilizumab an effective option for treatment of refractory uveitis associated with juvenile idiopathic arthritis? J Rheumatol. 2012;39(6):1294–1295. doi: 10.3899/jrheum.120010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 260. Hirano T, Ohguro N, Hohki S, et al. A case of Behçet’s disease treated with a humanized anti-interleukin-6 receptor antibody, tocilizumab. Mod Rheumatol. 2012;22(2):298–302. doi: 10.1007/s10165-011-0497-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 261. Oshitari T, Kajita F, Tobe A, et al. Refractory uveitis in patient with castleman disease successfully treated with tocilizumab. Case Rep Ophthalmol Med. 2012;2012:968180. doi: 10.1155/2012/968180. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 262. Adán A, Mesquida M, Llorenç V, et al. Tocilizumab treatment for refractory uveitis-related cystoid macular edema. Graefes Arch Clin Exp Ophthalmol. 2013;251(11):2627–2632. doi: 10.1007/s00417-013-2436-y. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 263. Tsang AC, Roth J, Gottlieb C. Tocilizumab for severe chronic anterior uveitis associated with juvenile idiopathic arthritis in a pediatric patient. Ocul Immunol Inflamm. 2014;22(2):155–157. doi: 10.3109/09273948.2013.866254. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 264. Adán A, Llorenç V, Mesquida M, Pelegrín L. Tocilizumab treatment for recalcitrant uveitic macular edema. Graefes Arch Clin Exp Ophthalmol. 2013;251(9):2249–2250. doi: 10.1007/s00417-012-2243-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 265. Muselier A, Bielefeld P, Bidot S, Vinit J, Besancenot JF, Bron A. Efficacy of tocilizumab in two patients with anti-TNF-alpha refractory uveitis. Ocul Immunol Inflamm. 2011;19(5):382–383. doi: 10.3109/09273948.2011.606593. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 266. Wendling D, Dernis E, Prati C, Frisch E, Delbosc B. Onset of inflammatory eye disease under tocilizumab treatment for rheumatologic conditions: a paradoxical effect? J Rheumatol. 2011;38(10):2284. doi: 10.3899/jrheum.110170. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 267. Sato T, Minakuchi S, Mochizuki M, Takeuchi M. Acute anterior uveitis after discontinuation of tocilizumab in a patient with rheumatoid arthritis. Clin Ophthalmol. 2014;8:187–190. doi: 10.2147/OPTH.S54929. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 268. Sanofi Phase II Study to Analyze Sarilumab in Non-Infectious Uveitis (SARILNIUSATURN) [Accessed June 19, 2014]. Available from: http://clinicaltrials.gov/ct2/show/NCT01900431 . NLM identifier: NCT01900431 . 
+ 
+ 
+ 269. Kolls JK, Lindén A. Interleukin-17 family members and inflammation. Immunity. 2004;21(4):467–476. doi: 10.1016/j.immuni.2004.08.018. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 270. Xu S, Cao X. Interleukin-17 and its expanding biological functions. Cell Mol Immunol. 2010;7(3):164–174. doi: 10.1038/cmi.2010.21. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 271. Fujino S, Andoh A, Bamba S, et al. Increased expression of interleukin 17 in inflammatory bowel disease. Gut. 2003;52(1):65–70. doi: 10.1136/gut.52.1.65. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 272. Tzartos JS, Friese MA, Craner MJ, et al. Interleukin-17 production in central nervous system-infiltrating T-cells and glial cells is associated with active disease in multiple sclerosis. Am J Pathol. 2008;172(1):146–155. doi: 10.2353/ajpath.2008.070690. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 273. Lubberts E, Koenders MI, van den Berg WB. The role of T-cell interleukin-17 in conducting destructive arthritis: lessons from animal models. Arthritis Res Ther. 2005;7(1):29–37. doi: 10.1186/ar1478. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 274. Patel DD, Lee DM, Kolbinger F, Antoni C. Effect of IL-17A blockade with secukinumab in autoimmune diseases. Ann Rheum Dis. 2013;72(Suppl 2):ii116–ii123. doi: 10.1136/annrheumdis-2012-202371. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 275. Zhou R, Horai R, Mattapallil MJ, Caspi RR. A new look at immune privilege of the eye: dual role for the vision-related molecule retinoic acid. J Immunol. 2011;187(8):4170–4177. doi: 10.4049/jimmunol.1101634. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 276. Zhou R, Horai R, Silver PB, et al. The living eye “disarms” uncommitted autoreactive T-cells by converting them to Foxp3(+) regulatory cells following local antigen recognition. J Immunol. 2012;188(4):1742–1750. doi: 10.4049/jimmunol.1102415. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 277. Hamzaoui K, Hamzaoui A, Guemira F, Bessioud M, Hamza M, Ayed K. Cytokine profile in Behçet’s disease patients. Relationship with disease activity. Scand J Rheumatol. 2002;31(4):205–210. doi: 10.1080/030097402320318387. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 278. Chi W, Zhu X, Yang P, et al. Upregulated IL-23 and IL-17 in Behçet patients with active uveitis. Invest Ophthalmol Vis Sci. 2008;49(7):3058–3064. doi: 10.1167/iovs.07-1390. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 279. Amadi-Obi A, Yu CR, Liu X, et al. TH17 cells contribute to uveitis and scleritis and are expanded by IL-2 and inhibited by IL-27/STAT1. Nat Med. 2007;13(6):711–718. doi: 10.1038/nm1585. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 280. Dick AD, Tugal-Tutkun I, Foster S, et al. Secukinumab in the treatment of noninfectious uveitis: results of three randomized, controlled clinical trials. Ophthalmology. 2013;120(4):777–787. doi: 10.1016/j.ophtha.2012.09.040. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 281. David OJ, Kovarik JM, Schmouder RL. Clinical pharmacokinetics of fingolimod. Clin Pharmacokinet. 2012;51(1):15–28. doi: 10.2165/11596550-000000000-00000. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 282. Kurose S, Ikeda E, Tokiwa M, Hikita N, Mochizuki M. Effects of FTY720, a novel immunosuppressant, on experimental autoimmune uveoretinitis in rats. Exp Eye Res. 2000;70(1):7–15. doi: 10.1006/exer.1999.0777. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 283. Commodaro AG, Peron JPS, Lopes CT, et al. Evaluation of experimental autoimmune uveitis in mice treated with FTY720. Invest Ophthalmol Vis Sci. 2010;51(5):2568–2574. doi: 10.1167/iovs.09-4769. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 284. Raveney BJ, Copland DA, Nicholson LB, Dick AD. Fingolimod (FTY720) as an acute rescue therapy for intraocular inflammatory disease. Arch Ophthalmol. 2008;126(10):1390–1395. doi: 10.1001/archopht.126.10.1390. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 285. Zarbin MA, Jampol LM, Jager RD, et al. Ophthalmic evaluations in clinical studies of fingolimod (FTY720) in multiple sclerosis. Ophthalmology. 2013;120(7):1432–1439. doi: 10.1016/j.ophtha.2012.12.040. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 286. Jain N, Bhatti MT. Fingolimod-associated macular edema: incidence, detection, and management. Neurology. 2012;78(9):672–680. doi: 10.1212/WNL.0b013e318248deea. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 287. Lin P, Suhler EB, Rosenbaum JT. The future of uveitis treatment. Ophthalmology. 2014;121(1):365–376. doi: 10.1016/j.ophtha.2013.08.029. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 288. Trittibach P, Barker SE, Broderick CA, et al. Lentiviral-vector-mediated expression of murine IL-1 receptor antagonist or IL-10 reduces the severity of endotoxin-induced uveitis. Gene Ther. 2008;15(22):1478–1488. doi: 10.1038/gt.2008.109. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 289. Tsai ML, Horng CT, Chen SL, Xiao X, Wang CH, Tsao YP. Suppression of experimental uveitis by a recombinant adeno-associated virus vector encoding interleukin-1 receptor antagonist. Mol Vis. 2009;15:1542–1552. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 290. Tian L, Yang P, Lei B, et al. AAV2-mediated subretinal gene transfer of hIFN-α attenuates experimental autoimmune uveoretinitis in mice. PLoS One. 2011;6(5):e19542. doi: 10.1371/journal.pone.0019542. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 291. Choi B, Hwang Y, Kwon HJ, et al. Tumor necrosis factor alpha small interfering RNA decreases herpes simplex virus-induced inflammation in a mouse model. J Dermatol Sci. 2008;52(2):87–97. doi: 10.1016/j.jdermsci.2008.05.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 292. Hou Y, Xing L, Fu S, et al. Down-regulation of inducible co-stimulator (ICOS) by intravitreal injection of small interfering RNA (siRNA) plasmid suppresses ongoing experimental autoimmune uveoretinitis in rats. Graefes Arch Clin Exp Ophthalmol. 2009;247(6):755–765. doi: 10.1007/s00417-008-1023-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 293. Iwata D, Kitamura M, Kitaichi N, et al. Prevention of experimental autoimmune uveoretinitis by blockade of osteopontin with small interfering RNA. Exp Eye Res. 2010;90(1):41–48. doi: 10.1016/j.exer.2009.09.008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 294. He Y, Jia SB, Zhang W, Shi JM. New options for uveitis treatment. Int J Ophthalmol. 2013;6(5):702–707. doi: 10.3980/j.issn.2222-3959.2013.05.29. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

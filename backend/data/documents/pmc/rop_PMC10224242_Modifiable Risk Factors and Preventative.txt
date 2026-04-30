@@ -1,0 +1,482 @@
+Source: PubMed Central (PMC)
+PMCID: PMC10224242
+Title: Modifiable Risk Factors and Preventative Strategies for Severe Retinopathy of Prematurity
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10224242/
+Year: 2023
+Disease: rop
+Priority: 2
+============================================================
+
+Life (Basel) . 2023 Apr 24;13(5):1075. doi: 10.3390/life13051075 
+ 
+ 
+ Modifiable Risk Factors and Preventative Strategies for Severe Retinopathy of Prematurity 
+ Minali Prasad 
+ Minali Prasad 
+ 
+ 1 Boston University Chobanian & Avedisian School of Medicine, Boston, MA 02118, USA 
+ Find articles by Minali Prasad 
+ 
+ 
+ 1 , Ellen C Ingolfsland 
+ Ellen C Ingolfsland 
+ 
+ 2 Department of Pediatrics, Division of Neonatology, University of Minnesota, Minneapolis, MN 55455, USA 
+ Find articles by Ellen C Ingolfsland 
+ 
+ 
+ 2 , Stephen P Christiansen 
+ Stephen P Christiansen 
+ 
+ 3 Departments of Ophthalmology and Pediatrics, Boston University Chobanian & Avedisian School of Medicine, Boston Medical Center, Boston, MA 02118, USA 
+ Find articles by Stephen P Christiansen 
+ 
+ 
+ 3, * 
+ 
+ Editor: Panagiotis Georgianos 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Boston University Chobanian & Avedisian School of Medicine, Boston, MA 02118, USA 
+ 
+ 2 Department of Pediatrics, Division of Neonatology, University of Minnesota, Minneapolis, MN 55455, USA 
+ 
+ 3 Departments of Ophthalmology and Pediatrics, Boston University Chobanian & Avedisian School of Medicine, Boston Medical Center, Boston, MA 02118, USA 
+ 
+ * Correspondence: spchris@bu.edu or stephen.christiansen@bmc.org ; Tel.: +1-(617)-638-4589 
+ 
+ Roles 
+ 
+ Panagiotis Georgianos : Academic Editor 
+ 
+ 
+ Received 2023 Mar 6; Revised 2023 Apr 13; Accepted 2023 Apr 13; Collection date 2023 May. 
+ 
+ © 2023 by the authors. 
+ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ ). 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC10224242  PMID: 37240719 
+ 
+ Abstract 
+ Severe ROP is characterized by the development of retinal fibrovascular proliferation that may progress to retinal detachment. The purpose of this report is to review five of the most common and well-studied perinatal and neonatal modifiable risk factors for the development of severe ROP. Hyperoxemia, hypoxia, and associated prolonged respiratory support are linked to the development of severe ROP. While there is a well-established association between clinical maternal chorioamnionitis and severe ROP, there is greater variability between histologic chorioamnionitis and severe ROP. Neonatal sepsis, including both bacterial and fungal subtypes, are independent predictors of severe ROP in preterm infants. Although there is limited evidence related to platelet transfusions, the risk of severe ROP increases with the number and volume of red blood cell transfusions. Poor postnatal weight gain within the first six weeks of life is also strongly tied to the development of severe ROP. We also discuss preventative strategies that may reduce the risk of severe ROP. Limited evidence-based studies exist regarding the protective effects of caffeine, human milk, and vitamins A and E. 
+ Keywords: severe retinopathy of prematurity, risk factor, protective strategies, oxygen, maternal chorioamnionitis, sepsis, blood transfusion, weight gain 1. Introduction 
+ Retinopathy of prematurity (ROP) is among the leading causes of blindness worldwide in children who are born preterm [ 1 , 2 ]. With advances in neonatal intensive care units and resuscitation efforts, more preterm babies survive and are at risk for developing ROP [ 3 , 4 , 5 ]. ROP is characterized by abnormal retinal blood vessel development in infants with low birth weight and low gestational age [ 6 ]. In modern cohorts, it affects 26.5–43% of infants screened for ROP in the United States, with 6–7% receiving treatment by laser or intravitreal anti-VEGF agents [ 7 , 8 ]. The disease burden is greater in developing regions, including India, China, Southeast Asia, and South America [ 4 ]. Compared to the US and other industrialized nations where ROP has a higher incidence in premature infants, babies from low- and middle-income countries, including those in Eastern Europe and Latin America, present with ROP at older ages and higher birthweights because of high mortality rates, which are secondary to variability in resources and differences in the availability of oxygen blending and saturation monitoring [ 9 , 10 ]. There is also considerable variation in the screening criteria between countries [ 11 ]. 
+ Currently, a two-phase hypothesis of the pathophysiology of ROP is accepted [ 5 ]. Phase 1, which typically occurs between 22 to 30 weeks post-conception, is characterized by retinal vascular attenuation. Compared to the naturally hypoxic intrauterine environment, the relatively hyperoxic environment experienced after birth suppresses the production and release of pro-angiogenic factors and growth factors, including vascular endothelial growth factor (VEGF) and insulin growth factor-1 (IGF-1), which results in an arrest of normal vascular development [ 6 , 12 , 13 ]. Phase 2, typically occurring between 31–36 weeks post-conception, is characterized by rapid vessel growth and neovascularization. The metabolically active retina at this post-conceptual age induces local hypoxia and increases VEGF and other pro-angiogenic factors with subsequent abnormal vessel proliferation. These vessels can form fibrous scars connecting the retina to the vitreous humor, and retraction of the scar tissue can lead to tractional retinal detachment and blindness [ 6 , 12 , 13 ]. 
+ ROP is diagnosed by means of indirect ophthalmoscopy, fluorescein angiography, or spectral domain optical coherence tomography [ 14 ]. The diagnosis and classification of ROP are based on location, severity, and vascular characteristics in the posterior pole, according to the International Committee for Classification of Retinopathy of Prematurity guidelines [ 15 , 16 , 17 , 18 , 19 ]. Three circumferential zones with increasing radii are centered on the optic nerve, which parallels the progression of retinal vascular development (from the optic nerve to the ora serrata) [ 17 ]. The severity of ROP ranges from a demarcation line between the avascular and vascular retina to a three-dimensional ridge, leading to extraretinal fibrovascular proliferation and, finally, to partial or total retinal detachment [ 17 ]. The retinal detachment is further characterized by its extent in clock-hour sectors [ 16 ]. Patients may also present with venous dilatation and arteriolar tortuosity. The presence of both vascular changes indicates “plus” disease and may be accompanied by iris vascular engorgement, pupillary rigidity, and vitreous haze [ 17 ]. “Pre-plus” disease is also characterized by vessel dilatation and tortuosity; however, the severity of these vascular changes is insufficient to diagnose “plus” disease [ 15 ]. Aggressive posterior ROP is characterized by rapidly progressive neovascularization with arteriovenous shunting and non-progressive plus disease [ 18 ]. 
+ The treatment of ROP has been guided by multiple landmark clinical trials over the past five decades, including the Cryotherapy for Retinopathy of Prematurity Cooperative Group (CRYO-ROP), the Early Treatment for Retinopathy of Prematurity Cooperative Group (ETROP), and the Bevacizumab Eliminates the Angiogenic Threat of Retinopathy of Prematurity (BEATROP) trials [ 20 , 21 , 22 ]. The preferred treatment for stage 3 ROP with plus disease in Zone I has transitioned from cryotherapy to argon and diode laser therapy or anti-VEGF therapy. In the BEATROP trial, intravitreal bevacizumab was found to be a superior treatment for stage 3+ retinopathy in zone I compared to laser therapy. Furthermore, unlike bevacizumab therapy, laser therapy impedes angiogenesis in the peripheral retina [ 20 ]. 
+ In the present work, we review the existing literature to highlight four preventative strategies and five modifiable perinatal and neonatal risk factors for the development of severe ROP, including oxygen exposure and associated respiratory support, maternal chorioamnionitis, red blood cell transfusions, sepsis, and poor weight gain. Notably, we exclude gestational age and birth weight as factors, as these are two of the most well-established predictive factors for severe ROP but are difficult to modify [ 23 ]. We define severe ROP as stage 3 ROP or higher, which clinically manifests as fibrovascular proliferation (stage 3) to retinal detachment (stages 4 and 5) [ 10 ]. While validated ranking tools do not exist to compare risk factors, Wu et al. reported the weighted importance of various clinical characteristics based on weight ratios from their deep learning system, and their rankings support the importance of the factors we have selected for further review [ 24 ]. 2. Perinatal and Neonatal Risk Factors 
+ 2.1. Oxygen Exposure and Associated Respiratory Support 
+ Hyperoxemia, hypoxemia, and substantial fluctuations in oxygen saturation are all correlated with the development of severe ROP. After birth, preterm infants are often resuscitated with supplemental oxygen therapy to increase arterial oxygen saturation. Previous studies found that a PaO 2 greater than 80 mmHg increased the incidence of severe ROP by an odds ratio of 3:1 during the second through fourth weeks of life [ 25 ]. In a retrospective study, infants with severe ROP were exposed to a higher fraction of inspired oxygen (FiO 2 ) and more frequent FiO 2 titrations compared to infants without ROP. The Extremely Low Gestational Age Newborn (ELGAN) study reported an increased risk of ROP in zone 1 and plus disease with a PaO 2 ≥ 100 mmHg or PCO 2 ≤ 50 mmHg within the first three days of life [ 26 ]. Additionally, infants with severe ROP experienced iatrogenic hyperoxemia more frequently than those without ROP [ 27 ]. Hypoxemia is also pathogenic. Srivatsa et. al. found that extremely low birth weight infants who developed severe ROP experienced more hypoxemic episodes and spent more time in the severe hypoxemic range (oxygen saturation values below 80%) compared to infants without ROP [ 26 ]. Additionally, when oxygen therapy is discontinued, the resulting fluctuations in oxygen tension may lead to ROP development due to increased angiogenic factor production secondary to hypoxia of the underdeveloped and avascular retina [ 13 , 28 , 29 ]. Hypoxia-sensitive angiogenic factors, including VEGF and KDR/Flk-1 (VEGFR-2), mediate the pathologic vasoproliferation seen in severe ROP [ 28 , 30 ]. 
+ Newborn animal models have been used to mimic these oxygen fluctuations and study oxygen-induced retinopathy (OIR). Penn et al. developed a rat model such that animals were exposed to alternating hyperoxia (50% FiO 2 ) and hypoxia (10% FiO 2 ) every 24 h for 2 weeks to recreate the transcutaneous oxygen levels of human infants who develop severe ROP [ 31 ]. Penn et al. found that rats exposed to 50%/10% cycles experienced greater retinal vasculature retardation compared to those exposed to 80%/40% cycles. Other studies using the 50/10 OIR model found an increased avascular retinal area compared to pups raised in room air [ 32 ]. Rat models found that hyperoxic fluctuations were more likely to stunt retinal vascular development and produce more severe ROP compared to hypoxic fluctuations [ 33 ]. 
+ Both hyperoxia and hypoxia can lead to reactive oxygen species (ROS) generation, which is involved in the pathophysiology of ROP [ 34 ]. Hyperoxia increases superoxide levels and lipid peroxidation, while hypoxia upregulates oxidative enzyme activity [ 34 ]. Furthermore, infants have low antioxidant activity to defend against oxidative stress [ 35 ]. Increased activity of nicotinamide adenine dinucleotide phosphate (NADPH) oxidase, endothelial nitric oxide synthase, and gene products expressed after the stabilization of hypoxia-inducible factors mediates Phase 1 of ROP by producing ROS that lead to delayed physiologic retinal vascular development and an avascular retina [ 34 , 35 ]. The intravitreal neovascularization seen in Phase 2 of ROP is mediated in part by supplemental oxygen increasing signaling transducer and activator of transcription 3 (STAT3) activity [ 34 ]. Other biomarkers of oxidative stress in ROP include oxidized phenylalanine, plasma 8-hydroxy 2-deoxyguanosine, and serum malondialdehyde [ 35 , 36 ]. 
+ The development of oxygen-induced ROP in human newborns has been studied in several randomized controlled clinical trials to determine the appropriate oxygen levels needed to lower the risk of ROP, including severe ROP [ 29 ]. In the Surfactant, Positive Airway Pressure, Pulse Oximetry Randomized Trial (SUPPORT), preterm infants were randomized to either immediate intubation and surfactant administration or continuous positive airway pressure (CPAP) [ 37 ]. They were also randomly assigned to oxygen saturation levels at either 85–89% or 91–95% [ 37 ]. There was a lower incidence of severe ROP reported among infants maintained at the lower oxygen saturation range [ 37 ]. However, both the SUPPORT and the Benefits of Oxygen Saturation Targeting Study II (BOOST-II) reported increased mortality with the lower oxygen saturation range compared to higher oxygen saturation ranges [ 5 , 38 ]. The American Academy of Pediatrics committee on fetuses and newborns recommended higher target oxygen saturation levels of 90–95% in infants with extremely low birth weights to avoid increased infant mortality, despite the increased risk of ROP from hyperoxia [ 39 ]. 
+ The Supplemental Therapeutic Oxygen for Prethreshold Retinopathy of Prematurity (STOP-ROP) trial found that there was no difference in the development of threshold ROP between preterm infants with prethreshold ROP in at least one eye when they were maintained at either conventional oxygen levels (89–94% SaO 2 ) or supplemental oxygen levels (96–99%) [ 40 ]. Results from the STOP-ROP trial also revealed that maintaining supplemental oxygen levels in infants without plus disease was protective against the progression to threshold ROP, compared to conventional oxygen levels [ 40 ]. However, infants maintained at supplemental oxygen levels were more likely to develop pneumonia and exacerbations of chronic lung disease, as well as to require oxygen, diuretics, or hospitalization at three months of age [ 40 ]. Overall, the optimal oxygen saturation levels to minimize severe ROP risk, as well as mortality, have yet to be determined. Raghuveer et al. suggested titrating oxygen saturation levels such that the infant is maintained under gradually increasing oxygen saturation levels as postmenstrual age increases to avoid early hyperoxia and later hypoxia [ 5 ]. 
+ Both independent of and cumulatively with oxygen exposure, positive pressure ventilation is an important modifiable risk factor for severe ROP [ 41 , 42 , 43 , 44 , 45 ]. The duration of mechanical ventilation is a risk factor for ROP development [ 46 , 47 ], and several studies have confirmed prolonged mechanical ventilation as an independent risk factor for ROP [ 48 , 49 , 50 , 51 , 52 , 53 ]. Similarly, it has been established that long-term use of a CPAP is predictive of treatment-requiring or severe ROP [ 41 , 42 , 43 , 44 , 45 ]. There were no significant differences in the incidence of ROP between infants treated with bi-level positive airway pressure or CPAP [ 54 ]. There was also no significant difference in the incidence of ROP among preterm infants maintained on bubble nasal CPAP or conventional nasal CPAP [ 55 ]. 
+ Preterm infants are often treated with steroids to treat inflammation related to bronchopulmonary dysplasia (BPD). The early administration of postnatal corticosteroids within the first seven days of life has been shown to decrease rates of ROP, including severe ROP, among survivors [ 56 ]. In contrast, the late administration (after the first seven days of life) of postnatal corticosteroids increased overall rates of severe ROP [ 57 ]. 2.2. Maternal Chorioamnionitis 
+ Maternal infection has been linked to preterm labor and delivery, as well as postnatal complications including periventricular leukomalacia, BPD, and cerebral palsy [ 58 ]. Chorioamnionitis is a maternal intra-amniotic infection characterized histologically by neutrophilic infiltration in the amnionic membrane, chorionic decidua, umbilical cord, or the chorionic plate [ 59 , 60 , 61 ]. It is diagnosed clinically by maternal fever in combination with maternal leukocytosis, purulent cervical discharge, or fetal tachycardia [ 59 , 62 ]. The most common organisms causing chorioamnionitis include Ureaplasma urealyticum , Mycoplasma hominis , Gardnerella vaginallis , bacteroides, and Group B streptococcus [ 59 ]. 
+ Antenatal inflammation plays a role in the pathogenesis of severe ROP [ 63 ]. Several studies have reported the association of clinical maternal chorioamnionitis with the development of any stage of ROP, including severe ROP, in preterm infants [ 60 , 64 , 65 , 66 ]. Premature infants screening positive for chorioamnionitis have a higher likelihood of developing aggressive posterior ROP compared to infants screening negative [ 67 ]. Infants with zone I ROP are more likely to screen positive for chorioamnionitis compared to infants with zone II ROP [ 67 ]. Although histologic chorioamnionitis (HCA) is classified by the extent and site of inflammation, severe ROP has been found to be significantly associated with all types of HCA [ 61 , 66 , 68 , 69 ]. Compared to placentas with vasculopathy, placentas with HCA have a higher risk of developing ROP [ 70 ]. An elevated maternal white blood cell count is also an independent risk factor for ROP [ 66 ]. 
+ However, the association between HCA and ROP is variable [ 71 ], with some studies reporting no significant association between the two [ 72 , 73 ]. Chen et al. reported that while the presence of placental bacteria or inflammation individually does not independently increase the risk of severe ROP in a preterm infant, the presence of both is associated with ROP in zone I [ 71 ]. On the contrary, the progression of acute histologic chorioamnionitis in infants without fetal growth restriction was found to be a protective factor against ROP in one study [ 74 ]. 2.3. Sepsis 
+ Postnatal infection is strongly associated with ROP. Neonatal sepsis is characterized by a bacterial or fungal infection within the first three months of life, with early-onset sepsis defined as sepsis within the first 72 h of life and late-onset sepsis defined as sepsis after the first 72 h of life [ 75 , 76 ]. The mechanisms by which sepsis promotes severe ROP are multifaceted. Sepsis leads to low retinal perfusion and ischemia. Sepsis causes white blood cells to form intravascular microthrombi, leading to obstruction and increased permeability in the retinal vasculature [ 75 ]. Oxidative stress causes vascular proliferation and necrosis, secondary to increased VEGF-2 and lipid peroxidation products, respectively [ 75 ]. Inflammatory cytokines such as interleukin-1β and transforming growth factor-β increase hypoxia-inducible factor-1α, which contributes to ROP [ 33 , 34 , 75 ]. 
+ Several studies have found an increased risk of the development of ROP, including severe ROP, among preterm infants with neonatal sepsis [ 77 , 78 , 79 , 80 , 81 , 82 , 83 , 84 , 85 , 86 , 87 , 88 ]. In a meta-analysis of 16 studies investigating the association between septicemia and ROP, Wang, et al. confirmed the existence of a significantly increased risk of any stage of ROP (odds ratio of 1.57, 95% CI = 1.31–1.89) and over twice the risk of severe ROP among preterm infants with sepsis (odds ratio of 2.33 95% CI = 1.21 to 4.51). Late sepsis (including both bacterial and fungal sources) was also found to be associated with ROP (odds ratio of 2.2, 95% CI = 1.5–3.2). Both early (odds ratio of 9.9, 95% CI = 1.2–83.4) and late bacterial sepsis (odds ratio of 2.0, 95% CI = 1.3–3.3) were also found to be associated with the development of ROP. 
+ Additionally, neonatal fungal infection is independently associated with threshold ROP in very low birth weight (1000–1500 g) infants [ 89 ]. Mittal et al. reported that Candida sepsis is an independent predictor of severe ROP. Candida albicans is known to cause increased prostaglandin production by endothelial cells, leading to increased endothelial permeability and decreased neutrophil adherence [ 90 ]. Systemic fungal infections may affect the developing retinal vasculature by increasing the production of proinflammatory cytokines that mediate angiogenesis, leading to severe ROP [ 91 ]. Compared to C. albicans sepsis, Candida parapsilosis sepsis is linked to a higher incidence of ROP [ 92 ]. 
+ Necrotizing enterocolitis (NEC) is a gastrointestinal inflammatory or ischemic disease found in premature neonates and is classically characterized by pneumatosis intestinalis and portal venous gas upon abdominal radiograph [ 93 ]. There is an increased risk of ROP and severe ROP in neonates with medical or surgical NEC compared to infants without NEC [ 53 , 84 , 94 , 95 ]. Furthermore, there is a higher risk of ROP, including severe ROP, with early-onset surgical NEC (occurring between 8–28 days of life) compared to later-onset surgical NEC (occurring later than 28 days of life) [ 94 ]. 2.4. Blood Transfusions and Erythropoietin 
+ Preterm infants often receive transfusions for severe anemia due to their immature hematopoietic systems and the need for frequent phlebotomy to monitor their critical statuses [ 96 ]. Adverse reactions include infections, hemodynamic complications, electrolyte imbalances, and necrotizing enterocolitis [ 97 ]. Blood products contain hemoglobin A, which has a lower affinity for oxygen and greater dissociation from oxygen compared to fetal hemoglobin or hemoglobin F [ 98 , 99 ]. This may predispose infants to retinal vascular injury from exposure to hyperoxia and oxygen free radicals [ 98 ]. Lower hemoglobin F levels after transfusions given during inpatient admission were found to be associated with ROP development [ 100 ]. The Cord Blood Transfusion in Preterm study was a proof-of-concept work reporting that preterm neonates receiving cord red blood cell transfusions had higher hemoglobin F levels compared to neonates given adult red blood cell transfusions. Of the 23 neonates included in this study, 8 developed ROP (stage I (n = 1), stage II (n = 5), and stage III (n = 2)). Both of the neonates who developed stage III ROP had received a single adult red cell blood cell transfusion which was not followed by cord red blood cell transfusions. The neonates with stage I or stage II ROP received cord red blood cell transfusions alone (Stage I) or both cord and adult red blood cell transfusions (4/5 Stage II cases) [ 101 ]. The BORN (umBilical blOod to tRansfuse preterm Neonates) is an ongoing multicenter randomized clinical trial investigating severe ROP development among neonates receiving allogeneic cord red blood cell transfusions [ 102 ]. Blood transfusions increase serum iron levels, which may increase ROS production and lipid peroxidation, further contributing to oxidative stress [ 103 ]. Inder et al. reported that elevated iron, transferrin, and ferritin levels from transfusions within the first week of life were associated with an increased risk of ROP development. Transfusions have also been suggested to induce a recipient inflammatory response, which may or may not be related to the duration of red blood cell storage prior to transfusion [ 104 ]. The duration and severity of the anemia preceding transfusion have also been shown to be risk factors for ROP development [ 105 , 106 ]. 
+ The reported association between the frequency or volume of red blood cell transfusions and the development of ROP is variable and inconsistent [ 107 , 108 , 109 , 110 , 111 , 112 ], although the majority of studies suggest an increased risk of severe ROP with an increased number [ 81 , 107 , 113 , 114 , 115 , 116 , 117 , 118 ] or volume [ 119 , 120 ] of transfusions in preterm infants [ 86 , 87 , 88 , 121 , 122 , 123 , 124 ]. The timing of the transfusion also appears to have an influence, with the administration of products within the first week [ 125 ], 10 days [ 126 ], 30 days [ 127 ], or 60 days [ 125 ] of life increasing the likelihood of the development of ROP. Hesse et al. found a significantly increased incidence of ROP among infants receiving more than 45 mL/kg of blood compared to infants receiving a lower volume. 
+ Erythropoietin (EPO) treatment is used to reduce the need for red blood cell transfusions in preterm or low birth weight infants [ 128 , 129 , 130 ]. However, as a hypoxia-sensitive pro-angiogenic factor, it may play a role in ROP development. Elevated endogenous serum EPO within the first two weeks of life has been linked to a significantly increased risk of developing ROP [ 129 , 131 ]. EPO administration, independent of the infant’s age, has been associated with severe ROP development, though there are conflicting data [ 128 ]. EPO may produce different effects on retinal vascularization depending on the phase of ROP [ 129 ]. Cochrane reviews have reported no increased risk of ROP with the early (before 8 days of life) initiation of erythropoietin. However, when compared to late administration (8–28 days of life), early EPO was associated with an increased risk of ROP [ 132 , 133 ]. The multi-site randomized Preterm Erythropoietin Neuroprotection Trial reported no difference in any ROP outcomes between infants receiving early high-dose EPO compared to those receiving a placebo [ 134 ]. 
+ Hengartner et al. also found that the administration of at least one platelet transfusion increased the risk of severe ROP. Similarly, Elgendy reported a significant association between infants receiving platelet transfusions and the development of ROP compared to infants not receiving platelet transfusions (22.3% vs. 19.2%, respectively, p < 0.001) [ 135 ]. Fresh frozen plasma (FFP) contains coagulation factors, platelets, and whole blood [ 136 ]. It also contains IGF-1 and IGF-1 binding protein-3, which have been shown to induce vascularization in retinopathy [ 137 , 138 ]. In a retrospective cohort study, Dani et al. reported that at least two FFP transfusions within the first two weeks of life have a protective effect against the development of ROP in preterm infants [ 137 ]. 2.5. Poor Postnatal Weight Gain 
+ Poor postnatal weight gain is a well-established, modifiable risk factor for ROP. The association between slow growth and ROP severity is best documented during the first weeks of life. Poor weight gain within the first six weeks of life has been shown to be associated with the development of severe ROP in several studies. Filho et al. reported that low weight gain within the first six weeks of life was an independent predictor of severe ROP among very low birth weight preterm neonates [ 139 ]. Wallace et al. similarly found an association between the poor rate of postnatal weight gain within the first six of weeks of life and the development of severe ROP [ 140 ]. Very low birth weight infants with severe ROP requiring laser treatment were found to have lower relative rates of weight gain in the second and fourth weeks of life compared to those with no ROP or mild ROP [ 141 ]. Anuk Ince et al. found that low weight gain in the fourth and sixth weeks of life was associated with severe ROP [ 142 ]. Kim et al. reported poor postnatal weight gain within the first two weeks of life as an independent risk factor for the development of severe ROP [ 143 ]. However, Ingolfsland et al. reported that slow growth from 32 to 37 weeks post-conception is also associated with ROP ≥ stage 2, suggesting that growth during both the avascular and neovascular phases of ROP development impacts the severity of ROP [ 144 ]. 
+ Several models have been developed and validated that expand on the traditional screening criteria for ROP to also include postnatal weight gain. The Weight, IGF, Neonatal Retinopathy of Prematurity (WINROP) study was the first to use postnatal weight gain in an algorithm that identified infants who had developed severe ROP [ 145 ]. The Postnatal Growth and Retinopathy of Prematurity Study (G-ROP) investigated the sensitivity of 6 screening criteria, including postnatal weight gain, within the first 39 days of life, in addition to birth weight and gestational age, in predicting type 1 and type 2 ROP. The G-ROP criteria, including postnatal weight gain, were more predictive than the screening criteria, which accounted only for birth weight and gestational age [ 7 , 146 ]. When applied to a cohort of premature infants with treatment-requiring ROP, the G-ROP model produced similar results [ 146 ]. The Colorado Retinopathy of Prematurity (CO-ROP) model required a weight gain of less than or equal to 650 g within the first month of life, in addition to low gestational age and birth weight, in order for ROP screening to be conducted [ 147 ]. The WINROP [ 148 ], G-ROP [ 146 , 149 , 150 , 151 , 152 , 153 , 154 ], and CO-ROP [ 155 , 156 , 157 ] algorithms, showing poor postnatal weight gain to be a sensitive and specific predictor of ROP severity, have been validated by a number of studies around the world. 3. Protective Strategies 
+ In addition to efforts to minimize the effects of known risk factors, there exist some evidence-based, preventative therapies and strategies that may protect against severe ROP. As ROP is a multifactorial disease, using a combination of preventative strategies may be necessary to significantly reduce the ROP risk. First, maintaining infants on continuous pulse oximetry within target saturation parameters is an important strategy to reduce ROP. Continuous pulse oximetry allows providers to prevent lengthy episodes of hypoxia and hyperoxia, both of which have been implicated in ROP pathogenesis. Bullard et al. attributes the decreased incidence of all stages of ROP in part to continuous pulse oximetry [ 158 , 159 ]. Quality improvement initiatives to improve adherence to target saturation goals have improved ROP outcomes in several NICUs [ 160 , 161 ]. Gentle et al. found that an increase in time at the goal oxygen saturation (90–95%) from 48.7% to 57.6% was accompanied by a decrease in the rate of death or severe ROP, from 32.1% to 18.0%. Similarly, Chow et al. reported that an O 2 management and monitoring program aiming to minimize the time in hyperoxia and hypoxia–hyperoxia fluctuations at a level 3 NICU reduced the incidence of stage III and stage IV ROP from 12.5% to 2.5%. Lau et al. used an algorithm to titrate the fraction of inspired oxygen such that each preterm infant was maintained within a target oxygen saturation range and reported a decreased risk of the development of severe ROP as well as the need for laser therapy [ 162 ]. 
+ Zhang et al. reported that caffeine therapy mitigated the pathological vaso-obliteration and angiogenesis mediated by hyperoxia and hypoxia, respectively, in oxygen-induced ROP [ 163 ]. They demonstrated that caffeine’s protective effect is mediated by A2AR-dependent and -independent mechanisms using murine knockout models [ 163 ]. However, Hussein et al. reported a significant association between greater cumulative caffeine dosage and the development of severe ROP requiring treatment [ 164 ]. Bhatt-Mehta et al. found no association between total caffeine exposure and the severity of ROP [ 165 ]. There was also no association between the duration of caffeine therapy and aggressive posterior ROP [ 166 ]. More research will be needed before caffeine treatment recommendations can be proposed for the management of infants at risk for severe ROP. 
+ Human milk includes exogenous and endogenous antioxidants that are reported to be protective against ROP development [ 5 , 167 , 168 ]. Additionally, human milk contains IGF-1, which is a proangiogenic factor that promotes retinal vascularization [ 168 ]. Human milk is rich in long-chain polyunsaturated fatty acids (LCPUFA), and previous studies have reported significantly decreased development of severe ROP among preterm infants given a fish oil lipid emulsion containing ω-3 LCPUFA and or a soybean lipid emulsion containing ω-6 LCPUFA [ 169 , 170 ]. ω-3 and ω-6 LCPUFA mediate normal retinal vascular development and support retinal metabolism and neuronal development, respectively [ 171 ]. Decreased adiponectin, which is also found in human milk, is associated with the loss of ω-3 LCPUFA’s protective effect on vascularization, delayed vascularization, and imbalances in retinal lipid levels, which cumulatively increase the risk of ROP development in murine models [ 171 ]. As has been summarized by several systemic reviews, there is conflicting evidence regarding the role of feedings with any human milk compared to mother’s milk in preventing severe ROP. Zhou et al. reported an overall reduced incidence of severe ROP among infants exclusively fed human milk versus any formula, those mainly fed human milk versus mainly formula, and those exclusively fed human milk versus exclusive formula [ 172 ]. Schanler et al. found a significantly lower incidence of stage 3 ROP among infants fed with mother’s milk (5.6%) compared to infants fed with donor human milk (19%) or preterm formula (14%). However, the meta-analysis conducted by Raghuveer et al. showed a decreased odds ratio of 0.31 for ROP when infants were fed with any human milk (95% confidence interval 0.19–0.49, p < 0.001) [ 5 , 172 , 173 ]. 
+ Vitamin A and E were both found to counteract the pathophysiology underlying oxygen-induced retinopathy in animal models [ 174 , 175 ]. Vitamin A inhibits neovascularization by decreasing VEGF, and Vitamin E is an antioxidant that attenuates oxidative stress [ 5 , 174 , 175 ]. Vitamin E was found to reduce the risk of severe ROP, but not any ROP, among very low birth weight infants in a Cochrane review [ 176 , 177 ]. Vitamin A therapy has been shown to reduce the incidence of any ROP, including severe ROP, and lower Vitamin A levels in umbilical cord blood were associated with ROP development [ 36 ]. However, results from two recent meta-analyses are conflicting, with one showing no significant differences in the incidence of ROP between preterm infants receiving vitamin A compared to those not receiving the supplementation (OR 0.65, 95% CI 0.29–1.48) and the other showing a significantly lower odds ratio for any ROP among those receiving Vitamin A (OR 0.27, 95% CI 0.15–0.48) [ 178 ]. 
+ Other preventative strategies include topical ketorolac and propranolol. There is mixed evidence regarding the effectiveness of topical ketorolac. A preliminary report (n = 59) demonstrated a lower risk of progression to severe ROP among preterm newborns treated with topical ketorolac compared to oxygen therapy [ 179 ]. In contrast, another small randomized clinical trial (n = 47) concluded that there was no significant difference in the risk of severe ROP development between preterm newborns treated with topical ketorolac tromethamine and a placebo eye drop [ 180 ]. This variability warrants further investigation into the use of topical ketorolac with larger, multi-center randomized clinical trials. Β-adrenergic blockers such as propranolol decrease hypoxia-induced VEGF [ 181 ]. While propranolol 0.1% eye micro-drops did not affect the progression of ROP, propranolol 0.2% eye micro-drops reduced the progression to severe ROP, and were found to be more effective when administered during the proliferative phase. Systemic reviews and meta-analyses are needed to establish the effectiveness of both topical ketorolac and propranolol [ 182 , 183 ]. 4. Conclusions and Future Directions 
+ Our review outlines five common and modifiable risk factors underlying the development of severe retinopathy of prematurity and summarizes the evidence behind several protective strategies to decrease the incidence or severity of ROP. Supplemental oxygen exposure, hyperoxemia, hypoxemia, and positive pressure ventilation are strongly correlated with severe ROP, and minimizing exposure to these risk factors through the use of non-invasive ventilation and maintaining target oxygen saturations are important strategies for risk reduction. Maternal chorioamnionitis and postnatal sepsis involve inflammation, and independently increase the risk of severe ROP. While an increased number and volume of red blood cell transfusions are strongly tied to the development of severe ROP, there is a relative paucity of conclusive literature regarding the role of erythropoietin and platelet transfusions in the pathogenesis of severe ROP. Poor postnatal weight gain is also associated with severe ROP and may be used as part of other screening algorithms. Evidence-based preventative strategies include caffeine, human milk, and vitamins A and E, but these require validation in larger multi-center studies. Further research regarding the differences in risk factors for the development of severe ROP among high-, middle-, and low-income countries, as well as the most effective treatment methods in countries with variability in their access to resources, is warranted to lower the prevalence of severe ROP in countries with an elevated disease burden. Author Contributions 
+ Conceptualization, M.P., E.C.I. and S.P.C.; writing—original draft preparation, M.P.; writing—review and editing, M.P., E.C.I. and S.P.C.; supervision, E.C.I. and S.P.C. All authors have read and agreed to the published version of the manuscript. Institutional Review Board Statement 
+ Not applicable. Informed Consent Statement 
+ Not applicable. Data Availability Statement 
+ Not applicable. Conflicts of Interest 
+ The authors declare no conflict of interest. Funding Statement 
+ This research received no external funding. Footnotes 
+ Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content. References 
+ 
+ 
+ 1. Steinkuller P.G., Du L., Gilbert C., Foster A., Collins M.L., Coats D.K. Childhood blindness. J. Am. Assoc. Pediatr. Ophthalmol. Strabismus. 1999;3:26–32. doi: 10.1016/S1091-8531(99)70091-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Daruich A., Bremond-Gignac D., Behar-Cohen F., Kermorvant E. Rétinopathie du prématuré: De la prévention au traitement. Méd. Sci. 2020;36:900–907. doi: 10.1051/medsci/2020163. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Bhende P. Retinopathy of prematurity. Indian J. Ophthalmol. 2020;68((Suppl. S1)):S10–S11. doi: 10.4103/ijo.IJO_2378_19. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Darlow B.A., Gilbert C. Retinopathy of prematurity—A world update. Semin. Perinatol. 2019;43:315–316. doi: 10.1053/j.semperi.2019.05.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Raghuveer T.S., Zackula R. Strategies to Prevent Severe Retinopathy of Prematurity: A 2020 Update and Meta-analysis. NeoReviews. 2020;21:e249–e263. doi: 10.1542/neo.21-4-e249. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Bashinsky A.L. Retinopathy of Prematurity. North Carol. Med. J. 2017;78:124–128. doi: 10.18043/ncm.78.2.124. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Binenbaum G., Bell E., Donohue P., Quinn G., Shaffer J., Tomlinson L., Ying G.-S., the G-ROP Study Group Development of Modified Screening Criteria for Retinopathy of Prematurity. JAMA Ophthalmol. 2018;136:1034–1040. doi: 10.1001/jamaophthalmol.2018.2753. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Khan S.I., Ryu W.Y., Wood E.H., Moshfeghi D.M., Shah J.K., Lambert S.R. Retinopathy of Prematurity Treatment Trends from 2003 to 2020 in the United States. Ophthalmology. 2022;129:1216–1218. doi: 10.1016/j.ophtha.2022.06.008. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. March de Ribot F., Miller A.M., Stevenson E., David Epley M.D., Matthew S., Pihlblad M.D., Koushik Tripathy A., Glasgow S., Prakalapakorn G., Hartnett M.E., et al. Retinopathy of Prematurity. 2022. [(accessed on 25 December 2022)]. Available online: https://eyewiki.aao.org/Retinopathy_of_Prematurity#cite_note-4 . 
+ 
+ 
+ 10. Gilbert C., Fielder A., Gordillo L., Quinn G., Semiglia R., Visintin P., Zin A., on behalf of the International NO-ROP Group Characteristics of Infants With Severe Retinopathy of Prematurity in Countries With Low, Moderate, and High Levels of Development: Implications for Screening Programs. Pediatrics. 2005;115:e518–e525. doi: 10.1542/peds.2004-1180. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Kościółek M., Kisielewska W., Ćwiklik-Wierzbowska M., Wierzbowski P., Gilbert C. Systematic review of the guidelines for retinopathy of prematurity. Eur. J. Ophthalmol. 2022;33:6286. doi: 10.1177/11206721221126286. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Chen J., Smith L.E.H. Retinopathy of prematurity. Angiogenesis. 2007;10:133–140. doi: 10.1007/s10456-007-9066-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Hartnett M.E., Penn J.S. Mechanisms and Management of Retinopathy of Prematurity. N. Engl. J. Med. 2012;367:2515–2526. doi: 10.1056/NEJMra1208129. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Cernichiaro-Espinosa L.A., Olguin-Manriquez F.J., Henaine-Berra A., Garcia-Aguirre G., Quiroz-Mercado H., Martinez-Castellanos M.A. New insights in diagnosis and treatment for Retinopathy of Prematurity. Int. Ophthalmol. 2016;36:751–760. doi: 10.1007/s10792-016-0177-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Gole G.A., Ells A.L., Katz X., Holmstrom G., Fielder A.R., Capone A., Flynn J.T., Good W.G., Holmes J.M., McNamara J.A., et al. The International Classification of Retinopathy of Prematurity Revisited. Arch. Ophthalmol. 2005;123:991–999. doi: 10.1001/archopht.123.7.991. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. The International Committee for the Classification of the Late Stages of Retinopathy of Prematurity An international classification of retinopathy of prematurity. II. The classification of retinal detachment. Arch Ophthalmol. 1987;105:906–912. doi: 10.1001/archopht.1987.01060070042025. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. The Committee for the Classification of Retinopathy of Prematurity An international classification of retinopathy of prematurity. Arch. Ophthalmol. 1984;102:1130–1134. doi: 10.1001/archopht.1984.01040030908011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Chiang M.F., Quinn G.E., Fielder A.R., Ostmo S.R., Chan R.P., Berrocal A., Binenbaum G., Blair M., Campbell J.P., Capone A., et al. International Classification of Retinopathy of Prematurity, Third Edition. Ophthalmology. 2021;128:e51–e68. doi: 10.1016/j.ophtha.2021.05.031. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Molinari A., Weaver D., Jalali S. Classifying retinopathy of prematurity. Community Eye Health. 2018;30:55–56. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Mintz-Hittner H.A., Kennedy K.A., Chuang A.Z. Efficacy of Intravitreal Bevacizumab for Stage 3+ Retinopathy of Prematurity. N. Engl. J. Med. 2011;364:603–615. doi: 10.1056/NEJMoa1007374. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Early Treatment for Retinopathy of Prematurity Cooperative Group Revised Indications for the Treatment of Retinopathy of Prematurity. JAMA Ophthalmol. 2003;121:1684–1694. doi: 10.1001/archopht.121.12.1684. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Cryotherapy for Retinopathy of Prematurity Cooperative Group Multicenter Trial of Cryotherapy for Retinopathy of Prematurity. Preliminary results. Arch. Ophthalmol. 1988;106:471–479. doi: 10.1001/archopht.1988.01060130517027. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Sabri M.C.K., Ells A.L., Lee E.Y., Dutta S., Vinekar A. Retinopathy of Prematurity: A Global Perspective and Recent Developments. Pediatrics. 2022;150:e2021053924. doi: 10.1542/peds.2021-053924. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Wu Q., Hu Y., Mo Z., Wu R., Zhang X., Yang Y., Liu B., Xiao Y., Zeng X., Lin Z., et al. Development and Validation of a Deep Learning Model to Predict the Occurrence and Severity of Retinopathy of Prematurity. JAMA Netw. Open. 2022;5:e2217447. doi: 10.1001/jamanetworkopen.2022.17447. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Flynn J.T., Bancalari E., Snyder E.S., Goldberg R.N., Feuer W., Cassady J., Schiffman J., Feldman H.I., Baghynski B., Buckley E., et al. A Cohort Study of Transcutaneous Oxygen Tension and the Incidence and Severity of Retinopathy of Prematurity. N. Engl. J. Med. 1992;326:1050–1054. doi: 10.1056/NEJM199204163261603. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Hauspurg A.K., Allred E.N., Vanderveen D.K., Chen M., Bednarek F.J., Cole C., Ehrenkranz R.A., Leviton A., Dammann O. Blood Gases and Retinopathy of Prematurity: The ELGAN Study. Neonatology. 2011;99:104–111. doi: 10.1159/000308454. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Srivatsa B., Hagan J.L., Clark R.H., Kupke K.G. Oxygenation Factors Associated with Retinopathy of Prematurity in Infants of Extremely Low Birth Weight. J. Pediatr. 2022;247:46–52.e4. doi: 10.1016/j.jpeds.2022.03.057. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Hartnett M.E. Pathophysiology and Mechanisms of Severe Retinopathy of Prematurity. Ophthalmology. 2015;122:200–210. doi: 10.1016/j.ophtha.2014.07.050. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Hartnett M.E., Lane R.H. Effects of oxygen on the development and severity of retinopathy of prematurity. J. Am. Assoc. Pediatr. Ophthalmol. Strabismus. 2013;17:229–234. doi: 10.1016/j.jaapos.2012.12.155. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Liu X., Wang W., Wang A.-r., Ning Q., Luo X.-p. Pathogenesis of retinal neovascularization in a rat model of oxygen fluctua-tions-induced retinopathy. Zhonghua Er Ke Za Zhi. 2007;45:7–13. [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Penn J.S., Henry M.M., Tolman B.L. Exposure to Alternating Hypoxia and Hyperoxia Causes Severe Proliferative Retinopathy in the Newborn Rat. Pediatr. Res. 1994;36:724–731. doi: 10.1203/00006450-199412000-00007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Elizabeth Hartnett M. The effects of oxygen stresses on the development of features of severe retinopathy of prematurity: Knowledge from the 50/10 OIR model. Doc. Ophthalmol. 2009;120:25–39. doi: 10.1007/s10633-009-9181-x. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. McColm J.R., Cunningham S., Wade J., Sedowofia K., Gellén B., Sharma T., McIntosh N., Fleck B.W. Hypoxic Oxygen Fluctuations Produce Less Severe Retinopathy than Hyperoxic Fluctuations in a Rat Model of Retinopathy of Prematurity. Pediatr. Res. 2004;55:107–113. doi: 10.1203/01.PDR.0000099772.66376.02. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Wang H., Zhang S.X., Hartnett M.E. Signaling Pathways Triggered by Oxidative Stress That Mediate Features of Severe Retinopathy of Prematurity. JAMA Ophthalmol. 2013;131:80–85. doi: 10.1001/jamaophthalmol.2013.986. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Graziosi A., Perrotta M., Russo D., Gasparroni G., D’egidio C., Marinelli B., Di Marzio G., Falconio G., Mastropasqua L., Volti G.L., et al. Oxidative Stress Markers and the Retinopathy of Prematurity. J. Clin. Med. 2020;9:2711. doi: 10.3390/jcm9092711. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Agrawal G., Dutta S., Prasad R., Dogra M.R. Fetal oxidative stress, micronutrient deficiency and risk of retinopathy of prematurity: A nested case-control study. Eur. J. Pediatr. 2021;180:1487–1496. doi: 10.1007/s00431-020-03896-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Support Study Group of the Eunice Kennedy Shriver NICHD Neonatal Research Network. Finer N.N., Carlo W.A., Walsh M.C., Rich W., Gantz M.G., Laptook A.R., Yoder B.A., Faix R.G., Das A., et al. Early CPAP versus Surfactant in Extremely Preterm Infants. N. Engl. J. Med. 2010;362:1970–1979. doi: 10.1056/nejmoa0911783. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Stenson B., Brocklehurst P., Tarnow-Mordi W. Increased 36-Week Survival with High Oxygen Saturation Target in Extremely Preterm Infants. N. Engl. J. Med. 2011;364:1680–1682. doi: 10.1056/NEJMc1101319. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Cummings J.J., Polin R.A., Watterberg K.L., Poindexter B., Benitz W.E., Eichenwald E.C., Stewart D.L., Aucott S.W., Goldsmith J.P., Puopolo K.M., et al. Oxygen Targeting in Extremely Low Birth Weight Infants. Pediatrics. 2016;138:e20161576. doi: 10.1542/peds.2016-1576. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. The STOP-ROP Multicenter Study Group Supplemental Therapeutic Oxygen for Prethreshold Retinopathy of Prematurity (STOP-ROP), A Randomized, Controlled Trial. I: Primary Outcomes. Pediatrics. 2000;105:295–310. doi: 10.1542/peds.105.2.295. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Arima M., Tsukamoto S., Fujiwara K., Murayama M., Fujikawa K., Sonoda K.-H. Late-onset Circulatory Collapse and Continuous Positive Airway Pressure are Useful Predictors of Treatment-requiring Retinopathy of Prematurity: A 9-year Retrospective Analysis. Sci. Rep. 2017;7:1–8. doi: 10.1038/s41598-017-04269-5. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Graziano R.M., Leone C.R., Cunha S.L., Pinheiro A.C. Prevalence of retinopathy of prematurity in very low birth weight infants. J. Pediatr. 1997;73:377–382. doi: 10.2223/JPED.564. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Pastro J., Toso B. Influence of oxygen in the development of retinopathy of prematurity. Rev. Bras. Enferm. 2019;72:592–599. doi: 10.1590/0034-7167-2018-0361. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Ni Y.-Q., Huang X., Xue K., Yu J., Ruan L., Shan H.-D., Xu G.-Z. Natural Involution of Acute Retinopathy of Prematurity Not Requiring Treatment: Factors Associated with the Time Course of Involution. Investig. Ophthalmol. Vis. Sci. 2014;55:3165–3170. doi: 10.1167/iovs.13-13744. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Suga S., Kyono Y., Kido T., Nakasone R., Abe S., Ashina M., Nozu K., Fujioka K. Long use of continuous positive airway pressure protects against the development of treatment-requiring retinopathy of prematurity. Sci. Rep. 2022;12:1–8. doi: 10.1038/s41598-022-11509-w. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Chang J.W. Risk factor analysis for the development and progression of retinopathy of prematurity. PLoS ONE. 2019;14:e0219934. doi: 10.1371/journal.pone.0219934. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Gursoy O.O., Gurer H.G., Eren C.Y., Ozgur P.E., Gursoy H. The association of various obstetric and perinatal factors with retinopathy of prematurity. Int. Ophthalmol. 2022;42:2719–2728. doi: 10.1007/s10792-022-02260-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Slidsborg C., Jensen A., Forman J.L., Rasmussen S., Bangsgaard R., Fledelius H.C., Greisen G., la Cour M. Neonatal Risk Factors for Treatment-Demanding Retinopathy of Prematurity: A Danish National Study. Ophthalmology. 2016;123:796–803. doi: 10.1016/j.ophtha.2015.12.019. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Al-Mulaabed S.W., Reyes Z.S., Bataclan F., Montemayor C., Ganesh A., Al-Zuhaibi S., Al-Waili H., Al-Wahibi F. Retinopathy of prematurity: Revisiting incidence and risk factors from Oman compared to other countries. Oman J. Ophthalmol. 2017;10:26–32. doi: 10.4103/ojo.OJO_234_2014. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Lin Y.-W., Chen S.-N., Muo C.-H., Sung F.C., Lin M.-H. Risk of Retinopathy of Prematurity in Preterm Births with Respiratory Distress Syndrome: A Population-Based Cohort Study in Taiwan. Int. J. Gen. Med. 2022;15:2149–2162. doi: 10.2147/IJGM.S344056. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Mansouri M., Hemmatpour S., Sedighiani F., Ghamari M., Chavoshi D. Factors Associated with Retinopathy of Prematurity in Hospitalized Preterm Infants in Sanandaj, Iran. Electron. Physician. 2016;8:2931–2934. doi: 10.19082/2931. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Shah V.A., Yeo C.L., Ling Y.L.F., Ho L.Y. Incidence, risk factors of retinopathy of prematurity among very low birth weight infants in Singapore. Ann. Acad. Med. Singap. 2005;34:169–178. [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Isaza G., Arora S., Bal M., Chaudhary V. Incidence of Retinopathy of Prematurity and Risk Factors Among Premature Infants at a Neonatal Intensive Care Unit in Canada. J. Pediatr. Ophthalmol. Strabismus. 2013;50:27–32. doi: 10.3928/01913913-20121127-02. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Pan R., Chen G.-Y., Wang J., Zhou Z.-X., Zhang P.-Y., Chang L.-W., Rong Z.-H. Bi-level Nasal Positive Airway Pressure (BiPAP) versus Nasal Continuous Positive Airway Pressure (CPAP) for Preterm Infants with Birth Weight Less Than 1500 g and Respiratory Distress Syndrome Following INSURE Treatment: A Two-center Randomized Controlled Trial. Curr. Med. Sci. 2021;41:542–547. doi: 10.1007/s11596-021-2372-8. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Shu X.X., Chen C., Tang J., Wang H. Clinical effect of bubble nasal continuous positive airway pressure versus conventional nasal continuous positive airway pressure in respiratory support for preterm infants with neonatal respiratory distress syndrome. Zhongguo Dang Dai Er Ke Za Zhi. 2018;20:433–437. doi: 10.7499/J.ISSN.1008-8830.2018.06.001. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Doyle L.W., Cheong J.L., Ehrenkranz R.A., Halliday H.L. Early (<8 days) systemic postnatal corticosteroids for prevention of bronchopulmonary dysplasia in preterm infants. Cochrane Database Syst. Rev. 2017;2017 doi: 10.1002/14651858. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Doyle L.W., Cheong J.L., Ehrenkranz R.A., Halliday H.L. Late (>7 days) systemic postnatal corticosteroids for prevention of bronchopulmonary dysplasia in preterm infants. Cochrane Database Syst. Rev. 2017;10:CD001145. doi: 10.1002/14651858.CD001145.pub4. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Romero R., Gomez R., Chaiworapongsa T., Conoscenti G., Kim J.C., Kim Y.M. The role of infection in preterm labour and delivery. Paediatr. Périnat. Epidemiol. 2001;15((Suppl. S2)):41–56. doi: 10.1046/j.1365-3016.2001.00007.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Tita A.T., Andrews W.W. Diagnosis and Management of Clinical Chorioamnionitis. Clin. Perinatol. 2010;37:339–354. doi: 10.1016/j.clp.2010.02.003. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Mitra S., Aune D., Speer C.P., Saugstad O.D. Chorioamnionitis as a Risk Factor for Retinopathy of Prematurity: A Systematic Review and Meta-Analysis. Neonatology. 2014;105:189–199. doi: 10.1159/000357556. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Kim S.Y., Choi C.W., Jung E., Lee J., Lee J.A., Kim H., Kim E.-K., Kim H.-S., Kim B.I., Choi J.-H. Neonatal Morbidities Associated with Histologic Chorioamnionitis Defined Based on the Site and Extent of Inflammation in Very Low Birth Weight Infants. J. Korean Med. Sci. 2015;30:1476–1482. doi: 10.3346/jkms.2015.30.10.1476. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Heine R.P., Puopolo K.M., Beigi R., Silverman N.S., El-Sayed Y.Y. Committee on Obstetric Practice Committee Opinion No. 712: Intrapartum Management of Intraamniotic Infection. Obstet. Gynecol. 2017;130:e95–e101. doi: 10.1097/aog.0000000000002236. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Dammann O., Brinkhaus M.-J., Bartels D.B., Dördelmann M., Dressler F., Kerk J., Dörk T., Dammann C.E. Immaturity, perinatal inflammation, and retinopathy of prematurity: A multi-hit hypothesis. Early Hum. Dev. 2009;85:325–329. doi: 10.1016/j.earlhumdev.2008.12.010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Villamor-Martinez E., Cavallaro G., Raffaeli G., Rahim O., Gulden S., Ghazi A.M.T., Mosca F., Degraeuwe P., Villamor E. Chorioamnionitis as a risk factor for retinopathy of prematurity: An updated systematic review and meta-analysis. PLoS ONE. 2018;13:e0205838. doi: 10.1371/journal.pone.0205838. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Seliga-Siwecka J.P., Kornacka M.K. Neonatal outcome of preterm infants born to mothers with abnormal genital tract colonisation and chorioamnionitis: A cohort study. Early Hum. Dev. 2013;89:271–275. doi: 10.1016/j.earlhumdev.2012.10.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Woo S.J., Park K.H., Jung H.J., Kim S.N., Choe G., Ahn J., Park K.H. Effects of maternal and placental inflammation on retinopathy of prematurity. Graefe’s Arch. Clin. Exp. Ophthalmol. 2011;250:915–923. doi: 10.1007/s00417-011-1648-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Ahn Y.J., Hong K.E., Yum H.R., Lee J.H., Kim K.S., Youn Y.A., Park S.H. Characteristic clinical features associated with aggressive posterior retinopathy of prematurity. Eye. 2017;31:924–930. doi: 10.1038/eye.2017.18. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Jašić M., Štifter S., Dessardo N.S., Rukavina K.M., Mustać E., Belci D. The relationship between histologic chorioamnionitis and decidual macrophage polarization and their influence on outcomes of neonates born before the 32nd gestational week. J. Matern. Neonatal Med. 2019;34:1535–1544. doi: 10.1080/14767058.2019.1638906. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Moscuzza F., Belcari F., Nardini V., Bartoli A., Domenici C., Cuttano A., Ghirri P., Boldrini A. Correlation between placental histopathology and fetal/neonatal outcome: Chorioamnionitis and funisitis are associated to intraventricular haemorrage and retinopathy of prematurity in preterm newborns. Gynecol. Endocrinol. 2010;27:319–323. doi: 10.3109/09513590.2010.487619. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Perrone S., Toti P., Toti M.S., Badii S., Becucci E., Gatti M.G., Marzocchi B., Picardi A., Buonocore G. Perinatal outcome and placental histological characteristics: A single-center study. J. Matern. Neonatal Med. 2012;25:110–113. doi: 10.3109/14767058.2012.664344. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Chen M.L., Allred E.N., Hecht J.L., Onderdonk A., VanderVeen D., Wallace D.K., Leviton A., Dammann O. Placenta Microbiology and Histology and the Risk for Severe Retinopathy of Prematurity. Investig. Opthalmol. Vis. Sci. 2011;52:7052–7058. doi: 10.1167/iovs.11-7380. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Tsiartas P., Kacerovsky M., Musilová I.K., Hornychová H., Cobo T., Sävman K., Jacobsson B. The association between histological chorioamnionitis, funisitis and neonatal outcome in women with preterm prelabor rupture of membranes. J. Matern. Neonatal Med. 2013;26:1332–1336. doi: 10.3109/14767058.2013.784741. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Fung G., Bawden K., Chow P., Yu V. Chorioamnionitis and outcome in extremely preterm infants. [(accessed on 27 December 2022)];Ann. Acad. Med. Singap. 2003 32:305–310. Available online: https://pubmed-ncbi-nlm-nih-gov.ezproxy.bu.edu/12854373/ [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Park J.Y., Park C.-W., Moon K.C., Park J.S., Jun J.K., Lee S.J., Kim J.H. Retinopathy of prematurity in infants without fetal growth restriction is decreased with the progression of acute histologic chorioamnionitis: New observation as a protective factor against retinopathy of prematurity. Placenta. 2021;104:161–167. doi: 10.1016/j.placenta.2020.12.007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Wang X., Tang K., Chen L., Cheng S., Xu H. Association between sepsis and retinopathy of prematurity: A systematic review and meta-analysis. BMJ Open. 2019;9:e025440. doi: 10.1136/bmjopen-2018-025440. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Ogundare E., Akintayo A., Aladekomo T., Adeyemi L., Ogunlesi T., Oyelami O. Presentation and outcomes of early and late onset neonatal sepsis in a Nigerian Hospital. Afr. Health Sci. 2019;19:2390–2399. doi: 10.4314/ahs.v19i3.12. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Araz-Ersan B., Kir N., Akarcay K., Aydinoglu-Candan O., Sahinoglu-Keskek N., Demirel A., Akdogan B., Çoban A. Epidemiological analysis of retinopathy of prematurity in a referral centre in Turkey. Br. J. Ophthalmol. 2013;97:15–17. doi: 10.1136/bjophthalmol-2011-301411. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Thomas K., Shah P., Canning R., Harrison A., Lee S., Dow K. Retinopathy of prematurity: Risk factors and variability in Canadian neonatal intensive care units. J. Neonatal-Perinatal Med. 2015;8:207–214. doi: 10.3233/NPM-15814128. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Al-Essa M., Azad M.R.V., Rashwan N. Threshold Stage of Retinopathy of Prematurity: Maternal and Neonatal Risk Factors. Ann. Saudi Med. 2000;20:129–131. doi: 10.5144/0256-4947.2000.129. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Carranza-Mendizabal C.S., Diaz-Manrique M., Mamani P.G.R., White M., Huancahuire-Vega S. Incidence and Risk Factors Associated with Retinopathy of Prematurity in Peru. Clin. Ophthalmol. 2021;15:2141–2148. doi: 10.2147/OPTH.S301439. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Bas A.Y., Demirel N., Koc E., Isik D.U., Hirfanoglu I.M., Tunc T. Incidence, risk factors and severity of retinopathy of prematurity in Turkey (TR-ROP study): A prospective, multicentre study in 69 neonatal intensive care units. Br. J. Ophthalmol. 2018;102:1711–1716. doi: 10.1136/bjophthalmol-2017-311789. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Quinn G.E., Gilbert C., Darlow B.A., Zin A. Retinopathy of prematurity: An epidemic in the making. Chin. Med. J. 2010;123:2929–2937. doi: 10.3760/cma.j.issn.0366-6999.2010.20.033. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Rivera-Rueda M.A., A Fernández-Carrocera L., Salgado-Valladares M.B., Cordero-González G., Coronado-Zarco I.A., Cardona-Pérez J.A. Retinopathy of prematurity, frequency and risk factors in very low birth weight infants. Bol. Med. Hosp Infant Mex. 2020;77:135–141. doi: 10.24875/BMHIM.19000203. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Goldstein G.P., Leonard S.A., Kan P., Koo E.B., Lee H.C., Carmichael S.L. Prenatal and postnatal inflammation-related risk factors for retinopathy of prematurity. J. Perinatol. 2019;39:964–973. doi: 10.1038/s41372-019-0357-2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Dogra M.R., Katoch D. Clinical features and characteristics of retinopathy of prematurity in developing countries. Ann. Eye Sci. 2018;3:4. doi: 10.21037/aes.2017.12.08. [ DOI ] [ Google Scholar ] 
+ 
+ 86. Chawla D., Agarwal R., Deorari A.K., Paul V.K. Retinopathy of Prematurity. Indian J. Pediatr. 2008;75:73–76. doi: 10.1007/s12098-008-0011-z. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Chawla D., Agarwal R., Deorari A., Paul V.K., Chandra P., Azad R.V. Retinopathy of Prematurity. Indian J. Pediatr. 2012;79:501–509. doi: 10.1007/s12098-010-0279-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Aggarwal R., Agarwal R., Deorari A.K., Paul V.K. Retinopathy of prematurity. Indian J. Pediatr. 2002;69:83–86. doi: 10.1007/BF02723783. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Manzoni P., Maestri A., Leonessa M., Mostert M., Farina D., Gomirato G. Fungal and bacterial sepsis and threshold ROP in preterm very low birth weight neonates. J. Perinatol. 2006;26:23–30. doi: 10.1038/sj.jp.7211420. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Filler S.G., Ibe B.O., Luckett P.M., Raj J.U., Edwards J.E. Candida albicans Stimulates Endothelial Cell Eicosanoid Production. J. Infect. Dis. 1991;164:928–935. doi: 10.1093/infdis/164.5.928. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. Mittal M., Dhanireddy R., Higgins R.D. Candida Sepsis and Association With Retinopathy of Prematurity. Pediatrics. 1998;101:654–657. doi: 10.1542/peds.101.4.654. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. Hua S., Huang J., Wu Z., Feng Z. A comparison study between Candida parapsilosis sepsis and Candida albicans sepsis in preterm infants. [(accessed on 29 December 2022)];Turk. J. Pediatr. 2013 54:502–508. Available online: https://pubmed-ncbi-nlm-nih-gov.ezproxy.bu.edu/23427514/ [ PubMed ] [ Google Scholar ] 
+ 
+ 93. Rich B.S., Dolgin S.E. Necrotizing Enterocolitis. Pediatr. Rev. 2017;38:552–559. doi: 10.1542/pir.2017-0002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 94. Fundora J.B., Binenbaum G., Tomlinson L., Yu Y., Ying G.-S., Maheshwari A., Donohue P. Association of Surgical Necrotizing Enterocolitis and its Timing with Retinopathy of Prematurity. Am. J. Perinatol. 2021 doi: 10.1055/s-0041-1733785. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 95. Fullerton B.S., Hong C.R., Velazco C.S., Mercier C.E., Morrow K.A., Edwards E.M., Ferrelli K.R., Soll R.F., Modi B.P., Horbar J.D., et al. Severe neurodevelopmental disability and healthcare needs among survivors of medical and surgical necrotizing enterocolitis: A prospective cohort study. J. Pediatr. Surg. 2018;53:101–107. doi: 10.1016/j.jpedsurg.2017.10.029. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 96. Widness J.A. Pathophysiology of Anemia During the Neonatal Period, Including Anemia of Prematurity. Neoreviews. 2008;9:e520–e525. doi: 10.1542/neo.9-11-e520. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 97. Fanaro S. Blood transfusion in infants: Techniques and adverse events. J. Matern. Neonatal Med. 2011;24:47–49. doi: 10.3109/14767058.2011.607586. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 98. Uberos J., Fernandez-Marin E., Campos-Martínez A., Ruiz-López A., García-Serrano J.L. Blood products transfusion and retinopathy of prematurity: A cohort study. Acta Ophthalmol. 2022;101:e294–e301. doi: 10.1111/aos.15269. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 99. De Halleux V., Truttmann A., Gagnon C., Bard H. The effect of blood transfusion on the hemoglobin oxygen dissociation curve of very early preterm infants during the first week of life. Semin. Perinatol. 2002;26:411–415. doi: 10.1053/sper.2002.37313. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 100. Stutchfield C.J., Jain A., Odd D., Williams C., Markham R. Foetal haemoglobin, blood transfusion, and retinopathy of prematurity in very preterm infants: A pilot prospective cohort study. Eye. 2017;31:1451–1455. doi: 10.1038/eye.2017.76. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 101. Teofili L., Papacci P., Orlando N., Bianchi M., Molisso A., Purcaro V., Valentini C.G., Giannantonio C., Serrao F., Chiusolo P., et al. Allogeneic cord blood transfusions prevent fetal haemoglobin depletion in preterm neonates. Results of the CB-TrIP study. Br. J. Haematol. 2020;191:263–268. doi: 10.1111/bjh.16851. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 102. Teofili L., Papacci P., Orlando N., Bianchi M., Pasciuto T., Mozzetta I., Palluzzi F., Giacò L., Giannantonio C., Remaschi G., et al. BORN study: A multicenter randomized trial investigating cord blood red blood cell transfusions to reduce the severity of retinopathy of prematurity in extremely low gestational age neonates. Trials. 2022;23:1–10. doi: 10.1186/s13063-022-06949-8. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 103. Inder T., Clemett R., Austin N., Graham P., Darlow B. High iron status in very low birth weight infants is associated with an increased risk of retinopathy of prematurity. J. Pediatr. 1997;131:541–544. doi: 10.1016/S0022-3476(97)70058-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 104. Hod E.A. Red blood cell transfusion-induced inflammation: Myth or reality. ISBT Sci. Ser. 2015;10((Suppl. S1)):188–191. doi: 10.1111/voxs.12108. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 105. Tandon M., Ranjan R., Muralidharan U., Kannan A. Influence of Anaemia on Multifactorial Disease Retinopathy of Prematurity: A Prospective Observational Study. Cureus. 2022;14:e27877. doi: 10.7759/cureus.27877. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 106. Lundgren P., Athikarisamy S.E., Patole S., Lam G.C., Smith L.E., Simmer K. Duration of anaemia during the first week of life is an independent risk factor for retinopathy of prematurity. Acta Paediatr. 2017;107:759–766. doi: 10.1111/apa.14187. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 107. Hengartner T., Adams M., Pfister R.E., Snyers D., McDougall J., Waldvogel S., Held-Egli K., Spring L., Rogdo B., Riedel T., et al. Associations between Red Blood Cell and Platelet Transfusions and Retinopathy of Prematurity. Neonatology. 2020;117:562–568. doi: 10.1159/000512020. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 108. Kirpalani H., Whyte R.K., Andersen C., Asztalos E.V., Heddle N., Blajchman M.A., Peliowski A., Rios A., LaCorte M., Connelly R., et al. The premature infants in need of transfusion (pint) study: A randomized, controlled trial of a restrictive (LOW) versus liberal (HIGH) transfusion threshold for extremely low birth weight infants. J. Pediatr. 2006;149:301–307.e3. doi: 10.1016/j.jpeds.2006.05.011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 109. Bell E.F., Strauss R.G., Widness J.A., Mahoney L.T., Mock D.M., Seward V.J., Cress G.A., Johnson K.J., Kromer I.J., Zimmerman M.B. Randomized Trial of Liberal Versus Restrictive Guidelines for Red Blood Cell Transfusion in Preterm Infants. Pediatrics. 2005;115:1685–1691. doi: 10.1542/peds.2004-1884. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 110. Chen H.-L., Tseng H.-I., Lu C.-C., Yang S.-N., Fan H.-C., Yang R.-C. Effect of Blood Transfusions on the Outcome of Very Low Body Weight Preterm Infants under Two Different Transfusion Criteria. Pediatr. Neonatol. 2009;50:110–116. doi: 10.1016/S1875-9572(09)60045-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 111. Brooks S.E., Marcus D.M., Gillis D., Pirie E., Johnson M.H., Bhatia J. The Effect of Blood Transfusion Protocol on Retinopathy of Prematurity: A Prospective, Randomized Study. Pediatrics. 1999;104:514–518. doi: 10.1542/peds.104.3.514. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 112. Howarth C., Banerjee J., Aladangady N. Red Blood Cell Transfusion in Preterm Infants: Current Evidence and Controversies. Neonatology. 2018;114:7–16. doi: 10.1159/000486584. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 113. Hakeem A.H.A.A., Mohamed G.B., Othman M.F. Retinopathy of prematurity: A study of prevalence and risk factors. Middle East Afr. J. Ophthalmol. 2012;19:289–294. doi: 10.4103/0974-9233.97927. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 114. Azami M., Jaafari Z., Rahmati S., Farahani A.D., Badfar G. Prevalence and risk factors of retinopathy of prematurity in Iran: A systematic review and meta-analysis. BMC Ophthalmol. 2018;18:83. doi: 10.1186/s12886-018-0732-3. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 115. Ghirardello S., Dusi E., Cortinovis I., Villa S., Fumagalli M., Agosti M., Milani S., Mosca F. Effects of Red Blood Cell Transfusions on the Risk of Developing Complications or Death: An Observational Study of a Cohort of Very Low Birth Weight Infants. Am. J. Perinatol. 2017;34:88–95. doi: 10.1055/s-0036-1584300. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 116. Valieva O.A., Strandjord T.P., Mayock D.E., Juul S.E. Effects of Transfusions in Extremely Low Birth Weight Infants: A Retrospective Study. J. Pediatr. 2009;155:331–337.e1. doi: 10.1016/j.jpeds.2009.02.026. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 117. Schecter L., Medina A., Alexander J., Sundararajan S. Impact of early postnatal exposure of red blood cell transfusions on the severity of retinopathy of prematurity. J. Neonatal-Perinatal Med. 2021;14:527–535. doi: 10.3233/NPM-200679. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 118. Englert J.A., Saunders R.A., Purohit D., Hulsey T.C., Ebeling M. The Effect of Anemia on Retinopathy of Prematurity in Extremely Low Birth Weight Infants. J. Perinatol. 2001;21:21–26. doi: 10.1038/sj.jp.7200511. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 119. Hesse L., Eberl W., Schlaud M., Poets C.F. Blood transfusion. Iron load and retinopathy of prematurity. Eur. J. Pediatr. 1997;156:465–470. doi: 10.1007/s004310050641. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 120. Knee D., Knoop S., Davis A.T., Rawson B., Dicarlo A., Olivero R. Outcomes after implementing restrictive blood transfusion criteria in extremely premature infants. J. Perinatol. 2019;39:1089–1097. doi: 10.1038/s41372-019-0408-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 121. Zarei M., Bazvand F., Ebrahimiadib N., Roohipoor R., Karkhaneh R., Dastjani A.F., Fouladi M.I., Esfahani M.R., Khodabande A., Davoudi S., et al. Prevalence and Risk Factors of Retinopathy of Prematurity in Iran. J. Ophthalmic Vis. Res. 2019;14:291–298. doi: 10.18502/jovr.v14i3.4785. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 122. Siswanto J.E., Dijk P.H., Bos A.F., Sitorus R.S., Adisasmita A.C., Ronoatmodjo S., Sauer P.J.J. How to prevent ROP in preterm infants in Indonesia? Health Sci. Rep. 2021;4:e219. doi: 10.1002/hsr2.219. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 123. Romagnoli C. Risk factors and growth factors in ROP. Early Hum. Dev. 2009;85:S79–S82. doi: 10.1016/j.earlhumdev.2009.08.026. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 124. Dani C., Coviello C., Panin F., Frosini S., Costa S., Purcaro V., Lepore D., Vento G. Incidence and risk factors of retinopathy of prematurity in an Italian cohort of preterm infants. Ital. J. Pediatr. 2021;47:1–6. doi: 10.1186/s13052-021-01011-w. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 125. Dani C., Reali M., Bertini G., Martelli E., Pezzati M., Rubaltelli F. The role of blood transfusions and iron intake on retinopathy of prematurity. Early Hum. Dev. 2001;62:57–63. doi: 10.1016/S0378-3782(01)00115-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 126. Lust C., Vesoulis Z., Jackups R., Jr., Liao S., Rao R., Mathur A.M. Early red cell transfusion is associated with development of severe retinopathy of prematurity. J. Perinatol. 2018;39:393–400. doi: 10.1038/s41372-018-0274-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 127. Wang Y.-C., Chan O.-W., Chiang M.-C., Yang P.-H., Chu S.-M., Hsu J.-F., Fu R.-H., Lien R. Red Blood Cell Transfusion and Clinical Outcomes in Extremely Low Birth Weight Preterm Infants. Pediatr. Neonatol. 2017;58:216–222. doi: 10.1016/j.pedneo.2016.03.009. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 128. Ohlsson A., Aher S.M. Early erythropoietin for preventing red blood cell transfusion in preterm and/or low birth weight infants. Cochrane Database Syst. Rev. 2014;2:CD004863. doi: 10.1002/14651858.CD004863.pub4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 129. Rivera J.C., Holm M., Austeng D., Morken T.S., Zhou T., Beaudry-Richard A., Sierra E.M., Dammann O., Chemtob S. Retinopathy of prematurity: Inflammation, choroidal degeneration, and novel promising therapeutic strategies. J. Neuroinflamm. 2017;14:1–14. doi: 10.1186/s12974-017-0943-1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 130. Fahim N.M., Georgieff M.K., Zhang L., Naisbitt S., Rao R.B., Inder T.E. Endogenous erythropoietin concentrations and association with retinopathy of prematurity and brain injury in preterm infants. PLoS ONE. 2021;16:e0252655. doi: 10.1371/journal.pone.0252655. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 131. Holm M., Skranes J., Dammann O., Fichorova R.N., Allred E.N., Leviton A. Systemic endogenous erythropoietin and associated disorders in extremely preterm newborns. Arch. Dis. Child. Fetal Neonatal Ed. 2016;101:F458–F463. doi: 10.1136/archdischild-2015-309127. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 132. Aher S.M., Ohlsson A. Late erythropoiesis-stimulating agents to prevent red blood cell transfusion in preterm or low birth weight infants. Cochrane Database Syst. Rev. 2020;2020:CD004868. doi: 10.1002/14651858.CD004868.pub6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 133. Ohlsson A., Aher S.M. Early erythropoiesis-stimulating agents in preterm or low birth weight infants. Cochrane Database Syst. Rev. 2020;2:CD004863. doi: 10.1002/14651858.CD004863.pub6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 134. Juul S.E., Comstock B.A., Wadhawan R., Mayock D.E., Courtney S.E., Robinson T., Ahmad K.A., Bendel-Stenzel E., Baserga M., LaGamma E.F., et al. A Randomized Trial of Erythropoietin for Neuroprotection in Preterm Infants. N. Engl. J. Med. 2020;382:233–243. doi: 10.1056/NEJMoa1907423. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 135. Elgendy M.M., Durgham R., Othman H.F., Heis F., Abu-Shaweesh G., Saker F., Karnati S., Aly H. Platelet Transfusion and Outcomes of Preterm Infants: A Cross-Sectional Study. Neonatology. 2021;118:425–433. doi: 10.1159/000515900. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 136. Farsad B.F., Salehi H. Cardiovascular Drugs and Hemostasis. Pract. Cardiol. Princ. Approaches. 2022:701–729. doi: 10.1016/b978-0-323-80915-3.00032-6. [ DOI ] [ Google Scholar ] 
+ 
+ 137. Dani C., Poggi C., Bresci C., Corsini I., Frosini S., Pratesi S. Early fresh-frozen plasma transfusion decreases the risk of retinopathy of prematurity. Transfusion. 2013;54:1002–1007. doi: 10.1111/trf.12432. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 138. Lofqvist C., Chen J., Connor K.M., Smith A.C.H., Aderman C.M., Liu N., Pintar J.E., Ludwig T., Hellstrom A., Smith L.E.H. IGFBP3 suppresses retinopathy through suppression of oxygen-induced vessel loss and promotion of vascular regrowth. Proc. Natl. Acad. Sci. USA. 2007;104:10589–10594. doi: 10.1073/pnas.0702031104. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 139. Filho J.B.F., Bonomo P.P., Maia M., Procianoy R.S. Weight gain measured at 6 weeks after birth as a predictor for severe retinopathy of prematurity: Study with 317 very low birth weight preterm babies. Graefe’s Arch. Clin. Exp. Ophthalmol. 2008;247:831–836. doi: 10.1007/s00417-008-1012-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 140. Wallace D.K., Kylstra J.A., Phillips S.J., Hall J.G. Poor postnatal weight gain: A risk factor for severe retinopathy of prematurity. J. Am. Assoc. Pediatr. Ophthalmol. Strabismus. 2000;4:343–347. doi: 10.1067/mpa.2000.110342. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 141. Wongnophirun A., Khuwuthyakorn V., Tantiprabha W., Wiwatwongwana A. Association between severe retinopathy of prematurity and postnatal weight gain in very low-birthweight infants at Chiang Mai University Hospital, Thailand. Ann. Trop. Paediatr. Int. Child Health. 2019;40:85–91. doi: 10.1080/20469047.2019.1631588. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 142. Ince D.A., Gülcan H., Hanta D., Ecevit A., Akkoyun I., Kurt A., Tarcan A. Poor postnatal weight gain predicts stage 3+ retinopathy of prematurity in very low birth weight infants. [(accessed on 31 December 2022)];Turk. J. Pediatr. 2013 55:304–308. Available online: https://pubmed-ncbi-nlm-nih-gov.ezproxy.bu.edu/24217077/ [ PubMed ] [ Google Scholar ] 
+ 
+ 143. Kim J., Jin J.Y., Kim S.S. Postnatal weight gain in the first two weeks as a predicting factor of severe retinopathy of prematurity requiring treatment. Korean J. Pediatr. 2015;58:52–59. doi: 10.3345/kjp.2015.58.2.52. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 144. Ingolfsland E.C., Haapala J.L., Buckley L.A., Demarath E.W., Guiang S.F., Ramel S.E. Late Growth and Changes in Body Composition Influence Odds of Developing Retinopathy of Prematurity among Preterm Infants. Nutrients. 2019;12:78. doi: 10.3390/nu12010078. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 145. Löfqvist C. Longitudinal Postnatal Weight and Insulin-like Growth Factor I Measurements in the Prediction of Retinopathy of Prematurity. Arch. Ophthalmol. 2006;124:1711–1718. doi: 10.1001/archopht.124.12.1711. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 146. Gunes A.O., Topcuoglu S., Celik G., Kizilay O., Akyurekli M.A.R., Karadag N., Ozalkaya E., Karatekin G. G-ROP criteria for predicting retinopathy of prematurity among neonates with different birth weight percentiles. J. Am. Assoc. Pediatr. Ophthalmol. Strabismus. 2022;26:309.e1–309.e5. doi: 10.1016/j.jaapos.2022.08.527. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 147. Cao J.H., Wagner B., McCourt E.A., Cerda A., Sillau S., Palestine A., Enzenauer R.W., Mets-Halgrimson R.B., Paciuc-Beja M., Gralla J., et al. The Colorado–retinopathy of prematurity model (CO-ROP): Postnatal weight gain screening algorithm. J. Am. Assoc. Pediatr. Ophthalmol. Strabismus. 2016;20:19–24. doi: 10.1016/j.jaapos.2015.10.017. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 148. Ueda K., Miki A., Nakai S., Yanagisawa S., Nomura K., Nakamura M. Prediction of severe retinopathy of prematurity using the weight gain, insulin-like growth factor 1, and neonatal retinopathy of prematurity algorithm in a Japanese population of preterm infants. Jpn. J. Ophthalmol. 2020;64:223–227. doi: 10.1007/s10384-019-00709-z. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 149. Ahmed I.S.H., Aclimandos W., Azad N., Zaheer N., Barry J.S., Ambulkar H., Badeeb A., Osman I.M., Rashad S., Helaly H.A. The Postnatal Growth and Retinopathy of Prematurity Model: A Multi-institutional Validation Study. Ophthalmic Epidemiol. 2021;29:296–301. doi: 10.1080/09286586.2021.1939885. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 150. Chinwuba I., Hubbard G.B., Rao P., Weil N., Hutchinson A.K. Application of the Postnatal Growth and Retinopathy of Prematurity (G-ROP) criteria at a tertiary referral hospital. J. Am. Assoc. Pediatr. Ophthalmol. Strabismus. 2022;26:66.e1–66.e4. doi: 10.1016/j.jaapos.2021.08.309. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 151. Binenbaum G., Tomlinson L.A., Campomanes A.G.D.A., Bell E.F., Donohue P., Morrison D., Quinn G.E., Repka M.X., Rogers D., Yang M.B., et al. Validation of the Postnatal Growth and Retinopathy of Prematurity Screening Criteria. JAMA Ophthalmol. 2020;138:31–37. doi: 10.1001/jamaophthalmol.2019.4517. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 152. Huang C.-W., Yeh P.-T., Tsao P.-N., Chou H.-C., Chen C.-Y., Yen T.-A., Huang H.-C., Lai T.-T. Validation of the Postnatal Growth and Retinopathy of Prematurity Screening Criteria in a Taiwanese Cohort. Am. J. Ophthalmol. 2021;237:22–31. doi: 10.1016/j.ajo.2021.11.007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 153. Vinayahalingam N., McDougall J., Ahrens O., Ebneter A. Retrospective validation of the postnatal Growth and Retinopathy of Prematurity (G-ROP) criteria in a Swiss cohort. BMC Ophthalmol. 2022;22:1–5. doi: 10.1186/s12886-021-02227-4. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 154. Shiraki A., Fukushima Y., Kawasaki R., Sakaguchi H., Mitsuhashi M., Ineyama H., Hatsukawa Y., Nishida K. Retrospective Validation of the Postnatal Growth and Retinopathy of Prematurity (G-ROP) Criteria in a Japanese Cohort. Am. J. Ophthalmol. 2019;205:50–53. doi: 10.1016/j.ajo.2019.03.027. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 155. Cao J.H., Wagner B., Cerda A., McCourt E.A., Palestine A., Enzenauer R.W., Braverman R.S., Wong R.K., Tsui I., Gore C., et al. Colorado retinopathy of prematurity model: A multi-institutional validation study. J. Am. Assoc. Pediatr. Ophthalmol. Strabismus. 2016;20:220–225. doi: 10.1016/j.jaapos.2016.01.017. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 156. McCourt E.A., Ying G.-S., Lynch A.M., Palestine A.G., Wagner B.D., Wymore E., Tomlinson L.A., Binenbaum G. G-ROP Study Group Validation of the Colorado Retinopathy of Prematurity Screening Model. JAMA Ophthalmol. 2018;136:409–416. doi: 10.1001/jamaophthalmol.2018.0376. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 157. Huang J.M., Lin X., He Y.-G., Cao J.H. Colorado Retinopathy of Prematurity Screening Algorithm (CO-ROP): A validation study at a tertiary care center. J. Am. Assoc. Pediatr. Ophthalmol. Strabismus. 2017;21:152–155. doi: 10.1016/j.jaapos.2017.03.009. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 158. Bullard S.R., Donahue S.P., Feman S.S., Sinatra R.B., Walsh W.F. The decreasing incidence and severity of retinopathy of prematurity. J. Am. Assoc. Pediatr. Ophthalmol. Strabismus. 1999;3:46–52. doi: 10.1016/S1091-8531(99)70094-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 159. Cayabyab R., Ramanathan R. Retinopathy of Prematurity: Therapeutic Strategies Based on Pathophysiology. Neonatology. 2016;109:369–376. doi: 10.1159/000444901. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 160. Gentle S., El-Ferzli G., Winter L., Salas A.A., Iii J.B.P. Oxygen saturation histogram monitoring to reduce death or retinopathy of prematurity: A quality improvement initiative. J. Perinatol. 2019;40:163–169. doi: 10.1038/s41372-019-0486-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 161. Chow L.C., Wright K.W., Sola A., the CSMC Oxygen Administration Study Group Can Changes in Clinical Practice Decrease the Incidence of Severe Retinopathy of Prematurity in Very Low Birth Weight Infants? Pediatrics. 2003;111:339–345. doi: 10.1542/peds.111.2.339. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 162. Lau Y.Y., Tay Y.Y., Shah V.A., Chang P., Loh K.T. Maintaining Optimal Oxygen Saturation in Premature Infants. Perm. J. 2011;15 doi: 10.7812/TPP/11.998. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 163. Zhang S., Zhou R., Li B., Li H., Wang Y., Gu X., Tang L., Wang C., Zhong D., Ge Y., et al. Caffeine preferentially protects against oxygen-induced retinopathy. FASEB J. 2017;31:3334–3348. doi: 10.1096/fj.201601285R. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 164. Hussein M.A., Coats D.K., Khan H., Paysse E.A., Steinkuller P.G., Kong L., O’brian S.E. Evaluating the association of autonomic drug use to the development and severity of retinopathy of prematurity. J. Am. Assoc. Pediatr. Ophthalmol. Strabismus. 2014;18:332–337. doi: 10.1016/j.jaapos.2014.02.012. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 165. Bhatt-Mehta V., Schumacher R.E. The effect of ibuprofen and caffeine prophylaxis on retinopathy of prematurity. J. Am. Assoc. Pediatr. Ophthalmol. Strabismus. 2021;25:272.e1–272.e3. doi: 10.1016/j.jaapos.2021.04.011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 166. Gomaa N.A.S., Helmy Y.A., Maher S., Hassanein D., Shuaib A., Hegazy A.I., Ali A.A. Clinical Characteristics of Preterm Neonates with Aggressive Posterior Retinopathy of Prematurity. Clin. Ophthalmol. 2021;15:2263–2277. doi: 10.2147/OPTH.S292712. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 167. Gila-Diaz A., Arribas S.M., Algara A., Martín-Cabrejas M.A., López de Pablo Á.L., De Pipaón M.S., Ramiro-Cortijo D. A Review of Bioactive Factors in Human Breastmilk: A Focus on Prematurity. Nutrients. 2019;11:1307. doi: 10.3390/nu11061307. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 168. Ginovart G., Gich I., Verd S. Human milk feeding protects very low-birth-weight infants from retinopathy of prematurity: A pre–post cohort analysis. J. Matern. Neonatal Med. 2016;29:3790–3795. doi: 10.3109/14767058.2016.1145648. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 169. Pawlik D., Lauterbach R., Turyk E. Fish-Oil Fat Emulsion Supplementation May Reduce the Risk of Severe Retinopathy in VLBW Infants. Pediatrics. 2011;127:223–228. doi: 10.1542/peds.2010-2427. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 170. Pawlik D., Lauterbach R., Walczak M., Hurkała J., Sherman M.P. Fish-Oil Fat Emulsion Supplementation Reduces the Risk of Retinopathy in Very Low Birth Weight Infants. J. Parenter. Enter. Nutr. 2013;38:711–716. doi: 10.1177/0148607113499373. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 171. Fu Z., Yan W., Chen C.T., Nilsson A.K., Bull E., Allen W., Yang J., Ko M., SanGiovanni J.P., Akula J.D., et al. Omega-3/Omega-6 Long-Chain Fatty Acid Imbalance in Phase I Retinopathy of Prematurity. Nutrients. 2022;14:1333. doi: 10.3390/nu14071333. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 172. Zhou J., Shukla V.V., John D., Chen C. Human Milk Feeding as a Protective Factor for Retinopathy of Prematurity: A Meta-analysis. Pediatrics. 2015;136:e1576–e1586. doi: 10.1542/peds.2015-2372. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 173. Miller J., Tonkin E., Damarell R.A., McPhee A.J., Suganuma M., Suganuma H., Middleton P.F., Makrides M., Collins C.T. A Systematic Review and Meta-Analysis of Human Milk Feeding and Morbidity in Very Low Birth Weight Infants. Nutrients. 2018;10:707. doi: 10.3390/nu10060707. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 174. Ozkan H., Duman N., Kumral A., Kasap B., Ozer E., Lebe B., Yaman A., Berk T., Yilmaz O. Inhibition of vascular endothelial growth factor-induced retinal neovascularization by retinoic acid in experimental retinopathy of prematurity. Physiol. Res. 2006;55:267–276. doi: 10.33549/physiolres.930754. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 175. Penn J.S., Tolman B.L., Bullard L.E. Effect of a Water-Soluble Vitamin E Analog, Trolox C, on Retinal Vascular Development in an Animal Model of Retinopathy of Prematurity. Free Radic. Biol. Med. 1997;22:977–984. doi: 10.1016/S0891-5849(96)00479-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 176. Brion L.P., Bell E.F., Raghuveer T.S. Vitamin E supplementation for prevention of morbidity and mortality in preterm infants. Cochrane Database Syst. Rev. 2003;2010:CD003665. doi: 10.1002/14651858.CD003665. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 177. Ogihara T., Mino M. Vitamin E and preterm infants. Free Radic. Biol. Med. 2022;180:13–32. doi: 10.1016/j.freeradbiomed.2021.11.037. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 178. Ding Y., Chen Z., Lu Y. Vitamin A supplementation prevents the bronchopulmonary dysplasia in premature infants: A systematic review and meta-analysis. Medicine. 2021;100:e23101. doi: 10.1097/MD.0000000000023101. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 179. Avila-Vazquez M., Maffrand R., Sosa M., Franco M., De Alvarez B.V., Cafferata M.L., Bergel E. Treatment of Retinopathy of Prematurity with topical ketorolac tromethamine: A preliminary study. BMC Pediatr. 2004;4:15. doi: 10.1186/1471-2431-4-15. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 180. Giannantonio C., Papacci P., Purcaro V., Cota F., Tesfagabir M.G., Molle F., Lepore D., Baldascino A., Romagnoli C. Effectiveness of Ketorolac Tromethamine in Prevention of Severe Retinopathy of Prematurity. J. Pediatr. Ophthalmol. Strabismus. 2011;48:247–251. doi: 10.3928/01913913-20100920-01. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 181. Bancalari A., Schade R. Update in the Treatment of Retinopathy of Prematurity. Am. J. Perinatol. 2020;39:22–30. doi: 10.1055/s-0040-1713181. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 182. Filippi L., Cavallaro G., Bagnoli P., Monte M.D., Fiorini P., Berti E., Padrini L., Donzelli G., Araimo G., Cristofori G., et al. Propranolol 0.1% eye micro-drops in newborns with retinopathy of prematurity: A pilot clinical trial. Pediatr. Res. 2017;81:307–314. doi: 10.1038/pr.2016.230. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 183. Filippi L., Cavallaro G., Berti E., Padrini L., Araimo G., Regiroli G., Raffaeli G., Bozzetti V., Tagliabue P., Tomasini B., et al. Propranolol 0.2% Eye Micro-Drops for Retinopathy of Prematurity: A Prospective Phase IIB Study. Front. Pediatr. 2019;7:180. doi: 10.3389/fped.2019.00180. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ Associated Data 
+ This section collects any data citations, data availability statements, or supplementary materials included in this article. 
+ Data Availability Statement 
+ Not applicable.

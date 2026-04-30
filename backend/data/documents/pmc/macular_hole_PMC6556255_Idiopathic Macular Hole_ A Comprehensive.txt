@@ -1,0 +1,249 @@
+Source: PubMed Central (PMC)
+PMCID: PMC6556255
+Title: Idiopathic Macular Hole: A Comprehensive Review of Its Pathogenesis
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6556255/
+Year: 2019
+Disease: macular_hole
+Priority: 2
+============================================================
+
+J Ophthalmol . 2019 May 23;2019:7294952. doi: 10.1155/2019/7294952 
+ 
+ 
+ Idiopathic Macular Hole: A Comprehensive Review of Its Pathogenesis and of Advanced Studies on Metamorphopsia 
+ Qi Chen 
+ Qi Chen 
+ 
+ 1 Department of Ophthalmology, The Second Hospital of Jilin University, Changchun, China 
+ Find articles by Qi Chen 
+ 
+ 
+ 1 , Zao-xia Liu 
+ Zao-xia Liu 
+ 
+ 1 Department of Ophthalmology, The Second Hospital of Jilin University, Changchun, China 
+ Find articles by Zao-xia Liu 
+ 
+ 
+ 1, ✉ 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, The Second Hospital of Jilin University, Changchun, China 
+ 
+ Guest Editor: Claudio Azzolini 
+ 
+ ✉ Corresponding author. 
+ 
+ 
+ 
+ Received 2019 Feb 2; Revised 2019 Mar 11; Accepted 2019 Mar 26; Collection date 2019. 
+ 
+ Copyright © 2019 Qi Chen and Zao-xia Liu. 
+ This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC6556255  PMID: 31240135 
+ 
+ Abstract 
+ Vitreous anteroposterior traction is an important factor that affects macular hole (MH) formation at the early stage, and vitreous tangential traction can lead to further hole expansion after hole formation. Recent studies have highlighted the significance of Müller cells for the pathogenesis of MH. Since the advent of MH treatment, success rates for MH closure have significantly improved, as has postoperative visual acuity. However, metamorphopsia, an initial and common symptom of MH, still exists. Metamorphopsia is significantly related to the deterioration of visual quality of life and can be used as an independent index to evaluate visual function before and after surgery. In MH patients, metamorphopsia has different manifestations representing different clinical implications. M-CHARTS, as a new means of inspection, can quantify the degrees of metamorphopsia, and with the development of optical coherence tomography (OCT), layer-by-layer scanning of the retinal structure has become possible. These methods enable detailed analysis of the connections between the degree of metamorphopsia and relevant OCT parameters. Preoperative OCT parameters can be used to evaluate the prognosis of the postoperative visual function of MH patients and are therefore of great significance in guiding the treatment of MH patients. 1. Introduction 
+ Idiopathic macular hole (IMH), as a kind of common macular diseases, involves tissue defects including the retinal internal limiting membrane (ILM) and even the photoreceptor (PR) layer [ 1 ], and it is known that vitreous traction on local retina, posterior vitreous detachment (PVD) around the macular fovea, and continuous adhesion are major etiological factors in most IMH cases [ 1 – 4 ]. IMH typically affects elderly patients, and approximately two-thirds of patients are females [ 5 ]. The main clinical manifestations of IMH include decreased vision, metamorphopsia, and central dark spots, which can occur suddenly or gradually. The incidence of MH among the common population has been reported to range from 0.2% to 0.8% [ 4 , 6 ]. To understand the pathogenesis of macular hole in relation to metamorphopsia, we must first clarify the pathogenesis of macular hole, that is, the whole process from the impending macular hole to the complete formation of the macular hole. Secondly, it is necessary to explore the related research of metamorphopsia. In this way, the study metamorphopsia of macular holes can be fully understood. 2. Several Hypotheses on the Development of MH 
+ 2.1. Vitreous Macular Traction in the Pathogenesis of IMH 
+ Among the hypotheses concerning the pathogenesis of IMH, the most extensively accepted one is the exertion of direct A-P (anterior-posterior) traction by the posterior vitreous cortex on the macular fovea [ 1 – 3 , 7 , 8 ]. In healthy human eyes, the vitreous humor of the posterior vitreous cortex slowly passes through the optic disc, which realizes the separation of the posterior vitreous cortex and the posterior pole. In contrast, in human eyes at the risk of IMH formation, abnormal vitreous macular adhesions produce dynamic traction, and the contraction of collagen fibers in the longitudinal direction causes progressive anterior traction until avulsion of the Müller cap occurs [ 9 – 11 ]. According to recent research on the early stage of IMH formation, the strength of A-P traction was higher when the area of perifoveal vitreous detachment was smaller. However, tangential traction could not have an effect until the IMH had formed. Tangential traction is formed when the residual vitreous remains on the fovea after the PVD contracts [ 12 ], during which Müller cells proliferate and invade the ILM. When the proliferating glial cells on the ILM shrinks, the hole is enlarged [ 13 – 17 ]. 
+ Studies on the visual distortion of macular holes emphasize the role of the photoreceptor cell layer, which is the origin of the initial stage of the signal transduction pathway. The above exposition on the pathogenesis of the macular hole is from only the macroscopic level. Although this perspective emphasizes the role of the vitreous traction in the fovea, it does not allow for studies of occurrence and development of the macular hole at the cellular and molecular levels. To elucidate the cause of MH visual distortion at the cellular level, further study of the pathogenesis of macular holes is needed. Therefore, with the latest research on Müller cells in the macular, we will have a clearer understanding of the whole process of macular hole development. 2.2. Role of Müller Cells in the Pathogenesis of IMH 
+ 2.2.1. Unique Function of Müller Cells 
+ Müller cells are also called radial glial cells. The cell bodies of Müller cells are located in the inner nuclear layer (INL), and many cellular processes in Müller cells span the whole thickness of the neurosensory retina. Müller cells form the inner retinal surfaces at the ILM level, and all types of cell bodies and the retinal neuronal processes are ensheathed in these cells. In contrast, Müller cells proliferate and form the external limiting membrane (ELM) at the PR layer level. The ELM is connected to the ILM at the fovea center due to thickening of the Müller cell layer, creating a cone-shaped appearance. This forms the Müller cap, which is a reservoir of xanthophylls, and it enables Müller cells to protect to the retina [ 18 , 19 ]. Moreover, multiple functional interactions exist between neurons and Müller cells, including interactions involving glutamate recycling, substance exchange in ganglion cells, and extracellular ion homeostasis, etc. Müller cells possess an abundance of neurotransmitter receptors and voltage-gated channels and are involved in mediate neuronal cell protection [ 15 , 16 , 20 – 22 ]. 2.2.2. Spatial Distribution of Müller Cells in the Fovea of the Macula 
+ 
+ (1) Spatial Distribution of Müller Cells in the Macular Fovea . Fovea formation involves two major events, i. e., the centrifugal migration of inner retinal cells and the centripetal movement of peripheral PRs. As a result, the fovea lacks the inner retinal layer, and the cones exist in the fovea alone. Gass proposed that Müller cell cones (MCCs), which are structures formed by Müller cells that take the shape of inverted cones, occupy almost of the one-third space of the internal foveola, and the MCCs act as glue in the foveola that bind all cone cells together. Retinal PR cells might perform centrifugal contraction without such a “plug”. The retinal structure of the central foveola, which is considered the weakest part of the fovea, might be more easily affected by anterior vitreofoveal traction [ 18 , 23 , 24 ]. 
+ Müller cells in the fovea can be divided into the following 3 types: MCC cells [ 18 ], atypical Müller cells (ATMs) [ 25 ], and Z-shaped Müller cells [ 26 ]. MCC cells are located at the center of the foveola, while ATMs are found in the remaining parts of the foveola, a considerable distance away from the MCCs and approximately 400 mm away from the center of the foveola. The Z-shaped Müller cells are located in the parafoveolar area [ 18 , 24 – 27 ]. 2.2.3. Involvement of Müller Cells in MH Formation 
+ When considering the special arrangement of Müller cells in the macular fovea and the degree and extent of A-P vitreomacular traction, there are two different types of full-thickness defects of the fovea: the dehiscent type and the tearing type. 
+ The dehiscent type is characterized by cleavage towards the internal margin of the Henle fiber layer and the formation of foveolar pseudocysts, which was accompanied by the centrifugal tangent displacement of the photoreceptor cell layer, and vitreous traction is exerted on the foveolar floor. The smallest loss of the foveolar tissue would be realized if the ATMs and MCCs are pulled, which is especially true in the external layer that includes the PRs. If the intensity or extent of vitreofoveal traction and adhesion is great, then the Z-shaped Müller cells with eccentricity to the central area of the foveolar floor (the clivus) would be affected by this traction force. In the tearing type, the clivus witnesses the separation if the Z-shaped Müller cells is involved, being accompanied with extensive loss of the outer retinal tissue during full-thickness tearing [ 13 , 14 , 27 – 31 ]. In 1995, Gass modified the previous classification and proposed that the dehiscent-type defect, instead of the tearing type defects, was the origin of most of the MH cases [ 32 ]. 3. Metamorphopsia 
+ 3.1. Definition and Significance of Metamorphopsia 
+ Metamorphopsia in patients is the perception deviation of the horizontal or vertical line, and it sometimes may appear before the clinical manifestation of macular disease [ 33 – 38 ]. Patients may sometimes consider metamorphopsia as an unstable condition of vision instead of precise deformations of objects, and they focus better with slightly unconscious eye movements. Specific types of metamorphopsia include macropsia and micropsia. Micropsia, in which the human eye perceives an object to be smaller than it actually is, is more common. In macropsia, an object is perceived to be larger than it actually is. Recent studies have reported the nonlinear interactions between the shape and size of visual distortion and recognition of letters. In addition, Wittich et al. confirmed that there is no correlation between metamorphopsia and preoperative visual acuity [ 39 – 41 ]. This finding indicates that it may be difficult to distinguish the change in distortion from the change in acuity. Amsler emphasized that it was important to detect a visual disorder early, although it could not be found in the fundus examination or the standard quantitative test (visual acuity examination, for example) of visual functions. 
+ Visual distortion is the result of the structure change in the retina that causes the retinal layer to suffer displacement, which in turn causes distortion in space. As a common clinical manifestation of different macular diseases, visual distortion can serve as a sensitive biomarker to detect the occurrence, development, and alleviation of macular diseases. Some of the most common clinical manifestations of macular degeneration involving metamorphopsia include retinal detachment, macular serous detachment, vitreoretinal interface disease, CSC (central serous chorioretinopathy), diabetic macular edema and nondiabetic macular edema, and AMD (age-related macular degeneration). 
+ Normal vision and a normal fundus may be present in functional disorders, but macular degeneration may occur. Therefore, in clinical practice, symptoms regarding visual function in patients are often underestimated. Visual distortion also significantly reduces the ability of patients to read and discriminate, and metamorphopsia negatively affects the quality of life of patients [ 42 – 45 ]. 3.2. Pathogenesis of Metamorphopsia 
+ The development of metamorphopsia involves both the cortical mechanism and the retinal mechanism, despite the previous perception that metamorphopsia was just caused by structural changes to the retina, with outer retinal displacement causing inappropriate optical signal transmission. With the advent of spectral OCT, the detailed re-evaluation of the retina could be performed. As a result, detailed reports of the relationship between metamorphopsia and OCT parameters have emerged, and these reports partially confirmed the previous hypothesis that viewed the change in the PR layers as the major reason for metamorphopsia. Nevertheless, some recent theories emphasize a correlation between the inner retina and cortical processing and metamorphopsia. The cerebral cortex is mainly affected by visual crowding effects and perceptual “filling-in” [ 24 , 30 , 33 , 46 – 56 ]. 3.3. Method of Measuring Metamorphopsia 
+ To evaluate metamorphopsia, many functional examinations can be conducted, such as the Amsler grid and the mobile handheld home surveillance devices [ 57 ]. The Amsler grid [ 34 , 37 , 38 , 58 ] was the first functional test to be evaluated for visual distortion. This test enables simple and fast qualitative assessment of changes in the visual function in the field of view of central 10°, which might appear prior to certain macular diseases or together with the development of these diseases. However, the standard Amsler grid, as a suprathreshold trial stimulus, cannot be used to detect early metamorphopsia because of its poor sensitivity; thus various trials have been inspired by the Amsler grid for the application of the quantification and early detection of metamorphopsia. Most of these tests, however, still need full clinical validation. For example, M-CHARTS, differential perimetry, SDH (shape discrimination hyperacuity), and PHP (preferential hyperacuity perimeter) tests have been applied to metamorphopsia assessment [ 59 – 62 ]. 
+ 3.3.1. Amsler Grid 
+ The Amsler grid is a black piece of cardboard of 10 square centimeters that is divided into small squares of 5 mm with white lines. A white point in the center is used as the fixed point. Black lines on a white background are also useful. When the grid is placed 28–30 cm in front of the patient's eyes, the whole grid is equivalent to 20°, and each small square is equivalent to 1°. This square was therefore designed by Amsler to test for diseases in the range of 10°. The blind spot is located at the nasal boundary approximately 5° outside the grid. Although the Amsler grid has been extensively applied to visual distortion, quantifying the severity of metamorphopsia is still difficult [ 34 , 37 , 38 , 58 ]. 3.3.2. M-CHARTS 
+ In 1999, Matsumoto et al. [ 63 ] proposed quantifying the seriousness of visual distortion using M-CHARTS (Inami Co., Tokyo, Japan). The basic principle of the method is that when the dotted line substitutes for the straight line and the coarse intervals substitute the dot intervals, line distortion is reduced. Furthermore, when the dot intervals are enhanced, line distortion continues to be reduced until the line becomes nearly straight. M-CHARTS includes nineteen dotted lines, and the visual angle of dot intervals ranges from 0.2 degree to 2.0 degrees. Moreover, M-CHARTS is divided into two types: the type 1 single-line M-CHARTS (for general use) and the type 2 double-line M-CHARTS; the type 2 is composed of 2 lines that have an intervening fixation point for the purpose of MH patients. In this test, the patient is first asked to gaze at the target at the center and then vertical straight lines (0°) are shown. If the straight line is perceived as straight by the patient, then the metamorphopsia score of the patient is 0, and the test is complete. In contrast, if the patient sees the straight line as a curve or other irregular shapes, then he/she will be shown many interrupted lines composed of different dots, from fine dots to coarse dots. If the dotted line is recognized as straight by the patient, then the metamorphopsia score of the patient will be determined to be the visual angle used to separate the dots. Next, the same test is conducted using the horizontal lines after rotating the M-CHARTS at 90°. These tests are performed three times, with the mean value applied to data analysis. The advantages of M-CHARTS are its low cost, its portability, and its ease of use. However, it also has disadvantages of not being applicable to patients with serious central dark spots or low vision due to its design purpose of detecting and quantifying subtle deformations and is thus very demanding of visual quality. Nowomiejska et al. made a comparative analysis of the Amsler grid and M-CHARTS in evaluating bevacizumab for the treatment of neovascular AMD in metamorphopsia patients using OCT, and they concluded that the sensitivity of M-CHARTS might be better than that of the Amsler grid [ 50 ]. 3.4. Different Manifestations of Visual Distortion 
+ The Amsler grid can be used to detect a large number of metamorphopsia in different forms. A straight line can break into a small/large wavy line or an angular deformity. In micropsia, the horizontal lines and the vertical lines appear to bend towards the center, while in macropsia, the lines bend from the center. In addition, researchers found correlations between macular diseases and metamorphopsia of varied types. For example, there are associations between small angular defects and myopic maculopathy, between AMD and wavy lines, between retinal detachment and diffuse visual distortions, and between postoperative retinal reattachment and diffuse irregularity of the grid (e.g., depicting by a tremulous hand) [ 34 , 46 , 59 , 64 – 66 ]. 4. MH and Metamorphopsia 
+ 4.1. Classification of Metamorphopsia in IMH Patients 
+ In a retrospective study by Saito et al. [ 67 ] that included 54 eyes from 51 MH patients, two types of visual distortion were found using the Amsler grid test: the first type was pincushion distortion, with lines curved towards the center, and the second type was unpatterned metamorphopsia without a specific form. A total of 33 cases (61%) of pincushion distortion and 21 cases (39%) of unpatterned metamorphopsia were identified, and an association was found between the stage and duration of MH and the type of metamorphopsia. Approximately 70% of patients with early MH (duration ≤6 months) have pincushion distortion. In a comprehensive study of MH by Gass, it was found that vitreous tangential traction on the retina could enlarge the MH, and the enlargement of the MH is not accompanied by tissue loss [ 32 ]. In early MH, displacement of the PR layer caused by retinal shrinkage leads the vertical line to stimulate the displaced PR cells, thus forming the perception of a line curved towards the center, and this is pincushion distortion [ 68 ]. The retinal PR layer is most displaced in the central part of the fovea, and the peripheral part is gradually reduced. Patients with a short duration of MH maintain good PR function and have less perceptual filling-in in the brain. The perceptual filling-in effect occurs when a patient observes the Amsler grid, and an area that originally corresponded to the retinal defect is seen as distorted but continuous. One of the general examples of the perceptual filling-in effect is the filling-in of a nonphotosensitive area (physiological blind spot) of the retina which has a partial image in the surrounding area. 
+ Compared with structural changes in the retina, the subjective visual perception of the patient is much more complicated. Patients with long-term MH exhibit unpatterned metamorphopsia. Because the MH is usually surrounded by a fluid cuff that leads to functional retinal damage, patients with long disease courses are more likely than those with short disease courses to lose retinal function around the hole. In addition, patients with long-term MH are more likely than those with short-term MH to lose retinal function surrounding the macular region. If the foveal cells become nonfunctioning during a long-standing case, the patient will have developed a true foveal scotoma. Schuchard noted that the scotoma is usually perceptual filling-in, and such filling-in is often reported by patients as distortion resembling unpatterned metamorphopsia depicted in this paper. Distortion in this case is considered to be the result of the mechanism of the cerebral cortex rather than simple retinal projection [ 67 ]. 4.2. Study on the Mechanism between Metamorphopsia and IMH 
+ Krøyer et al. [ 69 , 70 ] claimed that the reasons for metamorphopsia were the eversion of PRs (caused by eversion of internal edges of holes) and tangential displacement of the PRs. They speculated that two types of PR layer displacements play a role in the metamorphopsia of MH: tangential displacement and eversion of the outer retina. In pincushion distortion, tangential displacement of PRs and eversion of PRs may explain why the patients perceive the flatter curve farther away from the fovea and the steepest curve nearest to the fovea center, respectively. Eversion of the outer retina is a critical factor for induced metamorphopsia and displacement of the PR layer. According to this theory, surgery may be sufficient to close the hole by eliminating retinal eversion, but metamorphopsia can persist, even after the inner layer of the hole is closed. However, the PR layer retains residual tangential displacement even after the inner layer of the MH has been closed. After successful repair of the MH, residual metamorphopsia unrelated to eccentricity indicates that PR cells are not completely repositioned. As Michalewska et al. described, even after the MH is closed, subretinal cysts still occur in many patients before the PR layer is completely repositioned [ 71 ], which explains why metamorphopsia persists after the MH is successfully repaired surgically (in which eversion of the MH edge has been eliminated and closure of the MH has been achieved; however, there is still tangential displacement). Burke concluded that both the cortical visual filling-in effect and PR layer displacement are important factors that can explain the degree of metamorphopsia in MH [ 72 , 73 ]. 4.3. Clinical Studies on Metamorphopsia in IMH 
+ Arimura et al. [ 62 ] performed a linear regression analysis of the metamorphopsia score (M-score) measured using M-CHARTS and the MH shape (hole size and fluid cuff length). The finding is that there was an important correlation between the M-score and the fluid cuff (superficial retinal detachment), but there was no relationship between the M-score and MH diameter. To be specific, the significant correlation between the fluid cuff and M-score exists when the MH was smaller than 0.5 mm, but if the MH was bigger than 0.5 mm, such a significant correlation would not be present. No significant correlation was found between the M-score and the visual acuity [ 39 ]. Sugiura et al. [ 74 ] used type I M-CHARTS in a prospective continuous interventional study of 51 eyes and found that the preoperative and postoperative vertical M-scores of the MH patients were significantly higher than the horizontal M-scores. They also found a correlation between the average postoperative M-scores and the length of the ELM defect and the preoperative basal diameter of the MH and the preoperative area of intraretinal cysts in the fluid cuff. The largest influence factor of severity of metamorphopsia is attributed to the preoperative area of intraretinal cysts [ 39 , 41 , 57 , 75 , 76 ]. 
+ In addition, the degree of metamorphopsia obtained using M-CHARTS is correlated with the foveal shape after surgical MH closure, particularly asymmetric extension of the foveal tissue. The reason for this might be the induction of asymmetric tangential traction by asymmetric extension of the foveal tissue to prevent displacement of the PRs during recovery. It is true that asymmetric elongation generally appears in the INL and other nuclear layers instead of the PR layer, but PR displacement can be incurred by the traction of a certain retinal layer, which causes further visual distortion [ 77 ]. Another possible explanation is that the correct signal transduction is blocked by asymmetric extension of the retinal layer. In MH, many patients have intraretinal cysts, which may distort retinal microstructures such as Müller cells, amacrine cells, bipolar cells, and horizontal cells. Such morphological changes may cause abnormal synaptic function and reduce the sensitivity of PR cells, causing metamorphopsia. Associations exist between the horizontal M-score and vertical retinal changes, and between the vertical M-score and horizontal retinal changes [ 65 , 72 , 78 ]. 
+ Kim et al. [ 79 ] reported that tissues stretched longer towards the thicker regions of the retina. It has been speculated that the power of traction in the nasal direction is stronger when MH occurs, causing the horizontal retinal changes to be greater than the vertical retinal changes, which might explain why preoperative horizontal M-scores are smaller than preoperative vertical M-scores. After MH surgery, the fovea asymmetrically extends towards the nasal retina; thus, we speculate that the greater nasal extension provides a higher postoperative vertical metamorphopsia score. 
+ Krasnicki et al. [ 80 ] reported improvements in metamorphopsia and BCVA (best-corrected visual acuity) after MH surgery. Considering the EZ (ellipsoid zone) defect and recovery of the ELM, a relatively long period of time was needed for improvement in BCVA to be observed. In contrast, metamorphopsia improved more quickly because postoperative morphology improved after the surgery and then entered a stable stage [ 71 , 75 ]. 
+ Kinoshita et al. [ 72 ] reported improvement in horizontal metamorphopsia at 12 months after MH surgery, but vertical metamorphopsia gained stable improvement at 6 months. Okamoto et al. [ 65 ] revealed a significant poorer performance of horizontal metamorphopsia at 3–6 months after surgery compared with that at baseline. However, vertical metamorphopsia showed a significant improvement from baseline at 3 months after surgery but did not show a significant improvement at 6 months. Therefore, improvement in postoperative vertical metamorphopsia may not be as notable as improvement in postoperative horizontal metamorphopsia. It is possible that the directionality of retinal plasticity is limited by the existence of the optic disc and the direction of retinal nerve fibers. 5. Conclusion 
+ Visual function affects a patient's visual quality of life and is not limited to postoperative visual acuity; postoperative improvement in metamorphopsia is also important. Through an in-depth study of the pathogenesis of MH and metamorphopsia, we conclude that metamorphopsia in MH is the result of tangential centrifugal displacement of the PR cell layer. As the disease progresses, the cerebral cortex participates in the development of metamorphopsia through the perceptual filling-in effect, which is in contrast to the simple abnormal retinal projection hypothesis. Quantitative statistical analysis of metamorphopsia can help determine the prognosis for postoperative visual function in patients, which is of great significance for guiding clinical treatment. Conflicts of Interest 
+ The authors declare that they have no conflicts of interest regarding the publication of this article. References 
+ 
+ 
+ 1. Gass J. D. Idiopathic senile macular hole. Its early stages and pathogenesis. Archives of Ophthalmology. 1988;106(5):629–639. doi: 10.1001/archopht.1988.01060130683026. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Avila M. P., Jalkh A. E., Murakami K., Trempe C. L., Schepens C. L. Biomicroscopic study of the vitreous in macular breaks. Ophthalmology. 1983;90(11):1277–1283. doi: 10.1016/s0161-6420(83)34391-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Kakehashi A., Schepens C. L., Trempe C. L. Vitreomacular observations. II. Data on the pathogenesis of idiopathic macular breaks. Graefe’s Archive for Clinical and Experimental Ophthalmology. 1996;234(7):234–237. doi: 10.1007/BF02539408. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Johnson R. N., Gass J. D. Idiopathic macular holes. Observations, stages of formation, and implications for surgical intervention. Ophthalmology. 1988;95(7):917–924. doi: 10.1016/s0161-6420(88)33075-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Kelly N. E., Wende R. T. Vitreous surgery for idiopathic macular holes. Results of a pilot study. Archives of Ophthalmology. 1991;109(5):654–659. doi: 10.1001/archopht.1991.01080050068031. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Zhang P., Zhou M., Wu Y., et al. Choroidal thickness in unilateral idiopathic macular hole. Retina. 2017;37(1):60–69. doi: 10.1097/iae.0000000000001118. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Yannuzzi L. A. A modified amsler grid. A self-assessment test for patients with macular disease. Ophthalmology. 1982;89(2):157–159. doi: 10.1016/s0161-6420(82)34840-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Takezawa M., Toyoda F., Kambara, Yamagami, Kakehashi A. Clarifying the mechanism of idiopathic macular hole development in fellow eyes using spectral-domain optical coherence tomography. Clinical Ophthalmology. 2011;5:101–108. doi: 10.2147/OPTH.S16549. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Woon W. H., Greig D., Savage M. D., et al. Movement of the inner retina complex during the development of primary full-thickness macular holes: implications for hypotheses of pathogenesis. Graefe’s Archive for Clinical and Experimental Ophthalmology. 2015;253(12):2103–2109. doi: 10.1007/s00417-015-2951-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Hee M. R., Puliafito C. A., Wong C., et al. Optical coherence tomography of macular holes. Opthalmology. 1995;102(5):748–756. doi: 10.1016/s0161-6420(95)30959-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Spaide R. F., Wong D., Fisher Y., Goldbaum M. Correlation of vitreous attachment and foveal deformation in early macular hole states. American Journal of Ophthalmology. 2002;133(2):226–229. doi: 10.1016/s0002-9394(01)01377-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Sebag J., Gupta P., Rosen R. R., Garcia P., Sadun A. A. Macular holes and macular pucker: the role of vitreoschisis as imaged by optical coherence tomography. Transactions of the American Ophthalmological Society. 2007;105(12):121–131. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Gaudric A., Haouchine B., Massin P., Paques M., Blain P., Erginay A. Macular hole formation: new data provided by optical coherence tomography. Archives of Ophthalmology. 1999;117(6):744–751. doi: 10.1001/archopht.117.6.744. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Tanner V., Chauhan D. S., Jackson T. L., Williamson T. H. Optical coherence tomography of the vitreoretinal interface in macular hole formation. British Journal of Ophthalmology. 2001;85(9):1092–1097. doi: 10.1136/bjo.85.9.1092. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Guidry C. The role of Müller cells in fibrocontractive retinal disorders. Progress in Retinal and Eye Research. 2005;24(1):75–86. doi: 10.1016/j.preteyeres.2004.07.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Iandiev I., Uckermann O., Pannicke T., et al. Glial cell reactivity in a porcine model of retinal detachment. Investigative Opthalmology & Visual Science. 2006;47(5):2161–2171. doi: 10.1167/iovs.05-0595. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Morescalchi F., Duse S., Gambicorti E., Romano M. R., Costagliola C., Semeraro F. Proliferative vitreoretinopathy after eye injuries: an overexpression of growth factors and cytokines leading to a retinal keloid. Mediators of Inflammation. 2013;2013:12. doi: 10.1155/2013/269787.269787 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Gass J. D. Müller cell cone, an overlooked part of the anatomy of the fovea centralis: hypotheses concerning its role in the pathogenesis of macular hole and foveomacular retinoschisis. Archives of Ophthalmology. 1999;117(6):821–823. doi: 10.1001/archopht.117.6.821. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Morescalchi F., Costagliola C., Gambicorti E., Duse S., Romano M. R., Semeraro F. Controversies over the role of internal limiting membrane peeling during vitrectomy in macular hole surgery. Survey of Ophthalmology. 2017;62(1):58–69. doi: 10.1016/j.survophthal.2016.07.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Newman E. A. Acid efflux from retinal glial cells generated by sodium bicarbonate cotransport. Journal of Neuroscience. 1996;16(1):159–168. doi: 10.1523/jneurosci.16-01-00159.1996. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Newman E. A. Sodium-bicarbonate cotransport in retinal Müller (glial) cells of the salamander. Journal of Neuroscience. 1991;11(12):3972–3983. doi: 10.1523/jneurosci.11-12-03972.1991. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Liepe B. A., Stone C., Koistinaho J., Copenhagen D. R. Nitric oxide synthase in Müller cells and neurons of salamander and fish retina. Journal of Neuroscience. 1994;14(12):7641–7654. doi: 10.1523/jneurosci.14-12-07641.1994. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Yamada E. Some structural features of the fovea centralis in the human retina. Archives of Ophthalmology. 1969;82(2):151–159. doi: 10.1001/archopht.1969.00990020153002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Bringmann A., Pannicke T., Grosche J., et al. Müller cells in the healthy and diseased retina. Progress in Retinal and Eye Reseasrch. 2006;25(4):397–424. doi: 10.1016/j.preteyeres.2006.05.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Reichenbach A., Bringmann A. Müller Cells in the Healthy and Diseased Retina. New York, NY, USA: Springer; 2010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Matet A., Savastano M. C., Rispoli M., et al. En face optical coherence tomography of foveal microstructure in full-thickness macular hole: a model to study perifoveal Müller cells. American Journal of Ophthalmology. 2015;159(6):1142.e3–1151.e3. doi: 10.1016/j.ajo.2015.02.013. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Agte S., Junek S., Matthias S., et al. Müller glial cell-provided cellular light guidance through the vital Guinea pig retina. Biophysical Journal. 2011;101(11):2611–2619. doi: 10.1016/j.bpj.2011.09.062. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Takahashi A., Nagaoka T., Yoshida A. Stage 1-A macular hole: a prospective spectral-domain optical coherence tomography study. Retina. 2011;31(1):127–147. doi: 10.1097/iae.0b013e3181e7997b. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Kishi S., Kamei Y., Shimizu K. Tractional elevation of Henle’s fiber layer in idiopathic macular holes. American Journal of Ophthalmology. 1995;120(4):486–496. doi: 10.1016/s0002-9394(14)72663-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Kishi S., Takahashi H. Three-dimensional observations of developing macular holes. American Journal of Ophthalmology. 2000;130(1):65–75. doi: 10.1016/s0002-9394(00)00383-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Haouchine B., Massin P., Gaudric A. Foveal pseudocyst as the first step in macular hole formation: a prospective study by optical coherence tomography. Ophthalmology. 2001;108(1):15–22. doi: 10.1016/s0161-6420(00)00519-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Gass J. D. Reappraisal of biomicroscopic classification of stages of development of a macular hole. American Journal of Ophthalmology. 1995;119(6):752–759. doi: 10.1016/s0002-9394(14)72781-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Gentile R. C., Landa G., Pons M. E., Eliott D., Rosen R. B. Macular hole formation, progression, and surgical repair: case series of serial optical coherence tomography and time lapse morphing video study. BMC Ophthalmology. 2010;10(1):p. 24. doi: 10.1186/1471-2415-10-24. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Amsler M. Earliest symptoms of diseases of the macula. British Journal of Ophthalmology. 1953;37(9):521–537. doi: 10.1136/bjo.37.9.521. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Knapp H. Ueber isolirte zerreissungen der aderhaut in folge von traumen auf dem augapfel. Arch Augenheilk. 1869;1:6–29. [ Google Scholar ] 
+ 
+ 36. Spaide R. F. Closure of an outer lamellar macular hole by vitrectomy: hypothesis for one mechanism of macular hole formation. Retina. 2000;20(6):587–590. doi: 10.1097/00006982-200006000-00001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Amsler M. Quantitative and qualitative vision. Transactions of the Ophthalmological Societies of the United Kingdom. 1949;69:397–410. [ Google Scholar ] 
+ 
+ 38. Geenen C., Murphy D. C., Sandinha M. T., Rees J., Steel D. H. W. Significance of preoperative external limiting membrane height on visual prognosis in patients undergoing macular hole surgery. Retina. 2018:1–7. doi: 10.1097/iae.0000000000002137. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Wittich W., Overbury O., Kapusta M. A., Faubert J. Visual function assessment and metamorphopsia after macular hole surgery. Ophthalmic & Physiological Optics. 2005;25(6):534–542. doi: 10.1111/j.1475-1313.2005.00330.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Wittich W., Overbury O., Kapusta M. A., Watanabe D. H., Faubert J. Macular hole: perceptual filling-in across central scotomas. Vision Research. 2006;46(23):4064–4070. doi: 10.1016/j.visres.2006.07.005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Wada I., Yoshida S., Kobayashi Y., et al. Quantifying metamorphopsia with M-CHARTS in patients with idiopathic macular hole. Clinical Ophthalmology. 2017;11:1719–1726. doi: 10.2147/opth.s144981. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Williamson T., Ugarte M., Shunmugam M., Laidlaw D. H. Morphision: a method for subjective evaluation of metamorphopsia in patients with unilateral macular pathology (i.e., full thickness macular hole and epiretinal membrane) Indian Journal of Ophthalmology. 2013;61(11):653–658. doi: 10.4103/0301-4738.117804. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Okamoto F., Okamoto Y., Fukuda S., Hiraoka T., Oshika T. Vision-related quality of life and visual function after vitrectomy for various vitreoretinal disorders. Investigative Ophthalmology & Visual Science. 2010;51(2):744–751. doi: 10.1167/iovs.09-3992. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Okamoto F., Okamoto Y., Hiraoka T., Oshika T. Effect of vitrectomy for epiretinal membrane on visual function and vision related quality of life. American Journal of Ophthalmology. 2009;147(5):869–874. doi: 10.1016/j.ajo.2008.11.018. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Fukuda S., Okamoto F., Yuasa M., et al. Vision-related quality of life and visual function in patients undergoing vitrectomy, gas tamponade and cataract surgery for macular hole. British Journal of Ophthalmology. 2009;93(12):1595–1599. doi: 10.1136/bjo.2008.155440. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Ichikawa Y., Imamura Y., Ishida M. Metamorphopsia and tangential retinal displacement after epiretinal membrane surgery. Retina. 2017;37(4):673–679. doi: 10.1097/IAE.0000000000001232. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Ishida M., Ichikawa Y., Higashida R., Tsutsumi Y., Ishikawa A., Imamura Y. Retinal displacement toward optic disc after internal limiting membrane peeling for idiopathic macular hole. American Journal of Ophthalmology. 2014;157(5):971–977. doi: 10.1016/j.ajo.2014.01.026. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Midena E., Vujosevic S. Metamorphopsia: an overlooked visual symptom. Ophthalmic Research. 2015;55(1):26–36. doi: 10.1159/000441033. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Arndt C., Rebollo O., Séguinet S., Debruyne P., Caputo G. Quantification of metamorphopsia in patients with epiretinal membranes before and after surgery. Graefe’s Archive for Clinical and Experimental Ophthalmology. 2007;245(8):1123–1129. doi: 10.1007/s00417-006-0505-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Nowomiejska K., Oleszczuk A., Brzozowska A., et al. M-charts as a tool for quantifying metamorphopsia in age-related macular degeneration treated with the bevacizumab injections. BMC Ophthalmology. 2013;13(1):13–18. doi: 10.1186/1471-2415-13-13. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Okamoto F., Sugiura Y., Okamoto Y., Hiraoka T., Oshika T. Associations between metamorphopsia and foveal microstructure in patients with epiretinal membrane. Investigative Ophthalmology & Visual Science. 2012;53(11):6770–6775. doi: 10.1167/iovs.12-9683. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Rodrigues I. A., Lee E. J., Williamson T. H. Measurement of retinal displacement and metamorphopsia after epiretinal membrane or macular hole surgery. Retina. 2016;36(4):695–702. doi: 10.1097/iae.0000000000000768. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Chung H., Son G., Hwang D. J., Lee K., Park Y., Sohn J. Relationship between vertical and horizontal aniseikonia scores and vertical and horizontal OCT images in idiopathic epiretinal membrane. Investigative Ophthalmology & Visual Science. 2015;56(11):6542–6548. doi: 10.1167/iovs.15-16874. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Philippakis E., Amouyal F., Couturier A., Boulanger-Scemama E., Gaudric A., Tadayoni R. Size and vitreomacular attachment of primary full-thickness macular holes. British Journal of Ophthalmology. 2017;101:951–954. doi: 10.1136/bjophthalmol-2016-309212. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. dell’Omo R., Cifariello F., dell’Omo E., et al. Influence of retinal vessel printings on metamorphopsia and retinal architectural abnormalities in eyes with idiopathic macular epiretinal membrane. Investigative Ophthalmology & Visual Science. 2013;54(12):7803–7811. doi: 10.1167/iovs.13-12817. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Okamoto F., Sugiura Y., Okamoto Y., Hiraoka T., Oshika T. Inner nuclear layer thickness as a prognostic factor for metamorphopsia after epiretinal membrane surgery. Retina. 2015;35(10):2107–2114. doi: 10.1097/iae.0000000000000602. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Wiecek E., Lashkari K., Dakin S. C., Bex P. Novel quantitative assessment of metamorphopsia in maculopathy. Investigative Ophthalmology & Visual Science. 2014;56(1):494–504. doi: 10.1167/iovs.14-15394. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Schuchard R. A. Validity and interpretation of amsler grid reports. Archives of Ophthalmology. 1993;111(6):776–780. doi: 10.1001/archopht.1993.01090060064024. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Wang Y. Z., Wilson E., Locke K. G., Edwards A. O. Shape discrimination in age-related macular degeneration. Investigative Ophthalmology & Visual Science. 2002;43(6):2055–2062. [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Goldstein M., Loewenstein A., Barak A, et al. Results of a multicenter clinical trial to evaluate the preferential hyperacuity perimeter for detection of age-related macular degeneration. Retina. 2005;25(3):296–303. doi: 10.1097/00006982-200504000-00008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Arimura E., Matsumoto C., Nomoto H., et al. Correlations between M-CHARTS and PHP findings and subjective perception of metamorphopsia in patients with macular diseases. Investigative Ophthalmology & Visual Science. 2011;52(1):128–135. doi: 10.1167/iovs.09-3535. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Arimura E., Matsumoto C., Okuyama S., Takada S., Hashimoto S., Shimomura Y. Quantification of metamorphopsia in a macular hole patient using M-CHARTS™. Acta Ophthalmologica Scandinavica. 2006;85(1):55–59. doi: 10.1111/j.1600-0420.2006.00729.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Matsumoto C. Arimura E., Okuyama S., Takada S., Hashimoto S., Shimomura Y. Quantification of metamorphopsia in patients with epiretinal membranes. Investigative Ophthalmology & Visual Science. 2003;44(9):4012–4016. doi: 10.1167/iovs.03-0117. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Takano M., Kishi S. Foveal retinoschisis and retinal detachment in severely myopic eyes with posterior staphyloma. American Journal of Ophthalmology. 1999;128(4):472–476. doi: 10.1016/s0002-9394(99)00186-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Murakami T., Okamoto F., Iida M., et al. Relationship between metamorphopsia and foveal microstructure in patients with branch retinal vein occlusion and cystoid macular edema. Graefe’s Archive for Clinical and Experimental Ophthalmology. 2016;254(11):2191–2196. doi: 10.1007/s00417-016-3382-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Okuda T., Higashide T., Sugiyama K. Metamorphopsia and outer retinal morphologic changes after successful vitrectomy surgery for macula-off rhegmatogenous retinal detachment. Retina. 2018;38(1):148–154. doi: 10.1097/iae.0000000000001510. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Saito Y., Hirata Y., Hayashi A., et al. The visual performance and metamorphopsia of patients with macular holes. Archives of Ophthalmology. 2000;118(1):41–46. doi: 10.1001/archopht.118.1.41. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Jensen O. M., Larsen M. Objective assessment of photorecepter displacement and metamorphopsia. Archives of Ophthalmology. 1998;116(10):1303–1306. doi: 10.1001/archopht.116.10.1303. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Krøyer K., Christensen U., Larsen M., la Cour M. Quantification of metamorphopsia in patients with macular hole. Investigative Ophthalmology & Visual Science. 2008;49(9):3741–3746. doi: 10.1167/iovs.07-1452. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Krøyer K., Christensen U., la Cour M., Larsen M. Metamorphopsia assessment before and after vitrectomy for macular hole. Investigative Ophthalmology & Visual Science. 2009;50(12):5511–5515. doi: 10.1167/iovs.09-3530. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Michalewska Z., Michalewski J., Nawrocki J. Continuous changes in macular morphology after macular hole closure visualized with spectral optical coherence tomography. Graefe’s Archive for Clinical and Experimental Ophthalmology. 2010;248(9):1249–1255. doi: 10.1007/s00417-010-1370-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Kinoshita T., Imaizumi H., Miyamoto H., et al. Changes in metamorphopsia in daily life after successful epiretinal membrane surgery and correlation with M-CHARTS score. Clinical Ophthalmology. 2015;9:225–233. doi: 10.2147/OPTH.S76847. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Burke W. Psychophysical observations concerned with a foveal lesion (macular hole) Vision Research. 1999;39(14):2421–2427. doi: 10.1016/s0042-6989(98)00323-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Sugiura Y., Okamoto F., Okamoto Y., Hiraoka T., Oshika T. Relationship between metamorphopsia and intraretinal cysts within the fluid cuff after surgery for idiopathic macular hole. Retina. 2017;37(1):70–75. doi: 10.1097/iae.0000000000001136. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Takabatake M., Higashide T., Udagawa S., Sugiyama K. Postoperative changes and prognostic factors of visual acuity, metamorphopsia, and aniseikonia after vitrectomy for epiretinal membrane. Retina. 2018;38(11):2118–2127. doi: 10.1097/IAE.0000000000001831. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Johnson M. W. Perifoveal vitrous detachment and its macular complications. American Journal of Ophthalmology. 2006;141(4):792–793. doi: 10.1016/j.ajo.2006.02.012. [ DOI ] [ Google Scholar ] 
+ 
+ 77. Bae K., Kang S. W., Kim J. H., Kim S. J., Kim J. M., Yoon J. M. Extent of internal limiting membrane peeling and its impact on macular hole surgery outcomes: a randomized trial. American Journal of Ophthalmology. 2016;169:179–188. doi: 10.1016/j.ajo.2016.06.041. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Arimura E., Matsumoto C., Okuyama S., Takada S., Hashimoto S., Shimomura Y. Retinal contraction and metamorphopsia scores in eyes with idiopathic epiretinal membrane. Investigative Ophthalmology & Visual Science. 2005;46(8):2961–2966. doi: 10.1167/iovs.04-1104. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Kim J. H., Kang S. W., Park D. Y., Kim S. J., Ha H. S. Asymmetric elongation of foveal tissue after macular hole surgery and its impact on metamorphopsia. Ophthalmology. 2012;119(10):2133–2140. doi: 10.1016/j.ophtha.2012.05.018. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Krasnicki P., Dmuchowska D. A., Pawluczuk B., Proniewska-Skretek E., Mariak Z. Metamorphopsia before and after full-thickness macular hole surgery. Advances in Medical Sciences. 2015;60(1):162–166. doi: 10.1016/j.advms.2015.01.006. [ DOI ] [ PubMed ] [ Google Scholar ]

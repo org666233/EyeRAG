@@ -1,0 +1,242 @@
+Source: PubMed Central (PMC)
+PMCID: PMC6513942
+Title: Pearls and Pitfalls of Optical Coherence Tomography Angiography Imaging: A Review
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6513942/
+Year: 2019
+Disease: imaging
+Priority: 3
+============================================================
+
+Ophthalmol Ther . 2019 Mar 13;8(2):215–226. doi: 10.1007/s40123-019-0178-6 
+ 
+ 
+ Pearls and Pitfalls of Optical Coherence Tomography Angiography Imaging: A Review 
+ Enrico Borrelli 
+ Enrico Borrelli 
+ 
+ 1 Ophthalmology Department, San Raffaele University Hospital, Milan, Italy 
+ Find articles by Enrico Borrelli 
+ 
+ 
+ 1 , SriniVas R Sadda 
+ SriniVas R Sadda 
+ 
+ 2 Department of Ophthalmology, David Geffen School of Medicine at UCLA, Los Angeles, CA USA 
+ 
+ 3 Doheny Eye Institute, Los Angeles, CA USA 
+ Find articles by SriniVas R Sadda 
+ 
+ 
+ 2, 3 , Akihito Uji 
+ Akihito Uji 
+ 
+ 4 Department of Ophthalmology and Visual Sciences, Kyoto University Graduate School of Medicine, Kyoto, Japan 
+ Find articles by Akihito Uji 
+ 
+ 
+ 4 , Giuseppe Querques 
+ Giuseppe Querques 
+ 
+ 1 Ophthalmology Department, San Raffaele University Hospital, Milan, Italy 
+ Find articles by Giuseppe Querques 
+ 
+ 
+ 1, ✉ 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Ophthalmology Department, San Raffaele University Hospital, Milan, Italy 
+ 
+ 2 Department of Ophthalmology, David Geffen School of Medicine at UCLA, Los Angeles, CA USA 
+ 
+ 3 Doheny Eye Institute, Los Angeles, CA USA 
+ 
+ 4 Department of Ophthalmology and Visual Sciences, Kyoto University Graduate School of Medicine, Kyoto, Japan 
+ 
+ ✉ Corresponding author. 
+ 
+ 
+ Received 2019 Jan 14; Issue date 2019 Jun. 
+ 
+ © The Author(s) 2019 
+ This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 International License ( http://creativecommons.org/licenses/by-nc/4.0/ ), which permits any noncommercial use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC6513942  PMID: 30868418 
+ 
+ Abstract 
+ Optical coherence tomography angiography (OCTA) has significantly expanded our knowledge of the ocular vasculature. Furthermore, this imaging modality has been widely adopted to investigate different ocular and systemic diseases. In this review, a discussion of the fundamental principles of OCTA is followed by the application of this imaging modality to study the retinal and choroidal vessels. A proper comprehension of this imaging modality is essential for the interpretation of OCTA imaging applications in retinal and choroidal disorders. 
+ Keywords: Choriocapillaris, Choroid, Image analysis, Optical coherence tomography angiography, Retinal vessels Introduction 
+ Optical coherence tomography angiography (OCTA) is an emerging noninvasive imaging technique which is able to rapidly produce angiographic images of the eye [ 1 , 2 ]. The basic concept of OCTA is to detect the movement of blood within vasculature as an intrinsic contrast agent. To obtain this, several repeated OCT B-scans are performed in the same location and are compared in order to detect differences, or decorrelation, in the blood flow signal. 
+ OCTA is mainly used to visualize the retinal and choroidal vessels. The retinal vasculature is composed of three distinct retinal capillary layers: the superficial (SCP), middle (MCP), and deep capillary (DCP) plexuses (Fig.  1 ) [ 3 , 4 ]. In addition, a fourth vascular layer, the radial peripapillary capillary plexus (RPCP) or nerve fiber plexus (NFP), is mainly located within the superficial nerve fiber layer (NFL) surrounding the optic disc. In addition, OCTA is efficaciously able to image the innermost part of the choroid which is named choriocapillaris (CC).
+ 
+ Fig. 1. 
+ 
+ Open in a new tab 
+ Optical coherence tomographic angiographic image of the macula of a healthy subject. The retinal vascularization at the macula includes four different plexuses: the superficial (SCP—second line from top), middle (MCP—third from top), and deep (DCP—second from bottom) retinal capillary plexuses, and choriocapillaris (CC—bottom). OCTA images are mainly displayed with en face visualization (images on the right) which is obtained by segmenting the volumetric OCTA scans at specific depths (indicated with white arrows). Using this strategy, the flow data within any slab, whose boundaries are red in the left images, are summed or projected into a two-dimensional en face image that can be viewed and studied. These boundaries follow predefined layers which can be differentiated on the basis of reflectivity, texture, or other attributes (top row). The layers are: (i) the inner limiting membrane (ILM), (ii) the inner border of the inner plexiform layer (IPL), (iii) the outer border of the outer plexiform layer (OPL), and (iv) Bruch’s membrane (BM) While OCTA has several potential advantages, this imaging technique is not without limitations. Therefore, some issues should be considered during the analysis and interpretation of OCTA images, including some artifacts which may affect the images [ 1 ]. 
+ In this review, we will describe the basic principles of OCTA technology and the approaches to quantify OCTA variables. This review is thus intended to better guide scientists and clinicians on how to interpret OCTA findings. 
+ This article is based on previously conducted studies and does not contain any studies with human participants or animals performed by any of the authors. Optical Coherence Tomography Angiography 
+ Overview on Technical Aspects 
+ Structural OCT can acquire volumetric images of the retina by executing successive single B-scans at different retinal locations. Differently, OCTA devices perform several repeated B-scans at the same retinal location and the obtained structural information is compared to detect signal changes secondary to flowing erythrocytes (motion contrast). Furthermore, each B-scan is composed of several A-scans that are acquired at sequential positions to generate the B-scan. The A-scan rate is dependent on the OCT instrument and typically ranges between 70,000 A-scans per second (spectral domain devices) and 100,000 A-scans per second (swept source instruments) among commercially available devices. Of note, faster acquisition speeds are available in various research instruments. 
+ A crucial role in OCTA imaging is represented by the interscan time, which represents the delay between two B-scans repeated at the same retinal location. Therefore, while a shorter interscan time may decrease sensitivity to motion, this also reduces the occurrence of parasitic eye motions which can confound the motion signal [ 1 ]. 
+ Three different methodologies may be used to detect motion contrast using OCTA devices, as follows: (1) phase-based, (2) amplitude-based, and (3) complex amplitude-based, in which the OCTA algorithm uses both phase and amplitude information. The OCTA signal is normalized between 0 and 1. The interscan time and the background noise determine the slowest detectable flow. Erythrocytes must move a sufficient distance within repeated B-scans to be detected. In addition, differences in signal must be higher than the background noise to be detected as flow. This causes an intrinsic limitation to current OCTA technology which may not be able to distinguish the absence of flow from slow flow below a detectable threshold range [ 1 ]. 
+ OCTA may be captured with spectral domain OCT (SD OCT), which in commercial devices employs a wavelength at around 840 nm, or with swept-source OCT (SS OCT), which uses a longer wavelength (~ 1050 nm). Visualization of the OCTA Images 
+ While OCT is considered a cross-sectional imaging modality, OCTA images are mainly displayed with en face visualization. Using the segmentation of the volumetric OCTA scans at specific depths, the flow data within any slab are summed or projected into a two-dimensional en face image that can be viewed and studied. 
+ The generation of two-dimensional OCTA en face images may be obtained using different methodologies, including the “maximal intensity projection” approach which projects the maximal intensity pixel from each column onto a flat two-dimensional summary. While the advantage of this strategy is that it has more sensitivity for detecting smaller vessels and subtle flow, it may also yield more noise. Another approach to obtain two-dimensional OCTA images is through use of an “average intensity projection,” which is less susceptible to noise but may be less sensitive for small vessels. 
+ Of note, the en face visualization of the OCTA images is susceptible to segmentation artifacts, especially in eyes with retinal and choroidal disorders [ 5 ]. Comparison with Previous Dye-Based Imaging Techniques 
+ Fluorescein angiography (FA) and indocyanine green angiography (ICGA) have traditionally been considered the gold standard for clinical assessment of the retinal and choroidal vasculature in vivo. Even though dye administration is generally safe in patients, serious allergic reactions may occur, and these techniques are considered invasive and require considerable patient cooperation. In contrast, OCTA provides noninvasive assessment of the retinal and choroidal vasculatures [ 6 ]. Moreover, OCTA has the additional advantage of depth resolution with improved visualization of the deeper vascular plexuses. In addition, both FA and ICGA have significant limitations in the assessment of the choroid [ 2 ]. Despite these limitations, dye-based imaging provides other advantages including dynamic estimation of dye transit and dye leakage in diseases affecting the blood-retinal barrier (e.g. diabetic retinopathy). Limitations and Artifacts 
+ Different Artifacts may Alter the Visualization of OCTA Images 
+ Low signal strength may significantly affect the quality of the OCTA images. The ratio between the signal (signal-to-noise ratio), which is the information component dependent on the imaged tissue, and the non-signal component (or noise), is a mathematical relationship which may influence the image quality. As an example, media opacities may reduce the signal-to-noise ratio by decreasing the OCT signal. A decreased signal-to-noise ratio leads to an adjustment of the grayscale range with a consequent increase in image noise and artifactitious OCTA signal. Averaging of multiple en face OCTA images may reduce noise and improve the vessels’ continuity, as well as significantly improve qualitative and quantitative measurements [ 7 , 8 ]. False OCTA signals may be also generated by a patient’s movements [ 9 ]. Eye tracking systems have significantly decreased the impact of these artifacts in OCTA imaging. 
+ Segmentation errors represent a significant and recurring OCTA artifact [ 5 , 9 ]. As discussed above, en face OCTA images are displayed by locating two boundaries throughout the retinal and/or choroidal structure and vessels are therefore visualized using different available processes. These boundaries may be set by selecting predefined layers which can be differentiated on the basis of reflectivity, texture, or other attributes. The main problem with this strategy is that these parameters used to differentiate retinal and choroidal layers may be significantly modified in pathological conditions [ 5 ]. As an example, the automatic segmentation of vascular layers may be challenging in eyes with myopia, even in the absence of chorioretinal complications. Of note, many OCTA devices employ software enabling manual correction of segmentation errors and propagation of corrections throughout multiple B-scans, but this process may be extremely time-consuming. 
+ Projection artifacts (decorrelation tails; Fig.  2 ) may affect the visualization of the deeper vascular layers (ICP, DCP, and CC). In order to image the deeper structures, the OCT beam passes through the retinal layers, and vessels included in more superficial layers may be falsely detected in the deeper layers, even in the absence of real flow in these slabs. Since the transmitted light diffuses through flowing blood, the deeper layers are thus reached by fluctuating light which can create a decorrelation between two successive B-scans at the same location. Several strategies have been evolved to limit projection artifacts [ 10 – 12 ]. One of the easiest strategies to limit projection artifacts is to subtract the SCP OCTA en face image from the deeper layers [ 10 , 11 , 13 – 15 ].
+ 
+ Fig. 2. 
+ 
+ Open in a new tab 
+ Example of projection artifacts. Superficial capillary plexus (SCP—left image) and deep capillary plexus (DCP—middle image) from a healthy subject and demonstrating the presence of projection artifacts from major SCP vessels on the DCP image. Projection artifacts from superficial retinal vessels are subtracted and replaced with dark versions of these vessels (right image) A shadowing artifact occurs when the OCT beam is attenuated or blocked, thereby impeding its passage to the deeper layers of the retina/choroid. This may occur due to the presence of different structures, including vitreous opacities, hemorrhage, and drusen. SS OCTA systems have partially overcome this limitation, since a longer wavelength limits attenuation from media opacities and improves penetration into the deeper retinal and choroidal layers [ 2 ]. 
+ OCTA is still limited in the visualization of the larger vessels of the choroid. This limitation is secondary to the signal attenuation due to scattering by the retinal pigment epithelium (RPE) and by the CC vessels [ 2 ]. As a result, choroidal vessels are typically displayed as silhouettes with complete loss of signal at greater depths. These limitations have been partially resolved with ultrahigh-speed SS OCTA instruments [ 16 , 17 ]. An improved visualization of the medium-sized choroidal vessels may also be obtained in highly myopic eyes using the projection artifacts in the sclera [ 18 ]. OCTA Quantitative Metrics 
+ While quantifiable metrics applied to images obtained using different OCTA devices were demonstrated to be not comparable [ 19 ] and quantification is strictly dependent on the OCTA en face image’s size [ 20 ], different studies have used quantitative variables to quantify the retinal and choroidal vasculature with OCTA. 
+ OCTA en face images are composed of pixels which may be in a grayscale range of possible values from 0 to 255. In order to obtain quantitative analysis, a threshold may be applied to these images. Thresholding is used to create binary images [in which pixels over the applied threshold are displayed as white (or black) and pixels falling under the threshold are shown as black (or white, respectively)] from grayscale images. Moreover, thresholding may be obtained using different methodologies that can significantly influence the final quantification [ 21 ]. The binarized OCTA images may be also skeletonized, in order to obtain an image in which vessels are visualized as tracings of 1 pixel in width [ 22 ]. 
+ Binarized and skeletonized OCTA images (Fig.  3 ) may be used to obtain different quantitative metrics:
+ 
+ 
+ The perfusion density can be calculated as a unitless proportion of the number of pixels over the threshold divided by the total number of pixels in the analyzed area on the binarized image. 
+ The vessel length density is defined as the total length of the perfused vasculature divided by the total number of pixels in the analyzed area on the skeletonized image. 
+ The vessel diameter index , which represents the average vessel caliber, may be calculated by dividing the total vessel area in the binarized image by the total vessel length in the skeletonized image [ 23 ]. 
+ The fractal dimension , which is a mathematical parameter that describes the complexity of a biological structure [ 24 ]. 
+ 
+ Fig. 3. 
+ 
+ Open in a new tab 
+ Main OCTA metrics to quantify the retinal and choroidal vasculature. The OCTA images can be thresholded to obtain binarized and skeletonized images which are utilized to provide a quantitative analysis. Thresholding is used to create binary images from grayscale images, in which pixels over the applied threshold are displayed as black, and pixels falling under the threshold are shown as white. In this example, a MaxEntropy and Phansalkar thresholds were used to binarize retinal and CC vessels, respectively Previous studies on the CC have investigated the distribution, size, and percentage of flow voids (also called signal voids), which are small dark regions that alternate with granular bright areas, the latter thought to represent CC flow, and the former more likely to be secondary to CC vascular dropout or flow reduction [ 2 , 25 , 26 ]. Evaluation of the Vascular Layers with Octa 
+ The Retinal Vessels 
+ OCTA has significantly expanded our knowledge on the organization of the retinal vessels. The retinal vascularization may be separated into the following plexuses: the SCP, the MCP, the DCP, and the RPCP [ 27 – 30 ]. The RPCP is unique in that it is mainly located within the superficial nerve fiber layer surrounding the optic disc. 
+ Since the introduction of OCTA, a number of models have been proposed regarding connections among the retinal vascular plexuses [ 29 – 32 ]. 
+ The SCP is a dense meshwork of vessels accommodated in the retinal ganglion cell layer (GCL) [ 18 ]. The small capillaries arise from SCP arterioles and drain into SCP venules. The GCL slab enhances visualization of the capillary-free zones around the arteries and arterioles and helps differentiate arterial and venous systems [ 32 ]. Using OCTA, SCP arterioles were demonstrated to be located more superficially than SCP venules [ 30 ]. The SCP capillaries were shown to be arranged in a centripetal pattern in the macula and to converge on the parafoveal capillary ring [ 29 ]. In the periphery, the superior and inferior circulations converge in an interlaced comb pattern [ 29 ]. 
+ The SCP capillaries are connected with the other two layers of vessels at the inner plexiform layer/inner nuclear layer (IPL/INL) border (MCP) and inner nuclear layer/outer plexiform layer (INL/OPL) border (DCP). While the MCP colocalizes with the bipolar cell processes and amacrine cells, the DCP colocalizes with horizontal cells. These two plexuses are thus close to the high-oxygen-demand synapses of the IPL and OPL, respectively. The capillaries of the MCP and DCP have a lobular configuration without directional preference within their laminar planes [ 29 ]. Because the MCP and DCP consist of capillaries of uniform size and are separated by only a small distance, they are often grouped together as the deep vascular complex (DVC). 
+ Around the foveal avascular zone (FAZ), these three retinal capillary plexuses converge to form a single parafoveal capillary loop and collectively define the borders of the FAZ [ 29 ]. Although some OCTA studies have separately investigated the FAZ area in different retinal capillary plexuses, recent papers have opted to assess this measurement in a single segment (whole retinal thickness). This choice was due to histologic and technical reasons: (1) there is a strong body of evidence suggesting the retinal plexuses merge at the edge of the FAZ, which may be thus considered a singular structure throughout the entire foveal thickness [ 33 ]; and (2) assessing the FAZ size at different segments may lead to increased variability of measurements [ 34 ]. The FAZ size was demonstrated to increase with age [ 35 , 36 ] and disease (e.g. myopia, hypertension) [ 37 , 38 ]. 
+ Recently, using higher-axial-resolution OCTA technology, Nesper and Fawzi [ 30 ] identified distinct vascular connections from large-caliber arterioles and venules in the SCP to each of the three retinal capillary plexuses in healthy subjects. This organization accounts for the high oxygen demand of the plexiform layers that need highly oxygenated (arteriolar) blood in the MCP and DCP. Furthermore, they provided further evidence for the presence of vortices in the DCP, these draining into conduits which are straightly connected to venules in the SCP. Interestingly, collateral vessels crossing the horizontal raphe were identified at the DCP level. These crossing vessels were speculated to represent an alternative pathway of least resistance in the event of occlusive diseases. Nesper and Fawzi’s observations would appear to support the theory that each of the three plexuses has its own arteriolar supply and venular drainage, which would theoretically allow each neurovascular unit to have independent control of its vascular supply under physiologic conditions. 
+ This parallel organization of the retinal circulation suggested by Nesper and Fawzi has been challenged by Freund and Sarraf [ 31 ] who have suggested a predominantly series-based arrangement of the retinal circulation, with the bulk of the venous drainage of the retina originating at the level of the DCP. The presence of collateral vessels in the setting of retinal venous occlusive disease at the level of the DCP, but not at the SCP, would appear to support this contention. 
+ Recently, using a full-spectrum probabilistic OCTA with a novel algorithm for three-dimensional projection artifact removal (PAR), Hirano and colleagues [ 39 ] investigated the retinal microcirculation. Since full-spectrum OCTA algorithms improve axial resolution, the authors provided important insights into the three-dimensional architecture of the retinal vasculature. Remarkably, unlike the MCP and DCP, the location of the SVP significantly varied among retinal regions. In all parafoveal regions tested, the SVP was featured by a small peak at the NFL-GCL junction and a larger, broader peak within the GCL. Conversely, the perifovea had only a single SVP peak. Furthermore, this peak was closer to the ILM in the perifoveal nasal, superior, and inferior quadrants. The authors presumed that this displacement was secondary to the thicker NFL associated with the arcuate and papillo-macular bundles in these regions. 
+ The nerve fibers in the retina are unmyelinated and they thus require large amounts of energy to maintain ion concentration gradients [ 40 ]. The retinal nerve fiber layer contains the radial peripapillary capillary network to supply oxygen and metabolites to the optic nerve axons. The RPCP is composed of long, straight vessels with few apparent feed points and anastomoses [ 32 ]. These capillaries arise from peripapillary retinal arterioles, extend radially from the optic disc in parallel with the nerve fiber axons, farthest along the temporal arcades [ 41 ]. 
+ Using widefield OCTA, Jia and colleagues [ 42 ] examined the RPCP flow characteristics in ten eyes of ten healthy patients and illustrated an association between perfusion in this vascular network and nerve fiber layer thickness. The perfusion of these regions may thus serve as a surrogate measure for the metabolic activity of the ganglion cell axons. The Choriocapillaris 
+ Given that previous imaging techniques have significant limitations for the evaluation of the CC, OCTA has evolved into a key technology for investigation of the CC [ 2 , 25 , 26 ]. 
+ En face OCTA images of the CC are generated by segmenting a thin slab with a thickness of 10–30-µm starting at Bruch’s membrane. In these OCTA CC en face images, small dark regions (called flow voids or signal voids) [ 43 , 44 ] alternate with granular bright areas, the latter thought to represent CC flow, and the former more likely to be secondary to CC vascular dropout or flow reduction [ 44 ]. Signal voids seem to represent the inter-capillary spaces which have been characterized in histological studies on the CC [ 45 ]. 
+ However, histological images of the CC are slightly similar to the OCTA versions. With more advanced OCTA technology, we expect to have an improved and more truthful visualization of the CC. However, an enhanced visualization of the CC network may even be obtained with commercially available devices using multiple en face image averaging [ 46 ]. The registration and averaging of sequential en face OCTA images was shown to transform the poorly defined granular appearance of the CC displayed with OCTA into a morphologic pattern that more closely represented the meshwork pattern observed on histology. Notably, not only did averaging improve CC visualization, but more precise quantitative measures of the CC were obtained. 
+ In the CC OCTA images, the number and size of the signal voids have been shown to follow a mathematical relationship of a power law: log (number of signal voids) equals a scaling factor times the log (size of signal voids) plus a constant [ 47 ]. The presence of a power law relationship presumes that the CC is characterized by a propensity for capillary segments to be affected in the vicinity of an already nonfunctional segment. 
+ As explained above, OCTA is still limited in the visualization of the medium- and larger-sized choroidal vessels. This limitation is mainly secondary to scattering by the pigment in the RPE and by the vessels in the CC, and consequent signal attenuation. Recently, Maruko and colleagues [ 48 ] used an SS OCTA device to image the choroid in healthy subjects, and subsequently employed a novel algorithm to improve the visualization of the choroidal vessels. They demonstrated that removal of the projection artifacts of CC can make the choroidal blood flow visible. Importantly, the choroidal blood flow area was correlated with choroidal thickness. Conclusions 
+ OCTA is an evolving technology which has significantly enhanced the visualization of the retinal and choroidal vessels. However, major limitations still affect its widespread application. The employment of OCTA to study ocular diseases, along with advancements of this technology, will certainly expand our knowledge of retinal and choroidal disorders. Acknowledgements 
+ Funding 
+ No funding or sponsorship was received for this study or publication of this article. Authorship 
+ All named authors meet the International Committee of Medical Journal Editors (ICMJE) criteria for authorship for this article, take responsibility for the integrity of the work as a whole, and have given their approval for this version to be published. Disclosures 
+ Enrico Borrelli: none. SriniVas Sadda: Allergan (C, F), Carl Zeiss Meditec (F), Genentech (C, F), Iconic (C), Novartis (C), Optos (C, F), Optovue (C, F), Regeneron (F), Thrombogenics (C). Akihito Uji: Bayer (F), Novartis Pharma K.K. (F), Senju (F), Nidek (F), Canon (F). Giuseppe Querques: Allergan (S, C), Alimera (S, C), Amgen (S), Bayer (S, C), KHB (S), Novartis (S, C), Roche (S), Sandoz (S), Zeiss (S, C); Bausch and Lomb (C), Heidelberg (C). Giuseppe Querques is also a member of Ophthalmology and Therapy’s Editorial Board. Compliance with Ethics Guidelines 
+ This article is based on previously conducted studies and does not contain any studies with human participants or animals performed by any of the authors. Open Access 
+ This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 International License ( http://creativecommons.org/licenses/by-nc/4.0/ ), which permits any noncommercial use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. Footnotes 
+ 
+ Enhanced Digital Features 
+ To view enhanced digital features for this article, go to 10.6084/m9.figshare.7807940. 
+ References 
+ 
+ 
+ 1. Spaide RF, Fujimoto JG, Waheed NK, Sadda SR, Staurenghi G. Optical coherence tomography angiography. Prog Retin Eye Res. 2018;64:1–55. doi: 10.1016/j.preteyeres.2017.11.003. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Borrelli E, Sarraf D, Freund KB, Sadda SR. OCT angiography and evaluation of the choroid and choroidal vascular disorders. Prog Retin Eye Res. 2018;67:30–55. doi: 10.1016/j.preteyeres.2018.07.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Tan PEZ, Yu PK, Balaratnasingam C, Cringle SJ, Morgan WH, McAllister IL, et al. Quantitative confocal imaging of the retinal microvasculature in the human retina. Investig Ophthalmol Vis Sci. 2012;53:5728–5736. doi: 10.1167/iovs.12-10017. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Chan G, Balaratnasingam C, Yu PK, Morgan WH, McAllister IL, Cringle SJ, et al. Quantitative morphometry of perifoveal capillary networks in the human retina. Investig Ophthalmol Vis Sci. 2012;53:5502–5514. doi: 10.1167/iovs.12-10265. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Ghasemi Falavarjani K, Al-Sheikh M, Akil H, Sadda SR. Image artefacts in swept-source optical coherence tomography angiography. Br J Ophthalmol [Internet]. 2016. http://bjo.bmj.com/lookup/doi/10.1136/bjophthalmol-2016-309104 . Cited 19 Jan 2017. [ DOI ] [ PubMed ] 
+ 
+ 6. Jia Y, Tan O, Tokayer J, Potsaid B, Wang Y, Liu JJ, et al. Split-spectrum amplitude-decorrelation angiography with optical coherence tomography. Opt Express [Internet]. 2012;20:4710–25. http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3381646&tool=pmcentrez&rendertype=abstract . Cited 12 Mar 2016. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 7. Uji A, Balasubramanian S, Lei J, Baghdasaryan E, Al-Sheikh M, Sadda SR. Impact of multiple en face image averaging on quantitative assessment from optical coherence tomography angiography images. Ophthalmology [Internet]. 2017. http://www.ncbi.nlm.nih.gov/pubmed/28318637 . Cited 7 June 2017. [ DOI ] [ PubMed ] 
+ 
+ 8. Uji A, Balasubramanian S, Lei J, Baghdasaryan E, Al-Sheikh M, Borrelli E, et al. Multiple enface image averaging for enhanced optical coherence tomography angiography imaging. Acta Ophthalmol. 2018;96:e820–e827. doi: 10.1111/aos.13740. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Spaide RF, Fujimoto JG, Waheed NK. Image artifacts in optical coherence tomography angiography. Retina [Internet]. 2015;35:2163–80. http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage&an=00006982-201511000-00002 . Cited 10 Jan 2017. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 10. Long AW, Zhang J, Granick S, Ferguson AL. Machine learning assembly landscapes from particle tracking data. Soft Matter [Internet]. 2015;11:8141–53. http://xlink.rsc.org/?DOI=C5SM01981H . [ DOI ] [ PubMed ] 
+ 
+ 11. Zhang M, Hwang TS, Campbell JP, Bailey ST, Wilson DJ, Huang D, et al. Projection-resolved optical coherence tomographic angiography. Biomed Opt Express [Internet]. 2016;7:816. https://www.osapublishing.org/abstract.cfm?URI=boe-7-3-816 . [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 12. Patel RC, Wang J, Hwang TS, Zhang M, Gao SS, Pennesi ME, et al. Plexus-specific detection of retinal vascular pathologic conditions with projection-resolved OCT angiography. Ophthalmol Retin. 2018;2:816–826. doi: 10.1016/j.oret.2017.11.010. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Borrelli E, Souied EH, Freund KB, Querques G, Miere A, Orly G-O, et al. Reduced choriocapillaris flow in eyes with type 3 neovascularization due to age-related macular degeneration. Retina. 2018;38:1968–1976. doi: 10.1097/IAE.0000000000002198. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Borrelli E, Shi Y, Uji A, Balasubramanian S, Sarraf D, Sadda SR. Topographical analysis of the choriocapillaris in intermediate age-related macular degeneration. Am J Ophthalmol. 2018;196:34–43. doi: 10.1016/j.ajo.2018.08.014. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Borrelli E, Uji A, Sarraf D, Sadda SR. Alterations in the choriocapillaris in intermediate age-related macular degeneration. Investig Ophthalmol Vis Sci. 2017;58:4792–4798. doi: 10.1167/iovs.17-22360. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Choi W, Mohler KJ, Potsaid B, Lu CD, Liu JJ, Jayaraman V, et al. Choriocapillaris and choroidal microvasculature imaging with ultrahigh speed OCT angiography. PLoS One [Internet]. 2013;8:e81499. http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3859478&tool=pmcentrez&rendertype=abstract . Cited 20 May 2015. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 17. Poddar R, Migacz JV, Schwartz DM, Werner JS, Gorczynska I. Challenges and advantages in widefield optical coherence tomography angiography imaging of the human retinal and choroidal vasculature at 1.7-MHz A-scan rate. J Biomed Opt. 2017;20:1–14. doi: 10.1117/1.JBO.22.10.106018. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Maruko I, Kawano T, Arakawa H, Hasegawa T, Iida T. Visualizing large choroidal blood flow by subtraction of the choriocapillaris projection artifacts in swept source optical coherence tomography angiography in normal eyes. Sci Rep. 2018;8:15694. doi: 10.1038/s41598-018-34102-6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Corvi F, Pellegrini M, Erba S, Cozzi M, Staurenghi G, Giani A. Reproducibility of vessel density, fractal dimension, and foveal avascular zone using 7 different optical coherence tomography angiography devices. Am J Ophthalmol. 2018;186:25–31. doi: 10.1016/j.ajo.2017.11.011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Rabiolo A, Gelormini F, Marchese A, Cicinelli MV, Triolo G, Sacconi R, et al. Macular perfusion parameters in different angiocube sizes: Does the size matter in quantitative optical coherence tomography angiography? Investig Ophthalmol Vis Sci. 2018;59:231–237. doi: 10.1167/iovs.17-22359. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Rabiolo A, Gelormini F, Sacconi R, Cicinelli MV, Triolo G, Bettin P, et al. Comparison of methods to quantify macular and peripapillary vessel density in optical coherence tomography angiography. Cheung G, editor. PLoS One [Internet]. 2018;13:e0205773. http://www.ncbi.nlm.nih.gov/pubmed/30335815 . Cited 12 Dec 2018. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 22. Durbin MK, An L, Shemonski ND, Soares M, Santos T, Lopes M, et al. Quantification of retinal microvascular density in optical coherence tomographic angiography images in diabetic retinopathy. JAMA Ophthalmol [Internet]. 2017;135:370. http://www.ncbi.nlm.nih.gov/pubmed/28301651 . Cited 7 June 2017. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 23. Borrelli E, Balasubramanian S, Triolo G, Barboni P, Sadda SR, Sadun AA. Topographic macular microvascular changes and correlation with visual loss in chronic leber hereditary optic neuropathy. Am J Ophthalmol [Internet]. 2018;192:217–28. http://www.ncbi.nlm.nih.gov/pubmed/29885298 . Cited 17 July 2018. [ DOI ] [ PubMed ] 
+ 
+ 24. Zahid S, Dolz-Marco R, Freund KB, Balaratnasingam C, Dansingani K, Gilani F, et al. Fractal dimensional analysis of optical coherence tomography angiography in eyes with diabetic retinopathy. Investig Ophthalmol Vis Sci. 2016;57:4940–4947. doi: 10.1167/iovs.16-19656. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Sacconi R, Borrelli E, Corbelli E, Capone L, Rabiolo A, Carnevali A, et al. Quantitative changes in the ageing choriocapillaris as measured by swept source optical coherence tomography angiography. Br J Ophthalmol [Internet]. 2018. http://www.ncbi.nlm.nih.gov/pubmed/30361273 . Cited 7 Dec 2018. [ DOI ] [ PubMed ] 
+ 
+ 26. Nassisi M, Baghdasaryan E, Tepelus T, Asanad S, Borrelli E, Sadda SR. Topographic distribution of choriocapillaris flow deficits in healthy eyes. Vavvas DG, editor. PLoS One. 2018;13:e0207638. doi: 10.1371/journal.pone.0207638. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Savastano MC, Lumbroso B, Rispoli M. In vivo characterization of retinal vascularization morphology using optical coherence tomography angiography. Retina. 2015;35:2196–2203. doi: 10.1097/IAE.0000000000000635. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Garrity ST, Paques M, Gaudric A, Freund KB, Sarraf D. Considerations in the understanding of venous outflow in the retinal capillary plexus. Retina. 2017;37:1809–1812. doi: 10.1097/IAE.0000000000001784. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Campbell JP, Zhang M, Hwang TS, Bailey ST, Wilson DJ, Jia Y, et al. Detailed vascular anatomy of the human retina by projection-resolved optical coherence tomography angiography. Sci Rep. 2017;7:42201. doi: 10.1038/srep42201. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Nesper PL, Fawzi AA. Human parafoveal capillary vascular anatomy and connectivity revealed by optical coherence tomography angiography. Investig Ophthalmol Vis Sci. 2018;59:3858–3867. doi: 10.1167/iovs.18-24710. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Freund KB, Sarraf D, Leong BCS, Garrity ST, Vupparaboina KK, Dansingani KK. Association of optical coherence tomography angiography of collaterals in retinal vein occlusion with major venous outflow through the deep vascular complex. JAMA Ophthalmol. 2018;136:1262–1270. doi: 10.1001/jamaophthalmol.2018.3586. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Muraoka Y, Uji A, Ishikura M, Iida Y, Ooto S, Tsujikawa A. Segmentation of the four-layered retinal vasculature using high-resolution optical coherence tomography angiography reveals the microcirculation unit. Investig Opthalmol Vis Sci [Internet]. The Association for Research in Vision and Ophthalmology; 2018;59:5847. http://iovs.arvojournals.org/article.aspx?doi=10.1167/iovs.18-25301 . Cited 6 Jan 2019. [ DOI ] [ PubMed ] 
+ 
+ 33. Gariano RF, Iruela-Arispe ML, Hendrickson AE. Vascular development in primate retina: comparison of laminar plexus formation in monkey and human. Investig Ophthalmol Vis Sci. 1994;35:3442–3455. [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Coscas F, Sellam A, Glacet-Bernard A, Jung C, Goudot M, Miere A, et al. Normative data for vascular density in superficial and deep capillary plexuses of healthy adults assessed by optical coherence tomography angiography. Investig Ophthalmol Vis Sci. 2016;57:OCT211–OCT223. doi: 10.1167/iovs.15-18793. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Garrity ST, Iafe NA, Phasukkijwatana N, Chen X, Sarraf D. Quantitative analysis of three distinct retinal capillary plexuses in healthy eyes using optical coherence tomography angiography. Investig Ophthalmol Vis Sci. 2017;58:5548–5555. doi: 10.1167/iovs.17-22036. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Borrelli E, Lonngi M, Balasubramanian S, Tepelus TC, Baghdasaryan E, Iafe NA, et al. Macular microvascular networks in healthy pediatric subjects. Retina. 2018 doi: 10.1097/IAE.0000000000002123. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Al-Sheikh M, Phasukkijwatana N, Dolz-Marco R, Rahimi M, Iafe NA, Freund KB, et al. Quantitative OCT angiography of the retinal microvasculature and the choriocapillaris in myopic eyes. Investig Ophthalmol Vis Sci [Internet]. 2017;58 (in press) . http://www.ncbi.nlm.nih.gov/pubmed/28388703 . Cited 26 Apr 2017. [ DOI ] [ PubMed ] 
+ 
+ 38. Lee WH, Park J-H, Won Y, Lee M-W, Shin Y-I, Jo Y-J, et al. Retinal microvascular change in hypertension as measured by optical coherence tomography angiography. Sci Rep [Internet]. Nature Publishing Group; 2019;9:156. http://www.ncbi.nlm.nih.gov/pubmed/30655557 . Cited 17 Feb 2019. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 39. Hirano T, Chanwimol K, Weichsel J, Tepelus T, Sadda S. Distinct retinal capillary plexuses in normal eyes as observed in optical coherence tomography angiography axial profile analysis. Sci Rep. 2018;8:9380. doi: 10.1038/s41598-018-27536-5. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Carelli V, La Morgia C, Sadun AA. Mitochondrial dysfunction in optic neuropathies: animal models and therapeutic options. Curr Opin Neurol. 2013;26:52–58. doi: 10.1097/WCO.0b013e32835c5f0b. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Henkind P. Radial peripapillary capillaries of the retina. I. Anatomy: human and comparative. Br J Ophthalmol. 1967;51:115–123. doi: 10.1136/bjo.51.2.115. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Jia Y, Simonett JM, Wang J, Hua X, Liu L, Hwang TS, et al. Wide-field OCT angiography investigation of the relationship between radial peripapillary capillary plexus density and nerve fiber layer thickness. Investig Ophthalmol Vis Sci. 2017;58:5188–5194. doi: 10.1167/iovs.17-22593. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Choi W, Moult EM, Waheed NK, Adhi M, Lee B, Lu CD, et al. Ultrahigh-speed, swept-source optical coherence tomography angiography in nonexudative age-related macular degeneration with geographic atrophy. Ophthalmology [Internet]. 2015;122:2532–44. http://linkinghub.elsevier.com/retrieve/pii/S0161642015008854 . Cited 20 Jan 2017. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 44. Spaide RF. Choriocapillaris signal voids in maternally inherited diabetes and deafness and in pseudoxanthoma elasticum. Retina [Internet]. 2017;1. http://insights.ovid.com/crossref?an=00006982-900000000-97141 . Cited 17 May 2017. [ DOI ] [ PubMed ] 
+ 
+ 45. Seddon JM, McLeod DS, Bhutto IA, Villalonga MB, Silver RE, Wenick AS, et al. Histopathological insights into choroidal vascular loss in clinically documented cases of age-related macular degeneration. JAMA Ophthalmol [Internet]. 2016. http://www.ncbi.nlm.nih.gov/pubmed/27657855 . Cited 18 Oct 2016. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 46. Uji A, Balasubramanian S, Lei J, Baghdasaryan E, Al-Sheikh M, Sadda SR. Choriocapillaris imaging using multiple en face optical coherence tomography angiography image averaging. JAMA Ophthalmol [Internet]. 2017. http://archopht.jamanetwork.com/article.aspx?doi=10.1001/jamaophthalmol.2017.3904 . Cited 5 Oct 2017. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 47. Spaide RF. Choriocapillaris flow features follow a power law distribution: implications for characterization and mechanisms of disease progression. Am J Ophthalmol [Internet]. 2016;170:58–67. http://www.ncbi.nlm.nih.gov/pubmed/27496785 . Cited 18 Oct 2016. [ DOI ] [ PubMed ] 
+ 
+ 48. Maruko I, Kawano T, Arakawa H, Hasegawa T, Iida T. Visualizing large choroidal blood flow by subtraction of the choriocapillaris projection artifacts in swept source optical coherence tomography angiography in normal eyes. Sci Rep. 2018 doi: 10.1038/s41598-018-34102-6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

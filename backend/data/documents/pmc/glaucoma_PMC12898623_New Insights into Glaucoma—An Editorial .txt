@@ -1,0 +1,120 @@
+Source: PubMed Central (PMC)
+PMCID: PMC12898623
+Title: New Insights into Glaucoma—An Editorial Review
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12898623/
+Year: 2026
+Disease: glaucoma
+Priority: 1
+============================================================
+
+editorial J Clin Med . 2026 Feb 4;15(3):1213. doi: 10.3390/jcm15031213 
+ 
+ 
+ New Insights into Glaucoma—An Editorial Review on Broadening Risk Assessment, Refining Surgical Strategy, and Standardizing Clinical Practice 
+ Su-Ho Lim 
+ Su-Ho Lim 
+ 
+ 1 Hamilton Glaucoma Center, Shiley Eye Institute, Viterbi Family Department of Ophthalmology, University of California San Diego, La Jolla, CA 92037, USA 
+ 
+ 2 Department of Ophthalmology, Daegu Veterans Health Service Medical Center, Daegu 42835, Republic of Korea 
+ Find articles by Su-Ho Lim 
+ 
+ 
+ 1, 2, *, † , Daniel Laroche 
+ Daniel Laroche 
+ 
+ 3 Advanced Eyecare of New York, New York, NY 10027, USA 
+ Find articles by Daniel Laroche 
+ 
+ 
+ 3, *, † 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Hamilton Glaucoma Center, Shiley Eye Institute, Viterbi Family Department of Ophthalmology, University of California San Diego, La Jolla, CA 92037, USA 
+ 
+ 2 Department of Ophthalmology, Daegu Veterans Health Service Medical Center, Daegu 42835, Republic of Korea 
+ 
+ 3 Advanced Eyecare of New York, New York, NY 10027, USA 
+ 
+ 
+ * Correspondence: mdshlim@gmail.com (S.-H.L.); dlarochemd@aol.com (D.L.); Tel.: +82-53-630-7572 (S.-H.L.); +1-212-663-0473 (D.L.) 
+ 
+ 
+ † These authors contributed equally to this work. 
+ 
+ 
+ 
+ Received 2026 Jan 29; Accepted 2026 Feb 2; Collection date 2026 Feb. 
+ 
+ © 2026 by the authors. 
+ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license . 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC12898623  PMID: 41682896 
+ 
+ 
+ Glaucoma remains a major leading cause of irreversible blindness worldwide, with disease progression influenced by complex interactions, such as intraocular pressure (IOP), optic nerve head structure, vascular factors, multiple systemic diseases, and long-term treatment tolerability [ 1 , 2 ]. While lowering IOP remains the only proven strategy to slow disease progression, effective glaucoma care in practice is affected by various factors including accurate IOP measurement, treatment adherence, the management of coexisting ocular diseases, the appropriate selection of surgical options, and postoperative management [ 1 , 2 ]. In this context, this Special Issue of Journal of Clinical Medicine , “New Insights into Glaucoma” brings together ten studies that address these challenges across diagnostics, medical therapy, and surgery, offering pragmatic, clinically relevant evidence to inform and guide everyday decision-making. 
+ 1. Introduction 
+ Glaucoma is a progressive optic neuropathy with highly variable clinical trajectories, even among patients with similar IOP levels and structural damage [ 1 , 2 ]. Large clinical trials and population-based studies have clarified the advantage of IOP reduction and identified risk factors including systemic, vascular, and treatment-related elements beyond IOP control alone [ 1 , 3 , 4 ]. The contributions in this Special Issue build on this foundation by highlighting how the measurement context, ocular surface health, affordability, surgical technique, lens extraction, affordable microinvasive glaucoma surgery, and systemic comorbidity can meaningfully influence outcomes over a patient’s lifetime. 2. Measurement Matters: IOP as a Contextualized Parameter 
+ IOP remains the cornerstone of glaucoma management; however, its interpretation is highly dependent on measurement conditions [ 2 , 3 , 4 ]. In routine clinical practice, IOP is frequently measured after visual field testing without considering the potential short-term physiological effects. Jang et al. (Special Issue) directly addressed this issue by demonstrating that automated visual field testing is associated with measurable changes in IOP when comparing pre- and post-visual field test measurements (DOI: 10.3390/jcm14186356). This finding is consistent with previous reports showing that perimetric testing itself can influence short-term IOP behavior [ 5 ] and has clear practical implications. 
+ Measurement challenges are even more pronounced in pediatric glaucoma and eyes with anterior segment abnormalities. Studer et al. (Special Issue) compared Goldmann applanation tonometry, iCare PRO, and Tono-Pen measurements under general anesthesia in young children (DOI: 10.3390/jcm14103338). Their results highlight device-dependent differences that may affect longitudinal assessments, reinforcing the need for consistency in tonometry modalities and cautious interpretation of absolute IOP values in pediatric care. 3. Glaucoma Medication, Ocular Surface Health, and Sustainability 
+ Long-term glaucoma medical therapy remains central to glaucoma care. However, its effectiveness is limited by ocular surface toxicity and poor adherence [ 6 ]. Preservatives such as benzalkonium chloride have been shown to induce inflammation, discomfort, and reduced quality of life, which in turn compromise treatment persistence and surgical readiness [ 1 , 6 ]. 
+ In this context, Kim et al. (Special Issue) conducted a randomized clinical trial to compare preserved and preservative-free fixed combinations of brimonidine and timolol (DOI: 10.3390/jcm14051587). Although the IOP-lowering efficacy was comparable, the preservative-free formulation demonstrated superior ocular surface outcomes and improved tolerability compared with the preservative-containing formulation in their study. Clinically, this study supports a shift toward treatment strategies that prioritize long-term sustainability over short-term pressure reduction alone, while also reminding us of the importance of surgery in reducing medication burden and the potential lifelong side effects associated with chronic topical therapy 4. Surgical Accessibility and Equity: Low-Cost but Effective Options 
+ As the global burden of glaucoma has increased, disparities in access to surgical care have become increasingly evident. Calderon and Laroche et al. (Special Issue) addressed this challenge by evaluating a low-cost surgical approach, the Sinskey hook goniotomy combined with cataract surgery, in Black and Afro-Latino patients with glaucoma (DOI: 10.3390/jcm14103266). At one year postoperatively, clinically meaningful IOP lowering and a significant reduction in medication burden were achieved, with a high proportion of patients remaining medication-free. This study expands on previous work on angle-based minimally invasive glaucoma surgery by demonstrating that an effective glaucoma intervention does not always require expensive disposable devices [ 7 , 8 ]. Its inclusion in this Special Issue highlights its affordability as a legitimate dimension of surgical innovation and underscores the importance of aligning technique selection with population-specific needs, an especially important consideration for patients in resource-poor areas globally. 5. Surgical Outcomes: Techniques, Devices, and Preoperative Evaluation 
+ Surgical success in glaucoma depends not only on the choice of procedures but also on tissue characteristics and perioperative management [ 9 ]. Several studies in this Special Issue illustrate how incremental refinements can improve outcomes. Yamazaki et al. (Special Issue) investigated whether preoperative exposure to prostaglandin analogs with differing potentials for prostaglandin-associated periorbitopathy (PAP) influences outcomes after trabeculectomy and Ahmed glaucoma valve implantation (DOI: 10.3390/jcm14196940). Their findings suggest that chronic topical glaucoma medication may affect periocular tissue response and relative surgical success, reinforcing the need to consider preoperative glaucoma medication history during surgical planning. 
+ Device-based surgery is addressed in two complementary articles in this Special Issue. Kim et al. (Special Issue) present two-year outcomes of ab interno XEN45 gel stent implantation in open-angle glaucoma (DOI: 10.3390/jcm14134617), demonstrating sustained IOP reduction despite frequent early hypotony that generally resolved over time. In pseudoexfoliation glaucoma, Gehrke et al. (Special Issue) showed that temporary intraluminal nylon stenting during PRESERFLO MicroShunt implantation reduced early hypotony-related complications (DOI: 10.3390/jcm14176224). These studies highlight how postoperative safety can be improved through thoughtful modulation of aqueous outflow rather than wholesale changes in surgical strategy. In addition, a long-term perspective is essential. Fiore et al. (Special Issue) report five-year outcomes of deep sclerectomy in pseudoexfoliation versus primary open-angle glaucoma (DOI: 10.3390/jcm13237434), providing valuable diagnosis-specific data that inform patient counseling and long-term follow-up strategies. 6. Systemic and Sensory Dimensions of Glaucoma 
+ Growing evidence supports a broader view of glaucoma as a condition influenced by systemic vascular and cardiometabolic factors rather than an isolated ocular disorder [ 1 , 2 , 3 , 4 ]. In this context, Lee and Seo et al. (Special Issue) employed a two-sample Mendelian randomization approach to investigate the relationship between atrial fibrillation/flutter and primary open-angle glaucoma (DOI: 10.3390/jcm13247670). Using genetic variants as instrumental variables, this study minimized the residual confounding and reverse causation inherent in conventional observational analyses and provided evidence supporting a potential causal association between atrial fibrillation/flutter and glaucoma. These findings extend previous epidemiological observations and underscore the clinical relevance of cardiovascular risk profiling and interdisciplinary collaboration for glaucoma care, while highlighting the importance of reinforcing healthy diet and exercise habits in our patients to maintain optimal cardiovascular health. 
+ Beyond vascular comorbidity, Meliante et al. (Special Issue) explored the relationship between asymmetric glaucoma and ipsilateral hearing impairment (DOI: 10.3390/jcm13216501). Although exploratory, their findings raise clinically relevant questions regarding multisensory dysfunction and quality-of-life considerations, particularly in patients with unilateral or asymmetric diseases. 7. Concluding Perspective 
+ The studies featured in this Special Issue collectively advance our understanding of glaucoma as a multifactorial disease influenced by ocular, systemic, and socioeconomic variables. Together, they emphasize that individualized care grounded in context-specific measurement, ocular surface preservation, surgical precision, and affordability can deliver sustained benefits over a patient’s lifetime. By exploring innovations such as affordable microinvasive glaucoma surgery, combined with lens extraction, these contributions demonstrate that surgical success need not depend on costly instrumentation but rather on thoughtful adaptation to clinical contexts and patient needs, particularly in resource-limited regions. 
+ Equally important, the findings underscore that comprehensive glaucoma management extends well beyond IOP reduction. The integration of systemic risk assessment, cardiovascular health promotion through diet and exercise, and a reduction in medication-related burden through timely surgical intervention represent a truly multidisciplinary approach. As this body of work shows, sustainable glaucoma care in the modern era relies on aligning technological innovation, clinical insights, and global health equity to secure meaningful, lifelong outcomes for patients across diverse populations. By integrating established evidence from prior publications, this Special Issue offers personalized, long-lasting, and equitable clinically relevant insights into glaucoma management. Acknowledgments 
+ The authors acknowledge the use of Paperpal Preflight (Paperpal, Cactus Communications) for assistance with English language editing. The scientific content and interpretations are the sole responsibility of the authors. Abbreviations 
+ The following abbreviations are used in this manuscript:
+ 
+ 
+ IOP 
+ Intraocular pressure 
+ 
+ Open in a new tab Author Contributions 
+ Conceptualization, S.-H.L. and D.L.; methodology, S.-H.L. and D.L.; validation, S.-H.L. and D.L.; data curation, S.-H.L. and D.L.; writing—original draft preparation, S.-H.L.; writing—review and editing, S.-H.L. and D.L.; supervision, S.-H.L. and D.L.; project administration, S.-H.L. and D.L. All authors have read and agreed to the published version of the manuscript. Conflicts of Interest 
+ The authors declare no conflicts of interest. List of Contributions 
+ 
+ Jang, W.J.; Chung, H.J.; Lee, M.W.; Kim, J.T.; Lim, H.-B.; Park, K.S. Effect of visual field test on intraocular pressure in glaucoma patients. J. Clin. Med.   2025 , 14 , 6356. 
+ Studer, M.K.; Iliev, M.; Tappeiner, C.; Frueh, B.E.; Fraenkl, S.A. Comparison of intraocular pressure measurements with Perkins applanation tonometry, iCare PRO, and Tono-Pen in young children under general anesthesia with anterior segment abnormalities. J. Clin. Med.   2025 , 14 , 3338. 
+ Kim, M.; Lee, C.-K.; Shin, J.; Kim, D.; Rho, S. Preserved versus preservative-free brimonidine/timolol fixed combination in patients with glaucoma: A randomized controlled trial. J. Clin. Med.   2025 , 14 , 1587. 
+ Calderon, I.; Laroche, D. Affordable Sinskey hook goniotomy combined with cataract surgery in Black and Afro-Latino patients diagnosed with glaucoma: Retrospective real-world one-year results. J. Clin. Med.   2025 , 14 , 3266. 
+ Yamazaki, I.; Kimura, M.; Sakamoto, R.; Kawai, Y.; Tsukamura, T.; Morita, H.; Kato, A.; Ozeki, H.; Nozaki, M.; Yasukawa, T. Preoperative prostaglandin analogues with high versus low prostaglandin-associated periorbitopathy–inducing potential and outcomes of trabeculectomy and Ahmed glaucoma valve implantation. J. Clin. Med.   2025 , 14 , 6940. 
+ Kim, D.; Kim, M.; Lee, M.; Rho, S. Ab interno XEN45 gel stent implantation in open-angle glaucoma: Two-year outcomes. J. Clin. Med.   2025 , 14 , 4617. 
+ Gehrke, M.; Keidel, L.F.; Buhl, L.; Priglinger, S.G.; Mackert, M.J. Early outcomes of intraluminal 10-0 nylon stenting during PRESERFLO™ MicroShunt implantation in pseudoexfoliation glaucoma. J. Clin. Med.   2025 , 14 , 6224. 
+ Fiore, C.; Shang, X.; Lincke, J.-B.; Häner, N.U.; Zinkernagel, M.S.; Unterlauft, J.D. Five-year outcomes of deep sclerectomy in pseudoexfoliation glaucoma compared with primary open-angle glaucoma. J. Clin. Med.   2024 , 13 , 7434. 
+ Lee, Y.; Seo, J.H. Potential causal association between atrial fibrillation/flutter and primary open-angle glaucoma: A two-sample Mendelian randomization study. J. Clin. Med.   2024 , 13 , 7670. 
+ Meliante, L.A.; Coco, G.; Francavilla, B.; Bianchi, M.; Velletrani, G.; Di Girolamo, S.; Manni, G. Asymmetric glaucoma and ipsilateral hearing impairment. J. Clin. Med.   2024 , 13 , 6501. 
+ Funding Statement 
+ This research received no external funding. Footnotes 
+ Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content. References 
+ 
+ 
+ 1. Gedde S.J., Vinod K., Wright M.M., Muir K.W., Lind J.T., Chen P.P., Li T., Mansberger S.L. Primary Open-Angle Glaucoma Preferred Practice Pattern(R) Ophthalmology. 2021;128:P71–P150. doi: 10.1016/j.ophtha.2020.10.022. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Weinreb R.N., Aung T., Medeiros F.A. The pathophysiology and treatment of glaucoma: A review. JAMA. 2014;311:1901–1911. doi: 10.1001/jama.2014.3192. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Meier-Gibbons F., Toteberg-Harms M. Follow-up studies of the classical landmark studies in Glaucoma. Curr. Opin. Ophthalmol. 2023;34:116–122. doi: 10.1097/ICU.0000000000000926. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Wishart P.K. Interpretation of the glaucoma “landmark studies”. Br. J. Ophthalmol. 2009;93:561–562. doi: 10.1136/bjo.2008.145532. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Li M., Zheng B., Wang Q., Sun X. Impact of Visual Field Testing on Intraocular Pressure Change Trends in Healthy People and Glaucoma Patients. J. Ophthalmol. 2020;2020:7936205. doi: 10.1155/2020/7936205. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Kim D.W., Seo J.H., Lim S.H. Evaluation of ocular surface disease in elderly patients with glaucoma: Expression of matrix metalloproteinase-9 in tears. Eye. 2021;35:892–900. doi: 10.1038/s41433-020-0993-y. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Galvez-Olortegui J., Burgueno-Montanes C., Silva-Ocas I., Bernales-Urbina S., Galvez-Olortegui T. Minimally Invasive Glaucoma Surgery (MIGS) recommendations in Clinical Practice Guidelines for open angle glaucoma and MIGS procedures: A scoping review. Eur. J. Ophthalmol. 2025;35:602–610. doi: 10.1177/11206721241276223. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Lavia C., Dallorto L., Maule M., Ceccarelli M., Fea A.M. Minimally-invasive glaucoma surgeries (MIGS) for open angle glaucoma: A systematic review and meta-analysis. PLoS ONE. 2017;12:e0183142. doi: 10.1371/journal.pone.0183142. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Gedde S.J., Feuer W.J., Lim K.S., Barton K., Goyal S., Ahmed I.I., Brandt J.D., Primary Tube Versus Trabeculectomy Study G. Treatment Outcomes in the Primary Tube Versus Trabeculectomy Study after 5 Years of Follow-up. Ophthalmology. 2022;129:1344–1356. doi: 10.1016/j.ophtha.2022.07.003. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

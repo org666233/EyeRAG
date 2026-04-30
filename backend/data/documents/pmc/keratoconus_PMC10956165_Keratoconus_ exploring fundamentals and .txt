@@ -1,0 +1,1772 @@
+Source: PubMed Central (PMC)
+PMCID: PMC10956165
+Title: Keratoconus: exploring fundamentals and future perspectives
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10956165/
+Year: 2024
+Disease: keratoconus
+Priority: 2
+============================================================
+
+Ther Adv Ophthalmol . 2024 Mar 20;16:25158414241232258. doi: 10.1177/25158414241232258 
+ 
+ 
+ Keratoconus: exploring fundamentals and future perspectives – a comprehensive systematic review 
+ Sana Niazi 
+ Sana Niazi 
+ 
+ 1 Translational Ophthalmology Research Center, Tehran University of Medical Sciences, Tehran, Iran 
+ 
+ 2 Ophthalmic Research Center, Research Institute for Ophthalmology and Vision Science, Shahid Beheshti University of Medical Sciences, Tehran, Iran 
+ Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing – original draft, Writing – review & editing 
+ Find articles by Sana Niazi 
+ 
+ 
+ 1, 2 , Zisis Gatzioufas 
+ Zisis Gatzioufas 
+ 
+ 3 Department of Ophthalmology, University Eye Hospital Basel, Basel, Switzerland 
+ Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing – original draft, Writing – review & editing 
+ Find articles by Zisis Gatzioufas 
+ 
+ 
+ 3 , Farideh Doroodgar 
+ Farideh Doroodgar 
+ 
+ 4 Translational Ophthalmology Research Center, Tehran University of Medical Sciences, Tehran Province, Tehran, District 6, Pour Sina St, P94V+8MF, Tehran 1416753955, Iran 
+ 
+ 5 Negah Aref Ophthalmic Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran 
+ Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing – original draft, Writing – review & editing 
+ Find articles by Farideh Doroodgar 
+ 
+ 
+ 4, 5, ✉ , Oliver Findl 
+ Oliver Findl 
+ 
+ 6 Department of Ophthalmology, Hanusch Hospital, Vienna Institute for Research in Ocular Surgery (VIROS), Vienna, Austria 
+ Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Resources, Software, Supervision, Visualization, Writing – original draft, Writing – review & editing 
+ Find articles by Oliver Findl 
+ 
+ 
+ 6 , Alireza Baradaran-Rafii 
+ Alireza Baradaran-Rafii 
+ 
+ 7 Department of Ophthalmology, Morsani College of Medicine, University of South Florida, Tampa, FL, USA 
+ Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing – original draft, Writing – review & editing 
+ Find articles by Alireza Baradaran-Rafii 
+ 
+ 
+ 7 , Jacob Liechty 
+ Jacob Liechty 
+ 
+ 8 Department of Ophthalmology, Morsani College of Medicine, University of South Florida, Tampa, FL, USA 
+ Conceptualization, Investigation, Methodology, Software, Validation, Writing – original draft 
+ Find articles by Jacob Liechty 
+ 
+ 
+ 8 , Majid Moshirfar 
+ Majid Moshirfar 
+ 
+ 9 John A. Moran Eye Center, University of Utah, Salt Lake City, UT, USA 
+ Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing – original draft, Writing – review & editing 
+ Find articles by Majid Moshirfar 
+ 
+ 
+ 9 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Translational Ophthalmology Research Center, Tehran University of Medical Sciences, Tehran, Iran 
+ 
+ 2 Ophthalmic Research Center, Research Institute for Ophthalmology and Vision Science, Shahid Beheshti University of Medical Sciences, Tehran, Iran 
+ 
+ 3 Department of Ophthalmology, University Eye Hospital Basel, Basel, Switzerland 
+ 
+ 4 Translational Ophthalmology Research Center, Tehran University of Medical Sciences, Tehran Province, Tehran, District 6, Pour Sina St, P94V+8MF, Tehran 1416753955, Iran 
+ 
+ 5 Negah Aref Ophthalmic Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran 
+ 
+ 6 Department of Ophthalmology, Hanusch Hospital, Vienna Institute for Research in Ocular Surgery (VIROS), Vienna, Austria 
+ 
+ 7 Department of Ophthalmology, Morsani College of Medicine, University of South Florida, Tampa, FL, USA 
+ 
+ 8 Department of Ophthalmology, Morsani College of Medicine, University of South Florida, Tampa, FL, USA 
+ 
+ 9 John A. Moran Eye Center, University of Utah, Salt Lake City, UT, USA 
+ 
+ ✉ Email: f-doroodgar@farabi.tums.ac.ir 
+ 
+ Roles 
+ 
+ Sana Niazi : Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing – original draft, Writing – review & editing 
+ 
+ 
+ Zisis Gatzioufas : Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing – original draft, Writing – review & editing 
+ 
+ 
+ Farideh Doroodgar : Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing – original draft, Writing – review & editing 
+ 
+ 
+ Oliver Findl : Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Resources, Software, Supervision, Visualization, Writing – original draft, Writing – review & editing 
+ 
+ 
+ Alireza Baradaran-Rafii : Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing – original draft, Writing – review & editing 
+ 
+ 
+ Jacob Liechty : Conceptualization, Investigation, Methodology, Software, Validation, Writing – original draft 
+ 
+ 
+ Majid Moshirfar : Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing – original draft, Writing – review & editing 
+ 
+ 
+ Received 2023 Apr 7; Accepted 2024 Jan 22; Collection date 2024 Jan-Dec. 
+ 
+ © The Author(s), 2024 
+ This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License ( https://creativecommons.org/licenses/by-nc/4.0/ ) which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access page ( https://us.sagepub.com/en-us/nam/open-access-at-sage ). 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC10956165  PMID: 38516169 
+ 
+ Abstract 
+ Background: 
+ New developments in artificial intelligence, particularly with promising results in early detection and management of keratoconus, have favorably altered the natural history of the disease over the last few decades. Features of artificial intelligence in different machine such as anterior segment optical coherence tomography, and femtosecond laser technique have improved safety, precision, effectiveness, and predictability of treatment modalities of keratoconus (from contact lenses to keratoplasty techniques). These options ingrained in artificial intelligence are already underway and allow ophthalmologist to approach disease in the most non-invasive way. Objectives: 
+ This study comprehensively describes all of the treatment modalities of keratoconus considering machine learning strategies. Design: 
+ A multidimensional comprehensive systematic narrative review. Data sources and methods: 
+ A comprehensive search was done in the five main electronic databases (PubMed, Scopus, Web of Science, Embase, and Cochrane), without language and time or type of study restrictions. Afterward, eligible articles were selected by screening the titles and abstracts based on main mesh keywords. For potentially eligible articles, the full text was also reviewed. Results: 
+ Artificial intelligence demonstrates promise in keratoconus diagnosis and clinical management, spanning early detection (especially in subclinical cases), preoperative screening, postoperative ectasia prediction after keratorefractive surgery, and guiding surgical decisions. The majority of studies employed a solitary machine learning algorithm, whereas minor studies assessed multiple algorithms that evaluated the association of various keratoconus staging and management strategies. Last but not least, AI has proven effective in guiding the implantation of intracorneal ring segments in keratoconus corneas and predicting surgical outcomes. Conclusion: 
+ The efficient and widespread clinical translation of machine learning models in keratoconus management is a crucial goal of potential future approaches to better visual performance in keratoconus patients. Trial registration: 
+ The article has been registered through PROSPERO, an international database of prospectively registered systematic reviews, with the ID: CRD42022319338 Keywords: astigmatism, computer, contact lenses, cross-linking reagents, deep learning, diet, food, keratoplasty, keratorefractive surgical procedure, neural networks, nutrition, penetrating, machine learning, phakic IOLs Plain language summary 
+ 
+Keratoconus: from fundamentals to future
+ 
+ Artificial intelligence has changed how we treat the eye disease keratoconus in recent years. This study examines the many keratoconus therapies available, including surgery and contact lens wear, and how artificial intelligence can improve the safety and accuracy of these procedures. We combed through numerous papers to locate this data. To achieve the best outcomes, several parameters and methods should be evaluated. According to the study, some elements from eye scans are more useful than others. The idea behind using artificial intelligence is to help patients see better and treat keratoconus more effectively. Introduction 
+ The advent of artificial intelligence in ophthalmology 
+ 1 
+ neural network algorithms and deep learning strategies in keratoconus (KC) diagnosis, 
+ 2 
+ genetic, 
+ 3 
+ and molecular biologic tests 
+ 4 
+ alter the natural history of KC. 5 – 7 This may allow us to think that KC is a different specialization of ophthalmology rather than just a clinical disorder. 
+ First and foremost, a complete examination, including multimodal imaging 8 , 9 public awareness, 
+ 10 
+ and patient education 
+ 11 
+ are critical components of the overall effort to battle this debilitating corneal disease. 
+ Corneal cross-linking (CXL) known as the mainstay approach to impede progression of keratoconus 
+ 12 
+ ; however, debates about ‘epi-on’, ‘epi-off’ procedures, ‘accelerated’, ‘pulsed’, and ‘customized’ CXL, and riboflavin solutions are continuing and clarification about ‘gold standard’ in CXL therapies need more investigation. 
+ 13 
+ Patients with KC can present with high anisometropia 
+ 14 
+ ; Therefore, it can be challenging to achieve best bilateral visual acuity with various contact lens designs (scleral, hybrid, and piggyback) without requiring invasive surgery 15 , 16 or frames. In these cases, combined procedures may represent an option to provide these patients with the greatest visual potential bilaterally. The combination of cross-linking with a refractive operation (either two or three procedures such as photorefractive keratectomy 17 , 18 with mitomycin-C applications, 
+ 19 
+ phakic intraocular lenses (pIOLs), 20 , 21 or intracorneal ring segment implantation) called ‘corneal cross-linking Plus’ halt keratoconus development while also correcting refractive error. 
+ 22 
+ 
+ Noninvasive keratoplasty approaches such as Bowman’s layer transplantation, additive keratoplasty (i.e. corneal allogenic intrastromal ring 23 , 24 or customized lenticule Implantation 
+ 25 
+ ), and cellular therapies, 26 , 27 have gradually unveiled increasingly accessible pathways in the field. However, there are conflicting reports regarding their effectiveness. Challenges to reaching a consensus about technique and materials and methods for cross-linking, 28 , 29 laser surgeries, 30 – 32 implanting rings, 33 , 34 and keratoplasty’s approaches request a robust nomogram. 
+ The subjective realm of AI contrasts with the linear statistical nature of traditional modalities and mathematical corneal models. 35 , 36 Machine learning (ML), a subset of AI encompassing supervised, unsupervised, and reinforcement learning, has evolved as a critical tool in detecting KC using various types of neural networks (NNTs), automated decision trees, and support vector machines (SVM) 2 , 37 , 38 ( Figure 1 ). 
+ Figure 1. 
+ 
+ Open in a new tab 
+ Steps in artificial intelligence studies from data science to machine, and deep learning. Prediction of unordered outputs (e.g. tomography) for discrimination of KC and normal eyes, becomes possible by supervised learning, whereas regression problems are better defined in suscept cases. 
+ 39 
+ 
+ Using reinforcement programs (learning by trial and error) can assist in intrastromal ring implant surgery. 2 , 36 The integration of clinical data, type of surgery, ablation depth, topographic, tomographic, and biomechanical data have showed dramatic effects in keratoconus management. 
+ 39 
+ However, still the potential capability of most popular imaging modalities, such as anterior segment OCTs 9 , 40 to use AI-applicable indexes has not been fully utilized. 
+ The purpose of this study is to explain all of these features ingrained with artificial intelligence in treatment of keratoconus. 
+ In the words of William Wordsworth ‘Let us learn from the past to profit by the present, to live better in the future’. Methods 
+ Study selection 
+ A comprehensive search was done in the primary electronic databases, including PubMed, Scopus, Web of Science, Embase, and Cochrane, to identify all articles with the appropriate keywords (as mentioned below), till August 2023. It did not include language or type of study restrictions. 
+ 
+ 1- (‘keratoconus’) 
+ 2- AND ((algorithm) OR (machine learn*) OR (deep learn*) OR (artificial intelligence) OR (automatic) OR (neural network)) 
+ 3- AND ((treat*) OR (manage*) OR (therap*) OR (surg*) OR (intervent*) OR (regim*) OR (medic*) OR (prescrip*) OR (cure*)) 
+ 
+ The search results in each database were included in Endnote software, and then duplicate articles were removed. After that, eligible articles were selected by screening the titles and abstracts. For potentially eligible articles, the full text was also reviewed ( Figure 2 ) in three phases: In the initial phase, three authors (F.D, S.N, and Z.G) reviewed the articles based on agreed-upon inclusion and exclusion criteria (using the search keywords Included and Excluded in the listed databases). During the second stage, the same three primary authors examined accessible, relevant, and valid articles and ranked them according to the Critical Appraisal Skills Programme (CASP) checklist. During the third stage, the authors shared their results with scores and separated the study references. If the three authors disagree on one of the references, it will be reexamined by the fourth author (O.F) who was not involved in the collection process. Finally, the relevant data were extracted and handled from selected studies in a quantitative, narrative way. 
+ Figure 2. 
+ 
+ Open in a new tab 
+ Study selection and exclude strategy algorithms. Risk of bias (quality) assessment 
+ Risk of bias was evaluated by three independent researchers (F.D, S.N, and Z.G). Using the Cochrane quality assessment tool, the risk of bias in each study included in the current meta-analysis was evaluated. This instrument included seven domains, including random sequence generation, allocation concealment, reporting bias, performance bias, detection bias, attrition bias, and additional sources of bias. Each domain was assigned a ‘high risk’ score if the study contained methodological flaws that could have affected its findings, a ‘low risk’ score if there were no flaws for that domain, and a ‘unclear risk’ score if there was insufficient information to determine the impact. If the trial met the criteria for ‘low risk’ in all domains, it was deemed a high-quality study with an extremely low risk of bias. Results 
+ This study aimed to conduct a comprehensive review of the relevant studies so far. Considering the heterogeneity and great diversity of the findings, we decided to review the studies with not only a systematic but also a narrative approach. Below we briefly and usefully mention the most important points of management and treatment of keratoconus. 
+ Preoperative assessments and evaluating the progression of KC 
+ There is no universally accepted staging system for KC; however, significant advances in artificial intelligence in recent years can help identify the proper indications for surgery. 
+ 14 
+ Pachymetric 
+ 41 
+ and tomographic indices 
+ 42 
+ integrate with biomechanical evaluation of cornea, 
+ 43 
+ anterior corneal higher order aberrations (HOAs), 
+ 44 
+ and ultra-high-resolution Optical Coherence Tomography (OCT) 
+ 45 
+ not only use preoperatively, but also for postoperative (epithelial remodeling 
+ 46 
+ and anterior stromal demarcation) management. 
+ 47 
+ Furthermore, regarding genetic aspects 3 , 7 and metabolic imbalance of the disease, 
+ 48 
+ recent reviews considered that micronutrients such as metal ions, vitamins, hormones, antioxidants, oral riboflavin, and Essential Fatty Acids, can deeply influence KC initiation and progression, particularly in the early stages of KC. 
+ 49 
+ Hence, as early as holistic approaches is necessary to get rid of unfavorable circumstances and may prevent the further spread of the disease. 
+ 10 
+ Non-surgical options to impede progression 
+ The effects of oral riboflavin and solar radiation on keratometric stability and visual acuity have been demonstrated in the literature. 
+ 50 
+ Topical antihistamine/mast cell-stabilizing treatments, nonsteroidal anti-inflammatory drugs (NSAIDs), and, on rare occasions, steroids can help decrease the often-coexisting signs of ocular allergies (vernal and atopic keratoconjunctivitis) specifically, which can lead to eye rubbing 
+ 11 
+ ( Figure 3 ). These drugs can also help in large papillary conjunctivitis, a typical side effect of wearing contact lenses. Steroids should only be administered after considering the increased risks of cataracts, glaucoma, and a weakened immune system. 
+ 51 
+ 
+ Figure 3. 
+ 
+ Open in a new tab 
+ Medications that reduce the often-coexisting allergic and ocular symptoms in KC patients. 13 , 52 , 53 
+ GPC, giant papillary conjunctivitis; H1, histamine H1 receptor; H2, histamine H2 receptor; SRS-A, slow-reacting substance of anaphylaxis. Hydrops episodes may necessitate treatment with hyperosmotic or topical steroid drops to minimize ocular edema and inflammation. Furthermore, an inflammatory component may play a role in ectasia development or initiation and can be managed with cyclosporine ophthalmic emulsion or components for a healthy ocular surface. 
+ 54 
+ 
+ Eye rubbing can occur due to various factors including, but not limited to, fatigue, emotional stress, hormonal fluctuations, Computer Vision Syndrome, nutrients, irritation, dry eye, and allergy. As a result, KC awareness among allied health providers and thorough patient follow-up can significantly impact surgical results and planning. 
+ 11 
+ Contact lenses 
+ Different kinds of contact lenses, in addition to correcting visual distortion and astigmatism, can delay or prevent the need for keratoplasty in KC ( Supplemental Figure 4 ). However, several factors are correlated with the visual improvement achieved with contact lenses in keratoconus eyes and a predicting model according to the pre-fitting data should be investigated. 55 , 56 
+ For a better contact lens fitting, tangential maps of Placido-based video-keratography with calculating the cone’s size and location help measurement of back optic zone radius (BOZR) and total lens diameter in rigid lenses and SynergEyes ClearKone hybrid lens fitting. 
+ 57 
+ Furthermore, virtual sodium fluorescein fitting simulation software (Zernike polynomials and spherical harmonics) models the fitting characteristics of lens designs and represents the height data, such as sagittal corneal height. 
+ 58 
+ 
+ Providing a steeper BOZR, a softer touch to the corneal apex, and more significantly flattening the peripheral curves by the multi-curve design (which is made up of numerous spherical radii to create the required flattening shape) is the most common rigid lens design. Advanced technology introduced aspheric lenses, generally fitted steeper than multi-curve lenses with less sagittal height. Compared to slit-lamp biomicroscope dynamic fluo image simulation systems such as Medmont E300 (Precision Technology, Canada) and Pentacam AXL Wave, reported 74% diagnostic accuracy for contact lens fitting in KC patients. 
+ 59 
+ 
+ Other technologies such as Eye Surface Profiler (Eaglet-Eye, Houten, the Netherlands), which measures up to 20 mm diameter of the anterior segment, and Cassini, i-Optics (The Hague, the Netherlands), which projects 700 spots, emitted from a multi-colored light-emitting diode on the corneal surface visualize the topographic deformations, caused by the corneal irregularity. 
+ 60 
+ 
+ Keratometric measurements of the cornea’s spherical shape do not match the best soft lens fit; therefore, OCT’s new ML-based insights entered the field of contact lens fitting. The scleral sphericity shape, the corneal vault throughout the lens, and the highest attainable central clearance can all be measured. 
+ 61 
+ 
+ Anterior segment OCT can also assess the impact of soft contact lens edge design and mid-peripheral shape on the epithelial thickness and central and peripheral tear film clearance in various hard lens models. 61 , 62 
+ Refraction and contact lens fitting in KC are complex issues due to irregular astigmatism and HOAs. 
+ 16 
+ In addition to the imaging modalities, the models such as the Strehl (VSX) and the SyntEyes use corrections by custom ray tracing software (MATLAB R2020a) and represent the real eye. Other algorithms (free access at www.calculens.com ) 
+ 15 
+ and the hierarchical fuzzy system (from the expertise of experienced ophthalmologists during the lens evaluation) fine-tuned with the genetic algorithms, promote a final acceptable fit in keratoconus. 
+ 63 
+ 
+ Nevertheless, the ability to manage contact lens-related problems is necessary. 
+ 
+ Corneal erosion repeatedly occurs (even mesh-like scar in the cone’s stroma over time) because the tear layer declines : Reduce the optical zone diameter + The altered relationship between the base curve and the peripheral curves. 
+ 3 and 9 o’clock staining : Increase lens diameter/Decrease edge thickness/Make sure there is enough edge lift and lens centration. 
+ Linear staining : Cleaning the lens/Removing rough edges from the joints of the peripheral curves / Experimenting with an aspheric design. 
+ Apical staining : Reduce flattening of lens 
+ Air bubbles on the corneal surface or ‘dimple veiling’ Over cone bubbles, around the cone, or at the lens periphery : Reduce the apical clearance level/Decrease BOZD/Minimize axial edge lift, respectively. 
+ Proper lid cleanliness and treatment of dry eyes are also crucial to guarantee optimal wearing times. 
+ 
+ Any lens has superiority or drawback ( Table 1 ) and contact lens fitting need art and creativity, for instance despite decreasing the vault with time, the corneal thickness and physiology (Limbo kit test) did not change when the scleral contacts (Rose K2 XL) were tolerated for at least 8 h each day. Notwithstanding, longer-term research is required about variations of topographies, corneal thickness, and vault, as well as whether an objective test, like the Limbo kit, for limbal stem cell insufficiency, will stay negative over time. 
+ 64 
+ 
+ Table 1. 
+ Different contact lenses: cons and pros. 58 , 59 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lens type 
+ Advantages 
+ Disadvantages 
+ 
+ 
+ 
+ Soft 
+ - Suitable for astigmatism in the early stages of mild keratoconus 
+ - Stability - Tolerance and comfort - Adequate optics 
+ - Fitting is not always possible - May poorly hide uneven corneal topography 
+ 
+ 
+ RGP 
+ - Correction of irregular astigmatism by tear film - High visual acuity 
+ - Tear film bubbles impair vision - Unstable and off-center fit if not large enough - Low tolerance and comfort 
+ 
+ 
+ Hybrid 
+ - Stability - Comfort and tolerance - Correction of irregular astigmatism 
+ - Exchange of tears without obstruction - Good optical performance - High visual acuity 
+ - More difficult to apply, fit and remove - More frequent replacement - Higher costs - Longer time to settle 
+ 
+ 
+ Scleral 
+ - No contacting the cone of the eye - Therapeutic benefit for dry eyes by trapping tears behind the lens - Concealing very extensive regions of corneal irregularity - Larger diameter - Greater tear capacity 
+ - More movement - Increased decentration - Smaller diameter - Simple to use - Some don’t require fluid for insertion, resulting in fewer bubbles - More space for support in the bearing zone 
+ - Wrong diameters have distinct advantages - Vertical movement is uncomfortable - Four to five times as expensive as soft contact lenses - Corneal edema - Neovascularization - Corneal abrasion and mechanical irritation - Midday fogging and protein deposits - Giant papillary conjunctivitis 
+ 
+ 
+ Piggyback 
+ - Improve mechanical tolerance and centration - Comfort and tolerance - Better correction - A highly permeable oxygen structure - Fewer changes in the number of corneal endothelial cells - Better stabilization on the irregular cornea 
+ - Hard maintaining a balance/stability connection between both lenses - Development of new vasculature - Expensive 
+ - Excessive movement → Bubbles or debris, degrading the optical quality and changing cornea metabolism - Hypoxia led to corneal edema 
+ 
+ 
+ 
+ Open in a new tab 
+ RGP, rigid gas permeable. Corneal cross-linking 
+ The purpose of CXL is to strengthen the corneal stability and stiffness and thus arrest the progression of keratoconus. Several CXL methods have been developed that may differ in the procedure technique (i.e. Standard Dresden Protocol (Epi-Off), Accelerated cross-linking (Epi-Off or Epi-On), Pocket cross-linking, etc.), kinds of Riboflavin (such as Riboflavin with Dextran solution or Riboflavin with hydroxypropyl methylcellulose (HPMC) solution), U.V. irradiation, and oxygen usage 
+ 65 
+ ( Table 2 ). 
+ Table 2. 
+ Available riboflavin solutions for keratoconus cross-linking. It should be noted that the advised application procedure varies significantly between riboflavin solutions, for example, one drop every 30 s for 15 min for RIBOFAST and RIBOCROSS te, one drop every 2 min for 30 min for RICROLIN ® TE and RICROLIN ® +, with the recommended soak time for an iontophoresis-assisted delivery of RICROLIN ® + reduced to just 5 min. 65 , 66 
+ 
+ 
+ 
+ 
+ 
+ 
+ Epi-off, Isotonic 
+ 
+ MedioCROSS ® D 
+ 0.1% Riboflavin 5-Phosphate, 20% Dextran 
+ 
+ 
+ RICROLIN ® 
+ 
+ Riboflavin 0.1% in 20% Dextran, Trometamol, EDTA 
+ 
+ 
+ RIBOCROSS 
+ 0.1% Riboflavin in 20% Dextran 
+ 
+ 
+ VibeX™ 
+ Riboflavin 0.1%, Dextran 500, Disodium Hydrogen Phosphate, Sodium Phosphate Monobasic Dehydrate, Sodium Chloride 
+ 
+ 
+ VibeX Rapid™ 
+ Riboflavin 0.1 g per 100 ml, HPMC, Disodium Hydrogen Phosphate, Sodium Phosphate Monobasic Dehydrate, Sodium Chloride 
+ 
+ 
+ MedioCROSS ® M 
+ >0.1% Riboflavin, HPMC 1.1% 
+ 
+ Epi-off, Hypotonic 
+ 
+ RICROLIN®+ 
+ 0.1% riboflavin-5-phosphate, trometamol, EDTA 
+ 
+ 
+ MedioCROSS ® H 
+ 0.1% Riboflavin-5-Phosphate 
+ 
+ Epi-on (Transepithelial) 
+ 
+ MedioCROSS TE 
+ 0.25% Riboflavin, BAC, Sodium Chloride, and no Dextran 
+ 
+ 
+ ParaCel™ 
+ 0.25% Riboflavin, HPMC, BAC, EDTA 
+ 
+ 
+ RIBOCROSS te 
+ 0.1% Riboflavin-5-Phosphate, Dextran, Vitamin E-TPGS 
+ 
+ 
+ RICROLIN ® TE 
+ Riboflavin 0.1% Dextran T500 15%, EDTA, Tromethamine, Sodium Phosphate Monobasic Dehydrate, Sodium Phosphate Dibasic Dehydrate 
+ 
+ 
+ RICROLIN ® + 
+ 0.1% Riboflavin-5-Phosphate, Trometamol, EDTA 
+ 
+ 
+ RIBOFAST 
+ 0.1% Riboflavin-5-Phosphate, Vitamin E-TPGS 
+ 
+ 
+ 
+ Open in a new tab 
+ BAC, Benzalkonium Chloride; EDTA, Edetate Disodium; HPMC, Hydroxyl Propyl Methylcellulose; Vitamin E-TPGS, D-alpha-Tocopheryl Polyethylene Glycol Succinate. As Seiler et al. mentioned the most well-known challenges during the collagen CXL are: how rarely Riboflavin penetrates an epithelium that has not been broken, fast depletion of oxygen (especially at higher irradiances, Table 3 ), concerns of toxic effects on endothelium in thin corneas, and long regimen of collagen CXL (C-CXL). 67 , 68 
+ Table 3. 
+ Different protocols for radiation intensity and duration of Ultraviolet A (UV-A) radiation with equal total energy. 67 , 68 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Irradiation Intensity UV-A fluence (365 nm) (mW/cm 2 ) 
+ Irradiation time 
+ Total energy level (mW/cm 2 ) 
+ Riboflavin impregnation 
+ 
+ 
+ 
+ 3 
+ 30 min (conventional) 
+ 5.4 
+ Every 2 min for 30 min, then every 5 min during fluence 
+ 
+ 
+ 6 
+ 15 min 
+ 5.4 
+ Every 2 min for 20 min 
+ 
+ 
+ 9 
+ 10 min (ACXL) 
+ 5.4 
+ Every 2 min for 20 min, then once after 5 min 
+ 
+ 
+ 18 
+ 5 min (ACXL) 
+ 5.4 
+ Every 2 min for 20 min, then every 2 min during fluence 
+ 
+ 
+ 43 
+ 2 min, 40s (ACXL) 
+ 5.4 
+ Every 2 min for 30 min 
+ 
+ 
+ 
+ Open in a new tab 
+ ACXL, accelerated corneal collagen cross-linking; min, minutes; nm, nanometer; mW/cm 2 , milliwatts per square centimeter. The corneal epithelium not only serves as an oxygen barrier but also uses significantly more oxygen than the stroma, thus complicating the issue of oxygen availability using transepithelial techniques. 
+ 65 
+ Using supplementary oxygen may be helpful (especially during an epi-on surgery). After several months of follow-up, it was reported to have improved corneal curvature and visual acuity without significant side effects. 
+ 69 
+ 
+ On the other hand, CXL in the thin cornea (less than 400 µm in advanced cases of keratoconus, pellucid marginal degeneration, post-LASIK ectasia, etc.) also has several challenges. 
+ 29 
+ Methods like artificially thickening the cornea by using hypotonic Riboflavin to swell the cornea to a thickness of 400 μm before and during UV-A irradiation 29 , 70 or placing a riboflavin-soaked contact lens on the eye (contact lens-assisted CXL: CACXL) 
+ 71 
+ strength and protect the thin cornea. However, they have their own drawbacks, such as unpredictable effects and suboptimal corneal strengthening. 
+ 72 
+ Sub400 (as a new procedure developed by Hafezi et al. to individualize total energy during CXL) according to intraoperative Pachymetry delivers a U.V. dose to avoid irradiating the safety zone without using artificial thickening techniques for thin corneas. 
+ 73 
+ Focused cross-linking by imaging techniques and nonlinear optical cross-linking (NLO CXL) unlike UVA cross-linking uses not one photon but two, increasing the likelihood of generating subsequent radicals and photoactivation of Riboflavin. 13 , 74 The also enables fine and deep x–y–z dimensional adjustments over the area of femtosecond laser-cross-linked tissue micromachine epithelial channels. 
+ 74 
+ 
+ There is not yet definite protocol to confirm which outcomes or complications may occur, such as haze, scarring, sterile infiltrates, endothelial damage, excessive or no flattening, and failure post-CXL. Using AI in genetic 
+ 3 
+ and biomarker 
+ 48 
+ evaluation joined with longitudinal corneal data can predict future disease progression and enable the identification of eyes that may benefit from as early as intervention. 
+ 39 
+ 
+ Since young age affects keratoconus progression, Kato et al. conducted a conventional neural network (CNN) to predict progression using patients’ age and corneal tomography data. 
+ 75 
+ Similar to other studies, keratoconus progresses differently depending on age: middle-aged patients progress slowly, but young-onset patients progress faster. 76 , 77 
+ Previous research indicated that age and Rmin (Pentacam HR’s minimum sagittal curvature of the corneal frontal plane) were pivotal factors influencing keratoconus progression in patients who had been monitored at least twice after their initial visit. 
+ 28 
+ 
+ Both an axial corneal frontal plane map and a pachymetry map, as well as a combination of the two, exhibited comparable area under the curve (AUC), sensitivity, and specificity values. Considering that each corneal topography/tomography device includes the axial map of the corneal frontal plane, it’s feasible for deep learning (DL) to clinically predict keratoconus progression. 
+ 75 
+ The diagnosis rate may not be enough for keratoconus specialists, who empirically determine the indication of CXL based on clinical stage and age. However, it may help non-specialists like family practitioners, general ophthalmologists/optometrists, or other ophthalmologists decide if patients should see corneal specialists trained in CXL. 
+ 75 
+ Different modalities of therapeutic refractive surgeries in keratoconus 
+ Although KC poses a severe negative impact on quality of life and a significant financial burden on individuals and public health systems, an appropriate technique for refractive procedure has been challenging topic of studies. 78 – 80 Cross-linking, as a ‘green light’ for keratoconus stabilization, opened a new door of therapeutic refractive surgery to ‘reshape’ the keratoconic cornea and postpone or even avoid corneal transplantation. 18 , 81 
+ Previous studies on patients with grade I–II keratoconus confirmed the safety and efficacy of ‘minimized-volume ablation’ with accelerated cross-linking on the Schwind AMARIS 750 excimer laser guidelines (Schwind eye-tech solutions GmbH, Kleinostheim, Germany). 
+ 82 
+ The ‘Central Corneal regularization (CCR)’ protocol on the iVis Suite modified excimer laser ablation treatment framework (iVis Technologies S. r. l., Taranto, Italy) was proven to enhance corrected and even uncorrected visual acuity. 
+ 83 
+ 
+ Further studies on using the Central Corneal Regularization/Photorefractive Keratectomy (CCR/PRK) technique in conjunction with C-CXL found it to decrease Kmax and HOAs more efficiently than C-CXL alone. 
+ 84 
+ Although the amount of removed tissue was reduced by topographic C-CXL in the Athens protocol, 
+ 17 
+ and uncorrected and corrected far visual acuity improved with 94.4% visual stability after 1 and 10 years. The main disadvantage of combined PRK and C-CXL is the limitation of 400-μm corneal thickness after ablation, making it impossible for patients with advanced keratoconus. Another protocol of combined PRK and CXL that reported improved astigmatism and visual acuity, and delay in the progression of keratoconus without producing considerable corneal thinning, is the Tel Aviv protocol. 85 , 86 The excimer laser is used to achieve 50 μm laser ablation of the anterior stroma and epithelium, with astigmatism correction half of refractive astigmatism (along the same axis). 85 , 86 The last alternative procedure is the Cretan procedure, characterized by transepithelial Phototherapeutic Keratectomy (PTK) in combination with CXL, 13 , 87 generating better refractive outcomes and vision than mechanical epithelial removal ( Figure 4 shows different combined modalities in KC). 
+ Figure 4. 
+ 
+ Open in a new tab 
+ Multiple methods of therapeutic refractive surgeries in keratoconus. 31 , 85 , 88 – 92 
+ CXL, corneal cross-linking; PRK, photorefractive keratectomy; PTK, phototherapeutic keratectomy; TG-PRK, topography-guided photorefractive keratectomy. In comparing simultaneous CXL versus sequential CXL because cross-linked tissue is ablated with the sequential CXL method, stability remains a significant concern, and data on this subject is sparse. 93 – 95 In addition, with topography-guided excimer laser therapy, the majority of the tissue from the inferior ‘reddest’ steepest portion of the cornea (frequently associated with the thinnest region of the cornea near the cone’s tip) is destroyed. 
+ 95 
+ Although non-topography-guided ablation for myopia and astigmatism would likely result in less tissue ablation in patients (especially in the thinnest portion of the keratoconus cornea) with excellent corrected distance visual acuity (CDVA) and subjective manifest refraction. 
+ 96 
+ Nevertheless, the fundamental challenge of reducing the degree of stromal ablation (mean ablation depth) per spherical equivalent refraction and spherical equivalent remains unpredictable. 
+ 97 
+ 
+ HOAs, mainly spherical aberration, coma, and corneal irregularities (simultaneous or sequential CXL 31 , 98 – 100 ), cause more stromal ablation, more biomechanical disintegration, and reverse any benefit from a previous or concomitant cross-linking procedure. 
+ 30 
+ 
+ By focusing primarily on a few HOAs, novel wavefront-guided methods have recently been devised to reduce tissue loss. PRK in suspect KC based on Placido NNTs [the Corneal Navigator software of the OPDScan II aberrometer/corneal topographer (Nidek Co. Ltd., Gamagori, Japan) 101 – 103 was safe and effective. 
+ 104 
+ Based on a recent study by Kanellopoulos, the customization platform of InnovEyes artificial intelligence software proceeds a prism-like ablation to correct the calculated HOAs optimally. 
+ 105 
+ Collected data (including wavefront, Scheimpflug tomography, pupillometry, iris recognition, and axial interferometry length) of the Pentacam AXL Wave (Oculus, Germany) in a personalized treatment planning transfer to the EX500 excimer laser (Alcon, Wavelight, Erlangen, Germany). It also corrects the internal tilt between the real anterior corneal surface orientation and the ray-tracing orientation. It prevents patient tiredness and miosis by bilateral conduction of wavefront and unilateral performance of the tomography and interferometry before being repeated in the other. Compared to employing anterior corneal surface data or wavefront data alone, 
+ 106 
+ the management of progressive keratoconus using CXL paired with innovative excimer laser customization and independent ray tracing enable to normalize distorted optics associated with corneal ectasia. 
+ Furthermore, since the anterior surface component that makes up for the posterior corneal irregularity will not be ablated, 
+ 107 
+ the ray tracing-customized ablation should theoretically require less stromal tissue than the pure anterior surface topography-guided ablation while leading to less myopic shift simultaneously. Although a spherocylindrical shift still happens, when certain HOA is targeted (without compensating extra tissue removal), corneal tissue removal depths are decreased to the bare minimum necessary to alleviate irregular astigmatism. 
+ 106 
+ 
+ In a study of Awwad et al. ML algorithm analysis of OCT evaluation for significant haze pointed that haze formation is more attributed to using of Mitomycin C (MMC) and CXL simultaneously, 
+ 108 
+ and the interactions of MMC with immune system and change in level of cytokines and chemokines can induce haze. 
+ 30 
+ 
+ On the whole, machine learning-based devices would simultaneously increase the predictability of therapeutic excimer laser surgery and cross-linking procedures. Intrastromal corneal ring segments 
+ As an alternative treatment for keratoconus, intrastromal corneal ring segments (ICRS) enhance visual acuity and reduce optical aberrations and refractive errors while correcting mean keratometric indexes. 109 , 110 KC patients with contact lens intolerance who are 21 years old with a clear central cornea and a corneal thickness of 450 µm or more at the incision site are suitable candidates for an ICRS procedure. Patients with collagen vascular, autoimmune, or immunodeficiency disorders or those with severe atopy should not undergo an ICRS procedure. 54 , 111 
+ As mentioned by Ertan and Colin, the surgical procedures of implantation for all types of intracorneal ring segments, including Myoring (Dioptex, GmbH, Linz, Austria), INTACS (KeraVision, Inc., Fremont, CA, USA), AJL PRO (AJL Ophthalmic, Vitoria-Gasteiz, Spain), Keraring (Mediphacos, Belo Horizonte, Brazil), and Ferrara Intracorneal Ring (Ferrararing, Belo Horizonte, Brazil), are reversible and adjustable. 112 , 113 
+ By including high-order corneal aberrations, the predictability models could be enhanced. In other words, including the aberrometry factor could be a subtly indirect way to include the biomechanical corneal element in some measure. However, the indirect influence of aberrometry on corneal biomechanics is only a small part of the overall biomechanical effect. 
+ 77 
+ As mentioned by Vega-Estrada et al. , this is due to challenges in analyzing the cornea’s biomechanical characteristics in vivo in clinical settings. The precise contributions of the elastic and viscous components to the magnitude of these parameters are still not completely understood. 
+ 114 
+ 
+ The intraoperative complications of intracorneal ring segments are incomplete channel development, suction loss, decentered channel creation, anterior or posterior perforation, shallow ring implantation, ring decentration and displacement into the anterior chamber, implant breakage, and epithelial defect or plug. 
+ 115 
+ In spite of presenting many safety limit about segment thickness in relation to central thickness, and a plenty of nomograms about ICRS ( Figure 5 and Table 4 ) by the main ICRS manufacturers ( Figure 6 and Supplemental Figure 8 ), controversies about prediction of visual and refractive outcomes are still the most challenging. 115 , 116 
+ Figure 5. 
+ 
+ Open in a new tab 
+ Essential tables to implant intracorneal ring segments. 115 – 118 
+ ACK, k1+k2/2; Astig, astigmatism; CT, central thickness; D, diopters; k, keratometry; KCN, keratoconus; ID, inner diameter; IT, Inner Thickness; mm, millimeter; µm, micrometer (micron); Q, Q value; T, thickness. Table 4. 
+ The SA.ANA classification (Symmetric, Asymmetric, Axial, Non-Axial classification), keratometry, and aberrometry as the main parameters were considered in AI systems. The table has been re-created; courtesy of Dr. Barraquer and Dr. Alfonso. 119 – 121 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Type 
+ Segment 
+ Implantation Axis Axial: same, minus cyl axis Non-axial: different axis 
+ 
+ Indication 
+ Topography 
+ Frequency 
+ Looks like 
+ 
+ 
+ 
+ SA 
+ Symmetric, Two equal ICRS 
+ 
+ Axial • Red: Steep ast. axis  • Blue: Flat ast. axis • Coma: Minimal 
+ 
+ 
+ 
+ Central (symmetric) ectasia Regular astigmatism (Congenital or post PK) Mild myopia congenital or residual after Rx. 
+ 
+ 
+ 
+ ~10% 
+ 
+ Bowtie 
+ 
+ 
+ AA1 
+ Asymmetric, One ICRS 
+ 
+ Axial • Red: Steep ast. axis  • Blue: Flat ast. axis • Coma: Significant, toward flat axis 
+ 
+ 
+ 
+ Asymmetric ectasia markedly displaced inferiorly Coma ± toward minus cyl axis (Roughly coincidence < 30° dif.) 
+ 
+ 
+ 
+ ~68% 
+ 
+ Croissant 
+ 
+ 
+ AA2 
+ Asymmetric, Two unequal ICRS 
+ 
+ Axial • Red: Steep ast. axis  • Blue: Flat ast. axis • Coma: Significant, toward flat axis 
+ 
+ 
+ 
+ Same as AA1, but: Higher cylinder or sphere combinations Additive effect of ICRS thickness/width Coma be corrected by asymmetry Upper ICS must be smaller/thinner 
+ 
+ 
+ 
+ 
+ 
+ SNA 
+ Symmetric, Two equal ICRS 
+ 
+ Non-axial • Red: Steep ast. axis  • Blue: Flat ast. axis • Coma: Significant, toward steep axis • Black: Mid-ICS axis, displaced 
+ 
+ 
+ 
+ Intermediate ectasia (paracentral, relatively orthogonal) Sphere mild/moderate Cylinder moderate/high Coma ± toward plus cyl axis 
+ 
+ 
+ 
+ ~6% 
+ 
+ Snowman 
+ 
+ 
+ ANA1 
+ Asymmetric, One wide ICRS: 120°–160° at coma axis or intermediate 
+ 
+ Non-axial • Red: Steep ast. axis  • Blue: Flat ast. axis • Coma: Significant, toward steep axis 
+ 
+ 
+ 
+ Intermediate ectasia (paracentral, non-orthogonal) Sphere mild Cylinder moderate/high Coma ± toward plus cyl axis (inferiorly) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ANA2 
+ Asymmetric, Two unequal ICRS: • Inferior wider (160°) at coma • Superior small (90°–120°) at flat axis 
+ 
+ Non-axial • Red: Steep ast. axis  • Blue: Flat ast. axis • Coma: Significant, toward steep axis 
+ 
+ 
+ 
+ Intermediate ectasia (paracentral, non-orthogonal) Sphere moderate/high Cylinder moderate/high Coma ± toward plus cyl axis (inferiorly) 
+ 
+ 
+ 
+ ~11% 
+ 
+ Duck 
+ 
+ 
+ ANA3 
+ Asymmetric, Three ICRS, Two steps 
+ Non-axial • Red: Steep ast. axis  • Blue: Flat ast. axis • Coma: Significant, toward steep axis 
+ 
+ 
+ 
+ Intermediate ectasia (peripheral, ±incipient) Sphere mild Cylinder mild/moderate Coma ± toward plus cyl axis (±vertical @ 260°) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Open in a new tab 
+ ast., Astigmatic; cyl, Cylinder; ICRS, IntraCorneal Ring Segments. Figure 6. 
+ 
+ Open in a new tab 
+ Alfonso Morphological Classification of Keratoconus. The figure has been re-created; courtesy of Dr. Alfonso. 
+ 122 
+ According to the study about optimizing outcomes of ICRS, alteration in asphericity and keratometry are the main parameters affected by ICRS implantation. 
+ 123 
+ The mean absolute error values for asphericity and mean keratometry were 0.19 and 1.18, for the nomogram, compared to 0.11 and 0.09 for the algorithm of computational models based on ML. 
+ 36 
+ Therefore, in agreement with Piñero and Alio readjusting the nomograms is required to provide more predictable results while taking into consideration biomechanical and aberrometric characteristics. 
+ 124 
+ 
+ In 2017, Lyra et al. 
+ 125 
+ analyzed and compared changes in the anterior and posterior corneal surfaces after ICRS implantation. K2, astigmatism, elevation at the thinnest point, and apex, and the maximum elevation in the central 4 mm reduced statistically significantly both anterior and posterior surface. However, asphericity in posterior surface did not show a statistically significant change. 
+ Nearly all studies based on the third-generation nomogram 126 , 127 found decrease of keratometry with improvement in visual acuity, but not asphericity. 
+ The manufacturer’s nomograms and artificial neural network (ANN) groups were used to determine the number (1 or 2), arc length, and thickness of ICRS. Increased visual acuity, decreased spherical equivalent, and improved optical quality are all benefits of using ANN to guide ICRS for keratoconus patients. 128 , 129 Phakic intraocular lenses 
+ pIOLs are a beneficial treatment for reducing anisometropia when the patient has stable refraction or at least excellent enough best spectacle correction visual acuity without high irregular astigmatism, for example, after corneal surgeries like ICRS and collagen cross-linking or keratoplasty. Another crucial factor is considering the potential for post-pIOL laser (PRK-CXL and correct HOAs) to address remaining unfavorable refractive outcomes. 
+ 54 
+ Optimal patient work-up prior to pIOL implantation (angle-supported anterior chamber, iris-claw anterior chamber, and posterior chamber) has been depicted in Figure 7 . 
+ Figure 7. 
+ 
+ Open in a new tab 
+ The pre-operative works up in phakic IOL implantation.ML- and DL-based devices can become a tool for predicting the ICL vault and subsequently determining the correct ICL size (the main issue in phakic IOL work up). All part of the figure has been gathered under the CC-BY-NC (Creative Commons Non-Commercial License). 130 , 131 
+ ACD, anterior chamber depth; ICL, implantable Collamer lens; IOL, intra-ocular lens; IOP, intraocular pressure; R/O, rule out; WTW, white to white. AI-based studies showed the results of the vectorial analysis could be deemed satisfactory because compensating for astigmatism in keratoconus patients is far more challenging than in other cases. 132 , 133 The main causes of this are keratoconus’s irregular astigmatism profile and the other, which is connected to the first, because it might be challenging to get refraction in keratoconus patients, particularly in those with severe ametropia. 
+ 134 
+ 
+ To attain the targeted optimum vault and ideal size, different modalities have been proposed, and some of them take advantages of AI, such as the manual mode of WTW computation from the Eyemetrics toolbox, the Orbscan IIz slit scanning approach, 
+ 135 
+ summation methods with Pentacam HR, 
+ 136 
+ ultrasound biomicroscopy (UBM) for STS measurement, 134 , 137 AS-OCT for ATA diameter, 
+ 138 
+ crystalline lens rise (CLR), and lens vault. 
+ 137 
+ Even though, ideal size has still the main significant repercussion during phakic IOL (intra-ocular lens) implantation. 
+ Using ML and DL can utilize pIOL implantation. Especially in choosing the correct size of the implantable Collamer lens (ICL; STAAR Surgical Co., Monrovia, CA, USA) as a posterior phakic lens, ML-based techniques had been helpful. 
+ 139 
+ Appropriate ICL sizing establishes a safe postoperative ICL vault, the space between the ICL and the crystalline lens. The optimal ICL vault, according to the widespread view, is 500 μm and should not be longer than 1000 μm. Angle-closure glaucoma abnormalities and abnormally large pupils are linked to a higher vault after ICL implantation without a center hole. In contrast, anterior subcapsular cataracts are more likely to develop in patients with lower vaults. 
+ 139 
+ Maximum CLR in angle-based evaluation (Baikoff) by 300, and sulcus-based evaluation (Saketa) by 600, have been described. 
+ In a study comparing the traditional nomogram, all ML techniques, including the random forest regressor, the gradient boost regressor, the linear regressor (LR), and the support vector regressor, offered lower mean absolute errors and higher percentages of eyes within 50–200 µm of the targeted ICL vault ( p  < 0.01). 
+ 21 
+ 
+ Collagen cross-linking and intrastromal corneal ring segments help to stabilize topography before phakic IOL implantation. In the progressive KC eyes, combined CXL, ICRS, and PIOL implantation is a reliable, safe, and efficient treatment. Integration of ML with C-CXL + ICRS for cases with higher unusual astigmatism and even worse visual acuity, whereas C-CXL + TG-PRK for patients who require unusual astigmatism correction but have higher visual acuity, can optimize KC management strategy near to emmetropia. 54 , 77 , 140 Keratoplasty in keratoconus 
+ Penetrating keratoplasty (PK) as the main technique of graft gives a predictable visual recovery; however, immunologic rejection, graft failure, cataract development, and secondary glaucoma are still the main drawbacks. In spite of several advantages of Deep Anterior Lamellar Keratoplasty (DALK) such as post-DALK ectasia, and rejection due to preservation of the host endothelium and Descemet’s membrane (DM), 141 , 142 however, there are controversies between rate of performance of DALK. 
+ 143 
+ It is essential to consider indication for DALK and compare different surgical techniques. 
+ 144 
+ The most commonly used methods are the Anwar (or big-bubble) and Melles procedures. 
+ 145 
+ 
+ Melles pioneered using an air bubble in the anterior chamber as a stromal depth indicator to create a mirror image of the dissector blade. Dissection by method of Melles and femtosecond-assisted DALK (F-DALK) without big-bubble, both, may cause decreased visual acuity and contrast sensitivity due to remaining irregular stromal thickness in KC patients. 
+ 146 
+ Thus, it would be better to complete F-DALK by injecting the air bubble into the residual stromal bed, thereby creating a big bubble to expose the DM. 
+ 147 
+ Shehadeh-Mashor et al. compared F-DALK with manual trephination in patients with KC, iatrogenic ectasia, and scar. The visual outcomes were similar but femtosecond laser (FSL)-assisted mushroom showed earlier visual recovery compare to manual DALK with straight-edge configuration. 
+ 148 
+ Anwar proposed baring DM with the ‘big-bubble’ (BB) technique, which pumps air into the deep stroma and produces a big bubble between the stroma and DM. 
+ 145 
+ Three types of bubbles can form when air is injected into the cornea’s stroma, including type 1 BB [the most prevalent type of BB occurs between the stroma and the pre-Descemet’s layer (PDL)]; Type 2 BB (between the DM and the PDL) has less resistance (than type 1) to physical shock, and the third form is the mixed BB in which both type 1 and type 2 exist, either fully or partially. 
+ 141 
+ 
+ Managing the development of BB and predicting the ratio of type 1 created over type 2 has an essential effect on the success rate. In comparing a type-1 bubble with 2, a type-2 bubble presents a risk of perforation, which will be forcefully converted to mushroom-shaped or full-thickness PK, also causes an increase in the intraoperative problems of DALK and, finally, a higher risk of forming a double anterior chamber postoperatively. 
+ 149 
+ However, there is no difference in the best-corrected visual acuity, depending on whether type-1 or type-2 bubbles are present during pneumatic dissection. 
+ The cannula or needle insertion into the stroma is another essential point for successful BB development. 
+ 150 
+ An approach that is too superficial often results in extensive emphysema of the cornea without creating a bubble and can potentially generate a type-2 bubble, either entirely or partially. On the other hand, an insertion that is too deep can perforate the DM. 
+ As an alternative to manual dissection when pneumatic dissection fails, Ophthalmic Viscosurgical Devices (OVD) provided profound plane separation; for parameters like corneal densitometry improvement and visual restoration, OVD showed a statistically significant higher results versus eyes dissected with air in the 1 and 3 months postoperative though they became comparable in the latest follow-ups. 
+ 151 
+ 
+ In many cases, there is a risk of DALK conversion to PK and perforation risk, even in expert hands. 
+ 152 
+ A lamellar approach can still be used in such cases, especially if the scars do not disrupt the visual axis. However, post hydrops-cases are not good candidates for DALK, even manual, and the procedure will need to be modified to a PK intraoperatively if a large tear is caused (larger than 2 clock hours). Decentered grafts and surgical sutures are two main issues in PK of keratoconus patients. 
+ Decentered grafts can create significant irregular astigmatism in the visual axis; Keratoconus patients may benefit from employing same-diameter trephines for both donor and host tissues, which shrinks the donor button and lowers postoperative myopia. However, when the anterior lens-to-retina length is less than 20.19 mm, a reduction of donor size could result in significant postoperative hyperopia. 153 – 157 
+ The surgeon can choose interrupted sutures, combined continuous and interrupted sutures, single continuous sutures, or double continuous sutures following placing the four cardinal 10-0 nylon sutures. 
+ 158 
+ In several conditions, interrupted sutures should always be the closure method of choice, including: 
+ Where a partial or complete suture removal in one region of the graft is likely to be needed during the postoperative period: 
+ a. Pediatric keratoplasty (sutures becoming loose too quickly) 
+ b. Vascularization in the host cornea (occasionally seen after a hydrops episode or contact lens-related keratitis) 
+ c. Multiple previous rejections 
+ d. Other inflammatory concomitant conditions 
+ 
+ 
+ 2. To close big, decentered grafts near the limbal area due to their higher rejection risk. 
+ 158 
+ 
+ DALK has several advantages over the oldest technique, PK, in terms of duration of visual recovery, endothelial cell density loss, and immunological graft rejection rates. However, oversizing the graft for better integration is the primary source of the visible myopic shift and corneal steepening, particularly during big bubble DALK. 
+ 159 
+ Still, more research on long-term results is needed to assess the influence of DALK on keratoconus. 
+ 160 
+ According to a meta-analysis, BCVA, refractive, and topographical cylinder were comparable between patients who underwent PK and those undergoing DALK. 
+ 161 
+ 
+ DALK is the first surgical option for patients with keratoconus and possibly other corneal stromal pathologies with normal endothelium. Because of its benefits, such as better preservation of globe integrity, reduced intraoperative complications, and elimination of endothelial graft rejection, DALK can be considered an alternative to PK for this condition. 
+ Postoperative corneal ectasia following PK for KC is predicted to occur in 6–11% of individuals 20–25 years after surgery. 
+ 162 
+ The term ‘recurrent keratoconus’ has no established cause and even clear meaning and criteria. A range of mechanisms have been put forth, including the insufficient excision of keratoconic host tissue during PK, particularly for grafts of 7 mm recipient diameter; grafting donor corneas with subclinical keratoconus; the development of the ectatic disorder; the discharge of degradative enzymes from an anomalous host epithelium; and the presence of variations in the Bowman membrane after epithelium-stroma. 
+ 162 
+ Failure to thoroughly remove the damaged tissue may cause the host to develop keratoconus, possibly involving donor tissue. Despite several management options for post-PK ectasias, such as contact lens fitting, wedge resection, corneal sutures, IOL implantation, overlay DALK, peripheral reconstructive and annular lamellar keratoplasty, tuck in lamellar keratoplasty, and repeating PK, their limitations are more than primary graft. 
+ 163 
+ 
+ Artificial intelligence and robotics in keratoplasty, either PK or DALK (i.e. keratoplasty using a femtosecond laser with OCT guidance), can involve less of a steep learning curve and ultimately cause high satisfaction for both physician and patient ( Figure 8 ). 
+ Figure 8. 
+ 
+ Open in a new tab 
+ Pre-operative OCT-guided management for DALK in keratoconus. 164 – 166 
+ DALK, deep anterior lamellar keratoplasty; SD-OCT, spectral domain optical coherence tomography. Several studies on F-DALK as an alternative robot-assisted surgery for KC have been published. Still, only two have compared its outcomes to manual trephination DALK (M-DALK). 167 , 168 M-DALK and F-DALK were compared in a larger study, and identical visual acuity values were found; however, the M-DALK group had higher myopia and mean keratometry values. 
+ 167 
+ In long follow-ups, neither evident benefit of F-DALK over manual trephination, nor of one cut configuration over the others, has been found. 
+ 168 
+ The femtosecond laser could standardize the big-bubble technique in DALK, reducing the risk of intraoperative complications and allowing good refractive outcomes. 
+ 168 
+ Both with and without OCT guidance, FSL can help establish a stromal channel for air injection into the cannula. The FSL is used to incise and remove the anterior stroma. Then, the air is supplied by a cannula or needle with the guidance of OCT to create a big bubble, which is subsequently unroofed by a second FSL laser cut. 
+ 169 
+ 
+ As an AI-analyzable machine, AS-OCT can detect corneal layer rearrangement, providing surgeons with crucial information for surgical planning, both in terms of timing and method. 13 , 164 For instance, AS-OCT is an important test for post-PK ectasia planning, which helps the surgeon identify and gauge the donor graft’s diameter, the extent of the graft-host thinning, and the precise location of the undamaged corneal tissue surrounding the graft. 
+ 170 
+ AS-OCT parameters showed statistically significant changes in the post-PK KC group versus groups undergoing PK for other diseases as a control. 
+ 170 
+ 
+ Higher keratometric parameters, including Ks, AvgK, Sph, and Kmax, heightened the corneal ectatic changes after PK. However, astigmatism changes in post-PK eyes should not be used for measuring the progression of KC due to the similarity of astigmatism (regular or irregular) and HOA between groups. 
+ 170 
+ The logic for using ACD as an indicator of corneal protrusion is supported by positive correlation of ACD with corneal protrusion parameter, even though ACD can also depend to the lens opacity. In short, KC eyes long after PK show inferior graft and host corneal thinning, and corneal protrusion. Corneal power parameters such as Kmax or Ks can be analyzed to monitor KC progression after PK via AI. 
+ 170 
+ 
+ Artificial intelligence and OCT image data cannot only detect, classify, and optimize keratoplasty but also can take advantage to predict need to keratoplasty. 171 – 173 Recent reports found that intelligent algorithms can accurately forecast the effectiveness of BB creation in DALK. 
+ 174 
+ KC eyes formed more BBs than corneal-opacified eyes. That study merely tested if an accurate algorithm could anticipate the creation of a huge bubble with limited data without using known related factors. The determination success rate was 78.3% for successful and 69.6% for failed big bubble, suggesting the feasibility of an automatic judgment system. Due to the short sample size, this pilot study could not determine the accuracy of individual and special indications for DALK, such as herpetic scars, traumatic scars, solely KC, or corneal dystrophies. 
+ 174 
+ 
+ Finally, ML strategy can promote new developments, both in diagnose and treatment modalities. As the same way and according to the global studies, the incidence of keratoplasty has decreased dramatically. Individualized course of treatment based on disease stage determine the most optimized action to achieve emmetropic eyes. Discussion 
+ New developments in artificial intelligence, particularly with promising results in the early detection and management of KC, have favorably altered the natural history of the disease over the last few decades. However, usually, the sample size is not only sufficiently large in medical studies, keratoconus severity and also incidence varies widely due to different classifications; 
+ 38 
+ hence, direct comparison between studies is difficult. 
+ 37 
+ 
+ In spite of the limited clinical use of existing AI models, however, incorporation of them could enable surgeons in patient selection and decision-making ( Figure 9 ). 
+ Figure 9. 
+ 
+ Open in a new tab 
+ Using of artificial intelligence for evaluation of risk calculation and approach for progression of keratoconus. 106 , 175 , 176 
+ AI, artificial intelligence; BCVA, best corrected visual acuity; CCT, central corneal thickness; D, Diopters; DALK, deep anterior lamellar keratoplasty; HRC, high risk characteristics; ICL, implantable Collamer lens; KCN, keratoconus; KR, keratometry reading; mm, millimeter; µm, micrometer (micron); PKP, penetrating keratoplasty; RSB, residual stromal bed; TPRK, topography-guided photorefractive keratectomy. In a retrospective cohort of KC patients, Kato et al. 
+ 75 
+ created a CNN model to predict progression using the axial map, corneal thickness, and patient age. The use of a CNN (VGG-16) DL model showed an accuracy rate of 81.4%. KC patients will first be categorized using a semi-supervised and unsupervised DL model in order to develop a disease progression detection strategy. The study used 29 factors retrospectively acquired from topography, tomography, clinical, and demographic data to categorize KC patients using a Bayesian deep neural network and to cluster patients into four groups using a Gaussian mixture model. The capacity to predict treatment results for KC patients is still impacted by variable corneal characteristics. For procedures like ICRS, using AI-based models may enable professionals to take a more advantageous approach. 36 , 116 The first neural network to predict changes in keratometry and corneal astigmatism after ISCR implantation was introduced by Valdeé-Mas et al . The best models had an error of less than1D (0.97D corneal curvature and 0.93D astigmatism). 
+ 116 
+ Later, in a comparison with clinical data for ICRS (Ferrara segments), Lyra et al found the optimum mean absolute error value to be 0.19 for corneal asphericity and 1.18D for mean keratometry values. 
+ 36 
+ 
+ These results are encouraging, but they need to be revised further before being used in the surgical decision-making process. Researchers may ultimately discover more benefits in developing models to maximize this more recent breakthrough given the parallel development of topographically directed collagen cross-linking. Researchers discovered that OCT factors (in addition to a great roles in anterior segment surgeries) had a greater impact on the model than topographical imaging variables, indicating that minor differences between groups would be easier to spot through corneal morphology. 
+ 177 
+ However, the combined strategies was still able to deliver the best results. 
+ 177 
+ 
+ As Shetty et al. mentioned the best management of keratoconus is multistep and multifaceted diagnosis and treatment 
+ 175 
+ ; therefore, several features, in conjunction with innate artificial intelligence, are already underway. The necessity for this comprehensive systematic overview is depiction of key points about management strategies in keratoconus. 
+ Overall, a large portion of AI-based keratoconus studies is about ANNs. ANNs fall within the artificial intelligence branch of ML, which, in the words of Arthur Samuel, ‘gives computers the ability to learn without being explicitly programmed’. 
+ 178 
+ The clinical outcomes of an ANN maximize the predictability of surgical treatments in keratoconus. The initial phase of any algorithm in ML is data processing based on the weights of connections between neurons. This is necessary because the computer must be designed to maximize performance using data from prior experience. Regarding each step of keratoconus management, the AI system can help the physician identify the best individual plan. 
+ 128 
+ However, to validate this system, more study with distinct datasets is required. As the program improves its learning, ANN’s predictability will improve due to the ongoing incorporation of fresh examples. Conclusion 
+ The latest advancements in ophthalmology have made it possible for patients with keratoconus to receive an early diagnosis and effective visual rehabilitation under much safer conditions. Each patient can receive a customized course of treatment based on disease stage and treatment goals. The efficient and widespread clinical translation of ML models in keratoconus management is a crucial goal of potential future approaches to have best possible visual performance in KC patients. Supplemental Material 
+ sj-docx-3-oed-10.1177_25158414241232258 – Supplemental material for Keratoconus: exploring fundamentals and future perspectives – a comprehensive systematic review 
+ 
+ sj-docx-3-oed-10.1177_25158414241232258.docx (91.1KB, docx) 
+ 
+ Supplemental material, sj-docx-3-oed-10.1177_25158414241232258 for Keratoconus: exploring fundamentals and future perspectives – a comprehensive systematic review by Sana Niazi, Zisis Gatzioufas, Farideh Doroodgar, Oliver Findl, Alireza Baradaran-Rafii, Jacob Liechty and Majid Moshirfar in Therapeutic Advances in Ophthalmology sj-png-1-oed-10.1177_25158414241232258 – Supplemental material for Keratoconus: exploring fundamentals and future perspectives – a comprehensive systematic review 
+ 
+ sj-png-1-oed-10.1177_25158414241232258.png (84.6KB, png) 
+ 
+ Supplemental material, sj-png-1-oed-10.1177_25158414241232258 for Keratoconus: exploring fundamentals and future perspectives – a comprehensive systematic review by Sana Niazi, Zisis Gatzioufas, Farideh Doroodgar, Oliver Findl, Alireza Baradaran-Rafii, Jacob Liechty and Majid Moshirfar in Therapeutic Advances in Ophthalmology sj-png-2-oed-10.1177_25158414241232258 – Supplemental material for Keratoconus: exploring fundamentals and future perspectives – a comprehensive systematic review 
+ 
+ sj-png-2-oed-10.1177_25158414241232258.png (1MB, png) 
+ 
+ Supplemental material, sj-png-2-oed-10.1177_25158414241232258 for Keratoconus: exploring fundamentals and future perspectives – a comprehensive systematic review by Sana Niazi, Zisis Gatzioufas, Farideh Doroodgar, Oliver Findl, Alireza Baradaran-Rafii, Jacob Liechty and Majid Moshirfar in Therapeutic Advances in Ophthalmology Acknowledgments 
+ The authors would like to thank Hamidreza Nematy for his expertise and assistance throughout editing the manuscript. Footnotes 
+ 
+ 
+ ORCID iDs: Sana Niazi 
+ https://orcid.org/0000-0002-7411-8584 
+ Farideh Doroodgar 
+ https://orcid.org/0000-0002-3758-0569 
+ Majid Moshirfar 
+ https://orcid.org/0000-0001-9241-5841 
+ 
+ Supplemental material: Supplemental material for this article is available online. 
+ Contributor Information 
+ Sana Niazi, Translational Ophthalmology Research Center, Tehran University of Medical Sciences, Tehran, Iran; Ophthalmic Research Center, Research Institute for Ophthalmology and Vision Science, Shahid Beheshti University of Medical Sciences, Tehran, Iran. 
+ Zisis Gatzioufas, Department of Ophthalmology, University Eye Hospital Basel, Basel, Switzerland. 
+ Farideh Doroodgar, Translational Ophthalmology Research Center, Tehran University of Medical Sciences, Tehran Province, Tehran, District 6, Pour Sina St, P94V+8MF, Tehran 1416753955, Iran; Negah Aref Ophthalmic Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran. 
+ Oliver Findl, Department of Ophthalmology, Hanusch Hospital, Vienna Institute for Research in Ocular Surgery (VIROS), Vienna, Austria. 
+ Alireza Baradaran-Rafii, Department of Ophthalmology, Morsani College of Medicine, University of South Florida, Tampa, FL, USA. 
+ Jacob Liechty, Department of Ophthalmology, Morsani College of Medicine, University of South Florida, Tampa, FL, USA. 
+ Majid Moshirfar, John A. Moran Eye Center, University of Utah, Salt Lake City, UT, USA. Declarations 
+ 
+ Ethics approval and consent to participate: Not applicable. 
+ Consent for publication: Not applicable. 
+ 
+ Author contributions: 
+ Sana Niazi: Conceptualization; Data curation; Formal analysis; Investigation; Methodology; Project administration; Resources; Software; Supervision; Validation; Visualization; Writing – original draft; Writing – review & editing. 
+ Zisis Gatzioufas: Conceptualization; Data curation; Formal analysis; Investigation; Methodology; Project administration; Resources; Software; Supervision; Validation; Visualization; Writing – original draft; Writing – review & editing. 
+ Farideh Doroodgar: Conceptualization; Data curation; Formal analysis; Investigation; Methodology; Project administration; Resources; Software; Supervision; Validation; Visualization; Writing – original draft; Writing – review & editing. 
+ Oliver Findl: Conceptualization; Data curation; Formal analysis; Investigation; Methodology; Project administration; Resources; Software; Supervision; Visualization; Writing – original draft; Writing – review & editing. 
+ Alireza Baradaran-Rafii: Conceptualization; Data curation; Formal analysis; Investigation; Methodology; Project administration; Resources; Software; Supervision; Validation; Visualization; Writing – original draft; Writing – review & editing. 
+ Jacob Liechty: Conceptualization; Investigation; Methodology; Resources; Software; Validation; Writing – original draft. 
+ Majid Moshirfar: Conceptualization; Data curation; Formal analysis; Investigation; Methodology; Project administration; Resources; Software; Supervision; Validation; Visualization; Writing – original draft; Writing – review & editing. 
+ 
+ Funding: The authors received no financial support for the research, authorship, and/or publication of this article. 
+ The authors declare that there is no conflict of interest. 
+ Availability of data and materials: The data that support the findings of this study are available from the corresponding author, upon reasonable request. 
+ References 
+ 
+ 
+ 1. 
+Ting DSJ, Foo VH, Yang LWY, et al. Artificial intelligence for anterior segment diseases: emerging applications in ophthalmology. Br J Ophthalmol
+2021; 105: 158–168.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. 
+de Almeida Gusmão Lyra JM, Leão EV, Machado AP., et al. 
+Artificial Intelligence in Keratoconus diagnosis. In: Das S. (ed.) Keratoconus
+New York: Springer Publishing, 2022, pp.215–228. [ Google Scholar ] 
+ 
+ 3. 
+Hosoda Y, Miyake M, Meguro A, et al.; Nagahama Study Group. Keratoconus-susceptibility gene identification by corneal thickness genome-wide association study and artificial intelligence IBM Watson. Commun Biol
+2020; 3: 410.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. 
+Pur DR, Krance SH, Pucchio A, et al. Current uses of artificial intelligence in the analysis of biofluid markers involved in corneal and ocular surface diseases: a systematic review. Eye
+2023; 37: 2007–2019.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. 
+Issarti I, Consejo A, Jiménez-García M, et al. Computer aided diagnosis for suspect keratoconus detection. Comput Biol Med
+2019; 109: 33–42.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. 
+Jiménez-García M, Issarti I, Kreps EO, et al.; The REDCAKE Study Group. Forecasting progressive trends in Keratoconus by means of a time delay neural network. J Clin Med
+2021; 10: 3238.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. 
+Niazi S, Moshirfar M, Alizadeh F, et al. Association of 2 lysyl oxidase gene single nucleotide polymorphisms with Keratoconus: a Nationwide Registration Study. Ophthalmol Sci
+2022; 3: 100247.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. 
+Rozema JJ, Hastings GD, Jiménez-García M, et al. Assessing the visual image quality provided by refractive corrections during keratoconus progression. Ophthalmic Physiol Opt
+2022; 42: 358–366.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. 
+Asam JS, Polzer M, Tafreshi A, et al. Anterior segment OCT. In: Bille JF. (ed.), High resolution imaging in microscopy and ophthalmology: new frontiers in biomedical optics, 2019, pp. 285–299 (2019). [ Google Scholar ] 
+ 
+ 10. 
+Moshirfar M, Heiland MB, Rosen DB, et al. Keratoconus screening in elementary school children. Ophthalmol Ther
+2019; 8: 367–371.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. 
+Gatinel D.
+Challenging the “no rub, no cone” keratoconus conjecture. Int J Keratoconus Ectatic Corneal Dis
+2018; 7: 66–81. [ Google Scholar ] 
+ 
+ 12. 
+Vinciguerra P, Albè E, Trazza S, et al. Intraoperative and postoperative effects of corneal collagen cross-linking on progressive keratoconus. Arch Ophthalmol
+2009; 127: 1258–1265.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. 
+Atalay E, Özalp O, Yıldırım N.
+Advances in the diagnosis and treatment of keratoconus. Ther Adv Ophthalmol
+2021; 13: 25158414211012796. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. 
+Izquierdo Jr L, Ben-Shaul O, Gomez I.
+Surgical planning in Keratoconus. In: Das S. (ed.) Keratoconus. Amsterdam: Elsevier, 2023, pp. 319–336. [ Google Scholar ] 
+ 
+ 15. 
+Ortiz-Toquero S, Rodriguez G, de Juan V, et al. New web-based algorithm to improve rigid gas permeable contact lens fitting in keratoconus. Cont Lens Anterior Eye
+2017; 40: 143–150.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. 
+Rozema JJ, Hastings GD, Marsack J, et al. Modeling refractive correction strategies in keratoconus. J Vis
+2021; 21: 18. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. 
+Kanellopoulos AJ.
+Management of progressive keratoconus with partial topography-guided PRK combined with refractive, customized CXL – a novel technique: the enhanced Athens protocol. Clin Ophthalmol
+2019; 13: 581–588.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. 
+Niazi S, Alio Del Barrio J, Sanginabadi A, et al. Topography versus non-topography-guided photorefractive keratectomy with corneal cross-linking variations in keratoconus. Int J Ophthalmol
+2022; 15: 721–727.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. 
+De Rosa G, Rossi S, Santamaria C, et al. Combined photorefractive keratectomy and corneal collagen cross-linking for treatment of keratoconus: a 2-year follow-up study. Ther Adv Ophthalmol
+2022; 14: 25158414221083362. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. 
+Doroodgar F, Niazi F, Niazi S, et al. Visual outcomes of a new implantable Phakic contact lens in patients with stable keratoconus. [ Google Scholar ] 
+ 
+ 21. 
+Kamiya K, Ryu IH, Yoo TK, et al. Prediction of phakic intraocular lens vault using machine learning of anterior segment optical coherence tomography metrics. Am J Ophthalmol
+2021; 226: 90–99.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. 
+Chen X, Stojanovic A, Wang X, et al. Epithelial thickness profile change after combined topography-guided transepithelial photorefractive keratectomy and corneal cross-linking in treatment of Keratoconus. J Refract Surg
+2016; 32: 626–634.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. 
+Ravishankar V, Jacob S.
+Corneal allogenic intrastromal ring segments CAIRS. Keratoconus 167-175. New York: Springer Publishing, 2022. [ Google Scholar ] 
+ 
+ 24. 
+Riau AK, Htoon HM, Alió Del Barrio JL, et al. Femtosecond laser-assisted stromal keratophakia for keratoconus: a systemic review and meta-analysis. Int Ophthalmol
+2021; 41: 1965–1979.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. 
+Doroodgar F, Jabbarvand M, Niazi S, et al. Customized Stromal lenticule implantation for Keratoconus. J Refract Surg
+2020; 36: 786–794.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. 
+Fasolo A, Galzignato A, Pedrotti E, et al. Femtosecond laser-assisted implantation of corneal stroma lenticule for keratoconus. Int Ophthalmol
+2021; 41: 1949–1957.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. 
+El Zarif M, Alió JL, Alió Del, Barrio JL, et al. Corneal stromal regeneration therapy for advanced keratoconus: long-term outcomes at 3 years. Cornea
+2021; 40: 741–754.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. 
+Kato N, Negishi K, Sakai C, et al. Baseline factors predicting the need for corneal crosslinking in patients with keratoconus. PLoS One
+2020; 15: 0231439. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. 
+Hafezi F, Hillen M, Kollros L, et al. Corneal cross-linking in thin corneas: from origins to state of the Art. US Ophthalmic Rev
+2022; 16: 13–16. [ Google Scholar ] 
+ 
+ 30. 
+Awwad S, Izquierdo Jr L. Corneal laser surgery for Keratoconus. In Keratoconus 427-436. Amsterdam: Elsevier, 2023. [ Google Scholar ] 
+ 
+ 31. 
+Kanellopoulos AJ.
+Comparison of sequential vs same-day simultaneous collagen cross-linking and topography-guided PRK for treatment of keratoconus. J Refract Surg
+2009; 25: S812–S818. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. 
+Kanellopoulos AJ, Aslanides IM, Asimellis G.
+Correlation between epithelial thickness in normal corneas, untreated ectatic corneas, and ectatic corneas previously treated with cxl; is overall epithelial thickness a very early ectasia prognostic factor?
+Clin Ophthalmol
+2012; 6: 789.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. 
+Coskunseven E, Kymionis GD, Talu H, et al. Intrastromal corneal ring segment implantation with the femtosecond laser in a post-keratoplasty patient with recurrent keratoconus. J Cataract Refract Surg
+2007; 33: 1808–1810.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. 
+Hamdi IM.
+Preliminary results of intrastromal corneal ring segment implantation to treat moderate to severe keratoconus. J Cataract Refract Surg
+2011; 37: 1125–1132.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. 
+Turing I.
+Computing machinery and intelligence-AM Turing. Mind
+2007; 59: 433. [ Google Scholar ] 
+ 
+ 36. 
+Lyra D, Ribeiro G, Torquetti L, et al. Computational models for optimization of the intrastromal corneal ring choice in patients with Keratoconus using corneal tomography data. J Refract Surg
+2018; 34: 547–550.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. 
+Klyce SD.
+The future of Keratoconus screening with Artificial Intelligence. Ophthalmology
+2018; 125: 1872–1873.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. 
+Lin SR, Ladas JG, Bahadur GG, et al. A review of machine learning techniques for keratoconus detection and refractive surgery screening. Sem Ophthalmol
+2019; 34: 317–326. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. 
+Hallett N, Hodge C, You JJ, et al. Artificial intelligence in the diagnosis and management of Keratoconus. In: Das S. (ed.) Keratoconus. Springer, 2022, pp. 275–289. [ Google Scholar ] 
+ 
+ 40. 
+Rainer G, Findl O, Petternel V, et al. Central corneal thickness measurements with partial coherence interferometry, ultrasound, and the Orbscan system. Ophthalmology
+2004; 111: 875–879.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. 
+Ambrósio R, Jr., Caiado AL, Guerra FP, et al. Novel pachymetric parameters based on corneal tomography for diagnosing keratoconus. J Refract Surg
+2011; 27: 753–758.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. 
+Ambrósio R, Jr., Alonso RS, Luz A, et al. Corneal-thickness spatial profile and corneal-volume distribution: tomographic indices to detect keratoconus. J Cataract Refract Surg
+2006; 32: 1851–1859.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. 
+Ambrósio R, Nogueira LP, Caldas DL, et al. Evaluation of corneal shape and biomechanics before LASIK. Int Ophthalmol Clin
+2011; 51: 11–38.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. 
+Ortiz-Toquero S, Fernandez I, Martin R.
+Classification of Keratoconus based on anterior corneal high-order aberrations: a cross-validation study. Optom Vis Sci
+2020; 97: 169–177.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. 
+Yücekul B, Dick HB, Taneri S.
+Systematic detection of keratoconus in OCT: corneal and epithelial thickness maps. J Cataract Refract Surg
+2022; 48: 1360–1365.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. 
+Shetty R, Narasimhan R, Dadachanji Z, et al. Early corneal and epithelial remodeling differences identified by OCT Imaging and artificial intelligence between two transepithelial PRK platforms. J Refract Surg
+2020; 36: 678–686.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. 
+Spadea L, Di Genova L, Tonti E.
+Corneal stromal demarcation line after 4 protocols of corneal crosslinking in keratoconus determined with anterior segment optical coherence tomography. J Cataract Refract Surg
+2018; 44: 596–602.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. 
+Daphne Teh AL, Jayapalan JJ, Loke MF, et al. Identification of potential serum metabolic biomarkers for patient with keratoconus using untargeted metabolomics approach. Exp Eye Res
+2021; 211: 108734. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. 
+Lasagni Vitar RM, Bonelli F, Rama P, et al. Nutritional and metabolic imbalance in Keratoconus. Nutrients
+2022; 14: 913.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. 
+Schaeffer K, Jarstad J, Schaeffer A, et al. Topographic corneal changes induced by oral riboflavin in the treatment of corneal ectasia. Investig Ophthalmol Vis Sci
+2018; 59: 1413–1413. [ Google Scholar ] 
+ 
+ 51. 
+Krok M, Wróblewska-Czajka E, Kokot J, et al. Retrospective analysis of sterile corneal infiltrates in patients with Keratoconus after cross-linking procedure. J Clin Med
+2022; 11: 585.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. 
+Peris-Martínez C, Piá-Ludeña JV, Rog-Revert MJ, et al. Antioxidant and anti-inflammatory effects of oral supplementation with a highly-concentrated docosahexaenoic acid (DHA) triglyceride in patients with Keratoconus: a randomized controlled preliminary study. Nutrients
+2023; 15: 1300. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. 
+Yeung KK. Keratoconus medication (ed. Hampton Roy S.). Medscape, 2023. https://emedicine.medscape.com/article/1194693-medication?form=fpf [ Google Scholar ] 
+ 
+ 54. 
+Ang M, Gatinel D, Reinstein DZ, et al. Refractive surgery beyond 2020. Eye
+2021; 35: 362–382.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. 
+Sidi Mohamed Hamida A, Marta GB, Pedro RF, et al. Characterization and prediction of the clinical result with a specific model of mini-scleral contact lens in corneas with keratoconus. Eye Vis
+2022; 9: 39. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. 
+Rozema JJ, Hastings GD, Jiménez-García M, et al. Influence of rigid lens decentration and rotation on visual image quality in normal and keratoconic eyes. Ophthalmic Physiol Opt
+2022; 42: 1204–1213.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. 
+Nosch DS, Ong GL, Mavrikakis I, et al. The application of a computerised videokeratography (CVK) based contact lens fitting software programme on irregularly shaped corneal surfaces. Cont Lens Anterior Eye
+2007; 30: 239–248.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. 
+Downie LE, Lindsay RG.
+Contact lens management of keratoconus. Clin Exp Optom
+2015; 98: 299–311.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. 
+Şengör T, Aydın Kurna S.
+Update on contact lens treatment of Keratoconus. Turk J Ophthalmol
+2020; 50: 234–244.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. 
+Kanellopoulos J, Asimellis G.
+Color light-emitting diode reflection topography: validation of keratometric repeatability in a large sample of wide cylindrical-range corneas. Clin Ophthalmol
+2015; 9: 245–252.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. 
+Stachura J, Seredyka-Burduk M, Piotrowiak-Słupska I, et al. Developments in contact lens imaging: new Applications of optical coherence tomography. Appl Sci
+2019; 9: 2580. [ Google Scholar ] 
+ 
+ 62. 
+Fakhoury Y, Ellabban A, Attia U, et al. Three-dimensional printing in ophthalmology and eye care: current applications and future developments. Ther Adv Ophthalmol
+2022; 14: 25158414221106682. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. 
+Falahati Marvast F, Arabalibeik H, Alipour F, et al. Evaluation of RGP contact lens fitting in keratoconus patients using hierarchical fuzzy model and genetic algorithms. Stud Health Technol Inform
+2016; 220: 124–129.
+ [ PubMed ] [ Google Scholar ] 
+ 
+ 64. 
+de Luis Eguileor B, Acera A, Santamaría Carro A, et al. Changes in the corneal thickness and limbus after 1 year of scleral contact lens use. Eye
+2020; 34: 1654–1661.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. 
+Angelo L, Gokul Boptom A, McGhee C, et al. Corneal crosslinking: present and future. Asia Pac J Ophthalmol
+2022; 11: 441–452. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. 
+Feldmann B, Bunya V, Santos M.
+Techniques for corneal collagen crosslinking: epi-off vs. Epi-on
+2022. https://eyewiki.aao.org/Techniques_for_Corneal_Collagen_Crosslinking:_Epi-off_vs_Epi-on#:~:text=Epi%2Don%20CXL%20using%20chemical,epi%2Don%20CXL%20using%20iontophoresis 
+ 
+ 
+ 67. 
+Seiler TG, Komninou MA, Nambiar MH, et al. Oxygen kinetics during corneal cross-linking with and without supplementary Oxygen. Am J Ophthalmol
+2021; 223: 368–376.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. 
+Seiler TG, Batista A, Frueh BE, et al. Riboflavin concentrations at the endothelium during corneal cross-linking in humans. Investig Ophthalmol Vis Sci
+2019; 60: 2140–2145.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. 
+Mazzotta C, Sgheri A, Bagaglia SA, et al. Customized corneal crosslinking for treatment of progressive keratoconus: clinical and OCT outcomes using a transepithelial approach with supplemental oxygen. J Cataract Refract Surg
+2020; 46: 1582–1587.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. 
+Alkayid H, Asena L, Yüce A, et al. Comparison of ocular discomfort after three different epithelial debridement techniques for corneal collagen cross-linking in keratoconus treatment. Ther Adv Ophthalmol
+2021; 13: 25158414211020147. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. 
+Jacob S, Kumar DA, Agarwal A, et al. Contact lens-assisted collagen cross-linking (CACXL): a new technique for cross-linking thin corneas. J Refract Surg
+2014; 30: 366–372.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. 
+Kling S, Richoz O, Hammer A, et al. Increased biomechanical efficacy of corneal cross-linking in thin corneas due to higher oxygen availability. J Refract Surg
+2015; 31: 840–846.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. 
+Hafezi F, Kling S, Gilardoni F, et al. Individualized corneal cross-linking with riboflavin and UV-A in Ultrathin Corneas: the sub400 protocol. Am J Ophthalmol
+2021; 224: 133–142.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. 
+Bradford S, Mikula E, Juhasz T, et al. Nonlinear optical crosslinking (NLO CXL) for correcting refractive errors. Exp Eye Res
+2020; 199: 108199. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. 
+Kato N, Masumoto H, Tanabe M, et al. Predicting Keratoconus Progression and need for corneal crosslinking using deep learning. J Clin Med
+2021; 10: 844.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. 
+Reid JE, Eaton E.
+Artificial intelligence for pediatric ophthalmology. Curr Opin Ophthalmol
+2019; 30: 337–346.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. 
+Santodomingo-Rubido J, Carracedo G, Suzaki A, et al. Keratoconus: an updated review. Cont Lens Anterior Eye
+2022; 45: 101559. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. 
+Saad A, Gatinel D.
+Topographic and tomographic properties of forme fruste keratoconus corneas. Investig Ophthalmol Vis Sci
+2010; 51: 5546–5555.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. 
+Saad A, Gatinel D.
+Evaluation of total and corneal wavefront high order aberrations for the detection of forme fruste keratoconus. Investig Ophthalmol Vis Sci
+2012; 53: 2978–2992.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. 
+Gatinel D, Saad A.
+The challenges of the detection of subclinical keratoconus at its earliest stage. Int J Keratoconus Ectatic Corneal Dis
+2012; 1: 36–43. [ Google Scholar ] 
+ 
+ 81. 
+Gassel CJ, Röck D, Konrad EM, et al. Impact of keratoconus stage on outcome after corneal crosslinking. BMC Ophthalmol
+2022; 22: 207.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. 
+Yang X, Liu Q, Feng Q, et al. Safety and efficacy of corneal minimized-volume ablation with accelerated cross-linking in improving visual function for Keratoconus. Cornea
+2020; 39: 1485–1492.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. 
+Mulè G, Chen S, Zhang J, et al. Central corneal regularization (CCR): an alternative approach in keratoconus treatment. Eye Vis
+2019; 6: 40. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. 
+Iselin KC, Baenninger PB, Bachmann LM, et al. Changes in higher order aberrations after central corneal regularization – a comparative two-year analysis of a semi-automated topography-guided photorefractive keratectomy combined with corneal cross-linking. Eye Vis
+2020; 7: 10. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. 
+Kaiserman I, Mimouni M, Rabina G.
+Epithelial photorefractive keratectomy and corneal cross-linking for Keratoconus: the Tel-Aviv protocol. J Refract Surg
+2019; 35: 377–382.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. 
+Rabina G, Mimouni M, Kaiserman I.
+Epithelial photorefractive keratectomy vs mechanical epithelial removal followed by corneal crosslinking for keratoconus: the Tel-Aviv protocol. J Cataract Refract Surg
+2020; 46: 749–755.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. 
+Grentzelos MA, Liakopoulos DA, Siganos CS, et al. Long-term comparison of combined t-PTK and CXL (Cretan Protocol) versus CXL with mechanical epithelial debridement for Keratoconus. J Refract Surg
+2019; 35: 650–655.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. 
+Dupps WJ., Jr.
+Corneal refractive surgery in keratoconus. J Cataract Refract Surg
+2020; 46: 495–496.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. 
+Kymionis GD, Kontadakis GA, Kounis GA, et al. Simultaneous topography-guided PRK followed by corneal collagen cross-linking for keratoconus. J Refract Surg
+2009; 25: S807–S811. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. 
+Kymionis GD, Grentzelos MA, Kounis GA, et al. Combined transepithelial phototherapeutic keratectomy and corneal collagen cross-linking for progressive keratoconus. Ophthalmology
+2012; 119: 1777–1784.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. 
+Grentzelos MA, Kounis GA, Diakonis VF, et al. Combined transepithelial phototherapeutic keratectomy and conventional photorefractive keratectomy followed simultaneously by corneal crosslinking for keratoconus: cretan protocol plus. J Cataract Refract Surg
+2017; 43: 1257–1262.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. 
+Gore DM, Leucci MT, Anand V, et al. Combined wavefront-guided transepithelial photorefractive keratectomy and corneal crosslinking for visual rehabilitation in moderate keratoconus. J Cataract Refract Surg
+2018; 44: 571–580.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 93. 
+Rechichi M, Mazzotta C, Oliverio GW, et al. Selective transepithelial ablation with simultaneous accelerated corneal crosslinking for corneal regularization of keratoconus: STARE-X protocol. J Cataract Refract Surg
+2021; 47: 1403–1410.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 94. 
+Rechichi M, Mazzotta C, Oliverio GW, et al. Selective transepithelial ablation with simultaneous accelerated Corneal Cross-linking for corneal regularization of keratoconus: the STARE-X Protocol. J Cataract Refract Surg
+2021; 47: 1403–1410.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 95. 
+Al-Amri AM.
+5-year follow-up of combined non-topography guided photorefractive keratectomy and corneal collagen cross linking for keratoconus. Int J Ophthalmol
+2018; 11: 48–52.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 96. 
+Rattan SA, Alshamarti S, Al-Salem KM, et al. Non-topography-guided photorefractive keratectomy combined with accelerated collagen cross linking for treatment of keratoconus. Int Eye Sci
+2019; 19: 358–362. [ Google Scholar ] 
+ 
+ 97. 
+Bardan AS, Lee H, Nanavaty MA.
+Outcomes of simultaneous and sequential cross-linking with excimer laser surface ablation in Keratoconus. J Refract Surg
+2018; 34: 690–696.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 98. 
+Güell JL, Verdaguer P, Elies D, et al. Late onset of a persistent, deep stromal scarring after PRK and corneal cross-linking in a patient with forme fruste keratoconus. J Refract Surg
+2014; 30: 286–288.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 99. 
+Moraes RLB, Ghanem RC, Ghanem VC, et al. Haze and visual acuity loss after sequential photorefractive keratectomy and corneal cross-linking for Keratoconus. J Refract Surg
+2019; 35: 109–114.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 100. 
+Kymionis GD, Portaliou DM, Diakonis VF, et al. Posterior linear stromal haze formation after simultaneous photorefractive keratectomy followed by corneal collagen cross-linking. Investig Ophthalmol Vis Sci
+2010; 51: 5030–5033.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 101. 
+Buscemi PM.
+Nidek corneal navigator software for topographic analysis of corneal states. J Refract Surg
+2004; 20(5 Suppl): S747–S750. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 102. 
+Klyce SD, Karon MD, Smolek MK.
+Screening patients with the corneal navigator. J Refract Surg
+2005; 21(5 Suppl.):S617–S22. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 103. 
+Maeda N, Klyce SD, Smolek MK.
+Neural network classification of corneal topography. Preliminary demonstration. Investig Ophthalmol Vis Sci
+1995; 36: 1327–1335.
+ [ PubMed ] [ Google Scholar ] 
+ 
+ 104. 
+Guedj M, Saad A, Audureau E, et al. Photorefractive keratectomy in patients with suspected keratoconus: five-year follow-up. J Cataract Refract Surg
+2013; 39: 66–73.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 105. 
+Kanellopoulos AJ.
+Keratoconus management with customized photorefractive keratectomy by artificial intelligence Ray-Tracing optimization combined with higher fluence corneal crosslinking: the Ray-Tracing Athens Protocol. Cornea
+2021; 40: 1181–1187.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 106. 
+Alió JL, Nowrouzi A, del Barrio Alió JL. Refractive Surgery in management of Keratoconus. In: Das S. (ed.) Keratoconus. New York: Springer Publishing, 2022, pp. 267–273. [ Google Scholar ] 
+ 
+ 107. 
+Kitazawa K, Itoi M, Yokota I, et al. Involvement of anterior and posterior corneal surface area imbalance in the pathological change of keratoconus. Sci Rep
+2018; 8: 14993.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 108. 
+Awwad ST, Chacra LM, Helwe C, et al. Mitomycin C application after corneal cross-linking for Keratoconus increases Stromal Haze. J Refract Surg
+2021; 37: 83–90.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 109. 
+Anders P, Anders LM, Elalfy M, et al. Effect of intracorneal ring segment implantation on high order aberrations comparing patients with eccentric versus central keratoconus. Eur J Ophthalmol
+2022; 32: 36–42.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 110. 
+Gatzioufas Z.
+Intracorneal ring segments in Keratoconus; an evidenced-based approach. Acta Ophthalmol
+2019; 97. [ Google Scholar ] 
+ 
+ 111. 
+Sakellaris D, Balidis M, Gorou O, et al. Intracorneal ring segment implantation in the management of Keratoconus: an evidence-based approach. Ophthalmol Ther
+2019; 8: 5–14. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 112. 
+Ertan A, Colin J.
+Intracorneal rings for keratoconus and keratectasia. J Cataract Refract Surg
+2007; 33: 1303–1314.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 113. 
+Doroodgar F.
+Comparison of visual, refractive and aberrometic outcomes of Intacs® Implant and Toric Implantable Collamer Lens (TICL) in patients with Keratoconus: 4 years follow up. Afzalipour J Clin Res
+2017; 2: 89–97. [ Google Scholar ] 
+ 
+ 114. 
+Vega-Estrada A, del Barrio JA, Alio JL.
+Intracorneal ring segments and Keratoconus. In: Barbara A. (ed.), Controversies in the Management of Keratoconus
+2019, Springer Cham, pp. 221–234. [ Google Scholar ] 
+ 
+ 115. 
+Bautista-Llamas MJ, Sánchez-González MC, López-Izquierdo I, et al. Complications and explantation reasons in intracorneal ring segments (ICRS) implantation: a systematic review. J Refract Surg
+2019; 35: 740–747.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 116. 
+Valdés-Mas MA, Martín-Guerrero JD, Rupérez MJ, et al. A new approach based on machine learning for predicting corneal curvature (K1) and astigmatism in patients with keratoconus after intracorneal ring implantation. Comput Methods Programs Biomed
+2014; 116: 39–47.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 117. 
+Alió JL, Shabayek MH, Artola A.
+Intracorneal ring segments for keratoconus correction: long-term follow-up. J Cataract Refract Surg
+2006; 32: 978–985.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 118. 
+Peña-García P, Sanz-Díez P, Durán-García ML.
+Keratoconus management guidelines. Int J Keratoconus Ectatic Corneal Dis
+2015; 4: 1–39. [ Google Scholar ] 
+ 
+ 119. 
+Albertazzi R, Albertazzi R.
+Tratamiento del queratocono con segmentos intracorneales. queratocono: pautas para su diagnóstico y tratamiento. B Aires Ed Cient Argent Competitividade Clin Keratoconus Soc
+2010; 205: 68. [ Google Scholar ] 
+ 
+ 120. 
+Keraring Nomograms, http://keraring.online . 
+ 
+ 
+ 121. 
+Barraquer R, Alfonso J, Murta J.
+Keratoconus patterns and intrastromal segments. Acta Ophthalmol
+2012; 90. [ Google Scholar ] 
+ 
+ 122. 
+Sánchez JFA, Fernández CL, Cueto-Felgueroso LFV, et al. Clasificación del queratocono basada en fenotipos clínicos. Influencia del astigmatismo congénito en la morfología del queratocono. Biomecánica y arquitectura corneal, Elsevier, Spain, 2014, pp. 165–184. [ Google Scholar ] 
+ 
+ 123. 
+Diniz ER, Jacometti R, Furtado VC, et al. Keratoconus (ed.) Mediphacos intrastromal corneal ring segment nomogram. Cham: Springer International Publishing, 2022, pp.515–532, (eds. Almodin E., Nassaralla BA, Sandes J.). [ Google Scholar ] 
+ 
+ 124. 
+Piñero DP, Alio JL.
+Intracorneal ring segments in ectatic corneal disease – a review. Clin Exp Ophthalmol
+2010; 38: 154–167.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 125. 
+Lyra JM, Lyra D, Ribeiro G, et al. Tomographic findings after implantation of Ferrara intrastromal corneal ring segments in Keratoconus. J Refract Surg
+2017; 33: 110–115.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 126. 
+Alió JL, Artola A, Ruiz-Moreno JM, et al. Changes in keratoconic corneas after intracorneal ring segment explantation and reimplantation. Ophthalmology
+2004; 111: 747–751.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 127. 
+Ambrósio R.
+Tratado brasileiro de catarata e cirurgia refrativa, Grupo Gen-Guanabara Koogan, Brasil, 2014. [ Google Scholar ] 
+ 
+ 128. 
+Fariselli C, Vega-Estrada A, Arnalich-Montiel F, et al. Artificial neural network to guide intracorneal ring segments implantation for keratoconus treatment: a pilot study. Eye Vis
+2020; 7: 20. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 129. 
+Vastardis I, Thabit A, Elalfy M, et al. Unexpected visual improvement after aborted intracorneal ring segment implantation for keratoconus. Ther Adv Ophthalmol
+2019; 11: 2515841418817500. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 130. 
+Okumura N, Matsumoto D, Fukui Y, et al. Feasibility of cell-based therapy combined with descemetorhexis for treating Fuchs endothelial corneal dystrophy in rabbit model. PLoS One
+2018; 13: e0191306. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 131. 
+Lenstar Biometry. Optical Biometer, https://www.haag-streit.com/haag-streit-usa/products/haag-streit-diagnostics/lenstar-biometry/ 
+ 
+ 
+ 132. 
+Visser N, Berendschot TT, Bauer NJ, et al. Vector analysis of corneal and refractive astigmatism changes following toric pseudophakic and toric phakic IOL implantation. Investig Ophthalmol Vis Sci
+2012; 53: 1865–1873.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 133. 
+Sedaghat M, Ansari-Astaneh MR, Zarei-Ghanavati M, et al. Artisan iris-supported phakic IOL implantation in patients with keratoconus: a review of 16 eyes. J Refract Surg
+2011; 27: 489–493.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 134. 
+Doroodgar F, Niazi F, Sanginabadi A, et al. Comparative analysis of the visual performance after implantation of the toric implantable collamer lens in stable keratoconus: a 4-year follow-up after sequential procedure (CXL+TICL implantation). BMJ Open Ophthalmol
+2017; 2: e000090. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 135. 
+Fernández J, Rodríguez-Vallejo M, Martínez J, et al. Confounding sizing in posterior chamber phakic lens selection due to white-to-white measurement bias. Indian J Ophthalmol
+2019; 67: 344–349.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 136. 
+Oculus (Pentacam® HR, Pentacam® AXL) Interpretation Guide 3rd edition, https://www.pentacam.com/fileadmin/user_upload/pentacam.de/downloads/interpretations-leitfaden/interpretation_guideline_3rd_edition_0417.pdf . 
+ 
+ 
+ 137. 
+Deshpande K, Shroff R, Biswas P, et al. Phakic intraocular lens: getting the right size. Indian J Ophthalmol
+2020; 68: 2880–2887.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 138. 
+Igarashi A, Shimizu K, Kato S, et al. Predictability of the vault after posterior chamber phakic intraocular lens implantation using anterior segment optical coherence tomography. J Cataract Refract Surg
+2019; 45: 1099–1104.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 139. 
+Kang EM, Ryu IH, Lee G, et al. Development of a Web-Based ensemble machine learning application to select the optimal size of posterior chamber phakic intraocular lens. Transl Vis Sci Technol
+2021; 10: 5. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 140. 
+Singal N, Ong Tone S, Stein R, et al. Comparison of accelerated CXL alone, accelerated CXL-ICRS, and accelerated CXL-TG-PRK in progressive keratoconus and other corneal ectasias. J Cataract Refract Surg
+2020; 46: 276–286.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 141. 
+Moqeet MA, Ali W, Khan SA, et al. One-year visual and refractive outcomes of deep anterior lamellar keratoplasty (DALK) in patients with Advanced Keratoconus. J Coll Physicians Surg Pak
+2022; 32: 1160–1164.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 142. 
+Farid M, Rostov AT, T. Femtosecond laser deep lamellar keratoplasty. Indian J Ophthalmol
+2022; 70: 3669–3672.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 143. 
+Mgboji GE, Varadaraj V, Thanitcul C, et al. Deep anterior lamellar keratoplasty and penetrating keratoplasty for Keratoconus: a claims-based analysis. Cornea
+2023; 42: 663–669.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 144. 
+Karimian F, Feizi S.
+Deep anterior lamellar keratoplasty: indications, surgical techniques and complications. Middle East Afr J Ophthalmol
+2010; 17: 28–37.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 145. 
+Carlà MM, Boselli F, Giannuzzi F, et al. An overview of intraoperative OCT-assisted lamellar corneal transplants: a game changer?
+Diagnostics
+2022; 12: Article No. 727. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 146. 
+Baradaran-Rafii A, Eslani M.
+Femtosecond laser-assisted corneal transplantation. London: BMJ Publishing Group Ltd, 2013. Vol. 97, pp.675–676. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 147. 
+Baradaran-Rafii A, Eslani M, Sadoughi MM, et al. Anwar versus Melles deep anterior lamellar keratoplasty for keratoconus: a prospective randomized clinical trial. Ophthalmology
+2013; 120: 252–259.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 148. 
+Shehadeh-Mashor R, Chan CC, Bahar I, et al. Comparison between femtosecond laser mushroom configuration and manual trephine straight-edge configuration deep anterior lamellar keratoplasty. Br J Ophthalmol
+2014; 98: 35–39.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 149. 
+Goweida MB.
+Intraoperative review of different bubble types formed during pneumodissection (big-bubble) deep anterior lamellar keratoplasty. Cornea
+2015; 34: 621–624.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 150. 
+Sarnicola E, Sarnicola C, Sabatino F, et al. Cannula DALK versus Needle DALK for Keratoconus. Cornea
+2016; 35: 1508–1511.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 151. 
+Scorcia V, De Luca V, Lucisano A, et al. Comparison of corneal densitometry between big-bubble and visco-bubble deep anterior lamellar keratoplasty. Br J Ophthalmol
+2020; 104: 336–340.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 152. 
+Subramanian P, Ramesh GP, Parameshachari BD. Comparative analysis of machine learning approaches for the early diagnosis of keratoconus. In: Distributed Computing and Optimization Techniques .Vol. 903. Springer, 2022, pp. 241-250(2022). [ Google Scholar ] 
+ 
+ 153. 
+Javadi MA, Mohammadi MJ, Mirdehghan SA, et al. A comparison between donor-recipient corneal size and its effect on the ultimate refractive error induced in keratoconus. Cornea
+1993; 12: 401–405.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 154. 
+Kuryan J, Channa P.
+Refractive surgery after corneal transplant. Curr Opin Ophthalmol
+2010; 21: 259–264.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 155. 
+Lanier JD, Bullington Rh, Prager TC.
+Axial length in keratoconus. Cornea
+1992; 11: 250–254.
+ [ PubMed ] [ Google Scholar ] 
+ 
+ 156. 
+Olson RJ.
+Variation in corneal graft size related to trephine technique. Arch Ophthalmol
+1979; 97: 1323–1325.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 157. 
+Wilson SE, Bourne WM.
+Effect of recipient-donor trephine size disparity on refractive error in keratoconus. Ophthalmology
+1989; 96: 299–305.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 158. 
+Javadi MA, Naderi M, Zare M, et al. Comparison of the effect of three suturing techniques on postkeratoplasty astigmatism in keratoconus. Cornea
+2006; 25: 1029–1033.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 159. 
+Feizi S, Javadi MA.
+Factors predicting refractive outcomes after deep anterior lamellar keratoplasty in Keratoconus. Am J Ophthalmol
+2015; 160: 648–53.e2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 160. 
+Romano V, Iovieno A, Parente G, et al. Long-term clinical outcomes of deep anterior lamellar keratoplasty in patients with keratoconus. Am J Ophthalmol
+2015; 159: 505–511.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 161. 
+Shams M, Sharifi A, Akbari Z, et al. Penetrating keratoplasty versus deep anterior lamellar keratoplasty for Keratoconus: a systematic review and meta-analysis. J Ophthalmic Vis Res
+2022; 17: 89–107.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 162. 
+Moramarco A, Gardini L, Iannetta D, et al. Post penetrating keratoplasty ectasia: incidence, risk factors, clinical features, and treatment options. J Clin Med
+2022; 11: 2678.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 163. 
+Shiuey EJ, Zhang Q, Rapuano CJ, et al. Development of a nomogram to predict graft survival after penetrating keratoplasty. Am J Ophthalmol
+2021; 226: 32–41.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 164. 
+Borderie VM, Touhami S, Georgeon C, et al. Predictive factors for successful Type 1 big bubble during deep anterior lamellar keratoplasty. J Ophthalmol
+2018; 2018. 2018: 4685406. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 165. 
+Spadea L, De Rosa V.
+Current techniques of lamellar keratoplasty for keratoconus. Saudi Med J
+2016; 37: 127–136.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 166. 
+Reddy JC, Modiwala Z, Mathew M.
+Lamellar keratoplasty in Keratoconus. In: Das S. (ed.) Lamellar Keratoplasty in Keratoconus. Keratoconus. Singapore: Springer Nature Singapore, 2022, pp.205–220. [ Google Scholar ] 
+ 
+ 167. 
+Salouti R, Zamani M, Ghoreyshi M, et al. Comparison between manual trephination versus femtosecond laser-assisted deep anterior lamellar keratoplasty for keratoconus. Br J Ophthalmol
+2019; 103: 1716–1723.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 168. 
+Blériot A, Martin E, Lebranchu P, et al. Comparison of 12-month anatomic and functional results between Z6 femtosecond laser-assisted and manual trephination in deep anterior lamellar keratoplasty for advanced keratoconus. J Fr Ophtalmol
+2017; 40: e193–e200. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 169. 
+Guindolet D, Nguyen DT, Bergin C, et al. Double-docking technique for femtosecond laser-assisted deep anterior lamellar keratoplasty. Cornea
+2018; 37: 123–126.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 170. 
+Yoshida J, Toyono T, Shirakawa R, et al. Risk factors and evaluation of keratoconus progression after penetrating keratoplasty with anterior segment optical coherence tomography. Sci Rep
+2020; 10: 18594.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 171. 
+Yousefi S, Yousefi E, Takahashi H, et al. Keratoconus severity identification using unsupervised machine learning. PLoS One
+2018; 13: e0205998. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 172. 
+Yousefi S, Takahashi H, Hayashi T, et al. Predicting the likelihood of need for future keratoplasty intervention using artificial intelligence. Ocul Surf
+2020; 18: 320–325.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 173. 
+Steven P, Le Blanc C, Lankenau E, et al. Optimising deep anterior lamellar keratoplasty (DALK) using intraoperative online optical coherence tomography (iOCT). Br J Ophthalmol
+2014; 98: 900–904.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 174. 
+Hayashi T, Masumoto H, Tabuchi H, et al. A deep learning approach for successful big-bubble formation prediction in deep anterior lamellar keratoplasty. Sci Rep
+2021; 11: 18559.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 175. 
+Arora V, Shetty R, Kaweri L, et al. Current review and a simplified “five-point management algorithm” for keratoconus. Indian J Ophthalmol
+2015; 63: 46–53.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 176. 
+Mohammadpour M, Heidari Z, Hashemi H.
+Updates on managements for Keratoconus. J Curr Ophthalmol
+2018; 30: 110–124.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 177. 
+Shi C, Wang M, Zhu T, et al. Machine learning helps improve diagnostic ability of subclinical keratoconus using Scheimpflug and OCT imaging modalities. Eye Vis
+2020; 7: 48. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 178. 
+Samuel AL.
+Some studies in machine learning using the game of checkers. IBM J Res Dev
+2000; 44: 206–226. [ Google Scholar ] 
+ Associated Data 
+ This section collects any data citations, data availability statements, or supplementary materials included in this article. 
+ Supplementary Materials 
+ sj-docx-3-oed-10.1177_25158414241232258 – Supplemental material for Keratoconus: exploring fundamentals and future perspectives – a comprehensive systematic review 
+ 
+ sj-docx-3-oed-10.1177_25158414241232258.docx (91.1KB, docx) 
+ 
+ Supplemental material, sj-docx-3-oed-10.1177_25158414241232258 for Keratoconus: exploring fundamentals and future perspectives – a comprehensive systematic review by Sana Niazi, Zisis Gatzioufas, Farideh Doroodgar, Oliver Findl, Alireza Baradaran-Rafii, Jacob Liechty and Majid Moshirfar in Therapeutic Advances in Ophthalmology sj-png-1-oed-10.1177_25158414241232258 – Supplemental material for Keratoconus: exploring fundamentals and future perspectives – a comprehensive systematic review 
+ 
+ sj-png-1-oed-10.1177_25158414241232258.png (84.6KB, png) 
+ 
+ Supplemental material, sj-png-1-oed-10.1177_25158414241232258 for Keratoconus: exploring fundamentals and future perspectives – a comprehensive systematic review by Sana Niazi, Zisis Gatzioufas, Farideh Doroodgar, Oliver Findl, Alireza Baradaran-Rafii, Jacob Liechty and Majid Moshirfar in Therapeutic Advances in Ophthalmology sj-png-2-oed-10.1177_25158414241232258 – Supplemental material for Keratoconus: exploring fundamentals and future perspectives – a comprehensive systematic review 
+ 
+ sj-png-2-oed-10.1177_25158414241232258.png (1MB, png) 
+ 
+ Supplemental material, sj-png-2-oed-10.1177_25158414241232258 for Keratoconus: exploring fundamentals and future perspectives – a comprehensive systematic review by Sana Niazi, Zisis Gatzioufas, Farideh Doroodgar, Oliver Findl, Alireza Baradaran-Rafii, Jacob Liechty and Majid Moshirfar in Therapeutic Advances in Ophthalmology

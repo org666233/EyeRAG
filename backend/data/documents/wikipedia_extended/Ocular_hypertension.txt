@@ -1,0 +1,42 @@
+Source: Wikipedia
+Title: Ocular hypertension
+URL: https://en.wikipedia.org/wiki/Ocular_hypertension
+============================================================
+
+Ocular hypertension is the presence of elevated fluid pressure inside the eye (intraocular pressure), usually with no optic nerve damage or visual field loss.
+For most individuals, the normal range of intraocular pressure is between 10 mmHg and 21 mmHg. It is estimated that approximately 2-3% of people aged 52-89 years old have ocular hypertension of 25 mmHg and higher, and 3.5% of people 49 years and older have ocular hypertension of 21 mmHg and higher.
+ Elevated intraocular pressure is an important risk factor and symptom of glaucoma. Accordingly, most individuals with consistently elevated intraocular pressures of greater than 21mmHg, particularly if they have other risk factors, are treated in an effort to prevent vision loss from glaucoma.
+
+
+== Pathophysiology ==
+One of the fluids inside the eye is called aqueous humor, and it contains 99% water and removes waste. Aqueous humor is transparent and thin, located in the anterior chamber, which is the area between the cornea and iris. Fluid should enter and exit the eye at appropriate rates to prevent fluid buildup, and when there is not appropriate fluid drainage, pressure builds up inside the eye. Fluid enters the eye through the ciliary body and exits the eye through the trabecular meshwork.
+Whether macular surgery or vitrectomy contributes to an increased ocular hypertension is currently unknown. Research suggests that anti-VEGF drugs and infectious keratitis can elevate intraocular pressure.
+
+
+== Diagnosis ==
+The condition is diagnosed using ocular tonometry, which can involve pressing a device against the cornea to see how much its shape changes. Increased IOP without glaucomatous changes (in optic disc or visual field) is considered as ocular hypertension. Sometimes ocular hypertension goes undiagnosed because it can be asymptomatic. Other tools for diagnosis include patient history, pachymetry, and optic nerve imaging.
+
+
+== Treatment ==
+
+Ocular hypertension is treated with either medications (eye drops), surgery, or laser. 
+Treatment, by lowering the intraocular pressure, may help decrease the risk of vision loss and damage to the eye from glaucoma. Treatment options include pressure-lowering 'antiglaucomatous' eye drops, surgery, and/or laser eye surgery.
+Medications that lower intraocular pressure can work by decreasing aqueous humor production and/or increasing aqueous humor outflow. Eye drop formulations often include different combinations of beta-blockers, prostaglandin analogs (for example, latanoprost, travoprost, and bimatoprost), diuretics, and alpha-agonists. How much a drug lowers intraocular pressure can vary depending on whether the level of the drug is highest (at peak) or lowest (at trough) in a person's body. For patients who develop to have glaucoma, treatment adherence and compliance can be a challenge.
+Laser trabeculoplasty works by increasing outflow. Laser treatment may be more effective than medications for decreasing the speed of loss of the visual field in people who have open-angle glaucoma. Evidence suggests that laser treatment may have the same degree of effectiveness at decreasing intraocular pressure.
+Cannabis is not suggested for treatment of glaucoma by the American Glaucoma Society for adults or for children.
+One key point is that although treatment can help reduce intraocular pressure, which is the only risk factor that can be modified, and early treatment of patients with ocular hypertension has appeared to reduce glaucoma incidence, treatments might not eliminate the possibility of still getting glaucoma. Also, the extent to which early treatment of ocular hypertensive patients helps reduce glaucoma incidence does seem to differ depending on if the patients have high-risk or low-risk ocular hypertension (defined based on different factors).
+
+
+== Research ==
+In 2002, a clinical trial in the United States, the Ocular Hypertension Treatment Study (OHTS), examined the visual field and optic disc of patients with ocular hypertension who were given a topical medication versus patients with ocular hypertension who were not given the medication. Results showed that patients who received the topical medication had a greater decrease in their intraocular pressure and 50% lower incidence of abnormalities in their eyes from glaucoma, compared to patients without the medication five years post the study start.
+That same year, European Glaucoma Preventing Study (EGPS) published a study from European data demonstrating no significant difference between using a drug called dorzolamide and placebo for lowering intraocular pressure and therefore no significant difference in development of glaucoma. Although this was different from the OHTS study, one similarity is that the researchers in both the OHTS and EGPS trials noticed that similar variables (e.g. higher intraocular pressure and baseline age, etc.) predicted the development of glaucoma.
+More recently in 2019, The LiGHT trial compared the effectiveness of eye drops and selective laser trabeculoplasty for ocular hypertension and open angle glaucoma. Both treatments contributed to a similar quality of life but most people undergoing laser treatment were able to stop using eye drops. Laser trabeculoplasty was also shown to be more cost-effective.
+Rho-Kinase inhibitors (for example, netarsudil) may be effective at decreasing ocular hypertension, however, how effective this medication is and longer term effects of these drops are not clear.
+
+
+== References ==
+
+
+== External links ==
+
+eMedicine - Ocular Hypertension

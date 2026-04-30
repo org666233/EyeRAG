@@ -1,0 +1,134 @@
+Source: Wikipedia
+Title: Optic neuritis
+URL: https://en.wikipedia.org/wiki/Optic_neuritis
+============================================================
+
+Optic neuritis (ON) is a debilitating condition that is defined as inflammation of cranial nerve II which results in disruption of the neurologic pathways that allow visual sensory information received by the retina to be able to be transmitted to the visual cortex of the brain. This disorder of the optic nerve may arise through various pathophysiologic mechanisms, such as through demyelination or inflammation, leading to partial or total loss of vision. Optic neuritis may be a result of standalone idiopathic disease, but is often a manifestation that occurs secondary to an underlying disease.
+Signs of ON classically present as sudden-onset visual impairment in one or both eyes that can range in severity from mild visual blurring to complete blindness in the affected eye(s). Although pain is typically considered a hallmark feature of optic neuritis, the absence of pain does not preclude a diagnosis or consideration of ON as some patients may report painlessness.
+ON is typically subtyped into "typical" ON and "atypical" ON. The most commonly considered etiologies are multiple sclerosis (MS), neuromyelitis optica (NMO) / neuromyelitis optica spectrum disorder (NMOSD), and myelin oligodendrocyte glycoprotein-antibody-associated disease (MOGAD). Other etiologies include idiopathic ON, infections (eg, syphilis, Lyme disease, and viral infections such as herpes simplex and varicella-zoster), and systemic autoimmune diseases (eg, systemic lupus erythematosus and sarcoidosis).
+Diagnosis of ON can be made with a combination of symptom manifestation, clinical exam findings, imaging findings, and serologic studies.
+Modern medical practice employs high-dose steroids, such as IV methylprednisolone, as the first-line treatment for optic neuritis.
+Optic neuritis should not be confused with optic neuropathy, which is a condition manifesting as visual impairment that occurs as a result of damage to the optic nerve from any cause - one of those causes being optic neuritis.
+
+
+== Classification ==
+
+
+=== Definition ===
+The optic nerve comprises axons that emerge from the retina of the eye and carry visual information to the primary visual nuclei, most of which is relayed to the occipital cortex of the brain to be processed into vision. The phrase optic neuritis is derived from the pathophysiologic changes observed in this disorder whereby the optic nerve (optic) becomes inflamed (neuritis). As such, optic neuritis is typically a manifestation of an underlying, causative etiology. Because of the breadth of underlying causes of optic neuritis, this disorder is typically classified into the subtypes of "typical" ON and "atypical" ON. Typical ON refers to a demyelinating etiology which most commonly stems from multiple sclerosis or standalone idiopathic disease. Atypical ON essentially refers to optic neuritis from any other cause.
+
+
+=== Typical Optic Neuritis ===
+ON is classified as typical optic neuritis when demyelination is the causative pathophysiologic aberrancy. This classification attributes the manifestation of ON primarily to multiple sclerosis or standalone idiopathic disease, of which multiple sclerosis is the most common underlying etiology of all subtypes of optic neuritis.
+
+
+==== Multiple Sclerosis ====
+Multiple sclerosis, in brief, is an autoimmune disease that results in demyelination of the nerves in the central nervous system (CNS). Demyelination in MS can be diffusely affect the CNS leading to a multitude of physical manifestations. Optic neuritis is acquired this way when MS spreads to the optic nerve. Optic neuritis is often among the first, if not the foremost, manifestation of MS. One review found that inflammatory demyelinating optic neuritic (IDON) is the initial presentation of MS in approximately 20% of studied patients, while another review found that up to 50% of MS patients will develop optic neuritis during their disease course.
+
+
+==== Idiopathic Disease ====
+Idiopathic optic neuritis (ION) generally refers to optic neuritis that does not present with serologic markers attributable to a known underlying cause (eg, NMOSD, MOGAD, etc.). Opinions among specialists seem to differ as to whether idiopathic optic neuritis should be classified as MS-associated ON or if it should not be exclusively associated with MS. A group of reviewers from China propose that ION should not be associated with MS and hence defined with the literal meaning of "idiopathic" as ON with an unknown cause. On the other hand, multiple groups of Western reviewers propose that ION should be considered a preceding manifestation, among a collection of manifestations, that precedes the development of MS in the absence of other serologic findings.
+
+
+=== Atypical Optic Neuritis ===
+ON is classified as atypical optic neuritis when the underlying cause is an etiology other than multiple sclerosis or standalone idiopathic disease. Atypical ON is most frequently seen as an early manifestation of neuromyelitis optica spectrum disorder (NMOSD), formerly known as neuromyelitis optica (NMO). Other causes of atypical ON include myelin oligodendrocyte glycoprotein-antibody-associated disease (MOGAD), other autoimmune disorders (eg, Sarcoidosis, Sjogren syndrome, rheumatoid arthritis, systemic lupus erythematosus), and infections (Bacterial [Tuberculosis, syphilis, meningitis, Lyme's disease, Bartonella] or Viral [measles, mumps, rubella, chicken pox, herpes]).
+
+
+==== NMOSD (Formerly NMO) ====
+Neuromyelitis optica spectrum disorder (NMOSD) is a disorder consisting of six syndromes that cause inflammation and demyelination of the CNS. The hallmark diagnostic criteria of NMOSD is the presence of the aquaporin-4 immunoglobulin G antibodies (AQP4-IgG) found on serology, which is the underlying aberrancy of this autoimmune condition that engenders its distinction from multiple sclerosis. Clinical manifestations of NMOSD, such as optic neuritis, occur due to antibody-mediated damage against the aquaporin-4 transmembrane water channels which are found in the foot processes of astrocytes at high concentrations within the optic nerve, brainstem, and spinal cord.
+
+
+==== MOGAD ====
+Myelin oligodendrocyte glycoprotein-antibody-associated disease (MOGAD) is an autoimmune condition against the myelin oligodendrocyte glycoprotein (MOG) located on both the myelin sheathe and oligodendrocyte cell surfaces of the CNS. Cell-mediated and complement-mediated inflammation results hallmark findings of perivenous and confluent white matter demyelination.
+
+
+==== Infection ====
+A wide range of attributable infectious etiologies have been found to cause optic neuritis and can arise from varying pathophysiologic mechanisms. The underlying inflammation and demyelination has been shown to manifest as anterior optic neuritis, retrobulbar optic neuritis (normal optic disc), neuroretinitis (optic disc edema with the macular star), or anterior optic neuropathy. It has been proposed that optic nerve involvement secondary to herpes zoster virus infection can arise from direct nerve inflammation or an ischemic mechanism leading to inflammatory thrombosis. Optic nerve involvement secondary to cytomegalovirus (CMV) infection has been proposed to involve a similar mechanism in patients with CMV retinitis. The pathogenesis of ON secondary to HIV has been proposed to arise from autoimmune, vascular, and degenerative ischemic pathways.
+
+
+==== Other Causes ====
+Other etiologies associated with optic neuritis include congenital anomalies, glaucoma, elevated intracranial pressure (i.e. papilledema), compression, nutritional and toxic optic neuropathy, trauma, inherited optic neuropathy, or infiltration (eg, neoplastic or granulomatous).
+When an inflammatory recurrent optic neuritis is not demyelinating, it is called chronic relapsing inflammatory optic neuropathy (CRION).
+
+
+== Signs and symptoms ==
+Major symptoms are:
+
+sudden loss of vision (partial or complete),
+sudden blurred or "foggy" vision, and
+pain on movement of the affected eye.
+Patients with optic neuritis may experience dyschromatopsia which describes a range of color vision in the affected eye (especially red), with colors appearing subtly washed out compared to the other eye. Patients may also experience difficulties judging movement in depth, which can be particular troublesome during driving or sport (Pulfrich effect). Likewise, transient worsening of vision with increase of body temperature (Uhthoff's phenomenon) and glare disability are a frequent complaint.
+Involvement of the optic nerve may be unilateral or bilateral, depending on the underlying etiology. For example, MS-optic neuritis often presents unilaterally while NMOSD-optic neuritis and MOGAD-optic neuritis more often present bilaterally.
+However not everyone who has optic neuritis has problems with their vision.
+
+
+=== Early Symptoms ===
+Early symptoms that require investigation include symptoms from multiple sclerosis (twitching, lack of coordination, slurred speech, frequent episodes of partial vision loss or blurred vision), episodes of "disturbed/blackened" rather than blurry indicate moderate stage and require immediate medical attention to prevent further loss of vision. Other early symptoms are reduced night vision, photophobia and red eyes.
+
+
+==== Variation in symptoms with age ====
+Several case studies in children have demonstrated the absence of pain in more than half of cases (approximately 60%) in their pediatric study population, with the most common symptom reported simply as "blurriness". Other remarkable differences between the presentation of adult optic neuritis as compared to pediatric cases include more often unilateral optic neuritis in adults, while children much predominantly present with bilateral involvement.
+
+
+== Diagnosis ==
+The World Health Organization's ICD-11 classification includes optic neuritis. However a 2022 review found that there is no consensus regarding the classification of optic neuritis, and precise diagnostic criteria are not available. In practice, optic neuritis is diagnosed by a combination of features pertaining to symptom manifestation, clinical evaluation, and imaging findings.
+
+
+=== Clinical Evaluation ===
+A trained healthcare provider may evaluate a patient for optic neuritis by identifying the presence and degree of visual acuity loss, visual field loss, color vision deficits, and an afferent pupillary defect in the affected eye. The presence, absence, or degree of these manifestations may have associations with specific underlying etiologies of optic neuritis, but are often insufficient to definitively establish a diagnosis of optic neuritis and its associated cause.
+Fundoscopy is another modality of clinical evaluation that is performed with an ophthalmoscope. Findings that support a diagnosis of optic neuritis include optic disc edema, disc inflammation, disc hemorrhages, or ocular inflammation. However, these findings are not always present in every patient, such as in patients with idiopathic optic neuritis which often have normal fundoscopic findings.
+
+
+=== MRI ===
+Magnetic resonance imaging (MRI) is a robust and sensitive diagnostic modality for the detection of optic neuritis. Imaging of the optic nerve with MRI shows increased signal on the affected side. There is contrast enhancement of the symptomatic optic nerve and sheaths acutely or intrinsic signal increase (looking brighter) within ≥ 3 months. One study found that MRI of the orbits with fat suppression and gadolinium enhancement detected acute optic neuritis lesions in 95% of affected individuals within 20 days of vision loss. Another study found that T2-weighted images with fat suppression and short tau inversion recovery (STIR) detected lesions in up to 89% of acute optic neuritis cases with abnormalities persisting for as long as 6 weeks in 92% of cases.
+
+Identification of optic nerve, orbital, brain, and meningeal involvement with MRI can also help to better characterize the underlying cause of optic neuritis upon initial evaluation. Unilateral optic nerve involvement is more common MS while bilateral optic nerve involvement is more common in NMOSD and MOGAD.  T2-hyperintense and gadolinium-enhancing lesions in multiple regions of the brain and/or spinal cord may be highly suggestive or diagnostic of MS. Such lesions found in the periependymal, fornix, and hypothalamic lesions may be more suggestive of NMOSD. Involvement of the optic chiasm or optic tract are more suggestive of NMOSD-optic neuritis; involvement of the retrobulbar optic nerve can be seen in both NMOSD and MOGAD, but more commonly in MOGAD; perineural optic nerve involvement is often suggestive of MOGAD-optic neuritis, but should not preclude the investigation of other autoimmune or infectious etiologies.
+
+
+=== OCT ===
+Optical coherence tomography (OCT) is a sensitive imaging modality that can reveal subtle pathologic changes in the optic nerve and retina. OCT may reveal changes in thickness of the retinal nerve fiber layers (RNFL) at the peripapillary retina and macula. The OCT shows corresponding optic disc swelling acutely or an inter-eye difference in the thickness of the neurons and their nerves connecting the eye with the brain in above 4-5% within ≥ 3 months after onset. The OCT inter-eye difference (also called retinal asymmetry) has been included into the 2025 revision of the McDonald criteria for multiple sclerosis (MS). A good diagnosis depends on timing. For OCT, the mGCIPL is most sensitive in the chronic phase. This matters when testing is needed to confirm optic nerve involvement for dissemination in space (DIS) in MS.
+New advancements in OCT technology have allowed for the development of OCT angiography which can provide information on the thickness of retinal blood vessels. Whereas OCT has yet to demonstrate identifiable correlations between acute RNFL changes and visual outcomes or treatment responses, OCT angiography may offer novel diagnostic and prognostic insight.
+
+
+=== VEP ===
+Visual evoked potential (VEP) is a sensitive test that measures the P100 latency of axonal transmission along the optic nerve. The P100 latency typically peaks at 100 milliseconds after visual stimulus presentation, and a prolonged P100 latency suggests abnormal conduction along this pathway which confirms the presence of optic neuropathy.
+
+
+== Treatment ==
+Many patients see full recovery but some see some lasting effects.
+
+
+=== Steroids ===
+High dose steroids may be given intravenously (IV) or orally, though IV steroids such as methylprednisolone are typically recommended. Studies, including the Optic Neuritis Treatment Trial (ONTT), support such a guideline based on the statistically significant outcomes showing the efficacy of this treatment modality in restoring visual acuity and lessening ON's other associated symptoms.
+In most MS-associated optic neuritis, visual function spontaneously improves over 2–3 months, and there is evidence that corticosteroid treatment does not affect the long term outcome. However, for optic neuritis that is not MS-associated (or atypical optic neuritis) the evidence is less clear and therefore the threshold for treatment with intravenous corticosteroids is lower. Intravenous corticosteroids also reduce the risk of developing MS in the following two years in patients with MRI lesions; but this effect disappears by the third year of follow up.
+Paradoxically, oral administration of corticosteroids in this situation may lead to more recurrent attacks than in non-treated patients (though oral steroids are generally prescribed after the intravenous course, to wean the patient off the medication). This effect of corticosteroids seems to be limited to optic neuritis and has not been observed in other diseases treated with corticosteroids.
+A Cochrane systematic review studied the effect of corticosteroids for treating people with acute optic neuritis. Specific corticosteroids studied included intravenous and oral methylprednisone, and oral prednisone. The authors conclude that current evidence does not show a benefit of either intravenous or oral corticosteroids for rate of recovery of vision (in terms of visual acuity, contrast sensitivity, or visual fields). There are a number of reasons why this might be the case.
+
+
+=== Immunosuppressants ===
+Immunosuppressants may also be used in treatment.
+
+
+=== Pain relief ===
+Pain relief may also be used.
+
+
+== Epidemiology ==
+Optic neuritis typically affects young adults ranging 18–45 years of age, with a mean age of 30–35 years. There is a strong female predominance. The annual incidence is approximately 5/100,000, with a prevalence estimated to be 115/100,000 (0.12%).
+
+
+== Society and culture ==
+In Charles Dickens' Bleak House, the main character, Esther Summerville, has a transient episode of visual loss, the symptoms of which are also seen in people who have optic neuritis. Legal historian William Searle Holdsworth suggested that the events in Bleak House took place in 1827.
+In an episode of Dr. Quinn, Medicine Woman ("Season of Miracles", season five), Reverend Timothy Johnson is struck blind by optic neuritis on Christmas Day 1872. He remains blind for the duration of the series.
+
+
+== See also ==
+Optic neuropathy
+Visual snow
+
+
+== References ==
+
+
+== External links ==
+Diagnosis and classification of optic neuritis, translated into 116 languages and free for download

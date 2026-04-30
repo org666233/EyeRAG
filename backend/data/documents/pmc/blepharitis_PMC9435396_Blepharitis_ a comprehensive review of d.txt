@@ -1,0 +1,140 @@
+Source: PubMed Central (PMC)
+PMCID: PMC9435396
+Title: Blepharitis: a comprehensive review of diagnosis and treatment
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9435396/
+Year: 2022
+Disease: blepharitis
+Priority: 3
+============================================================
+
+Turk Arch Otorhinolaryngol . 2022 Aug 31;60(2):102–104. doi: 10.4274/tao.2022.2021-10-11 
+ 
+ 
+ 3D Model to Understand the Diagnosis and Treatment of Horizontal Canal BPPV 
+ Enis Alpin Güneri 
+ Enis Alpin Güneri 
+ 
+ 1 Department of Otorhinolaryngology, Dokuz Eylül University Faculty of Medicine, İzmir, Turkey 
+ Find articles by Enis Alpin Güneri 
+ 
+ 
+ 1 , Salim Hancı 
+ Salim Hancı 
+ 
+ 1 Department of Otorhinolaryngology, Dokuz Eylül University Faculty of Medicine, İzmir, Turkey 
+ Find articles by Salim Hancı 
+ 
+ 
+ 1, * , Yüksel Olgun 
+ Yüksel Olgun 
+ 
+ 1 Department of Otorhinolaryngology, Dokuz Eylül University Faculty of Medicine, İzmir, Turkey 
+ Find articles by Yüksel Olgun 
+ 
+ 
+ 1 , Serpil Mungan Durankaya 
+ Serpil Mungan Durankaya 
+ 
+ 2 Department of Audiometry Vocational School of Health Services, Dokuz Eylül University, İzmir, Turkey 
+ 
+ 3 Department of Otorhinolaryngology, Hearing, Speech and Balance Unit, Dokuz Eylül University Hospital, İzmir, Turkey 
+ Find articles by Serpil Mungan Durankaya 
+ 
+ 
+ 2, 3 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Otorhinolaryngology, Dokuz Eylül University Faculty of Medicine, İzmir, Turkey 
+ 
+ 2 Department of Audiometry Vocational School of Health Services, Dokuz Eylül University, İzmir, Turkey 
+ 
+ 3 Department of Otorhinolaryngology, Hearing, Speech and Balance Unit, Dokuz Eylül University Hospital, İzmir, Turkey 
+ 
+ ✉ * Address for Correspondence: E-mail: salimhanci55@gmail.com 
+ 
+ 
+ Received 2021 Nov 24; Accepted 2022 Apr 17; Issue date 2022 Jun. 
+ 
+ ©Copyright 2022 by Official Journal of the Turkish Society of Otorhinolaryngology and Head and Neck Surgery 
+ Content of this journal is licensed under a Creative Commons Attribution 4.0 International License. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC9435396  PMID: 36105529 
+ 
+ Abstract 
+ Objective: 
+ Our primary objective was to develop a three-dimensional (3D) model of the vestibular labyrinth to understand the pathophysiological mechanisms of benign paroxysmal positional vertigo (BPPV) observed during common diagnostic positional tests. We secondarily aimed to monitor the effects of the repositioning maneuvers and use this tool in teaching. Methods: 
+ A 3D model of a human semicircular canals (SSCs) system was created by 3D printing the core and assembling it with silicone tubing filled with lubricant oil containing colored small stones in the lumen mimicking otoconia. We used the model in horizontal canal BPPV diagnostic tests and therapeutic maneuvers. The working mechanism of the model we designed was recorded with video. Results: 
+ The model allowed for a clear display of the anatomy and the respective orientations of the SSCs. Otolith movement in the horizontal canals could be imitated during diagnostic positional tests (Dix-Hallpike and Pagnini-McClure) and therapeutic maneuvers (Epley, Semont, Lempert and Gufoni). Conclusion: 
+ As well as helping to understand the anatomy and physiology of the SSCs, this simple 3D model also provides a teaching tool for the diagnosis and treatment of BPPV. The mechanism of horizontal canal canalithiasis and the effect of therapeutic repositioning maneuvers could be clearly observed by watching the markers in the lumen demonstrating the progress of otolith movements with changes in head position relative to gravity. Keywords: Benign paroxysmal positional vertigo, vestibular diseases, vestibular labyrinth, otoliths, three-dimensional printing, anatomic model Introduction 
+ Benign paroxysmal positional vertigo (BPPV) is the most common cause of vertigo. The semicircular canals (SSCs) can be involved with the underlying mechanisms of canalithiasis or cupulolithiasis. Since there are many BPPV variants depending on the location of the otoliths in the canal sand the cupula, a clear understanding of the pathophysiological mechanisms are crucial for the correct diagnosis and a successful treatment ( 1 , 2 ). 
+ The anatomy and biomechanics of the SSCs was previously studied using different techniques including radiology, histology, and computer-based modelling ( 3 , 4 ). Most of them, however, were unclear and not simple enough, and we noticed that a practical understanding of the diagnostic and therapeutic aspects of the disease was necessary, especially for physicians practicing in medical fields different from neurotology. 
+ Repositioning maneuvers (RMs) are performed to send the otoliths back into the utricle; most commonly, Epley and Semont maneuvers are used to treat posterior canal BPPV, while Lempert (Barbecue) and Gufoni maneuvers are performed for the horizontal canal involvement. These RMs are generally poorly understood by examining illustrations, photographs, or animations. Also, conventional three-dimensional (3D) anatomical models of the inner ear are not specifically designed for BPPV and are rather expensive. A 3D anatomical model is necessary to provide a clear understanding of the anatomy and physiology of the vestibular labyrinth, as well as the diagnostic tests and RM for those interested in BPPV. 
+ BBPV most commonly involves the posterior SSCs, followed by the horizontal and anterior canals. There are more variants in the horizontal canal and their mechanisms of emergence are harder to understand. In our report, we present a horizontal canal canalithiasis model which we believe will help to understand these mechanisms. Methods 
+ Ultimaker 2+ extended (Build volume 223x220x205 mm, 8.77x8.66x8.07 ins), (Ultimaker, Netherlands), Porima 1.75 mm Pla filament (Porima, Turkey), Johnsons baby oil (Johnson & Johnson Medical, USA), silis astroturf sand (Tuna Silis Kum, Turkey), tennis bandanna, transparent silicone 3D printing model (Link: https://vestibularfirst.com/how-to-print-3d-vestibular-apparatus/), tubes (ID: 10 mm OD: 13mm), (Önder silikon, Turkey) were used in the study. This project took about six-ten hours to print (depending on the 3D printer and its settings). First, one end of the tube was inserted into the canal, and oil and sand were fed in. Then, the other end of the tube was inserted into the other canal. When the model was ready, it was mounted on the head of a voluntary subject using a tennis bandanna. The horizontal SSC was ensured to standard a 30-degree angle with the horizontal plane. This model was constructed in order to understand the anatomy and physiology of the SSCs, and also serve as a teaching tool for the diagnosis and treatment maneuvers of BPPV. Results 
+ The Dix-Hallpike test for the posterior canal and the Pagnini-McClure (Roll) test for the horizontal canal BPPV variants were recorded during head movements. Video recordings were also made during Epley, Lempert and Gufoni maneuvers. Close-up recordings were also shot to observe the migration of the marker otoliths in the horizontal SSCs, focus on heir behavior and the duration of movements until they reach their final destination. 
+ Position changes appear much faster in the videos compared to the real-life implementation where a significant waiting period is needed to allow the otoliths to move by gravity. Also, close-up view of the mounted model is not provided for each video for simple demonstration. Discussion 
+ As the underlying mechanisms of BPPV are becoming more and more clearly understood, new variants, tests and treatment maneuvers are continuously being described. It is not easy to develop a simple concept model to understand and teach the pearls of BPPV. Illustrations, photographs, videos, and animations were somewhat successful to achieve these goals; but there are certain limitations for these media such as access to the sources, the clarity of the production and the contradictions between mathematical modeling and clinical experience. 
+ A free 3D model readily obtained by printing might be expected to allow for a clearer understanding of the various possibilities of otolithic movement in the endolymph during certain head movements. By using 3D modeling, confusing and contradictory clinical observations may be explained by simulating the hypothetical mechanisms. In this report we presented a 3D horizontal canal canalithiasis model as the first part of our study; however, a single model is not enough to understand the different vestibular stimulation patterns or the therapeutic head positions relative to gravity. 
+ In this model, the presentation of the SSCs may not be so perfect and the flow of induced movements of the marker otoliths may not reflect the temporal patterns of real situations. We believe that the inability to add a moving cupula is the most important limitation of the 3D model presented here, but we are currently working to add a bendable cupula like a swing door inside the lumen of the tubing to study the mechanics of cupulolithiasis. Also, bilateral 3D modeling, using liquids of different densities inside the canals and changing the size sand the shapes of the canals to study the effects of anatomical variations are under consideration. 
+ In the study by Chien et al. ( 3 ) a 3D model of the temporal bone was built to better understand the anatomy. The aVOR application developed in Sydney was developed as a teaching, training, and testing tool for the vestibulo-ocular reflex, vestibular system and its disorders, including BPPV. It demonstrates eye movements, including those caused by canalithiasis. The application has been downloaded more than 50,000 times and its usefulness in teaching BPPV to medical students has been demonstrated ( 4 ). 
+ Santos et al. ( 5 ) used a 3D numerical approach to show the biomechanical behavior of the vestibular system. They worked on computational simulations and numerical models. They stated that such models would also contribute to rehabilitation processes. Similarly, Traboulsi and Teixido ( 6 ) and Teixido et al. ( 7 ) developed a biomechanical model showing that it could be useful in multicanal involvement and emphasized that a 3D software were useful for the diagnosis and treatment of BPPV. 
+ Bhandari et al. ( 8 , 9 ) stated in two separate studies that simulators are useful for visualizing otolith movements during maneuvers for treating BPPV. However, they stated that 2D visualizations were limited while 3D sand dynamic simulations were more effective in understanding BPPV. 
+ Yılmazer and Topçuoğlu ( 10 ) showed the anatomy of the SSCs with a two-handed model and stated that it would be effective for understanding the diseases of the SSCs. 
+ In our study, the movements of otoliths in the horizontal SSC were visualized in a 3D model for the first time. We believe that the model could facilitate the understanding of otolith movements during head positions. However, it does not evaluate the eye movements that occur in BPPV. Also in our study, only the horizontal canal was studied, and new studies are certainly needed for other SSCs involvements. Conclusion 
+ We believe that a simple and free 3D model as presented here is a useful clinical tool to understand and treat BPPV. With the 3D model, a detailed and accurate conceptualization of BPPV can be obtained. 
+ 
+ Video 1. 3D Model of BPPV 
+ 
+ DOI: 10.4274/tao.2022.2021-10-11.video1 
+ Video Link: 
+ https://cms.galenos.com.tr/SolvePark/Uploads/Files/3D-Model-of-BPPV.mp4 
+ 
+ Main Points 
+ 
+ • Understanding of the anatomy of the semicircular canals and their position relative to various head movements is crucial for the diagnosis and treatment of BPPV. 
+ • The 3D model allowed for a clear display of the anatomy and respective orientations of the semicircular canals. 
+ • It can also be used as a teaching tool for the diagnosis and treatment of BPPV. Footnotes 
+ 
+ 
+ Informed Consent: Not necessary. 
+ Peer-review: Internally peer-reviewed. 
+ 
+ 
+ 
+ Authorship Contributions 
+ 
+ Surgical and Medical Practices: E.A.G., Y.O., Concept: E.A.G., S.H., S.M.D., Design: E.A.G., S.H., S.M.D., Data Collection and/or Processing: E.A.G., Analysis and/or Interpretation: E.A.G., S.M.D., Literature Search: E.A.G., S.H., Y.O., S.M.D., Writing: E.A.G., S.H., Y.O. 
+ 
+ Conflict of Interest: The authors have no conflicts of interest to declare. 
+ Financial Disclosure: The authors declared that this study has received no financial support. 
+ References 
+ 
+ 
+ 1. Güneri EA. Benign paroxysmal positional vertigo. Turkiye Klinikleri J ENT Special Topics. 2015;8:5–12. [ Google Scholar ] 
+ 
+ 2. Epley JM. The canalith repositioning procedure: for treatment of benign paroxysmal positional vertigo. Otolaryngol Head Neck Surg. 1992;107:399–404. doi: 10.1177/019459989210700310. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Chien WW, da Cruz MJ, Francis HW. Validation of a 3D-printed human temporal bone model for otology surgical skill training. World J Otorhinolaryngol Head Neck Surg. 2021;7:88–93. doi: 10.1016/j.wjorl.2020.12.004. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Dlugaiczyk J, Thiemer M, Neubert C, Schorn BA, Schick B. The aVOR app increases medical students' competence in treating benign paroxysmal positional vertigo (BPPV) Otol Neurotol. 2018;39:e401–6. doi: 10.1097/MAO.0000000000001778. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Santos CF, Belinha J, Gentil F, Parente M, Jorge RN. An alternative 3D numerical method to study the biomechanical behaviour of the human inner ear semicircular canal. Acta Bioeng Biomech. 2017;19:3–15. [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Traboulsi H, Teixido M. BPPV Viewer: A downloadable 3D BPPV model for study of otolith disease. World Journal of Otorhinolaryngol Head Neck Surg. 2020;7:34–9. doi: 10.1016/j.wjorl.2018.10.001. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Teixido M, Woods O, Kung B, Seyyedi M. A 3D benign paroxysmal positional vertigo model for study of otolith disease. World J Otorhinolaryngol Head Neck Surg. 2016;2:1–6. doi: 10.1016/j.wjorl.2016.02.002. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Bhandari A, Kingma H, Bhandari R. BPPV simulation: a powerful tool to understand and optimize the diagnostics and treatment of all possible variants of BPPV. Front Neurol. 2021;12:632286. doi: 10.3389/fneur.2021.632286. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Bhandari A, Bhandari R, Kingma H, Zuma E Maia F, Strupp M. Three-dimensional simulations of six treatment maneuvers forhorizontal canal benign paroxysmal positional vertigo canalithiasis. Eur J Neurol. 2021;28:4178–83. doi: 10.1111/ene.15044. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Yılmazer R, Topçuoğlu OM. Three-dimensional reconstruction of the semicircular canals with a two-hands model. Turk Arch Otorhinolaryngol. 2019;57:176–81. doi: 10.5152/tao.2019.4412. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

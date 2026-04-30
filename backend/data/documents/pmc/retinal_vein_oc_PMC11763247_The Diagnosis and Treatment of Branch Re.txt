@@ -1,0 +1,674 @@
+Source: PubMed Central (PMC)
+PMCID: PMC11763247
+Title: The Diagnosis and Treatment of Branch Retinal Vein Occlusions: An Update
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11763247/
+Year: 2025
+Disease: retinal_vein_occlusion
+Priority: 3
+============================================================
+
+Biomedicines . 2025 Jan 5;13(1):105. doi: 10.3390/biomedicines13010105 
+ 
+ 
+ The Diagnosis and Treatment of Branch Retinal Vein Occlusions: An Update 
+ Diana-Maria Darabuş 
+ Diana-Maria Darabuş 
+ 
+ 1 Department of Ophthalmology, “Victor Babeş” University of Medicine and Pharmacy, 300041 Timișoara, Romania; diana.darabus@umft.ro (D.-M.D.); mihnea.munteanu@umft.ro (M.M.) 
+ Find articles by Diana-Maria Darabuş 
+ 
+ 
+ 1 , Rodica Georgiana Dărăbuş 
+ Rodica Georgiana Dărăbuş 
+ 
+ 2 Doctoral School, “Victor Babeş” University of Medicine and Pharmacy, 300041 Timișoara, Romania 
+ Find articles by Rodica Georgiana Dărăbuş 
+ 
+ 
+ 2, * , Mihnea Munteanu 
+ Mihnea Munteanu 
+ 
+ 1 Department of Ophthalmology, “Victor Babeş” University of Medicine and Pharmacy, 300041 Timișoara, Romania; diana.darabus@umft.ro (D.-M.D.); mihnea.munteanu@umft.ro (M.M.) 
+ Find articles by Mihnea Munteanu 
+ 
+ 
+ 1 
+ 
+ Editor: Heping Xu 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, “Victor Babeş” University of Medicine and Pharmacy, 300041 Timișoara, Romania; diana.darabus@umft.ro (D.-M.D.); mihnea.munteanu@umft.ro (M.M.) 
+ 
+ 2 Doctoral School, “Victor Babeş” University of Medicine and Pharmacy, 300041 Timișoara, Romania 
+ 
+ * Correspondence: georgiana.darabus@umft.ro 
+ 
+ Roles 
+ 
+ Heping Xu : Academic Editor 
+ 
+ 
+ Received 2024 Sep 28; Revised 2024 Dec 26; Accepted 2025 Jan 3; Collection date 2025 Jan. 
+ 
+ © 2025 by the authors. 
+ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ ). 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC11763247  PMID: 39857689 
+ 
+ Abstract 
+ Branch retinal vein occlusion (BRVO) is a common retinal vascular condition and a significant contributor to vision loss worldwide, particularly in middle-aged and elderly populations. This review synthesizes current knowledge on the epidemiology, pathogenesis, and clinical features of BRVO, alongside recent advancements in diagnostic and therapeutic strategies. BRVO is approximately four times more prevalent than central retinal vein occlusion (CRVO) and often leads to significant vision impairment. By focusing on BRVO, this review aims to address the specific challenges and advancements in its diagnosis and management. The pathophysiology of BRVO is complex, involving factors such as venous compression, inflammation, and increased levels of vascular endothelial growth factor (VEGF). Diagnostic approaches such as optical coherence tomography (OCT) and fluorescein angiography are highlighted for their roles in assessing disease severity and guiding treatment decisions. Therapeutic interventions, including laser photocoagulation, anti-VEGF therapy, and intravitreal corticosteroids, are critically evaluated, emphasizing emerging treatments such as gene therapy, peptide-based agents, and small-molecule inhibitors. Despite advancements in management strategies, the recurrence of macular edema and treatment resistance remain significant challenges. Continued research is essential to refine therapeutic protocols and improve long-term visual outcomes for patients with BRVO. 
+ Keywords: branch retinal vein occlusion, vascular endothelial growth factor, macular edema, anti-VEGF therapy, gene therapy, peptide-based agents, small-molecule inhibitors 1. Introduction 
+ Retinal diseases significantly contribute to visual impairment and blindness globally, particularly among middle-aged and elderly individuals, though they can affect people of all ages [ 1 , 2 , 3 ]. Retinal vein occlusion (RVO) is the second most prevalent vascular retinal disease, following diabetic retinopathy [ 4 , 5 , 6 ], and it ranks as the fifth leading cause of blindness [ 7 , 8 , 9 ]. Moreover, RVO is a frequent cause of sudden, unilateral, painless vision loss [ 8 , 10 , 11 , 12 ]. RVO was first described by Liebreich in 1855 and later by Michel in 1878 [ 13 ]. Subsequently, branch retinal vein occlusion (BRVO) was described by Leber in 1877 and Oeller in 1896 [ 14 ]. RVO is a vascular condition marked by venous dilation and tortuosity, accompanied by secondary intraretinal hemorrhage, cotton wool spots, ischemia, optic disc and macular edema, diffuse retinal edema [ 15 ], neovascularization, and neovascular glaucoma [ 16 , 17 , 18 ]. RVO arises from partial or complete obstruction due to thrombosis in the central, hemi-central, or branched retinal veins [ 19 ]. The clinical manifestations of RVO are predominantly influenced by the levels of vascular endothelial growth factor (VEGF) in the vitreous and retina, which result from retinal ischemia [ 20 ]. 
+ RVO encompasses a spectrum of vascular disorders, with BRVO and CRVO as its primary subtypes. While CRVO involves the central retinal vein, BRVO occurs at arteriovenous crossings, often due to arterial compression. BRVO is significantly more common, accounting for approximately 4.42 cases per 1000 individuals compared to 0.8 cases for CRVO [ 5 ]. The distinct epidemiological and clinical characteristics of BRVO justify its focused exploration. 
+ Previous reviews have detailed the natural history and management of BRVO, emphasizing its prevalence and distinct challenges compared to CRVO. The current review builds on this foundation, incorporating recent advancements in diagnostics and therapeutics to provide a comprehensive update [ 9 ]. 
+ This review employs a systematic approach to ensure a systematic and transparent methodology. A literature search was conducted across databases including PubMed, Scopus, and Web of Science. Inclusion criteria encompassed studies focusing on BRVO diagnosis, pathogenesis, and treatment published in peer-reviewed journals between 2000 and 2024. Exclusion criteria included studies without clear differentiation between BRVO and CRVO, non-peer-reviewed articles, and studies with sample sizes below 10 patients. 2. Epidemiology 
+ RVO is a common vascular retinal disorder, with BRVO being more prevalent than CRVO. Global prevalence rates vary by region and ethnicity. The precise epidemiological data on RVO is unclear [ 21 , 22 ]; however, studies conducted in various populations indicate that the prevalence of RVO ranges from 5.2 to 16 per 1000 individuals [ 14 ]. 
+ For instance, studies among Caucasians aged 40 years and older report a BRVO prevalence ranging from 0.6% to 1.1% [ 21 , 23 ]. In Asian populations, prevalence is at approximately 0.76 per 100 individuals, and BRVO is six times more common than CRVO [ 4 ]. The Bhaktapur Retina Study in Nepal identified an RVO prevalence of 2.95%, with BRVO comprising 2.74% of cases [ 4 , 24 ]. In a 2016 study conducted in Korea, the prevalence of RVO was reported at 0.7%, with 0.6% for BRVO, noting no gender differences [ 25 ]. Pooled data from the International Consortium for Eye Diseases indicate an overall RVO prevalence of 5.20 per 1000 individuals, with BRVO affecting 4.42 per 1000, suggesting a global burden of approximately 16 million cases. These findings suggest that approximately 16 million people worldwide suffer from this vascular disorder, with BRVO being about four times more common than CRVO [ 5 , 10 ]. Ethnic and regional variations highlight the influence of genetic and environmental factors, with prevalence rates being higher in Asian populations compared to Western countries. These findings underscore the importance of early risk stratification and management in high-risk populations. 
+ BRVO is commonly classified based on its anatomical location, such as temporal or nasal, with temporal BRVO being significantly more prevalent and clinically impactful. Temporal BRVO often affects the macula due to its proximity, resulting in substantial visual impairment, while nasal BRVO is frequently asymptomatic and may go undiagnosed. This asymptomatic nature introduces potential bias in prevalence studies, leading to an underreporting of cases [ 5 , 14 ]. Comprehensive screening methods are essential to accurately identify and report both symptomatic and asymptomatic cases, thus providing a more accurate representation of the disease burden. 
+ Commonly associated factors with retinal venous occlusion include advanced age, hypercholesterolemia, hypertension, and a history of heart attacks [ 26 ]. Other epidemiological studies also highlight diabetes mellitus, congestive heart failure, and cerebrovascular disease as risk factors for RVO [ 24 , 27 , 28 ]. Cardiovascular risk factors are particularly significant as the primary pathogenic mechanism of BRVO involves arterial stiffness leading to venous compression within the common adventitial sheath [ 10 , 29 ]. 3. Pathogenesis and Evolution 
+ The pathological mechanisms underlying RVO remain not fully understood. The pathogenesis of RVO appears to be multifactorial [ 10 ]. Two primary consequences of RVO that contribute to diminished visual acuity (VA) are macular edema (ME) and retinal ischemia [ 20 ]. 
+ BRVO commonly occurs at arteriovenous intersections, where it is believed that the atherosclerotic artery exerts mechanical compression on the vein. Despite this compression, the venous lumen often remains preserved [ 30 , 31 ]. Additionally, local constriction of the vein may result from alterations in the biochemical environment [ 7 ]. The anatomical positioning of crossing vessels was assessed in 106 eyes with BRVO and it was discovered that in 99% of the affected eyes, the artery was situated anterior to the vein at the site of the blockage [ 32 ]. Building on these findings, it was suggested that mechanical obstruction of the vein by the rigid artery at arteriovenous (AV) crossings can induce turbulent blood flow, which in turn may damage the vascular endothelium and intima [ 10 , 33 ]. Such mechanisms underscore the significance of anatomical and structural evaluations in understanding the etiology and progression of BRVO. 
+ It has been observed that hyperviscosity, resulting from elevated hematocrit levels, is associated with BRVO [ 34 ]. Additionally, dysregulation of the thrombosis–fibrinolysis balance is another hematological condition implicated in the pathogenesis of BRVO. However, the precise role of coagulation factors in the development of RVO remains ambiguous [ 10 , 35 ]. 
+ RVO initiates both inflammatory and hypoxic responses, which contribute to the disruption of the blood–retinal barrier [ 36 ] and lead to the development of ME. Prolonged ME results in apoptosis of photoreceptor cells in the macular region, ultimately causing irreversible loss of visual acuity in patients with BRVO [ 37 , 38 , 39 ]. 
+ The progression of BRVO is influenced by factors such as the location and extent of the occlusion, the integrity of arterial perfusion in the affected area, and the effectiveness of collateral circulation development [ 10 , 40 ]. Research has identified two distinct clinical forms of BRVO: major BRVO and macular BRVO. Studies examining the natural history of visual outcomes for both types in untreated eyes have shown that VA and visual fields generally improve to varying extents without intervention in most cases. However, eyes with macular BRVO experienced less improvement in VA compared to those with major BRVO. The mean duration for resolution of macular edema was 21 months for major BRVO and 18 months for macular BRVO [ 1 ]. 
+ Although many eyes with BRVO show improvements in VA without treatment, some eyes do not experience any improvement. The lack of improvement may be attributed to factors similar to those observed in ischemic CRVO: ischemic damage to macular retinal ganglion cells, pigmentary degeneration, and the formation of an epiretinal membrane resulting from prolonged macular edema [ 41 , 42 , 43 , 44 , 45 ]. 
+ Eyes with BRVO and substantial capillary non-perfusion may develop retinal neovascularization and vitreous hemorrhage; however, they are significantly less likely to develop neovascular glaucoma compared to eyes with CRVO or hemi-central retinal vein occlusion (hemi-CRVO). Over time, the acute process typically resolves, allowing for the clearance of hemorrhages and exudates. Collateral vessels may form between the superior and inferior retinal veins, facilitating recovery of visual acuity through improved venous drainage and the resolution of retinal edema and ischemia. The prognosis for vision loss due to BRVO is influenced by the extent of non-perfusion and the location of the occlusion [ 46 , 47 ]. 
+ The Branch Vein Occlusion Study (BVOS) group identified the severity of the occlusion and the extent of ischemia as crucial prognostic factors for the final visual acuity outcome in BRVO [ 33 , 46 ]. It has been confirmed that, in general, visual acuity improved or remained stable in approximately 80% of eyes with BRVO [ 48 ]. Additionally, it has been noted that while visual acuity in BRVO can improve without intervention, significant improvement beyond 20/40 is less frequently observed [ 7 , 9 ]. 
+ In conclusion, the pathogenesis of BRVO is driven by a combination of mechanical compression, vascular turbulence, hypoxia, and inflammation, leading to macular edema and retinal ischemia as primary causes of visual impairment. The progression and outcomes of BRVO depend on the extent of venous occlusion, arterial perfusion, and the development of collateral circulation. While some cases resolve spontaneously, persistent complications like neovascularization and chronic macular edema emphasize the importance of early diagnosis and tailored therapeutic approaches. 4. Diagnosis 
+ Some authors recommend that a comprehensive approach be adopted for patients with RVO, which includes a detailed medical history, a thorough eye examination, and retinal imaging. Due to the associated systemic risk factors, involvement of an internist in the management of RVO patients is advised [ 49 ]. Following the ocular examination and retinal imaging, it is essential to differentiate between BRVO and CRVO, assess macular edema, estimate the extent of retinal ischemia, and evaluate for retinal and/or iris neovascularization. The initial history should address the location and duration of vision loss, current medications, and relevant medical and ocular history. The initial examination should include assessments of visual acuity, pupillary responses, identification of fine abnormal vessels in the iris using slit-lamp biomicroscopy, intraocular pressure (IOP), gonioscopy before dilation, funduscopic binocular evaluation, and examination of the peripheral retina and vitreous [ 46 ]. 
+ 4.1. Clinical Diagnosis 
+ The diagnosis of RVO is based on both subjective and objective signs presented by the patients. Subjectively, patients may report a variable decrease in visual acuity accompanied by a painless eye. Although vision loss can be severe, the onset is typically subacute, in contrast to the sudden vision loss characteristic of central retinal artery occlusion. In cases of severe venous stasis, infarction may occur due to the slowed retinal blood flow, often resulting in a dramatic clinical appearance referred to as the “blood and thunder” fundus. Objective examination of the fundus reveals venous vascular dilatations, as well as both superficial (flame-shaped) and deep (spot-shaped) hemorrhages, alongside retinal edema associated with vascular stasis. Hemorrhages are predominantly intraretinal but may also be preretinal or subretinal. If only a specific retinal sector is affected, it may indicate a venous branch occlusion, with observable changes occurring upstream of the crossing point [ 14 , 50 , 51 ]. 
+ BRVO can be diagnosed in various locations, including the nasal or temporal, superior, or inferior quadrants. Nasal BRVO, often discovered incidentally, typically does not affect visual acuity due to its distance from the macula. In contrast, temporal BRVO often impacts the macula lutea and is characterized by a decrease in visual acuity. BRVO located in the superotemporal quadrant is prone to spreading to the macula due to the gravitational effect on intraretinal fluid. Some temporal BRVOs may be asymptomatic. A hallmark of BRVO is venous dilation peripheral to the site of occlusion, which commonly occurs at the arteriovenous junction. Another characteristic feature of BRVO is retinal hemorrhage. Hemorrhages in BRVO are predominantly located in the area drained by the occluded branch. Vision loss is generally secondary to ME or ischemia. Additionally, retinal edema is present in the affected areas, and if retinal ischemia is involved, cotton-wool spots may be observed [ 14 , 52 ]. 4.2. Paraclinical Diagnosis 
+ Imaging tests can complement the clinical examination and enhance patient management. Various ocular imaging modalities have been explored and developed to assess RVO, retinal capillary nonperfusion, and retinal neovascularization (RNV). 
+ Traditional eye examination and fluorescein angiography remain valuable for visualizing retinal vascular changes and assessing areas of nonperfusion. However, these approaches have been complemented by more advanced technologies in recent years. 
+ Optical coherence tomography (OCT) has become a cornerstone for diagnosing and managing BRVO. Its high-resolution, cross-sectional imaging capability allows for precise evaluation of retinal layers, enabling clinicians to assess macular edema and structural damage with accuracy. Beyond its role in initial diagnosis, OCT is a critical instrument for monitoring treatment response and tracking disease progression over time [ 51 ]. OCT offers high-resolution imaging that allows clinicians to evaluate key structural biomarkers associated with visual prognosis in BRVO. Changes observable on OCT include central macular thickness, a vital indicator of macular edema severity and a reliable predictor of visual outcomes. A reduction in central macular thickness is often correlated with significant visual acuity improvement, underscoring its importance in monitoring therapeutic efficacy. Additionally, hyper-reflective foci, identifiable as discrete reflective spots within the retinal layers, serve as markers of retinal inflammation and oxidative stress, which are associated with advanced disease stages and poorer visual prognoses. Foveal intraretinal hemorrhage, another OCT-detectable feature, reflects vascular damage within the macula and contributes to visual impairment and delayed recovery. OCT also enables the assessment of the ellipsoid zone’s integrity, a critical marker of photoreceptor health. Disruption of this zone is linked to compromised visual recovery, whereas its restoration is strongly associated with improved outcomes. The structural integrity of the inner retinal layers, also evaluable via OCT, provides further prognostic information, as damage to these layers often results in sustained visual deficits. Lastly, vitreomacular adhesion, visible as tractional changes at the macula, exacerbates macular edema and may impede recovery unless resolved. These biomarkers, detectable through OCT, offer invaluable insights into disease mechanisms and therapeutic responses, highlighting the pivotal role of OCT in the comprehensive evaluation and management of BRVO [ 53 ]. 
+ Optical coherence tomography angiography (OCTA) represents a major breakthrough in retinal imaging. Unlike fluorescein angiography, OCTA is non-invasive and capable of providing detailed visualization of retinal and choroidal microvasculature. This technique enables clinicians to differentiate ischemic and non-ischemic BRVO by identifying capillary dropout, areas of nonperfusion, and neovascularization. OCTA has also proven useful in evaluating foveal avascular zone enlargement, which correlates with visual prognosis [ 54 , 55 ]. Recent advancements in wide-field OCTA have further expanded its diagnostic capabilities, enabling the comprehensive assessment of peripheral retinal ischemia and capillary non-perfusion, which are critical factors in determining the severity and progression of BRVO. Studies on wide-field OCTA have demonstrated its ability to provide an extended field of view, allowing clinicians to identify ischemic areas and peripheral neovascularization that may not be visible with conventional imaging methods. This capability informs more precise therapeutic interventions and enhances prognostic assessments, underscoring the importance of integrating wide-field OCTA into routine clinical evaluations of BRVO [ 54 ]. 
+ In the evaluation of BRVO, various diagnostic tools have been developed to assess structural and functional retinal changes, ischemic areas, and complications such as macular edema and neovascularization. Table 1 provides a comparative analysis of these diagnostic methods, highlighting their respective advantages and limitations. This overview aims to assist clinicians and researchers in selecting the most appropriate tools for accurate diagnosis and monitoring of BRVO [ 2 , 14 , 46 , 51 , 54 , 55 , 56 , 57 , 58 , 59 , 60 , 61 , 62 ]. 
+ Table 1. 
+ Advantages and limitations of diagnostic methods for BRVO. 
+ 
+ 
+ Method 
+ Advantages 
+ Limitations 
+ 
+ 
+ 
+ 
+ Fundus photography 
+ 
+ 
+ 
+ 
+ - Provides clear structural visualization of the retina, aiding in the assessment of retinal hemorrhages, neovascularization, and optic disc changes 
+ 
+ 
+ - Widely available and cost-effective for initial screenings 
+ 
+ 
+ 
+ 
+ 
+ 
+ - Lacks depth specificity and functional insights, requiring complementary imaging for comprehensive evaluation 
+ 
+ 
+ - Does not provide dynamic or vascular flow data 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fluorescein angiography 
+ 
+ 
+ 
+ 
+ - Gold standard for identifying ischemia, vascular leakage, and neovascularization 
+ 
+ 
+ - Offers detailed visualization of microvascular changes and capillary non-perfusion 
+ 
+ 
+ 
+ 
+ 
+ 
+ - Invasive procedure with potential side effects such as nausea and allergic reactions; unsuitable for some patients 
+ 
+ 
+ - Limited depth specificity and significant time and resources required 
+ 
+ 
+ 
+ 
+ 
+ 
+ Optical coherence tomography 
+ 
+ 
+ 
+ 
+ - Non-invasive imaging with high resolution to detect macular edema, retinal thickness changes, and subretinal fluid 
+ 
+ 
+ - Quantifies central retinal thickness, guiding therapeutic decisions and monitoring responses to treatment 
+ 
+ 
+ 
+ 
+ 
+ - Limited capability for visualizing deeper retinal and choroidal vasculature 
+ 
+ 
+ 
+ 
+ 
+ OCT angiography 
+ 
+ 
+ 
+ 
+ - Non-invasive imaging of superficial and deep capillary plexuses; detects capillary dropout and non-perfusion areas in ischemic BRVO 
+ 
+ 
+ - Enables differentiation between ischemic and non-ischemic BRVO, and evaluates foveal avascular zone enlargement 
+ 
+ 
+ 
+ 
+ 
+ 
+ - Narrow field of view; cannot detect leakage areas or fully assess vascular permeability 
+ 
+ 
+ - Limited capability for choroidal and choriocapillaris visualization 
+ 
+ 
+ 
+ 
+ 
+ 
+ Scanning laser ophthalmoscopy 
+ 
+ 
+ 
+ - Provides high-resolution real-time imaging, offering detailed structural views of smaller capillaries and retinal layers 
+ 
+ 
+ 
+ 
+ - Limited depth resolution; difficulty distinguishing between vascular beds 
+ 
+ 
+ 
+ 
+ 
+ Multimodal OCT and photoacoustic microscopy 
+ 
+ 
+ 
+ - Combines structural and functional imaging with enhanced spatial resolution, enabling subtle evaluations of blood flow and vessel integrity 
+ 
+ 
+ 
+ 
+ - Requires costly equipment, complex protocols, and contrast agents for optimal sensitivity and specificity 
+ 
+ 
+ 
+ 
+ 
+ Open in a new tab Perimetry is a key functional diagnostic tool used to assess visual field defects in patients with BRVO. Specifically, microperimetry enables precise evaluation of retinal sensitivity at different points across the retina, providing localized functional information that correlates with structural changes observed through imaging techniques such as OCT. Microperimetry is particularly valuable in identifying early functional impairment, even in the absence of obvious changes in visual acuity, making it a critical tool for early detection and monitoring disease progression [ 46 , 51 ]. Overall, perimetry plays a vital role in evaluating retinal function, aiding in the management and tailored treatment strategies for BRVO patients. 
+ In addition to imaging advancements, the study of biomarkers has gained prominence in predicting visual outcomes and tailoring treatment strategies for BRVO. Elevated levels of VEGF and inflammatory markers, such as interleukin-6, are closely associated with macular edema severity and treatment response [ 19 ]. Biomarker analysis offers valuable insights into disease mechanisms, enabling personalized treatment approaches tailored to individual patient needs. The integration of these advanced diagnostic tools into clinical workflows enhances the precision of BRVO diagnosis, facilitates early intervention, and supports tailored treatment plans, ultimately improving patient outcomes. 
+ The differential diagnosis of BRVO includes several conditions that can present with similar clinical features. These conditions include ocular ischemic syndrome, proliferative diabetic retinopathy, hyperviscosity retinopathy, central retinal vein occlusion, papilledema, and acute hypertensive retinopathy. Accurate differentiation between these disorders is crucial for appropriate management and treatment strategies, as each condition requires distinct therapeutic approaches [ 50 , 63 ]. 5. Therapy 
+ The selection of treatment should be tailored to each individual, based on consultations among the patient, family, and physician. Addressing underlying medical conditions is essential to prevent occlusive events [ 64 ]. 
+ The treatment of BRVO should encompass three stages: identifying and managing risk factors, specifically treating vascular occlusion, and addressing BRVO complications, such as macular edema, retinal neovascularization, vitreous hemorrhage, and tractional retinal detachment [ 65 ]. 
+ The primary objective of all treatments is to resolve macular edema, the principal cause of impaired visual acuity and metamorphopsia, before the foveal photoreceptor layer is damaged [ 66 , 67 ]. The following are considered prognostic factors: patient age, baseline visual acuity and retinal thickness, early response to treatment, duration of macular edema, OCT characteristics, hyperreflective material, cytokine levels, central retinal sensitivity, microaneurysms in the perifoveal capillary network, retinal pigment epithelium integrity, retinal detachment, and intraretinal hemorrhage [ 68 , 69 , 70 , 71 , 72 , 73 , 74 , 75 , 76 , 77 , 78 , 79 , 80 , 81 , 82 , 83 ]. 
+ 5.1. Medical Treatment 
+ In BRVO, there is an increase in small platelet aggregates, which may contribute to the pathogenesis of this condition [ 10 ]. Although aspirin has been tested due to its anticoagulant properties, it has not improved vision. In fact, patients experienced poorer eyesight, more retinal bleeding, and greater visual loss [ 84 ]. Consequently, aspirin has not been recommended for ischemic patients [ 22 ]. 
+ Beraprost and ticlopidine inhibit the formation of small aggregates in patients with BRVO and may represent effective antiplatelet treatments [ 85 ]. It was found that ticlopidine significantly improved visual acuity in 69% of patients over a six-month period [ 86 ]. Additionally, it was reported that troxerutin significantly enhanced visual acuity in BRVO patients [ 10 , 87 ]. 
+ The use of low-molecular-weight heparins is deemed effective for treating BRVO, reinforcing the notion that BRVO is a venous thrombotic disorder. During treatment with low-molecular-weight heparins, no increased risk of vitreous hemorrhage was observed, and there was an improvement in visual acuity [ 10 , 88 , 89 ]. 5.2. Isovolemic Hemodilution 
+ BRVO is linked with hyperviscosity resulting from elevated hematocrit and plasma viscosity [ 34 ]. Blood viscosity is primarily influenced by hematocrit and plasma fibrinogen levels. In low circulation conditions, such as in an occluded vein, the impact of viscosity becomes more pronounced due to increased erythrocyte aggregation. Furthermore, hypoxia induced by occlusion further exacerbates blood viscosity, as acidosis promotes erythrocyte aggregation and diminishes erythrocyte elasticity [ 90 , 91 ]. Hemodilution, achieved by reducing hematocrit to a target value of 35%, has been shown to be beneficial in the early phase, specifically within the first two weeks following the onset of RVO. This approach can improve visual acuity by 43% even after RVO has been established, with favorable long-term outcomes [ 64 ]. However, the systemic complications associated with this method render it less preferable compared to other available therapies [ 10 ]. 5.3. Laser Therapy 
+ Laser photocoagulation is regarded as the standard treatment for neovascular complications associated with RVO, including retinal and optic disc neovascularization, as well as iris neovascularization. The Branch Vein Occlusion Study demonstrated that focal laser photocoagulation significantly improves vision in patients with macular edema secondary to branch retinal vein occlusion. This study established grid laser therapy as the primary treatment for BRVO-related macular edema for subsequent decades. Notably, 65% of participants in the grid laser group experienced a gain of ten or more lines of letters 36 months after treatment [ 27 , 47 ]. 
+ Conventional laser therapy can result in complications such as enlarged retinal scars, subretinal fibrosis, choroidal neovascularization, and reduced macular sensitivity. Its effectiveness is consistently surpassed by anti-VEGF therapy and corticosteroids [ 92 , 93 , 94 ]. 
+ Subthreshold laser and micropulse laser therapy are modern retinal laser therapies used in the management of BRVO, particularly for addressing macular edema. Subthreshold laser therapy is performed at lower intensity than traditional laser treatments, providing therapeutic benefits without causing visible burns or scarring to the retina. This technique is effective in reducing macular edema in BRVO, promoting improved visual outcomes while preserving the structural integrity of the retina. Studies have shown that subthreshold laser therapy can be a safe alternative to conventional laser photocoagulation, with reduced side effects and a lower risk of complications such as vision loss and retinal damage. Similarly, micropulse laser therapy delivers laser energy in short pulses, allowing for intermittent cooling of the retina. This method minimizes the thermal damage associated with traditional continuous-wave lasers and is particularly beneficial for treating macular edema in BRVO. Both subthreshold and micropulse lasers have been shown to effectively reduce edema and improve visual acuity, making them valuable tools in the management of BRVO, offering safer and more precise alternatives to conventional laser treatments [ 27 , 92 ]. Their adoption into clinical practice has the potential to enhance patient outcomes, particularly for those unresponsive to pharmacological therapies or ineligible for frequent intravitreal injections. 
+ A comparative study revealed that intravitreal anti-VEGF therapy achieved significantly better outcomes than focal laser photocoagulation [ 51 ]. Consequently, anti-VEGF therapy has become the preferred first-line treatment for macular edema [ 10 ]. However, laser therapy remains relevant for specific cases, such as managing peripheral neovascularization or as an adjunct for patients who are refractory to anti-VEGF treatment [ 92 ]. 5.4. Anti-VEGF Therapy 
+ VEGF inhibitor therapy is an effective approach for managing macular edema and treating neovascularization resulting from RVO. Various anti-VEGF agents have been studied and are utilized according to different treatment regimens. Some specialists advocate for monthly injections, while others prefer a treat-and-extend or as-needed (pro re nata) regimen [ 95 , 96 , 97 , 98 , 99 , 100 ]. Currently available anti-VEGF therapies are compiled in Table 2 [ 101 , 102 , 103 , 104 , 105 , 106 , 107 , 108 , 109 , 110 , 111 ]. 
+ Table 2. 
+ Anti-VEGFs used for the treatment of BRVO. 
+ 
+ 
+ Anti-VEGF Agent 
+ Structure and Mechanism of Action 
+ Treatment Interval 
+ Efficacy 
+ Associated Complications 
+ 
+ 
+ 
+ 
+ Bevacizumab 
+ 
+ (Avastin) 
+ 
+ Full-length monoclonal antibody; targets VEGF-A 
+ Monthly or as-needed (PRN) 
+ Effective for reducing macular edema and improving visual acuity; used off-label for BRVO 
+ Risk of systemic complications, mild intraocular pressure, or inflammation 
+ 
+ 
+ 
+ Ranibizumab 
+ 
+ (Lucentis) 
+ 
+ Monoclonal antibody fragment; targets VEGF-A 
+ Monthly or treat-and-extend 
+ Significant improvement in visual acuity and reduction in macular edema; FDA-approved for BRVO 
+ Mild intraocular pressure or inflammation 
+ 
+ 
+ 
+ Aflibercept 
+ 
+ (Eylea) 
+ 
+ Recombinant fusion protein of VEGF; targets VEGF-A and PlGF 
+ Treat-and-extend approach after initial loading doses 
+ Effective in reducing macular edema and improving visual acuity; allows for longer intervals between injections; FDA-approved for BRVO 
+ Mild intraocular pressure or inflammation 
+ 
+ 
+ 
+ Brolucizumab 
+ 
+ (Beovu) 
+ 
+ A single-chain variable fragment; targets VEGF-A 
+ Every 6–8 weeks after initial loading doses 
+ Newer agent with potential for fewer required injections; promising results in recent studies; used off-label for BRVO 
+ Intraocular inflammation, retinal vasculitis, retinal artery occlusion 
+ 
+ 
+ 
+ Faricimab 
+ 
+ (Vabysmo) 
+ 
+ Bispecific monoclonal antibody; targets VEGF-A and Ang-2 
+ Every 8 weeks or up to 16 weeks after initial doses 
+ Demonstrated efficacy in reducing macular edema with extended dosing intervals; FDA-approved for BRVO 
+ Mild intraocular inflammation, systemic thromboembolic events 
+ 
+ 
+ 
+ Open in a new tab Among anti-VEGF therapies, brolucizumab has been noted for its potential benefits, particularly in reducing injection frequency due to its extended dosing intervals. Case reports suggest that brolucizumab effectively reduces macular edema and improves visual acuity in patients with BRVO. Brolucizumab’s safety profile has raised concerns, as it has been associated with serious adverse events, including intraocular inflammation, retinal vasculitis, and retinal artery occlusion. However, its use remains off-label in this context and is supported by limited evidence [ 109 ]. 
+ Intravitreal anti-VEGF injections, while highly effective for treating retinal conditions, can lead to various complications. Table 3 outlines these complications, their management, and relevant references [ 112 , 113 , 114 ]. 
+ Table 3. 
+ Complications of the intravitreal anti-VEGF injections. 
+ 
+ 
+ Complication 
+ Complication Rates 
+ Management 
+ 
+ 
+ 
+ Increased IOP 
+ Transient IOP spikes are common (10–50%), but long-term elevation occurs in about 2–5% 
+ Regular monitoring and management with antiglaucoma medications if needed 
+ 
+ 
+ Subconjunctival hemorrhage 
+ 10–40% 
+ Typically resolves on its own 
+ 
+ 
+ Corneal damage 
+ 0.01–0.1% 
+ Typically resolved with minimal intervention 
+ 
+ 
+ Cataracts 
+ More commonly associated with intravitreal corticosteroid injections than anti-VEGF agents ( 15–40% ) 
+ Surgical intervention 
+ 
+ 
+ Vitreous hemorrhage 
+ 0.02–0.1%, more likely in patients with pre-existing conditions such as retinal neovascularization 
+ May require surgery 
+ 
+ 
+ Infection (endophthalmitis) 
+ 0.01–0.09% 
+ Sterilization, prophylactic antibiotics 
+ 
+ 
+ Ocular ischemia 
+ <0.01% 
+ Monitoring and treatment 
+ 
+ 
+ Systemic effects 
+ <1%, more likely in patients with pre-existing cardiovascular or cerebrovascular disease 
+ Management of systemic reactions as they arise 
+ 
+ 
+ 
+ Open in a new tab 5.5. Intravitreal Corticosteroid Therapy 
+ Intravitreal corticosteroid therapy effectively inhibits various immunomodulators and VEGF [ 27 ]. This treatment modality is particularly advantageous in cases where the financial burden of anti-VEGF therapies is prohibitive for patients. Among the corticosteroids, triamcinolone acetonide is frequently utilized and has been reported to yield comparable or superior short-term outcomes, particularly in non-ischemic BRVO, relative to anti-VEGF treatments [ 10 ]. 
+ Current evidence supports the use of corticosteroids as a secondary therapeutic option for patients with RVO. They are recommended as an alternative for individuals who have not shown sufficient response to anti-VEGF injections, typically after a series of three to six injections. Corticosteroids may also be considered as a first-line therapy for patients with recent significant cardiovascular events or for those who are unable to adhere to the frequent monthly visits required for anti-VEGF therapy and monitoring within the initial six months. Nevertheless, IOP should be regularly monitored following corticosteroid injections [ 51 ]. 
+ Intravitreal corticosteroids, notably the intravitreal implant containing dexamethasone, have been associated with a prompt improvement in visual acuity. However, this treatment is accompanied by notable side effects, including increased intraocular pressure and the development of cataracts [ 115 , 116 ]. The GENEVA study, which evaluated intravitreal dexamethasone implants for BRVO, reported a mean gain of 15 letters in visual acuity at 180 days. The study also observed that 29% of eyes treated with repeated dexamethasone implants experienced cataract progression, in contrast to 6% of eyes that received only a single implant [ 27 ]. 
+ The use of fluocinolone acetonide (FAc) intravitreal implants has been explored as an off-label treatment for macular edema secondary to RVO, including BRVO and CRVO. FAc implants deliver sustained-release corticosteroid therapy, reducing inflammation and stabilizing the blood–retinal barrier over extended periods. In a systematic review, the 0.19 mg FAc implant demonstrated efficacy in improving visual acuity and reducing macular thickness in patients with refractory or chronic macular edema associated with RVO. The review highlighted that these implants offer a viable option for patients unresponsive to first-line therapies, such as anti-VEGF agents [ 117 ]. 
+ Corticosteroid therapy is a pivotal treatment option for managing macular edema in BRVO, particularly in patients who are unresponsive to anti-VEGF agents or have contraindications to their use. Despite their efficacy, corticosteroids are associated with several complications that require vigilant management. Elevated intraocular pressure (IOP) is a common adverse effect, potentially leading to steroid-induced glaucoma if left untreated. Prolonged corticosteroid use can also result in cataract formation, particularly posterior subcapsular cataracts, necessitating surgical intervention in advanced cases. In rare instances, intraocular inflammation, such as sterile endophthalmitis, and secondary infections may occur, especially in immunocompromised individuals. These risks highlight the importance of individualized treatment plans, careful patient selection, and routine monitoring to optimize therapeutic outcomes while minimizing adverse effects [ 112 , 113 , 114 , 115 , 116 ]. 5.6. Surgical Intervention 
+ Given the understanding of the mechanisms underlying vein occlusion, arteriovenous sheathotomy presents a theoretically sound approach for treating BRVO. In 1988, Osterloh and Charles introduced a surgical technique involving the dissection of the common adventitial sheath at the location of the arteriovenous occlusion, aiming to alleviate the pressure at the arteriovenous crossing. Arteriovenous sheathotomy not only reduces the pressure at the crossing point but also diminishes interleukin-6 (IL-6) expression. Nonetheless, the efficacy of this procedure remains a subject of debate, with conflicting reports regarding its overall effectiveness [ 118 , 119 ]. 
+ Clinical studies have demonstrated that vitrectomy can effectively manage complications of RVO, such as vitreous hemorrhage and retinal detachment. Research indicates that vitrectomy can lead to substantial improvements in visual acuity and resolution of hemorrhage, although outcomes vary based on the extent of retinal damage and preoperative conditions [ 120 ]. 5.7. Combined Therapy 
+ There is limited evidence supporting the notion that combination therapy offers additional benefits over single-agent treatments. Nonetheless, some researchers advocate that combining two or more therapeutic agents may enhance outcomes by reducing the frequency and dosage of individual treatments. Repeated intravitreal injections of anti-VEGF agents can lead to complications such as ocular pain, ischemic retinopathy, and endophthalmitis, in addition to the high costs associated with drugs like ranibizumab. In this context, it has been observed that combining bevacizumab with macular grid photocoagulation can substantially improve visual acuity, diminish macular edema, and better prevent the recurrence of CME compared to bevacizumab alone [ 10 ]. Recent research has assessed the efficacy of dexamethasone implant, a corticosteroid implant, compared to a combination therapy involving anti-VEGF agents and corticosteroids in treatment-naive cases of branch retinal vein occlusion with macular edema. The study underscores the advantages of combining anti-VEGF therapy with cortisone (Vitreal S), which provides a more cost-effective alternative while achieving results comparable to those of dexamethasone implant therapy [ 121 ]. 
+ Furthermore, the topical application of bromfenac, an NSAID, in conjunction with intravitreal bevacizumab treatment for macular edema secondary to BRVO, has been reported to decrease the required number of injections [ 10 ]. 
+ Other combination therapies that have been explored include the use of laser treatment in conjunction with corticosteroids, corticosteroids combined with anti-VEGF agents, laser therapy paired with anti-VEGF agents, and corticosteroids combined with arteriovenous sheathotomy or pars plana vitrectomy. While many of these studies have reported favorable outcomes, it remains challenging to make direct comparisons between them to determine the most effective combination therapy [ 10 ]. 6. Actualities 
+ 6.1. Gene Therapy 
+ Gene therapy represents a promising frontier in the treatment of BRVO by targeting the underlying mechanisms of the disease at a molecular level, such as VEGF overexpression. Gene therapy techniques aim to modulate the expression of VEGF, a critical player in BRVO pathogenesis. Strategies include using gene transfer to deliver VEGF inhibitors directly to the retina [ 122 ]. Techniques such as CRISPR/Cas9 are being investigated to correct genetic mutations that contribute to retinal diseases, potentially offering new avenues for treating BRVO [ 123 ]. 
+ Several clinical trials are underway to evaluate the safety and efficacy of gene therapy. Early results suggest that gene therapy could provide long-lasting effects by reducing the need for repeated injections [ 124 ]. Despite its potential, gene therapy faces challenges including delivery methods, potential immune responses, and the need for long-term safety data [ 125 ]. 6.2. Peptide-Based Agents 
+ Peptide-based agents represent an innovative approach in the treatment of BRVO, offering targeted therapeutic strategies aimed at modulating specific molecular pathways involved in the disease. Peptide-based agents are designed to target specific proteins or signaling pathways involved in retinal inflammation and angiogenesis. By interfering with these pathways, these agents aim to reduce retinal edema and improve visual outcomes [ 126 ]. Some peptide-based agents act as anti-inflammatory agents, targeting cytokines and other inflammatory mediators that contribute to BRVO pathology [ 127 ]. 
+ Peptides can also inhibit angiogenic factors that promote abnormal blood vessel growth, which is a key feature in BRVO. By blocking these factors, peptide-based agents may prevent the progression of the disease and improve visual acuity [ 128 ]. 
+ Initial studies on peptide-based agents have shown promising results in reducing macular edema and improving visual acuity. Ongoing clinical trials are evaluating their safety, efficacy, and optimal dosing regimens [ 129 ]. The development of peptide-based therapies faces challenges such as efficient delivery, potential immunogenicity, and the need for extensive clinical validation [ 130 ]. 6.3. Small-Molecule Inhibitors 
+ Small-molecule inhibitors represent a promising approach in the treatment of BRVO by targeting various intracellular pathways and molecular mechanisms involved in the disease. These agents are designed to provide more precise and often less invasive treatment options compared to traditional therapies. Small-molecule inhibitors are designed to target intracellular signaling pathways activated by VEGF, which plays a crucial role in retinal edema and neovascularization in BRVO. These inhibitors work by blocking the downstream effects of VEGF signaling [ 131 ]. Certain small molecules specifically target inflammatory pathways, thereby reducing the production of cytokines and other inflammatory mediators that contribute to retinal damage and edema [ 132 ]. Furthermore, by inhibiting pathways involved in fibrosis, these agents can help prevent scar tissue formation and preserve retinal function [ 133 ]. Moreover, small molecules can modulate vascular permeability in the retina, reducing leakage and edema associated with BRVO [ 134 ]. 
+ Some researchers underscore the significance of metabolomic role in the context of retinal vascular diseases, suggesting that it could enhance our understanding of disease mechanisms and lead to better management strategies for conditions like RVO [ 135 ]. However, the development of these small-molecule inhibitors presents several challenges. Key issues include ensuring effective delivery to the retina, minimizing off-target effects, and establishing long-term safety and efficacy through comprehensive clinical trials [ 136 ]. 7. Discussion 
+ The central challenge associated with retinal vein occlusion is vision loss, particularly critical in elderly populations concerned with restoring visual acuity. Numerous studies have demonstrated that the type of occlusion significantly influences the prognosis of visual acuity, alongside the patient’s age. Additionally, several researchers emphasize the importance of other prognostic factors, such as central macular thickness, hyper-reflective foci, foveal intraretinal hemorrhage, disruption of the ellipsoid zone, integrity of the inner retinal layers, and vitreomacular adhesion [ 53 , 70 , 75 , 76 ]. 
+ While laser photocoagulation was historically the standard treatment, its effectiveness in improving visual outcomes is limited compared to newer therapies. Anti-VEGF agents and intravitreal corticosteroids have emerged as the cornerstone treatments for macular edema secondary to BRVO. However, macular edema recurrence and resistance to therapy remain unresolved challenges. A combination of anti-VEGF agents and corticosteroids or adjunctive therapies, such as subthreshold or micropulse lasers, may offer alternative approaches for patients who do not respond to monotherapy. 
+ Complications from intraocular injections can arise due to the host’s reaction, the drug’s effects, or the injection technique. Research suggests that the most common complications are typically minor and often resolve spontaneously without the need for special treatment. Potential complications of intravitreal injections encompass corneal abrasions, surface irritation, subconjunctival hemorrhages, cataract formation, vitreous hemorrhage, retinal tears and detachment, elevation of intraocular pressure, intraocular inflammation, and in severe cases, endophthalmitis [ 137 ]. All in all, intraocular injections are a safe therapeutic option for managing branch retinal vein occlusion, with the majority of associated complications being minor and self-limiting. 
+ Emerging therapies, such as gene therapy, peptide-based agents, and small mole-cule inhibitors, represent promising advancements. Gene therapy aims to address BRVO at a molecular level, potentially offering sustained benefits with fewer interventions. Peptide-based agents target angiogenic and inflammatory pathways, while small-molecule inhibitors focus on intracellular signaling to reduce vascular permeability and inflammation. Although early trials are encouraging, these approaches face challenges, including delivery methods and long-term safety validation [ 122 , 123 , 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 , 134 , 135 , 136 ]. 
+ In conclusion, while substantial progress has been made in the treatment of BRVO, several challenges remain. These include addressing therapeutic resistance, reducing recurrence rates, and enhancing personalized treatment strategies. Future research should focus on integrating innovative therapies, such as gene therapy and small-molecule inhibitors, into clinical practice, aiming to improve long-term outcomes and the quality of life for patients with BRVO. Acknowledgments 
+ We would like to acknowledge Victor Babes University of Medicine and Pharmacy Timisoara for their support in covering the costs of publication for this research paper. Author Contributions 
+ Conceptualization, D.-M.D. and M.M.; methodology, D.-M.D. and R.G.D.; validation, M.M.; writing—original draft preparation, writing—review and editing, R.G.D.; visualization, D.-M.D.; supervision, M.M.; project administration, D.-M.D. All authors have read and agreed to the published version of the manuscript. Conflicts of Interest 
+ The authors declare no conflicts of interest. Funding Statement 
+ The APC was funded by ”Victor Babes” University of Medicine and Pharmacy Timisoara. Footnotes 
+ Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content. References 
+ 
+ 
+ 1. Hayreh S.S. Ocular Vascular Occlusive Disorders: Natural History of Visual Outcome. Prog. Retin. Eye Res. 2014;41:1–25. doi: 10.1016/j.preteyeres.2014.04.001. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Lendzioszek M., Mrugacz M., Bryl A., Poppe E., Zorena K. Prevention and Treatment of Retinal Vein Occlusion: The Role of Diet—A Review. Nutrients. 2023;15:3237. doi: 10.3390/nu15143237. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Dărăbuș D.-M., Pac C.-P., Munteanu M. Retinal Vein Occlusions Associated or Complicated with Glaucoma: Aspects of Prediction and Paths of Progression. Rom. J. Ophthalmol. 2023;67:97–103. doi: 10.22336/rjo.2023.18. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Thapa R., Bajimaya S., Paudyal G., Khanal S., Tan S., Thapa S.S., Van Rens G. Prevalence, Pattern and Risk Factors of Retinal Vein Occlusion in an Elderly Population in Nepal: The Bhaktapur Retina Study. BMC Ophthalmol. 2017;17:162. doi: 10.1186/s12886-017-0552-x. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Rogers S., McIntosh R.L., Cheung N., Lim L., Wang J.J., Mitchell P., Kowalski J.W., Nguyen H., Wong T.Y., International Eye Disease Consortium The Prevalence of Retinal Vein Occlusion: Pooled Data from Population Studies from the United States, Europe, Asia, and Australia. Ophthalmology. 2010;117:313–319. doi: 10.1016/j.ophtha.2009.07.017. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Lendzioszek M., Bryl A., Poppe E., Zorena K., Mrugacz M. Retinal Vein Occlusion–Background Knowledge and Foreground Knowledge Prospects—A Review. J. Clin. Med. 2024;13:3950. doi: 10.3390/jcm13133950. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Teruyo K. Mystery of Retinal Vein Occlusion: Vasoactivity of the Vein and Possible Involvement of Endothelin-1. BioMed Res. Int. 2017;2017:4816527. doi: 10.1155/2017/4816527. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Cugati S., Wang J.J., Rochtchina E., Mitchell P. Ten-Year Incidence of Retinal Vein Occlusion in an Older Population: The Blue Mountains Eye Study. Arch. Ophthalmol. 2006;124:726–732. doi: 10.1001/archopht.124.5.726. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Rogers S.L., McIntosh R.L., Lim L., Mitchell P., Cheung N., Kowalski J.W., Nguyen H.P., Wang J.J., Wong T.Y. Natural History of Branch Retinal Vein Occlusion: An Evidence-Based Systematic Review. Ophthalmology. 2010;117:1094–1101.e5. doi: 10.1016/j.ophtha.2010.01.058. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Li J., Paulus Y.M., Shuai Y., Fang W., Liu Q., Yuan S. New Developments in the Classification, Pathogenesis, Risk Factors, Natural History, and Treatment of Branch Retinal Vein Occlusion. J. Ophthalmol. 2017;2017:4936924. doi: 10.1155/2017/4936924. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Fuma S., Nishinaka A., Inoue Y., Tsuruma K., Shimazawa M., Kondo M., Hara H. A Pharmacological Approach in Newly Established Retinal Vein Occlusion Model. Sci. Rep. 2017;7:43509. doi: 10.1038/srep43509. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Kumagai K., Ogino N., Fukami M., Furukawa M. Vitrectomy for Macular Edema Due to Retinal Vein Occlusion. Clin. Ophthalmol. 2019;13:969–984. doi: 10.2147/OPTH.S203212. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Sheyman A., Fawzi A.A., editors. Retinal Vascular Disease. Springer; Singapore: 2020. pp. 1–156. [ Google Scholar ] 
+ 
+ 14. Kolar P. Definition and Classification of Retinal Vein Occlusion. Int. J. Ophthalmic Res. 2016;2:124–129. doi: 10.17554/j.issn.2409-5680.2016.02.35. [ DOI ] [ Google Scholar ] 
+ 
+ 15. Coscas G., Loewenstein A., Augustin A., Bandello F., Parodi M.B., Lanzetta P., Monés J., de Smet M., Soubrane G., Staurenghi G. Management of Retinal Vein Occlusion—Consensus Document. Ophthalmologica. 2011;226:4–28. doi: 10.1159/000327391. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Hayreh S.S., Podhajsky P.A., Zimmerman M.B. Natural History of Visual Outcome in Central Retinal Vein Occlusion. Ophthalmology. 2011;118:119–133. doi: 10.1016/j.ophtha.2010.04.019. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. McIntosh R.L., Rogers S.L., Lim L., Cheung N., Wang J.J., Mitchell P., Kowalski J.W., Nguyen H.P., Wong T.Y. Natural History of Central Retinal Vein Occlusion: An Evidence-Based Systematic Review. Ophthalmology. 2010;117:1113–1123. doi: 10.1016/j.ophtha.2010.01.060. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Cehofski L.J., Kruse A., Kirkeby S., Alsing A.N., Ellegaard N.J., Kojima K., Honoré B., Vorum H. IL-18 and S100A12 Are Upregulated in Experimental Central Retinal Vein Occlusion. Int. J. Mol. Sci. 2018;19:3328. doi: 10.3390/ijms19113328. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Tang Y., Cheng Y., Wang S., Wang Y., Liu P., Wu H. Review: The Development of Risk Factors and Cytokines in Retinal Vein Occlusion. Front. Med. 2022;9:910600. doi: 10.3389/fmed.2022.910600. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Lashay A., Riazi-Esfahani H., Mirghorbani M., Yaseri M. Intravitreal Medications for Retinal Vein Occlusion: Systematic Review and Meta-Analysis. J. Ophthalmic Vis. Res. 2019;14:336–366. doi: 10.18502/jovr.v14i3.4791. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Klein R., Moss S.E., Meuer S.M., Klein B.E. The 15-Year Cumulative Incidence of Retinal Vein Occlusion: The Beaver Dam Eye Study. Arch. Ophthalmol. 2008;126:513–518. doi: 10.1001/archopht.126.4.513. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Bradshaw S.E., Gala S., Nanavaty M., Shah A., Mwamburi M., Kefalas P. Systematic Literature Review of Treatments for Management of Complications of Ischemic Central Retinal Vein Occlusion. BMC Ophthalmol. 2016;16:104. doi: 10.1186/s12886-016-0282-5. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Thapa S.S., Rana P.P., Twyana S.N., Shrestha M.K., Paudel I., Paudyal G., Gurung R., Ruit S., Hewitt A.W., Craig J.E., et al. Rational, Methods and Baseline Demographics of the Bhaktapur Glaucoma Study. Clin. Exp. Ophthalmol. 2011;39:126–134. doi: 10.1111/j.1442-9071.2010.02429.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Klein R., Klein B.E., Moss S.E., Meuer S.M. The Epidemiology of Retinal Vein Occlusion: The Beaver Dam Eye Study. Trans. Am. Ophthalmol. Soc. 2000;98:133–141. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Shin Y.U., Cho H., Kim J.M., Bae K., ho Kang M., Shin J.P., Nam E., Kang S.W. Prevalence and Associated Factors of Retinal Vein Occlusion in the Korean National Health and Nutritional Examination Survey, 2008–2012: A Cross-Sectional Observational Study. Medicine. 2016;95:e5185. doi: 10.1097/MD.0000000000005185. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Song P., Xu Y., Zha M., Zhang Y., Rudan I. Global Epidemiology of Retinal Vein Occlusion: A Systematic Review and Meta-Analysis of Prevalence, Incidence, and Risk Factors. J. Glob. Health. 2019;9:010427. doi: 10.7189/jogh.09.010427. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Ang J.L., Ah-Moye S., Kim L.N., Nguyen V., Hunt A., Barthelmes D., Gillies M.C., Mehta H. A Systematic Review of Real-World Evidence of the Management of Macular Oedema Secondary to Branch Retinal Vein Occlusion. Eye. 2020;34:1770–1796. doi: 10.1038/s41433-020-0861-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Garnavou-Xirou C., Bontzos G., Smoustopoulos G., Velissaris S., Papadopoulos A., Georgopoulos E., Stavrakas P., Georgakopoulos C., Xirou T., Kozobolis V. Systemic Risk Factors in Branch Retinal Vein Occlusion: A Comprehensive Review. Maedica. 2024;19:380–387. doi: 10.26574/maedica.2024.19.2.380. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Kolar P. Risk Factors for Central and Branch Retinal Vein Occlusion: A Meta-Analysis of Published Clinical Data. J. Ophthalmol. 2014;2014:724780. doi: 10.1155/2014/724780. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Noh S.Y., Lee J.H., Jeong W.J. Branch Retinal Vein Occlusion with Arteriovenous Crossing. J. Retin. 2023;8:36–41. doi: 10.21561/jor.2023.8.1.36. [ DOI ] [ Google Scholar ] 
+ 
+ 31. Kumagai K., Tsujikawa A., Muraoka Y., Akagi-Kurashige Y., Murakami T., Miyamoto K., Yamada R., Yoshimura N. Three-Dimensional Optical Coherence Tomography Evaluation of Vascular Changes at Arteriovenous Crossings. Investig. Ophthalmol. Vis. Sci. 2014;55:1867–1875. doi: 10.1167/iovs.13-13303. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Zhao J.S.S., Sperduto R.D., Chew E.Y., Remaley N.A. Arteriovenous Crossing Patterns in Branch Retinal Vein Occlusion. Ophthalmology. 1993;100:423–428. doi: 10.1016/S0161-6420(93)31633-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Christoffersen N.L., Larsen M. Pathophysiology and Hemodynamics of Branch Retinal Vein Occlusion. Ophthalmology. 1999;106:2054–2062. doi: 10.1016/S0161-6420(99)90483-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Saroj S.C., Singh S., Siddiqui R.A., Singh S., Yadav A. Systemic Risk Factors and Clinical Profile of Retinal Vein Occlusion in a Tertiary Eye Care Hospital in Northern Uttar Pradesh—A Case Control Study. IJFMR. 2023;5:1–8. doi: 10.36948/ijfmr.2023.v05i03.2942. [ DOI ] [ Google Scholar ] 
+ 
+ 35. Marcinkowska A., Cisiecki S., Rozalski M. Platelet and Thrombophilia-Related Risk Factors of Retinal Vein Occlusion. J. Clin. Med. 2021;10:3080. doi: 10.3390/jcm10143080. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Avrutsky M.I., Ortiz C.C., Johnson K.V., Potenski A.M., Chen C.W., Lawson J.M., White A.J., Yuen S.K., Morales F.N., Canepa E., et al. Endothelial Activation of Caspase-9 Promotes Neurovascular Injury in Retinal Vein Occlusion. Nat. Commun. 2020;11:3173. doi: 10.1038/s41467-020-16902-5. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Chen G., Chen P., Chen X., Wang J., Peng X. The Laser Combined with Intravitreal Injection of Ranibizumab for Treatment of Macular Edema Secondary to Branch Retinal Vein Occlusion: A Protocol for Systematic Review and Meta-Analysis. Medicine. 2021;100:e23675. doi: 10.1097/MD.0000000000023675. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Daruich A., Matet A., Moulin A., Kowalczuk L., Nicolas M., Sellam A., Rothschild P.R., Omri S., Gélizé E., Jonet L., et al. Mechanisms of Macular Edema: Beyond the Surface. Prog. Retin. Eye Res. 2018;63:20–68. doi: 10.1016/j.preteyeres.2017.10.006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Iijima H. Mechanisms of Vision Loss in Eyes with Macular Edema Associated with Retinal Vein Occlusion. Jpn. J. Ophthalmol. 2018;62:265–273. doi: 10.1007/s10384-018-0586-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Arrigo A., Aragona E., Lattanzio R., Scalia G., Bandello F., Parodi M.B. Collateral Vessel Development in Central and Branch Retinal Vein Occlusions Are Associated with Worse Visual and Anatomic Outcomes. Investig. Ophthalmol. Vis. Sci. 2021;62:1. doi: 10.1167/iovs.62.14.1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Hayreh S.S., Zimmerman M.B. Fundus Changes in Central Retinal Vein Occlusion. Retina. 2015;35:29–42. doi: 10.1097/IAE.0000000000000256. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Alshahrani S.T., Alshahrani S.T., Arevalo J.F. Epiretinal Membrane After Branch Retinal Vein Occlusion: Separation After Dexamethasone Implant Injection. Am. J. Ophthalmol. Case Rep. 2022;25:101252. doi: 10.1016/j.ajoc.2021.101252. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Park C., Lee J.H., Park Y.G. Changes in Neurodegeneration and Visual Prognosis in Branch Retinal Vein Occlusion after Resolution of Macular Edema. J. Clin. Med. 2024;13:812. doi: 10.3390/jcm13030812. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Alshareef R.A., Barteselli G., You Q., Goud A., Jabeen A., Rao H.L., Jabeen A., Chhablani J. In Vivo Evaluation of Retinal Ganglion Cells Degeneration in Eyes with Branch Retinal Vein Occlusion. Br. J. Ophthalmol. 2016;100:1506–1510. doi: 10.1136/bjophthalmol-2015-308106. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Nicholson L., Talks S.J., Amoaku W., Talks K., Sivaprasad S. Retinal Vein Occlusion (RVO) Guideline: Executive Summary. Eye. 2022;36:909–912. doi: 10.1038/s41433-022-02007-4. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Flaxel C.J., Adelman R.A., Bailey S.T., Fawzi A., Lim J.I., Vemulakonda G.A., Ying G.-S. Retinal Vein Occlusions Preferred Practice Pattern. Ophthalmology. 2019;127:P288–P320. doi: 10.1016/j.ophtha.2019.09.029. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Yin S., Cui Y., Jiao W., Zhao B. Potential Prognostic Indicators for Patients with Retinal Vein Occlusion. Front. Med. 2022;9:839082. doi: 10.3389/fmed.2022.839082. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Hayreh S.S., Zimmerman M.B. Branch Retinal Vein Occlusion: Natural History of Visual Outcome. JAMA Ophthalmol. 2014;132:13–22. doi: 10.1001/jamaophthalmol.2013.5515. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. O’Mahoney P.R., Wong D.T., Ray J.G. Retinal Vein Occlusion and Traditional Risk Factors for Atherosclerosis. Arch. Ophthalmol. 2008;126:692–699. doi: 10.1001/archopht.126.5.692. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Jabbehdari S., Yazdanpanah G., Cantor L.B., Hajrasouliha A.R. A Narrative Review on the Association of High Intraocular Pressure and Glaucoma in Patients with Retinal Vein Occlusion. Ann. Transl. Med. 2022;10:1072. doi: 10.21037/atm-22-2730. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Schmidt-Erfurth U., Garcia-Arumi J., Gerendas B.S., Midena E., Sivaprasad S., Tadayoni R., Wolf S., Loewenstein A. Guidelines for the Management of Retinal Vein Occlusion by the European Society of Retina Specialists (EURETINA) Ophthalmologica. 2019;242:123–162. doi: 10.1159/000502041. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Wang H., Wang C., Zhang S., Liu J., Bi X. Impact of Anti-VEGF Therapy on Distinctive Retina Layers in Patients with Macular Edema Secondary to Branch Retinal Vein Occlusion. BMC Ophthalmol. 2023;23:235. doi: 10.1186/s12886-023-02981-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Dărăbuș D.M., Pac C.P., Roșca C., Munteanu M. Macular Dynamics and Visual Acuity Prognosis in Retinal Vein Occlusions—Ways to Connect. Rom. J. Ophthalmol. 2023;67:312–324. doi: 10.22336/rjo.2023.51. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Tan C.S., Li K.Z., Sadda S.R. Wide-Field Angiography in Retinal Vein Occlusions. Int. J. Retin. Vitr. 2019;5((Suppl. S1)):18. doi: 10.1186/s40942-019-0163-1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Tsai G., Banaee T., Conti F.F., Singh R.P. Optical Coherence Tomography Angiography in Eyes with Retinal Vein Occlusion. J. Ophthalmic Vis. Res. 2018;13:315–332. doi: 10.4103/jovr.jovr_264_17. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Nguyen V.P., Li Y., Henry J., Zhang W., Wang X., Paulus Y.M. High Resolution Multimodal Photoacoustic Microscopy and Optical Coherence Tomography Visualization of Choroidal Vascular Occlusion. Int. J. Mol. Sci. 2020;21:6508. doi: 10.3390/ijms21186508. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Dadkhah A., Jiao S. Integrating Photoacoustic Microscopy, Optical Coherence Tomography, OCT Angiography, and Fluorescence Microscopy for Multimodal Imaging. Exp. Biol. Med. 2020;245:342–347. doi: 10.1177/1535370219897584. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Hosseinaee Z., Abbasi N., Pellegrino N., Khalili L., Mukhangaliyeva L., Haji Reza P. Functional and Structural Ophthalmic Imaging Using Noncontact Multimodal Photoacoustic Remote Sensing Microscopy and Optical Coherence Tomography. Sci. Rep. 2021;11:11466. doi: 10.1038/s41598-021-90776-5. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Ong C.J.T., Wong M.Y.Z., Cheong K.X., Zhao J., Teo K.Y.C., Tan T.-E. Optical Coherence Tomography Angiography in Retinal Vascular Disorders. Diagnostics. 2023;13:1620. doi: 10.3390/diagnostics13091620. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Coscas F., Glacet-Bernard A., Miere A., Caillaux V., Uzzan J., Lupidi M., Coscas G., Souied E.H. Optical Coherence Tomography Angiography in Retinal Vein Occlusion: Evaluation of Superficial and Deep Capillary Plexa. Am. J. Ophthalmol. 2016;161:160–171.e7. doi: 10.1016/j.ajo.2015.10.008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Javed A., Khanna A., Palmer E., Wilde C., Zaman A., Orr G., Kumudhan D., Lakshmanan A., Panos G.D. Optical Coherence Tomography Angiography: A Review of the Current Literature. J. Int. Med. Res. 2023;51:03000605231187933. doi: 10.1177/03000605231187933. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Nguyen V.P., Li Y., Qian W., Ma J., Yao J. Contrast Agent Enhanced Multimodal Photoacoustic Microscopy and Optical Coherence Tomography for Imaging of Rabbit Choroidal and Retinal Vessels In Vivo. Sci. Rep. 2019;9:5945. doi: 10.1038/s41598-019-47062-2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Cho J., Bae S.H., Park S.M., Shin M.C., Park I.W., Kim H.K., Kwon S. Comparison of Systemic Conditions at Diagnosis between Central Retinal Vein Occlusion and Branch Retinal Vein Occlusion. PLoS ONE. 2019;14:e0220880. doi: 10.1371/journal.pone.0220880. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Glacet-Bernard A., Zourdani A., Milhoub M., Coscas G., Soubrane G., Coscas F. Effect of Isovolemic Hemodilution in Central Retinal Vein Occlusion. Graefe’s Arch. Clin. Exp. Ophthalmol. 2001;239:909–914. doi: 10.1007/s00417-001-0388-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Parodi M.B., Bandello F. Branch Retinal Vein Occlusion: Classification and Treatment. Ophthalmologica. 2009;223:298–305. doi: 10.1159/000213640. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Murakami T., Okamoto F., Iida M., Okamoto Y., Hiraoka T., Oshika T. Relationship Between Metamorphopsia and Foveal Microstructure in Patients with Branch Retinal Vein Occlusion and Cystoid Macular Edema. Graefe’s Arch. Clin. Exp. Ophthalmol. 2016;254:2191–2196. doi: 10.1007/s00417-016-3382-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Nonaka R., Noma H., Yasuda K., Sasaki S., Goto H., Shimura M. Visual Acuity and Retinal Thickness and Sensitivity after Intravitreal Ranibizumab Injection for Macular Edema in Branch Retinal Vein Occlusion. J. Clin. Med. 2024;13:2490. doi: 10.3390/jcm13092490. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Rehak J., Dusek L., Chrapek O., Fric E., Rehak M. Initial Visual Acuity Is an Important Prognostic Factor in Patients with Branch Retinal Vein Occlusion. Ophthalmic Res. 2011;45:204–209. doi: 10.1159/000321701. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Sasajima H., Zako M., Murotani K., Ishida H., Ueta Y., Tachi N., Suzuki T., Watanabe Y., Hashimoto Y. Visual Prognostic Factors in Eyes with Subretinal Fluid Associated with Branch Retinal Vein Occlusion. J. Clin. Med. 2023;12:2909. doi: 10.3390/jcm12082909. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Venkatesh R., Pereira A., Sangai S., Thomas S., Yadav N.K. Prognostic Value of Hyperreflective Material on Visual Acuity in Treatment-Naïve BRVO. Ophthalmic Surg. Lasers Imaging Retin. 2020;51:320–327. doi: 10.3928/23258160-20200603-02. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Johari M., Attar A., Eghtedari D., Razavizadegan S.A. Characteristics of Macular Edema Associated with Retinal Vein Occlusion Showing Poor Anatomic Response to Three Loading Anti-Vascular Endothelial Growth Factor Injections: An Optical Coherence Tomography Analysis. BMC Ophthalmol. 2024;24:30. doi: 10.1186/s12886-024-03298-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Scott I.U., Campochiaro P.A., Newman N.J., Biousse V. Retinal Vascular Occlusions. Lancet. 2020;396:1927–1940. doi: 10.1016/S0140-6736(20)31559-2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Groneberg T., Trattnig J.S., Feucht N., Lohmann C.P., Maier M. Morphologic Patterns on Spectral-Domain Optical Coherence Tomography (SD-OCT) as a Prognostic Indicator in Treatment of Macular Edema Due to Retinal Vein Occlusion. Klin. Monbl. Augenheilkd. 2016;233:1056–1062. doi: 10.1055/s-0041-108680. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Yiu G., Welch R.J., Wang Y., Wang Z., Wang P.-W., Haskova Z. Spectral-Domain OCT Predictors of Visual Outcomes after Ranibizumab Treatment for Macular Edema Resulting from Retinal Vein Occlusion. Ophthalmology. 2020;127:142–147. doi: 10.1016/j.oret.2019.08.009. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Kang J.W., Lee H., Chung H., Kim H.C. Correlation Between Optical Coherence Tomographic Hyperreflective Foci and Visual Outcomes after Intravitreal Bevacizumab for Macular Edema in Branch Retinal Vein Occlusion. Graefe’s Arch. Clin. Exp. Ophthalmol. 2014;252:1413–1421. doi: 10.1007/s00417-014-2595-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Powers J.H., Thomas A.S., Mir T.A., Kim J.S., Birnbaum F.A., Yoon S.P., Khan K., Gomez-Caraballo M., Fekrat S. Impact and Implication of Fovea-Involving Intraretinal Hemorrhage after Acute Branch Retinal Vein Occlusion. Ophthalmology. 2019;126:1338–1341. doi: 10.1016/j.oret.2019.04.005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Hirabayashi K., Hoshiyama K., Imai A., Iesato Y., Hirano T., Murata T. Relationship between Central Retinal Sensitivity, Thickness, Perfusion Density and Visual Acuity in Patients with Branch Retinal Vein Occlusion. Acta Ophthalmol. 2022;100:e610–e611. doi: 10.1111/aos.14841. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Iesato Y., Imai A., Hirano T., Toriyama Y., Murata T. Effect of Leaking Capillaries and Microaneurysms in the Perifoveal Capillary Network on Resolution of Macular Edema by Anti-Vascular Endothelial Growth Factor Treatment. Jpn. J. Ophthalmol. 2016;60:86–94. doi: 10.1007/s10384-016-0425-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Yang S., Zhou J., Li D. Functions and Diseases of the Retinal Pigment Epithelium. Front. Pharmacol. 2021;12:727870. doi: 10.3389/fphar.2021.727870. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Abri Aghdam K., Reznicek L., Soltan Sanjari M., Seidensticker F., Klink T., Lohmann C.P., Maier M. Peripheral Retinal Non-Perfusion and Treatment Response in Branch Retinal Vein Occlusion. Int. J. Ophthalmol. 2016;9:858–862. doi: 10.18240/ijo.2016.06.12. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Farinha C., Marques J.P., Almeida E., Lima J., Faria J., Almeida R., Silva R., Gomes R. Treatment of Retinal Vein Occlusion with Ranibizumab in Clinical Practice: Longer-Term Results and Predictive Factors of Functional Outcome. Ophthalmic Res. 2015;55:10–18. doi: 10.1159/000440848. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Kreminger J., Iby J., Rokitansky S., Stino H., Niederleithner M., Schlegl T., Drexler W., Schmoll T., Leitgeb R., Pollreisz A., et al. Association of Microaneurysms with Retinal Vascular Alterations in Patients with Retinal Vein Occlusion. Can. J. Ophthalmol. 2024 doi: 10.1016/j.jcjo.2024.08.007. 
+in press
+. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Hu K.K., Tian C.W., Li M.H., Wu T., Gong M., Wei X.L., Du Y.R., Hui Y.N., Du H.J. Differential Analysis of Aqueous Humor Cytokine Levels in Patients with Macular Edema Secondary to Diabetic Retinopathy or Retinal Vein Occlusion. Int. J. Ophthalmol. 2023;16:1041–1046. doi: 10.18240/ijo.2023.07.06. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Hayreh S.S., Podhajsky P.A., Zimmerman M.B. Central and Hemicentral Retinal Vein Occlusion: Role of Anti-Platelet Aggregation Agents and Anticoagulants. Ophthalmology. 2011;118:1603–1611. doi: 10.1016/j.ophtha.2011.04.036. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Michalska-Małecka K., Śpiewak D., Słowińska-Łożyńska L., Sierocka-Stępień J. Influence of Hemorheological Factors on the Development of Retinal Vein Occlusion. Clin. Hemorheol. Microcirc. 2016;63:69–76. doi: 10.3233/CH-162056. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Houtsmuller A.J., Vermeulen J.A., Klompe M., Zahn K.J., Henkes H.E., Baarsma G.S., Tijssen J. The Influence of Ticlopidine on the Natural Course of Retinal Vein Occlusion. Agents Actions Suppl. 1984;15:219–229. [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Glacet-Bernard A., Coscas G., Chabanel A., Zourdani A., Lelong F., Samama M.M. A Randomized, Double-Masked Study on the Treatment of Retinal Vein Occlusion with Troxerutin. Am. J. Ophthalmol. 1994;118:421–429. doi: 10.1016/S0002-9394(14)75791-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Dragoni F., Kaarniranta K. Individual Benefits of Enoxaparin Treatment in Branch Vein Occlusion. Graefe’s Arch. Clin. Exp. Ophthalmol. 2018;256:1031–1033. doi: 10.1007/s00417-017-3854-z. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Paciullo F., Valeriani E., Porfidia A., Di Nisio M., Donadini M.P., Marcucci R., Prisco D., Cagini C., Gresele P., Ageno W. Antithrombotic Treatment of Retinal Vein Occlusion: A Position Statement from the Italian Society on Thrombosis and Haemostasis (SISET) Blood Transfus. 2022;20:341–347. doi: 10.2450/2022.0276-21. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Valeriani E., Paciullo F., Porfidia A., Pignatelli P., Candeloro M., Di Nisio M., Donadini M.P., Mastroianni C.M., Pola R., Gresele P., et al. Antithrombotic Treatment for Retinal Vein Occlusion: A Systematic Review and Meta-Analysis. J. Thromb. Haemost. 2023;21:284–293. doi: 10.1016/j.jtha.2022.10.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. Laurance S., Marin M., Colin Y. Red Blood Cells: A Newly Described Partner in Central Retinal Vein Occlusion Pathophysiology? Int. J. Mol. Sci. 2023;24:1072. doi: 10.3390/ijms24021072. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. Ong J., Selvam A., Maltsev D., Zhang X., Wu L., Chhablani J. Subthreshold Laser Systems: A Narrative Review of the Current Status and Advancements for Retinal Diseases. Ann. Eye Sci. 2022;7:15. doi: 10.21037/aes-21-46. [ DOI ] [ Google Scholar ] 
+ 
+ 93. Tadayoni R., Waldstein S.M., Boscia F., Gerding H., Pearce I., Priglinger S., Wenzel A., Barnes E., Gekkieva M., Pilz S., et al. Individualized Stabilization Criteria-Driven Ranibizumab Versus Laser in Branch Retinal Vein Occlusion: Six-Month Results of BRIGHTER. Ophthalmology. 2016;123:1332–1344. doi: 10.1016/j.ophtha.2016.02.030. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 94. Clark W.L., Boyer D.S., Heier J.S., Brown D.M., Haller J.A., Vitti R., Kazmi H., Berliner A.J., Erickson K., Chu K.W., et al. Intravitreal Aflibercept for Macular Edema Following Branch Retinal Vein Occlusion: 52-Week Results of the VIBRANT Study. Ophthalmology. 2016;123:330–336. doi: 10.1016/j.ophtha.2015.09.035. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 95. Glanville J., Patterson J., McCool R., Ferreira A., Gairy K., Pearce I. Efficacy and Safety of Widely Used Treatments for Macular Oedema Secondary to Retinal Vein Occlusion: A Systematic Review. BMC Ophthalmol. 2014;14:17. doi: 10.1186/1471-2415-14-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 96. Narayanan R., Panchal B., Das T., Chhablani J., Jalali S., Ali M.H. A Randomised, Double-Masked, Controlled Study of the Efficacy and Safety of Intravitreal Bevacizumab Versus Ranibizumab in the Treatment of Macular Oedema Due to Branch Retinal Vein Occlusion: MARVEL Report No. 1. Br. J. Ophthalmol. 2015;99:954–959. doi: 10.1136/bjophthalmol-2014-306543. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 97. Rezar S., Eibenberger K., Buhl W., Georgopoulos M., Schmidt-Erfurth U., Sacu S. Anti-VEGF Treatment in Branch Retinal Vein Occlusion: A Real-World Experience Over 4 Years. Acta Ophthalmol. 2015;93:719–725. doi: 10.1111/aos.12772. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 98. Unsal E., Eltutar K., Sultan P., Gungel H. Efficacy and Safety of Pro Re Nata Regimen without Loading Dose Ranibizumab Injections in Retinal Vein Occlusion. Pak. J. Med. Sci. 2015;31:510–515. doi: 10.12669/pjms.313.7218. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 99. Ito Y., Saishin Y., Sawada O., Kakinoki M., Miyake T., Sawada T., Kawamura H., Ohji M. Comparison of Single Injection and Three Monthly Injections of Intravitreal Bevacizumab for Macular Edema Associated with Branch Retinal Vein Occlusion. Clin. Ophthalmol. 2015;9:175–180. doi: 10.2147/OPTH.S76261. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 100. Sakanishi Y., Lee A., Usui-Ouchi A., Ito R., Ebihara N. Twelve-Month Outcomes in Patients with Retinal Vein Occlusion Treated with Low-Frequency Intravitreal Ranibizumab. Clin. Ophthalmol. 2016;10:1161–1165. doi: 10.2147/OPTH.S107594. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 101. Rush R.B., Simunovic M.P., Aragon A.V., 2nd, Ysasaga J.E. Treat-and-Extend Intravitreal Bevacizumab for Branch Retinal Vein Occlusion. Ophthalmic Surg. Lasers Imaging Retin. 2014;45:212–216. doi: 10.3928/23258160-20140404-01. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 102. Peto T., Vader M.J., Verbraak F.D., Dijkman G., Hooymans J.M., Los L.I., Zwinderman A.H., Hoyng C.B., van Leeuwenhoek R., Vingerling J.R., et al. Comparing the Efficacy of Bevacizumab and Ranibizumab in Patients with Retinal Vein Occlusion: The Bevacizumab to Ranibizumab in Retinal Vein Occlusions (BRVO) Study, a Randomized Trial. Ophthalmol. Retin. 2020;4:576–587. doi: 10.1016/j.oret.2019.12.019. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 103. Goel S., Kumar A., Ravani R.D., Chandra P., Chandra M., Kumar V. Comparison of Ranibizumab Alone Versus Ranibizumab with Targeted Retinal Laser for Branch Retinal Vein Occlusion with Macular Edema. Indian J. Ophthalmol. 2019;67:1105–1108. doi: 10.4103/ijo.IJO_1364_18. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 104. Inagaki M., Hirano Y., Yasuda Y., Kawamura M., Suzuki N., Yasukawa T., Ogura Y. Twenty-Four Month Results of Intravitreal Ranibizumab for Macular Edema after Branch Retinal Vein Occlusion: Visual Outcomes and Resolution of Macular Edema. Semin. Ophthalmol. 2021;36:482–489. doi: 10.1080/08820538.2021.1890147. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 105. Wei W., Weisberger A., Zhu L., Cheng Y., Liu C. Efficacy and Safety of Ranibizumab in Asian Patients with Branch Retinal Vein Occlusion: Results from the Randomized BLOSSOM Study. Ophthalmol. Retin. 2020;4:57–66. doi: 10.1016/j.oret.2019.08.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 106. Arai Y., Takahashi H., Inoda S., Sakamoto S., Tan X., Inoue Y., Tominaga S., Kawashima H., Yanagi Y. Efficacy of Modified Treat-and-Extend Regimen of Aflibercept for Macular Edema from Branch Retinal Vein Occlusion: 2-Year Prospective Study Outcomes. J. Clin. Med. 2021;10:3162. doi: 10.3390/jcm10143162. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 107. Anguita R., Tasiopoulou A., Shahid S., Roth J., Sim S.Y., Patel P.J. A Review of Aflibercept Treatment for Macular Disease. Ophthalmol. Ther. 2021;10:413–428. doi: 10.1007/s40123-021-00354-1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 108. Panigrahi P.K. Off Label Intravitreal Brolucizumab in Treatment of Recurrent Macular Edema Due to Branch Retinal Vein Occlusion: A Case Report. Photodiagn. Photodyn. Ther. 2022;37:102694. doi: 10.1016/j.pdpdt.2021.102694. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 109. Chakraborty D., Mondal S., Boral S., Das A. Intravitreal Injection of Brolucizumab for Recalcitrant Macular Edema due to Central Retinal Vein Occlusion: A Small Case Series. Case Rep. Ophthalmol. 2022;13:921–928. doi: 10.1159/000526710. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 110. Tadayoni R., Paris L.P., Danzig C.J., Abreu F., Khanani A.M., Brittain C., Lai T.Y.Y., Haskova Z., Sakamoto T., Kotecha A., et al. Efficacy and Safety of Faricimab for Macular Edema due to Retinal Vein Occlusion: 24-Week Results from the BALATON and COMINO Trials. Ophthalmology. 2024;131:950–960. doi: 10.1016/j.ophtha.2024.01.029. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 111. Shirley M. Faricimab: First Approval. Drugs. 2022;82:825–830. doi: 10.1007/s40265-022-01713-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 112. Patel D., Patel S.N., Chaudhary V., Garg S.J. Complications of Intravitreal Injections: 2022. Curr. Opin. Ophthalmol. 2022;33:137–146. doi: 10.1097/ICU.0000000000000850. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 113. Ramos M.S., Xu L.T., Singuri S., Castillo Tafur J.C., Arepalli S., Ehlers J.P., Kaiser P.K., Singh R.P., Rachitskaya A.V., Srivastava S.K., et al. Patient-Reported Complications after Intravitreal Injection and Their Predictive Factors. Ophthalmol. Retin. 2021;5:625–632. doi: 10.1016/j.oret.2020.09.024. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 114. Miller A., Wilneff M.A., Yazji A., Petrinec E., Carbone M., Miller C., McCrossin C., Donkor R., Miller D.G. Analysis of Urgent Follow-Up Visits and Complications after Intravitreal Injections: A Retrospective Cohort Study. Int. J. Retin. Vitr. 2022;8:8. doi: 10.1186/s40942-021-00358-w. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 115. Gaballa S.A., Kompella U.B., Elgarhy O., Alqahtani A.M., Pierscionek B., Alany R.G., Abdelkader H. Corticosteroids in Ophthalmology: Drug Delivery Innovations, Pharmacology, Clinical Applications, and Future Perspectives. Drug Deliv. Transl. Res. 2021;11:866–893. doi: 10.1007/s13346-020-00843-z. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 116. Iovino C., Mastropasqua R., Lupidi M., Di Antonio L., Toto L., Carpineto P., Mastropasqua L. Intravitreal Dexamethasone Implant as a Sustained Release Drug Delivery Device for the Treatment of Ocular Diseases: A Comprehensive Review of the Literature. Pharmaceutics. 2020;12:703. doi: 10.3390/pharmaceutics12080703. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 117. Ribeiro F., Falcão M.S. Off-Label Use of 0.19 mg Fluocinolone Acetonide Intravitreal Implant: A Systematic Review. J. Ophthalmol. 2021;2021:6678364. doi: 10.1155/2021/6678364. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 118. Shimura M., Nakazawa T., Yasuda K., Kunikata H., Shiono T., Nishida K. Visual Prognosis and Vitreous Cytokine Levels after Arteriovenous Sheathotomy in Branch Retinal Vein Occlusion Associated with Macular Oedema. Acta Ophthalmol. 2008;86:377–384. doi: 10.1111/j.1600-0420.2007.01074.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 119. Oh I.K., Kim S., Oh J., Huh K. Long-Term Visual Outcome of Arteriovenous Adventitial Sheathotomy on Branch Retinal Vein Occlusion Induced Macular Edema. Korean J. Ophthalmol. 2008;22:1–5. doi: 10.3341/kjo.2008.22.1.1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 120. Wakabayashi T., Patel N., Bough M., Nahar A., Sheng Y., Momenaei B., Salabati M., Mahmoudzadeh R., Kuriyan A.E., Spirn M.J., et al. Vitrectomy for Vitreous Hemorrhage Associated with Retinal Vein Occlusion: Visual Outcomes, Prognostic Factors, and Sequelae. Retina. 2023;43:1506–1513. doi: 10.1097/IAE.0000000000003839. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 121. Darabuş D.M., Munteanu M., Preda M.A., Karancsi O.L., Șuță M.C. The Impact of Intraocular Treatment on Visual Acuity of Patients Diagnosed with Branch Retinal Vein Occlusions. Healthcare. 2023;11:1414. doi: 10.3390/healthcare11101414. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 122. Chung S.H., Frick S.L., Yiu G. Targeting Vascular Endothelial Growth Factor Using Retinal Gene Therapy. Ann. Transl. Med. 2021;9:1277. doi: 10.21037/atm-20-4417. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 123. Hu X., Zhang B., Li X., Li M., Wang Y., Dan H., Zhou J., Wei Y., Ge K., Li P., et al. The Application and Progression of CRISPR/Cas9 Technology in Ophthalmological Diseases. Eye. 2023;37:607–617. doi: 10.1038/s41433-022-02169-1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 124. Wasnik V.B., Thool A.R. Ocular Gene Therapy: A Literature Review with Focus on Current Clinical Trials. Cureus. 2022;14:e29533. doi: 10.7759/cureus.29533. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 125. Maurya R., Vikal A., Narang R.K., Patel P., Kurmi B.D. Recent Advancements and Applications of Ophthalmic Gene Therapy Strategies: A Breakthrough in Ocular Therapeutics. Exp. Eye Res. 2024;245:109983. doi: 10.1016/j.exer.2024.109983. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 126. Nhàn N.T.T., Maidana D.E., Yamada K.H. Ocular Delivery of Therapeutic Agents by Cell-Penetrating Peptides. Cells. 2023;12:1071. doi: 10.3390/cells12071071. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 127. Nguyen Q.D., Heier J.S., Do D.V., Mirando A.C., Pandey N.B., Sheng H., Heah T. The Tie2 Signaling Pathway in Retinal Vascular Diseases: A Novel Therapeutic Target in the Eye. Int. J. Retin. Vitr. 2020;6:48. doi: 10.1186/s40942-020-00250-z. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 128. Guryanov I., Tennikova T., Urtti A. Peptide Inhibitors of Vascular Endothelial Growth Factor A: Current Situation and Perspectives. Pharmaceutics. 2021;13:1337. doi: 10.3390/pharmaceutics13091337. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 129. Maetzel A., Feener E.P. Plasma Kallikrein Inhibition in Diabetic Macular Edema: Targeting a Novel, VEGF-Independent Pathway of DME Could Preserve and Recover Vision. Retin. Physician. 2020;17:26–28. [ Google Scholar ] 
+ 
+ 130. Yang S., Wang M., Wang T., Sun M., Huang H., Shi X., Duan S., Wu Y., Zhu J., Liu F. Self-Assembled Short Peptides: Recent Advances and Strategies for Potential Pharmaceutical Applications. Mater. Today Bio. 2023;20:100644. doi: 10.1016/j.mtbio.2023.100644. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 131. Jiang D., Xu T., Zhong L., Liang Q., Hu Y., Xiao W., Shi J. Research Progress of VEGFR Small Molecule Inhibitors in Ocular Neovascular Diseases. Eur. J. Med. Chem. 2023;257:115535. doi: 10.1016/j.ejmech.2023.115535. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 132. Gau D., Vignaud L., Francoeur P., Koes D., Guillonneau X., Roy P. Inhibition of Ocular Neovascularization by Novel Anti-Angiogenic Compound. Exp. Eye Res. 2021;213:108861. doi: 10.1016/j.exer.2021.108861. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 133. Parikh B.H., Liu Z., Blakeley P., Lin Q., Singh M., Ong J.Y., Ho K.H., Lai J.W., Bogireddi H., Tran K.C., et al. A Bio-Functional Polymer That Prevents Retinal Scarring through Modulation of NRF2 Signalling Pathway. Nat. Commun. 2022;13:2796. doi: 10.1038/s41467-022-30474-6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 134. Tang X., Cui K., Wu P., Hu A., Fan M., Lu X., Yang F., Lin J., Yu S., Xu Y., et al. Acrizanib as a Novel Therapeutic Agent for Fundus Neovascularization via Inhibitory Phosphorylation of VEGFR2. Transl. Vis. Sci. Technol. 2024;13:1. doi: 10.1167/tvst.13.1.1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 135. Patnaik S., Jalali S., Joshi M.B., Satyamoorthy K., Kaur I. Metabolomics Applicable to Retinal Vascular Diseases. Methods Mol. Biol. 2019;1996:325–331. doi: 10.1007/978-1-4939-9488-5_24. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 136. Ham Y., Mehta H., Kang-Mieler J., Mieler W.F., Chang A. Novel Drug Delivery Methods and Approaches for the Treatment of Retinal Diseases. Asia-Pac. J. Ophthalmol. 2023;12:402–413. doi: 10.1097/APO.0000000000000623. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 137. Fleissig E., Loewenstein A. Complications of Intravitreal Injections. Incidence is Low, but Caution is Warranted. Retin. Physician. 2022;19:27–29. [ Google Scholar ]

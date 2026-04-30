@@ -1,0 +1,35 @@
+Source: Wikipedia
+Title: Choroidal neovascularization
+URL: https://en.wikipedia.org/wiki/Choroidal_neovascularization
+============================================================
+
+Choroidal neovascularization (CNV) is the creation of new blood vessels in the choroid layer of the eye. Choroidal neovascularization is a common cause of neovascular degenerative maculopathy (i.e. 'wet' macular degeneration) commonly exacerbated by extreme myopia, malignant myopic degeneration, or age-related developments
+
+
+== Symptoms and signs ==
+CNV can create a sudden deterioration of central vision, noticeable within a few weeks. Other symptoms which can occur include color disturbances, and metamorphopsia (distortions in which straight lines appear wavy). Hemorrhaging of the new blood vessels can accelerate the onset of symptoms of CNV. CNV may also include the feeling of pressure behind your eye.
+Using modern optical coherence tomography devices, it is possible to detect non-exudative neovascular membranes, that are typically asymptomatic.
+
+
+== Causes ==
+CNV can occur rapidly in individuals with defects in Bruch's membrane, the innermost layer of the choroid. It is also associated with excessive amounts of vascular endothelial growth factor (VEGF). As well as in wet macular degeneration, CNV can also occur frequently with the rare genetic disease pseudoxanthoma elasticum and rarely with the more common optic disc drusen.  CNV has also been associated with extreme myopia or malignant myopic degeneration, where in choroidal neovascularization occurs primarily in the presence of cracks within the retinal (specifically) macular tissue known as lacquer cracks.
+
+
+== Diagnosis ==
+CNV can be detected by using a type of perimetry called preferential hyperacuity perimetry. On the basis of fluorescein angiography, CNV may be described as classic or occult. Two other tests that help identify the condition include indocyanine green angiography and optical coherence tomography.
+
+
+=== Differential diagnosis ===
+
+
+== Treatment ==
+CNV is conventionally treated with intravitreal injections of angiogenesis inhibitors (also known as "anti-VEGF" drugs) to control neovascularization and reduce the area of fluid below the retinal pigment epithelium.  Angiogenesis inhibitors include pegaptanib, ranibizumab and bevacizumab . These inhibitors slow or stop the formation of new blood vessels (angiogenesis), typically by binding to or deactivating the transmission of vascular endothelial growth factor ('VEGF'), a signal protein produced by cells to stimulate formation of new blood vessels. The effectiveness of angiogenesis inhibitors has been shown to significantly improve visual prognosis with CNV, the recurrence rate for these neovascular areas remains high.
+CNV may also be treated with photodynamic therapy (PDT) coupled with a photosensitive drug such as verteporfin (Visudyne). The drug is given intravenously. It is then activated in the eye by a laser light. The drug destroys the new blood vessels, and prevents any new vessels forming by forming thrombi. A Cochrane Review published in 2016 found that people with severe myopia (short-sightedness or near-sightedness) may benefit from being given anti-VEGF treatment.
+
+
+== See also ==
+Age-related macular degeneration
+Macula
+
+
+== References ==

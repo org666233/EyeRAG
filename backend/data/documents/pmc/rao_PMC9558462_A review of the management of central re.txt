@@ -1,0 +1,406 @@
+Source: PubMed Central (PMC)
+PMCID: PMC9558462
+Title: A review of the management of central retinal artery occlusion
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9558462/
+Year: 2022
+Disease: rao
+Priority: 2
+============================================================
+
+Taiwan J Ophthalmol . 2022 Aug 18;12(3):273–281. doi: 10.4103/2211-5056.353126 
+ 
+ 
+ A review of the management of central retinal artery occlusion 
+ Reema Madike 
+ Reema Madike 
+ 
+ 1 
+ The University of Adelaide School of Medicine, Adelaide, Australia 
+ 
+ Find articles by Reema Madike 
+ 
+ 
+ 1 , Sudha Cugati 
+ Sudha Cugati 
+ 
+ 2 
+ Department of Ophthalmology, Modbury Hospital, South Australia Institute of Ophthalmology, South Australia, Australia 
+ 
+ Find articles by Sudha Cugati 
+ 
+ 
+ 2 , Celia Chen 
+ Celia Chen 
+ 
+ 3 
+ Department of Ophthalmology, Flinders Medical Centre and Flinders University, South Australia, Australia 
+ 
+ Find articles by Celia Chen 
+ 
+ 
+ 3, * 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 
+ The University of Adelaide School of Medicine, Adelaide, Australia 
+ 
+ 
+ 2 
+ Department of Ophthalmology, Modbury Hospital, South Australia Institute of Ophthalmology, South Australia, Australia 
+ 
+ 
+ 3 
+ Department of Ophthalmology, Flinders Medical Centre and Flinders University, South Australia, Australia 
+ 
+ 
+ * Address for correspondence: Prof. Celia Chen, Flinders Medical Centre and Flinders University, Bedford Park, South Australia, Australia. E-mail: celia.chen@sa.gov.au 
+ 
+ 
+ Received 2022 Feb 14; Accepted 2022 May 30; Collection date 2022 Jul-Sep. 
+ 
+ Copyright: © 2022 Taiwan J Ophthalmol 
+ This is an open access journal, and articles are distributed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License, which allows others to remix, tweak, and build upon the work non-commercially, as long as appropriate credit is given and the new creations are licensed under the identical terms. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC9558462  PMID: 36248088 
+ 
+ Abstract 
+ Central retinal artery occlusion (CRAO), the ocular analog of a cerebral stroke, is an ophthalmic emergency. The visual prognosis for overall spontaneous visual recovery in CRAO is low. Furthermore, the risk of future ischemic heart disease and cerebral stroke is increased due to the underlying atherosclerotic risk factors. There is currently no guideline-endorsed treatment for CRAO. This review will describe the anatomy, pathophysiology, epidemiology, and clinical features of CRAO, and investigate the current and future management strategies. 
+ Keywords: Central retinal artery, Ischemia, occlusion, prevention, reperfusion, thrombolysis Introduction 
+ Central retinal artery occlusion (CRAO) is an ophthalmic emergency which is analogous to a cerebral stroke. It is caused by the sudden blockage of the central retinal artery (CRA) and usually presents as sudden, painless monocular vision loss. The incidence of CRAO is estimated as 1 in 100,000 patients per year and 1 in 10,000 outpatient visits.[ 1 , 2 ] The average age of presentation of CRAO is in the early sixties with males tending to have a higher incidence.[ 1 ] Importantly, the prognosis for overall spontaneous visual recovery in CRAO is low, as it has been found that only 17.7% of patients obtain functional visual recovery without any treatment.[ 3 ] Furthermore, CRAO indicates end-organ ischemia, often due to underlying atherosclerosis. These underlying atherosclerotic risk factors also increase the risk of future cerebral stroke and ischemic heart disease in the individual.[ 4 ] 
+ There is currently no guideline-endorsed evidence for treatment of CRAO. As CRAO is the ocular analog of a cerebral stroke, the clinical approach and management is similar to stroke management. 
+ The aim of this review article is to review the evidence for treatment of CRAO, as well as provide an overview of the risk factors and clinical presentation of CRAO. Materials and Methods 
+ For this review, we used databases such as PubMed to find publications from 1990 to 2022, with most articles being between 2011 and 2022. Search terms used included “central retinal artery occlusion,” in conjunction with “management,” “treatment,” and “therapeutics.” The abstracts were reviewed, after which the full articles with the references were obtained. Where appropriate, the references were checked to find any additional material. 
+ Anatomy and pathophysiology 
+ The CRA is the first branch of the ophthalmic artery (OA), which is the first branch of the internal carotid artery.[ 5 ] The CRA provides arterial supply to the surface layer of the optic disc. From here, it divides into two main branches (superior and inferior) which further subdivide into temporal and nasal branches, and these supply blood to the four quadrants of the retina [ Figure 1a ]. The photoreceptor layer of the retina is supplied by the choriocapillaris of the choroid that branches off the ciliary artery. Since the CRA and ciliary artery originate from the OA, these both must be functioning to maintain retinal function. 
+ Figure 1. 
+ 
+ Open in a new tab 
+ Vascular supply to the eye. (a) The central retinal artery is a branch of the ophthalmic artery. In central retinal artery occlusion (Green cross marks site of occlusion), the blood supply to the retina is interrupted. (b) Patients with a cilioretinal artery have supplied to the macula stemming from the short posterior ciliary artery. Therefore, in CRAO (green cross), the macula is supplied, and central vision is preserved. CRAO: Central retinal artery occlusion In approximately one-third of the eyes, a cilioretinal artery which originates from the posterior ciliary circulation is present [ Figure 1b ].[ 6 ] The cilioretinal artery supplies a part or the whole of the fovea, which is important for central vision. In these CRAO patients, the cilioretinal artery is spared causing only a loss in the peripheral vision, and visual acuity may remain at 20/50 or better.[ 7 ] 
+ Thromboembolism is the most common cause of CRAO, and this occurs at the narrowest part of the CRA lumen, where it pierces the optic nerve's dural sheath.[ 8 ] This is usually due to atherosclerotic plaques causing carotid artery disease. Occlusion from a thrombus at the level immediately posterior to the lamina cribrosa can also cause CRAO.[ 9 ] Clinical presentations 
+ CRAO can be divided broadly into two categories:[ 10 ] 
+ 
+ Nonarteritic CRAO 
+ Arteritic CRAO. 
+ 
+ Nonarteritic 
+ Over 90% of CRAOs are nonarteritic in origin. Common risk factors for nonarteritic CRAO include diabetes mellitus, arterial hypertension, coronary artery disease, carotid artery disease, transient ischemic attack (TIA), and smoking. In addition, family history of a vascular disease and genetic factors can increase the risk. 
+ Nonarteritic CRAO can be further divided into three categories: permanent, transient, or with cilioretinal sparing. 
+ 
+ 
+ Nonarteritic permanent CRAO is caused by thrombosis or emboli due to atherosclerotic disease and accounts for two-thirds of all CRAO cases.[ 4 ] The visual acuity in these patients is typically less than 20/200. Relative afferent pupillary defect will be noted in the affected eye. The classic finding is that of retinal arterial whitening (due to retinal edema) with a cherry-red spot (due to preserved choroidal circulation underlying the fovea) and a boxcar appearance of the blood vessels with retinal arterial narrowing (due to segmental blood flow) [ Figure 2 ] 
+ In < 10% of patients with CRAO, retinal emboli may be seen in the retinal arteries.[ 11 ] In chronic CRAO, the fundus examination will show a pale disc, retinal vascular attenuation, and retinal pigment epithelial mottling 
+ 
+ Nonarteritic transient CRAO is analogous to a TIA in the eye, lasting from several minutes to hours. It accounts for 15%–17% of CRAO cases and has the best visual prognosis, which is influenced by the duration of the transient CRAO.[ 4 , 12 ] Patients will usually have a normal fundus examination by the time they present to the doctor 
+ Nonarteritic CRAO with cilioretinal sparing [ Figure 3 ] is clinically similar to nonarteritic permanent CRAO; however, there is presence of a patent cilioretinal artery.[ 12 ] This can influence the visual outcome and retinal circulation. A patient with cilioretinal artery sparing can sometimes present with 20/20 vision. Conversely, the occlusion can occur to the cilioretinal artery [ Figure 4 ] resulting in poor central vision but preserved peripheral vision. 
+ 
+ Figure 2. 
+ 
+ Open in a new tab 
+ Fundus photograph showing a left acute CRAO. The color on the left is paler compared to the right retina due to retinal edema. There is disc edema (O) with peripapillary hemorrhage (H). The macula appeared erythematous called cherry-red spot (C) due to preserved choroidal circulation underlying the fovea. The retinal vessels are thin and attenuated with a boxcarring appearance (B). CRAO: Central retinal artery occlusion Figure 3. 
+ 
+ Open in a new tab 
+ (a) Color fundus photograph of a left eye with nonarteritic CRAO with cilioretinal sparing. The maculopapular bundle is perfused by the cilioretinal artery (C) and imparts the orange retinal appearance compared to the surrounding retina that appears pale. (b) Fundus fluorescein angiography showing the cilioretinal artery (black arrow). CRAO: Central retinal artery occlusion Figure 4. 
+ 
+ Open in a new tab 
+ Cilioretinal artery occlusion. Color fundus photograph (right) and red-free fundus photograph (left) showing edema surrounding the macula (M) but preserved superior and inferior retinal arcade (blue arrows) Arteritic central retinal artery occlusion 
+ Arteritic CRAO is usually secondary to giant cell arteritis and accounts for approximately 4% of cases.[ 12 ] Arteritic CRAO is more likely to occur in patients over 70 years of age.[ 13 ] Clinically, patients with arteritic CRAO have the classical fundus findings of CRAO. A fundus fluorescein angiopgraphy (FFA) is helpful to look for choroidal ischemia because giant cell arteritis affects large vessels and therefore both the CRA and the posterior ciliary arteries are affected [ Figure 5 ]. It is also important to look into the contralateral eye, as the patient may be at risk of bilateral permanent loss of vision due to ischemic changes, and the contralateral eye may have asymptomatic or incipient arteritic anterior ischemic optic neuropathy [ Figure 6 ], or cotton wool spots due to retinal ischemia. 
+ Figure 5. 
+ 
+ Open in a new tab 
+ Color fundus photograph (a) of a patient with right arteritic CRAO. (b-d) FFA at 28 s, 45 s, and 1 min 28 s showing choroidal filling defect (P). CRAO: Central retinal artery occlusion Figure 6. 
+ 
+ Open in a new tab 
+ Color fundus photograph in a patient presenting with acute loss of vision due to a right CRAO. The left eye is asymptomatic but has a cotton wool spot (arrow) in the absence of other microangiopathies suggesting there is retinal nerve fiber layer ischemia. CRAO: Central retinal artery occlusion The management of giant cell arteritis is an ophthalmic emergency and requires high index of suspicion and a prompt blood test to look for high inflammatory markers. The management of giant cell arteritis is beyond the scope of this review article. In this article, we will discuss the management of nonarteritic CRAO. Investigation 
+ Ocular investigations 
+ The diagnosis of CRAO is typically made based on the clinical examination; however, optical coherence tomography (OCT) of the macula will show hyperreflectivity of the inner retinal layers in the acute stage and atrophy of the inner retinal layers in the chronic stage [ Figure 7 ]. Internal limiting membrane detachment, signifying severe retinal hypoperfusion, can also be seen in acute CRAO and is associated with a poor final visual outcome.[ 14 ] Paracentral acute middle maculopathy, which represents ischemic injury of the middle retina or inner retinal layers as a result of hypoperfusion of the retinal capillary plexus, has also been reported in partial CRAO [ Figure 8 ].[ 15 ] 
+ Figure 7. 
+ 
+ Open in a new tab 
+ A patient with chronic CRAO showing band-like hyperreflective focal or diffuse lesions visible at the level of the INL corresponding to superficial INL ischemia on OCT angiography. There is epiretinal membrane formation (arrow). CRAO: Central retinal artery occlusion, INL: Inner nuclear layer Figure 8. 
+ 
+ Open in a new tab 
+ Paracentral acute middle maculopathy in a case of CRAO. CRAO: Central retinal artery occlusion Fundus fluorescein angiography (FFA) shows delay in the retinal arterial filling and arteriovenous transit time with normal choroidal filling. Arteriolar narrowing with normal fluorescein transit time can be seen in incomplete CRAO.[ 16 ] 
+ OCT angiography will show decreased vascular perfusion in the superficial and deep retinal capillary plexus in the acute stages.[ 16 ] Systemic investigations 
+ The aim of the vascular workup in nonarteritic CRAO patients is to determine modifiable vascular risk factors to help with secondary prevention of other ischemic events (see Management section). A suggested workup of patients presenting with CRAO is shown in [ Table 1 ]. 
+ Table 1. 
+ Suggested history and investigations for patients with central retinal artery occlusion 
+ 
+ 
+ Arteritic cause 
+ Investigation 
+ 
+ 
+ 
+ History to investigate common risk factors 
+ Family history of cardiovascular and cerebrovascular diseases 
+ 
+ 
+ 
+ Diabetes mellitus 
+ 
+ 
+ 
+ Dyslipidemia 
+ 
+ 
+ 
+ Valvular heart disease 
+ 
+ 
+ 
+ Smoking 
+ 
+ 
+ 
+ Past medical history of TIAs or angina 
+ 
+ 
+ Blood investigations for common vascular risk factors 
+ Blood pressure 
+ 
+ 
+ 
+ Fasting blood glucose level 
+ 
+ 
+ 
+ Fasting cholesterol levels 
+ 
+ 
+ Investigations to identify if it is from an embolic source 
+ Duplex carotid ultrasound 
+ 
+ 
+ 
+ Echocardiogram 
+ 
+ 
+ Investigations for young patients (<50 years) with no vascular risk factors 
+ Hypercoagulable screen (protein C and S, factor V Leiden, antiphospholipid antibody) 
+ 
+ 
+ 
+ Vasculitic screen (ANA, ENA, ANCA, ACE) 
+ 
+ 
+ 
+ Myeloproliferative or sickle cell disease (blood film) 
+ 
+ 
+ 
+ Open in a new tab 
+ TIA: Transient ischemic attack, ANA: Antinuclear antibody, ENA: Extractable nuclear antigen, ANCA: Antineutrophil cytoplasmic antibody, ACE: Angiotensin-converting enzyme Management 
+ There is considerable variability among practitioners with regard to management of CRAO. 
+ The principles of management of CRAO can be divided into: 
+ 
+ Acute: Restore blood flow 
+ Subacute: Prevention of secondary complications 
+ Secondary prevention: Systemic control and prevention of future vascular ischemic events. 
+ Acute management of central retinal artery occlusion 
+ CRAO can cause abrupt and often irreversible visual loss unless retinal circulation is re-established acutely.[ 2 ] There is no consensus in the management of acute CRAO, and various treatment options have been advocated.[ 7 ] Current literature suggests that acute management can be divided into noninvasive or invasive therapy. 
+ The retinal tolerance time has been studied in various experimental analyses. A study of atherosclerotic and hypertensive rhesus monkeys has suggested that no detectable damage occurs with CRAO within 97 min, but occlusion lasting for 240 min or longer can cause irreversible damage.[ 17 ] This suggests that there may be a retinal tolerance time within 240 min and therefore any acute treatment should be provided within 4 h. However, the exact time of when the damage of CRAO can be reversed is unknown and has been postulated to be in between 4.5 and 12 h.[ 3 , 18 , 19 ] Previously, there were two randomized controlled trials investigating the use of thrombolysis in a 24-h window intravenously and intra-arterially but did not show any clinically significant outcome.[ 20 , 21 ] Recent meta-analysis showed that the administration of intravenous (IV) alteplase within 4.5 h of symptom onset is associated with a higher likelihood of a favorable visual outcome for acute CRAO.[ 22 ] 
+ Noninvasive therapies include: 
+ 
+ Vasodilation of the CRA 
+ Reducing the intraocular pressure 
+ Reducing retinal edema. 
+ Vasodilation of the central retinal artery 
+ Dilation of the retinal artery can increase the blood flow and hence may enable the removal of the CRA blockage. A potential risk of vasodilation includes systemic vasodilation which causes a decrease in systemic blood pressure. 
+ The various vasodilators that have been described as useful in the management of CRAO include sublingual isosorbide dinitrate,[ 2 ] inhaling carbogen (95% oxygen and 5% carbon dioxide), hyperbaric oxygen treatment (HBOT),[ 23 ] and pentoxifylline.[ 24 ] 
+ Sublingual isosorbide dinitrate causes relaxation of the vascular smooth muscle and can affect the ocular blood flow.[ 25 ] However, isosorbide dinitrate has only been used in CRAO as a combination treatment with ocular massage or other means to reduce the intraocular pressure.[ 2 ] 
+ Inhaling carbogen is used for CRAO treatment by maintaining or improving the blood flow while maintaining the oxygenation of the retina by preventing the oxygen-induced vasoconstriction. It has been proposed that carbogen inhalation be used for 10 min every waking hour and 4 h during the night for a total of 48–72 h.[ 26 , 27 ] Later studies have suggested that the visual recovery with carbogen in patients with CRAO is not significant.[ 28 ] 
+ HBOT includes 100% oxygen inhalation to increase the amount of oxygen dissolved in body tissue. In a recent study, HBOT was given at 90-min sessions three times in the first 24 h, followed by once daily until there was no further improvement noted in the vision after 2 consecutive treatments.[ 23 ] It was found that HBOT is very effective in CRAO, provided the macular is not ischemic and has not developed cherry-red spots, with the greatest improvement seen if patients are treated within 12 h of onset of symptoms.[ 29 ] A recent meta-analysis suggested that HBOT does not improve final visual outcomes and the risks associated include barotrauma, tympanic membrane rupture, and generalized seizures due to oxygen toxicity to the central nervous system.[ 30 ] 
+ Vasodilators such as pentoxifylline, which is a xanthine derivative, can help reduce blood viscosity and therefore increase vascular flow and tissue perfusion. In a small, randomized study of ten patients with CRAO, an improvement in the peak systolic and diastolic flow was noted in the CRA. However, the study was small and the visual recovery was not published by the authors.[ 24 ] Reducing the intraocular pressure 
+ As mean ocular perfusion pressure is the difference between mean arterial pressure and intraocular pressure, reduction in the intraocular pressure will increase the ocular perfusion pressure or help to dislodge the embolus.[ 2 ] The various procedures used to reduce the intraocular pressure include ocular massage, use of IV acetazolamide, use of IV mannitol, or the use of topical antiglaucoma drops. 
+ Ocular massage can be performed with direct digital pressure or using a contact lens. The compression of the globe is performed for 10–15 s, followed by a release to obtain retinal artery pulsation of flow.[ 2 , 31 , 32 ] Alternatively, continued digital massage can be applied over closed eyelids for 15–20 min. Combined ocular massage with acetazolamide can reduce the intraocular pressure up to 5 mmHg within a short period of time. Ocular massage causes retinal artery dilatation with fluctuation in intraocular pressure, and this activity may in turn mechanically dislodge an embolus into peripheral retinal circulation.[ 7 ] 
+ IV acetazolamide (500 mg), 20% IV mannitol (1.5–2 g/kg body weight), and topical antiglaucoma drops aim to lower the intraocular pressure and increase the pressure gradient across the optic nerve.[ 2 , 7 ] Most reports supporting the use of these medications are case reports or series used in conjunction with other treatments rather than as a single agent in the acute management of CRAO.[ 2 , 33 ] Reducing retinal edema 
+ The use of intravenous methylprednisolone to reduces retinal edema is a controversial issue. It was reported in a single case series.[ 34 ] However, the patients were much younger, and it is possible that the CRAO was secondary to vasculitis rather than atherosclerotic-induced CRAO.[ 7 ] IV methylprednisolone is, however, the treatment of choice in patients with suspected arteritic CRAO due to giant cell arteritis. 
+ These acute therapies, singly or in combination, do not alter the clinical outcome.[ 35 ] 
+ Invasive therapies include: 
+ 
+ Ocular: 
+ 
+ 
+ 
+ Anterior chamber paracentesis 
+ Anterior chamber paracentesis will enable a reduction in the intraocular pressure. The mean perfusion pressure across the optic nerve head is the mean arterial pressure minus the intraocular pressure. Therefore the paracentesis hopes to increase the perfusion across the optic nerve head.[ 28 , 36 , 37 ] This is performed under topical anesthesia using a 27-gauge needle to drain 50 μL of aqueous fluid at a time under aseptic precautions to achieve sufficient intraocular pressure lowering and maintaining the anterior chamber depth.[ 38 ] The potential risks of paracentesis include inadvertent ocular trauma, intraocular hypotony, corneal decompensation due to iridocorneal touch, and infection.[ 38 ] A retrospective analysis from Germany suggested little improvement in the vision with anterior chamber paracentesis.[ 36 ] 
+ 
+ 
+ Transluminal Nd: YAG laser 
+ Intraluminal embolus, if visible, is lysed using Nd: YAG laser, starting from low energy (0.5–1 mJ) and increasing in small increments until fragmentation, movement of the embolus into the vitreous, bleeding, or a gas bubble is seen. The results on the visual prognosis vary from 20% to 50%, achieving a final visual acuity of 20/60. However, the laser is associated with significant complications including vitreous hemorrhage requiring surgery. Most of these reports are from case series, and a randomized control trial would be beneficial to conclude on the significance of Nd: YAG laser in the treatment of CRAO.[ 39 , 40 ] 
+ 
+ 
+ Pars plana vitrectomy 
+ Pars plana vitrectomy and removal of embolus have been reported in some cases and case series; however, the studies are limited and further randomized control studies are required to ensure the safety of this procedure.[ 41 , 42 ] 
+ 
+ 
+ IV and intra-arterial (IA) tissue plasminogen activator (tPA) 
+ TPA is a naturally occurring thrombolytic agent which is approved for use in patients with acute ischemic syndrome, pulmonary embolism, and acute myocardial infarction.[ 43 ] tPA is highly effective if used within the therapeutic window. Thrombolytic agents can be used to lyse the fibrin platelet thrombus in nonarteritic ischemic CRAO, which is similar to the treatment of acute ischemic stroke. In the management of CRAO, tPA can be administered intravenously or intra-arterially. 
+ 
+ 
+ Intravenous tissue plasminogen activator 
+ IV tPA, at 0.9 mg/kg body weight (maximum 90 mg with 10% IV bolus and the remainder over 1 h), is given in patients with CRAO within 1.5–4.5 h of the onset of symptoms, as per the recommendation for management of acute stroke.[ 19 , 20 , 44 , 45 , 46 , 47 ] Of these studies, there has only been one randomized control study which analyzed the effect of tPA in CRAO. In this study, 25% of patients achieved a visual acuity of 3 or more lines within the first week of treatment; however, this improvement was not sustained. The authors have suggested that this unsustained improvement in the vision could be due to re-occlusion of the CRA as heparin was not used in the study.[ 20 ] In three prospective interventional case series, the use of IV tPA resulted in an improvement in the visual acuity of 32%–55%.[ 19 , 44 , 47 ] The various complications reported include intracranial hemorrhage, ocular hemorrhage, angioedema, abdominal aortic aneurysm, and hematuria.[ 19 , 45 ] However, IV tPA, in acute CRAO, is a safer option than IA tPA due to relatively reduced risk of symptomatic intracranial hemorrhage or ocular hemorrhage.[ 20 ] 
+ Three randomized control studies are currently being conducted in Europe to assess the treatment with IV thrombolysis compared with placebo in patients with CRAO presenting within 4.5 h of onset of symptoms: (a) THEIA (A Phase III Randomized, Blind, Double Dummy, Multicenter Study Assessing the Efficacy and Safety of IV Thrombolysis in Patients with Acute CRAO),[ 48 ] (b) REVISION (Early Perfusion Therapy with IV Alteplase for Recovery of Vision in Acute CRAO),[ 49 ] and (c) Ten-CRAOS (Tenecteplase in CRAO Study).[ 50 ] These trials will provide further information on the benefits and limitations of the use of IV tPA in the management of CRAO. 
+ 
+ 
+ Intra-arterial tissue plasminogen activator 
+ IA tPA has the advantage of using reduced dose of the thrombolytic agent while also potentially increasing the time window for administration after developing symptoms. The dosage can be between 10 and 80 mg, with lesser dosage being given as aliquots rather than continuous infusion.[ 51 , 52 , 53 , 54 , 55 ] Many trials have suggested an improvement in visual acuity in up to 60%–70% of subjects treated with IA tPA.[ 32 , 51 , 54 , 56 , 57 , 58 , 59 ] 
+ 
+ 
+ 
+ 
+ However, a limitation is that IA tPA must be performed by catheterization of the OA which can only be administered in centers with experienced neuro-interventionalists. A prospective multicentered randomized controlled trial showed no improvement in visual acuity in patients treated with IA thrombolysis compared to standard treatment.[ 54 ] However, concern has been raised with regard to the time of treatment since the time of onset of CRAO and selection bias.[ 60 ] 
+ There has been one case series which suggests a vitrectomy followed by a tPA injection to the retinal artery. Both the cases were treated within 12 h of onset of CRAO and showed an improvement in the visual acuity. The limitation of this study is that it requires intraocular surgery which carries significant ocular complications.[ 61 ] Given that this is an individual report, more studies need to be conducted. 
+ Subacute management of central retinal artery occlusion – preventing secondary ocular complication 
+ CRAO can cause ocular neovascularization due to chronic retinal ischemia resulting from reperfusion failure. Prompt treatment including pan-retinal photocoagulation and neovascular glaucoma should be considered if the patient develops neovascularization. A direct temporal relationship between CRAO and ocular neovascularization has been reported, with a prevalence of 2.5%–31.6%.[ 62 , 63 ] However, Hayreh et al. showed no correlation between CRAO and neovascularization in their study.[ 64 ] The patients who did develop neovascularization were found to have no other causes of neovascularization, such as diabetes.[ 62 ] The mean time for neovascularization to be observed post-CRAO was 8.5 weeks (range: of 2–16 weeks).[ 65 ] Therefore, neovascularization does occur in CRAO, similar to retinal vein occlusion. Regular ophthalmology review in the subacute stage is important up to 4 months after CRAO to prevent local complications. Secondary prevention: Systemic control and prevention of future vascular ischemic events 
+ Patients with CRAO have an increased risk of future ischemic events.[ 66 ] Therefore, a multidisciplinary team involving an ophthalmologist, neurologist, and a primary care physician or internist is important for long-term secondary prevention in patients with CRAO.[ 11 ] Sixty-four (64%) patients after CRAO had at least one undiagnosed vascular risk factor, with hyperlipidemia being the most common (36%).[ 65 ] Systemic atherosclerotic risk factors should be addressed through medical treatment, diet counseling, and lifestyle modification in order to decrease the risk of future ischemic disease.[ 10 ] This includes treatment of hypertension, hyperlipidemia, obesity, and obstructive sleep apnea. A plant-based diet, regular physical activity, and smoking cessation are also important modifications for secondary prevention after CRAO.[ 11 ] The recommendation for antiplatelet therapy in CRAO parallel the guides from American Heart Association for transient ischemic attack or minor stroke. In the patients without contra-indication, an initial course of 21 days of dual antiplatelet therapy may be reasonably followed by long-term treatment with a single antiplatelet agent, typically aspirin 81 mg daily or clopidogrel 75 mg daily, as recommended by current guidelines.[ 11 ] Suggested management 
+ When a patient presents with a sudden loss of vision in one eye, with suspected CRAO, a thorough history should be taken, including the duration of symptoms, systemic symptoms indicating giant cell arteritis, and associated neurological symptoms, and it is important to rule out contraindications of tPA such as recent surgeries or severe bleeding. A complete eye examination should then be performed, preferably by an eyecare physician. If the patient's vision loss has been less than 4.5 h, IV tPA should be considered in collaboration with the stroke team. If the patient has had symptoms for over 4.5 h, the patient should be commenced on antiplatelet therapy and reviewed by the acute stroke unit for workup and secondary prevention. The American Heart Association has recommended that if there is no eye care specialist present on site and the treating physician is not comfortable in diagnosing, telemedicine/telestroke can be used to confirm the diagnosis.[ 43 ] Conclusion 
+ CRAO is an ocular emergency and is analogous to an ischemic stroke. The risk factors associated with nonarteritic CRAO are similar to that of acute ischemic syndrome or myocardial infarction. While various reports suggest different treatment modes for CRAO, there is little evidence supporting an optimal management plan. After taking a thorough history, ocular examination, and investigations, the principles of management of CRAO include acute management to restore blood flow, subacute management to prevent secondary complications, and secondary prevention. 
+ Financial support and sponsorship 
+ Nil. Conflicts of interest 
+ Prof. Celia Chen, an editorial board member at Taiwan Journal of Ophthalmology , had no role in the peer review process of or decision to publish this article. The other authors decalared no conflicts of interest in writing this paper. References 
+ 
+ 
+ 1. Lee KE, Tschoe C, Coffman SA, Kittel C, Brown PA, Vu Q, et al. Management of acute central retinal artery occlusion, a “retinal stroke”: An institutional series and literature review. J Stroke Cerebrovasc Dis. 2021;30:105531. doi: 10.1016/j.jstrokecerebrovasdis.2020.105531. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Rumelt S, Dorenboim Y, Rehany U. Aggressive systematic treatment for central retinal artery occlusion. Am J Ophthalmol. 1999;128:733–8. doi: 10.1016/s0002-9394(99)00359-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Schrag M, Youn T, Schindler J, Kirshner H, Greer D. Intravenous fibrinolytic therapy in central retinal artery occlusion: A patient-level meta-analysis. JAMA Neurol. 2015;72:1148–54. doi: 10.1001/jamaneurol.2015.1578. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Varma DD, Cugati S, Lee AW, Chen CS. A review of central retinal artery occlusion: Clinical presentation and management. Eye (Lond) 2013;27:688–97. doi: 10.1038/eye.2013.25. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Singh S, Dass R. The central artery of the retina. I. Origin and course. Br J Ophthalmol. 1960;44:193–212. doi: 10.1136/bjo.44.4.193. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Justice J, Jr., Lehmann RP. Cilioretinal arteries. A study based on review of stereo fundus photographs and fluorescein angiographic findings. Arch Ophthalmol. 1976;94:1355–8. doi: 10.1001/archopht.1976.03910040227015. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Cugati S, Varma DD, Chen CS, Lee AW. Treatment options for central retinal artery occlusion. Curr Treat Options Neurol. 2013;15:63–77. doi: 10.1007/s11940-012-0202-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Hayreh SS. Acute retinal arterial occlusive disorders. Prog Retin Eye Res. 2011;30:359–94. doi: 10.1016/j.preteyeres.2011.05.001. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Mangat HS. Retinal artery occlusion. Surv Ophthalmol. 1995;40:145–56. doi: 10.1016/s0039-6257(95)80004-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Mehta N, Marco RD, Goldhardt R, Modi Y. Central retinal artery occlusion: Acute management and treatment. Curr Ophthalmol Rep. 2017;5:149–59. doi: 10.1007/s40135-017-0135-2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Mac Grory B, Schrag M, Biousse V, Furie KL, Gerhard-Herman M, Lavin PJ, et al. Management of central retinal artery occlusion: A scientific statement from the American Heart Association. Stroke. 2021;52:e282–94. doi: 10.1161/STR.0000000000000366. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Hayreh SS. Central retinal artery occlusion. Indian J Ophthalmol. 2018;66:1684–94. doi: 10.4103/ijo.IJO_1446_18. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Moein HR, Novais EA, Rehun CB, Cole ED, Louzade RN, Witkin AJ, et al. Optical Coherence Tomography angiography to detect macular capillary ischemia in patients with inner retinal changes after resolved diabetic macular edema. Retina. 2018;38:2277–84. doi: 10.1097/IAE.0000000000001902. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Venkatesh R, Jayadev C, Sridharan A, Pereira A, Reddy NG, Cherry JP, et al. Internal limiting membrane detachment in acute central retinal artery occlusion: A novel prognostic sign seen on OCT. Int J Retina Vitreous. 2021;7:51. doi: 10.1186/s40942-021-00323-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Zhao PY, Johnson MW, McDonald HR, Sarraf D. Paracentral acute middle maculopathy and the ischemic cascade: Toward interventional management. Am J Ophthalmol. 2022;234:15–9. doi: 10.1016/j.ajo.2021.07.030. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Baumal CR. Optical coherence tomography angiography of retinal artery occlusion. Dev Ophthalmol. 2016;56:122–31. doi: 10.1159/000442803. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Hayreh SS, Zimmerman MB, Kimura A, Sanon A. Central retinal artery occlusion. Retinal survival time. Exp Eye Res. 2004;78:723–36. doi: 10.1016/s0014-4835(03)00214-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Landa E, Rehany U, Rumelt S. Visual functions following recovery from non-arteritic central retinal artery occlusion. Ophthalmic Surg Lasers Imaging. 2004;35:103–8. [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Schultheiss M, Härtig F, Spitzer MS, Feltgen N, Spitzer B, Hüsing J, et al. Intravenous thrombolysis in acute central retinal artery occlusion – A prospective interventional case series. PLoS One. 2018;13:e0198114. doi: 10.1371/journal.pone.0198114. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Chen CS, Lee AW, Campbell B, Lee T, Paine M, Fraser C, et al. Efficacy of intravenous tissue-type plasminogen activator in central retinal artery occlusion: Report from a randomized, controlled trial. Stroke. 2011;42:2229–34. doi: 10.1161/STROKEAHA.111.613653. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Feltgen N, Neubauer A, Jurklies B, Schmoor C, Schmidt D, Wanke J, et al. Multicenter study of the European Assessment Group for Lysis in the Eye (EAGLE) for the treatment of central retinal artery occlusion: Design issues and implications. EAGLE Study report no. 1: EAGLE Study report no. 1. Graefe's Arch Clin Exp Ophthalmol. 2006;244:950–6. doi: 10.1007/s00417-005-0140-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Mac Grory B, Nackenoff A, Poli S, Spitzer MS, Nedelmann M, Guillon B, et al. Intravenous fibrinolysis for central retinal artery occlusion: A cohort study and updated patient-level meta-analysis. Stroke. 2020;51:2018–25. doi: 10.1161/STROKEAHA.119.028743. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Hadanny A, Maliar A, Fishlev G, Bechor Y, Bergan J, Friedman M, et al. Reversibility of retinal ischemia due to central retinal artery occlusion by hyperbaric oxygen. Clin Ophthalmol. 2017;11:115–25. doi: 10.2147/OPTH.S121307. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Fraser SG, Adams W. Interventions for acute non-arteritic central retinal artery occlusion. Cochrane Database Syste Rev. 2009;2009:CD001989. doi: 10.1002/14651858.CD001989.pub2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Toda N, Nakanishi-Toda M. Nitric oxide: Ocular blood flow, glaucoma, and diabetic retinopathy. Prog Retin Eye Res. 2007;26:205–38. doi: 10.1016/j.preteyeres.2007.01.004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Arend O, Harris A, Martin BJ, Holin M, Wolf S. Retinal blood velocities during carbogen breathing using scanning laser ophthalmoscopy. Acta Ophthalmol (Copenh) 1994;72:332–6. doi: 10.1111/j.1755-3768.1994.tb02768.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Harino S, Grunwald JE, Petrig BJ, Riva CE. Rebreathing into a bag increases human retinal macular blood velocity. Br J Ophthalmol. 1995;79:380–3. doi: 10.1136/bjo.79.4.380. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Atebara NH, Brown GC, Cater J. Efficacy of anterior chamber paracentesis and Carbogen in treating acute nonarteritic central retinal artery occlusion. Ophthalmology. 1995;102:2029–34. doi: 10.1016/s0161-6420(95)30758-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Masters TC, Westgard BC, Hendriksen SM, Decanini A, Abel AS, Logue CJ, et al. Case series of hyperbaric oxygen therapy for central retinal artery occlusion. Retin Cases Brief Rep. 2021;15:783–8. doi: 10.1097/ICB.0000000000000895. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Rosignoli L, Chu ER, Carter JE, Johnson DA, Sohn JH, Bahadorani S. The effects of hyperbaric oxygen therapy in patients with central retinal artery occlusion: A retrospective study, systematic review, and meta-analysis. Korean J Ophthalmol. 2022;36:108–13. doi: 10.3341/kjo.2021.0130. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Augsburger JJ, Magargal LE. Visual prognosis following treatment of acute central retinal artery obstruction. Br J Ophthalmol. 1980;64:913–7. doi: 10.1136/bjo.64.12.913. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Beatty S, Au Eong KG. Acute occlusion of the retinal arteries: Current concepts and recent advances in diagnosis and management. J Accid Emerg Med. 2000;17:324–9. doi: 10.1136/emj.17.5.324. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Duxbury O, Bhogal P, Cloud G, Madigan J. Successful treatment of central retinal artery thromboembolism with ocular massage and intravenous acetazolamide. BMJ Case Rep. 2014;2014:bcr2014207943. doi: 10.1136/bcr-2014-207943. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Pandit JC, Tiamiyu F. High dose steroid bolus given for occlusion of central retinal artery. BMJ. 1992;304:506–7. doi: 10.1136/bmj.304.6825.506-a. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Rudkin AK, Lee AW, Aldrich E, Miller NR, Chen CS. Clinical characteristics and outcome of current standard management of central retinal artery occlusion. Clin Exp Ophthalmol. 2010;38:496–501. doi: 10.1111/j.1442-9071.2010.02280.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Fieß A, Cal Ö, Kehrein S, Halstenberg S, Frisch I, Steinhorst UH. Anterior chamber paracentesis after central retinal artery occlusion: A tenable therapy. BMC Ophthalmol. 2014;14:28. doi: 10.1186/1471-2415-14-28. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Hwang CK, Kolomeyer AM, Brucker AJ. Optical coherence tomography angiography of a central retinal artery occlusion before and after anterior chamber paracentesis. Ophthalmology. 2017;124:608. doi: 10.1016/j.ophtha.2016.10.030. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Sharma RA, Newman NJ, Biousse V. Conservative treatments for acute nonarteritic central retinal artery occlusion: Do they work. Taiwan J Ophthalmol. 2021;11:16–24. doi: 10.4103/tjo.tjo_61_20. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Man V, Hecht I, Talitman M, Hilely A, Midlij M, Burgansky-Eliash Z, et al. Treatment of retinal artery occlusion using transluminal Nd: YAG laser: A systematic review and meta-analysis. Graefes Arch Clin Exp Ophthalmol. 2017;255:1869–77. doi: 10.1007/s00417-017-3777-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Yuzurihara D, Iijima H. Visual outcome in central retinal and branch retinal artery occlusion. Jpn J Ophthalmol. 2004;48:490–2. doi: 10.1007/s10384-004-0102-y. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Tang WM, Topping TM. Vitreous surgery for central retinal artery occlusion. Arch Ophthalmol. 2000;118:1586–7. [ PubMed ] [ Google Scholar ] 
+ 
+ 42. García-Arumí J, Martinez-Castillo V, Boixadera A, Fonollosa A, Corcostegui B. Surgical embolus removal in retinal artery occlusion. Br J Ophthalmol. 2006;90:1252–5. doi: 10.1136/bjo.2006.097642. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Dumitrascu OM, Newman NJ, Biousse V. Thrombolysis for central retinal artery occlusion in 2020: Time is vision. J Neuroophthalmol. 2020;40:333–45. doi: 10.1097/WNO.0000000000001027. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Hattenbach LO, Kuhli-Hattenbach C, Scharrer I, Baatz H. Intravenous thrombolysis with low-dose recombinant tissue plasminogen activator in central retinal artery occlusion. Am J Ophthalmol. 2008;146:700–6. doi: 10.1016/j.ajo.2008.06.016. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Préterre C, Godeneche G, Vandamme X, Ronzière T, Lamy M, Breuilly C, et al. Management of acute central retinal artery occlusion: Intravenous thrombolysis is feasible and safe. Int J Stroke. 2017;12:720–3. doi: 10.1177/1747493016687578. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Kattah JC, Wang DZ, Reddy C. Intravenous recombinant tissue-type plasminogen activator thrombolysis in treatment of central retinal artery occlusion. Arch Ophthalmol. 2002;120:1234–6. [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Nedelmann M, Graef M, Weinand F, Wassill KH, Kaps M, Lorenz B, et al. Retrobulbar spot sign predicts thrombolytic treatment effects and etiology in central retinal artery occlusion. Stroke. 2015;46:2322–4. doi: 10.1161/STROKEAHA.115.009839. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Guillon B. Phase III Randomized, Blind, Double Dummy, Multicenter Study Assessing the Efficacy and Safety of IV THrombolysis (Alteplase) in Patients With acutE Central retInal Artery Occlusion (THEIA) Nantes University Hospital: U.S. National Library of Medicine. 2018. Available from: https://clinicaltrials.gov/ct2/show/NCT03197194 . [Last accessed on 2022 Feb 13] 
+ 
+ 
+ 49. Early Reperfusion Therapy with Intravenous Alteplase for Recovery of VISION in Acute Central Retinal Artery Occlusion (REVISION) University Hospital Tuebingen: U.S. National Library of Medicine. 2022. Available from: https://clinicaltrials.gov/ct2/show/NCT04965038 . [Last accessed on 2022 Feb 13] 
+ 
+ 
+ 50. Aamodt AH. TENecteplase in Central Retinal Artery Occlusion Study (TenCRAOS) (TenCRAOS) Oslo University Hospital: U.S. National Library of Medicine. 2020. Available from: https://clinicaltrials.gov/ct2/show/NCT04526951 . [Last accessed on 2022 Feb 13] 
+ 
+ 
+ 51. Aldrich EM, Lee AW, Chen CS, Gottesman RF, Bahouth MN, Gailloud P, et al. Local intraarterial fibrinolysis administered in aliquots for the treatment of central retinal artery occlusion: The Johns Hopkins Hospital experience. Stroke. 2008;39:1746–50. doi: 10.1161/STROKEAHA.107.505404. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Mercier J, Kastler A, Jean B, Souteyrand G, Chabert E, Claise B, et al. Interest of local intra-arterial fibrinolysis in acute central retinal artery occlusion: Clinical experience in 16 patients. J Neuroradiol. 2015;42:229–35. doi: 10.1016/j.neurad.2014.02.007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Pettersen JA, Hill MD, Demchuk AM, Morrish W, Hudon ME, Hu W, et al. Intra-arterial thrombolysis for retinal artery occlusion: The Calgary experience. Can J Neurol Sci. 2005;32:507–11. [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Schumacher M, Schmidt D, Jurklies B, Gall C, Wanke I, Schmoor C, et al. Central retinal artery occlusion: Local intra-arterial fibrinolysis versus conservative treatment, a multicenter randomized trial. Ophthalmology. 2010;117:1367–75.e1. doi: 10.1016/j.ophtha.2010.03.061. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Padolecchia R, Puglioli M, Ragone MC, Romani A, Collavoli PL. Superselective intraarterial fibrinolysis in central retinal artery occlusion. AJNR Am J Neuroradiol. 1999;20:565–7. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Arnold M, Koerner U, Remonda L, Nedeltchev K, Mattle HP, Schroth G, et al. Comparison of intra-arterial thrombolysis with conventional treatment in patients with acute central retinal artery occlusion. J Neurol Neurosurg Psychiatry. 2005;76:196–9. doi: 10.1136/jnnp.2004.037135. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Richard G, Lerche RC, Knospe V, Zeumer H. Treatment of retinal arterial occlusion with local fibrinolysis using recombinant tissue plasminogen activator. Ophthalmology. 1999;106:768–73. doi: 10.1016/S0161-6420(99)90165-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Sobol EK, Sakai Y, Wheelwright D, Wilkins CS, Norchi A, Fara MG, et al. Intra-arterial tissue plasminogen activator for central retinal artery occlusion. Clin Ophthalmol. 2021;15:601–8. doi: 10.2147/OPTH.S272126. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Page PS, Khattar NK, White AC, Cambon AC, Brock GN, Rai SN, et al. Intra-arterial thrombolysis for acute central retinal artery occlusion: A systematic review and meta-analysis. Front Neurol. 2018;9:76. doi: 10.3389/fneur.2018.00076. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Hayreh SS. Comment re: Multicenter study of the European Assessment Group for Lysis in the Eye (EAGLE) for the treatment of central retinal artery occlusion: Design issues and implications. Graefes Arch Clin Exp Ophthalmol. 2007;245:464–6. doi: 10.1007/s00417-006-0473-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Takata Y, Nitta Y, Miyakoshi A, Hayashi A. Retinal endovascular surgery with tissue plasminogen activator injection for central retinal artery occlusion. Case Rep Ophthalmol. 2018;9:327–32. doi: 10.1159/000489696. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Rudkin AK, Lee AW, Chen CS. Ocular neovascularization following central retinal artery occlusion: Prevalence and timing of onset. Eur J Ophthalmol. 2010;20:1042–6. doi: 10.1177/112067211002000603. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Jung YH, Ahn SJ, Hong JH, Park KH, Han MK, Jung C, et al. Incidence and clinical features of neovascularization of the iris following acute central retinal artery occlusion. Korean J Ophthalmol. 2016;30:352–9. doi: 10.3341/kjo.2016.30.5.352. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Hayreh SS, Podhajsky PA, Zimmerman MB. Retinal artery occlusion: Associated systemic and ophthalmic abnormalities. Ophthalmology. 2009;116:1928–36. doi: 10.1016/j.ophtha.2009.03.006. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Rudkin AK, Lee AW, Chen CS. Vascular risk factors for central retinal artery occlusion. Eye (Lond) 2010;24:678–81. doi: 10.1038/eye.2009.142. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Vestergaard N, Torp-Pedersen C, Vorum H, Aasbjerg K. Risk of stroke, myocardial infarction, and death among patients with retinal artery occlusion and the effect of antithrombotic treatment. Transl Vis Sci Technol. 2021;10:2. doi: 10.1167/tvst.10.11.2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

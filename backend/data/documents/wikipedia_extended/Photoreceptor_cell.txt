@@ -1,0 +1,105 @@
+Source: Wikipedia
+Title: Photoreceptor cell
+URL: https://en.wikipedia.org/wiki/Photoreceptor_cell
+============================================================
+
+A photoreceptor cell is a specialized type of neuroepithelial cell  found in the retina that is capable of visual phototransduction. The great biological importance of photoreceptors is that they convert light (visible electromagnetic radiation) into signals that can stimulate biological processes. To be more specific, photoreceptor proteins in the cell absorb photons, triggering a change in the cell's membrane potential.
+There are currently three known types of photoreceptor cells in mammalian eyes: rods, cones, and intrinsically photosensitive retinal ganglion cells. The two classic photoreceptor cells are rods and cones, each contributing information used by the visual system to form an image of the environment, sight. Rods primarily mediate scotopic vision (dim conditions) whereas cones primarily mediate photopic vision (bright conditions), but the processes in each that supports phototransduction is similar. The intrinsically photosensitive retinal ganglion cells were discovered during the 1990s. These cells are thought not to contribute to sight directly, but have a role in the entrainment of the circadian rhythm and the pupillary reflex.
+
+
+== Photosensitivity ==
+
+Each photoreceptor absorbs light according to its spectral sensitivity (absorptance), which is determined by the photoreceptor proteins expressed in that cell. Humans have three classes of cones (L, M, S) that each differ in spectral sensitivity and 'prefer' photons of different wavelengths (see graph). For example, the peak wavelength of the S-cone's spectral sensitivity is approximately 420 nm (nanometers, a measure of wavelength), so it is more likely to absorb a photon at 420 nm than at any other wavelength. Light of a longer wavelength can also produce the same response from an S-cone, but it would have to be brighter to do so.
+In accordance with the principle of univariance, a photoreceptor's output signal is proportional only to the number of photons absorbed. The photoreceptors can not measure the wavelength of light that it absorbs and therefore does not detect color on its own. Rather, it is the ratios of responses of the three types of cone cells that can estimate wavelength, and therefore enable color vision.
+
+
+== Histology ==
+
+Rod and cone photoreceptors are found on the outermost layer of the retina; they both have the same basic structure.  Closest to the visual field (and farthest from the brain) is the axon terminal, which releases a neurotransmitter called glutamate to bipolar cells. Farther back is the cell body, which contains the cell's organelles. Farther back still is the inner segment, a specialized part of the cell full of mitochondria. The chief function of the inner segment is to provide ATP (energy) for the sodium-potassium pump. Finally, closest to the brain (and farthest from the field of view) is the outer segment, the part of the photoreceptor that absorbs light. Outer segments are actually modified cilia  that contain disks filled with opsin, the molecule that absorbs photons, as well as voltage-gated sodium channels.
+The membranous photoreceptor protein opsin contains a pigment molecule called retinal. In rod cells, these together are called rhodopsin. In cone cells, there are different types of opsins that combine with retinal to form pigments called photopsins. Three different classes of photopsins in the cones react to different ranges of light frequency, a selectivity that allows the visual system to transduce color. The function of the photoreceptor cell is to convert the light information of the photon into a form of information communicable to the nervous system and readily usable to the organism: This conversion is called signal transduction.
+The opsin found in the intrinsically photosensitive ganglion cells of the retina is called melanopsin. These cells are involved in various reflexive responses of the brain and body to the presence of (day)light, such as the regulation of circadian rhythms, pupillary reflex and other non-visual responses to light. Melanopsin functionally resembles invertebrate opsins.
+
+
+== Retinal mosaic ==
+
+Most vertebrate photoreceptors are located in the retina. The distribution of rods and cones (and classes thereof) in the retina is called the retinal mosaic. Each human retina has approximately 6 million cones and 120 million rods.  At the "center" of the retina (the point directly behind the lens) lies the fovea (or fovea centralis), which contains only cone cells; and is the region capable of producing the highest visual acuity or highest resolution.  Across the rest of the retina, rods and cones are intermingled.  No photoreceptors are found at the blind spot, the area where ganglion cell fibers are collected into the optic nerve and leave the eye. The distribution of cone classes (L, M, S) are also nonhomogenous, with no S-cones in the fovea, and the ratio of L-cones to M-cones differing between individuals.
+The number and ratio of rods to cones varies among species, dependent on whether an animal is primarily diurnal or nocturnal. Certain owls, such as the nocturnal tawny owl, have a tremendous number of rods in their retinae. Other vertebrates will also have  a different number of cone classes, ranging from monochromats to pentachromats.
+
+
+== Signaling ==
+
+The path of a visual signal is described by the phototransduction cascade, the mechanism by which the energy of a photon signals a mechanism in the cell that leads to its electrical polarization. This polarization ultimately leads to either the transmittance or inhibition of a neural signal that will be fed to the brain via the optic nerve. The steps that apply to the phototransduction pathway from vertebrate rod/cone photoreceptors are:
+
+The Vertebrate visual opsin in the disc membrane of the outer segment absorbs a photon, changing the configuration of a retinal Schiff base cofactor inside the protein from the cis-form to the trans-form, causing the retinal to change shape.
+This results in a series of unstable intermediates, the last of which binds stronger to a G protein in the membrane, called transducin, and activates it. This is the first amplification step – each photoactivated opsin triggers activation of about 100 transducins.
+Each transducin then activates the enzyme cGMP-specific phosphodiesterase (PDE).
+PDE then catalyzes the hydrolysis of cGMP to 5' GMP. This is the second amplification step, where a single PDE hydrolyses about 1000 cGMP molecules.
+The net concentration of intracellular cGMP is reduced (due to its conversion to 5' GMP via PDE), resulting in the closure of cyclic nucleotide-gated Na+ ion channels located in the photoreceptor outer segment membrane.
+As a result, sodium ions can no longer enter the cell, and the photoreceptor outer segment membrane becomes hyperpolarized, due to the charge inside the membrane becoming more negative.
+This change in the cell's membrane potential causes voltage-gated calcium channels to close. This leads to a decrease in the influx of calcium ions into the cell and thus the intracellular calcium ion concentration falls.
+A decrease in the intracellular calcium concentration means that less glutamate is released via calcium-induced exocytosis to the bipolar cell (see below). (The decreased calcium level slows the release of the neurotransmitter glutamate, which excites the postsynaptic bipolar cells and horizontal cells.)
+ATP provided by the inner segment powers the sodium-potassium pump. This pump is necessary to reset the initial state of the outer segment by taking the sodium ions that are entering the cell and pumping them back out.
+
+
+=== Hyperpolarization ===
+Unlike most sensory receptor cells, photoreceptors actually become hyperpolarized when stimulated; and conversely are depolarized when not stimulated. This means that glutamate is released continuously when the cell is unstimulated, and stimulus causes release to stop. In the dark, cells have a relatively high concentration of cyclic guanosine 3'-5' monophosphate (cGMP), which opens cGMP-gated ion channels. These channels are nonspecific, allowing movement of both sodium and calcium ions when open. The movement of these positively charged ions into the cell (driven by their respective electrochemical gradient) depolarizes the membrane, and leads to the release of the neurotransmitter glutamate.
+Unstimulated (in the dark), cyclic-nucleotide gated channels in the outer segment are open because cyclic GMP (cGMP) is bound to them. Hence, positively charged ions (namely sodium ions) enter the photoreceptor, depolarizing it to about −40 mV (resting potential in other nerve cells is usually −65 mV). This depolarization current is often known as dark current.
+
+
+=== Bipolar cells ===
+The photoreceptors (rods and cones) transmit to the bipolar cells, which transmit then to the retinal ganglion cells. Retinal ganglion cell axons collectively form the optic nerve, via which they project to the brain.
+The rod and cone photoreceptors signal their absorption of photons via a decrease in the release of the neurotransmitter glutamate to bipolar cells at its axon terminal. Since the photoreceptor is depolarized in the dark, a high amount of glutamate is being released to bipolar cells in the dark. Absorption of a photon will hyperpolarize the photoreceptor and therefore result in the release of less glutamate at the presynaptic terminal to the bipolar cell.
+Every rod or cone photoreceptor releases the same neurotransmitter, glutamate. However, the effect of glutamate differs in the bipolar cells, depending upon the type of receptor imbedded in that cell's membrane. When glutamate binds to an ionotropic receptor, the bipolar cell will depolarize (and therefore will hyperpolarize with light as less glutamate is released). On the other hand, binding of glutamate to a metabotropic receptor results in a hyperpolarization, so this bipolar cell will depolarize to light as less glutamate is released.
+In essence, this property allows for one population of bipolar cells that gets excited by light and another population that gets inhibited by it, even though all photoreceptors show the same response to light. This complexity becomes both important and necessary for detecting color, contrast, edges, etc.
+
+
+=== Advantages ===
+Phototransduction in rods and cones is somewhat unusual in that the stimulus (in this case, light) reduces the cell's response or firing rate, different from most other sensory systems in which a stimulus increases the cell's response or firing rate. This difference has important functional consequences:
+
+the classic (rod or cone) photoreceptor is depolarized in the dark, which means many sodium ions are flowing into the cell. Thus, the random opening or closing of sodium channels will not affect the membrane potential of the cell; only the closing of a large number of channels, through absorption of a photon, will affect it and signal that light is in the visual field. This system may have less noise relative to sensory transduction schema that increase rate of neural firing in response to stimulus, like touch and olfaction.
+there is a lot of amplification in two stages of classic phototransduction: one pigment will activate many molecules of transducin, and one PDE will cleave many cGMPs. This amplification means that even the absorption of one photon will affect membrane potential and signal to the brain that light is in the visual field. This is the main feature that differentiates rod photoreceptors from cone photoreceptors. Rods are extremely sensitive and have the capacity of registering a single photon of light, unlike cones. On the other hand, cones are known to have very fast kinetics in terms of rate of amplification of phototransduction, unlike rods.
+
+
+== Difference between rods and cones ==
+
+Comparison of human rod and cone cells, from Eric Kandel et al. in Principles of Neural Science.
+
+
+== Development ==
+The key events mediating rod versus S cone versus M cone differentiation are induced by several transcription factors, including RORbeta, OTX2, NRL, CRX, NR2E3 and TRbeta2.  The S cone fate represents the default photoreceptor program; however, differential transcriptional activity can bring about rod or M cone generation.  L cones are present in primates, however there is not much known for their developmental program due to use of rodents in research.  There are five steps to developing photoreceptors: proliferation of multi-potent retinal progenitor cells (RPCs); restriction of competence of RPCs; cell fate specification; photoreceptor gene expression;  and lastly axonal growth, synapse formation and outer segment growth.
+Early Notch signaling maintains progenitor cycling.  Photoreceptor precursors come about through inhibition of Notch signaling and increased activity of various factors including achaete-scute homologue 1.  OTX2 activity commits cells to the photoreceptor fate.  CRX further defines the photoreceptor specific panel of genes being expressed.  NRL expression leads to the rod fate.  NR2E3 further restricts cells to the rod fate by repressing cone genes.  RORbeta is needed for both rod and cone development.   TRbeta2 mediates the M cone fate.  If any of the previously mentioned factors' functions are ablated, the default photoreceptor is a S cone.  These events take place at different time periods for different species and include a complex pattern of activities that bring about a spectrum of phenotypes.  If these regulatory networks are disrupted, retinitis pigmentosa, macular degeneration or other visual deficits may result.
+
+
+== Ganglion cell photoreceptors ==
+
+Intrinsically photosensitive retinal ganglion cells (ipRGCs) are a subset (≈1–3%) of retinal ganglion cells, unlike other retinal ganglion cells, are intrinsically photosensitive due to the presence of melanopsin, a light-sensitive protein. Therefore they constitute a third class of photoreceptors, in addition to rod and cone cells.
+In humans the ipRGCs contribute to non-image-forming functions like circadian rhythms, behavior and pupillary light reflex. Peak spectral sensitivity of the receptor is between 460 and 482 nm. However, they may also contribute to a rudimentary visual pathway enabling conscious sight and brightness detection. Classic photoreceptors (rods and cones) also feed into the novel visual system, which may contribute to color constancy. ipRGCs could be instrumental in understanding many diseases including major causes of blindness worldwide like glaucoma, a disease that affects ganglion cells, and the study of the receptor offered potential as a new avenue to explore in trying to find treatments for blindness.
+ipRGCs were only definitively detected ipRGCs in humans during landmark experiments in 2007 on rodless, coneless humans. As had been found in other mammals, the identity of the non-rod non-cone photoreceptor in humans was found to be a ganglion cell in the inner retina. The researchers had tracked down patients with rare diseases wiping out classic rod and cone photoreceptor function but preserving ganglion cell function. Despite having no rods or cones the patients continued to exhibit circadian photoentrainment, circadian behavioural patterns, melanopsin suppression, and pupil reactions, with peak spectral sensitivities to environmental and experimental light matching that for the melanopsin photopigment. Their brains could also associate vision with light of this frequency.
+
+
+== Non-human photoreceptors ==
+Rod and cone photoreceptors are common to almost all vertebrates. The pineal and parapineal glands are photoreceptive in non-mammalian vertebrates, but not in mammals. Birds have photoactive cerebrospinal fluid (CSF)-contacting neurons within the paraventricular organ that respond to light in the absence of input from the eyes or neurotransmitters. Invertebrate photoreceptors in organisms such as insects and molluscs are different in both their morphological organization and their underlying biochemical pathways. This article describes human photoreceptors.
+
+
+== See also ==
+Visual phototransduction
+G protein-coupled receptor
+Sensory system
+Photosensitive
+Photosensitive ganglion cell
+Horizontal cell
+Bipolar cell
+Amacrine cell
+
+
+== References ==
+
+
+== Bibliography ==
+Campbell, Neil A. & Reece, Jane B. (2002). Biology. San Francisco: Benjamin Cummings. pp. 1064–1067. ISBN 0-8053-6624-5.
+Freeman, Scott (2002). Biological Science (2nd ed.). Englewood Cliffs, N.J: Prentice Hall. pp. 835–837. ISBN 0-13-140941-7.
+
+
+== External links ==
+ Media related to Photoreceptor cells at Wikimedia Commons
+NIF Search – Photoreceptor Cell via the Neuroscience Information Framework

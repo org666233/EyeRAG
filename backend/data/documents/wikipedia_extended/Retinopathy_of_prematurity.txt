@@ -1,0 +1,135 @@
+Source: Wikipedia
+Title: Retinopathy of prematurity
+URL: https://en.wikipedia.org/wiki/Retinopathy_of_prematurity
+============================================================
+
+Retinopathy of prematurity (ROP) is a disease of the eye affecting prematurely born babies, where the blood vessels of the retina do not develop normally. It primarily affects premature babies who receive neonatal intensive care, especially when supplemental oxygen therapy is used to support breathing. The manifestations of ROP span a spectrum: incomplete development of retinal blood vessels; development of pathological (harmful) retinal blood vessels (which leak and bleed); retinal fibrosis (scarring); and finally retinal detachment. The outcomes of ROP ranges from spontaneous resolution to blindness.
+
+
+== Epidemiology ==
+ROP prevalence is evolving and varies, from 5 to 8% in developed countries with adequate neonatological facilities, to up to 30% in middle-income developing countries. The increasing prevalence is thought to be due to increased survival of premature infants.
+There is increasing evidence that ROP and blindness due to ROP are now public health problems in the middle income countries of Latin America, Eastern Europe and the more advanced economies in South East Asia and the Middle east region. In these countries ROP is often the most common cause of blindness in children. ROP is highly likely to become an increasing problem in India, China and other countries in Asia as these countries expand the provision of services for premature infants.
+There is also evidence that the population of premature infants at risk of severe ROP varies depending on the level of neonatal intensive care being provided. In countries with high development indices and very low neonatal mortality rates (e.g. North America, Western Europe), severe ROP is generally limited to extremely preterm infants i.e. those weighing less than 1 kg (2.2 lbs) at birth. At the other end of the development spectrum, countries with very low development indices and very high neonatal mortality rates (e.g. much of subSaharan Africa) ROP is rare as most premature babies do not have access to neonatal intensive care and so do not survive. Countries with moderate development indices are improving access to neonatal intensive care, and in these settings bigger, more mature babies are also at risk of severe ROP as neonatal care may be suboptimal. These findings have two main implications: firstly, much can be done in countries with moderate development indices to improve neonatal care, to reduce the risk of severe ROP in bigger babies and increase survival of extremely preterm infants, and secondly, in these settings bigger more mature babies need to be included in ROP programs and examined regularly so as to detect those babies developing ROP requiring treatment.
+In 2012, the World Health Organization published data on rates of preterm birth and the number of premature babies born in different regions of the world. This report contained three main findings:
+
+Premature birth has many different causes, and prevention is challenging,
+Prematurity is the most common cause of neonatal death in many countries, totaling as many as 1 million infants annually due to complications of preterm birth, and
+the number of preterm births is currently estimated to be 15 million, and increasing.
+
+
+== Pathophysiology ==
+
+Retinal vascular development begins prior to 16 weeks gestation, growing from the optic nerve toward the ora serrata, and completing by term. This process is influenced by systemic oxygen levels and is regulated in part by vascular endothelial growth factor (VEGF). Normal angiogenesis occurs as part of a carefully regulated sequential physiological hypoxia, which increases metabolic demand at the leading edge of developing vessels. Astrocytes at this hypoxic leading edge secrete VEGF to promote vascularization and ensure normal retinal development.
+ROP is hypothesized to occur in two phases. First, premature infants with their incompletely vascularized retinas are exposed to elevated oxygen levels compared to the intrauterine environment; this increased oxygen tension leads to vasospasm and inhibition of angiogenesis. Second, once oxygen is reduced, the ischemic retina secretes excess VEGF, leading to abnormal, disordered angiogenesis and ultimately the pathological neovascularization that is characteristic of ROP. These abnormal blood vessels may grow up from the plane of the retina and bleed inside the eye. When the blood and abnormal vessels are reabsorbed, it may give rise to multiple band-like membranes which can pull up the retina, causing detachment of the retina and eventually blindness.
+In addition, poor early weight gain and low birth weight are major contributors. This leads to low IGF-1, which affects the VEGF pathway in an oxygen-independent manner. IGF-1 and VEGF work synergistically in vascular signaling.
+Genetic factors may also influence ROP severity. The disease has features similar to Familial Exudative Vitreoretinopathy (FEVR), another genetic condition. Mutations in Norrin have been found in up to 2% of patients with ROP.
+
+
+== Diagnosis ==
+The classification of ROP has been defined by the International Classification of Retinopathy of Prematurity (ICROP). There are four components in describing a child with ROP: zone, stage, plus, and clock hours. Zone identifies location of disease, stage and plus describe severity of disease, and clock hours involved describes the circumferential extent of disease.
+The circumferential extent of the disease is described in segments as if the top of the eye were 12 on the face of an analog clock, e.g. stage 1 from 4:00 to 7:00.
+
+
+=== Zones ===
+
+The zones are centered on the optic nerve. The lower the zone number the more posterior the disease, and so the higher the risk of ROP.
+Zone I is the circle of the radius that is twice the distance from the disc center to the macula center. It is approximated by using a 28 diopter lens with the nasal edge of the optic disc at one edge of the lens field and the temporal border of zone I at the other edge.
+Zone II extends from the edge of zone I to the nasal ora serrata. ICROP was updated to recognize that ROP is a spectrum disease, and added Zone II Posterior to give increased significance to more posterior vasculature. It is an additional 2 disc-diameters beyond the border of zone I.
+Zone III is the residual crescent of retina anterior to zone II.
+Other updates in ICROP include consideration for what is termed a "notch." A notch is a segment of avascular retina extending more posteriorly. The overall location of ROP is classified by the posterior-most extent of the notch.
+
+
+=== Stages ===
+ROP disease severity is staged from zero to five. Stage 0 refers to the presence of immature, avascular retina without ROP. Early on, when babies are still on high oxygen, the vessels look attenuated due to the vasoconstrictive effects of oxygen.
+In stage 1, a line becomes apparent which separates vascular from avascular retina. At stage 2, an elevated ridge is formed where the line was. Stage 3 is characterized by extraretinal fibrovascular proliferation extending from the ridge to the vitreous.
+Stage 4 is defined as partial retinal detachment and is further subcategorized into stage 4A and stage 4B. Stage 4A disease is extrafoveal, and stage 4B involves the macula. Stage 5 is total retinal detachment.
+
+
+=== Plus disease and Pre-plus disease ===
+Plus disease is defined as the presence of venular dilation and arterial tortuosity. This is the most critical indicator of severity, as its presence virtually always necessitates treatment. Other features under Plus disease include vascular engorgement of the iris and vitreous haze; however, these are no longer necessary for Plus disease diagnosis.
+Pathophysiologically, one reason why Plus disease is a marker of severity is that it is thought to be a sign of high vascular flow similar to AV shunting at the neovascular ridge in the absence of an intervening capillary bed. Another reason is that it is a sign of pathologically high VEGF levels because VEGF is a vasodilator. Increased Plus is overall a sign of higher VEGF and higher flow, resulting in: more established neovascularization, a lower chance of self-regression, and a greater risk of progression to retinal detachment.
+Plus disease used to be classified based on this narrow reference photo. Initially, 4 quadrants of plus was needed to meet the definition in the CRYO-ROP trial. Then, in 2003, it was changed to 2 quadrants. More recently, ICROP 2021 recommends basing it on all vasculature in zone I.
+Recognizing that ROP is a spectrum disease, ICROP added Pre-plus as a severity classification preceding Plus disease.
+
+
+=== Aggressive ROP ===
+Aggressive ROP (A-ROP), formerly aggressive posterior ROP (AP-ROP), is a severe form of ROP that can be more difficult to diagnose and treat. The hallmark of A-ROP is rapid development of pathologic neovascularization and severe Plus without progression being observed through the typical stages of ROP. It has deceptively featureless networks of flat neovascularization.
+
+
+=== Differential diagnosis ===
+ROP is a prototypical pediatric retinal disease by which other pediatric retinal diseases can be framed. Familial exudative vitreoretinopathy (FEVR) is another retinal disease in similarly characterized by incomplete vascularization of the peripheral retina and vascular pathology at the interface between the vitreous and retina. Diseases on the differential diagnosis include:
+
+FEVR
+Persistent fetal vasculature that can cause a traction retinal detachment difficult to differentiate but typically unilateral.
+Coats disease genetic disorder that may lead to retinal detachment, often affecting one eye of males.
+Norrie disease
+Incontinentia pigmenti
+Cutis marmorata telangiectatica congenita
+
+
+== Screening ==
+Almost all infants with ROP have a gestational age of 31 weeks or less (regardless of birth weight) or a birth weight of 1250 g (2.76 lbs) or less; these indications are generally used to decide whether a baby should be screened for ROP, but some centres, especially in developing countries, extend birth weight screening criteria to 1500 g (3.3 lbs).
+Any premature baby with severe illness in perinatal period (respiratory distress syndrome, sepsis, blood transfusion, intraventricular haemorrhage, apnoeic episodes, etc.) may also be offered ROP screening.
+
+
+=== Timing ===
+Retinal examination with scleral depression is generally recommended for patients born before 30–32 weeks gestation, or 4–6 weeks of life, whichever is later. It is then repeated every 1–3 weeks until vascularization is complete (or until disease progression mandates treatment).
+The 2016 screening guidelines offer a schedule which detects "prethreshold ROP" (defined by ETROP study) with 99% confidence, usually before any required treatment. The following table is a simplified overview of screening guidelines without accounting for clinical judgement factors that might lead to more frequent screening (e.g., tempo [rate at which disease is progressing], presence of pre-plus, number of clock-hours involved). Plus disease and A-ROP are excluded because their presence is an indication for treatment.
+
+Termination of acute screening occurs when one of the following five criteria are met:
+
+Full retinal vascularization is achieved
+Vasculature reaches Zone 3 without any prior ROP
+At post-menstrual age (PMA) 45 weeks without prior treatment nor progression
+At PMA 65 weeks after receiving injection and without reactivation
+After confirmed regression on multiple exams in those who have not received an injection
+
+
+=== Procedure ===
+Following pupillary dilation using eye drops, the retina is examined using a special lighted instrument (an indirect ophthalmoscope). The peripheral portions of the retina are sometimes pushed into view using scleral depression. Examination of the retina of a premature infant is performed to determine how far the retinal blood vessels have grown (the zone), and whether or not the vessels are growing flat along the wall of the eye (the stage). This eye examination has been shown to be painful and the use of adequate analgesia during the procedure is advised. Once the vessels have grown into zone III (see below) it is usually safe to discharge the child from further screening for ROP. The stage of ROP refers to the character of the leading edge of growing retinal blood vessels (at the vascular-avascular border).
+
+
+=== Monitoring ===
+In order to allow timely intervention, a system of monitoring is undertaken for infants at risk of developing ROP. These monitoring protocols differ geographically because the definition of high-risk is not uniform or perfectly defined. In the USA, the consensus statement of experts is informed by data derived by clinical trials and published in Pediatrics 2006. They included infants with birthweights under 1500 grams or under 30 weeks gestation in most cases. The first examination should take place within the first four weeks of birth, and regular, weekly examination is required until it is clear that the eyes are not going to develop disease needing treatment, or one or both eyes develop disease requiring treatment. Treatment should be administered within a 48 hours, as the condition can progress rapidly.
+
+
+== Management ==
+
+
+=== Treatment ===
+
+Peripheral retinal ablation is the mainstay of ROP treatment. The destruction of the avascular retina is performed with a solid state laser photocoagulation device, as these are easily portable to the operating room or neonatal ICU. Cryotherapy, an earlier technique in which regional retinal destruction was done using a probe to freeze the desired areas, has also been evaluated in multi-center clinical trials as an effective modality for prevention and treatment of ROP. However, when laser treatment is available, cryotherapy is no longer preferred for routine avascular retinal ablation in premature babies, due to the side effects of inflammation and lid swelling. Furthermore, recent trials have shown that treatment at an earlier stage of the disease gives better results.
+Scleral buckling and/or vitrectomy surgery may be considered for severe ROP (stages 4 and 5) for eyes that progress to retinal detachment. Few centers in the world specialize in this surgery, because of its attendant surgical risks and generally poor outcomes.
+Intravitreal injection of bevacizumab (Avastin) has been reported as a supportive measure in aggressive posterior retinopathy of prematurity. In a 2011 clinical trial comparing bevacizumab with conventional laser therapy, intravitreal bevacizumab monotherapy showed a significant benefit for zone I but not zone II disease when used to treat infants with stage 3+ retinopathy of prematurity. Potential benefits of intravitreal Avastin injection over laser therapy include: reduction in level of anesthesia required, preservation of viable peripheral retina, and, possibly, reduced incidence of subsequent high refractive error. However, the safety of this new treatment has not yet been established in terms of ocular complications as well as systemic complications. The latter are theoretically possible, as the active ingredient of bevacizumab not only blocks the development of abnormal blood vessels in the eye but may also prevent the normal development ofother tissues such as the lung and kidney.  A 2018 Cochrane review also examined the effectiveness of anti-vascular endothelial growth factor drugs and their use for ROP.
+Oral propranolol is being evaluated for counteracting the progression of ROP, but safety is a concern. A prospective randomized trial in which pre-term newborns were randomized to receiving oral propranolol with standard treatment or standard treatment alone found that oral propranolol showed a 48% relative risk reduction for progression to stage 3, 58% reduction for progression to stage 3 plus, and 100% reduction for progression to stage 4. Furthermore, there was a 52% relative risk reduction for the need for laser treatment or intravitreal bevacizumab. However 19% of the newborns experienced serious adverse effects including hypotension and bradycardia. A study in a mouse model of human ROP has shown that beta-blockade is protective against retinal angiogenesis and ameliorate blood-retinal barrier dysfunction.
+
+
+=== Follow-up ===
+Once diagnosed with ROP lifelong follow-up (yearly) is performed in some centers. In others, only children treated for ROP are followed yearly.
+Follow-up after laser or anti-VEGF treatment is individualized.
+Follow-up of premature children (with or without ROP) is varying among centers and countries, mirroring the diverse states of health care system in different countries.
+
+
+== Prognosis ==
+Stages 1 and 2 do not lead to blindness. However, they can progress to the more severe stages. Threshold disease is defined as disease that has a 50% likelihood of progressing to retinal detachment. Threshold disease is considered to be present when stage 3 ROP is present in either zone I or zone II, with at least five continuous or eight total clock hours of disease, and the presence of plus disease. Progression to stage 4 (partial retinal detachment), or to stage 5 (total retinal detachment), will result in substantial or total loss of vision for the infant.
+
+Refractive errors including myopia (most common)
+Strabismus
+Amblyopia
+Retinal detachment, traction of the retina and blindness
+Glaucoma
+Impairments in visual acuity, contrast sensitivity, visual field, convergence, and accommodation
+
+
+== History ==
+This disease was first described in a premature baby in 1942 as reported by Theodore L. Terry. Between 1941 and 1953, over 12,000 babies worldwide were affected by it. However, Kate Isabel Campbell (1889–1986), a specialist in children's diseases, was responsible in 1951 for proving the link between retrolental fibroplasia (a blindness in premature babies) and oxygen levels in humidicribs.
+Notable people diagnosed with the disease include soul musician Stevie Wonder, actor Tom Sullivan, pianist Derek Paravicini, jazz singer Diane Schuur, and singer Gilbert Montagné. The first case of the epidemic was seen on St. Valentine's Day in 1941 when a premature baby in Boston was diagnosed. Cases were then seen all over the world and the cause was, at that point, unknown. By 1951 a clear link between incidence and affluence became clear: many cases were seen in developed countries with organized and well-funded health care. Two British scientists suggested that it was oxygen toxicity that caused the disease. Babies born prematurely in such affluent areas were treated in incubators which had artificially high levels of oxygen. Studies on rats made this cause seem more likely, but the link was eventually confirmed by a controversial study undertaken by American pediatricians. The study involved two groups of babies. Some were given the usual oxygen concentrations in their incubators, while the other group had "curtailed" oxygen levels. The latter group was shown to have a lower incidence of the disease. As a result, oxygen levels in incubators were lowered and consequently, the epidemic was halted.
+
+
+== References ==
+
+
+== External links ==
+Retinopathy of Prematurity Resource Guide from the National Eye Institute (NEI).
+Merck Manual entry on ROP
+World ROP Congress Archives of the International Conferences on ROP.

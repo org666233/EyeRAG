@@ -1,0 +1,97 @@
+Source: Wikipedia
+Title: Photorefractive keratectomy
+URL: https://en.wikipedia.org/wiki/Photorefractive_keratectomy
+============================================================
+
+Photorefractive keratectomy (PRK) and laser-assisted sub-epithelial keratectomy (or laser epithelial keratomileusis) (LASEK) are laser eye surgery procedures intended to correct a person's vision, reducing dependency on glasses or contact lenses. LASEK and PRK permanently change the shape of the anterior central cornea using an excimer laser to ablate (remove by vaporization) a small amount of tissue from the corneal stroma at the front of the eye, just under the corneal epithelium. The outer layer of the cornea is removed prior to the ablation.
+A computer system tracks the patient's eye position 60 to 4,000 times per second, depending on the specifications of the laser that is used. The computer system redirects laser pulses for precise laser placement. Most modern lasers will automatically center on the patient's visual axis and will pause if the eye moves out of range and then resume ablating at that point after the patient's eye is re-centered.
+The outer layer of the cornea, or epithelium, is a soft, rapidly regrowing layer in contact with the tear film that can completely replace itself from limbal stem cells within a few days with no loss of clarity. The deeper layers of the cornea, as opposed to the outer epithelium, are laid down early in life and have very limited regenerative capacity. The deeper layers, if reshaped by a laser or cut by a microtome, will remain that way permanently with only limited healing or remodelling.
+With PRK, the corneal epithelium is removed and discarded, allowing the cells to regenerate after the surgery. The procedure is distinct from LASIK (laser-assisted in-situ keratomileusis), a form of laser eye surgery where a permanent flap is created in the deeper layers of the cornea. However, PRK takes longer to heal and can, initially, cause more discomfort.
+
+
+== LASEK ==
+
+LASEK and PRK are two different procedures. While both procedures interact with the epithelium atop the cornea, the PRK procedure removes this entirely, while LASEK brushes the material away for the procedure, before being placed back for healing after laser surgery. The procedure can be used to treat astigmatism, nearsightedness, and farsightedness. During the procedure, the epithelium is displaced using a diluted alcohol solution.
+PRK has advantages over LASIK in that it avoids added complications associated with the flap created during surgery. The procedure may also reduce the chances of dry eye symptoms after surgery. Due to the PRK procedure not requiring a surgical flap, athletes or individuals concerned with trauma introduced by the flap may see benefits to LASEK. Patients that wear contact lenses will typically need to stop wearing these for a specified time before the procedure.
+PRK disadvantages include a longer recovery time for vision in contrast to LASIK which may be between five days and two weeks for blurred vision to properly clear. Another disadvantage is that patient may be required to apply steroid eye drops for a few weeks longer than that of a LASIK procedure.
+When LASEK is compared to LASIK, LASIK can have better outcomes with corneal haze while LASEK has a lower rate of flap complications than LASIK.
+
+
+== Eligibility ==
+There are a number of basic criteria which a person should satisfy:
+
+Normal ocular health
+Age 18 years or older
+Stable refraction error (no noticeable change in the last year) correctable to 20/40 or better
+Between −1.00 to −12.00 diopters of myopia
+Not pregnant at the time of surgery
+Realistic expectations of the final results (with a complete understanding of the benefits, as well as the possible risks)
+Pupil size 6 mm or less in a dark room is ideal (but some newer lasers may be acceptable for larger pupils)
+Assessment of allergies, (e.g., pollen) where allergy may complicate the eyelid margins following surgery leading to dry eye.
+There are also some pre-existing conditions that may complicate or preclude the treatment.
+
+Collagen vascular disease (e.g., corneal ulceration or melting)
+Ocular disease (e.g., dry eye, keratoconus, glaucoma)
+Systemic disorders (e.g., diabetes, rheumatoid arthritis)
+History of side effects from steroids
+Granular corneal dystrophy type II
+
+
+== Possible complications ==
+Some complications that can be temporary or permanent include:
+
+Dry eyes
+Recurrent erosions during sleep
+Long healing period
+Pain
+Glare, halos, or starburst aberrations
+Increased ocular straylight
+Under- or overcorrection
+Recurrence of myopia
+Corneal haze
+Scarring
+Reduced best corrected visual acuity
+Reduced acuity in low light
+Increased sensitivity
+Neuropathic pain
+
+
+=== Dry eyes ===
+As with other forms of refractive surgery, keratoconjunctivitis sicca, colloquially referred to as 'dry eye,' is the most common complication of PRK, and can be permanent. In more advanced cases, recurrent erosions occur during sleeping from adherence of the corneal epithelium to the upper eyelid with rapid eye movement. Adjuvant polyunsaturated fatty acids (PUFAs) with high Omega-3 content before and after surgery improves sicca, possibly due to their anti-inflammatory effects. Foods containing PUFAs include flax and fish oil. Brush PRK to denude the epithelium, instead of alcohol based techniques, also result in quantitatively lower ocular dryness after surgery. The amount of corneal hazing after surgery is also decreased with brush technique. The platelet activating factor blocker LAU-0901 has shown effect in mitigating dry eye in mouse models. Rabbit models have also shown improvement with topical nerve growth factor (NGF) in combination with docosahexaenoic acid (DHA). Mitomycin C worsens post-surgical dry eye.
+PRK may be performed on one eye at a time to assess the results of the procedure and ensure adequate vision during the healing process. Activities requiring good binocular vision may have to be suspended between surgeries and during the sometimes extended healing periods.
+
+
+=== Halos, starbursts and refractive errors ===
+PRK can be associated with glare, halos, and starburst aberrations, which can occur with postoperative corneal haze during the healing process. Night halos are seen more often in revisions with small ablation zone size. With more recent developments in laser technology, this is less common after 6 months though symptoms can persist beyond a year in some cases.  A dilute concentration of the chemotherapeutic agent, Mitomycin-C, can be applied briefly at the completion of surgery to reduce risk of hazing, although with increased risk of sicca.
+Predictability of the resulting refractive correction after healing is not totally exact, particularly for those with more severe myopia. This can lead to under/overcorrection of the refractive error. In the case of the overcorrection, premature consequences of presbyopia is a possibility. Experienced surgeons employ a custom-profile algorithm to further enhance predictability in their results.
+In 1 to 3% of cases, loss of best corrected visual acuity (BCVA) can result, due to decentered ablative zones or other surgical complications. PRK results in improved BCVA about twice as often as it causes loss. Decentration is becoming less and less of a problem with more modern lasers using sophisticated eye centering and tracking methods.
+
+
+== Comparison to LASIK ==
+A systematic review that compared PRK and LASIK concluded that LASIK has shorter recovery time and less pain. The two techniques after a period of one year have similar results.
+A 2016 systematic review found that it was unclear whether there were any differences in efficacy, accuracy, and adverse effects when comparing PRK and LASEK procedures among people with low to moderate myopia. The review stated that no trials have been conducted comparing the two procedures on people with high myopia.
+A 2017 systematic review found uncertainty in visual acuity, but found that in one study, those receiving PRK were less likely to achieve a refractive error, and were less likely to have an over-correction than compared to LASIK.
+A meta-analysis in 2025 showed that PRK/transPRK appears to be a safe and effective refractive surgery for thin corneas with simple or astigmatic myopia and without any other ocular pathologies or topographic abnormalities.
+
+
+== Types ==
+LASIK
+Alcohol assisted PRK
+Transepithelial PRK (TransPRK)
+ASA (Advanced Surface Ablation) LASEK, which uses Amoils Brush and gas cooling to reduce the pain
+M-LASEK, which Uses mitomycin in an attempt to reduce post-operative haze but is of dubious effectiveness. Possible long-term side effects are unknown.
+
+
+== US Military ==
+In the U.S.A. candidates who have had PRK can get a blanket waiver for the Special Forces Qualification, Combat Diving Qualification and Military Free Fall courses. PRK and LASIK are both waived for Airborne, Air Assault and Ranger schools. However, those who have had LASIK must enroll in an observational study, if a slot is available, to undergo training in Special Forces qualification. LASIK is disqualifying/non-waiverable for several United States Army Special Operations Command (USASOC) schools (HALO, SCUBA, SERE) per Army Regulation 40-501.
+The U.S. Federal Aviation Administration will consider applicants with PRK once they are fully healed and stabilized, provided there are no complications and all other visual standards are met. Pilots should be aware, however, that potential employers, such as commercial airlines and private companies, may have policies that consider refractive surgery a disqualifying condition. Also, civilians who wish to fly military aircraft should know that there are restrictions on those who have had corrective surgery. The Army now permits flight applicants who have undergone PRK or LASIK. Uncomplicated, successful corneal refractive surgery does not require a waiver and is noted as information only.
+The Navy and Marines will routinely grant a waiver for pilots or student naval aviators, as well as naval flight officers, UAS operators and aircrew, to fly after PRK and LASIK, assuming preoperative refractive standards are met, no complications in the healing process were encountered, asymptomatic with regard to significant halos, glare or dry eye, off all medications, and passing their standard vision tests. In one study, 967 of 968 naval aviators having PRK returned to duty involving flying after the procedure. In fact, the U.S. Navy now offers free PRK and LASIK surgery at the National Naval Medical Center to Naval Academy Midshipmen who intend to pursue career paths requiring good uncorrected vision, including flight school and special operations training.
+The U.S. Air Force approves the use of PRK and LASIK. Since 2000 the USAF has conducted PRK for aviators at the Wilford Hall Medical Center. More airmen were allowed over the years and in 2004 the USAF approved LASIK for aviators, with limits on the type of aircraft they could fly. Then in 2007 those limits were lifted. Most recently in 2011 the USAF expanded the program, making it easier for more airmen to qualify for the surgery. Current airmen (Active Duty and Air Reserve Components who are eligible) are authorized surgery at any DOD Refractive Surgery Center. Those airmen not eligible, are still able to get the surgery done at their own expense by a civilian surgeon, but must first be approved (approval is based on the same USAF-RS program). Others that do not fall into those categories (i.e. applicants who are seeking a pilot slot) can still elect to have the surgery done, but must follow the criteria in accordance with the USAF Waiver Guide. Those applicants will be evaluated at the ACS during their Medical Flight Screening appointment to determine if they meet waiver criteria.
+In the majority of patients, PRK has proven to be a safe and effective procedure for the correction of myopia. PRK is still evolving with other countries currently using refined techniques and alternative procedures. Many of these procedures are under investigation in the U.S. Given that PRK is not reversible, a patient considering PRK is recommended to contact an eye-care practitioner for assistance in making an informed decision concerning the potential benefits and liabilities that may be specific to them.
+
+
+== History ==
+The first PRK procedure was performed in 1987 by Dr. Theo Seiler, then at the Free University Medical Center in Berlin, Germany. The first procedure similar to LASEK was performed at Massachusetts Eye and Ear Infirmary in 1996 by ophthalmologist and refractive surgeon Dimitri Azar. Dr. Massimo Camellin, an Italian surgeon, was the first to write a scientific publication about the new surgical technique in 1998, coining the term LASEK for laser epithelial keratomileusis.
+
+
+== References ==

@@ -1,0 +1,219 @@
+Source: PubMed Central (PMC)
+PMCID: PMC8725072
+Title: Role of optical coherence tomography-angiography in diabetes mellitus: Utility in diabetic retinopathy
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8725072/
+Year: 2022
+Disease: imaging
+Priority: 3
+============================================================
+
+Indian J Ophthalmol . 2021 Oct 29;69(11):3218–3224. doi: 10.4103/ijo.IJO_1267_21 
+ 
+ 
+ Role of optical coherence tomography-angiography in diabetes mellitus: Utility in diabetic retinopathy and a comparison with fluorescein angiography in vision threatening diabetic retinopathy 
+ Nawazish F Shaikh 
+ Nawazish F Shaikh 
+ 
+ 1 Department of Ophthalmology, Dr Rajendra Prasad Centre for Ophthalmic Sciences, All India Institute of Medical Sciences, New Delhi, India 
+ Find articles by Nawazish F Shaikh 
+ 
+ 
+ 1 , Rajpal Vohra 
+ Rajpal Vohra 
+ 
+ 1 Department of Ophthalmology, Dr Rajendra Prasad Centre for Ophthalmic Sciences, All India Institute of Medical Sciences, New Delhi, India 
+ Find articles by Rajpal Vohra 
+ 
+ 
+ 1 , Akshaya Balaji 
+ Akshaya Balaji 
+ 
+ 1 Department of Ophthalmology, Dr Rajendra Prasad Centre for Ophthalmic Sciences, All India Institute of Medical Sciences, New Delhi, India 
+ Find articles by Akshaya Balaji 
+ 
+ 
+ 1 , Shorya V Azad 
+ Shorya V Azad 
+ 
+ 1 Department of Ophthalmology, Dr Rajendra Prasad Centre for Ophthalmic Sciences, All India Institute of Medical Sciences, New Delhi, India 
+ Find articles by Shorya V Azad 
+ 
+ 
+ 1, ✉ , Rohan Chawla 
+ Rohan Chawla 
+ 
+ 1 Department of Ophthalmology, Dr Rajendra Prasad Centre for Ophthalmic Sciences, All India Institute of Medical Sciences, New Delhi, India 
+ Find articles by Rohan Chawla 
+ 
+ 
+ 1 , Vinod Kumar 
+ Vinod Kumar 
+ 
+ 1 Department of Ophthalmology, Dr Rajendra Prasad Centre for Ophthalmic Sciences, All India Institute of Medical Sciences, New Delhi, India 
+ Find articles by Vinod Kumar 
+ 
+ 
+ 1 , Pradeep Venkatesh 
+ Pradeep Venkatesh 
+ 
+ 1 Department of Ophthalmology, Dr Rajendra Prasad Centre for Ophthalmic Sciences, All India Institute of Medical Sciences, New Delhi, India 
+ Find articles by Pradeep Venkatesh 
+ 
+ 
+ 1 , Atul Kumar 
+ Atul Kumar 
+ 
+ 1 Department of Ophthalmology, Dr Rajendra Prasad Centre for Ophthalmic Sciences, All India Institute of Medical Sciences, New Delhi, India 
+ Find articles by Atul Kumar 
+ 
+ 
+ 1 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, Dr Rajendra Prasad Centre for Ophthalmic Sciences, All India Institute of Medical Sciences, New Delhi, India 
+ 
+ ✉ 
+ Correspondence to: Dr. Shorya V Azad, Assistant Professor, Dr. Rajendra Prasad Center for Ophthalmic Sciences, All India Institute of Medical Sciences, New Delhi - 110 029, India. E-mail: shoryaazad@hotmail.com 
+ 
+ 
+ 
+ Received 2021 May 20; Revised 2021 Jul 18; Accepted 2021 Sep 20; Issue date 2021 Nov. 
+ 
+ Copyright: © 2021 Indian Journal of Ophthalmology 
+ This is an open-access article distributed under the terms of the Creative Commons Attribution-Noncommercial-Share Alike 4.0 Unported, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC8725072  PMID: 34708776 
+ 
+ See commentary " Commentary: Role of optical coherence tomography-angiography in diabetes mellitus: Utility in diabetic retinopathy and a comparison with fluorescein angiography in vision threatening diabetic retinopathy " on page 3224. 
+ Abstract 
+ Purpose: 
+ To determine the utility of optical coherence tomography-angiography (OCT-A) in diabetic retinopathy (DR) and comparison versus fluorescein angiography (FA) in vision-threatening diabetic retinopathy (VTDR). Methods: 
+ In this cross-sectional observational study, 60 eyes with no DR (NDR), 60 eyes with non-proliferative diabetic retinopathy (NPDR), and 60 eyes with proliferative diabetic retinopathy (PDR) underwent OCT-A. FA was done in VTDR. OCT-A of the NDR eyes was analyzed by two independent retina specialists. Vessel density (VD) (mm/mm 2 ), perfusion density (PD) (%), and foveal avascular zone (FAZ) (mm 2 ) area was analyzed among the groups. Montage angiography with vitreoretinal interface (VRI) segmentation was done in PDR. A qualitative comparison was done between OCT-A and FA for features of DR. Results: 
+ OCT-A detected 16.66% of the eyes with microaneurysm and 57.5% of the patients with capillary non-perfusion (CNP) areas in the NDR group. The inter-grader coefficient between the two observers was 0.820 for microaneurysm and 0.880 for CNP. The mean VD in NDR, NPDR, and PDR was 16.865, 13.983, and 11.643 mm/mm 2 . The mean PD in NDR, NPDR, and PDR was 30.595, 26.853, and 23.193%. The VD and PD values were statistically significant ( P < 0.001). The mean FAZ area was not statistically significant (NPDR and PDR) ( P > 0.05). The VRI showed elevated neovascularization in four eyes. OCT-A delineated microaneurysm and FAZ in 97/97 eyes who underwent FA. The FA failed to delineate FAZ in 2/37 NPDR eyes and 13/60 PDR eyes. The CNP areas (OCT-A) were detectable in all eyes. The FA demonstrated CNP areas in 17/37 and 36/60 eyes in NPDR and PDR, respectively. The FA could show peripheral CNP. Conclusion: 
+ The OCT-A helps in the early diagnosis of DR by providing vascular indices which are consistent with disease progression. OCT-A is non-invasive and ideal for follow-up. FA is a dynamic test with a larger field of view. Keywords: Diabetic retinopathy, Fluorescein angiography, optical coherence tomography-angiography 
+ Diabetes Mellitus (DM) is a global epidemic and India is fast becoming the diabetic capital of the world with diabetic retinopathy (DR) being its most common complication.[ 1 ] Thus, our future beckons the incomprehensible burden of DR, which if not detected promptly may lead to irreversible vision loss. Thus, earlier detection, timely follow-up, and treatment are essential for preventing severe vision loss. For long, DR has been managed on the basis of clinical examination, fundus photographs, or Fluorescein angiography (FA). After the introduction of FA in 1961, it has remained the gold standard investigation in DR for evaluating the retinal vasculature.[ 2 ] Despite its proven role, FA is an invasive investigation with its share of side effects such as nausea, vomiting, urticaria, and rarely, even anaphylaxis.[ 3 , 4 ] This limits its role to only vision-threatening diabetic retinopathy (VTDR), i.e., diabetic macular edema (DME) or proliferative diabetic retinopathy (PDR), where the benefits outweigh the risks. 
+ DM can have a spectrum of vascular compromise, varying from early (non-proliferative diabetic retinopathy, NPDR) () to late (PDR) changes. As FA is indicated in VTDR, which occurs later in the disease, it leaves a vast majority of cases being managed by clinical examination alone. With the advent of optical coherence tomography-angiography (OCT-A), a non-invasive imaging modality, visualization of retinal vasculature, and their evaluation in early, as well as advance cases of DR, has now become possible. However, previous studies have focused on either comparing it with FA in VTDR and diagnosing ischemic diabetic maculopathy[ 5 , 6 , 7 , 8 ] or quantification of microvascular changes in patients without clinically detectable DR[ 9 , 10 , 11 ] and established DR.[ 12 , 13 , 14 , 15 , 16 , 17 ] However, none of these studies comprehensively attempt to define the present-day utility of OCT-A in DM, across the entire spectrum of disease. OCT-A can detect preclinical structural changes occurring at the vascular level as well as disease progression on follow-up, and can hence, prove to be beneficial in the early disease process. 
+ Our study aims to assess the utility and implication of OCT-A alone in the patients with DM across the spectrum of disease and also compare versus FA in terms of identifying the angiographic features of DR in the patients with VTDR in Indian population. 
+ Methods 
+ Our study was a cross-sectional observational study carried out at a tertiary center in North India. The ethical clearance was obtained from the Institutional Ethics Committee and the study adhered to the tenets of the Declaration of Helsinki. All patients with a history of DM, aged between 30 and 65 years were included in the study after obtaining informed consent. The patients with media opacities, history of allergy to fluorescein dye, and patients with other ocular comorbidities were excluded from the study. All patients underwent a thorough systemic and ocular examination including best-corrected visual acuity (BCVA), intraocular pressure (IOP), detailed anterior and posterior segment evaluation. Imaging including color fundus photographs, optical coherence tomography (OCT), OCT-A (ZEISS Angioplex ™ ) (3 mm × 3 mm, 6 mm × 6 mm, 8 mm × 8 mm, and Montage [8 mm × 8 mm] sections), and FA using the Heidelberg Spectralis® (55/102°) was done in VTDR—patients with DME and/or PDR. 
+ The severity of DR was graded by a retina specialist, subsequent to which they were divided into three groups. Group 1 included 30 patients (60 eyes) diagnosed with DM but no retinopathy (NDR), Group 2 comprised 30 patients (60 eyes) with NPDR with/without DME and Group 3 consisted of 30 patients (60 eyes) with PDR with/without DME. Two independent retina specialists (RC and SVA) reviewed the OCT-A images of the NDR eyes for microaneurysm and posterior capillary non-perfusion area (CNP) and compared them with 20 eyes of age-matched OCT-A of the patients with no history of DR. The CNP areas were defined as capillary drop out (CDO) areas or increased inter-capillary distance (ICD). Inter-grader reliability (Kappa coefficient) between the two reviewers was analyzed. The quantitative parameters such as vessel density (VD), perfusion density (PD), and FAZ area were automatically calculated using the machine software and assessed across all the groups. Montage angiography (8 mm × 8 mm) was done in PDR with good media clarity and fixation. Automated segmentation for the vitreoretinal interface (VRI) was analyzed in these cases. There was a qualitative comparison done between OCT-A (scan sizes of 3 mm × 3 mm, 6 mm × 6 mm, 8 mm × 8 mm and Montage [8 mm × 8 mm] sections) and the early venous phase of FA (cropped to a similar size as OCT-A) across the groups for various angiographic characteristics of DR. Since FA can only visualize the superficial retina, the comparison with the deep capillary plexus on OCT-A was not done. 
+ The Statistical analysis was done using SPSS and STATA v12.1 and data were expressed as mean and standard deviation (SD). Groups were compared using ANOVA (analysis of variance) and the P value was considered significant if <0.05 and highly significant if <0.001 and the power of the study was taken to be 90%. The relationship between continuous variables and the comparison groups was assessed through either t-tests if the continuous variables were normal, or through non-parametric Wilcoxon tests if the continuous variables were non-normal. Results 
+ Results of vascular changes in NDR (Using OCT-A scan size 3 mm × 3 mm) 
+ All the subjects with a history of DM but NDR underwent a fundus color photograph, red-free photograph, and OCT-A. There was no indication for FA in the patients with NDR. All OCT-A scans of the patients with NDR were independently assessed by two retina specialists (RC and SVA) for both microaneurysms and CNP areas. [ Fig. 1 ] Age-matched controls with no history of DM who had undergone OCT-A were analyzed by the specialists to prevent the artifacts being tagged as microaneurysms in NDR [ Fig. 1 ]. Inter-grader reliability (Kappa coefficient) was analyzed for the same. 
+ Figure 1. 
+ 
+ Open in a new tab 
+ 3 mm × 3 mm en-face optical coherence tomography angiogram (OCT-A) of the superficial capillary plexus of the right and left eyes of a patient with no history of diabetes mellitus which is unremarkable with regular FAZ (a and b). 3 mm × 3 mm en-face OCT-A of the superficial capillary plexus of the right and left eyes of a patient with a history of diabetes mellitus with no clinical diabetic retinopathy showing hyper-reflective saccular dilatations of the capillary vessels with surrounding hypo-reflective halo suggestive of microaneurysms (red circles, c and d). 3 mm × 3 mm en-face OCT-A of the superficial capillary plexus of the right and left eyes of a patient with a history of diabetes mellitus with no clinical diabetic retinopathy showing areas of increased inter-capillary distance along with non-perfused areas suggestive of capillary non-perfusion areas (red circles, e and f) along with a few sacular dilatations suggestive of microaneurysm (red circle, e) The Kappa coefficient for microaneurysms in NDR patients was 0.820 and was suggestive of a good strength of agreement between the two specialists. The Kappa coefficient for CNP in NDR was 0.880 and again suggested good strength of agreement. RC noted microaneurysm in 9/60 eyes and SVA noted microaneurysm in 11/60 eyes. Roughly 16.66% of the patients with NDR could have subclinical microaneurysms which are picked up on OCT-A. While RC noted CNP areas in 34/60 eyes, SVA noted it in 35/60 eyes. Roughly, 57.5% of the patients with NDR could have CNP areas (CDO or ICD). Results of quantitative vascular changes in patients of NDR versus DR (using OCT-A scan size 3 mm × 3 mm) 
+ The vascular parameters assessed were VD, PD of the superficial capillary plexus (SCP), and the FAZ area in all the groups were compared [ Fig. 2 ]. 
+ Figure 2. 
+ 
+ Open in a new tab 
+ 3 mm × 3 mm en-face Optical coherence tomography angiogram (OCT-A) of the superficial capillary plexus showing the automated calculation of quantitative parameters such as vessel density (red circle, a), perfusion density (blue circle, b). 3 mm × 3 mm en-face OCT-A images of NDR, NPDR, and PDR showing an increased area of the foveal avascular zone with increasing irregularity as the disease severity increases (blue arrows, c) The VD in the NDR group was 16.865 ± 4.428, in the NPDR group was 13.983 ± 5.264, and in the PDR group was 11.643 ± 4.946 mm/mm 2 . Using the ANOVA test, the P value was <0.001, and VD was found to be highly significant among the three groups. 
+ The NPDR and PDR group was further divided into subgroups, with DME and without DME. The VD in NPDR with no DME was found to be 13.922 ± 5.694 and with DME was found to be 13.945 ± 5.144. The VD in PDR with no DME was found to be 10.83 ± 4.908 and with DME was found to be 12.05 ± 4.822. Two sample t-tests were applied to analyze the subgroups and the P value was found to be >0.05. There was no statistically significant difference in VD in the patients of NPDR and PDR with no DME and with DME. The mean VD decreased across the groups with increasing severity of DR but showed no significant difference with DME. 
+ In the NDR group, the PD was 30.595 ± 7.47, in the NPDR group, it was 26.853 ± 9.19, and in the PDR group, it was 23.193 ± 9.22%. Using the ANOVA test, the P value was <0.001, and PD was found to be highly significant among the three groups. 
+ The PD in NPDR with no DME was found to be 26.467 ± 9.52 and with DME was found to be 27.019 ± 9.142. The PD in PDR with no DME was found to be 21.53 ± 8.74 and with DME was found to be 24.025 ± 9.104. Two sample t-tests were applied for analyzing the two subgroups and the P value was found to be >0.05. There was no statistically significant difference in PD in patients of NPDR and PDR with no DME and with DME. The mean PD decreased across the groups with increasing severity of DR but showed no significant difference with DME. 
+ In the NDR group, the FAZ area was 0.2771 ± 0.1426, in the NPDR group, it was 0.3823 ± 0.276, and in the PDR group, it was 0.4146 ± 0.289. Using the ANOVA test, the P value was calculated among the groups. Comparing NDR with NPDR, the P value was <0.05 and was highly significant. Comparing NPDR with PDR, the P value was >0.05 and was found to be not significant. As the severity of DR worsened, the FAZ area increased but no statistically significant difference between the NPDR and PDR groups could be elicited due to the early stage of PDR and good visual acuity. Results of OCT-A Montage Scan (using OCT-A scan size 14 mm × 14 mm) 
+ Eighteen eyes with PDR underwent OCT-A (8 mm × 8 mm) to form a Montage of size 14 mm × 14 mm which provided a field of view of around 50°. All 18 eyes showed CNP areas beyond the standard 8 mm × 8 mm scan. Four eyes showed raised NVE which could be picked up using the automatic segmenting software, i.e., vitreoretinal interface (VRI) [ Fig. 3 ]. The Montage OCT-A scan required a good vision with fixation, patient cooperation, media clarity, and longer time for the acquisition of the scan as compared to FA. 
+ Figure 3. 
+ 
+ Open in a new tab 
+ Montage optical coherence tomography angiogram (OCT-A) of the superficial capillary plexus of the right and left eyes of a patient with proliferative diabetic retinopathy showing neovascularization elsewhere (red arrows, a and b) with subsequent automated segmentation of the vitreoretinal interface (c and d) with raised neovascularization seen elsewhere (blue arrow, d) Results of comparison of FA and OCT-A 
+ The microaneurysms were analyzed on OCT-A – 3 mm × 3 mm, 6 mm × 6 mm, 8 mm × 8 mm sections. 
+ FA and OCT-A of the patients were compared and the microaneurysms in the same field of view were noted. Thirty-seven eyes from group 2 (NPDR) and 60 eyes from group 3 (PDR) where good images of both FA and OCT-A were captured were used. Compared to FA, OCT-A showed at least one microaneurysm in all the scans, i.e., 100% OCT-A images of NPDR and PDR showed at least one microaneurysm but were fewer in number as compared to FA. The FA remained accurate to pick up all the microaneurysms in the patients. No quantitative analysis for the number of microaneurysms was done due to the large sample size. 
+ FAZ was analyzed on OCT-A – 3 × 3 mm, 6 × 6 mm, 8 × 8 mm sections. 
+ The FAZ shape, size, and regularity could be delineated in all OCT-A scans and was especially clear in 3 mm × 3 mm protocol scans. As the size of the scan increased, the FAZ delineation became less discernible. In the case of FA, patients with diffuse DME and leakage, the FAZ could not be appreciated in 2 out of 37 eyes in group 1 (NPDR) and 13 out of 60 eyes in group 2 (PDR). The FAZ shape, size, and regularity could best be appreciated using the 3 mm × 3 mm scans of OCT-A [blue arrows, Fig. 2 ]. As OCT-A cannot identify leakage, the FAZ area was well-delineated in all patients, unlike FA where diffuse edema and leakage caused obscuration of the underlying vessels [red circle, Fig. 4a and b ]. 
+ Figure 4. 
+ 
+ Open in a new tab 
+ 8 mm × 8 mm en-face optical coherence tomography angiogram (OCT-A) of the superficial capillary plexus of the right eyes in a patient with proliferative diabetic retinopathy (PDR) showing enlarged and irregular foveal avascular zone (FAZ) (red circle, a) with neovascularization elsewhere (blue arrow, a) with multiple capillary non-perfusion (CNP) areas (red arrows, a) which correlate with the late phase angiography of the same eye which shows enlarged FAZ (red circle, b), leakage from the neovascularization elsewhere (blue arrow, b), and CNP areas (red arrows, b). En-face OCT-A of the superficial capillary plexus of the left eye in a patient with proliferative diabetic retinopathy showing intraretinal microvascular abnormality (IRMA) (Green arrow, c) which correlates with the late phase fluorescein angiography of the patient (green arrow, d). En-face OCT-A of the superficial capillary plexus of the right eye in a patient with proliferative diabetic retinopathy showing a venous loop (yellow arrow, e) with adjoining neovascularization which correlates with the arteriovenous phase of fluorescein angiography of the patient showing the venous loop (yellow arrow, f) and adjoining neovascularization The posterior CNP was analyzed on OCT-A 6 mm × 6 mm, 8 mm × 8 mm sections. 
+ The Posterior CNP areas were defined as CDO areas and increased ICD areas in the posterior pole, i.e., between the temporal arcades. The posterior CNP areas could be picked up in all the cases (97/97) via the OCT-A whereas the FA showed posterior CNP areas in 17/37 NPDR eyes and 36/60 PDR eyes [red arrow, Fig. 4a and b ]. This discrepancy was mainly due to the poor image acquisition, presence of diffuse leakage, and macular edema in the FA scans. The posterior CNP areas were better identified in the early venous phase but in patients undergoing sequential FA, the fellow eye was imaged in the later phases and was another reason for the missed posterior CNP areas. 
+ The leakage and neovascularization were analyzed on OCT-A - Montage Scan – 14 mm × 14 mm section. 
+ The leakage could only be appreciated on FA. OCT-A was ineffective in detecting leakage in any case as it has pre-set values of decorrelation above and below which the flow of erythrocytes cannot be appreciated. Neovascularization (NV) could be well-visualized on the OCT-A in 18 eyes of PDR which correlated with the FA images of the patients. This NV was well-demarcated on OCT-A as compared to the FA mainly due to the absence of leakage and missed early frames [blue arrow, Fig. 4 ]. Due to the small field of view, peripheral NV (beyond the field of view of 50°) could not be visualized on OCT-A as those seen on the FA in 42/60 eyes of PDR patients. 
+ The venous beading and intraretinal microvascular abnormality (IRMA) were analyzed on OCT-A - Montage Scan – 14 mm × 14 mm section. 
+ Within the 50° field of view, the OCT-A, 8/8 eyes showed venous beading and 5/5 eyes showed IRMAs which correlated with a similar field of view on FA [green arrow, Fig. 4 ]. The vascular changes including venous loops were easily visible on OCT-A and comparable to the FA images [yellow arrow, Fig. 4 ]. 
+ The peripheral CNP was analyzed on OCT-A - Montage Scan – 14 × 14 mm section. 
+ Due to the small field of view of OCT-A scans (50° for the 8 mm × 8 mm Montage scan), no peripheral CNP areas which were described as capillary non-perfusion areas beyond the 50° field of view, could be picked up, and hence, was a major drawback of OCT-A in the patients with PDR. Only the FA could show peripheral CNP areas and was seen in all the eyes of PDR (60/60). Discussion 
+ In our study, we used OCT-A to quantify the vascular changes in the patients with no DR and DR in the form of VD, PD, and FAZ indices.[ 16 , 17 ] We found that both VD and PD values of the superficial plexus decreased with the increasing disease severity. Our observations are consistent with regard to the decrease in VD and PD as seen in the previous studies regarding flow parameters and correlate well with the disease severity.[ 9 , 18 , 19 ] Similarly, the FAZ area increased with the increasing disease severity accompanied by irregularity of the FAZ and pruning of blood vessels. Similar studies in the past have shown that OCT-A could detect the enlargement and irregularity of the FAZ, CDO, and pruning of the vessels.[ 15 , 20 , 21 , 22 ] Herein lies the utility of the OCT-A in the early diagnosis and detection of subtle macular ischemia and its correlation with visual acuity.[ 23 , 24 ] 
+ We also noted that OCT-A aided in early diagnoses of DR, even before it becomes clinically evident (NDR). For ages, microaneurysms are believed to be the cardinal sign signifying the onset of DR. However, they are clinically detectable only after attaining a size of >30 microns. Our study confirmed the same, as OCT-A of the NDR patients revealed subclinical microaneurysms which were probably of a smaller size, and hence, not detected. Another interesting finding was a fall in the VD and posterior CNP (increase in CDO and ICD) in NDR. Although these findings are seen in DR, whether they precede/coexist/follow microaneurysms, is not yet known. While we noted these findings in >50% of the patients (34/60 and 35/60) with a good inter-grader agreement, the microaneurysms were detectable only in 17% of the patients (9/60 and 11/60). This may imply that changes in vascularity appear before microaneurysms. Thus, OCT-A endorses itself as a non-invasive modality for detecting preclinical DR.[ 25 ] 
+ The FA of the patients in our study delineated various features of DR including microaneurysms, FAZ, CNP, VB, IRMAs, NV, and leakage. Likewise, OCT-A (3 mm × 3 mm, 6 mm × 6 mm, 8 mm × 8 mm, and Montage 14 mm × 14 mm scans) was equally successful in detecting these changes when comparing the same area on FA, except it failed to identify the leakage. Also, the lesions lying outside the OCT-A scan were missed. In addition to FA, microaneurysms were detected in both the superficial and deep capillary plexuses on OCT-A, albeit fewer in number. The fewer microaneurysms identified on OCT-A could be due to an exceptionally low blood flow or the absence of erythrocytes within them. Our study echoed the utility of OCT-A in identifying CDO, FAZ, IRMA, NV, and to a certain extent the microaneurysms which were restricted to the posterior pole as shown by the previous studies.[ 26 , 27 , 28 ] Furthermore, a small field of view of the present-day OCT-A platforms is the main limitation for the detection changes beyond the arcades, although it has been, to some length, alleviated with the use of Montage OCT-A.[ 29 ] It compares well to FA in identifying the changes of DR, as was seen in our study wrt VB, IRMA, and CNP. 
+ OCT-A appears to be equally efficient in identifying vascular changes of DR such as CNP, IRMA, and NV. The CNP areas are best identified in the early venous phase (capillary phase) of the FA, and image acquisition may become user-dependent, especially when imaging the contralateral eye. OCT-A is user-independent and requires no specific imaging phase for their delineation. The vascular changes like microaneurysm and CNP areas are best identified with OCT-A scans of maximum resolution (i.e., 3 mm × 3 mm) as the number of scans remains the same despite the increasing size. IRMA and NV on OCT-A can also be differentiated using a flow overlay showing the flow that remains confined to the internal limiting membrane (ILM) in IRMA and any breach of the ILM is characteristic for retinal NV.[ 30 ] Morphologically, NV are finer vessels which appear as tufts of vessels due to their branching whereas IRMA are broader in caliber and appear as shunt vessels. Although not a part of our study, OCT-A is equally adept at differentiating optic disk collaterals and NV at the disk as shown by the previous studies.[ 31 ] 
+ Our study being cross-sectional was a limitation. A long-term follow-up study of the vascular indices and their progression with disease severity, if any, may help us understand the disease. The changes of DR usually appear in the deep capillary plexus before the SCP.[ 32 ] Due to the lack of automated software to analyze the deep capillary plexus indices, we did not include it in our study. The evaluation of the deep capillary plexus requires manual skeletonization of the images and using specific algorithms which may then be used to compare the indices. This is a long and tedious process, especially to be done for 180 eyes and hence, was not assessed and is a limitation of our study. As OCT-A requires fixation for several seconds, scans of patients with poor vision have motion and blink artifacts which cannot provide any valuable information and were discarded which was another limitation of our study. Although the acquisition of a larger scan provides a wider field of view of the periphery, allowing detection of CNP areas and NV but reduces the detection of microaneurysm which is another limitation of the OCT-A. 
+ While assessing the utility of any new modality, the fundamental question is—How does it perform against the gold standard (FA)? First, does it detect clinical changes of the disease? Does it change the diagnosis/management/follow-up? Our study highlights that OCT-A was equally successful for imaging clinical changes, except that it failed to identify leakage. Also, it does change the diagnosis in the preclinical stage and changes the management in the cases with macular ischemia. However, it may or may not alter the follow-up in patients with preclinical DR. The latter would warrant long-term studies showing the evolution of these changes over a period of time. Second, does it help in understanding the disease process or does it provide new insight regarding the disease process? OCT-A does shed new light on whether microaneurysm comes before or CDO areas, as CDO areas have been seen in patients with no clinical DR. Again, the clinical implication of this remains to be explored and requires long-term studies. After answering these pertinent questions, it may be safe to say that OCT-A is an important imaging modality in patients with DM. Moreover, with widefield OCT-A around the horizon, the future beckons wider applicability and utility of OCT-A. The cost of the machine may limit its wider applicability at present. Conclusion 
+ To conclude, FA has proven its utility in the latter stages of the disease (VTDR), however, OCT-A can soon be the modality of choice for the diagnosis of preclinical DR. Also, OCT-A compliments FA by providing automated values showing vascular compromise which are consistent with disease progression. The gold standard, i.e., FA and the newer modality, i.e., OCT-A, both have their own sets of advantages and disadvantages and it would be very impetuous to conclude one modality being better than the other. We feel OCT-A is not a replacement for FA but worthy support as OCT-A. It is ideal for the follow-up to monitor disease progression as it is non-invasive and may bring down the number of FA required on follow-up. It can be done in the patients who have a contraindication for FA (history of anaphylaxis) or are unwilling for an invasive investigation. 
+ Financial support and sponsorship 
+ Nil. Conflicts of interest 
+ There are no conflicts of interest. References 
+ 
+ 
+ 1. Nentwich MM, Ulbig MW. Diabetic retinopathy-ocular complications of diabetes mellitus. World J Diabetes. 2015;6:489–99. doi: 10.4239/wjd.v6.i3.489. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Novotny HR, Alvis DL. A method of photographing fluorescence in circulating blood in the human retina. Circulation. 1961;24:82–6. doi: 10.1161/01.cir.24.1.82. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Kwiterovich KA, Maguire MG, Murphy RP, Schachat AP, Bressler NM, Bressler SB, et al. Frequency of adverse systemic reactions after fluorescein angiography: Results of a prospective study. Ophthalmology. 1991;98:1139–42. doi: 10.1016/s0161-6420(91)32165-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Fineschi V, Monasterolo G, Rosi R, Turillazzi E. Fatal anaphylactic shock during a fluorescein angiography. Forensic Sci Int. 1999;100:137–42. doi: 10.1016/s0379-0738(98)00205-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Couturier A, Mané V, Bonnin S, Erginay A, Massin P, Gaudric A, et al. Capillary plexus anomalies in diabetic retinopathy on optical coherence tomography angiography. Retina. 2015;35:2384–91. doi: 10.1097/IAE.0000000000000859. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Cennamo G, Romano MR, Nicoletti G, Velotti N, de Crecchio G. Optical coherence tomography angiography versus fluorescein angiography in the diagnosis of ischemic diabetic maculopathy. Acta Ophthalmol. 2017;95:e36–42. doi: 10.1111/aos.13159. doi: 10.1111/aos.13159. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Bradley PD, Sim DA, Keane PA, Cardoso J, Agrawal R, Tufail A, et al. The evaluation of diabetic macular ischemia using optical coherence tomography angiography. Invest Ophthalmol Vis Sci. 2016;57:626–31. doi: 10.1167/iovs.15-18034. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Hamada M, Ohkoshi K, Inagaki K, Ebihara N, Murakami A. Visualization of microaneurysms using optical coherence tomography angiography: Comparison of OCTA en face, OCT B-scan, OCT en face, FA, and IA images. Jpn J Ophthalmol. 2018;62:168–75. doi: 10.1007/s10384-018-0570-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Dimitrova G, Chihara E, Takahashi H, Amano H, Okazaki K. Quantitative retinal optical coherence tomography angiography in patients with diabetes without diabetic retinopathy. Invest Ophthalmol Vis Sci. 2017;58:190–6. doi: 10.1167/iovs.16-20531. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Alibhai AY, Moult EM, Shahzad R, Rebhun CB, Moreira-Neto C, McGowan M, et al. Quantifying microvascular changes using OCT angiography in diabetic eyes without clinical evidence of retinopathy. Ophthalmol Retina. 2018;2:418–27. doi: 10.1016/j.oret.2017.09.011. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Talisa E, Chin AT, Bonini Filho MA, Adhi M, Branchini L, Salz DA, et al. Detection of microvascular changes in eyes of patients with diabetes but not clinical diabetic retinopathy using optical coherence tomography angiography. Retina. 2015;35:2364–70. doi: 10.1097/IAE.0000000000000882. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Tang FY, Ng DS, Lam A, Luk F, Wong R, Chan C, et al. Determinants of quantitative optical coherence tomography angiography metrics in patients with diabetes. Scientific Reports. 2017;7:1–0. doi: 10.1038/s41598-017-02767-0. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. You QS, Freeman WR, Weinreb RN, Zangwill L, Manalastas PI, Saunders LJ, et al. Reproducibility of vessel density measurement with optical coherence tomography angiography in eyes with and without retinopathy. Retina. 2017;37:1475–82. doi: 10.1097/IAE.0000000000001407. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Durbin MK, An L, Shemonski ND, Soares M, Santos T, Lopes M, et al. Quantification of retinal microvascular density in optical coherence tomographic angiography images in diabetic retinopathy. JAMA Ophthalmol. 2017;135:370–6. doi: 10.1001/jamaophthalmol.2017.0080. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Takase N, Nozaki M, Kato A, Ozeki H, Yoshida M, Ogura Y. Enlargement of foveal avascular zone in diabetic eyes evaluated by en face optical coherence tomography angiography. Retina. 2015;35:2377–83. doi: 10.1097/IAE.0000000000000849. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Kim AY, Chu Z, Shahidzadeh A, Wang RK, Puliafito CA, Kashani AH. Quantifying microvascular density and morphology in diabetic retinopathy using spectral-domain optical coherence tomography angiography. Invest Ophthalmol Vis Sci. 2016;57:OCT362–70. doi: 10.1167/iovs.15-18904. doi: 10.1167/iovs.15-18904. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Nesper PL, Roberts PK, Onishi AC, Chai H, Liu L, Jampol LM, et al. Quantifying microvascular abnormalities with increasing severity of diabetic retinopathy using optical coherence tomography angiography. Invest Ophthalmol Vis Sci. 2017;58:BIO307–15. doi: 10.1167/iovs.17-21787. doi: 10.1167/iovs.17-21787. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. AttaAllah HR, Mohamed AA, Ali MA. Macular vessels density in diabetic retinopathy: Quantitative assessment using optical coherence tomography angiography. Int Ophthalmol. 2019;39:1845–59. doi: 10.1007/s10792-018-1013-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Lei J, Yi E, Suo Y, Chen C, Xu X, Ding W, et al. Distinctive analysis of macular superficial capillaries and large vessels using optical coherence tomographic angiography in healthy and diabetic eyes. Invest Ophthalmol Vis Sci. 2018;59:1937–43. doi: 10.1167/iovs.17-23676. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Lu Y, Simonett JM, Wang J, Zhang M, Hwang T, Hagag AM, et al. Evaluation of automatically quantified foveal avascular zone metrics for diagnosis of diabetic retinopathy using optical coherence tomography angiography. Invest Ophthalmol Vis Sci. 2018;59:2212–21. doi: 10.1167/iovs.17-23498. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Johannesen SK, Viken JN, Vergmann AS, Grauslund J. Optical coherence tomography angiography and microvascular changes in diabetic retinopathy: A systematic review. Acta Ophthalmol. 2019;97:7–14. doi: 10.1111/aos.13859. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Hwang TS, Jia Y, Gao SS, Bailey ST, Lauer AK, Flaxel CJ, et al. Optical coherence tomography angiography features of diabetic retinopathy. Retina (Philadelphia, Pa.) 2015;35:2371–6. doi: 10.1097/IAE.0000000000000716. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Louis LM, Fayed AE, Helal MS, Habib AM, Hashem MH, Embabi SN. Correlation between visual acuity and diabetic macular ischemia using optical coherence tomography angiography. Egypt Retina J. 2019;6:33–7. [ Google Scholar ] 
+ 
+ 24. Samara WA, Shahlaee A, Adam MK, Khan MA, Chiang A, Maguire JI, et al. Quantification of diabetic macular ischemia using optical coherence tomography angiography and its relationship with visual acuity. Ophthalmology. 2017;124:235–44. doi: 10.1016/j.ophtha.2016.10.008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Thompson IA, Durrani AK, Patel S. Optical coherence tomography angiography characteristics in diabetic patients without clinical diabetic retinopathy. Eye. 2019;33:648–52. doi: 10.1038/s41433-018-0286-x. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Ishibazawa A, Nagaoka T, Takahashi A, Omae T, Tani T, Sogawa K, et al. Optical coherence tomography angiography in diabetic retinopathy: A prospective pilot study. Am J Ophthalmol. 2015;160:35–44. doi: 10.1016/j.ajo.2015.04.021. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Soares M, Neves C, Marques IP, Pires I, Schwartz C, Costa MÂ, et al. Comparison of diabetic retinopathy classification using fluorescein angiography and optical coherence tomography angiography. Br J Ophthalmol. 2017;101:62–8. doi: 10.1136/bjophthalmol-2016-309424. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Enders C, Baeuerle F, Lang GE, Dreyhaupt J, Lang GK, Loidl M, et al. Comparison between findings in optical coherence tomography angiography and in fluorescein angiography in patients with diabetic retinopathy. Ophthalmologica. 2020;243:21–6. doi: 10.1159/000499114. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Cui Y, Zhu Y, Wang JC, Lu Y, Zeng R, Katz R, et al. Comparison of widefield swept-source optical coherence tomography angiography with ultra-widefield color fundus photography and fluorescein angiography for detection of lesions in diabetic retinopathy. Br J Ophthalmol. 2021;105:577–81. doi: 10.1136/bjophthalmol-2020-316245. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Lee CS, Lee AY, Sim DA, Keane PA, Mehta H, Zarranz-Ventura J, et al. Reevaluating the definition of intraretinal microvascular abnormalities and neovascularization elsewhere in diabetic retinopathy using optical coherence tomography and fluorescein angiography. Am J Ophthalmol. 2015;159:101–10. doi: 10.1016/j.ajo.2014.09.041. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Singh A, Agarwal A, Mahajan S, Karkhur S, Singh R, Bansal R, et al. Morphological differences between optic disk collaterals and neovascularization on optical coherence tomography angiography. Graefes Arch Clin Exp Ophthalmol. 2017;255:753–9. doi: 10.1007/s00417-016-3565-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Hasegawa N, Nozaki M, Takase N, Yoshida M, Ogura Y. New insights into microaneurysms in the deep capillary plexus detected by optical coherence tomography angiography in diabetic macular edema. Invest Ophthalmol Vis Sci. 2016;57:OCT348–55. doi: 10.1167/iovs.15-18782. doi: 10.1167/iovs.15-18782. [ DOI ] [ PubMed ] [ Google Scholar ]

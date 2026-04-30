@@ -1,0 +1,926 @@
+Source: PubMed Central (PMC)
+PMCID: PMC3940167
+Title: Retinal detachment
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3940167/
+Year: 2014
+Disease: retinal_detachment
+Priority: 2
+============================================================
+
+BMJ Clin Evid . 2014 Mar 3;2014:0710. 
+ 
+ Retinal detachment 
+ David Steel 
+ David Steel 
+ 
+ 1 Sunderland Eye Infirmary, Sunderland, UK 
+ Consultant Ophthalmologist 
+ Find articles by David Steel 
+ 
+ 
+ 1 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Sunderland Eye Infirmary, Sunderland, UK 
+ DS declares that he has no competing interests. 
+ Roles 
+ 
+ David Steel : Consultant Ophthalmologist 
+ 
+ 
+ Collection date 2014. 
+ 
+ © BMJ Publishing Group Ltd, All Rights Reserved 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC3940167  PMID: 24807890 
+ 
+ Abstract 
+ Introduction 
+ Rhegmatogenous retinal detachment (RRD) is the most common form of retinal detachment, where a retinal 'break' allows the ingress of fluid from the vitreous cavity to the subretinal space, resulting in retinal separation. It occurs in about 1 in 10,000 people a year. Methods and outcomes 
+ We conducted a systematic review and aimed to answer the following clinical questions: What are the effects of different surgical interventions in people with rhegmatogenous retinal detachment? What are the effects of interventions to treat proliferative vitreoretinopathy occurring as a complication of retinal detachment or previous treatment for retinal detachment? We searched: Medline, Embase, The Cochrane Library, and other important databases up to September 2013 (Clinical Evidence reviews are updated periodically; please check our website for the most up-to-date version of this review). We included harms alerts from relevant organisations such as the US Food and Drug Administration (FDA) and the UK Medicines and Healthcare products Regulatory Agency (MHRA). Results 
+ We found 14 studies that met our inclusion criteria. We performed a GRADE evaluation of the quality of evidence for interventions. Conclusions 
+ In this systematic review, we present information relating to the effectiveness and safety of the following interventions: corticosteroids, daunorubicin, fluorouracil plus low molecular weight heparin, pneumatic retinopexy, scleral buckling, short-acting or long-acting gas tamponade, silicone oil tamponade, and vitrectomy. Key Points 
+ Rhegmatogenous retinal detachment (RRD) is the most common form of retinal detachment, where a retinal 'break' allows the ingress of fluid from the vitreous cavity to the subretinal space, resulting in retinal separation. It occurs in about 1 in 10,000 people a year.
+ 
+ This review considers only acute progressive RRD. 
+ There is consensus that scleral buckling, pneumatic retinopexy, and vitrectomy are all effective for treating RRD.
+ 
+ 
+ We found insufficient evidence to assess effects of scleral buckling compared with pneumatic retinopexy. 
+ 
+ The effects of scleral buckling compared with primary vitrectomy are unclear. There is limited evidence that, in phakic RRD, scleral buckling improves visual acuity and is associated with a reduced risk of development or progression of cataract. However, we don't know whether scleral buckling is more effective than primary vitrectomy at increasing re-attachment rates in people with pseudophakic and aphakic RRD. 
+ 
+ In people undergoing vitrectomy for RRD with severe proliferative vitreoretinopathy (occurring as a complication of retinal detachment or previous treatment for retinal detachment), silicone oil and long-acting gas are equally effective for increasing re-attachment rates and improving visual acuity; silicone oil is better than short-acting gas. 
+ We found insufficient evidence assessing the effects of fluorouracil plus heparin , corticosteroids , or daunorubicin given during vitrectomy surgery for proliferative vitreoretinopathy. About this condition 
+ Definition 
+ Retinal detachment can be defined as the separation of the neurosensory retina from the underlying retinal pigment epithelium (RPE). Direct apposition of the retina to the RPE is essential for normal retinal function, and retinal detachment involving the foveal centre leads to profound loss of vision in the affected eye.
+
+ Rhegmatogenous retinal detachment (RRD) is the most common form of retinal detachment, where a retinal 'break' allows the ingress of fluid from the vitreous cavity to the subretinal space, resulting in retinal separation. Retinal break refers to a full-thickness defect in the neurosensory retina. Retinal breaks that develop from a tear in the retina at the time of posterior vitreous detachment (PVD) are usually referred to as retinal tears. Lattice degeneration can lead to the formation of circular retinal holes, which are typically referred to as atrophic holes. Retinal breaks can also develop as a result of trauma to and inflammation of the eye; examples include retinal dialysis , which is typically secondary to blunt trauma, and tears associated with retinal necrosis, resulting from trauma or inflammation. Rarer causes of retinal detachment include tractional retinal detachment, secondary to fibrous tissue on the surface of the retina; exudative retinal detachment, as a result of choroidal tumours that produce increased fluid flow through the subretinal space; and ocular inflammatory conditions. Retinal detachments can also be a mixture of two or more of the above types. Asymptomatic and non-progressive chronic retinal detachment can also occur. This review considers only acute progressive RRD. Diagnosis: RRD is often, but not universally, associated with symptoms of flashes of light (retinal photopsia), visual floaters, and peripheral and usually progressive visual field loss. It is diagnosed by ophthalmoscopy. Acute RRD is seen as an oedematous folded retina with loss of the normal retinal transparency. The detachment can assume a bullous configuration that moves when the eye moves. There can be associated signs of PVD, as well as vitreous haemorrhage or RPE cells circulating in the vitreous cavity after retinal break formation. The presence of pigment cells in the anterior vitreous — visible on slit-lamp biomicroscopy (termed 'Shafer's sign') — is a sensitive indicator of the presence of a retinal break in a person presenting with an acute PVD. Chronic retinal detachments can be associated with retinal cyst formation and 'tidemarks' demarcating the extent of the detachment, as well as subretinal fibrosis.
+
+ Incidence/
+Prevalence 
+ RRD can occur at any age, but reaches peak prevalence in people aged 60 to 70 years.
+
+ It affects men more than women, and white people more than black people. Observational studies from the US, Europe, and New Zealand found that non-traumatic, phakic (lens intact) RRD occurred in about 6 to 18 in 100,000 people a year (i.e., about 1/10,000).
+
+ Aetiology/
+Risk factors 
+ The occurrence of retinal detachment is related to the interplay between predisposing retinal lesions and vitreoretinal traction, and occurs when fluid moves from the vitreous cavity through a retinal break into the subretinal space. Most (80%–90%) retinal detachments are associated with retinal-break formation at the time of PVD.
+ PVD is a naturally occurring phenomenon, with a rapidly increasing prevalence in the 60- to 70-year-old age group. Most (70%) retinal breaks, formed at the time of PVD, are seen as tears in the retina or as holes with a free-floating retinal operculum . Retinal breaks can occur in areas of previously abnormal retina; for example, lattice degeneration.
+ Symptoms and signs of acute PVD are known to be associated with a higher risk of immediate progression to RRD in people with predisposing retinal lesions. However, people with established (chronic) PVD and predisposing retinal lesions who have not immediately progressed to RRD are at lower risk than those without a PVD. Symptomatic retinal tears with persistent vitreoretinal traction (not a complete PVD) have a high rate of progression to retinal detachment (>50% if left untreated). The risk of retinal detachment is increased to a variable extent in people with a symptomatic pre-existing retinal disease or lesions, especially retinal-flap tears , operculated retinal holes after separation of a retinal flap, atrophic retinal holes, lattice degeneration (areas of retinal thinning with abnormal vitreoretinal adhesion), and retinal dialyses. Autopsy studies have shown that about 6% to 11% of people aged over 20 years have retinal breaks in one form or another. However, the chances of an RRD occurring in an asymptomatic eye with a retinal break and with no history of fellow-eye RRD is 0.5% over a follow-up period of 11 years.
+ Similarly, 7% to 8% of adults have areas of lattice degeneration, but only a small proportion of these lesions progress to RRD.
+
+ Asymptomatic retinal dialysis is thought to have a high risk of progression to retinal detachment, especially after trauma.
+ Increased risk of RRD is associated with several factors. There is a higher prevalence of RRD in short-sighted (myopic) people, with around a 10-fold increased incidence in people with over three dioptres of myopia. Approximately 50% of phakic RRD cases are myopic. The fellow eye in people with an RRD is at a higher risk, with 2% to 10% of RRDs being bilateral.
+
+ Although some RRD occurring in a fellow eye will develop from pre-existing retinal lesions, most subsequent RRD (at least 50%, and possibly as high as 80%–90%) in the fellow eye will occur from ophthalmoscopically normal areas of retina, and so prophylaxis to visible abnormal areas may not completely reduce the incidence of fellow-eye RRD. There is also a higher incidence of RRD in people with a family history of retinal detachment, especially in conditions such as Stickler's syndrome . People who have had previous cataract surgery also have a higher incidence of RRD, and about 1 in 5 patients presenting with RRD in the UK will have had cataract surgery. About 0.5% to 0.6% of people experience RRD after phacoemulsification surgery for cataracts, with the risk being increased by 15 to 20 times with rupture of the posterior capsule.
+ About 10% of RRDs are associated with trauma. There are other conditions which, more rarely, increase the risk of RRD, including uveitis — especially CMV retinitis — and other degenerative retinal conditions, such as retinoschisis. Idiopathic macular holes may cause RRD in highly myopic eyes, but rarely in emmetropic or hypermetropic eyes. Prognosis 
+ On presentation, retinal detachment is usually divided into 'macula on', when the fovea is still attached, and 'macula off', where the retina is detached centrally. People with macula-on retinal detachments typically have good initial visual acuity and a better prognosis with successful surgery. Rapidly progressive cases are therefore treated as a matter of urgency. Macula-off retinal detachments have worse initial visual acuity, and have a worse prognosis even with successful re-attachment of the retina. Overall, about 95% of people have anatomically successful repair of RRD, with 70% to 90% achieving this in one operation. In 90% of successfully repaired macula-on retinal detachments, vision is 6/12 or better. However, in those with macula-off retinal detachments, only 50% of eyes achieve a visual acuity of 6/15, and, if the macula has been detached for 1 week or more, this level of visual acuity is rarely achieved. Reasons for anatomical failure of surgery include new or missed retinal breaks and proliferative vitreoretinopathy (PVR) . PVR is classified based on extent, position, and type of PVR: the American Retina Society proposed the first classification of PVR in 1983, and, although updated in 1991 following the Silicone Oil Study, this classification system continues to be widely used. Causes of poor visual acuity after successful repair include macular epiretinal membranes (fibrosis), cystoid macular oedema, and foveal photoreceptor degeneration in macula-off retinal detachments.
+ Aims of 
+intervention 
+ To achieve retinal re-attachment in people with RRD; to achieve retinal re-attachment in people with PVR occurring as a complication of RRD or previous treatment for RRD; to achieve these aims with minimal re-operation rates and adverse effects of treatment. Outcomes 
+ 
+ Treatment: 
+ Anatomical re-attachment rate (after one operation and final rate), re-operation rate , visual acuity . Treatment of eyes with proliferative vitreoretinopathy: 
+ rate of retinal re-attachment (after one operation and final rate), re-operation rate , visual acuity . Adverse effects . Methods 
+ 
+ Clinical Evidence search and appraisal September 2013. The following databases were used to identify studies for this systematic review: Medline 1966 to September 2013, Embase 1980 to September 2013, and The Cochrane Database of Systematic Reviews 2013, issue 9 (1966 to date of issue). Additional searches were carried out in the Database of Abstracts of Reviews of Effects (DARE) and Health Technology Assessment (HTA) Database. We also searched for retractions of studies included in the review. Titles and abstracts identified by the initial search, run by an information specialist, were first assessed against predefined criteria by an evidence scanner. Full texts for potentially relevant studies were then assessed against predefined criteria by an evidence analyst. Studies selected for inclusion were discussed with an expert contributor. All data relevant to the review were then extracted by an evidence analyst. Study design criteria for inclusion in this review were: published systematic reviews and RCTs, at least single-blinded, and containing more than 20 individuals of whom more than 80% were followed up. There was no minimum length of follow-up. We excluded all studies described as 'open', 'open label', or not blinded unless blinding was impossible. We included RCTs and systematic reviews of RCTs where harms of an included intervention were assessed, applying the same study design criteria for inclusion as we did for benefits. In addition, we use a regular surveillance protocol to capture harms alerts from organisations such as the FDA and the MHRA, which are added to the reviews as required. To aid readability of the numerical data in our reviews, we round many percentages to the nearest whole number. Readers should be aware of this when relating percentages to summary statistics such as relative risks (RRs) and odds ratios (ORs). We have performed a GRADE evaluation of the quality of evidence for interventions included in this review ( see table ). The categorisation of the quality of the evidence (high, moderate, low, or very low) reflects the quality of evidence available for our chosen outcomes in our defined populations of interest. These categorisations are not necessarily a reflection of the overall methodological quality of any individual study, because the Clinical Evidence population and outcome of choice may represent only a small subset of the total outcomes reported, and population included, in any individual trial. For further details of how we perform the GRADE evaluation and the scoring system we use, please see our website (www.clinicalevidence.com). 
+ Table. 
+ GRADE Evaluation of interventions for Retinal detachment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Important outcomes 
+ Re-attachment rate, Re-operation rate, Visual acuity 
+ 
+ 
+ Studies (Participants) 
+ Outcome 
+ Comparison 
+ Type of evidence 
+ Quality 
+ Consistency 
+ Directness 
+ Effect size 
+ GRADE 
+ Comment 
+ 
+ 
+ 
+ What are the effects of different surgical interventions in people with rhegmatogenous retinal detachment? 
+ 
+ 2 (218) 
+ Re-attachment rate 
+ Scleral buckling versus pneumatic retinopexy 
+ 4 
+ –1 
+ 0 
+ 0 
+ 0 
+ Moderate 
+ Quality point deducted for incomplete reporting 
+ 
+ 
+ 2 (218) 
+ Visual acuity 
+ Scleral buckling versus pneumatic retinopexy 
+ 4 
+ –1 
+ 0 
+ 0 
+ 0 
+ Moderate 
+ Quality point deducted for incomplete reporting 
+ 
+ 
+ at least 5 (at least 780) 
+ Re-attachment rate 
+ Scleral buckling versus primary vitrectomy in pseudophakic or aphakic rhegmatogenous retinal detachment (RRD) 
+ 4 
+ –1 
+ –1 
+ 0 
+ 0 
+ Low 
+ Quality point deducted for significant heterogeneity between trials; consistency point deducted for conflicting results 
+ 
+ 
+ 7 (867) 
+ Visual acuity 
+ Scleral buckling versus primary vitrectomy in pseudophakic or aphakic rhegmatogenous retinal detachment (RRD) 
+ 4 
+ –1 
+ 0 
+ –1 
+ 0 
+ Low 
+ Quality point deducted for incomplete reporting of results; directness point deducted for inclusion of co-intervention 
+ 
+ 
+ 1 (150) 
+ Re-operation rate 
+ Scleral buckling versus primary vitrectomy in pseudophakic or aphakic rhegmatogenous retinal detachment (RRD) 
+ 4 
+ –1 
+ 0 
+ 0 
+ 0 
+ Moderate 
+ Quality point deducted for sparse data 
+ 
+ 
+ 3 (523) 
+ Re-attachment rate 
+ Scleral buckling versus primary vitrectomy in phakic rhegmatogenous retinal detachment (RRD) 
+ 4 
+ 0 
+ 0 
+ –2 
+ 0 
+ Low 
+ Directness points deducted for unclear outcome in one RCT and inclusion of co-intervention in one RCT 
+ 
+ 
+ at least 3 (at least 477) 
+ Visual acuity 
+ Scleral buckling versus primary vitrectomy in phakic rhegmatogenous retinal detachment (RRD) 
+ 4 
+ –1 
+ 0 
+ –2 
+ 0 
+ Very low 
+ Quality point deducted for incomplete reporting of results; directness points deducted for unclear clinical relevance and because some people had secondary procedures 
+ 
+ What are the effects of interventions to treat rhegmatogenous retinal detachment associated with proliferative vitreoretinopathy? 
+ 
+ 1 (265 eyes) 
+ Re-attachment rate 
+ Silicone oil tamponade versus long-acting gas tamponade 
+ 4 
+ –1 
+ 0 
+ 0 
+ 0 
+ Moderate 
+ Quality point deducted for methodological issues (no statistical assessment for one comparison and poor follow-up at 36 months) 
+ 
+ 
+ 1 (265 eyes) 
+ Visual acuity 
+ Silicone oil tamponade versus long-acting gas tamponade 
+ 4 
+ 0 
+ 0 
+ 0 
+ 0 
+ High 
+ 
+ 
+ 
+ 1 (97 eyes) 
+ Re-attachment rate 
+ Silicone oil tamponade versus short-acting gas tamponade 
+ 4 
+ –1 
+ 0 
+ 0 
+ 0 
+ Moderate 
+ Quality point deducted for sparse data 
+ 
+ 
+ 1 (97 eyes) 
+ Visual acuity 
+ Silicone oil tamponade versus short-acting gas tamponade 
+ 4 
+ –1 
+ 0 
+ 0 
+ 0 
+ Moderate 
+ Quality point deducted for sparse data 
+ 
+ 
+ 2 (295) 
+ Re-attachment rate 
+ Corticosteroids versus no corticosteroids/placebo/standard care 
+ 4 
+ –1 
+ 0 
+ –1 
+ 0 
+ Low 
+ Quality point deducted for incomplete reporting of results; directness point deducted for the small number of comparators 
+ 
+ 
+ 2 (295) 
+ Visual acuity 
+ Corticosteroids versus no corticosteroids/placebo/standard care 
+ 4 
+ –1 
+ 0 
+ –1 
+ 0 
+ Low 
+ Quality point deducted for incomplete reporting of results; directness point deducted for the small number of comparators 
+ 
+ 
+ 1 (220) 
+ Re-operation rate 
+ Corticosteroids versus no corticosteroids/placebo/standard care 
+ 4 
+ –1 
+ 0 
+ –1 
+ 0 
+ Low 
+ Quality point deducted for incomplete reporting of results; directness point deducted for the small number of comparators 
+ 
+ 
+ 2 (307) 
+ Re-attachment rate 
+ Daunorubicin versus no daunorubicin/placebo/standard care 
+ 4 
+ –1 
+ 0 
+ 0 
+ 0 
+ Moderate 
+ Quality point deducted for incomplete reporting 
+ 
+ 
+ 2 (294) 
+ Visual acuity 
+ Daunorubicin versus no daunorubicin/placebo/standard care 
+ 4 
+ –1 
+ 0 
+ 0 
+ 0 
+ Moderate 
+ Quality point deducted for incomplete reporting 
+ 
+ 
+ 1 (286) 
+ Re-operation rate 
+ Daunorubicin versus no daunorubicin/placebo/standard care 
+ 4 
+ 0 
+ 0 
+ 0 
+ 0 
+ High 
+ 
+ 
+ 
+ 1 (148) 
+ Re-attachment rate 
+ Fluorouracil plus heparin versus placebo 
+ 4 
+ –2 
+ 0 
+ 0 
+ 0 
+ Low 
+ Quality points deducted for sparse data and incomplete reporting 
+ 
+ 
+ 1 (157) 
+ Visual acuity 
+ Fluorouracil plus heparin versus placebo 
+ 4 
+ –1 
+ 0 
+ 0 
+ 0 
+ Moderate 
+ Quality point deducted for sparse data 
+ 
+ 
+ 
+ Open in a new tab 
+ We initially allocate 4 points to evidence from RCTs, and 2 points to evidence from observational studies. To attain the final GRADE score for a given comparison, points are deducted or added from this initial score based on preset criteria relating to the categories of quality, directness, consistency, and effect size. 
+Quality: based on issues affecting methodological rigour (e.g., incomplete reporting of results, quasi-randomisation, sparse data [<200 people in the analysis]). 
+Consistency: based on similarity of results across studies. 
+Directness: based on generalisability of population or outcomes. 
+Effect size: based on magnitude of effect as measured by statistics such as relative risk, odds ratio, or hazard ratio. Glossary 
+ 
+ Aphakic 
+ 
+An aphakic eye has neither a natural crystalline lens nor an artificial lens. 
+ Classification of PVR 
+ Grade A PVR denotes vitreous haze and pigment clumping (of retinal pigment epithelium cells) in the vitreous cavity (although this grade is rarely used). Grade B PVR shows areas of surface retinal wrinkling with rolled edges to retinal tears. Grade C PVR consists of fixed full thickness retinal folds involving 1 to 3 quadrants: Grade C1–C3. Grade D was classified as a total RRD with either a wide (D1), narrow (D2), or closed (D3) funnel configuration because of fixed retinal folds. Grade D was removed from the 1991 classification update, and Grade C was divided into anterior and posterior PVR, which is then subdivided based on the number of hours involved (CA1–12 and CP1–12), and on type of fibrosis and contracture present (focal, diffuse, or subretinal, and anterior, circumferential, and/or anterior displacement [anterior loop traction]). 
+ High-quality evidence 
+ Further research is very unlikely to change our confidence in the estimate of effect. 
+ Laser photocoagulation 
+ Refers to the transpupillary application of laser (usually argon laser) to retinal breaks or predisposing rhegmatogenous retinal detachment lesions. It can be delivered either by a slit lamp-mounted laser system or by using a laser connected to an indirect ophthalmoscope. Contiguous laser burns are placed around the lesion in 2 to 3 rows leading to areas of full-thickness chorioretinal adhesion within 2 to 3 days of treatment. Laser photocoagulation can be carried out under local anaesthetic. Because it is delivered through the pupil, posterior retinal lesions can be treated without the need to open the conjunctiva. 
+ Low-quality evidence 
+ Further research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate. 
+ Macular pucker 
+ 
+refers to the distorted anatomical appearance of the macular retina caused by localised epiretinal fibrotic membrane formation. It can result in distorted and reduced central vision. 
+ Moderate-quality evidence 
+ Further research is likely to have an important impact on our confidence in the estimate of effect and may change the estimate. 
+ Phakic 
+ 
+A phakic eye has an intact natural crystalline lens. 
+ Pneumatic retinopexy 
+ 
+A small volume of gas, primarily expansile gas, is injected into the vitreous cavity and used to close the retinal break(s). No attempt is made to relieve vitreoretinal traction. Once closure of retinal breaks is achieved, the physiological retinal pigment epithelium pump removes subretinal fluid resulting in retinal reattachment. Before or after gas injection, laser or cryotherapy is usually applied to the retinal breaks (retinopexy) to create a permanent choroidoretinal adhesion. 
+ Posterior vitreous detachment (PVD) 
+ is the separation of the vitreous gel from its posterior attachment to the retina. PVD is associated with ageing of the vitreous characterised by liquefaction of the vitreous gel itself. Liquefaction occurs at an earlier age in myopic eyes than in emmetropic and hypermetropic eyes, and can be accelerated by inflammation caused by surgery, trauma, or uveitis. Vitreous liquefaction leads to vitreous gel instability, which triggers PVD. PVD is present in autopsy studies in less than 10% of people aged under 50 years, in at least one eye in 27% of people aged 60 to 65 years, and in 63% of people aged over 70 years. It usually occurs as an acute event with rapid evolution of vitreoretinal separation from the posterior to anterior retina.
+ 
+ Proliferative vitreoretinopathy (PVR) 
+ 
+after a retinal detachment may occur either spontaneously before surgery or after treatment. PVR refers to the growth of avascular fibrocellular membranes within the vitreous cavity and on the front and back surfaces of the retina. These membranes, which are essentially scar tissues, occur in the mildest form as fine fibrous membranes on the retinal surface without visible retinal distortion or merely rolling of the edges of retinal breaks. In more severe forms, the membranes cause fixed retinal folds, preventing closure of retinal breaks and exerting traction on the retina. Retinal folds may also result in recurrence of retinal detachment, even after an initially successful retinal detachment procedure, because of spontaneous reopening of otherwise successfully treated retinal breaks, or because of the development of new retinal breaks. Epiretinal membranes on the surface of the macula causing macular pucker and ocular hypotony secondary to PVR involving the ciliary body may also occur. PVR may result in disappointing visual results.
+ 
+ Pseudophakic 
+ 
+A pseudophakic eye has had the natural lens removed and replaced with an artificial intraocular lens implant. 
+ Retinal dialysis 
+ 
+is a separation of the retina where it inserts into the pars plana at the ora serrata. 
+ Retinal operculum 
+ 
+This is a separated flap of retina avulsed from the retinal surface by vitreoretinal separation, leaving a retinal hole. 
+ Retinal-flap tear 
+ 
+This is a tear in the retina associated with local vitreoretinal traction, separation, or both; the flap of the tear remains attached to the vitreous and connected by its base to the anterior edge of the retinal tear. 
+ Scleral buckling surgery 
+ 
+A buckling element or explant, usually made of either solid silicone or silicone sponge, is sutured to the sclera externally to indent the sclera and underlying retinal pigment epithelium towards the detached retina at the site of the retinal break(s), to close the break and relieve vitreoretinal traction. Buckles can be either segmental or encircling. Once closure of retinal breaks is achieved, the physiological retinal pigment epithelium pump removes subretinal fluid resulting in retinal reattachment. This process can be assisted by subretinal fluid drainage at the time of surgery, which also allows break closure if subretinal fluid is deep. During surgery, laser or cryotherapy is usually applied to the retinal breaks (retinopexy) to create a permanent choroidoretinal adhesion.
+ 
+ Silicone oil tamponade 
+ 
+is used in vitrectomy as an alternative to gas. Silicone oil is also now available in a heavier-than-water preparation, allowing inferior retinal tamponade without head-down posturing. 
+ Snellen visual acuity 
+ The Snellen chart usually includes letters, numbers, or pictures printed in lines of decreasing size, which are read or identified from a fixed distance; distance visual acuity is usually measured from a distance of 6 m (20 feet). The Snellen visual acuity is written as a fraction: 6/18 means that from 6 m away the best line that can be read is a line that could normally be read from a distance of 18 m away. 
+ Stickler's syndrome (hereditary arthro-ophthalmopathy) 
+ is a hereditary disease of type 2 collagen resulting in abnormal vitreous, myopia, and a variable degree of orofacial abnormalities, deafness, and arthropathies. 
+ Very low-quality evidence 
+ Any estimate of effect is very uncertain. 
+ Visual acuity testing 
+ This is carried out with charts using letters or standard pictures or symbols. Modern tests that incorporate crowding and logMAR (logarithm of the minimum angle of resolution) size scaling are more accurate. One line of letters or symbols (usually 4 or 5) constitutes 0.1 logMAR units and roughly approximates to one line on a Snellen chart, although this conversion factor is inaccurate and should only be used as a crude guide to interpretation. Given the variability in test performance within individuals, a change in 0.2 logMAR units is often quoted as being the smallest clinically important change, although some studies use a change of 0.1 logMAR or greater, which might be considered clinically more marginal. Change of less than 0.1 logMAR unit is not clinically important and could be accounted for by test–retest variability. 
+ Vitrectomy 
+ The vitreous is removed internally using a cutting aspirating instrument relieving vitreoretinal traction directly. A tamponade agent, usually gas or silicone oil, is used to close the break(s). Closure is assisted by postoperative positioning to place the tamponade bubble against the break(s) in an optimum way. Gases can be short- (SF 6 ), medium- (C 2 F 6 ), or long-acting (C 3 F 8 ), and last a variable period of time depending on concentration and gas fill before being absorbed. Once closure of retinal breaks is achieved, the physiological retinal pigment epithelium pump removes subretinal fluid resulting in retinal reattachment. This process can be assisted by subretinal fluid drainage at the time of surgery. During surgery, laser or cryotherapy is usually applied to the retinal breaks (retinopexy) to create a permanent choroidoretinal adhesion.
+ 
+ logMAR chart 
+ 
+A tool for measuring visual acuity, similar to but more precise than a Snellen chart. The chart is typically read at 4 m and scored from the total number of letters read. A score of 1.0 is equivalent to Snellen acuity 6/60 and indicates that all 5 letters on the top line, but no others, were read. A score of 0.1 is equivalent to Snellen acuity 6/6. 
+ Disclaimer 
+ The information contained in this publication is intended for medical professionals. Categories presented in Clinical Evidence indicate a judgement about the strength of the evidence available to our contributors prior to publication and the relevant importance of benefit and harms. We rely on our contributors to confirm the accuracy of the information presented and to adhere to describe accepted practices. Readers should be aware that professionals in the field may have different opinions. Because of this and regular advances in medical research we strongly recommend that readers' independently verify specified treatments and drugs including manufacturers' guidance. Also, the categories do not indicate whether a particular treatment is generally appropriate or whether it is suitable for a particular individual. Ultimately it is the readers' responsibility to make their own professional judgements, so to appropriately advise and treat their patients. 
+To the fullest extent permitted by law, BMJ Publishing Group Limited and its editors are not responsible for any losses, injury or damage caused to any person or property (including under contract, by negligence, products liability or otherwise) whether they be direct or indirect, special, incidental or consequential, resulting from the application of the information in this publication. References 
+ 
+ 
+ 1. Yanoff M, Duker JJ. Ophthalmology. 2nd ed. St Louis, MO: Mosby, 2004: 982–989. [ Google Scholar ] 
+ 
+ 2. Kanski JK. Clinical ophthalmology. Edinburgh, UK: Butterworth-Heinemann, 2003: 349–388. [ Google Scholar ] 
+ 
+ 3. Yanoff M, Duker JJ. Ophthalmology. 2nd ed. St Louis, MO: Mosby, 2004: 990. [ Google Scholar ] 
+ 
+ 4. Tanner V, Harle D, Tan J, et al. Acute posterior vitreous detachment: the predictive value of vitreous pigment and symptomatology. Br J Ophthalmol 2000;84:1264–1268.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Rowe JA, Erie JC, Baratz KH, et al. Retinal detachment in Olmsted County, Minnesota, 1976 through 1995. Ophthalmology 1999;106:154–159.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Laatikainen L, Tolppanen EM, Harju H. Epidemiology of rhegmatogenous retinal detachment in a Finnish population. Acta Ophthalmol (Copenh) 1985;63:59–64.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Törnquist R, Stenkula S, Törnquist P. Retinal detachment. A study of a population-based patient material in Sweden 1971–1981. I. Epidemiology. Acta Ophthalmol (Copenh) 1987;65:213–222.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Haimann MH, Burton TC, Brown CK. Epidemiology of retinal detachment. Arch Ophthalmol 1982;100:289–292.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Haut J, Massin M. Frequency of incidence of retina detachment in the French population. Percentage of bilateral detachment. Arch Ophthalmol Rev Gen Ophthalmol 1975;35:533–536. [In French]
+ [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Wilkes SR, Beard CM, Kurland LT, et al. The incidence of retinal detachment in Rochester, Minnesota, 1970–1978. Am J Ophthalmol 1982;94:670–673.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Polkinghorne PJ, Craig JP. Northern New Zealand Rhegmatogenous Retinal Detachment Study: epidemiology and risk factors. Clin Experiment Ophthalmol 2004;32:159–163.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Wilkinson CP, Rice TA. Michel's retinal detachment. 2nd ed. St Louis, MO: Mosby, 1997: 29. [ Google Scholar ] 
+ 
+ 13. Wilkinson CP, Rice TA. Michel's retinal detachment. 2nd ed. St Louis, MO: Mosby, 1997: 93. [ Google Scholar ] 
+ 
+ 14. Wilkinson CP. Evidence-based analysis of prophylactic treatment of asymptomatic retinal breaks and lattice degeneration. Ophthalmology 2000;107:12–16.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Wilkinson CP, Rice TA. Michel's retinal detachment. 2nd ed. St Louis, MO: Mosby, 1997: 49. [ Google Scholar ] 
+ 
+ 16. Shea M, Davis MD, Kamel I. Retinal breaks without detachment, treated and untreated. Mod Probl Ophthalmol 1974;12:97–102.
+ [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Foos RY, Allen RA. Retinal tears and lesser lesions of the peripheral retina in autopsy eyes. Am J Ophthalmol 1967;64:643–655.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Byer NE. What happens to untreated asymptomatic retinal breaks, and are they affected by posterior vitreous detachment? Ophthalmology 1998;105:1045–1049.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Burton TC. The influence of refractive error and lattice degeneration on the incidence of retinal detachment. Trans Am Ophthalmol Soc 1989;87:143–155.
+ [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Byer NE. Lattice degeneration of the retina. Surv Ophthalmol 1979;23:213–248.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Okun E. Gross and microscopic pathology in autopsy eyes. III. Retinal breaks without detachment. Am J Ophthalmol 1961;51:369–391.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Vote BJ, Casswell AG. Retinal dialysis: are we missing diagnostic opportunities? Eye 2004;18:709–713.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Johnston PB. Traumatic retinal detachment. Br J Ophthalmol 1991;75:18–21.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Ashrafzadeh MT, Schepens CL, Elzeneiny II, et al. Aphakic and phakic retinal detachment. I. Preoperative findings. Arch Ophthalmol 1973;89:476–483.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Eye Disease Case Control Study Group. Risk factors for idiopathic rhegmatogenous retinal detachment. Am J Epidemiol 1993;137:749–757.
+ [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Mitry D, Charteris DG, Yorston D, et al; Scottish RD Study Group. The epidemiology and socioeconomic associations of retinal detachment in Scotland: a two-year prospective population-based study. Invest Ophthalmol Vis Sci 2010;51:4963–4968.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Byer NE. Rethinking prophylactic treatment of retinal detachment. In: Stirpe M, ed. Advances in vitreoretinal surgery. Acta Third International Congress on Vitreoretinal Surgery. Rome, 12–14 September 1991. New York, NY: Ophthalmic Communications Society, 1992: 399–411. [ Google Scholar ] 
+ 
+ 28. Davis MD. The natural history of retinal breaks without detachment. Trans Am Ophthalmol Soc 1973;71:343–372.
+ [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Dralands L, Larminier F, Cornelis H, et al. Evolution of lesions of the retinal periphery in the fellow eye of a retinal detachment. Bull Mem Soc Fr Ophtalmol 1981;92:73–77. [In French]
+ [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Hovland KR. Vitreous findings in fellow eyes of aphakic retinal detachment. Am J Ophthalmol 1978;86:350–353.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Folk JC, Arrindell EL, Klugman MR. The fellow eye of patients with phakic lattice retinal detachment. Ophthalmology 1989;96:72–79.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Bhagwandien AC, Cheng YY, Wolfs RC, et al. Relationship between retinal detachment and biometry in 4262 cataractous eyes. Ophthalmology 2006;113:643–649.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Tuft SJ, Minassian D, Sullivan P. Risk factors for retinal detachment after cataract surgery: a case-control study. Ophthalmology 2006;113:650–656.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Wilkinson CP, Rice TA. Michel's retinal detachment. 2nd ed. St Louis, MO: Mosby, 1997: 935–977. [ Google Scholar ] 
+ 
+ 35. Retina Society Terminology Committee. The classification of retinal detachment with proliferative vitreoretinopathy. Ophthalmology 1983;90:121–125.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Machemer R, Aaberg TM, Freeman HM, et al. An updated classification of retinal detachment with proliferative vitreoretinopathy. Am J Ophthalmol 1991;112:159–165.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Wilkinson CP, Rice TA. Michel's retinal detachment. 2nd ed. St Louis, MO: Mosby, 1997: 960–961. [ Google Scholar ] 
+ 
+ 38. Tornambe PE, Hilton GF. Pneumatic retinopexy. A multicenter randomized controlled clinical trial comparing pneumatic retinopexy with scleral buckling. The Retinal Detachment Study Group. Ophthalmology 1989;96:772–783.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Mulvihill A, Fulcher T, Datta V, et al. Pneumatic retinopexy versus scleral buckling: a randomised controlled trial. Ir J Med Sci 1996;165:274–277.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Soni C, Hainsworth DP, Almony A. Surgical management of rhegmatogenous retinal detachment: a meta-analysis of randomized controlled trials. Ophthalmology 2013;120:1440–1447.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Sun Q, Sun T, Xu Y, et al. Primary vitrectomy versus scleral buckling for the treatment of rhegmatogenous retinal detachment: a meta-analysis of randomized controlled clinical trials. Curr Eye Res 2012;37:492–499.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Brazitikos PD, Androudi S, Christen WG, et al. Primary pars plana vitrectomy versus scleral buckle surgery for the treatment of pseudophakic retinal detachment: a randomized clinical trial. Retina 2005;25:957–964.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Sharma YR, Karunanithi S, Azad RV, et al. Functional and anatomic outcome of scleral buckling versus primary vitrectomy in pseudophakic retinal detachment. Acta Ophthalmol Scand 2005;83:293–297.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Ahmadieh H, Moradian S, Faghihi H, et al. Anatomic and visual outcomes of scleral buckling versus primary vitrectomy in pseudophakic and aphakic retinal detachment: six-month follow-up results of a single operation – report no. 1. Ophthalmology 2005;112:1421–1429.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Heimann H, Bartz-Schmidt KU, Bornfeld N, et al. Scleral buckling versus primary vitrectomy in rhegmatogenous retinal detachment: a prospective randomized multicenter clinical study. Ophthalmology 2007;114:2142–2154.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Koriyama M, Nishimura T, Matsubara T, et al. Prospective study comparing the effectiveness of scleral buckling to vitreous surgery for rhegmatogenous retinal detachment. Jpn J Ophthalmol 2007;51:360–367.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Schwartz SG, Flynn HW Jr, Lee WH, et al. Tamponade in surgery for retinal detachment associated with proliferative vitreoretinopathy. In: The Cochrane Library, Issue 3, 2013. Chichester, UK: John Wiley & Sons, Ltd. Search date 2009. [ Google Scholar ] 
+ 
+ 48. McCuen B, Azen SP, Boone DC, et al; Silicone Study Group. Vitrectomy with silicone oil or perfluoropropane gas in eyes with severe proliferative vitreoretinopathy: results of a randomized controlled trial. Silicone Study Report 2. Arch Ophthalmol 1992;110:780–792.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Barr CC, Lai MY, Lean JS, et al. Postoperative intraocular pressure abnormalities in the Silicone Study. Silicone Study Report 4. Ophthalmology 1993;100:1629–1635.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Cox MS, Azen SP, Barr CC, et al. Macular pucker after successful surgery for proliferative vitreoretinopathy. Silicone Study Report 8. Ophthalmology 1995;102:1884–1891.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Lean JS, Boone DC, Azen SP, et al; Silicone Study Group. Vitrectomy with silicone oil or sulfur hexafluoride gas in eyes with severe proliferative vitreoretinopathy: results of a randomized controlled trial. Silicone Study Report 1. Arch Ophthalmol 1992;110:770–779.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Ahmadieh H, Feghhi M, Tabatabaei H, et al. Triamcinolone acetonide in silicone-filled eyes as adjunctive treatment for proliferative vitreoretinopathy: a randomized clinical trial. Ophthalmology 2008;115:1938–1943.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Koerner F, Koerner-Stiefbold U, Garweg JG. Systemic corticosteroids reduce the risk of cellophane membranes after retinal detachment surgery: a prospective randomized placebo-controlled double-blind clinical trial. Graefes Arch Clin Exp Ophthalmol 2012;250:981–987.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Wiedemann P, Hilgers RD, Bauer P, et al. Adjunctive daunorubicin in the treatment of proliferative vitreoretinopathy: results of a multicenter clinical trial. Daunomycin Study Group. Am J Ophthalmol 1998;126:550–559.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Kumar A, Nainiwal S, Choudhary I, et al. Role of daunorubicin in inhibiting proliferative vitreoretinopathy after retinal detachment surgery. Clin Experiment Ophthalmol 2002;30:348–351.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Charteris DG, Aylward GW, Wong D, et al. A randomized controlled trial of combined 5-fluorouracil and low-molecular-weight heparin in management of established proliferative vitreoretinopathy. Ophthalmology 2004;111:2240–2245.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Asaria RH, Kon CH, Bunce C, et al. Adjuvant 5-fluorouracil and heparin prevents proliferative vitreoretinopathy: results from a randomized, double-blind controlled clinical trial. Ophthalmology 2001;108:1179–1183.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Wilkinson CP, Rice TA. Michel's retinal detachment. St Louis, MO: Mosby, 1997: 29–33. [ Google Scholar ] 
+ 
+ 59. Yanoff M, Duker JJ. Ophthalmology. 2nd ed. St Louis, MO: Mosby, 2004: 1002–1003. [ Google Scholar ] 
+ 
+ 60. Yanoff M, Duker JJ. Ophthalmology. 2nd ed. St Louis, MO: Mosby, 2004: 787. [ Google Scholar ] 
+ 
+ 61. Kanski JK. Clinical ophthalmology. Edinburgh, UK: Butterworth-Heinemann, 2003: 383–384. [ Google Scholar ] 
+ BMJ Clin Evid. 2014 Mar 3;2014:0710. 
+ Scleral buckling versus pneumatic retinopexy 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ Collection date 2014. 
+ PMC Copyright notice 
+ 
+ 
+ Summary 
+ There is consensus that scleral buckling and pneumatic retinopexy are both effective for treating rhegmatogenous retinal detachment (RRD). However, we found insufficient evidence to assess the effects of scleral buckling compared with pneumatic retinopexy. 
+ Scleral buckling has been associated with higher rates of refractive change (usually a myopic shift in refraction), diplopia with extraocular muscle dysfunction, and subretinal haemorrhage compared with pneumatic retinopexy. Benefits and harms 
+ Scleral buckling versus pneumatic retinopexy: 
+ We found two RCTs.
+
+ 
+ Re-attachment rate 
+ 
+ Scleral buckling compared with pneumatic retinopexy Scleral buckling and pneumatic retinopexy seem equally effective at increasing re-attachment rates (after one operation and final rate) in people with phakic, pseudophakic, or aphakic rhegmatogenous retinal detachment (RRD) and superior retinal breaks ( moderate-quality evidence ). 
+ 
+ 
+ Ref (type) 
+ Population 
+ Outcome, Interventions 
+ Results and statistical analysis 
+ Effect size 
+ Favours 
+ 
+ 
+ 
+ Re-attachment rates 
+ 
+ 
+ 
+
+ RCT 
+ 198 eyes with phakic (108 eyes), pseudophakic (70 eyes), or aphakic (20 eyes) rhegmatogenous retinal detachment (RRD), involving retinal breaks within 1 disc diameter of each other located in the superior retina, without severe proliferative vitreoretinopathy (PVR) 
+ 
+ 
+ 
+Re-attachment rates after one operation
+6 months
+ 
+ 78/95 (82%) eyes with
+ scleral buckling 
+ 75/103 (73%) eyes with
+ pneumatic retinopexy 
+ 
+ 
+ Reported as not significant
+ P value not reported
+ 
+ 
+ Not significant 
+ 
+ 
+ 
+
+ RCT 
+ 198 eyes with phakic (108 eyes), pseudophakic (70 eyes), or aphakic (20 eyes) RRD, involving retinal breaks within 1 disc diameter of each other located in the superior retina, without severe PVR 
+ 
+ 
+Final re-attachment rates
+ 
+ 93/95 (98%) eyes with scleral buckling 102/103 (99%) eyes with pneumatic retinopexy 
+ 
+ Reported as not significant
+ P value not reported
+ 
+ 
+ Not significant 
+ 
+ 
+ 
+
+ RCT 
+ 20 people with RRD and single retinal break or small group of breaks in phakic or pseudophakic eyes without severe PVR 
+ 
+ 
+Re-attachment rate
+ 
+ 8/10 (80%) with scleral buckling 7/10 (70%) with pneumatic retinopexy 
+ 
+ Significance not assessed
+ 
+ 
+ 
+ 
+ 
+ 
+ Open in a new tab Visual acuity 
+ 
+ Scleral buckling compared with pneumatic retinopexy Scleral buckling and pneumatic retinopexy seem equally effective at improving visual acuity in people with phakic, pseudophakic, or aphakic rhegmatogenous retinal detachment and superior retinal breaks. However, in eyes with preoperative detachment of the macula for up to 14 days, scleral buckling seems less effective at improving visual acuity ( moderate-quality evidence ). 
+ 
+ 
+ Ref (type) 
+ Population 
+ Outcome, Interventions 
+ Results and statistical analysis 
+ Effect size 
+ Favours 
+ 
+ 
+ 
+ Visual acuity 
+ 
+ 
+ 
+
+ RCT 
+ 198 eyes with phakic (108 eyes), pseudophakic (70 eyes), or aphakic (20 eyes) rhegmatogenous retinal detachment (RRD), involving retinal breaks within 1 disc diameter of each other located in the superior retina, without severe proliferative vitreoretinopathy (PVR) 
+ 
+ 
+ 
+Proportion of eyes with visual acuity of 20/50 or better on the Snellen scale 
+6 months
+ 
+ 64/95 (68%) eyes with
+ scleral buckling 
+ 90/103 (87%) eyes with
+ pneumatic retinopexy 
+ 
+ 
+ Significance not assessed
+ 
+ 
+ 
+ 
+ 
+ 
+
+ RCT 
+ 198 eyes with phakic (108 eyes), pseudophakic (70 eyes), or aphakic (20 eyes) RRD, involving retinal breaks within 1 disc diameter of each other located in the superior retina, without severe PVR 
+ 
+ 
+Proportion of eyes with visual acuity of 20/25
+ 
+ 12/95 (13%) eyes with scleral buckling 25/103 (24%) eyes with pneumatic retinopexy 
+ 
+ Reported as not significant
+ P = 0.05
+ 
+ 
+ Not significant 
+ 
+ 
+ 
+
+ RCT 
+ 109 eyes with preoperative detachment of the macula for up to 14 days Subgroup analysis 
+ 
+ 
+Proportion of eyes with visual acuity of 20/50 or better on the Snellen scale
+ 
+ 27/48 (56%) eyes with scleral buckling 49/61 (80%) eyes with pneumatic retinopexy 
+ 
+ P = 0.01
+ 
+ Effect size not calculated 
+ pneumatic retinopexy 
+ 
+ 
+ 
+ Open in a new tab No data from the following reference on this outcome.
+ Re-operation rate 
+ No data from the following reference on this outcome.
+
+ Adverse effects 
+ 
+ 
+ Ref (type) 
+ Population 
+ Outcome, Interventions 
+ Results and statistical analysis 
+ Effect size 
+ Favours 
+ 
+ 
+ 
+ Adverse effects 
+ 
+ 
+ 
+
+ RCT 
+ 198 eyes with phakic (108 eyes), pseudophakic (70 eyes), or aphakic (20 eyes) rhegmatogenous retinal detachment (RRD), involving retinal breaks within 1 disc diameter of each other located in the superior retina, without severe proliferative vitreoretinopathy (PVR) 
+ 
+ 
+ 
+Proportion of eyes with at least 1 dioptre of myopia
+ 
+ 65/95 (68%) eyes with
+ scleral buckling 
+ 3/103 (3%) eyes with
+ pneumatic retinopexy 
+ 
+ 
+ P = 0.0001
+ 
+ Effect size not calculated 
+ pneumatic retinopexy 
+ 
+ 
+ 
+
+ RCT 
+ 198 eyes with phakic (108 eyes), pseudophakic (70 eyes), or aphakic (20 eyes) RRD, involving retinal breaks within 1 disc diameter of each other located in the superior retina, without severe PVR 
+ 
+ 
+Persistent diplopia
+ 
+ 3/95 (3%) eyes with scleral buckling 0/103 (0%) eyes with pneumatic retinopexy 
+ 
+ Significance not assessed
+ 
+ 
+ 
+ 
+ 
+ 
+
+ RCT 
+ 198 eyes with phakic (108 eyes), pseudophakic (70 eyes), or aphakic (20 eyes) RRD, involving retinal breaks within 1 disc diameter of each other located in the superior retina, without severe PVR 
+ 
+ 
+Proliferative vitreoretinopathy (PVR)
+ 
+ 5/95 (5%) eyes with scleral buckling 3/103 (3%) eyes with pneumatic retinopexy 
+ 
+ Significance not assessed
+ 
+ 
+ 
+ 
+ 
+ 
+
+ RCT 
+ 198 eyes with phakic (108 eyes), pseudophakic (70 eyes), or aphakic (20 eyes) RRD, involving retinal breaks within 1 disc diameter of each other located in the superior retina, without severe PVR 
+ 
+ Macular pucker requiring surgery
+ 
+ 2/95 (2%) eyes with scleral buckling 0/103 (0%) eyes with pneumatic retinopexy 
+ 
+ Significance not assessed
+ 
+ 
+ 
+ 
+ 
+ 
+
+ RCT 
+ 198 eyes with phakic (108 eyes), pseudophakic (70 eyes), or aphakic (20 eyes) RRD, involving retinal breaks within 1 disc diameter of each other located in the superior retina, without severe PVR 
+ 
+ 
+Macular subretinal haemorrhage
+ 
+ 2/95 (2%) eyes with scleral buckling 0/103 (0%) eyes with pneumatic retinopexy 
+ 
+ Significance not assessed
+ 
+ 
+ 
+ 
+ 
+ 
+
+ RCT 
+ 108 phakic eyes Subgroup analysis 
+ 
+ 
+Progressive lens opacities
+24 months
+ 
+ 21/44 (47%) eyes with scleral buckling 10/53 (19%) eyes with pneumatic retinopexy 
+ 
+ Significance not assessed
+ 
+ 
+ 
+ 
+ 
+ 
+
+ RCT 
+ 108 phakic eyes Subgroup analysis 
+ 
+ 
+Proportion of people requiring cataract surgery
+ 
+ 8/44 (18%) eyes with scleral buckling 2/53 (4%) eyes with pneumatic retinopexy 
+ 
+ Significance not assessed
+ 
+ 
+ 
+ 
+ 
+ 
+
+ RCT 
+ 20 people with RRD and single retinal break or small group of breaks in phakic or pseudophakic eyes without severe PVR 
+ 
+ 
+Proliferative vitreoretinopathy (PVR) with RRD
+ 
+ 0/10 (0%) eyes with scleral buckling 2/10 (20%) eyes with pneumatic retinopexy 
+ 
+ Significance not assessed
+ 
+ 
+ 
+ 
+ 
+ 
+ Open in a new tab Further information on studies 
+ The RCT found no significant difference in final visual outcome between eyes with successful RRD repair with initial scleral buckling surgery and eyes that failed with initial pneumatic retinopexy and required further surgery (P >0.05; absolute data for final vision outcome in each group not reported). Comment 
+ Clinical guide: 
+ Rhegmatogenous retinal detachment (RRD) is repaired using techniques to close retinal breaks and relieve vitreoretinal traction. Although some RRDs could potentially be repaired by all three surgical techniques (scleral buckling, vitrectomy, or pneumatic retinopexy), this is not universally the case, and choice of surgery will depend on various factors, including the number, location, and size of retinal breaks present; the ability of the patient to posture to position tamponade agents in the correct place; lens status; and surgeon experience (including access to equipment). Vitrectomy techniques require specialist training, and equipment is expensive; access is thus limited in resource-poor areas. In clinical practice in the UK, Europe, and North America, people with phakic eyes and localised RRD with small anterior holes or retinal dialysis are usually treated with scleral buckling, especially if there is no associated posterior vitreous detachment. Eyes in which a scleral buckle cannot be placed (e.g., thin sclera) and people with vitreous opacity obstructing the retinal view, giant retinal breaks, or very posterior retinal breaks are usually treated with vitrectomy. Pneumatic retinopexy is usually reserved for people with a single or localised group of breaks in the superior retina. People with pseudophakic RRD represent about 20% of all RRD that presents in clinical practice in the UK. Retinal breaks in these cases are often small and difficult to see because of the intra-ocular lens and capsule remnants restricting the fundal view. There is an increasing trend to treat these people with vitrectomy rather than scleral buckling or pneumatic retinopexy, which allows accurate break localisation with the technique of internal searching. Furthermore, with the eye already being pseudophakic, a common adverse effect of vitrectomy surgery — cataract formation — is avoided, as well as the occasional refractive and extra-ocular muscle imbalance changes associated with scleral buckling. In some clinical situations, surgeons may choose vitrectomy surgery combined with scleral buckling; for example, in cases with superior and inferior retinal breaks, especially if there is pre-existing proliferative vitreoretinopathy. Substantive changes 
+ No new evidence

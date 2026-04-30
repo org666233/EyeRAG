@@ -1,0 +1,1401 @@
+Source: PubMed Central (PMC)
+PMCID: PMC8102486
+Title: Infectious keratitis: an update on epidemiology, causative microorganisms, risk factors, and antimicrobial resistance
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8102486/
+Year: 2021
+Disease: keratitis
+Priority: 3
+============================================================
+
+Eye (Lond) . 2021 Jan 7;35(4):1084–1101. doi: 10.1038/s41433-020-01339-3 
+ 
+ 
+ Show available content in 
+ en 
+ zh 
+ 
+ 
+ 
+ Infectious keratitis: an update on epidemiology, causative microorganisms, risk factors, and antimicrobial resistance 
+ Darren Shu Jeng Ting 
+ Darren Shu Jeng Ting 
+ 
+ 1 Academic Ophthalmology, Division of Clinical Neuroscience, School of Medicine, University of Nottingham, Nottingham, UK 
+ 
+ 2 Department of Ophthalmology, Queen’s Medical Centre, Nottingham, UK 
+ Find articles by Darren Shu Jeng Ting 
+ 
+ 
+ 1, 2, # , Charlotte Shan Ho 
+ Charlotte Shan Ho 
+ 
+ 2 Department of Ophthalmology, Queen’s Medical Centre, Nottingham, UK 
+ Find articles by Charlotte Shan Ho 
+ 
+ 
+ 2, # , Rashmi Deshmukh 
+ Rashmi Deshmukh 
+ 
+ 2 Department of Ophthalmology, Queen’s Medical Centre, Nottingham, UK 
+ Find articles by Rashmi Deshmukh 
+ 
+ 
+ 2 , Dalia G Said 
+ Dalia G Said 
+ 
+ 1 Academic Ophthalmology, Division of Clinical Neuroscience, School of Medicine, University of Nottingham, Nottingham, UK 
+ 
+ 2 Department of Ophthalmology, Queen’s Medical Centre, Nottingham, UK 
+ Find articles by Dalia G Said 
+ 
+ 
+ 1, 2 , Harminder S Dua 
+ Harminder S Dua 
+ 
+ 1 Academic Ophthalmology, Division of Clinical Neuroscience, School of Medicine, University of Nottingham, Nottingham, UK 
+ 
+ 2 Department of Ophthalmology, Queen’s Medical Centre, Nottingham, UK 
+ Find articles by Harminder S Dua 
+ 
+ 
+ 1, 2, ✉ 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Academic Ophthalmology, Division of Clinical Neuroscience, School of Medicine, University of Nottingham, Nottingham, UK 
+ 
+ 2 Department of Ophthalmology, Queen’s Medical Centre, Nottingham, UK 
+ 
+ 
+ ✉ Corresponding author. 
+ 
+ 
+ # Contributed equally. 
+ 
+ 
+ 
+ Received 2020 Jul 20; Revised 2020 Oct 22; Accepted 2020 Nov 24; Issue date 2021 Apr. 
+ 
+ © The Author(s) 2021, corrected publication 2021 
+ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ . 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC8102486  PMID: 33414529 
+ 
+ 
+ This article has been corrected. See Eye (Lond). 2021 May 11;35(10):2908 . 
+ Abstract 
+ Corneal opacity is the 5th leading cause of blindness and visual impairment globally, affecting ~6 million of the world population. In addition, it is responsible for 1.5–2.0 million new cases of monocular blindness per year, highlighting an ongoing uncurbed burden on human health. Among all aetiologies such as infection, trauma, inflammation, degeneration and nutritional deficiency, infectious keratitis (IK) represents the leading cause of corneal blindness in both developed and developing countries, with an estimated incidence ranging from 2.5 to 799 per 100,000 population-year. IK can be caused by a wide range of microorganisms, including bacteria, fungi, virus, parasites and polymicrobial infection. Subject to the geographical and temporal variations, bacteria and fungi have been shown to be the most common causative microorganisms for corneal infection. Although viral and Acanthamoeba keratitis are less common, they represent important causes for corneal blindness in the developed countries. Contact lens wear, trauma, ocular surface diseases, lid diseases, and post-ocular surgery have been shown to be the major risk factors for IK. Broad-spectrum topical antimicrobial treatment is the current mainstay of treatment for IK, though its effectiveness is being challenged by the emergence of antimicrobial resistance, including multidrug resistance, in some parts of the world. In this review, we aim to provide an updated review on IK, encompassing the epidemiology, causative microorganisms, major risk factors and the impact of antimicrobial resistance. 
+ Subject terms: Corneal diseases, Epidemiology, Risk factors 摘要 
+ 角膜混浊是全球致盲和视力障碍的第五大原因, 世界范围内大约600万人受其影响。此外, 角膜混浊每年导致的单眼失明约150-200万例, 突显其对人类健康造成的持久性负担。在感染、创伤、炎症、变性和营养缺乏等所有的致病因素中, 感染性角膜炎 (IK) 是发达国家和发展中国家角膜病致盲的主要原因, 大概每100000人口中2.5-799人罹患此病。IK可由多种微生物引起, 包括细菌、真菌、病毒、寄生虫和多重感染。受地理和时间变化的影响, 细菌和真菌已被证明是角膜感染最常见的病原微生物。虽然病毒性角膜炎和棘阿米巴角膜炎并不常见, 但在发达国家, 它们是角膜病致盲的重要原因。接触镜的佩戴、外伤、眼表疾病、眼睑疾病以及眼部手术已证实是IK的主要危险因素。广谱抗生素是目前IK治疗的主要选择, 但是在世界某些地区, 其有效性正在受到抗菌药物耐药性的挑战, 其中包含多重耐药性等。本篇综述旨在提供有关IK的最新进展, 包括流行病学、病原微生物、主要危险因素以及抗生素耐药性对于疗效的影响。 Introduction 
+ Corneal opacity represents the 5th leading cause of blindness globally, accounting for ~3.2% of all cases [ 1 ]. The recent World Health Organisation (WHO) report highlighted that ~6 million of the world population are affected by cornea-related blindness or moderate/severe visual impairment, including 2 million of those who are affected by trachoma [ 1 , 2 ]. In addition, corneal opacity is estimated to be responsible for 1.5–2.0 million cases of unilateral blindness annually, highlighting an ongoing unchecked burden on human health [ 3 , 4 ]. 
+ Any significant insult to the cornea such as infection, trauma, inflammation, degeneration, or nutritional deficiency can result in corneal opacity with visual impairment. Among all, infectious keratitis (IK) has been shown to be the most common cause for corneal blindness in both developed and developing countries [ 5 ]. According to a nationwide study, IK was shown to be the most common cause of all corneal blindness in China, primarily attributed to increased risk of trauma, low socioeconomic status and illiteracy [ 6 ]. IK is a common yet potentially vision-threatening ophthalmic condition, characterised by acute ocular pain, decreased vision, corneal ulceration, and/or stromal infiltrates [ 5 ]. Previously, it has been recognised as a “silent epidemic” in the developing world [ 3 ], and recently, a consortium-led proposal has suggested the designation of IK as a “neglected tropical disease (NTD)” [ 7 ], adding on to the list of NTDs in ophthalmology (i.e. trachoma, onchocerciasis and leprosy). The proposal to attain status of an NTD aims to draw concerted global effort to tackle IK in under-resourced tropical countries, to ameliorate the societal and humanistic burden of IK. 
+ IK can be caused by a wide variety of pathogens including bacteria, fungi, protozoa and viruses. In addition, polymicrobial infection has shown to be accountable for ~2–15% of all IK cases [ 8 – 11 ]. As the ocular surface is equipped with highly regulated innate and adaptive defense mechanisms [ 12 ], IK rarely occurs in the absence of predisposing factors such as contact lens (CL) wear, trauma, ocular surface diseases (OSDs), and post-corneal surgery, which are some of the common risk factors implicated in IK [ 13 ]. 
+ IK not only causes visual impairment, but also negatively impacts on the quality of life (QOL) of the affected individuals. A study from Uganda reported that IK affected both vision-related QOL (attributed to vision loss) and health-related QOL (attributed to pain in the acute phase) [ 14 ]. The psychological impact on these patients was related to the fear of losing the eye and the social stigma attached. Even when the visual recovery was complete, the individuals affected by IK displayed a lower QOL score than the unaffected controls [ 14 ]. Apart from the impact on the individuals which can affect their economic productivity, IK is also responsible for a huge economic burden on society. According to a report in 2010, the US spent an estimated 175 million dollars on the treatment of IK [ 15 ]. Furthermore, complications of IK such as corneal perforations and scarring form the major indications of corneal transplants in developing countries such as India, Thailand and China [ 13 ], placing additional burden on the limited pool of donor corneas. 
+ Considering that most parts of the world affected by IK are under-resourced, it is highly likely that the actual burden of IK is underestimated due to the lack of surveillance and under-reporting. In view of the global burden of IK, this review aims to provide an updated and comprehensive overview of the epidemiology, causative microorganisms, risk factors and the impact of antimicrobial resistance in relation to IK. Epidemiology 
+ B.1. Incidence 
+ To date, there are limited studies available in the literature that examined the incidence of IK and the majority of studies were conducted more than a decade ago [ 5 ]. Depending on the geographical location and study design, the incidence of IK has been estimated to be in the range of 2.5–799 cases per 100,000 population/year [ 16 , 17 ], particularly more prevalent in the low-income countries. Previous IK studies reported an estimated incidence of 2.5–27.6 per 100,000 population-year in the US [ 16 , 18 ] and 2.6–40.3 per 100,000 population-year in the UK [ 19 , 20 ]. Our recent Nottingham IK Study concurred with the findings of these older studies. We observed a relatively stable incidence of 34.7 per 100,000 population-year in Nottingham, UK, between 2007 and 2019 [ 8 ], highlighting a persistent burden of IK in the developed countries. Another recent study conducted in Australia similarly demonstrated a low IK incidence of 6.6 per 100,000 population-year during the period of 2005–2015 [ 21 ]. However, it is noteworthy that the incidence reported in these two studies is likely to be underestimated as the numbers were based on IK patients who underwent corneal scraping. 
+ In contrast, a substantially higher rate of IK has been reported in under-resourced countries such as South India (113 per 100,000 population-year) [ 22 ] and Nepal (799 per 100,000 population-year) [ 17 ]. The higher incidence observed in these regions was primarily attributable to the poorer environmental and personal hygiene, lower level of education, agricultural industry, increased risk to work-related corneal trauma and poorer access to sanitation and healthcare facility. B.2. Age 
+ The epidemiological patterns and risk factors have been found to vary with demographic factors such as age, gender and socioeconomic status. A tabulated summary of the demographic factors and microbiological profiles of IK is provided in Table  1 [ 8 – 10 , 13 , 21 , 23 – 43 ]. 
+ Table 1. 
+ Summary of the demographic factors and microbiological profiles of infectious keratitis in the literature published between 2010 and 2020, categorised into six distinct regions. Only studies that reported more than 500 cases are included. 
+ 
+ 
+ 
+ Year 
+ Authors 
+ Study period 
+ Region 
+ Total CS 
+ Age (years) 
+ Female (%) 
+ Positive culture (%) 
+ Organisms a 
+ 
+ Microbiological profiles b 
+ 
+ 
+ 
+ B (%) 
+ F (%) 
+ A (%) 
+ 
+ 
+ 
+ UK and Europe 
+ 
+ 2013 
+ Kaye et al. [ 23 ] 
+ 1995–2010 
+ Liverpool, UK 
+ 2418 
+ – 
+ – 
+ 35.7 
+ 100 
+ 0 
+ 0 
+ CoNS (26.3); Enterobacteriaceae (15.3); Streptococci (13.9) 
+ 
+ 
+ 2017 
+ Tan et al. [ 9 ] 
+ 2004–2015 
+ Manchester, UK 
+ 4229 
+ 45.9 
+ – 
+ 32.6 
+ 90.6 
+ 7.1 
+ 2.3 
+ CoNS (24.4); S. aureus (15.1); Streptococci (13.3) 
+ 
+ 
+ 2018 
+ Ting et al. [ 10 ] 
+ 2008–2017 
+ Sunderland, UK 
+ 914 
+ 55.9 ± 21.0 
+ 52.1 
+ 46.1 
+ 91.0 
+ 4.2 
+ 4.8 
+ CoNS (25.9); S. aureus (13.6); Streptococci (12.1) 
+ 
+ 
+ 2019 
+ Tavassoli et al. [ 24 ] 
+ 2006–2017 
+ Bristol and Bath, UK 
+ 2614 
+ 47.7 ± 21.2 
+ 51.1 
+ 38.1 
+ 91.6 
+ 6.9 
+ 1.4 
+ CoNS (36.0); Pseudomonas (15.8); Streptococci (7.0) 
+ 
+ 
+ 2020 
+ Ting et al. [ 8 ] 
+ 2007–2019 
+ Nottingham, UK 
+ 1333 
+ 49.9 ± 22.2 
+ 49.6 
+ 37.7 
+ 92.8 
+ 3.0 
+ 4.2 
+ 
+ Pseudomonas (23.6); S. aureus (15.9); Streptococci ( 13.5) 
+ 
+ North America 
+ 
+ 2017 
+ Tam et al. [ 25 ] 
+ 2000–2015 
+ Toronto, Canada 
+ 2330 
+ 41.6 ± 24.0 
+ 53 
+ 57.3 
+ 86.0 
+ 4.9 
+ 2.2 
+ CoNS (37); P aeruginosa (10); Streptococcus spp . (15) 
+ 
+ 
+ 2018 
+ Peng et al. [ 26 ] 
+ 1996–2015 
+ San Francisco, US 
+ 2203 
+ – 
+ – 
+ 23.7 
+ 100 
+ 0 
+ 0 
+ 
+ S. aureus (20.1); S. viridans (13.2); Pseudomonas (10.9) 
+ 
+ 
+ 2019 
+ Kowalski et al. [ 27 ] c 
+ 
+ 1993–2018 
+ Pittsburgh, US 
+ 1387 
+ – 
+ – 
+ 100 
+ 72.1 
+ 6.7 
+ 5.2 
+ 
+ S. aureus (20.3); Pseudomonas (18.0); Streptococci . (8.5) 
+ 
+ 
+ 2020 
+ Asbell et al. [ 28 ] d 
+ 
+ 2009–2018 
+ US 
+ 6091 
+ – 
+ 46.8 
+ 100 
+ 100 
+ 0 
+ 0 
+ 
+ S. aureus (35.9); CoNS (29); H. influenza (13) 
+ 
+ South America 
+ 
+ 2011 
+ Cariello et al. [ 29 ] 
+ 1975–2007 
+ Brazil 
+ 6804 
+ 42.1 ± 21.4 
+ 40 
+ 48.6 
+ 78.9 
+ 11.0 
+ 3.6 
+ CoNS (41.2); S. aureus (33.1); Pseudomonas (18.5) 
+ 
+ 
+ 2013 
+ Marujo et al. [ 30 ] 
+ 2005–2009 
+ Brazil 
+ 2049 
+ 45 
+ 45 
+ 71.6 
+ 80.3 
+ 7.0 
+ 6 
+ 
+ Staphylococci (52.5); Corynebacterium (14.3); Streptococci (10.1) 
+ 
+ 
+ 2015 
+ Hernandez-Camarena et al. [ 31 ] 
+ 2002–2011 
+ Mexico 
+ 1638 
+ 45 
+ 51.4 
+ 38.0 
+ 88 
+ 12 
+ 0 
+ 
+ S. epidermis (27.4); Pseudomonas (12.1); S. aureus (9.0) 
+ 
+ 
+ 2016 
+ Yu et al. [ 32 ] 
+ 1975–2010 
+ Brazil 
+ 859 
+ – 
+ 42.1 
+ 40.3 
+ 100 
+ 0 
+ 0 
+ CoNS (23.8); S. aureus (20.9); Pseudomonas (14.2) 
+ 
+ Asia 
+ 
+ 2011 
+ Rautaraya et al. [ 33 ] 
+ 2006–2009 
+ India 
+ 997 
+ – 
+ 29.9 
+ 74.6 
+ 23.4 
+ 26.4 
+ 1.4 
+ 
+ Aspergillus spp . (23.1); Fusarium spp . (19.2); Staphylococci (5.4) 
+ 
+ 
+ 2012 
+ Lin et al. [ 34 ] 
+ 2006–2009 
+ India 
+ 5221 
+ – 
+ – 
+ 58 
+ 35.7 
+ 63.0 
+ 1.3 
+ 
+ Fusarium spp . (15.5); S. pneumoniae (7.3); Pseudomonas (5.0) 
+ 
+ 
+ 2013 
+ Kaliamurthy et al. [ 35 ] 
+ 2005–2012 
+ India 
+ 2170 
+ 45.7 ± 16.6 
+ 41.3 
+ 77 
+ 37.2 
+ 22.7 
+ 1.0 
+ 
+ S. epidermis (44.0); S. aureus (19.5); S. pneumonia (11.6) 
+ 
+ 
+ 2015 
+ Lalitha et al. [ 36 ] 
+ 2002–2012 
+ India 
+ 23,897 
+ – 
+ – 
+ 59 
+ 24.7 
+ 34.3 
+ 2.2 
+ 
+ Fusarium spp . (14.5); Aspergillus spp . (8.8); S. pneumoniae (7) 
+ 
+ 
+ 2015 
+ Wang et al. [ 37 ] 
+ 2013–2014 
+ China 
+ 1000 
+ – 
+ 31.8 
+ 53.5 
+ 0 
+ 100 
+ 0 
+ 
+ Aspergillus spp . (53.8); Fusarium spp . (19.3) 
+ 
+ 
+ 2016 
+ Hsiao et al. [ 38 ] 
+ 2003–2012 
+ Taiwan 
+ 2012 
+ – 
+ – 
+ 49.3 
+ 81.1 
+ 16 
+ 1.1 
+ 
+ Pseudomonas (24.4); CoNS (16.6); Propionibacterium (9.1) 
+ 
+ 
+ 2017 
+ Zhang et al. [ 39 ] 
+ 2006–2015 
+ China 
+ 6220 
+ 45.3 ± 22.1 
+ 40.6 
+ 18.2 
+ 100 
+ 0 
+ 0 
+ 
+ S. epidermis (29.3); P. aeruginosa (11); 
+ 
+ 
+ 2018 
+ Khor et al. [ 13 ] 
+ 2012–2014 
+ Asia 
+ 6626 
+ 46.0 
+ 39.2 
+ 70.7 
+ 38 
+ 32.7 
+ – 
+ 
+ Fusarium spp . (18.3); Pseudomonas (10.7); Aspergillus flavus (8.3) 
+ 
+ 
+ 2019 
+ Acharya et al. [ 40 ] 
+ 2015–2017 
+ India 
+ 1169 
+ – 
+ – 
+ 100 
+ 100 
+ 0 
+ 0 
+ CoNS (46.3); Pseudomonas spp . (16.2); Streptococci (15.5) 
+ 
+ 
+ 2019 
+ Lin et al. [ 41 ] 
+ 2010–2018 
+ China 
+ 7229 
+ – 
+ – 
+ 42.8 
+ 52.7 
+ 57.6 
+ 0 
+ CoNS (28.6); Fusarium spp . (23.5); Aspergillus spp . (12.2) 
+ 
+ Africa and Middle East 
+ 
+ 2016 
+ Politis et al. [ 42 ] 
+ 2002–2014 
+ Israel 
+ 943 
+ 47.0 ± 25.2 
+ 47 
+ 47.9 
+ 91.8 
+ 8.2 
+ 0 
+ CoNS (32.8); Pseudomonas (19.3); S. pneumonia (13.0) 
+ 
+ Australasia 
+ 
+ 2019 
+ Cabrera-Aguas et al. [ 43 ] 
+ 2012–2016 
+ Sydney, Australia 
+ 1084 
+ 54 
+ 48 
+ 66 
+ 100 
+ 0 
+ 0 
+ CoNS (45.8); Pseudomonas spp . (12.2); S. aureus (11.7) 
+ 
+ 
+ 2019 
+ Green et al. [ 21 ] 
+ 2005–2015 
+ Queensland, Australia 
+ 3182 
+ 53 ± 22.6 
+ 47.6 
+ 73.6 
+ 93.1 
+ 6.3 
+ 0.6 
+ CoNS (33.9); Pseudomonas spp . (17.7); S. aureus (11.2) 
+ 
+ 
+ 
+ Open in a new tab 
+ 
+ CS corneal scrapes, CoNS coagulase negative staphylococci. 
+ a Breakdown of organisms; B = Bacteria, F = Fungi, A = Acanthamoeba. 
+ b The three most common microorganisms isolated in the study. 
+ c Included all types of ocular infection. 
+ d Included all types of ocular infection but restricted to bacterial infection only. 
+ IK has been shown to affect individuals across all age groups. Based on large-scale studies (>500 patients), IK most commonly affected people aged between 30 and 55 years (Table  1 ) [ 8 – 10 , 13 , 21 , 24 , 25 , 29 , 31 , 35 , 37 , 39 , 42 , 43 ], primarily attributed to the underlying risk factors such as CL wear and ocular trauma associated with the working age group. Patients affected by trauma-related IK secondary to agricultural products and foreign bodies are usually around 45–55 years old [ 18 , 44 ]. The employed workforce of some developing countries is mainly composed of farmers and manual labourers, rendering them more susceptible to IK of traumatic aetiology [ 13 , 45 ]. On the other hand, patients affected by CL-related IK are usually between 25 and 40 years old [ 18 , 44 , 46 , 47 ]. 
+ Although prevalence of IK is generally low in the extremes of age [ 18 , 48 – 51 ], IK may serve as a major contributor to childhood blindness in some countries. For instance, IK was shown to be the second most common cause of visual impairment in children aged <15 years in Uganda [ 52 ]. Ophthalmia neonatorum, defined as conjunctivitis occurring in newborns within 28 days of life, is another important cause of childhood corneal blindness in developing countries, particularly when it is affected by Neisseria gonorrhoea where bilateral ocular involvement is common [ 4 ]. 
+ In addition, some studies have demonstrated that elderly patients affected by IK were associated with poor visual outcome (around 40–75% with visual acuity of <6/60) and higher rate of complications such as corneal melting, perforation and loss of eye (i.e. evisceration or enucleation) [ 11 , 53 , 54 ]. This might be related to the higher rate of ocular co-morbidities and the delay in presentation and/or diagnosis of IK as elderly patients are usually dependent on spouse or family when seeking medical care and they may relate their condition to “normal” age-related changes [ 55 , 56 ]. B.3. Gender 
+ The majority of studies did not observe any gender predilection in IK (Table  1 ). However, when gender difference or predominance exists, it is usually attributed to the underlying risk factors in different regions. For instance, CL-related IK has been shown to exhibit a female predominance of 57–69% [ 18 , 44 , 46 , 57 ], whereas trauma-related IK is associated with a male predominance of 74–78% [ 18 , 44 , 46 ], correlating with a high male prevalence (58–75%) of IK in the under-resourced regions such as South America [ 29 , 32 ], Asia [ 13 , 45 , 49 , 58 ], and Africa [ 51 , 59 , 60 ]. Interestingly, a study in Nepal [ 49 ] found that there are significantly more male than female patients across all the age groups. This might be due to a combination of higher rate of trauma, lower number of CL wear, and reduced opportunities among the females to access medical services due to cultural customs. B.4. Socioeconomic status and level of education 
+ Low socioeconomic status has been shown to increase the risk of developing IK, primarily attributed to poor education, lack of ocular protection and personal hygiene, and limited access to eye care in rural communities [ 6 , 13 , 45 , 51 , 61 ]. In Asia and Africa, amongst those who were diagnosed with IK, ~45–71% of the patients were illiterate and 62–79% of them resided in rural areas with a poorer access to healthcare facilities [ 51 , 60 , 62 ]. In addition, it was found that farmers, rural residents and illiterates were at a higher risk of refractory IK with poorer outcomes [ 51 ]. 
+ In some countries such as Nigeria and Malawi, residents in rural communities were shown to be more likely to self-medicate or approach village healers for traditional eye medicine [ 59 , 63 ]. Although it would be unfair to conclude that all therapies performed by traditional healers are inimical, common beliefs or practises of applying breast milk or plant products directly to the eye may actually worsen their keratitis [ 63 ]. In addition, patients who had prior use of traditional eye medicine tended to present later to the eye care professionals, resulting in delayed treatment and poorer visual outcome [ 63 ]. Another study conducted in Nepal reported almost half of the patients with keratitis did not use any medication, self-medicated or treated with undocumented medicine [ 61 ]. Causative microorganisms 
+ A wide range of microorganisms, including bacteria, fungi, protozoa (particularly Acanthamoeba), and viruses, are capable of causing IK. Recently, Ung et al [ 5 ]. have provided a comprehensive summary of the literature concerning the causative microorganisms of IK (up to June 2018). In view of the recent growing literature, this section aimed to summarise the evidence based on large IK studies (>500 sample size) published during 2010–2020 (Table  1 ) [ 8 – 10 , 13 , 21 , 23 – 43 ]. 
+ C.1. Bacteria 
+ Bacteria are commonly categorised into Gram-positive and Gram-negative bacteria based on the difference in the compositions of bacterial cell envelope. In addition to the universal structure of inner/cytoplasmic membrane, Gram-positive bacteria possess a thick outer cell wall, which is composed of layers of peptidoglycan interspersed with teichoic acids and lipotechoic acids, whereas Gram-negative bacteria consist of a thin middle-layer peptidoglycan and an additional outer membrane primarily made of lipopolysaccharide, which has been shown to play an important role in the pathogenesis of infection (including IK) and the contribution to host inflammatory responses [ 64 , 65 ]. 
+ Bacterial keratitis represents the most common type of IK in most regions, including the UK (91–93%) [ 8 – 10 , 24 ], North America (86–92%) [ 25 ], South America (79–88%) [ 29 – 31 ], Middle East (91.8%) [ 42 ], and Australasia (93–100%) [ 21 , 43 ]. In terms of specific bacterial strains, coagulase negative staphylococci (CoNS), which are a group of common ocular commensal [ 66 ], were shown to be the most commonly isolated organisms (24–46%) in about half of the included studies [ 9 , 10 , 21 , 23 – 25 , 29 , 31 , 32 , 35 , 39 – 43 ]. Other common bacteria implicated in IK included S. aureus (5–36%) , Streptococci spp. (7–16%), Pseudomonas aeruginosa (5–24%), Enterobacteriaceae spp . (15%), Corynebacterium spp . (14%), and Propionibacterium spp . (9%; see Table  1 ). Over the past decade, there were several studies in the UK documenting a significant increase in Moraxella keratitis, which are often associated with longer corneal healing time [ 8 – 10 ]. Interestingly, Nocardia keratitis, a rare cause of IK, was identified as the third most common microorganism (11% of all cases) in the Steroids for Corneal Ulcers Trial (SCUT), and the outcome was found to be negatively influenced by the use of topical steroids [ 67 , 68 ]. Acid-fast bacilli such as non-tuberculous mycobacteria (NTM) serve as another important group of pathogens that are capable of causing IK [ 69 ]. NTM keratitis is commonly associated with refractive surgery and trauma, and it often requires prolonged and aggressive treatment for complete eradication, largely attributed to their propensity to form biofilms [ 69 , 70 ]. C.2. Fungi 
+ Fungi can be broadly divided into two categories, namely filamentous and yeast or yeast-like fungi. Filamentous fungi such as Fusarium spp . and Aspergillus spp . normally thrives in tropical climates whereas yeast-like fungi such as Candida spp. were more commonly observed in temperate regions [ 71 ]. Several studies have demonstrated that Fusarium spp . (13–24%) and Aspergillus spp . (8–30%) were the main causes of IK in Asia, particularly India and China (Table  1 ) [ 13 , 33 , 34 , 36 , 37 , 41 ]. In 2018, the Asian Cornea Society Infectious Keratitis Study (ACSIKS) included more than 6000 patients from eight Asian countries and re-confirmed the dominance of Fusarium spp . keratitis within China (26%) and India (31%) established two decades ago [ 72 – 74 ]. Although the prevalence of fungal keratitis in temperate regions such as the UK, Europe and North America was reportedly lower, the growth of yeast-like fungi such as Candida spp . is relatively common in patients with history of corneal transplantation or OSDs [ 44 ]. In view of the recent improvement in the diagnostic techniques, rare pathogens such as Cryptococcus curvatus , Arthrographis kalrae , Pythium spp ., and many others are increasingly being identified and reported as rare causes of fungal keratitis [ 75 – 77 ]. C.3. Protozoa 
+ Acanthamoeba is a free-living protozoan that is found ubiquitously in the environment such as water, soil, air and dust [ 78 ]. Although not as common as bacterial or fungal keratitis, Acanthamoeba keratitis serves as another important cause of IK as it is often associated with prolonged treatment course and poor visual outcome [ 78 ]. It was estimated that Acanthamoeba keratitis affects 1–33 per million CL wearers per year [ 78 ]. In the UK, Carnt et al [ 79 ]. recently confirmed an outbreak of Acanthamoeba keratitis in the South East England during 2010–2016, with an approximately threefold increase compared to the preceding decade. 
+ Based on recent large studies, Acanthamoeba keratitis accounts for ~0–5% of all IK (Table  1 ). Most of the Acanthamoeba keratitis were observed in CL wearer (71–91%) [ 32 , 60 , 80 ]. However, non-CL wearers can also develop this infection if their eyes are exposed to contaminated water, soil or dust, [ 81 , 82 ]. One of the Indian studies reported that only 4% of Acanthamoeba keratitis cases were associated with CL wear and the remainder were associated with trauma and/or exposure to contaminated water [ 82 ]. In addition, the clinical features of non-CL related Acanthamoeba keratitis may differ from CL-related cases [ 82 ]. Moreover, Acanthamoeba sclerokeratitis may manifest as a rare but difficult-to-treat clinical entity that is usually associated with poor clinical outcomes [ 83 ]. 
+ Microsporidial keratitis represents another type of parasitic IK that accounts for ~0.4% cases of all IK [ 84 ]. It is mainly observed in Asian countries and may manifest as superficial keratoconjunctivitis or stromal keratitis. It is commonly associated with ocular trauma, exposure to contaminated water/soil, and potentially acquired immunodeficiency syndrome [ 84 , 85 ]. C.4. Viruses 
+ Viral keratitis, most commonly in the form of herpes simplex keratitis (HSK) and herpes zoster keratitis (HZK), represents a common cause of IK [ 86 , 87 ]. However, as viral keratitis cases are commonly treated based on their typical clinical appearance (e.g. dendritic corneal ulcer in HSK) and/or previous ocular history, the majority of cases did not require any microbiological investigation and hence were not captured in many IK studies. Nonetheless, the ACSIKS study demonstrated that viral keratitis represented the most common cause (46%) of IK in China, primarily attributed to HSK (24%) and HZK (17%) [ 13 ]. Another two studies, conducted in Egypt and China, respectively, observed that 15–21% of IK were caused by herpetic keratitis [ 51 , 58 ]. Based on these results, it is likely that viral keratitis represents an important and common cause of IK in many other regions, though further studies are required to elucidate this. Herpetic keratitis is often associated with neurotrophic keratopathy, which can result in poor corneal healing, increased risk of further IK and other corneal complications such as melting and perforation [ 86 , 88 ]. C.5. Polymicrobial infection 
+ Polymicrobial keratitis (IK caused by two or more causative microorganisms) has been reported in around 2–15% of all IK cases [ 8 – 11 , 21 ]. Depending on the study design and the definition used, polymicrobial keratitis may include two or more types of organisms from the same category (e.g. bacteria-bacteria, fungus-fungus) or different categories (bacteria-fungus, fungus-protozoan). Polymicrobial keratitis often poses significant diagnostic and therapeutic challenges, and usually fares worse than monomicrobial keratitis [ 11 , 75 , 89 ]. Khoo et al [ 11 ]. observed that patients affected by polymicrobial keratitis (median of 6/60 vision) had a significantly worse visual outcome as compared to those affected by bacterial keratitis (median of 6/18 vision) or culture negative IK (median of 6/9 vision). In another retrospective comparative study, Lim et al [ 89 ]. demonstrated that medical therapy was sufficient to resolve all monomicrobial IK cases but only 81% of polymicrobial IK. In view of the relatively common occurrence of polymicrobial keratitis and variably low culture yield of current microbiological investigation, clinicians should always maintain a low threshold of repeating corneal scraping if patients are not responding to either antibacterial or antifungal therapy, even in the presence of positive culture results. C.6. Seasonal variations 
+ Pathogens are tremendously adaptive to climate and seasonality. Many studies have shown that IK was most prevalent during the summer season, with P. aeruginosa being one of the most frequently isolated microbes [ 34 , 90 , 91 ]. P. aeruginosa is a well-recognised organisms associated with environmental water as in swimming pools [ 92 ] and CL [ 44 , 46 , 48 , 93 , 94 ]. The seasonal predilection of IK during summer is attributed to the likely increased use of CL wear and engagement in water activities. On the other hand, several studies have shown that the incidence of fungal keratitis in India peaked during the windy and harvest seasons, primarily related to a higher risk of trauma secondary to agricultural activities and agricultural debris being blown in the eyes by the wind [ 34 , 62 ]. 
+ Seasonal variation was similarly observed in Acanthamoeba keratitis, though with conflicting results. Lin et al [ 34 ]. observed that Acanthamoeba keratitis occurred more commonly during summer in South India, potentially related to the higher temperature and increased risk of corneal trauma during windy seasons, whereas Walkden et al [ 91 ]. reported an increase in Acanthamoeba keratitis during the winter in the UK. Major risk factors 
+ In the majority of IK cases, local and/or systemic risk factors are usually present. The most common risk factors include CL wear, ocular trauma, OSDs (e.g. dry eye diseases (DEDs), neurotrophic keratopathy, rosacea, etc.), lid diseases, post-corneal surgery (e.g. keratoplasty, corneal cross-linking (CXL)), and systemic diseases (e.g. diabetes, immunosuppression), amongst others. A tabulated summary of large IK studies reporting the risk factors of IK is provided in Table  2 [ 11 , 13 , 18 , 29 , 32 , 35 , 44 – 46 , 48 – 51 , 58 – 62 , 93 – 101 ]. 
+ Table 2. 
+ Summary of risk factors and associated organisms of infectious keratitis in the literature published between 2010 and 2020, categorised into six distinct regions. Only studies that reported more than 200 cases are included. 
+ 
+ 
+ Year 
+ Authors 
+ Study period 
+ Region 
+ Patients 
+ Age, years (Mean ± SD) 
+ Female, % 
+ Risk factors (%) 
+ 
+ 
+ UK and Europe 
+ 
+ 2013 
+ Dethorey et al. [ 93 ] 
+ 2005–2011 
+ France 
+ 268 
+ 45 
+ 50.4 
+ CL (48.1), OSD (33.7), POS (17.5) 
+ 
+ 
+ 2018 
+ Ferreira et al. [ 48 ] 
+ 2007–2015 
+ Portugal 
+ 235 
+ 50.0 ± 20.7 
+ 55.1 
+ CL (28.9), trauma (28.9), DM (13) 
+ 
+ 
+ 2020 
+ Sagerfors et al. [ 95 ] 
+ 2004–2014 
+ Sweden 
+ 398 
+ 49.5 
+ 57 
+ CL (45.5), OSD (9.8), corneal transplant (9.5) 
+ 
+ North America 
+ 
+ 2010 
+ Jeng et al. [ 18 ] 
+ 1998–1999 
+ US 
+ 302 
+ 42.8 
+ 57.3 
+ CL (55), OSD (19.2), trauma (11.9) 
+ 
+ 
+ 2011 
+ Keay et al. [ 44 ] 
+ 2001–2007 
+ US 
+ 733 
+ 47.9 
+ 46.8 
+ CL (36.6), OSD (28.5), trauma (24.6) 
+ 
+ 
+ 2013 
+ French et al. [ 96 ] # 
+ 
+ 2010 
+ US 
+ 2124 
+ 39.2 
+ 53.5 
+ Scleral ectasia (4.8), CL (4.8), corneal abrasion (3.1) 
+ 
+ 
+ 2015 
+ Truong et al. [ 97 ] 
+ 2009–2014 
+ US 
+ 318 
+ 42.9 
+ 40.3 
+ CL (41), OSD (28), trauma (17), topical steroid (4) 
+ 
+ South America 
+ 
+ 2011 
+ Cariello et al. [ 29 ] 
+ 1975–2007 
+ Brazil 
+ 16742 
+ 42.1 ± 21.4 
+ 40 
+ POS (22.4), CL (12.8), trauma (16.4), topical steroid (6.6) 
+ 
+ 
+ 2016 
+ Yu et al. [ 32 ] 
+ 1975–2010 
+ Brazil 
+ 859 
+ – 
+ 42.1 
+ Topical medication (30.6), Trauma (24), POS (24), CL (13) 
+ 
+ Asia 
+ 
+ 2011 
+ Kumar et al. [ 62 ] 
+ 2003–2005 
+ India 
+ 200 
+ – 
+ 39 
+ Trauma (78.5), OSD (12) 
+ 
+ 
+ 2011 
+ Ganguly et al. [ 49 ] 
+ 2006–2007 
+ Nepal 
+ 1880 
+ – 
+ 40.7 
+ Trauma (58), topical steroid (12), OSD (6), CL (5) 
+ 
+ 
+ 2012 
+ Dhakhwa et al. [ 98 ] 
+ 2007 
+ Nepal 
+ 414 
+ – 
+ 42.8 
+ Farmers (75.4), trauma (33.3), topical steroid (4.1) 
+ 
+ 
+ 2012 
+ Hussain et al. [ 99 ] 
+ 2007–2009 
+ Pakistan 
+ 228 
+ 42.8 ± 21.9 
+ 35.1 
+ Trauma (31.5), POS (8.8), topical steroid (6.6) 
+ 
+ 
+ 2012 
+ Deorukhkar et al. [ 100 ] 
+ 2004–2009 
+ India 
+ 852 
+ – 
+ 31.7 
+ Trauma (60.2), FB (15.6), POS (9.5) 
+ 
+ 
+ 2013 
+ Kaliamurthy et al. [ 35 ] 
+ 2005–2012 
+ India 
+ 2170 
+ 45.7 ± 16.6 
+ 41.3 
+ Trauma (64.0), traditional eye medicine (16.9) 
+ 
+ 
+ 2015 
+ Sitoula et al. [ 101 ] 
+ 2011 
+ Nepal 
+ 1644 
+ 44 ± 16 
+ 42 
+ Trauma (60), dacryocystitis (5) 
+ 
+ 
+ 2016 
+ Pan et al. [ 58 ] 
+ 2003–2012 
+ China 
+ 578 
+ 52.4 
+ 25.4 
+ Trauma (54.7), URTI (11.9), DM (8) 
+ 
+ 
+ 2018 
+ Khor et al. [ 13 ] 
+ 2012–2014 
+ Asia 
+ 6563 
+ 46.0 
+ 39.2 
+ Trauma (34.7), CL (10.7), POS (6.8), OSD (4.2) 
+ 
+ 
+ 2018 
+ Chidambaram et al. [ 45 ] 
+ 2012–2013 
+ India 
+ 252 
+ 50 
+ 36 
+ Trauma (71.8), traditional eye medicine (19.0) topical steroid (9.9), DM (6.7) 
+ 
+ 
+ 2018 
+ Al-Ghafri et al. [ 50 ] 
+ 2013–2016 
+ Oman 
+ 304 
+ 52.2 ± 23.2 
+ 56.2 
+ Blepharitis (54.3), trachoma (26.0), Other lid diseases (18.1), CL (17.1), Climate droplet keratopathy (15.5) 
+ 
+ 
+ 2018 
+ Gautam et al. [ 61 ] 
+ 2016 
+ Nepal 
+ 259 
+ 44.9 
+ 54.4 
+ Trauma vegetative material (48), topical steroid (9) 
+ 
+ 
+ 2019 
+ Tong et al. [ 46 ] 
+ 2012–2016 
+ Singapore 
+ 377 
+ 33.6 ± 17.2 
+ 53.5 
+ CL (64.3), OSD (10), trauma (3.9) 
+ 
+ 
+ 2020 
+ Khor et al. [ 94 ] 
+ 2010–2016 
+ Malaysia 
+ 221 
+ 39.5 
+ 41.2 
+ Trauma (49.3), CL (23.1), OSD (5.9) 
+ 
+ Africa and Middle East 
+ 
+ 2013 
+ Oladigbolu et al. [ 59 ] 
+ 1995–2005 
+ Nigeria 
+ 228 
+ – 
+ 43.4 
+ Trauma (51.3), traditional eye medication (17.1), topical steroid (5.7) 
+ 
+ 
+ 2014 
+ Mandour et al. [ 51 ] 
+ 2010–2013 
+ Egypt 
+ 340 
+ – 
+ 41.2 
+ Trauma (50), POS (14.7), topical steroid (11.8) 
+ 
+ 
+ 2018 
+ Zbiba et al. [ 60 ] 
+ 2011–2016 
+ Tunisia 
+ 230 
+ – 
+ 40 
+ OSD (58.7), Trauma (51.3), DM (16), topical steroid (10.9), CL (9.5) 
+ 
+ Australasia 
+ 
+ 2020 
+ Khoo et al. [ 11 ] 
+ 2012–2016 
+ Australia 
+ 979 
+ 54.7 ± 21.5 
+ 48.3 
+ CL (63), topical steroid (24), OSD (18) 
+ 
+ 
+ 
+ Open in a new tab 
+ 
+ CL contact lens wear, POS previous ocular surgery, OSD ocular surface diseases, FB foreign bodies, DM diabetes, URTI upper respiratory tract infection. 
+ # The data were based on patients presented to general emergency department; therefore, risk factors might not be accurately documented. 
+ D.1. Contact lens (CL) wear 
+ CL wear has been recognised as one of the most common risk factors of IK, particularly in developed countries. A study conducted in Northern California reported that the incidence of IK among CL wearers was ~9.3 times higher than the non-CL wearers (130.4 vs. 14.0 per 100,000 person-years) [ 18 ]. Based on the large studies (>200 patients) published in the recent literature, CL wear was shown to be the main predisposing factor (29–64%) of IK in developed countries like Portugal [ 48 ], France [ 93 ], Sweden [ 95 ], the US [ 18 , 44 , 97 ], Singapore[ 46 ] and Australia [ 11 ]. On the contrary, CL-related IK was considerably less common (0–18%) in developing countries due to less number of CL wearers [ 13 , 35 , 50 , 59 , 60 ], highlighting the geographical disparity in the risk factors as well as the causative microorganisms of IK between high income and low-income countries (Table  2 ). 
+ The pathogenesis of CL-related IK is complex and multifactorial. Although it is commonly believed that CL-related IK is triggered by superficial injury secondary to CL wear, several studies had refuted this hypothesis as it was shown that the presence or absence of epithelial injury did not influence the risk or severity of IK [ 65 ]. Plausible mechanisms of CL-related IK include reduction of tear exchange during blinking (which leads to potential degradation of protective components at ocular surface), tear stagnation under CL (particularly soft CL) resulting in accumulation and adherence of microbes to the cornea, reduced corneal epithelial cell desquamation, and alteration of tear fluid biochemistry [ 65 ]. In addition, multiple predisposing factors of CL-related IK have been identified, including the types of CL used (higher risk in soft CL than rigid gas permeable CL), poor CL and CL case hygiene, overnight wear, use of expired CL, types of CL solution used, and CL being prescribed/dispensed by non-ophthalmologists or non-opticians [ 93 , 102 – 106 ]. Reports of IK secondary to the use of cosmetic lens and orthokeratology lens have also been highlighted [ 107 , 108 ]. 
+ In terms of underlying aetiologies, CL-related keratitis is most commonly associated with P. aeruginosa and Acanthamoeba spp ., which are both free-living microorganisms that are ubiquitously present in the environment, including water and CL solutions [ 47 ]. As noted above, Pseudomonas keratitis is one of the most common causes of IK, especially in the developed countries where there is increased prevalence of CL wear. Yildiz et al [ 102 ]. and Tong et al [ 46 ]. observed that P. aeruginosa was responsible for 63% and 70% of the CL-related IK, respectively. While Acanthamoeba keratitis is uncommon, most of these cases (71–91%) were observed in CL wearers [ 32 , 60 , 80 ]. Yu et al [ 32 ]. observed that more than 90% of the Acanthamoeba keratitis were associated with CL use. In a 32-year Brazilian study of over 6000 IK cases, Cariello et al [ 29 ]. reported that CL wearers had a 1.7 times higher risk of developing Acanthamoeba-positive culture than non-CL wearers. Interestingly, CL wear was also shown to be a major risk factor for fungal keratitis in a US study [ 44 ]. D.2. Trauma 
+ Trauma serves as another common risk factor for IK in both developed and developing countries. Based on the IK studies reported in the literature, farmers (54–70%) and manual labour workers (11–17%) constituted the main occupations in Asia [ 13 , 45 , 49 , 51 , 58 , 59 , 109 ]. These groups of workers were at a high risk of developing IK due to the increased occupational exposure to plant materials and foreign bodies, which was frequently compounded by the lack of eye protection [ 45 , 51 , 58 , 98 , 109 ]. 
+ Fungal keratitis is by far the most common cause (47–83%) of trauma-related IK, especially in regions such as Asia and Africa which are dominated by agricultural communities [ 45 , 51 , 58 , 60 , 94 ]. Occupational exposures to vegetative matter, organic materials and animal products, predominantly in males in the working age group, are the main causes in these regions. The risk of fungal keratitis is further magnified by tropical climates, which are conducive to fungal growth [ 51 , 60 ]. Cariello et al [ 29 ]. observed that the risk of developing culture-proven fungal keratitis was increased by four times if the patients suffered from plant-related trauma. In addition, some studies demonstrated that trauma-related IK fared worse than non-traumatic cases [ 46 , 58 ]. Pan et al [ 58 ]. conducted a 10-year study in China and revealed that patients who presented with trauma-related IK were at a high risk of developing fungal keratitis and requiring surgical interventions (89%), including therapeutic keratoplasty and evisceration/enucleation. 
+ On the other hand, the majority of trauma-related IK reported in European countries were caused by Gram-positive bacteria, including CoNS, S . aureus, Streptococci , and Corynebacterium [ 48 , 95 ]. These are common ocular surface commensals, which have the ability to tolerate hot and dry climates in temperate and sub-tropical zones [ 51 , 110 , 111 ]. Corneal trauma resulting from non-vegetative matter with consequent secondary opportunistic infection with ocular surface commensals could explain the high rate of Gram-positive infection in trauma-related IK in this region. D.3. Ocular surface and eyelid diseases 
+ Ocular surface diseases (OSDs), encompassing DEDs, blepharitis, neurotrophic keratopathy, Steven–Johnson syndrome, ocular cicatricial pemphigoid and bullous keratopathy, have been identified as one of the main risk factors for IK in both developed and developing countries [ 18 , 44 , 49 , 60 , 97 , 112 ]. OSD-related IK is most commonly caused by Gram-positive bacteria (around 60–80%) [ 11 , 60 , 95 , 112 ], which constitute the main group of ocular surface commensals. In particular, CoNS and S. aureus were shown to be the main culprits in OSD-related IK [ 95 , 112 ]. 
+ DED is the most common OSD that is characterised by “ a loss of tear film homeostasis with ocular symptoms, in which tear film instability and hyperosmolarity, ocular surface inflammation and damage, and neurosensory abnormalities play etiological roles ” [ 113 ]. The dysregulated ocular surface health can lead to breakdown of the corneal epithelium, a vital ocular surface defence, and ocular surface inflammation, consequently increasing the risk of IK [ 60 , 114 ]. 
+ Posterior blepharitis or meibomian gland disease (MGD) is a common eyelid disease, which is difficult to cure. It can lead to an array of ocular surface complications, including evaporative DED, marginal keratitis and IK, amongst others [ 115 ]. Meibomian gland abnormalities (e.g. gland dropout and hyperkeratinisation), alteration of the secreted lipid products, and the dysregulation of bacterial populations and their corresponding lipase or esterase activity are believed to contribute to the ocular surface inflammation and infection. In a 5-year Australian study, MGD was shown to be the most common cause (79%) of OSD implicated in IK [ 112 ]. In addition, nasolacrimal duct obstruction (NLDO) can also increase the risk of IK, primarily attributed to tear stagnation and reduction of tear exchange, resulting in the accumulation of microbes and debris on the ocular surface with increased risk of IK. Chidambaram et al [ 45 ]. showed that NLDO could increase the risk of fungal and bacterial IK, particularly S. pneumonia keratitis. D.5. Post-ocular surgery 
+ IK may occur following various ocular surgeries, including corneal transplant, refractive surgery, CXL, pterygium surgery, cataract surgery, and others [ 29 , 51 , 116 , 117 ]. Corneal transplant serves as the main sight-restoring surgery for a wide range of corneal diseases, though postoperative complications such as graft failure and IK may develop. In a retrospective study of over 2000 corneal transplants, Dohse et al [ 116 ]. reported an incidence of post-keratoplasty IK of 4%, with loose and broken sutures being reported as one of the most common risk factors (24%) [ 116 ]. Cariello et al [ 29 ]. demonstrated that 22% of the IK cases were associated with prior ocular surgery, particularly corneal graft (56%). In addition, the paradigm shift of penetrating keratoplasty to lamellar keratoplasty has created a new array of host-graft interface complications such as interface infectious keratitis (IIK), which often causes diagnostic and therapeutic challenges due to the deep-seated location of the infection [ 118 , 119 ]. We have recently highlighted a clinically challenging case of post-endothelial keratoplasty interface fungal keratitis, which required in vivo confocal microscopy for confirmatory diagnosis in the absence of positive culture results [ 118 ]. Fortunately the interface infection resolved quickly after the discontinuation of topical steroids and initiation of appropriate antifungal treatment. 
+ Although IK rarely develops after refractive surgery, the significant amount of refractive surgeries performed globally render this an important clinical entity [ 120 ]. This was supported by a Brazilian study where refractive surgery was shown to be the second commonest surgery associated with IK [ 29 ]. Post-refractive surgery IK is most commonly caused by Gram-positive bacteria and NTM, though fungal and Acanthamoeba infection may also occur [ 120 ]. The high rate of Gram-positive bacterial IK following other types of ocular surgeries (e.g. cataract surgery, pterygium surgery) were also observed, most likely as a result of opportunistic infection secondary to ocular surface commensals [ 51 , 93 , 95 ]. 
+ In the recent years, CXL has emerged as a therapeutic modality for managing corneal ectactic conditions [ 121 , 122 ] and moderate-to-severe IK [ 123 – 125 ]. However, the intraoperative removal of corneal epithelium and postoperative insertion of bandage CL (which is the current standard practice in most institutes) can increase the risk of IK following CXL, particularly in patients with OSD such as vernal or atopic keratoconjunctivitis [ 117 , 126 , 127 ]. Post-CXL IK may be further complicated by the reactivation of herpetic keratitis [ 126 ] and manifestation of acute hydrops [ 127 ] and corneal melt/perforation [ 117 ]. D.6. Use of topical steroids 
+ Steroids are commonly used in ophthalmology as a topical immunosuppressive/immunomodulatory agent to manage a wide range of intraocular and ocular surface inflammatory diseases, including DED, allergic eye disease, non-IK, chemical eye injury, cicatricial conjunctivitis and many others [ 128 , 129 ]. The recent SCUT study also demonstrated the benefit of adjuvant topical steroids in improving the visual outcome in patients with severe and central bacterial keratitis [ 67 ]. In addition to managing OSDs, topical steroids are also frequently used as postoperative topical treatment following intraocular and ocular surface surgeries, including corneal transplantation [ 130 ]. 
+ However, topical steroids can sometimes act as a double-edge sword. Studies have shown that topical steroids can increase the risk of IK, particularly fungal keratitis and/or polymicrobial keratitis [ 11 , 44 , 118 ]. In a study of 733 fungal keratitis, Keay et al [ 44 ]. reported that 13% of the cases were associated with chronic use of topical steroids. In addition, a study has shown that previous use of topical steroid could negatively impact on the clinical outcome of IK, with 73% ending with poor outcome (defined as worse than 6/60 vision, decreased vision during treatment, or perforation) [ 11 ]. While topical steroids serve as an effective treatment for stromal HSK, which is primarily an immune-related keratitis [ 131 ], its use can potentially exacerbate epithelial HSK and culminate in geographic ulcer [ 132 ]. Interestingly, an Indian study showed that 41% of the Acanthamoeba keratitis cases were associated with the use of topical steroid [ 45 ]. The high rate of prior steroid use might be related to the fact that Acanthamoeba keratitis often presents with non-specific corneal epithelial changes and is mismanaged as viral keratitis [ 104 ]. D.7. Systemic immunosuppression 
+ Systemic immunosuppression, either secondary to diseases or immunosuppressive agents, has been shown to increase the risk of IK. Diabetes mellitus serves as one of the most important systemic risk factors for IK. Hyperglycaemia has been shown to facilitate microbial growth and alter the microbiota of ocular surface, including an upregulation of Pseudomonas spp . and Acinetobacter spp . [ 133 ], as well as affect the homeostasis, corneal sensation and wound healing of the corneal epithelium, thereby increasing the risk of IK [ 134 ]. Sub-basal corneal nerve plexus of patients with diabetic neuropathy is often affected and can lead to neuropathic keratopathy with complications such as corneal melt and IK [ 135 ]. 
+ Several large studies have highlighted the association between diabetes and IK (around 8–16%), particularly fungal and bacterial keratitis [ 45 , 58 , 60 , 136 , 137 ]. Zbiba et al [ 60 ]. observed that diabetes was relatively common in patients with bacterial keratitis (15%) and fungal keratitis (16%) as well as mixed bacterial and fungal keratitis (29%). In addition, viral keratitis was also reported to have a high prevalence amongst patients with diabetes [ 138 ]. Viruses, particularly HSV, are omnipresent in the general population, with an estimated prevalence of 1.5 per 1000 population [ 139 ]. Kaiserman et al [ 140 ]. demonstrated that patients with diabetes had a significantly higher incidence and recurrence rate of ocular surface herpetic eye diseases when compared to non-diabetic patients. Pan et al [ 58 ]. observed that 17% patients with diabetes had a substantially higher rate of HSK as compared to bacterial or fungal keratitis. Another study described that all patients with diabetes presented with IK were of viral origin, though the sample size was small [ 51 ]. The heterogeneity in the subtypes of microorganisms associated with diabetes observed in different studies was likely related to the disparity in the ocular predisposing factors of the studied cohort since more than one risk factor is often present in patients with IK [ 11 ]. 
+ Apart from diabetes, Jeng et al [ 18 ]. observed an approximately tenfold increased risk of IK in individuals affected by human immunodeficiency viruses compared to healthy individuals (238.1 vs. 27.6 per 100,000 population-year), highlighting the importance of host immunity in ocular surface defence. Intriguingly, a study demonstrated that 55% of the patients with HSK had a history of upper respiratory tract infection prior to the infection or recurrence [ 58 ]. This could be potentially explained by the mechanism linked to a host cell enzyme called heparanase [ 141 ], which is a known contributing factor to the pathogenesis of several viruses, including HSV, respiratory syncytial virus, human papilloma virus, and others. End-stage renal disease, particularly associated with diabetes, was also shown to be a risk factor for IK [ 142 ]. Antimicrobial resistance (AMR) 
+ E.1. Overview 
+ AMR has been recognised as a major public health crisis in the past two decades, with many infectious organisms developing resistance against previously effective antimicrobial agents [ 143 ]. The development of AMR is largely driven by a multitude of factors, including the overuse/abuse of antimicrobial agents in agricultural sectors due to commercial pressure, uncertainty in diagnosis (e.g. bacterial infection vs. viral infection) leading to inappropriate use of antibiotics, financial incentives for prescribing antibiotic, and use of non-prescription antibiotics among the general public, particularly in low- and middle-income countries [ 143 , 144 ]. From the genetic point of view, bacteria primarily develop AMR through two strategies, namely genetic mutational resistance and horizontal gene transfer. The genetic and mechanistic basis of AMR can be referred to a recent excellent review provided by Munita and Arias [ 144 ]. E.2. AMR in the context of IK 
+ Broad-spectrum topical antibiotic therapy is the gold standard treatment for IK. Depending on the disease severity and clinicians’ preference, antibiotic therapy is commonly administered in the form of dual therapy using cephalosporin and aminoglycoside or monotherapy using fluoroquinolone [ 145 ]. As intensive topical antibiotics are applied directly and frequently during the treatment of IK, high concentration of antibiotics can be effectively achieved at the target site (i.e. the infected cornea), which could potentially reduce the risk of AMR in ocular infections. However, a few recent IK studies have highlighted the emergence of AMR in ocular infections, particularly in the US [ 28 ], China [ 41 ] and India [ 40 ]. The driving force is likely to be multifactorial, including the injudicious widespread use of antibiotics in both ocular and systemic infections [ 146 ], incorrect dosing regimen [ 147 ], and representations of the community prevalence of drug resistance, with consequent colonisation of ocular surface by drug resistant pathogens [ 148 ]. For instance, in the SCUT trial, there was a 3.5-fold higher MIC for bacteria isolated from patients who had previous treatment with fluoroquinolones compared to treatment naive patients [ 149 ]. 
+ A tabulated summary of the literature concerning the in vitro antibiotic susceptibility and resistance of IK-related bacteria is provided in Table  3 [ 8 , 9 , 21 , 24 – 26 , 28 , 31 , 35 , 38 , 40 – 43 , 150 ]. Overall, fluoroquinolone-resistant, methicillin-resistant and multidrug resistant (MDR; i.e. resistant to 3 or more antibiotics) infections are being increasingly reported in IK [ 28 , 31 , 35 , 40 , 41 , 150 ]. Geographical and temporal factors play a role in the variation of AMR pattern in ocular infections. Reports from Southern India demonstrated that MDR was commonly observed among S. pneumoniae (44%), S. epidermidis (14.8%), S. aureus (14%), and P. aeruginosa (6%). However, gatifloxacin—a fourth-generation fluoroquinolone—was effective against the majority of Gram-negative bacteria (~90%), including P. aeruginosa and Acinetobacter spp ., thus its use as a monotherapy in Gram-negative IK was recommended in that region [ 35 ]. Another study from Southern China similarly reported an increase in MDR among Gram-positive cocci from 2010 to 2018, while susceptibility to fluoroquinolone and aminoglycoside among Gram-negative bacilli remained stable [ 41 ]. In contrast, a Northern India study reported a high rate of resistance of P. aeruginosa against ciprofloxacin (57%), moxifloxacin (47%), and aminoglycoside (52–60%) [ 40 ], highlighting the geographical disparity in the AMR pattern and the importance of region-specific interrogation of the AMR profile in ocular infections. 
+ Table 3. 
+ A summary of the in vitro antimicrobial susceptibility and resistance of the causative microorganisms of infectious keratitis. 
+ 
+ 
+ 
+ Year 
+ Authors 
+ Study period 
+ Region 
+ No. of cases 
+ Antibiotic susceptibility (%) a 
+ 
+ 
+ 
+ CEP 
+ AMG 
+ FQ 
+ 
+ 
+ 
+ UK and Europe 
+ 
+ 2017 
+ Tan et al. [ 9 ] 
+ 2004–2015 
+ UK 
+ 4229 
+ 86 (P); 61 (N); 
+ 88 (P); 97 (N) 
+ 83 (P); 91 (N) 
+ 
+ 
+ 2019 
+ Tavassoli et al. [ 24 ] 
+ 2006–2017 
+ UK 
+ 2614 
+ – 
+ 100 (P); 97.0-100 (N) 
+ 91-100 (P); 97-100 (N) 
+ 
+ 
+ 2020 
+ Ting et al. [ 8 ] 
+ 2007–2019 
+ UK 
+ 1333 
+ 100 (P); 81 (N) 
+ 95 (P); 98-99 (N) 
+ 90-100 (P); 98-100 (N) 
+ 
+ North America 
+ 
+ 2017 
+ Tam et al. [ 25 ] 
+ 2000–2015 
+ Canada 
+ 2330 
+ – 
+ 96 (P) 
+ 96 (P) 
+ 
+ 
+ 2018 
+ Peng et al. [ 26 ] 
+ 1996–2015 
+ US 
+ 2203 
+ – 
+ 50-100 (N) 
+ 85-100 (P); 80-100 (N) 
+ 
+ 
+ 2020 
+ Asbell et al. [ 28 ] 
+ 2009–2018 
+ US 
+ 6091 
+ – 
+ 97 (MSSA); 62 (MRSA); 94 (MS-CoNS); 71 (MR-CoNS); 97 (N) 
+ 89-90 (MSSA); 26-29 (MRSA); 88-89 (MS-CoNS); 43-49 (MR-CoNS); 93-100 (N) 
+ 
+ South America 
+ 
+ 2013 
+ Vola et al. [ 150 ] 
+ 2000–2009 
+ Brazil 
+ 566 
+ – 
+ 93 (MSSA); 70 (MRSA) 
+ 96 (MSSA); 62 (MRSA) 
+ 
+ 
+ 2015 
+ Hernandez-Camarena et al. [ 31 ] 
+ 2002–2011 
+ Mexico 
+ 1638 
+ 18-90 (P); 10-92 (N) 
+ 42-80 (P); 69-98 (N) 
+ 54-100 (P); 87-100 (N) 
+ 
+ Asia 
+ 
+ 2013 
+ Kaliamurthy et al. [ 35 ] 
+ 2005–2012 
+ India 
+ 2170 
+ – 
+ 31-95 (P); 90-93 (N) 
+ 70.4-98 (P); 74-90 (N) 
+ 
+ 
+ 2016 
+ Hsiao et al. [ 38 ] 
+ 2003–2012 
+ Taiwan 
+ 2012 
+ – 
+ 85-88 (N) 
+ 89 (P); 94 (N) 
+ 
+ 
+ 2019 
+ Acharya et al. [ 40 ] 
+ 2015–2017 
+ India 
+ 1169 
+ – 
+ 73 (P); 89 (N) 
+ 69 (P); 69 (N) 
+ 
+ 
+ 2019 
+ Lin et al. [ 41 ] 
+ 2010–2018 
+ China 
+ 7229 
+ 84-91 (P); 68-75 (N) 
+ – 
+ 63-75 (P); 46-75 (N) 
+ 
+ Africa and Middle East 
+ 
+ 2016 
+ Politis et al. [ 42 ] 
+ 2002–2014 
+ Jerusalem 
+ 943 
+ – 
+ 92-94 (P) 
+ 97-100% (P) 
+ 
+ Australasia 
+ 
+ 2019 
+ Cabrera-Aguas et al. [ 43 ] 
+ 2012–2016 
+ Australia 
+ 1084 
+ – 
+ 86-97 (P); 100 (N) 
+ 86-95 (P); 99 (N) 
+ 
+ 
+ 2019 
+ Green et al. [ 21 ] 
+ 2005–2015 
+ Australia 
+ 3182 
+ – 
+ 92 (P); 96 (N) 
+ 94 (P); 99 (N) 
+ 
+ 
+ 
+ Open in a new tab 
+ 
+ MSSA Methicillin-sensitive Staphylococcus aureus , MRSA Methicillin-resistant S. aureus , MS-CoNS Methicillin-sensitive coagulase negative staphylococci, MR-CoNS Methicillin-resistant coagulase negative staphylococci. 
+ a Antibiotic susceptibility is reported for Gram-positive bacteria (P) and Gram-negative bacteria (N) against three common classes of antibiotics, namely cephalosporin (CEP), aminoglycoside (AMG) and fluoroquinolone (FQ). 
+ An increasing trend of MRSA-related ocular infection has also been reported in several studies in the past decade [ 28 , 31 , 41 ]. The Antibiotic Resistance Among Ocular Microorganisms study in the US observed that a high rate of AMR, specifically methicillin resistance, was observed among Staphylococci spp . and Streptococci spp . and the risk increased with age [ 28 ]. More worryingly, ~75% of the MRSA and MR-CoNS were MDR. Another US study demonstrated an increased rate of MRSA-related IK as well as resistance against fluoroquinolones, which questioned their ongoing use as primary monotherapy [ 26 ]. Similarly, a 10-year Mexico study showed that 21–79% of the S. aureus and 48–71% of the CoNS were resistant to oxacillin (or methicillin). P. aeruginosa and other Gram-negative infections displayed resistance against oxacillin (86% and 90%, respectively) and vancomycin (97% and 70%, respectively), with an increasing trend of resistance to ceftazidime observed over time [ 31 ]. Another study conducted in Taiwan also highlighted the emerging issue of methicillin resistance, with MRSA accounting for 43% of all Gram-positive IK [ 38 ]. On the other hand, an increase in voriconazole resistance was observed in the Mycotic Ulcer Treatment Trial (MUTT)-I for fungal keratitis, with a 2.1-fold increase in the mean MIC per year after adjustment for causative organism [ 151 ]. 
+ Reassuringly, reports from the UK showed that Gram-positive bacteria exhibited a high susceptibility to cephalosporin (87–100%), but a moderate susceptibility to fluoroquinolone (61–81%). However, Gram-negative bacteria were highly susceptible to both aminoglycoside (97–100%) and fluoroquinolone (91–100%) [ 8 , 9 , 24 ], suggesting that current antibiotic regimen (fluoroquinolone monotherapy or cephalosporin-aminoglycoside dual therapy) could safely remain as the first-line treatment in the UK. In our recent 12-year Nottingham IK Study, we observed an increasing trend of resistance against penicillin over time in both Gram-positive and Gram-negative isolates but a generally good susceptibility to aminoglycosides and fluoroquinolones was maintained; therefore, no change of antibiotic regimen was required [ 8 ]. E.3. Clinical impact 
+ AMR represents a global challenge with a huge impact on morbidity and mortality. It was estimated that 2 million people/year in USA are infected with antimicrobial resistant organisms, with a $20 billion cost incurred on the healthcare system. A recent UK report also predicted a global loss of $100 trillion by 2050 related to AMR [ 152 ]. 
+ Within the context of IK, AMR was found to negatively affect the clinical outcome of IK. Kaye et al [ 153 ]. observed that the corneal healing time of IK was prolonged with the increase of minimum inhibitory concentration (MIC; i.e. antibiotic resistance) of the causative organisms, including P. aeruginosa , S. aureus and Enterobacteriaceae spp ., against fluoroquinolone monotherapy. In addition, Lalitha et al [ 154 ]. demonstrated that higher level of MIC was associated with a significantly increase risk of corneal perforation in fungal keratitis. 
+ AMR is continuing to increase in an alarming way. There is a pressing need to increase the awareness amongst prescribers on judicious use of antimicrobials, to tighten the control of ‘over the counter (OTC)” antimicrobials in many countries, and to develop novel therapeutic modalities and strategies for IK, including therapeutic CXL and host defence peptides (or previously known as antimicrobial peptides), which hold great promises as a new class of antimicrobials in the future [ 123 , 155 – 157 ]. Conclusions 
+ IK represents a persistent burden on human health in both developed and developing countries. As the incidence of IK is likely to be underestimated in the recent studies, well-designed prospective studies including all types of microorganisms (i.e. bacteria, fungi, protozoa and viruses) are required to truly ascertain the incidence and impact of IK. Understanding of the major risk factors for IK in different regions, particularly CL wear, trauma, OSD, and post-ocular surgery, will facilitate a more effective public health intervention to modify and reduce the risk of IK. The increase rate of AMR in ocular infection in several countries, including the US, China, and India, over the past decade highlights the need for judicious use of antimicrobials, tighter control of OTC antimicrobials and development of new antimicrobials and strategies for therapy. Improvement in the diagnostic yield of microbiological investigations of IK with emerging technologies such as next-generation sequencing and artificial intelligence-assisted platforms could also provide a better guidance on the appropriate use of antimicrobial therapy in the future, ultimately reducing the risk of AMR [ 158 , 159 ]. Methods of literature review 
+ Two authors (DSJT and CSH) searched the PubMed (January 1980–May 2020) for relevant articles related to IK. Keywords such as “corneal infection”, “corneal ulcer”, “IK”, “microbial keratitis”, “incidence”, “prevalence”, “epidemiology”, “risk factors”, “antibiotic resistance” and “antimicrobial resistance” were used. There was no restriction to the language used. Bibliographies of included articles were manually screened to identify further relevant studies. The final search was updated on 15 June 2020. 
+ A web application designed for systematic reviews, Rayyan (Qatar), was used to help collate the potential studies and expedite the initial screening of abstracts and titles [ 160 ]. The titles and abstracts obtained from the searches were independently screened by two authors (DSJT and CSH) to include studies that fulfilled the eligibility criteria. The authors then independently assessed the full-text version of all selected articles and extracted data onto a standardised data collection form for data synthesis. The extracted data included the authors, year of publication, country, sample size, demographic factors, culture results, risk factors and in vitro antibiotic susceptibility. Discrepancies were resolved by group consensus and independent adjudication (HSD) if consensus could not be reached. The summary of literature search is detailed in the PRISMA flow chart (Fig.  1 ). 
+ Fig. 1. 
+ 
+ Open in a new tab 
+ The PRISMA flow chart detailing the process and results of literature search for articles related to infectious keratitis. Summary 
+ 
+ Corneal opacity represents the 5th leading cause of blindness globally, with infectious keratitis (IK) being the main culprit. 
+ IK can be caused by a wide variety of pathogens, including bacteria, fungi, viruses, parasites and polymicrobial infection. 
+ Contact lens wear, trauma and ocular surface diseases are the three most common risk factors of IK. 
+ Several studies have highlighted the emerging trends in antimicrobial resistance in ocular infections, particularly in the US, China and India. 
+ Acknowledgments 
+ Funding 
+ DSJT acknowledges support from the Medical Research Council/Fight for Sight (FFS) Clinical Research Fellowship (MR/T001674/1) and the FFS/John Lee, Royal College of Ophthalmologists Primer Fellowship (24CO4). Compliance with ethical standards 
+ Conflict of interest 
+ The authors declare that they have no conflict of interest. Footnotes 
+ 
+ The original online version of this article was revised due to a retrospective Open Access order. 
+ Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
+ These authors contributed equally: Darren Shu Jeng Ting, Charlotte Shan Ho 
+ 
+ Change history 
+ 5/11/2021 
+ A Correction to this paper has been published: 10.1038/s41433-021-01568-0 
+ 
+ References 
+ 
+ 
+ 1. Flaxman SR, Bourne RRA, Resnikoff S, Ackland P, Braithwaite T, Cicinelli MV, et al. Global causes of blindness and distance vision impairment 1990-2020: a systematic review and meta-analysis. Lancet Glob Health. 2017;5:e1221–e34.. doi: 10.1016/S2214-109X(17)30393-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment . [accessed on 1st May 2020] 
+ 
+ 
+ 3. Whitcher JP, Srinivasan M. Corneal ulceration in the developing world-a silent epidemic. Br J Ophthalmol. 1997;81:622–3. doi: 10.1136/bjo.81.8.622. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Whitcher JP, Srinivasan M, Upadhyay MP. Corneal blindness: a global perspective. Bull World Health Organ. 2001;79:214–21. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Ung L, Bispo PJM, Shanbhag SS, Gilmore MS, Chodosh J. The persistent dilemma of microbial keratitis: global burden, diagnosis, and antimicrobial resistance. Surv Ophthalmol. 2019;64:255–71.. doi: 10.1016/j.survophthal.2018.12.003. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Song X, Xie L, Tan X, Wang Z, Yang Y, Yuan Y, et al. A multi-center, cross-sectional study on the burden of infectious keratitis in China. PLoS ONE. 2014;9:e113843. doi: 10.1371/journal.pone.0113843. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Ung L, Acharya NR, Agarwal T, Alfonso EC, Bagga B, Bispo PJ, et al. Infectious corneal ulceration: a proposal for neglected tropical disease status. Bull World Health Organ. 2019;97:854–6. doi: 10.2471/BLT.19.232660. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Ting DSJ, Ho CS, Cairns J, Elsahn A, Al-Aqaba M, Boswell T, et al. 12-year analysis of incidence, microbiological profiles and in vitro antimicrobial susceptibility of infectious keratitis: the Nottingham Infectious Keratitis Study. Br J Ophthalmol. 2020; 10.1136/bjophthalmol-2020-316128. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 9. Tan SZ, Walkden A, Au L, Fullwood C, Hamilton A, Qamruddin A, et al. Twelve-year analysis of microbial keratitis trends at a UK tertiary hospital. Eye (Lond) 2017;31:1229–36.. doi: 10.1038/eye.2017.55. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Ting DSJ, Settle C, Morgan SJ, Baylis O, Ghosh S. A 10-year analysis of microbiological profiles of microbial keratitis: the North East England Study. Eye (Lond) 2018;32:1416–7. doi: 10.1038/s41433-018-0085-4. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Khoo P, Cabrera-Aguas MP, Nguyen V, Lahra MM, Watson SL. Microbial keratitis in Sydney, Australia: risk factors, patient outcomes, and seasonal variation. Graefes Arch Clin Exp Ophthalmol. 2020; 10.1007/s00417-020-04681-0. [ DOI ] [ PubMed ] 
+ 
+ 12. Foulsham W, Coco G, Amouzegar A, Chauhan SK, Dana R. When clarity is crucial: regulating ocular surface immunity. Trends Immunol. 2018;39:288–301. doi: 10.1016/j.it.2017.11.007. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Khor WB, Prajna VN, Garg P, Mehta JS, Xie L, Liu Z, et al. The Asia Cornea Society Infectious Keratitis Study: a Prospective Multicenter Study of Infectious Keratitis in Asia. Am J Ophthalmol. 2018;195:161–70.. doi: 10.1016/j.ajo.2018.07.040. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Arunga S, Wiafe G, Habtamu E, Onyango J, Gichuhi S, Leck A, et al. The impact of microbial keratitis on quality of life in Uganda. BMJ Open Ophthalmol. 2019;4:e000351. doi: 10.1136/bmjophth-2019-000351. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Collier SA, Gronostaj MP, MacGurn AK, Cope JR, Awsumb KL, Yoder JS, et al. Estimated burden of keratitis-United States, 2010. MMWR Morb Mortal Wkly Rep. 2014;63:1027–30. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Erie JC, Nevitt MP, Hodge DO, Ballard DJ. Incidence of ulcerative keratitis in a defined population from 1950 through 1988. Arch Ophthalmol. 1993;111:1665–71. doi: 10.1001/archopht.1993.01090120087027. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Upadhyay MP, Karmacharya PC, Koirala S, Shah DN, Shakya S, Shrestha JK, et al. The Bhaktapur eye study: ocular trauma and antibiotic prophylaxis for the prevention of corneal ulceration in Nepal. Br J Ophthalmol. 2001;85:388–92.. doi: 10.1136/bjo.85.4.388. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Jeng BH, Gritz DC, Kumar AB, Holsclaw DS, Porco TC, Smith SD, et al. Epidemiology of ulcerative keratitis in Northern California. Arch Ophthalmol. 2010;128:1022–8. doi: 10.1001/archophthalmol.2010.144. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Seal DV, Kirkness CM, Bennett HG, Peterson M. Population-based cohort study of microbial keratitis in Scotland: incidence and features. Cont Lens Anterior Eye. 1999;22:49–57. doi: 10.1016/s1367-0484(99)80003-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Ibrahim YW, Boase DL, Cree IA. Incidence of Infectious Corneal Ulcers, Portsmouth Study, UK. J Clin Exp Ophthalmol. 2012;S6:001. doi: 10.1136/bjo.2008.151167. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Green M, Carnt N, Apel A, Stapleton F. Queensland Microbial Keratitis Database: 2005-2015. Br J Ophthalmol. 2019;103:1481–6. doi: 10.1136/bjophthalmol-2018-312881. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Gonzales CA, Srinivasan M, Whitcher JP, Smolin G. Incidence of corneal ulceration in Madurai district, South India. Ophthalmic Epidemiol. 1996;3:159–66.. doi: 10.3109/09286589609080122. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Kaye R, Kaye A, Sueke H, Neal T, Winstanley C, Horsburgh M, et al. Recurrent bacterial keratitis. Investig Ophthalmol Vis Sci. 2013;54:4136–9. doi: 10.1167/iovs.13-12130. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Tavassoli S, Nayar G, Darcy K, Grzeda M, Luck J, Williams OM, et al. An 11-year analysis of microbial keratitis in the South West of England using brain-heart infusion broth. Eye (Lond) 2019;33:1619–25.. doi: 10.1038/s41433-019-0463-6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Tam ALC, Côté E, Saldanha M, Lichtinger A, Slomovic AR. Bacterial Keratitis in Toronto: a 16-Year Review of the Microorganisms Isolated and the Resistance Patterns Observed. Cornea. 2017;36:1528–34.. doi: 10.1097/ICO.0000000000001390. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Peng MY, Cevallos V, McLeod SD, Lietman TM, Rose-Nussbaumer J. Bacterial keratitis: isolated organisms and antibiotic resistance patterns in San Francisco. Cornea. 2018;37:84–7. doi: 10.1097/ICO.0000000000001417. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Kowalski RP, Nayyar SV, Romanowski EG, Shanks RMQ, Mammen A, Dhaliwal DK, et al. The Prevalence of Bacteria, Fungi, Viruses, and Acanthamoeba From 3,004 Cases of Keratitis, Endophthalmitis, and Conjunctivitis. Eye Contact Lens. 2019; 10.1097/ICL.0000000000000642. [ DOI ] [ PubMed ] 
+ 
+ 28. Asbell PA, Sanfilippo CM, Sahm DF, DeCory HH. Trends in Antibiotic Resistance Among Ocular Microorganisms in the United States From 2009 to 2018. JAMA Ophthalmol. 2020;138:1–12. doi: 10.1001/jamaophthalmol.2020.0155. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Cariello AJ, Passos RM, Yu MC, Hofling-Lima AL. Microbial keratitis at a referral center in Brazil. Int Ophthalmol. 2011;31:197–204. doi: 10.1007/s10792-011-9441-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Marujo FI, Hirai FE, Yu MC, Hofling-Lima AL, Freitas D, Sato EH. [Distribution of infectious keratitis in a tertiary hospital in Brazil] Arq Bras Oftalmol. 2013;76:370–3. doi: 10.1590/s0004-27492013000600011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Hernandez-Camarena JC, Graue-Hernandez EO, Ortiz-Casas M, Ramirez-Miranda A, Navas A, Pedro-Aguilar L, et al. Trends in Microbiological and Antibiotic Sensitivity Patterns in Infectious Keratitis: 10-Year Experience in Mexico City. Cornea. 2015;34:778–85.. doi: 10.1097/ICO.0000000000000428. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Yu MC, Höfling-Lima AL, Furtado GH. Microbiological and epidemiological study of infectious keratitis in children and adolescents. Arq Bras Oftalmol. 2016;79:289–93.. doi: 10.5935/0004-2749.20160084. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Rautaraya B, Sharma S, Kar S, Das S, Sahu SK. Diagnosis and treatment outcome of mycotic keratitis at a tertiary eye care center in eastern India. BMC Ophthalmol. 2011;11:39. doi: 10.1186/1471-2415-11-39. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Lin CC, Lalitha P, Srinivasan M, Prajna NV, McLeod SD, Acharya NR, et al. Seasonal trends of microbial keratitis in South India. Cornea. 2012;31:1123–7. doi: 10.1097/ICO.0b013e31825694d3. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Kaliamurthy J, Kalavathy CM, Parmar P, Nelson Jesudasan CA, Thomas PA. Spectrum of bacterial keratitis at a tertiary eye care centre in India. Biomed Res Int. 2013;2013:181564. doi: 10.1155/2013/181564. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Lalitha P, Prajna NV, Manoharan G, Srinivasan M, Mascarenhas J, Das M, et al. Trends in bacterial and fungal keratitis in South India, 2002-2012. Br J Ophthalmol. 2015;99:192–4. doi: 10.1136/bjophthalmol-2014-305000. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Wang L, Han L, Yin W. Study of Pathogens of Fungal Keratitis and the Sensitivity of Pathogenic Fungi to Therapeutic Agents with the Disk Diffusion Method. Curr Eye Res. 2015;40:1095–101.. doi: 10.3109/02713683.2015.1056802. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Hsiao CH, Sun CC, Yeh LK, Ma DH, Chen PY, Lin HC, et al. Shifting Trends in Bacterial Keratitis in Taiwan: a 10-Year Review in a Tertiary-Care Hospital. Cornea. 2016;35:313–7. doi: 10.1097/ICO.0000000000000734. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Zhang Y, Wang ZQ, Sun XG. [Etiological analysis and in vitro drug sensitivity of bacterial keratitis in northern China in the period of 2006-2015] Zhonghua Yan Ke Za Zhi. 2017;53:662–7. doi: 10.3760/cma.j.issn.0412-4081.2017.09.006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Acharya M, Farooqui JH, Singh A, Gandhi A, Mathur U. Bacterial isolates in microbial keratitis: three-year trend analysis from North India. Indian J Ophthalmol. 2019;67:1508–9. doi: 10.4103/ijo.IJO_678_19. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Lin L, Duan F, Yang Y, Lou B, Liang L, Lin X. Nine-year analysis of isolated pathogens and antibiotic susceptibilities of microbial keratitis from a large referral eye center in southern China. Infect Drug Resist. 2019;12:1295–302.. doi: 10.2147/IDR.S206831. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Politis M, Wajnsztajn D, Rosin B, Block C, Solomon A. Trends of Bacterial Keratitis Culture Isolates in Jerusalem; a 13- Years Analysis. PLoS ONE. 2016;11:e0165223. doi: 10.1371/journal.pone.0165223. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Cabrera-Aguas M, Khoo P, George CRR, Lahra MM, Watson S. Antimicrobial resistance trends in bacterial keratitis over 5 years in Sydney, Australia. Clin Exp Ophthalmol. 2019;48:183–91.. doi: 10.1111/ceo.13672. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Keay LJ, Gower EW, Iovieno A, Oechsler RA, Alfonso EC, Matoba A, et al. Clinical and microbiological characteristics of fungal keratitis in the United States, 2001-2007: a multicenter study. Ophthalmology. 2011;118:920–6. doi: 10.1016/j.ophtha.2010.09.011. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Chidambaram JD, Venkatesh Prajna N, Srikanthi P, Lanjewar S, Shah M, Elakkiya S, et al. Epidemiology, risk factors, and clinical outcomes in severe microbial keratitis in South India. Ophthalmic Epidemiol. 2018;25:297–305. doi: 10.1080/09286586.2018.1454964. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Tong W, Chen D, Chai C, Tan AM, Manotosh R. Disease patterns of microbial keratitis in Singapore: a retrospective case series. Cont Lens Anterior Eye. 2019;42:455–61.. doi: 10.1016/j.clae.2019.02.006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Stapleton F. Contact lens-related corneal infection in Australia. Clin Exp Optom. 2020;103:408–17.. doi: 10.1111/cxo.13082. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Ferreira CS, Figueira L, Moreira-Gonçalves N, Moreira R, Torrão L, Falcão-Reis F. Clinical and Microbiological Profile of Bacterial Microbial Keratitis in a Portuguese Tertiary Referral Center-Where Are We in 2015? Eye Contact Lens. 2018;44:15–20. doi: 10.1097/ICL.0000000000000298. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Ganguly S, Salma KC, Kansakar I, Sharma M, Bastola P, Pradhan R. Pattern of fungal isolates in cases of corneal ulcer in the western periphery of Nepal. Nepal J Ophthalmol. 2011;3:118–22. doi: 10.3126/nepjoph.v3i2.5262. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Al-Ghafri A, Al-Raisi A. The epidemiology of nonviral microbial keratitis in a tertiary care center in Muscat, Oman. Oman J Ophthalmol. 2018;11:213–9. doi: 10.4103/ojo.OJO_4_2018. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Mandour SS, Marey HM, Farahat HG. Resistant Microbial Keratitis in South Nile Delta, Egypt: influence of Regional Risk Factors. Semin Ophthalmol. 2016;31:473–8. doi: 10.3109/08820538.2014.962174. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Waddell KM. Childhood blindness and low vision in Uganda. Eye (Lond) 1998;12:184–92.. doi: 10.1038/eye.1998.45. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Butler TK, Spencer NA, Chan CC, Singh Gilhotra J, McClellan K. Infective keratitis in older patients: a 4 year review, 1998-2002. Br J Ophthalmol. 2005;89:591–6. doi: 10.1136/bjo.2004.049072. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Kunimoto DY, Sharma S, Garg P, Gopinathan U, Miller D, Rao GN. Corneal ulceration in the elderly in Hyderabad, south India. Br J Ophthalmol. 2000;84:54–9. doi: 10.1136/bjo.84.1.54. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Barua K, Borah M, Deka C, Kakati R. Morbidity pattern and health-seeking behavior of elderly in urban slums: a cross-sectional study in Assam, India. J Fam Med Prim Care. 2017;6:345–50. doi: 10.4103/2249-4863.220030. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Srivastava S, Gill A. Untreated morbidity and treatment-seeking behaviour among the elderly in India: analysis based on National Sample Survey 2004 and 2014. SSM Popul Health. 2020;10:100557. doi: 10.1016/j.ssmph.2020.100557. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Green M, Sara S, Hughes I, Apel A, Stapleton F. Trends in contact lens microbial keratitis 1999 to 2015: a retrospective clinical review. Clin Exp Ophthalmol. 2019;47:726–32. doi: 10.1111/ceo.13484. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Pan XJ, Jiang T, Zhu H, Liu PP, Zhou ZY, Mao AJ. Corneal infection in Shandong peninsula of China: a 10-year retrospective study on 578 cases. Int J Ophthalmol. 2016;9:53–7. doi: 10.18240/ijo.2016.01.09. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Oladigbolu K, Rafindadi A, Abah E, Samaila E. Corneal ulcers in a tertiary hospital in Northern Nigeria. Ann Afr Med. 2013;12:165–70. doi: 10.4103/1596-3519.117626. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Zbiba W, Abdesslem NB. Acanthamoeba keratitis: an emerging disease among microbial keratitis in the Cap Bon region of Tunisia. Exp Parasitol. 2018;192:42–5. doi: 10.1016/j.exppara.2018.05.005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Gautam V, Chaudhary A, Singh SK, Rai PG. Profile of Corneal Ulcer in a Month of harvesting Season in a Tertiary Level Eye Hospital of Eastern Nepal. Nepal J Ophthalmol. 2018;10:32–8. doi: 10.3126/nepjoph.v10i1.216686. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Kumar A, Pandya S, Kavathia G, Antala S, Madan M, Javdekar T. Microbial keratitis in Gujarat, Western India: findings from 200 cases. Pan Afr Med J. 2011;10:48. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Courtright P, Lewallen S, Kanjaloti S, Divala DJ. Traditional eye medicine use among patients with corneal disease in rural Malawi. Br J Ophthalmol. 1994;78:810–2. doi: 10.1136/bjo.78.11.810. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Silhavy TJ, Kahne D, Walker S. The bacterial cell envelope. Cold Spring Harb Perspect Biol. 2010;2:a000414. doi: 10.1101/cshperspect.a000414. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Fleiszig SMJ, Kroken AR, Nieto V, Grosser MR, Wan SJ, Metruccio MME, et al. Contact lens-related corneal infection: intrinsic resistance and its compromise. Prog Retin Eye Res. 2020;76:100804. doi: 10.1016/j.preteyeres.2019.100804. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Becker K, Heilmann C, Peters G. Coagulase-negative staphylococci. Clin Microbiol Rev. 2014;27:870–926. doi: 10.1128/CMR.00109-13. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Srinivasan M, Mascarenhas J, Rajaraman R, Ravindran M, Lalitha P, Glidden DV, et al. The steroids for corneal ulcers trial: study design and baseline characteristics. Arch Ophthalmol. 2012;130:151–7. doi: 10.1001/archophthalmol.2011.303. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Lalitha P, Srinivasan M, Rajaraman R, Ravindran M, Mascarenhas J, Priya JL, et al. Nocardia keratitis: clinical course and effect of corticosteroids. Am J Ophthalmol. 2012;154:934–9.e1. doi: 10.1016/j.ajo.2012.06.001. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Chu HS, Hu FR. Non-tuberculous mycobacterial keratitis. Clin Microbiol Infect. 2013;19:221–6. doi: 10.1111/1469-0691.12094. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Faria S, Joao I, Jordao L. General Overview on Nontuberculous Mycobacteria, Biofilms, and Human Infection. J Pathog. 2015;2015:809014. doi: 10.1155/2015/809014. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Castano G, Elnahry AG, Mada PK. Fungal Keratitis. StatPearls. Treasure Island (FL): StatPearls Publishing LLC.; 2020. [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Leck AK, Thomas PA, Hagan M, Kaliamurthy J, Ackuaku E, John M, et al. Aetiology of suppurative corneal ulcers in Ghana and south India, and epidemiology of fungal keratitis. Br J Ophthalmol. 2002;86:1211–5. doi: 10.1136/bjo.86.11.1211. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Sharma S, Kunimoto DY, Gopinathan U, Athmanathan S, Garg P, Rao GN. Evaluation of corneal scraping smear examination methods in the diagnosis of bacterial and fungal keratitis: a survey of eight years of laboratory experience. Cornea. 2002;21:643–7. doi: 10.1097/00003226-200210000-00002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Sun XG, Zhang Y, Li R, Wang ZQ, Luo SY, Jin XY, et al. Etiological analysis on ocular fungal infection in the period of 1989 - 2000. Chin Med J (Engl) 2004;117:598–600. [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Ting DSJ, Bignardi G, Koerner R, Irion LD, Johnson E, Morgan SJ, et al. Polymicrobial Keratitis With Cryptococcus curvatus, Candida parapsilosis, and Stenotrophomonas maltophilia After Penetrating Keratoplasty: a Rare Case Report With Literature Review. Eye Contact Lens. 2019;45:e5–e10. doi: 10.1097/ICL.0000000000000517. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Ting DSJ, McKenna M, Sadiq SN, Martin J, Mudhar HS, Meeney A, et al. Arthrographis kalrae Keratitis Complicated by Endophthalmitis: a Case Report With Literature Review. Eye Contact Lens. 2020; 10.1097/ICL.0000000000000713. [ DOI ] [ PubMed ] 
+ 
+ 77. Sahay P, Goel S, Nagpal R, Maharana PK, Sinha R, Agarwal T, et al. Infectious Keratitis Caused by Rare and Emerging Micro-Organisms. Curr Eye Res. 2020;45:761–73.. doi: 10.1080/02713683.2019.1708407. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Somani SN, Ronquillo Y, Moshirfar M. Acanthamoeba Keratitis. StatPearls. Treasure Island (FL): StatPearls Publishing LLC.; 2020. [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Carnt N, Hoffman JJ, Verma S, Hau S, Radford CF, Minassian DC, et al. Acanthamoeba keratitis: confirmation of the UK outbreak and a prospective case-control study identifying contributing risk factors. Br J Ophthalmol. 2018;102:1621–8. doi: 10.1136/bjophthalmol-2018-312544. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Dart JK, Saw VP, Kilvington S. Acanthamoeba keratitis: diagnosis and treatment update 2009. Am J Ophthalmol. 2009;148:487–99.e2. doi: 10.1016/j.ajo.2009.06.009. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Brown AC, Ross J, Jones DB, Collier SA, Ayers TL, Hoekstra RM, et al. Risk Factors for Acanthamoeba Keratitis-A Multistate Case-Control Study, 2008-2011. Eye Contact Lens. 2018;44:S173–S8.. doi: 10.1097/ICL.0000000000000365. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Garg P, Kalra P, Joseph J. Non-contact lens related Acanthamoeba keratitis. Indian J Ophthalmol. 2017;65:1079–86. doi: 10.4103/ijo.IJO_826_17. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Iovieno A, Gore DM, Carnt N, Dart JK. Acanthamoeba sclerokeratitis: epidemiology, clinical features, and treatment outcomes. Ophthalmology. 2014;121:2340–7. doi: 10.1016/j.ophtha.2014.06.033. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Moshirfar M, Somani SN, Shmunes KM, Espandar L, Gokhale NS, Ronquillo YC, et al. A Narrative Review of Microsporidial Infections of the Cornea. Ophthalmol Ther. 2020;9:265–78.. doi: 10.1007/s40123-020-00243-z. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Friedberg DN, Stenson SM, Orenstein JM, Tierno PM, Charles NC. Microsporidial keratoconjunctivitis in acquired immunodeficiency syndrome. Arch Ophthalmol. 1990;108:504–8. doi: 10.1001/archopht.1990.01070060052047. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Ting DSJ, Ghosh N, Ghosh S. Herpes zoster ophthalmicus. BMJ. 2019;364:k5234. doi: 10.1136/bmj.k5234. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Rowe AM, St Leger AJ, Jeon S, Dhaliwal DK, Knickelbein JE, Hendricks RL. Herpes keratitis. Prog Retin Eye Res. 2013;32:88–101. doi: 10.1016/j.preteyeres.2012.08.002. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Tuli S, Gray M, Shah A. Surgical management of herpetic keratitis. Curr Opin Ophthalmol. 2018;29:347–54.. doi: 10.1097/ICU.0000000000000484. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Lim NC, Lim DK, Ray M. Polymicrobial versus monomicrobial keratitis: a retrospective comparative study. Eye Contact Lens. 2013;39:348–54.. doi: 10.1097/ICL.0b013e3182a3024e. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Gorski M, Genis A, Yushvayev S, Awwad A, Lazzaro DR. Seasonal Variation in the Presentation of Infectious Keratitis. Eye Contact Lens. 2016;42:295–7. doi: 10.1097/ICL.0000000000000213. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. Walkden A, Fullwood C, Tan SZ, Au L, Armstrong M, Brahma AK, et al. Association Between Season, Temperature and Causative Organism in Microbial Keratitis in the UK. Cornea. 2018;37:1555–60.. doi: 10.1097/ICO.0000000000001748. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. Shankar J, Sueke H, Wiehlmann L, Horsburgh MJ, Tuft S, Neal TJ, et al. Genotypic analysis of UK keratitis-associated Pseudomonas aeruginosa suggests adaptation to environmental water as a key component in the development of eye infections. FEMS Microbiol Lett. 2012;334:79–86. doi: 10.1111/j.1574-6968.2012.02621.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 93. Dethorey G, Daruich A, Hay A, Renard G, Bourges JL. [Severe bacterial keratitis referred to ophthalmology emergency departments: a retrospective study of 268 cases] J Fr Ophtalmol. 2013;36:129–37.. doi: 10.1016/j.jfo.2011.12.013. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 94. Khor HG, Cho I, Lee K, Chieng LL. Spectrum of Microbial Keratitis Encountered in the Tropics. Eye Contact Lens. 2020;46:17–23. doi: 10.1097/ICL.0000000000000621. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 95. Sagerfors S, Ejdervik-Lindblad B, Söderquist B. Infectious keratitis: isolated microbes and their antibiotic susceptibility pattern during 2004-2014 in Region Örebro County, Sweden. Acta Ophthalmol. 2020;98:255–60. doi: 10.1111/aos.14256. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 96. French DD, Margo CE. Demographic patterns of ED patients diagnosed as having corneal ulcer. Am J Emerg Med. 2013;31:1082–5. doi: 10.1016/j.ajem.2013.03.052. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 97. Truong DT, Bui MT, Memon P, Cavanagh HD. Microbial Keratitis at an Urban Public Hospital: a 10-Year Update. J Clin Exp Ophthalmol. 2015;6:498. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 98. Dhakhwa K, Sharma MK, Bajimaya S, Dwivedi AK, Rai S. Causative organisms in microbial keratitis, their sensitivity pattern and treatment outcome in western Nepal. Nepal. J Ophthalmol. 2012;4:119–27. doi: 10.3126/nepjoph.v4i1.5863. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 99. Hussain I, Khan BS, Soni M, Iqbal M. Habibullah. Non-viral microbial keratitis: etiology, clinical features and visual outcome. J Coll Physicians Surg Pak. 2012;22:151–4. [ PubMed ] [ Google Scholar ] 
+ 
+ 100. Deorukhkar S, Katiyar R, Saini S. Epidemiological features and laboratory results of bacterial and fungal keratitis: a five-year study at a rural tertiary-care hospital in western Maharashtra, India. Singap Med J. 2012;53:264–7. [ PubMed ] [ Google Scholar ] 
+ 
+ 101. Sitoula RP, Singh SK, Mahaseth V, Sharma A, Labh RK. Epidemiology and etiological diagnosis of infective keratitis in eastern region of Nepal. Nepal J Ophthalmol. 2015;7:10–5. doi: 10.3126/nepjoph.v7i1.13124. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 102. Yildiz EH, Airiani S, Hammersmith KM, Rapuano CJ, Laibson PR, Virdi AS, et al. Trends in contact lens-related corneal ulcers at a tertiary referral center. Cornea. 2012;31:1097–102.. doi: 10.1097/ICO.0b013e318221cee0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 103. Sauer A, Greth M, Letsch J, Becmeur PH, Borderie V, Daien V, et al. Contact Lenses and Infectious Keratitis: from a Case-Control Study to a Computation of the Risk for Wearers. Cornea. 2020;39:769–74.. doi: 10.1097/ICO.0000000000002248. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 104. Carnt N, Robaei D, Minassian DC, Dart JKG. Acanthamoeba keratitis in 194 patients: risk factors for bad outcomes and severe inflammatory complications. Br J Ophthalmol. 2018;102:1431–5. doi: 10.1136/bjophthalmol-2017-310806. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 105. Stapleton F, Naduvilath T, Keay L, Radford C, Dart J, Edwards K, et al. Risk factors and causative organisms in microbial keratitis in daily disposable contact lens wear. PLoS ONE. 2017;12:e0181343. doi: 10.1371/journal.pone.0181343. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 106. Hoddenbach JG, Boekhoorn SS, Wubbels R, Vreugdenhil W, Van Rooij J, Geerards AJ. Clinical presentation and morbidity of contact lens-associated microbial keratitis: a retrospective study. Graefes Arch Clin Exp Ophthalmol. 2014;252:299–306. doi: 10.1007/s00417-013-2514-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 107. Sauer A, Meyer N, Bourcier T, Keratitis FSGfCLRM. Risk Factors for Contact Lens-Related Microbial Keratitis: a Case-Control Multicenter Study. Eye Contact Lens. 2016;42:158–62. doi: 10.1097/ICL.0000000000000180. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 108. Scanzera AC, Tu EY, Joslin CE. Acanthamoeba Keratitis in Minors With Orthokeratology (OK) Lens Use: a Case Series. Eye Contact Lens. 2020; 10.1097/ICL.0000000000000728. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 109. Kumar A, Khurana A, Sharma M, Chauhan L. Causative fungi and treatment outcome of dematiaceous fungal keratitis in North India. Indian J Ophthalmol. 2019;67:1048–53. doi: 10.4103/ijo.IJO_1612_18. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 110. Suzuki T, Sutani T, Nakai H, Shirahige K, Kinoshita S. The Microbiome of the Meibum and Ocular Surface in Healthy Subjects. Investig Ophthalmol Vis Sci. 2020;61:18. doi: 10.1167/iovs.61.2.18. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 111. Graham JE, Moore JE, Jiru X, Goodall EA, Dooley JS, Hayes VE, et al. Ocular pathogen or commensal: a PCR-based study of surface bacterial flora in normal and dry eyes. Investig Ophthalmol Vis Sci. 2007;48:5616–23. doi: 10.1167/iovs.07-0588. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 112. Khoo P, Cabrera-Aguas M, Robaei D, Lahra MM, Watson S. Microbial Keratitis and Ocular Surface Disease: a 5-Year Study of the Microbiology, Risk Factors and Clinical Outcomes in Sydney, Australia. Curr Eye Res. 2019;44:1195–202.. doi: 10.1080/02713683.2019.1631852. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 113. Craig JP, Nichols KK, Akpek EK, Caffery B, Dua HS, Joo CK, et al. TFOS DEWS II Definition and Classification Report. Ocul Surf. 2017;15:276–83.. doi: 10.1016/j.jtos.2017.05.008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 114. Bron AJ, de Paiva CS, Chauhan SK, Bonini S, Gabison EE, Jain S, et al. TFOS DEWS II pathophysiology report. Ocul Surf. 2017;15:438–510. doi: 10.1016/j.jtos.2017.05.011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 115. McCulley JP, Shine WE. Changing concepts in the diagnosis and management of blepharitis. Cornea. 2000;19:650–8. doi: 10.1097/00003226-200009000-00010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 116. Dohse N, Wibbelsman TD, Rapuano SB, Hammersmith KM, Nagra PK, Rapuano CJ, et al. Microbial keratitis and clinical outcomes following penetrating and endothelial keratoplasty. Acta Ophthalmol. 2020; 10.1111/aos.14404. [ DOI ] [ PubMed ] 
+ 
+ 117. Maharana PK, Sahay P, Sujeeth M, Singhal D, Rathi A, Titiyal JS, et al. Microbial Keratitis After Accelerated Corneal Collagen Cross-Linking in Keratoconus. Cornea. 2018;37:162–7. doi: 10.1097/ICO.0000000000001439. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 118. Ting DSJ, Said DG, Dua HS. Interface Haze After Descemet Stripping Automated Endothelial Keratoplasty. JAMA Ophthalmol. 2019;137:1201–2. doi: 10.1001/jamaophthalmol.2019.2745. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 119. Fontana L, Moramarco A, Mandarà E, Russello G, Iovieno A. Interface infectious keratitis after anterior and posterior lamellar keratoplasty. Clinical features and treatment strategies. A review. Br J Ophthalmol. 2019;103:307–14.. doi: 10.1136/bjophthalmol-2018-312938. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 120. Randleman JB, Shah RD. LASIK interface complications: etiology, management, and outcomes. J Refract Surg. 2012;28:575–86.. doi: 10.3928/1081597X-20120722-01. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 121. Elmassry A, Said Ahmed OI, Abdalla MF, Gaballah K. Ten years experience of corneal collagen cross-linking: an observational study of 6120 cases. Eur J Ophthalmol. 2020:1120672120928921. [ DOI ] [ PubMed ] 
+ 
+ 122. Ting DSJ, Rana-Rahman R, Chen Y, Bell D, Danjoux JP, Morgan SJ, et al. Effectiveness and safety of accelerated (9 mW/cm(2)) corneal collagen cross-linking for progressive keratoconus: a 24-month follow-up. Eye (Lond) 2019;33:812–8. doi: 10.1038/s41433-018-0323-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 123. Ting DSJ, Henein C, Said DG, Dua HS. Photoactivated chromophore for infectious keratitis - Corneal cross-linking (PACK-CXL): a systematic review and meta-analysis. Ocul Surf. 2019;17:624–34.. doi: 10.1016/j.jtos.2019.08.006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 124. Prajna NV, Radhakrishnan N, Lalitha P, Austin A, Ray KJ, Keenan JD, et al. Cross-Linking-Assisted Infection Reduction: a Randomized Clinical Trial Evaluating the Effect of Adjuvant Cross-Linking on Outcomes in Fungal Keratitis. Ophthalmology. 2020;127:159–66.. doi: 10.1016/j.ophtha.2019.08.029. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 125. Said DG, Elalfy MS, Gatzioufas Z, El-Zakzouk ES, Hassan MA, Saif MY, et al. Collagen cross-linking with photoactivated riboflavin (PACK-CXL) for the treatment of advanced infectious keratitis with corneal melting. Ophthalmology. 2014;121:1377–82.. doi: 10.1016/j.ophtha.2014.01.011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 126. Dhawan S, Rao K, Natrajan S. Complications of corneal collagen cross-linking. J Ophthalmol. 2011;2011:869015. doi: 10.1155/2011/869015. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 127. Ting DSJ, Bandyopadhyay J, Patel T. Microbial keratitis complicated by acute hydrops following corneal collagen cross-linking for keratoconus. Clin Exp Optom. 2019;102:434–6. doi: 10.1111/cxo.12856. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 128. Jones L, Downie LE, Korb D, Benitez-Del-Castillo JM, Dana R, Deng SX, et al. TFOS DEWS II Management and Therapy Report. Ocul Surf. 2017;15:575–628. doi: 10.1016/j.jtos.2017.05.006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 129. Tempest-Roe S, Joshi L, Dick AD, Taylor SR. Local therapies for inflammatory eye disease in translation: past, present and future. BMC Ophthalmol. 2013;13:39. doi: 10.1186/1471-2415-13-39. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 130. Di Zazzo A, Kheirkhah A, Abud TB, Goyal S, Dana R. Management of high-risk corneal transplantation. Surv Ophthalmol. 2017;62:816–27.. doi: 10.1016/j.survophthal.2016.12.010. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 131. Wilhelmus KR, Gee L, Hauck WW, Kurinij N, Dawson CR, Jones DB, et al. Herpetic Eye Disease Study: a Controlled Trial of Topical Corticosteroids for Herpes Simplex Stromal Keratitis. Ophthalmology. 2020;127:S5–s18. doi: 10.1016/j.ophtha.2020.01.037. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 132. Liesegang TJ. Herpes simplex virus epidemiology and ocular importance. Cornea. 2001;20:1–13. doi: 10.1097/00003226-200101000-00001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 133. Li S, Yi G, Peng H, Li Z, Chen S, Zhong H, et al. How Ocular Surface Microbiota Debuts in Type 2 Diabetes Mellitus. Front Cell Infect Microbiol. 2019;9:202. doi: 10.3389/fcimb.2019.00202. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 134. Zhu L, Titone R, Robertson DM. The impact of hyperglycemia on the corneal epithelium: molecular mechanisms and insight. Ocul Surf. 2019;17:644–54.. doi: 10.1016/j.jtos.2019.06.007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 135. Al-Aqaba MA, Dhillon VK, Mohammed I, Said DG, Dua HS. Corneal nerves in health and disease. Prog Retin Eye Res. 2019;73:100762. doi: 10.1016/j.preteyeres.2019.05.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 136. Dan J, Zhou Q, Zhai H, Cheng J, Wan L, Ge C, et al. Clinical analysis of fungal keratitis in patients with and without diabetes. PLoS ONE. 2018;13:e0196741. doi: 10.1371/journal.pone.0196741. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 137. Wang B, Yang S, Zhai HL, Zhang YY, Cui CX, Wang JY, et al. A comparative study of risk factors for corneal infection in diabetic and non-diabetic patients. Int J Ophthalmol. 2018;11:43–7. doi: 10.18240/ijo.2018.01.08. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 138. Kaiserman I, Kaiserman N, Nakar S, Vinker S. Herpetic eye disease in diabetic patients. Ophthalmology. 2005;112:2184–8. doi: 10.1016/j.ophtha.2005.07.014. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 139. Liesegang TJ. Epidemiology of ocular herpes simplex. Natural history in Rochester, Minn, 1950 through 1982. Arch Ophthalmol. 1989;107:1160–5. doi: 10.1001/archopht.1989.01070020226030. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 140. Vadoothker S, Andrews L, Jeng BH, Levin MR. Management of Herpes Simplex Virus Keratitis in the Pediatric Population. Pediatr Infect Dis J. 2018;37:949–51.. doi: 10.1097/INF.0000000000002114. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 141. Lobo AM, Agelidis AM, Shukla D. Pathogenesis of herpes simplex keratitis: the host cell response and ocular surface sequelae to infection and inflammation. Ocul Surf. 2019;17:40–9. doi: 10.1016/j.jtos.2018.10.002. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 142. Jan RL, Tai MC, Weng SF, Chang C, Wang JJ, Chang YS. Risk of corneal ulcer in patients with end-stage renal disease: a retrospective large-scale cohort study. Br J Ophthalmol. 2018;102:868–72.. doi: 10.1136/bjophthalmol-2016-310098. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 143. Laxminarayan R, Duse A, Wattal C, Zaidi AK, Wertheim HF, Sumpradit N, et al. Antibiotic resistance-the need for global solutions. Lancet Infect Dis. 2013;13:1057–98.. doi: 10.1016/S1473-3099(13)70318-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 144. Munita JM, Arias CA. Mechanisms of Antibiotic Resistance. Microbiol Spectr. 2016;4. 10.1128/microbiolspec.VMBF-0016-2015. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 145. McDonald EM, Ram FS, Patel DV, McGhee CN. Topical antibiotics for the management of bacterial keratitis: an evidence-based review of high quality randomised controlled trials. Br J Ophthalmol. 2014;98:1470–7. doi: 10.1136/bjophthalmol-2013-304660. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 146. Brown L. Resistance to ocular antibiotics: an overview. Clin Exp Optom. 2007;90:258–62.. doi: 10.1111/j.1444-0938.2007.00154.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 147. Martinez MN, Papich MG, Drusano GL. Dosing regimen matters: the importance of early intervention and rapid attainment of the pharmacokinetic/pharmacodynamic target. Antimicrob Agents Chemother. 2012;56:2795–805.. doi: 10.1128/AAC.05360-11. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 148. Blomquist PH. Methicillin-resistant Staphylococcus aureus infections of the eye and orbit (an American Ophthalmological Society thesis) Trans Am Ophthalmol Soc. 2006;104:322–45. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 149. Ray KJ, Prajna L, Srinivasan M, Geetha M, Karpagam R, Glidden D, et al. Fluoroquinolone treatment and susceptibility of isolates from bacterial keratitis. JAMA Ophthalmol. 2013;131:310–3. doi: 10.1001/jamaophthalmol.2013.1718. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 150. Vola ME, Moriyama AS, Lisboa R, Vola MM, Hirai FE, Bispo PJ, et al. Prevalence and antibiotic susceptibility of methicillin-resistant Staphylococcus aureus in ocular infections. Arq Bras Oftalmol. 2013;76:350–3. doi: 10.1590/s0004-27492013000600006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 151. Prajna NV, Lalitha P, Rajaraman R, Krishnan T, Raghavan A, Srinivasan M, et al. Changing Azole Resistance: a Secondary Analysis of the MUTT I Randomized Clinical Trial. JAMA Ophthalmol. 2016;134:693–6. doi: 10.1001/jamaophthalmol.2016.0530. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 152. O’Neill J. Tackling drug-resistant infections globally: final report and recommendations. Rev Antimicrobial Resist. 2016:1–81. 
+ 
+ 
+ 153. Kaye S, Tuft S, Neal T, Tole D, Leeming J, Figueiredo F, et al. Bacterial susceptibility to topical antimicrobials and clinical outcome in bacterial keratitis. Investig Ophthalmol Vis Sci. 2010;51:362–8. doi: 10.1167/iovs.09-3933. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 154. Lalitha P, Prajna NV, Oldenburg CE, Srinivasan M, Krishnan T, Mascarenhas J, et al. Organism, minimum inhibitory concentration, and outcome in a fungal corneal ulcer clinical trial. Cornea. 2012;31:662–7. doi: 10.1097/ICO.0b013e31823f8ae0. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 155. Ting DSJ, Beuerman RW, Dua HS, Lakshminarayanan R, Mohammed I. Strategies in Translating the Therapeutic Potentials of Host Defense Peptides. Front Immunol. 2020;11:983. doi: 10.3389/fimmu.2020.00983. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 156. Mayandi V, Xi Q, Leng Goh ET, Koh SK, Jie Toh TY, Barathi VA, et al. Rational Substitution of ε-Lysine for α-Lysine Enhances the Cell and Membrane Selectivity of Pore-Forming Melittin. J Med Chem. 2020;63:3522–37.. doi: 10.1021/acs.jmedchem.9b01846. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 157. Mohammed I, Said DG, Nubile M, Mastropasqua L, Dua HS. Cathelicidin-Derived Synthetic Peptide Improves Therapeutic Potential of Vancomycin Against Pseudomonas aeruginosa. Front Microbiol. 2019;10:2190. doi: 10.3389/fmicb.2019.02190. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 158. Ung L, Bispo PJM, Doan T, Van Gelder RN, Gilmore MS, Lietman T, et al. Clinical metagenomics for infectious corneal ulcers: Rags to riches? Ocul Surf. 2020;18:1–12. doi: 10.1016/j.jtos.2019.10.007. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 159. Ting DSJ, Foo VH, Yang LWY, Sia JT, Ang M, Lin H, et al. Artificial intelligence for anterior segment diseases: emerging applications in ophthalmology. Br J Ophthalmol. 2020; 10.1136/bjophthalmol-2019-315651. [ DOI ] [ PubMed ] 
+ 
+ 160. Ouzzani M, Hammady H, Fedorowicz Z, Elmagarmid A. Rayyan-a web and mobile app for systematic reviews. Syst Rev. 2016;5:210. doi: 10.1186/s13643-016-0384-4. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

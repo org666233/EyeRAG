@@ -1,0 +1,36 @@
+Source: Wikipedia
+Title: Anti-VEGF
+URL: https://en.wikipedia.org/wiki/Anti-VEGF
+============================================================
+
+Anti–vascular endothelial growth factor therapy, also known as anti-VEGF () therapy or medication, is the use of medications that block vascular endothelial growth factor. This is done in the treatment of certain cancers and in age-related macular degeneration. They can involve monoclonal antibodies such as bevacizumab, antibody derivatives such as ranibizumab (Lucentis), or orally-available small molecules that inhibit the tyrosine kinases stimulated by VEGF: sunitinib, sorafenib, axitinib, and pazopanib (some of these therapies target VEGF receptors rather than the VEGFs).
+Both antibody-based compounds and the first three orally available compounds are commercialized.  The latter two, axitinib and pazopanib, are in clinical trials.
+Bergers and Hanahan concluded in 2008 that anti-VEGF drugs can show therapeutic efficacy in mouse models of cancer and in an increasing number of human cancers. But, "the benefits are at best transitory and are followed by a restoration of tumour growth and progression."
+Later studies into the consequences of VEGF inhibitor use have shown that, although they can reduce the growth of primary tumours, VEGF inhibitors can concomitantly promote invasiveness and metastasis of tumours.
+AZ2171 (cediranib), a multi-targeted tyrosine kinase inhibitor has been shown to have anti-edema effects by reducing the permeability and aiding in vascular normalization.
+A 2014 Cochrane Systematic Review studied the effectiveness of ranibizumab and pegaptanib, on patients who have macular edema caused by central retinal vein occlusion. Participants in both treatment groups showed improvement in visual acuity measures and a reduction in macular edema symptoms over six months.
+
+
+== Cancer ==
+
+The most common indication for anti-VEGF therapy is cancer, and they are FDA and EMA approved for many forms of cancer. These medications are one of the most used forms of targeted therapy and are typically used in combination with other medications.
+
+
+== Neovascular age-related macular degeneration ==
+Ranibizumab, a monoclonal antibody fragment (Fab) derived from bevacizumab, has been developed by Genentech for intraocular use. In 2006, FDA approved the drug for the treatment of neovascular age-related macular degeneration (wet AMD). The drug had undergone three successful clinical trials by then.
+In the October 2006 issue of the New England Journal of Medicine (NEJM), Rosenfield, et al. reported that monthly intravitreal injection of ranibizumab led to significant increase in the level of mean visual acuity compared to that of sham injection. It was concluded from the two-year, phase III study that ranibizumab is effective in the treatment of minimally classic (MC) or occult wet AMD (age-related macular degeneration) with low rates of ocular adverse effects.
+Another study published in the January 2009 issue of Ophthalmology provides the evidence for the efficacy of ranibizumab. Brown, et al. reported that monthly intravitreal injection of ranibizumab led to significant increase in the level of mean visual acuity compared to that of photodynamic therapy with verteporfin. It was concluded from the two year, phase III study that ranibizumab was superior to photodynamic therapy with verteporfin in the treatment of predominantly classic (PC) Wet AMD with low rates of ocular adverse effects.
+Although the efficacy of ranibizumab is well-supported by extensive clinical trials, the cost effectiveness of the drug is questioned. Since the drug merely stabilizes patient conditions, ranibizumab must be administered monthly. At a cost of $2,000.00 per injection, the cost to treat wet AMD patients in the United States is greater than $10.00 billion per year. Due to high cost, many ophthalmologists have turned to bevacizumab as the alternative intravitreal agent in the treatment of wet AMD.
+In 2007, Raftery, et al. reported in the British Journal of Ophthalmology that, unless ranibizumab is 2.5 times more effective the bevacizumab, ranibizumab is not cost-effective. It was concluded that the price of ranibizumab would have to be drastically reduced for the drug to be cost-effective.
+Off-label use of intravitreal bevacizumab has become a widespread treatment for neovascular age-related macular degeneration. Although the drug is not FDA-approved for non-oncologic uses, some studies suggest that bevacizumab is effective in increasing visual acuity with low rates of ocular adverse effects. However, due to small sample size and lack of randomized control trial, the result is not conclusive.
+In October 2006, the National Eye Institute (NEI) of the National Institutes of Health (NIH) announced that it would fund a comparative study trial of ranibizumab and bevacizumab to assess the relative efficacy and ocular adversity in treating wet AMD. In 2008, this study, called the Comparison of Age-Related Macular Degeneration Treatment Trials (CATT Study), enrolled about 1,200 patients with newly diagnosed wet AMD. The patients were assigned randomly to different treatment groups, and the data was collected from 2008 to 2009. So far, the result has been at least 41 papers and 10 editorials/commentaries published in major medical journals. An additional paper is in press and work proceeds on 10 more. The overall conclusions demonstrated no statistical difference between the treatment groups outcomes after eight years 
+By May 2012, anti-VEGF treatment with Avastin has been accepted by Medicare, is quite reasonably priced, and effective. Lucentis has a similar but smaller molecular structure to Avastin, and is FDA-approved (2006) for treating MacD, yet remains more costly, as is the more recent (approved in 2011) aflibercept (Eylea). Tests on these treatments are ongoing relative to the efficacy of one over another.
+
+
+== Research ==
+VEGF is also inhibited by thiazolidinediones (used for diabetes mellitus type 2 and related disease), and this effect on granulosa cells gives the potential of thiazolidinediones to be used in ovarian hyperstimulation syndrome.
+The evidence base supporting the use of anti-VEGF agents such as ranibizumab and bevacizumab on lowering intraocular pressure in people with neovascular glaucoma is inconclusive, as more research is needed to compare anti-VEGF treatments with conventional treatments. There is also limited amounts of evidence from clinical trials that invesitgated at the effectiveness and also the safety rating associated with using anti-VEGF medications for more than a year for treating diabetic macular oedema. There is also no evidence that it improves mortality from any cause. 
+Anti-VEGF subconjunctival injections have been proposed as a means of controlling wound healing during glaucoma surgery, however the evidence for or against this therapeutic approach is limited and several studies are ongoing.
+
+
+== References ==

@@ -1,0 +1,433 @@
+Source: PubMed Central (PMC)
+PMCID: PMC6376883
+Title: Recurrent corneal erosion: a comprehensive review
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6376883/
+Year: 2019
+Disease: keratitis
+Priority: 2
+============================================================
+
+Clin Ophthalmol . 2019 Feb 11;13:325–335. doi: 10.2147/OPTH.S157430 
+ 
+ 
+ Recurrent corneal erosion: a comprehensive review 
+ Darby D Miller 
+ Darby D Miller 
+ 
+ 1 Department of Ophthalmology, Mayo Clinic, Jacksonville, FL 32224, USA, miller.darby@mayo.edu 
+ Find articles by Darby D Miller 
+ 
+ 
+ 1, ✉ , Syed A Hasan 
+ Syed A Hasan 
+ 
+ 1 Department of Ophthalmology, Mayo Clinic, Jacksonville, FL 32224, USA, miller.darby@mayo.edu 
+ Find articles by Syed A Hasan 
+ 
+ 
+ 1 , Nathaniel L Simmons 
+ Nathaniel L Simmons 
+ 
+ 2 Department of Ophthalmology, University of Rochester, Rochester, NY 14642, USA 
+ Find articles by Nathaniel L Simmons 
+ 
+ 
+ 2 , Michael W Stewart 
+ Michael W Stewart 
+ 
+ 1 Department of Ophthalmology, Mayo Clinic, Jacksonville, FL 32224, USA, miller.darby@mayo.edu 
+ Find articles by Michael W Stewart 
+ 
+ 
+ 1 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, Mayo Clinic, Jacksonville, FL 32224, USA, miller.darby@mayo.edu 
+ 
+ 2 Department of Ophthalmology, University of Rochester, Rochester, NY 14642, USA 
+ 
+ ✉ Correspondence: Darby D Miller, Department of Ophthalmology, Mayo Clinic, 4500 San Pablo Rd, Jacksonville, FL 32224, USA, Tel +1 904 953 2232, Fax +1 904 953 7040, Email miller.darby@mayo.edu 
+ 
+ 
+ Collection date 2019. 
+ 
+ © 2019 Miller et al. This work is published and licensed by Dove Medical Press Limited 
+ The full terms of this license are available at https://www.dovepress.com/terms.php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License ( http://creativecommons.org/licenses/by-nc/3.0/ ). By accessing the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC6376883  PMID: 30809089 
+ 
+ Abstract 
+ Purpose 
+ To comprehensively review the literature regarding recurrent corneal erosion (RCE) and to present treatment options and recommendations for management. Overview 
+ RCE usually presents with sharp, unilateral pain upon awakening, in an eye with an underlying basement membrane dystrophy, prior ocular trauma, stromal dystrophy or degeneration, or prior surgery for refractive errors, cataracts, or corneal transplantation. Making the correct diagnosis requires a careful slit-lamp examination of both eyes coupled with a high degree of suspicion. Several treatments are commonly used for RCE but new therapies have been introduced recently. Conservative treatment consists of antibiotic and preservative-free lubricating drops, with topical cycloplegics and oral analgesics to control pain. Patients who are unresponsive to these therapies may benefit from therapeutic bandage contact lenses (BCL). Newer therapies include oral matrix metalloproteinase (MMP) inhibitors, blood-derived eye drops, amniotic membrane graft application, and judicious application of topical corticosteroids. Once the epithelium is healed, a course of hypertonic saline solution and/or ointment can be used. Surgical procedures may be performed in patients who fail conservative therapy. Punctal occlusion with plugs increases the tear film volume. Epithelial debridement with diamond burr polishing (DBP), anterior stromal puncture (ASP), or alcohol delamination should be considered in selected patients. DBP can be used for patients with basement membrane dystrophies and is the preferred treatment overall due to a low recurrence rate. ASP can be used for erosions outside the central visual axis. Excimer laser phototherapeutic keratectomy is an attractive option in eyes with central RCE since it precisely removes tissue while preserving corneal transparency. In patients with RCE who are also candidates for refractive surgery, photorefractive keratectomy can be considered. Summary 
+ Newly introduced therapies for RCE enable therapy to be individualized and lower the recurrence rate. Keywords: recurrent corneal erosion, anterior basement membrane dystrophy, map-dot-fingerprint dystrophy, epithelial basement membrane dystrophy, corneal abrasion Introduction 
+ Recurrent corneal erosion (RCE) typically occurs in eyes that have had previous abrading injuries (even years prior), eyes with epithelial basement membrane dystrophy (EBMD), corneal dystrophies such as lattice degeneration, corneal degenerations such as band keratopathy, or prior ocular surgery for refractive errors, cataracts, or corneal transplantation. RCE results from mechanical trauma to the superficial cornea witĥ45%–64% of reported cases being related to prior physical injury. The second most common cause is EBMD, which has been reported in 19%–29% of cases. RCE primarily affects adults between 30 and 80 years of age, with the highest prevalence between the ages of 30 and 40 years. The highest rates of RCE occur in patients who also have dry eye syndrome, diabetes mellitus, blepharitis, and ocular rosacea. 1 – 5 
+ RCE has been described and categorized by many researchers over the past two centuries. It was first recognized by Hansen (1872) 6 who described an “intermittent neuralgic vascular keratitis” and Von Arlt reported a similar condition only 2 years later. Both acknowledged that prior trauma was the cause. Szili (1900) 7 described an irregular corneal epithelium coated with gray dots, a phenomenon later noted by Vogt (1921) 8 who expanded on this description with the aid of fluorescein staining and slit-lamp examination. Despite these early discoveries, RCE was not properly categorized until 1945 by Chandler. 5 , 9 – 11 
+ Patients with RCE typically experience sudden onset of eye pain, usually on first awakening. Associated symptoms include redness, photophobia, blurred vision, and tearing. Pain may last from minutes to several hours, and in the most severe cases with persistent epithelial defects, patients can experience pain for several days. Slit-lamp findings include conjunctival injection, fresh or healing epithelial defects, EBMD, including small cysts, fingerprint patterns or map-like lines, areas of negative staining, or a normal cornea. If the episode is recent, there should be no evidence of corneal infection, and corneal anesthesia will be normal. If the patient has had several episodes of RCE, a corneal scar may be present. RCE typically presents as a unilateral condition but both eyes may exhibit EBMD. 2 , 5 , 12 
+ Diagnosis 
+ Several examination techniques can be used to recognize and diagnose RCE but slit-lamp biomicroscopy remains the best method. Direct illumination can highlight loose and irregular epithelium, and identify cystic and map-like changes associated with EBMD. Direct illumination techniques include diffuse illumination with a broad beam of light directed at the cornea from an oblique angle and slit illumination using a narrow beam to visualize a thin section of the cornea. In addition, indirect illumination with retro-illumination, during which abnormalities within the cornea are highlighted against the backdrop of the red reflex, can detect subtle corneal distortion. Topical fluorescein can stain irregular, loose epithelium as well as highlight non-staining lesions that protrude through the tear film, a commonly seen EBMD finding referred to as negative staining. 13 
+ Other instruments have also been used to visualize epithelial abnormalities. In vivo confocal microscopy (Heidelberg Retina Tomograph II Rostock Cornea Module) recognizes epithelial microcysts and abnormal epithelial basement membrane that protrudes forward into the corneal epithelium. Confocal microscopy magnifies the epithelium 10 times as much as a slit lamp and produces higher resolution images. 14 Optical coherence tomography (OCT) can measure the size of the cornea, visualize internal structures, and recognize subtle membrane dystrophies and surface irregularities. 14 , 15 Pathophysiology 
+ After an injury to the corneal surface, changes in the cell-to-cell and cell-to-matrix interfaces occur. Inflammation from corneal injuries causes disruption of the epithelial basement membrane and weakens the extracellular adhesion network, typically at the level of the hemi-desmosomes. In EBMD, desquamating cells become entrapped beneath aberrant and redundant layers of basement membrane 16 resulting in a poor adherence of the corneal epithelium to the underlying adhesion network. 17 In both scenarios, in vivo confocal microscopy visualizes deposits in the basal epithelial cells, subbasal microfolds and streaks, and/or damaged subbasal nerves. 18 
+ RCE usually occurs when nocturnal drying of the ocular surface increases the adhesive force between the tarsal conjunctiva and the corneal epithelium. Upon awakening and opening of the eyelids, the resultant shearing force avulses the corneal epithelium from the underlying epithelial basement membrane. 2 , 4 , 12 , 19 The weak attachment between the epithelium and the basement membrane is thought to be related to the epithelial adhesion network and associated filament network. Several proteins, including hemi-desmosomes, collagen types IV, VII, and XVII, and MMPs, regulate this adhesion network and modulate the wound healing process ( Figure 1 ). 20 – 23 Patients with RCE have upregulated MMP-2 (gelatinase A) and MMP-9 (gelatinase B), which promote cleavage of collagen types IV, V, VII, and X, as well as the adhesion molecules fibronectin and laminin. 24 , 25 The three layers of the corneal epithelium include superficial cells, wing cells, and basal cells, the latter having a more central role in RCE. Hemi-desmosomes are located in corneal basal epithelial cells and are a part of the anchoring complex that provides a structural link between the intracellular cytoskeleton and the basement membrane, Bowman’s layer and stroma. 26 Dysfunctional hemi-desmosomes cause epithelial cells to adhere poorly to the basement membrane and enable the formation of corneal erosions. 
+ Figure 1. 
+ 
+ Open in a new tab 
+ Basic cornea anatomy (left) with enlarged detailed diagram of epithelial basement membrane and adhesion complexes (right). 
+ Abbreviations: BM, basement membrane; BP230, bullous pemphigoid antigen 230. Predisposing conditions and differential diagnoses 
+ When evaluating RCE, the physician must include predisposing conditions in the differential diagnosis. These include corneal dystrophies, a history of corneal trauma or infection, dry eye syndrome, diabetes mellitus, blepharitis, and ocular rosacea. Several corneal dystrophies are associated with RCE, with EBMD being the most common. EBMD, also known as map-dot-fingerprint dystrophy or anterior basement membrane dystrophy, is one of the most common corneal dystrophies and may be found in up to 15% of the population. 27 – 30 
+ The differential diagnosis of RCE must include herpes simplex virus (HSV) epithelial keratitis, exposure keratopathy, neurotrophic keratitis, conjunctival foreign body, dry eye disease (DED), infectious keratitis, and ocular graft-versus-host disease (GVHD). HSV epithelial keratitis, which is characterized by thin and branching dendritic epithelial ulcers or geographic ulcerations with decreased corneal sensation, can be differentiated from RCE on slit-lamp examination. Conjunctival injection is typically present and there can also be anterior chamber inflammation. Recommended treatment includes topical and oral antiviral therapies, including topical ganciclovir, topical trifluridine, and oral valacyclovir or acyclovir. 31 
+ Exposure keratopathy is typically seen in patients with lagophthalmos who may have a history of facial nerve palsy, proptosis, thyroid eye disease, previous eyelid or facial surgery, or trauma. Exposure keratopathy is characterized by punctate epithelial keratopathy that usually involves the inferior third of the cornea. Exposure keratopathy can lead to coalescent epithelial defects, which can then lead to ulceration, melting, and ultimately perforation. Treatment options consist of nighttime ophthalmic ointment, moisture chamber goggles, punctal plugs, and eyelid surgery. 32 
+ Neurotrophic keratitis is caused by reduced corneal sensitivity following damage to cranial nerve V. Causes of sensory nerve damage include surgical and non-surgical trauma, vascular disease, aneurysms, autoimmune disease, infection (herpes zoster, leprosy, and herpes simplex), and toxicity from topical medications. Types 1 and 2 diabetes mellitus have been associated with reduced corneal sensitivity, as have hereditary sensory neuropathies such as familial dysautonomia. Patients with neurotrophic keratitis typically report little to no ocular discomfort despite having epithelial defects or keratopathy. Slit-lamp examination may show round epithelial defects with elevated gray-white edges of “heaped up” epithelium. Other findings include eyelid edema, hypoesthesia, and stromal scarring. Treatment includes aggressive lubrication, and antibiotic and blood serum drops if indicated. 33 
+ Patients with tarsal conjunctival foreign bodies typically present with a gritty or sandy feeling, or sharp pain in the affected eye. The offending agent can be visualized on slit-lamp examination after eversion of the eyelids and application of fluorescein dye. Movement of the foreign body due to blinking can cause vertical and linear corneal epithelial defects. Treatment consists of foreign body removal followed by antibiotic drops or ointment. 34 
+ DED causes ocular discomfort, visual disturbances, and reduction in the tear film barrier with compensatory epiphora. Causes of DED are numerous and include normal aging, autoimmune diseases, medicamentosa, eyelid dysfunction, and meibomian gland dysfunction. 35 Patients with meibomian gland dysfunction or ocular rosacea have higher levels of MMP-9 and IL-1 in the tears and are at higher risk for developing RCE. 24 , 25 , 36 Punctate epithelial changes will typically be present bilaterally and are often symmetric. Treatment regimens vary but usually consist of lubricating drops, ointments, eyelid scrubs, warm compresses, punctal plugs, tear-promoting prescription medications, topical steroids, and blood-serum drops. 35 
+ Infectious corneal ulcers can lead to severe vision loss if left untreated. Signs associated with an ulcer usually include a focal white corneal infiltrate, corneal thinning, conjunctival injection, an anterior chamber inflammatory reaction, a hypopyon, and mucopurulent discharge. Treatment includes anti-bacterial, anti-fungal, or anti-viral treatment tailored to culture results. 37 
+ Ocular GVHD occurs in patients who have undergone allogeneic stem cell transplantation and is typically bilateral and chronic. Ocular GVHD can cause a wide variety of problems including poliosis, madarosis, vitiligo, lagophthalmos, entropion, keratitis, corneal ulcers, severe dry eyes, and even RCE. Slit-lamp examination may identify diffuse superficial punctate keratitis, blepharitis, decreased tear meniscus or disruption of the tear film, conjunctival injection, symblepharon, and/or corneal ulceration. Medical treatment, including preservative-free artificial tears, BCL, nighttime administration of lubricating ointment, autologous serum drops, and topical steroids in conjunction with oral doxycycline, is preferred before resorting to surgical care. Surgical therapy consists of punctal occlusion, tarsorrhaphy, and even partial to full transplantation of the cornea. 38 
+ RCE can also be associated with other corneal epithelial dystrophies such as Reis-Buckler’s, Thiel-Behnke, Meesmanns, and stromal dystrophies such as lattice, granular, and macular. Corneal degenerations such as band keratopathy and Salzmann nodular degeneration, prior refractive, cataract, and corneal transplantation surgery, floppy eyelid syndrome, and chemical and thermal burns can also predispose patients to RCE. 39 – 45 Treatment of RCE 
+ Medical treatment 
+ Treatment of RCE typically progresses in a stepwise fashion and can be divided into medical and surgical options. Since the majority of cases can be managed conservatively, the less invasive medical options are preferred as first-line therapy ( Table 1 ). Initial treatment usually consists of antibiotic and preservative-free lubricating drops, used in conjunction with nighttime lubricating or hypertonic saline ointments. Depending on the patient’s level of discomfort, a cycloplegic eye drop or a soft bandage contact lens can be added. Oral analgesics can be administered if necessary. 2 , 4 , 5 , 9 , 10 , 12 
+ Table 1. 
+ Medical treatments for recurrent corneal erosion 
+ 
+ 
+ Medical treatment 
+ Description 
+ Examples 
+ Indication 
+ Prophylaxis 
+ 
+ 
+ 
+ Artificial tears 
+ Preservative-free lubricating eye drops that function as first-line therapy 
+ Preservative free Refresh ® , Systane ® , TheraTears ® , Retaine ® 
+ 
+ Acute attack Chronic episodes 
+ Yes 
+ 
+ 
+ Oral non-steroidal anti- inflammatory drugs and/or cycloplegia 
+ Pain relief 
+ Acetaminophen Ibuprofen Cycloplegia drops 
+ Acute attack 
+ No 
+ 
+ 
+ Antibiotics 
+ Infection treatment and/or prevention 
+ Fluoroquinolone drop (eg, ofloxacin) Macrolide ointment (eg, erythromycin) 
+ Acute attack 
+ No 
+ 
+ 
+ Nighttime ointment 
+ Long-term lubrication 
+ Systane ® Refresh ® 
+ 
+ Chronic episodes 
+ Yes 
+ 
+ 
+ Hypertonic sodium chloride 
+ A hypertonic sodium chloride ointment that draws excess water out of the cornea 
+ Muro 128 ® Sochlor™ OcuFresh ® AK-NaCl 
+ Chronic episodes 
+ Yes 
+ 
+ 
+ Punctal occlusion 
+ Increases tear lake 
+ Collagen plugs Silicon plugs 
+ Failed lubrication 
+ Yes 
+ 
+ 
+ Soft bandage contact lens 
+ Pain relief, aids in epithelial healing 
+ Air Optix Night & Day ® Kontur ® 
+ 
+ Acute attack Failed lubrication and punctal occlusion 
+ No 
+ 
+ 
+ Blood serum drops 
+ Supplies growth factors and cytokines to the ocular surface, thus mimicking natural tears 
+ Autologous Allogenic Umbilical cord 
+ Failed lubrication and punctal occlusion 
+ No 
+ 
+ 
+ Cryopreserved amniotic membrane 
+ Encourages regrowth in vital, damaged areas 
+ ProKera ® 
+ 
+ Acute attack Failed lubrication and punctal occlusion 
+ No 
+ 
+ 
+ MMP inhibitors 
+ Works to prevent the breakdown of vital collagen and hemi- desmosomes by stunting the production of the enzyme MMP-9 
+ Systemic tetracyclines (eg, doxycycline 50 mg BID) 
+ Failed lubrication and punctal occlusion 
+ Yes 
+ 
+ 
+ Topical corticosteroids 
+ Reduce inflammation 
+ Loteprednol Fluorometholone Prednisolone acetate 
+ Failed lubrication and punctal occlusion 
+ Yes 
+ 
+ 
+ 
+ Open in a new tab 
+ 
+ Note: Examples of each treatment are listed as well as the description, indication, and whether they can be used for prophylaxis. 
+ Abbreviation: MMP, matrix metalloproteinase. 
+ Patients who are unresponsive to first-line therapy may benefit from a therapeutic bandage contact lens (BCL). Soft BCL offer patients an alternative to more aggressive therapies. They provide instant relief from pain since they protect the affected cornea from the eyelid and provide a scaffold for healing. The optimal lens has a flat base curve and high oxygen transmissibility, and secondary bacterial infections can be prevented by the co-administration of topical antibiotics. In one study, 12 patients were assigned to wear a BCL for 3 months, with a change of lens every 2 weeks. Nine of the 12 patients had no complaints or signs of recurrence. Of the three who remained symptomatic, only one had an erosion that was later treated with PTK. 46 
+ Once the epithelium is healed, hypertonic saline solution can be administered during the day, followed by ointment at bedtime for 6–12 months to promote adequate epithelial attachment. Hypertonic agents produce a temporary osmotic gradient that promotes adhesion by absorbing fluid from the epithelium. 2 , 4 , 5 , 9 , 10 , 12 
+ Autologous serum drops produced from the patient’s peripheral blood have been shown to effectively treat RCE. The drops deliver a mixture of growth factors and cytokines to the ocular surface, thus mimicking naturally produced tears. 47 Del Castillo et al administered autologous serum drops to eleven patients with RCEs that were resistant to other therapies. 48 Before the treatment, the group averaged 2.2 recurrences per month, but after treatment this was reduced to 0.028 recurrences per month, with only three patients being symptomatic during a mean (± standard deviation) follow-up period of 9.4±3.7 months. Even over the long term, serum drops have been successful. Ziakas et al treated 33 patients with serum drops over a 6-month period and no patients suffered major recurrences. 49 During the subsequent 12 months, 28 remained symptom free, and 5 had a minor recurrence. Overall, autologous serum drops are a safe and effective treatment for RCE. 
+ For patients with poor venous access or severe anemia from whom blood cannot be drawn, allogeneic serum eye drops are an option. Allogeneic drops, however, also incur a risk for rejection and irritation. 47 Autologous drops, therefore, are preferred in most cases. 
+ Drops may also be produced from umbilical cord blood. These drops contain high concentrations of growth and neurotrophic factors, and can be obtained from consenting mothers. Yoon et al compared umbilical cord drop therapy to typical ocular lubrication with artificial tears. 50 Thirty-five eyes were divided into two groups: 18 were treated with 20% umbilical cord serum eye drops and the other 17 were treated with artificial tears. The mean frequency (±SD) of recurrences over ~15 months was 0.50±0.79 for the umbilical cord group and 2.24±1.09 for the artificial tear group. Of eyes receiving umbilical cord blood, 12 eyes had no recurrences, compared to one eye without recurrence in the artificial tear group. Overall, umbilical cord drops are more effective than standard treatment with artificial tears but they carry similar risks as allogeneic serum eye drops. 
+ Cryopreserved amniotic membranes can also be considered as an alternative treatment for RCE. Similar to the function of a BCL, the membrane protects the cornea from eyelid trauma while encouraging epithelial regrowth and adhesion. Huang et al placed amniotic membranes into eleven eyes of nine patients and only one eye had a recurrence that required retreatment, while the other ten remained asymptomatic. 51 Amniotic membranes are a good alternative to traditional BCL but they are more expensive and are not always covered by medical insurance. 
+ For patients unresponsive to the previously mentioned treatments, other therapies include systemic tetracyclines (eg, doxycycline 50 mg BID) and topical corticosteroids. Each drug class prevents breakdown of collagen and hemi-desmosomes by inhibiting the production of MMP-9. Dursun et al treated seven recalcitrant cases of RCE with oral doxycycline for 2 months and topical corticosteroids three times a day for 2–3 weeks. 3 Though none of the patients had EBMD, their RCE symptoms resolved within 2–10 days after beginning treatment. Overall, none of the seven patients developed a recurrence during a mean follow-up period of 21.9 months. 
+ Not only does the combination of tetracycline and corticosteroid therapy inhibit MM-9 but it also downregulates the production of lipase. 52 Meibomian gland dysfunction, a chronic disease closely linked with RCE, can be treated in this manner. Colonizing bacteria increase lipase concentrations in the cornea, creating toxic fatty acids that compromise the integrity and healing capabilities of epithelial membranes. Thus, in addition to traditional therapies such as hot compresses, eyelid hygiene, and oral omega-3 supplements, oral tetracyclines and topical corticosteroids can be used to treat RCE in patients with meibomian gland dysfunction. Surgical treatment 
+ For patients who fail conservative treatment, a number of surgical interventions that depend on the location of the RCE can be chosen ( Table 2 ). For erosions affecting the peripheral cornea, anterior stromal puncture (ASP) is advised. ASP causes the epithelium to adhere securely to the underlying basement membrane. Though ASP reduces the rate of recurrences, it can produce scarring since Bowman’s layer is pierced. Therefore, this procedure is recommended for cases that do not involve the central visual axis in order to prevent iatrogenic vision loss and glare. 2 , 12 
+ Table 2. 
+ Surgical treatments for recurrent corneal erosion 
+ 
+ 
+ Surgical treatments 
+ Description 
+ Advantages 
+ Disadvantages 
+ Indication 
+ 
+ 
+ 
+ Anterior stromal puncture 
+ Penetrates Bowman’s layer to cause the epithelium to securely adhere to the underlying basement membrane 
+ Simple Safe Low-cost In-office Minimal discomfort 
+ Scarring Glare 
+ Failed aggressive medical therapy; lesion off visual axis; recurrent episodes; non-healing erosion 
+ 
+ 
+ Alcohol delamination 
+ Removes epithelium and creates a smooth Bowman’s layer. From this adhesion, complexes can form and provide a tighter and more secure bond 
+ Removed epithelium can be reviewed by pathology. Does not pierce or disrupt Bowman’s 
+ Novel Operational setting Toxicity risk 
+ Failed aggressive medical therapy; lesion on visual axis 
+ 
+ 
+ Epithelial debridement 
+ Epithelium mechanically removed 
+ Low-cost Simple In-office 
+ Not fully effective for dystrophic cases 
+ Failed aggressive medical therapy; lesion on visual axis 
+ 
+ 
+ Diamond burr polishing 
+ Bowman’s layer is polished and smoothed over by a diamond burr 
+ Lowest recurrence rate In-office Simple Safe Low-cost Replicable 
+ Longer recovery time Corneal haze 
+ Failed aggressive medical therapy; lesion on visual axis; recurrent episodes; non-healing erosion 
+ 
+ 
+ Phototherapeutic keratectomy 
+ Excimer laser ablation is applied through the Bowman’s and 5–7 µm into the stroma 
+ Accurate Effective Can be combined with photorefractive keratectomy 
+ Cost Operational setting Corneal haze Possible astigmatism and hyperopic shift 
+ Failed aggressive medical therapy; lesion on visual axis; recurrent episodes; non-healing erosion 
+ 
+ 
+ 
+ Open in a new tab 
+ Note: The advantages and disadvantages, along with a description and a list of indications, are listed for each treatment modality. ASP has a success rate of ~80%, has a low associated cost, produces minimal discomfort, and can be performed in the office via different techniques. 2 , 12 , 53 The first and more common technique begins with the application of topical anesthesia, which is followed by piercing of the cornea in affected areas with a bent 25- or 27-gauge needle. Several superficial punctures 0.5 mm apart promote firm adhesions between the epithelium, Bowman’s layer, and the underlying stroma. The other technique uses the neodymium-doped yttrium-aluminum-garnet laser (Nd:YAG laser) that delivers energy bursts to the cornea. The benefit with the Nd:YAG laser is that the stromal punctures are shallower and more replicable, which theoretically limits scar formation. In one study, Kim and Ko treated ten patients and followed them for a mean of 9.6 months. Laser energy settings were 0.2 or 0.3 mJ per shot for an average total laser energy of 6.2 mJ per patient. 54 Eight patients remained symptom free and the other two needed only one additional treatment each. No significant complications were noted although faint corneal haze was observed. Unfortunately, studies investigating the efficacy of the Nd:YAG laser for RCE are limited. 
+ Avni Zauberman et al reviewed 35 eyes of 30 patients that underwent ASP. 55 During a mean follow-up of 14 months, 22 of 35 eyes remained asymptomatic and 13 reported mild recurrent erosions. Six eyes required additional surgeries – four repeat ASP, one PTK, and one superficial keratectomy. Reidy et al compared different techniques in eyes with recalcitrant RCE. 4 Patients undergoing ASP had a recurrence rate of 40%. This high rate, however, is likely due to the selection of more severe RCE cases. 
+ Efforts have been made recently to limit the scarring that can result from ASP. One technique uses OCT to map the anterior portion of the cornea. OCT provides an exact depiction of the affected areas, which can be used to more precisely direct treatment and avoid unnecessary scarring. In one small study of five patients, RCE involving the peripheral corneas were examined with OCT. 56 After locating the “hot spots”, ASP was applied to the affected areas. During a 6- to 20-month follow-up period, no patients experienced recurrence. Overall, ASP has proven to be a safe and simple procedure, that is best at resolving RCE cases located in the peripheral portions of the cornea. 
+ Several other techniques can be used to treat RCE involving the central cornea. One of the most commonly used procedures is epithelial debridement (ED), where a cellulose sponge, blunt spatula, or #15 scalpel blade is used to remove 7–10 mm of central corneal epithelium. After debridement a BCL is placed on the eye, followed by a course of topical antibiotic and corticosteroid drops. 2 , 12 ED treats the active erosion but there is little evidence that ED alone can prevent recurrences. 2 , 10 , 12 , 36 
+ Because of recurrences with ED monotherapy, it is often combined with other techniques, the most common being diamond burr polishing (DBP). In DBP, Bowman’s layer is polished with a diamond burr resulting in faster re-epithelization with an overall smoother cornea than by ED alone. A study by Wong et al looked at the differences between DBP and ED in 48 eyes of 48 patients. 57 Twenty-five eyes were treated with DBP and 23 with ED alone. In the DBP group, only one patient experienced a major recurrence, five experienced minor recurrences, and no additional surgical interventions were needed in 19 eyes. In the ED group, 13 patients experienced major recurrences, 15 experienced minor ones, and 12 patients required secondary surgical interventions. DBP is thought to be superior to ED at preventing RCE recurrences because it removes the epithelial basement membrane, which allows a smoother epithelium to regrow without dystrophy or trauma. It encourages reactive fibrosis, which promotes scarring with a stronger epithelial adhesion to the underlying membranes. 57 , 58 
+ DBP also promotes long-term healing. Vo et al reviewed 55 eyes treated with DBP. Of the 49 eyes that were followed for more than 1 month, 47 of them were symptom free during a mean follow-up of 25.2 months, and of the 37 eyes that were followed for more than 3 months, 35 were asymptomatic during a mean follow-up of 33.2 months. 58 These results indicate that DBP effectively prevents recurrences in the long-term. 
+ Despite the effectiveness of DBP, there are some minor drawbacks. DBP can have a long recovery time. DBP produces corneal haze, though this is likely less than with PTK. 2 , 10 , 12 , 57 Fortunately, topical corticosteroids can reduce and in some cases eradicate haze. Wong et al found that the incidence of haze dropped from 40% to 4% over the course of 6 months. 57 Corneal haze may be triggered by piercing Bowman’s membrane, so vigorous polishing of Bowman’s is not recommended. In general, DBP has a low recurrence rate and can be repeated if necessary. 57 , 58 
+ RCE can also be treated with alcohol delamination of the corneal epithelium. Following the application of topical anesthesia, small amounts (50–75 µL) of dilute alcohol (20%) are placed on the eye for ~40 seconds to loosen the epithelium. The alcohol is then removed with a sponge and the eye is thoroughly irrigated with sterile saline solution. The loosened epithelium can be peeled off easily with a spatula to expose a smooth Bowman’s layer. 59 One advantage of alcohol delamination is that the sheet of epithelium can then be sent to pathology for histological examination. Unlike other treatments, alcohol delamination neither pierces nor disrupts Bowman’s layer and thus has a low incidence of corneal haze. 
+ Studies with alcohol delamination have yielded promising results. Dua et al performed alcohol delamination on 12 patients who did not respond to conservative treatments (artificial tears and BCL). 59 During an average follow-up of 23.5 months, eight patients remained symptom free, one patient had symptoms during only the month following the procedure, and two patients continued to have recurrences but did not require additional surgical intervention. One patient did not respond to delamination, ASP, or PTK, and was later diagnosed with a herpetic ulcer that was eventually treated successfully. Singh et al treated 20 eyes of 20 patients with alcohol delamination after conservative therapy failed and followed them for 12 months. 60 Two of the patients were lost to follow-up, but 15 remained asymptomatic and 3 reported mild recurrences that did not require additional surgical intervention. In both of these studies, alcohol delamination was used only after conservative therapy failed. These cases of RCE may not have been as severe as others studied with ASP, DBP, or PTK, and may have been more easily treated. 
+ Alcohol delamination has certain drawbacks. Alcohol use carries the risk of toxicity. 59 , 60 Alcohol delamination needs to be performed under direct visualization through a microscope and cannot be done at the slit lamp-like DBP or ASP. Despite successes with alcohol delamination, traditional approaches such as ASP and DBP are usually recommended because they are more likely to resolve recalcitrant and severe cases of RCE. 
+ Phototherapeutic keratectomy (PTK) treats RCE by smoothing the outer layers of the cornea. After the application of topical anesthesia the corneal epithelium is removed. Laser then ablates Bowman’s membrane and the outer 5–7 µm of the stroma. Since the resultant surface is free from trauma and/or dystrophies, epithelium can re-grow with strong adhesions to the underlying stroma. Hemi-desmosomes and new basement membranes can grow back in as little as 2 weeks after PTK. 4 , 10 , 12 , 61 , 62 
+ PTK ablates the superficial cornea to a precise depth and the treatment areas are typically wide enough to ensure that the entire erosion is covered. PTK success rates are quite favorable and range from 60% to 100% depending on the study, and recurrence rates with PTK are comparable to those with DBP. PTK works well on trauma-related RCE cases as well as eyes with EBMD and other dystrophies. 10 , 12 , 19 , 61 , 62 
+ PTK usually produces good short-term results but few studies have determined the long-term recurrence rate. Cavanaugh et al reported that 5 of 36 eyes experienced recurrences during follow-up periods of at least 12 months. 27 Baryla et al evaluated the effects of PTK with an average follow-up of 17.4 months. 63 In their cohort of 39 eyes from 33 patients, 25% experienced a recurrence after 3 months and 36% experienced one after 9 months. This reinforces the observation that most recurrences occur soon after surgery. Pogorelov et al followed 15 eyes of 11 patients over a mean of 4.8 years 64 and reported no recurrences during the follow-up period. Corneal haze was noted in six eyes early in the postoperative period, and all but one resolved. These studies suggest that if recurrences do not occur within the first few months of the procedure, patients are likely to experience long-term success. 
+ Maini and Loughnan studied the success of repeat PTK in eight patients who underwent a second application after the initial PTK failed. 61 Six of these patients were symptom free during a mean follow-up period of 25.5 months while the other two experienced only mild foreign body sensations that were treated with topical lubricants. In vivo confocal microscopy found that the ablation from the first PTK had been too shallow to effectively pave a smooth surface for efficient re-epithelization. When the depth of the PTK is too shallow, recurrent erosions may develop, but when the ablation is too deep, unwanted astigmatism and hyperopic shifts can occur along with a higher risk of corneal haze. 10 , 12 , 19 Cavanaugh et al noted a hyperopic shift after the use of more laser pulses than is considered average. 27 Generally, the application of low energy and few pulses is preferred to minimize the unwanted effects of PTK. 10 , 12 , 19 , 64 
+ The corneal epithelium is usually removed before laser treatment but epithelial sparing techniques are an option. With the “flap” method, most of the epithelium is loosened but some remains attached to the cornea. PTK is then performed over the exposed Bowman’s membrane and the ablation site is finally covered with the hinged flap. This method reduces pain and accelerates re-epithelialization but post-operative ero-sions still occur. 65 During transepithelial-PTK, or t-PTK, the excimer laser passes through intact epithelium. Recovery time is accelerated and postoperative pain is reduced but epithelial surface irregularities are translated to the basement membrane and stroma. In one study, when t-PTK was combined with autologous serum eye drops, 80% of patients had no RCEs during an average follow-up of more than 15 months. 19 , 66 
+ Another modality, photorefractive keratectomy (PRK), has the advantage being combined with PTK and can correct refractive error. In a study conducted by Kremer and Blumenthal, 16 eyes that underwent PRK were followed from 26 to 42 months. 67 Within the first month, symptoms related to RCE were alleviated and visual acuity (VA) improved. Uncorrected pre-operative VA ranged from 6/20 to 6/120 and post-operative VA ranged from 6/9 to 6/12. Zaidman and Hong reviewed 19 eyes of 14 patients. 68 At baseline, the mean myopia, astigmatism, and uncorrected VA were −3.76 diopters (D), +0.96 D, and 20/400, respectively. After 6 months, these had improved to −0.31 D, +0.56 D, and 20/23. None of the patients had persistent RCE symptoms. 
+ Results from PTK are similar to those from DBP but the cost of the laser and the need for a surgical suite makes it inconvenient and expensive. Furthermore, PTK can cause astigmatism, hyperopia, and corneal haze. 10 , 12 , 19 In fact, Sridhar et al found that PTK creates more haze than DBP. 69 Despite this, PTK remains an effective strategy for treating RCE and it can be combined with PRK to correct astigmatism and myopia. Alternative treatment modalities 
+ Novel, less traditional, approaches for RCE have been proposed by some investigators. Mackie used intramuscular botulinum toxin in three patients to reduce eye movements at night and prevent the development of erosions. 70 The cohort was too small to provide meaningful conclusions. Sayegh et al applied cocaine to the cornea – in a manner similar to alcohol – to facilitate ED. 71 Benitez-del-Castillo et al combined 250 µg/mL of substance P-derived peptide with 1 µg/mL of insulin-like growth factor that they applied as an eye drop four times a day to a single patient for 2 months. 72 The erosion healed after 11 days and did not recur during 11 months of follow-up. Despite successes in small cohorts, these therapies have not been proven effective and are not recommended by the authors. Discussion and conclusion 
+ Surgeons have several good options to treat RCE and therapy should be selected to minimize risks to the patient and improve quality of life. Conservative approaches such as artificial tears, nighttime ointment, and BCL are proven first-line therapies. If these fail, more advanced options such as blood-derived eye drops, corticosteroids, and cryopreserved amniotic membranes, such as ProKera ® , can be utilized. Autologous serum drops are generally preferred to minimize risk to the patient but allogeneic drops are an option for patients from whom blood cannot be drawn. Results with ProKera have been promising but more studies are needed to better define its efficacy. 
+ Erosions that persist despite the use of conservative therapies should prompt the surgeon to consider surgical treatments. For an erosion involving the peripheral cornea (outside the visual axis), ASP is the ideal option. ASP is a safe, minimally invasive, convenient, and low cost procedure that can be performed in the office. But since the resultant scars can cause glare and degrade visual quality, ASP should only be done off the visual axis. 
+ If the erosion involves the central cornea, then a variety of surgical interventions including ED, alcohol delamination, DBP, and PTK can be performed. ED may promote short-term healing of the erosion but it is not the most effective method for preventing recurrences. When compared to DBP, re-epithelialization after debridement is slower and the healed cornea is rougher. Therefore, debridement is not recommended for most cases of RCE since DBP and ASP produce better long-term results. 55 , 58 , 70 
+ Alcohol delamination removes only the epithelium and results are better than with manual debridement alone. Chan et al compared alcohol delamination with PTK and found similar recurrence rates. Alcohol delamination produced less initial pain but PTK produced less long-term pain. 73 Alcohol delamination has not been studied as extensively as DBP or PTK in patients with more severe cases of RCE. Alcohol delamination also carries a risk of toxicity and should be performed in a surgical suite. For most patients, therefore, other surgical methods are preferred. 
+ DBP and PTK are two popular surgical options for eyes with RCE. Both are highly successful with low recurrence rates and few side effects. Sridhar et al concluded that with each treatment most symptoms occur with similar frequencies but that corneal haze was slightly more common in PTK patients (35.7%) than in DBP patients (25.9%). 69 Fortunately most cases of corneal haze are mild and temporary. 
+ Cost and convenience are important differentiators between the procedures. PTK uses an excimer laser and must be performed in a surgery suite, whereas DBP uses a handheld battery operated device and can be performed in the outpatient clinic. Since DBP is more cost-effective, it is recommended for most patients. 69 , 74 , 75 However, if RCE patients also have astigmatism or myopia, they may opt for PTK since it can be combined with PRK to correct both their erosions and refractive errors. 
+ Overall, RCE can be both challenging and rewarding for patients and physicians. A variety of factors including exam findings, efficacy, safety, cost, and convenience should be considered by physicians when deciding which treatment modality to use. The choice of treatment can then be tailored to each patient with the hope of achieving the best possible outcome. With appropriate treatment, patients have a high likelihood of achieving long-term relief. Footnotes 
+ 
+ Disclosure 
+ Michael Stewart’s disclosures include the following: Allergan: institutional research support; Alkahest: consultant; Bayer: consultant; Regeneron: institutional research support. The other authors report no conflicts of interest in this work. 
+ References 
+ 
+ 
+ 1. Hykin PG, Foss AE, Pavesio C, Dart JK. The natural history and management of recurrent corneal erosion: a prospective randomised trial. Eye (Lond) 1994;8(Pt 1):35–40. doi: 10.1038/eye.1994.6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Suri K, Kosker M, Duman F, Rapuano CJ, Nagra PK, Hammersmith KM. Demographic patterns and treatment outcomes of patients with recurrent corneal erosions related to trauma and epithelial and Bowman layer disorders. Am J Ophthalmol. 2013;156(6):1082.e2–1087.e2. doi: 10.1016/j.ajo.2013.07.022. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Dursun D, Kim MC, Solomon A, Pflugfelder SC. Treatment of recalcitrant recurrent corneal erosions with inhibitors of matrix metalloproteinase-9, doxycycline and corticosteroids. Am J Ophthalmol. 2001;132(1):8–13. doi: 10.1016/s0002-9394(01)00913-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Reidy JJ, Paulus MP, Gona S. Recurrent erosions of the cornea: epidemiology and treatment. Cornea. 2000;19(6):767–771. doi: 10.1097/00003226-200011000-00001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Xu K, Kam KW, Young AL, Jhanji V. Recurrent corneal erosion syndrome. Asia Pac J Ophthalmol (Phila) 2012;1(6):349–354. doi: 10.1097/APO.0b013e31827347ae. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Hansen E. Om den intermitterende keratitis vesicularis neuralgica af traumatisk opindelse. Hospitalis-Tidende. 1871;51:201–203. [ Google Scholar ] 
+ 
+ 7. Szili A. Ueber Disjunktion des Hornhautepithels. Albrecht von Graefes Arch Klin Exp Ophthalmol. 1900;51:486–531. [ Google Scholar ] 
+ 
+ 8. Vogt A. Weitere Ergebnisse der Spaltlampenmikroskopie des vorderen Bulbusabschnittes. Albrecht von Graefes Arch Klin Exp Ophthalmol. 1921;106:63–113. [ Google Scholar ] 
+ 
+ 9. Chandler PA. Recurrent erosion of the cornea. Trans Am Ophthalmol Soc. 1944;42:355–371. doi: 10.1016/0002-9394(45)90937-8. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Das S, Seitz B. Recurrent corneal erosion syndrome. Surv Ophthalmol. 2008;53(1):3–15. doi: 10.1016/j.survophthal.2007.10.011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Chandler PA. Recurrent erosion of the cornea. Am J Ophthalmol. 1945;28:355–363. doi: 10.1016/0002-9394(45)90937-8. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Ramamurthi S, Rahman MQ, Dutton GN, Ramaesh K. Pathogenesis, clinical features and management of recurrent corneal erosions. Eye (Lond) 2006;20(6):635–644. doi: 10.1038/sj.eye.6702005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Martin R. Cornea and anterior eye assessment with slit lamp biomicroscopy, specular microscopy, confocal microscopy, and ultrasound biomicroscopy. Indian J Ophthalmol. 2018;66(2):195–201. doi: 10.4103/ijo.IJO_649_17. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Labbé A, Nicola RD, Dupas B, Auclin F, Baudouin C. Epithelial basement membrane dystrophy: evaluation with the HRT II Rostock cornea module. Ophthalmology. 2006;113(8):1301–1308. doi: 10.1016/j.ophtha.2006.03.050. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Diez-Feijóo E, Durán JA. Optical coherence tomography findings in recurrent corneal erosion syndrome. Cornea. 2015;34(3):290–295. doi: 10.1097/ICO.0000000000000334. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Laibson PR. Recurrent corneal erosions and epithelial basement membrane dystrophy. Eye Contact Lens. 2010;36(5):315–317. doi: 10.1097/ICL.0b013e3181f18ff7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Dohlman CN. Healing problems in the corneal epithelium. Jpn J Ophthalmol. 1981;25(2):131–134. [ Google Scholar ] 
+ 
+ 18. Rosenberg ME, Tervo TM, Petroll WM, Vesaluoma MH. In vivo confocal microscopy of patients with corneal recurrent erosion syndrome or epithelial basement membrane dystrophy. Ophthalmology. 2000;107(3):565–573. doi: 10.1016/s0161-6420(99)00086-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Ewald M, Hammersmith KM. Review of diagnosis and management of recurrent erosion syndrome. Curr Opin Ophthalmol. 2009;20(4):287–291. doi: 10.1097/ICU.0b013e32832c9716. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Khodadoust AA, Silverstein AM, Kenyon DR, Dowling JE. Adhesion of regenerating corneal epithelium. The role of basement membrane. Am J Ophthalmol. 1968;65(3):339–348. doi: 10.1016/0002-9394(68)93082-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Rodrigues MM, Fine BS, Laibson PR, Zimmerman LE. Disorders of the corneal epithelium. A clinicopathologic study of dot, geographic, and fingerprint patterns. Arch Ophthalmol. 1974;92(6):475–482. doi: 10.1001/archopht.1974.01010010489005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Brodrick JD, Dark AJ, Peace GW. Fingerprint dystrophy of the cornea. A histologic study. Arch Ophthalmol. 1974;92(6):483–489. doi: 10.1001/archopht.1974.01010010497006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Gipson IK. Adhesive mechanisms of the corneal epithelium. Acta Ophthalmol Suppl. 1992;202:13–17. doi: 10.1111/j.1755-3768.1992.tb02162.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Garrana RM, Zieske JD, Assouline M, Gipson IK. Matrix metallo-proteinases in epithelia from human recurrent corneal erosion. Invest Ophthalmol Vis Sci. 1999;40(6):1266–1270. [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Sakimoto T, Shoji J, Yamada A, Sawa M. Upregulation of matrix metalloproteinase in tear fluid of patients with recurrent corneal erosion. Jpn J Ophthalmol. 2007;51(5):343–346. doi: 10.1007/s10384-007-0455-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Torricelli AA, Singh V, Santhiago MR, Wilson SE. The corneal epithelial basement membrane: structure, function, and disease. Invest Ophthalmol Vis Sci. 2013;54(9):6390–6400. doi: 10.1167/iovs.13-12547. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Cavanaugh TB, Lind DM, Cutarelli PE, et al. Phototherapeutic keratectomy for recurrent erosion syndrome in anterior basement membrane dystrophy. Ophthalmology. 1999;106(5):971–976. doi: 10.1016/S0161-6420(99)00540-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Weiss JS, Møller HU, Lisch W, et al. The IC3D classification of the corneal dystrophies. Cornea. 2008;27(Suppl 2):S1–S83. doi: 10.1097/ICO.0b013e31817780fb. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Klintworth GK. Corneal dystrophies. Orphanet J Rare Dis. 2009;4(1):7–38. doi: 10.1186/1750-1172-4-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Shukla AN, Cruzat A, Hamrah P. Confocal microscopy of corneal dystrophies. Semin Ophthalmol. 2012;27(5–6):107–116. doi: 10.3109/08820538.2012.707276. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Al-Dujaili LJ, Clerkin PP, Clement C, et al. Ocular herpes simplex virus: how are latency, reactivation, recurrent disease and therapy interrelated? Future Microbiol. 2011;6(8):877–907. doi: 10.2217/fmb.11.73. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Grixti A, Sadri M, Edgar J, Datta AV. Common ocular surface disorders in patients in intensive care units. Ocul Surf. 2012;10(1):26–42. doi: 10.1016/j.jtos.2011.10.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Sacchetti M, Lambiase A. Diagnosis and management of neurotrophic keratitis. Clin Ophthalmol. 2014;8:571–579. doi: 10.2147/OPTH.S45921. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Ahmed F, House RJ, Feldman BH. Corneal abrasions and corneal foreign bodies. Prim Care. 2015;42(3):363–375. doi: 10.1016/j.pop.2015.05.004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Pflugfelder SC, Solomon A, Stern ME. The diagnosis and management of dry eye: a twenty-five-year review. Cornea. 2000;19(5):644–649. doi: 10.1097/00003226-200009000-00009. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Hope-Ross MW, Chell PB, Kervick GN, McDonnell PJ. Recurrent corneal erosion: clinical features. Eye (Lond) 1994;8(Pt 4):373–377. doi: 10.1038/eye.1994.89. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Austin A, Lietman T, Rose-Nussbaumer J. Update on the management of infectious keratitis. Ophthalmology. 2017;124(11):1678–1689. doi: 10.1016/j.ophtha.2017.05.012. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Nassar A, Tabbara KF, Aljurf M. Ocular manifestations of graft-versus-host disease. Saudi J Ophthalmol. 2013;27(3):215–222. doi: 10.1016/j.sjopt.2013.06.007. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Jhanji V, Rapuano CJ, Vajpayee RB. Corneal calcific band keratopathy. Curr Opin Ophthalmol. 2011;22(4):283–289. doi: 10.1097/ICU.0b013e3283477d36. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Roszkowska AM, Aragona P, Spinella R, Pisani A, Puzzolo D, Micali A. Morphologic and confocal investigation on Salzmann nodular degeneration of the cornea. Invest Ophthalmol Vis Sci. 2011;52(8):5910–5919. doi: 10.1167/iovs.11-7789. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Burkat CN, Lemke BN. Acquired LAX eyelid syndrome: an unrecognized cause of the chronically irritated eye. Ophthalmic Plast Reconstr Surg. 2005;21(1):52–58. doi: 10.1097/01.iop.0000150360.84043.2e. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Sugar A, Rapuano CJ, Culbertson WW, et al. Laser in situ keratomileusis for myopia and astigmatism: safety and efficacy: a report by the American Academy of Ophthalmology. Ophthalmology. 2002;109(1):175–187. doi: 10.1016/s0161-6420(01)00966-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Kuckelkorn R, Schrage N, Keller G, Redbrake C. Emergency treatment of chemical and thermal eye burns. Acta Ophthalmol Scand. 2002;80(1):4–10. doi: 10.1034/j.1600-0420.2002.800102.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Merle H, Gerard M, Schrage N, et al. Severe ocular burns. Eur Ophthalmic Rev. 2011;5(2):130–133. [ Google Scholar ] 
+ 
+ 45. Saeed HN, Chodosh J. Ocular manifestations of Stevens-Johnson syndrome and their management. Curr Opin Ophthalmol. 2016;27(6):522–529. doi: 10.1097/ICU.0000000000000312. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Fraunfelder FW, Cabezas M. Treatment of recurrent corneal erosion by extended-wear bandage contact lens. Cornea. 2011;30(2):164–166. doi: 10.1097/ICO.0b013e3181e84689. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Giannaccare G, Versura P, Buzzi M, Primavera L, Pellegrini M, Campos EC. Blood derived eye drops for the treatment of cornea and ocular surface diseases. Transfus Apher Sci. 2017;56(4):595–604. doi: 10.1016/j.transci.2017.07.023. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. del Castillo JM, de la Casa JM, Sardiña RC, et al. Treatment of recurrent corneal erosions using autologous serum. Cornea. 2002;21(8):781–783. doi: 10.1097/00003226-200211000-00010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Ziakas NG, Boboridis KG, Terzidou C, et al. Long-term follow up of autologous serum treatment for recurrent corneal erosions. Clin Exp Ophthalmol. 2010;38(7):683–687. doi: 10.1111/j.1442-9071.2010.02304.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Yoon KC, Choi W, You IC, Choi J. Application of umbilical cord serum eyedrops for recurrent corneal erosions. Cornea. 2011;30(7):744–748. doi: 10.1097/ICO.0b013e31820d850f. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Huang Y, Sheha H, Tseng SC. Self-retained amniotic membrane transplantation for recurrent corneal erosion. J Clin Exp Ophthalmol. 2013;4:272. [ Google Scholar ] 
+ 
+ 52. Wang L, Tsang H, Coroneo M. Treatment of recurrent corneal erosion syndrome using the combination of oral doxycycline and topical corticosteroid. Clin Exp Ophthalmol. 2008;36(1):8–12. doi: 10.1111/j.1442-9071.2007.01648.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Malecha MA. Anterior stromal puncture for recurrent corneal erosion after laser in situ keratomileusis. J Cataract Refract Surg. 2004;30(2):496–498. doi: 10.1016/S0886-3350(03)00618-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Kim SY, Ko BY. Evaluation of anterior stromal puncture using Nd:YAG laser for refractory recurrent corneal erosion. J Korean Ophthalmol Soc. 2015;56(3):331–338. [ Google Scholar ] 
+ 
+ 55. Avni Zauberman N, Artornsombudh P, Elbaz U, Goldich Y, Rootman DS, Chan CC. Anterior stromal puncture for the treatment of recurrent corneal erosion syndrome: patient clinical features and outcomes. Am J Ophthalmol. 2014;157(2):273.e1–279.e1. doi: 10.1016/j.ajo.2013.10.005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Oikonomakis K, Petrelli M, Petrovic A, et al. Epithelial map-guided anterior stromal micropuncture for the treatment of recurrent corneal erosion syndrome. Int Ophthalmol. 2018;9(6) doi: 10.1007/s10792-018-0891-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Wong VW, Chi SC, Lam DS. Diamond burr polishing for recurrent corneal erosions: results from a prospective randomized controlled trial. Cornea. 2009;28(2):152–156. doi: 10.1097/ICO.0b013e31818526ec. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Vo RC, Chen JL, Sanchez PJ, Yu F, Aldave AJ. Long-term outcomes of epithelial debridement and Diamond Burr polishing for corneal epithelial irregularity and recurrent corneal erosion. Cornea. 2015;34(10):1259–1265. doi: 10.1097/ICO.0000000000000554. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Dua HS, Lagnado R, Raj D, et al. Alcohol delamination of the corneal epithelium: an alternative in the management of recurrent corneal erosions. Ophthalmology. 2006;113(3):404–411. doi: 10.1016/j.ophtha.2005.10.049. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Singh RP, Raj D, Pherwani A, et al. Alcohol delamination of the corneal epithelium for recalcitrant recurrent corneal erosion syndrome: a prospective study of efficacy and safety. Br J Ophthalmol. 2007;91(7):908–911. doi: 10.1136/bjo.2006.112912. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Maini R, Loughnan MS. Phototherapeutic keratectomy re-treatment for recurrent corneal erosion syndrome. Br J Ophthalmol. 2002;86(3):270–272. doi: 10.1136/bjo.86.3.270. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. American Academy of Ophthalmology [homepage on the Internet] Treatment of recurrent corneal erosions. Mar 1, 2013. [Accessed December 2, 2018]. [cited July 11, 2018]. Available from: https://www.aao.org/eyenet/article/treatment-of-recurrent-corneal-erosions . 
+ 
+ 
+ 63. Baryla J, Pan YI, Hodge WG. Long-term efficacy of phototherapeutic keratectomy on recurrent corneal erosion syndrome. Cornea. 2006;25(10):1150–1152. doi: 10.1097/01.ico.0000240093.65637.90. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Pogorelov P, Langenbucher A, Kruse F, Seitz B. Long-term results of phototherapeutic keratectomy for corneal map-dot-fingerprint dystrophy (Cogan-Guerry) Cornea. 2006;25(7):774–777. doi: 10.1097/01.ico.0000214801.02195.d4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Ardjomand N, Fellner P, Vidic B. Phototherapeutic keratectomy with an epithelial flap for recurrent erosion syndrome. J Cataract Refract Surg. 2004;30(3):543–545. doi: 10.1016/j.jcrs.2003.09.049. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Holzer MP, Auffarth GU, Specht H, Kruse FE. Combination of transepithelial phototherapeutic keratectomy and autologous serum eyedrops for treatment of recurrent corneal erosions. J Cataract Refract Surg. 2005;31(8):1603–1606. doi: 10.1016/j.jcrs.2005.01.014. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Kremer I, Blumenthal M. Combined PRK and PTK in myopic patients with recurrent corneal erosion. Br J Ophthalmol. 1997;81(7):551–554. doi: 10.1136/bjo.81.7.551. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Zaidman GW, Hong A. Visual and refractive results of combined PTK/PRK in patients with corneal surface disease and refractive errors. J Cataract Refract Surg. 2006;32(6):958–961. doi: 10.1016/j.jcrs.2005.11.046. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Sridhar MS, Rapuano CJ, Cosar CB, Cohen EJ, Laibson PR. Phototherapeutic keratectomy versus diamond burr polishing of Bowman’s membrane in the treatment of recurrent corneal erosions associated with anterior basement membrane dystrophy. Ophthalmology. 2002;109(4):674–679. doi: 10.1016/s0161-6420(01)01027-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Mackie IA. Successful management of three consecutive cases of recurrent corneal erosion with botulinum toxin injections. Eye. 2004;18(7):734–737. doi: 10.1038/sj.eye.6701307. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Sayegh RR, Kouyoumjian PB, Vedula GG, Nottage JM, Nirankari VS. Cocaine-assisted epithelial debridement for the treatment of anterior basement membrane dystrophy. Cornea. 2013;32(6):889–892. doi: 10.1097/ICO.0b013e318288ad4d. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Benitez-del-Castillo JM, Rodríguez-Bayo S, Fontan-Rivas E, Martinez-de-La-Casa JM, Garcia-Sanchez J. Treatment of recurrent corneal erosion with substance P-derived peptide and insulin-like growth factor I. Arch Ophthalmol. 2005;123(10):1445–1447. doi: 10.1001/archopht.123.10.1445. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Chan E, Jhanji V, Constantinou M, Amiel H, Snibson GR, Vajpayee RB. A randomised controlled trial of alcohol delamination and phototherapeutic keratectomy for the treatment of recurrent corneal erosion syndrome. Br J Ophthalmol. 2014;98(2):166–171. doi: 10.1136/bjophthalmol-2013-303276. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Aldave AJ, Kamal KM, Vo RC, Yu F. Epithelial debridement and Bowman’s layer polishing for visually significant epithelial irregularity and recurrent corneal erosions. Cornea. 2009;28(10):1085–1090. doi: 10.1097/ICO.0b013e3181a166b9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Soong HK, Farjo Q, Meyer RF, Sugar A. Diamond burr superficial keratectomy for recurrent corneal erosions. Br J Ophthalmol. 2002;86(3):296–298. doi: 10.1136/bjo.86.3.296. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

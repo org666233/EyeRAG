@@ -1,0 +1,1906 @@
+Source: PubMed Central (PMC)
+PMCID: PMC5038923
+Title: Corticosteroid implants for chronic non-infectious uveitis
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5038923/
+Year: 2022
+Disease: uveitis
+Priority: 2
+============================================================
+
+Cochrane Database Syst Rev . 2016 Feb 12;2016(2):CD010469. doi: 10.1002/14651858.CD010469.pub2 
+ 
+ 
+ Corticosteroid implants for chronic non‐infectious uveitis 
+ Christopher J Brady 
+ Christopher J Brady 
+ 
+ 1 Johns Hopkins University School of Medicine, Wilmer Eye Institute, Baltimore, Maryland, USA 
+ Find articles by Christopher J Brady 
+ 
+ 
+ 1, ✉ , Andrea C Villanti 
+ Andrea C Villanti 
+ 
+ 2 Johns Hopkins Bloomberg School of Public Health, Department of Health, Behavior and Society, Baltimore, Maryland, USA 
+ Find articles by Andrea C Villanti 
+ 
+ 
+ 2 , Hua Andrew Law 
+ Hua Andrew Law 
+ 
+ 3 Johns Hopkins Bloomberg School of Public Health, Department of Epidemiology, 615 N. Wolfe Street, Baltimore, Maryland, USA, 21205 
+ Find articles by Hua Andrew Law 
+ 
+ 
+ 3 , Ehsan Rahimy 
+ Ehsan Rahimy 
+ 
+ 4 Thomas Jefferson University, MidAtlantic Retina, The Retina Service of Wills Eye Hospital, Philadelphia, Pennsylvania, USA 
+ Find articles by Ehsan Rahimy 
+ 
+ 
+ 4 , Rahul Reddy 
+ Rahul Reddy 
+ 
+ 5 Associated Retinal Consultants, Phoenix, Arizona, USA 
+ Find articles by Rahul Reddy 
+ 
+ 
+ 5 , Pamela C Sieving 
+ Pamela C Sieving 
+ 
+ 6 National Institutes of Health Library, 10 Center Drive, Room 1L09G MSC 1150, Bethesda, Maryland, USA, 20892 
+ Find articles by Pamela C Sieving 
+ 
+ 
+ 6 , Sunir J Garg 
+ Sunir J Garg 
+ 
+ 4 Thomas Jefferson University, MidAtlantic Retina, The Retina Service of Wills Eye Hospital, Philadelphia, Pennsylvania, USA 
+ Find articles by Sunir J Garg 
+ 
+ 
+ 4 , Johnny Tang 
+ Johnny Tang 
+ 
+ 7 University Hospitals Eye Institute/Case Western Reserve University, University Hospitals Eye Institute, 11100 Euclid Avenue, Lakeside 4107, Cleveland, Ohio, USA, 44106 
+ Find articles by Johnny Tang 
+ 
+ 
+ 7 
+ 
+ Editor: Cochrane Eyes and Vision Group 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Johns Hopkins University School of Medicine, Wilmer Eye Institute, Baltimore, Maryland, USA 
+ 
+ 2 Johns Hopkins Bloomberg School of Public Health, Department of Health, Behavior and Society, Baltimore, Maryland, USA 
+ 
+ 3 Johns Hopkins Bloomberg School of Public Health, Department of Epidemiology, 615 N. Wolfe Street, Baltimore, Maryland, USA, 21205 
+ 
+ 4 Thomas Jefferson University, MidAtlantic Retina, The Retina Service of Wills Eye Hospital, Philadelphia, Pennsylvania, USA 
+ 
+ 5 Associated Retinal Consultants, Phoenix, Arizona, USA 
+ 
+ 6 National Institutes of Health Library, 10 Center Drive, Room 1L09G MSC 1150, Bethesda, Maryland, USA, 20892 
+ 
+ 7 University Hospitals Eye Institute/Case Western Reserve University, University Hospitals Eye Institute, 11100 Euclid Avenue, Lakeside 4107, Cleveland, Ohio, USA, 44106 
+ 
+ ✉ Corresponding author. 
+ 
+ 
+ Collection date 2016 Feb. 
+ 
+ Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC5038923  NIHMSID: NIHMS817161   PMID: 26866343 
+ 
+ 
+ 
+ This article has been updated. See " Corticosteroid implants for chronic non‐infectious uveitis " in volume 2023, CD010469. 
+ This article is an update of the article with doi: 10.1002/14651858.CD010469 . 
+ 
+ Abstract 
+ Background 
+ Uveitis is a term used to describe a heterogeneous group of intraocular inflammatory diseases of the anterior, intermediate, and posterior uveal tract (iris, ciliary body, choroid). Uveitis is the fifth most common cause of vision loss in high‐income countries, accounting for 5% to 20% of legal blindness, with the highest incidence of disease in the working‐age population. 
+ Corticosteroids are the mainstay of acute treatment for all anatomical subtypes of non‐infectious uveitis and can be administered orally, topically with drops or ointments, by periocular (around the eye) or intravitreal (inside the eye) injection, or by surgical implantation. Objectives 
+ To determine the efficacy and safety of steroid implants in people with chronic non‐infectious posterior uveitis, intermediate uveitis, and panuveitis. Search methods 
+ We searched CENTRAL (which contains the Cochrane Eyes and Vision Trials Register) (Issue 10, 2015), Ovid MEDLINE, Ovid MEDLINE In‐Process and Other Non‐Indexed Citations, Ovid MEDLINE Daily, Ovid OLDMEDLINE (January 1946 to November 2015), EMBASE (January 1980 to November 2015), PubMed (1948 to November 2015), Latin American and Caribbean Health Sciences Literature Database (LILACS) (1982 to November 2015), the meta Register of Controlled Trials ( m RCT) ( www.controlled‐trials.com ) (last searched 15 April 2013), ClinicalTrials.gov ( www.clinicaltrials.gov ), and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) ( www.who.int/ictrp/search/en ). We did not use any date or language restrictions in the electronic search for studies. We last searched the electronic databases on 6 November 2015. 
+ We also searched reference lists of included study reports, citation databases, and abstracts and clinical study presentations from professional meetings. Selection criteria 
+ We included randomized controlled trials comparing either fluocinolone acetonide (FA) or dexamethasone intravitreal implants with standard‐of‐care therapy with at least six months of follow‐up after treatment. We included studies that enrolled participants of all ages who had chronic non‐infectious posterior uveitis, intermediate uveitis, or panuveitis with vision that was better than hand‐motion. Data collection and analysis 
+ Two review authors independently reviewed studies for inclusion. Two review authors independently extracted data and assessed the risk of bias for each study. Main results 
+ We included data from two studies (619 eyes of 401 participants) that compared FA implants with standard‐of‐care therapy. Both studies used similar standard‐of‐care therapy that included administration of prednisolone and, if needed, immunosuppressive agents. The studies included participants from Australia, France, Germany, Israel, Italy, Portugal, Saudi Arabia, Spain, Switzerland, Turkey, the United Kingdom, and the United States. We assessed both studies at high risk of performance and detection bias. 
+ Only one study reported our primary outcome, recurrence of uveitis at any point during the study through 24 months. The evidence, judged as moderate‐quality, showed that a FA implant probably prevents recurrence of uveitis compared with standard‐of‐care therapy (risk ratio (RR) 0.29, 95% confidence interval (CI) 0.14 to 0.59; 132 eyes). Both studies reported safety outcomes, and moderate‐quality evidence showed increased risks of needing cataract surgery (RR 2.98, 95% CI 2.33 to 3.79; 371 eyes) and surgery to lower intraocular pressure (RR 7.48, 95% CI 3.94 to 14.19; 599 eyes) in the implant group compared with standard‐of‐care therapy through two years of follow‐up. No studies compared dexamethasone implants with standard‐of‐care therapy. Authors' conclusions 
+ After considering both benefits and harms reported from two studies in which corticosteroids implants were compared with standard‐of‐care therapy, we are unable to conclude that the implants are superior to traditional systemic therapy for the treatment of non‐infectious uveitis. These studies exhibited heterogeneity in design and outcomes that measured efficacy. Pooled findings regarding safety outcomes suggest increased risks of post‐implant surgery for cataract and high intraocular pressure compared with standard‐of‐care therapy. Plain language summary 
+ Steroid implants for chronic uveitis not caused by infection 
+ Background 
+ 
+Uveitis describes a group of eye diseases caused by inflammation (redness and swelling, etc.). Uveitis is the fifth most common cause of vision loss in high‐income countries, accounting for 5% (1 in 20 cases) to 20% (1 in 5 cases) of blindness, with the disease affecting mostly working‐age people. In low‐income countries, uveitis accounts for 2.4% (1 in 40 cases) to 24% (1 in 4 cases) of legal blindness. These figures are for all types of uveitis (infectious and non‐infectious uveitis), so the prevalence of non‐infectious uveitis (the focus of this review) is likely lower than these estimates. 
+ In this review, we were only able to focus on posterior uveitis, which occurs in a region in the back of the eye and may affect the choroid, retina, and/or vitreous. Posterior uveitis alone accounts for approximately 15% to 22% (1 in 4 to 6 cases) of uveitis cases and leads to approximately 10% (1 in 10 cases) of legal blindness in the United States. Posterior uveitis is primarily treated either with systemic (whole body, either by mouth or injection) or local (just near or inside the eye) medications that reduce inflammation, such as steroids. 
+ Review question 
+ 
+We compared steroid devices implanted directly into the eye with standard‐of‐care therapy for non‐infectious posterior uveitis. We examined whether the steroid implants were better at treating uveitis, had fewer side effects, or both, than standard‐of‐care therapy. 
+ Study characteristics 
+ 
+We included two randomized controlled trials that compared fluocinolone acetonide implants with standard‐of‐care therapy. These studies included 401 participants from Australia, France, Germany, Israel, Italy, Portugal, Saudi Arabia, Spain, Switzerland, Turkey, the United Kingdom, and the United States who were 6 years old or older and were followed for two years. The evidence is current to 6 November 2015. 
+ Key results 
+ 
+Since the two studies were designed to answer slightly different questions about the fluocinolone implant, we were not able to combine data from both studies to compare how well the medications worked. However, we were able to do a combined analysis of the common side effects, which suggest that participants in the steroid implant group had more surgery for cataract (clouding of the lens of the eye) and for high eye pressure than participants in the non‐implant group. We were unable to determine whether the steroid implants were better than standard‐of‐care therapy. 
+ Quality of the evidence 
+ 
+The overall quality of the presently available published evidence was moderate. This finding indicates that future published research is likely to have an important impact on the conclusions currently provided in this review. Summary of findings 
+ for the main comparison. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fluocinolone acetonide compared with systemic therapy for chronic non‐infectious uveitis 
+ 
+ Patient or population: participants with chronic non‐infectious uveitis Settings: worldwide Intervention: fluocinolone acetonide implant Comparison: standard‐of‐care therapy 
+ 
+ Outcomes 
+ Illustrative comparative risks* (95% CI) 
+ Relative effect 
+(95% CI) 
+ No of Eyes 
+(studies) 
+ Quality of the evidence 
+(GRADE) 
+ Comments 
+ 
+ 
+ Assumed risk* 
+ Corresponding risk 
+ 
+ 
+ Standard‐of‐care therapy** 
+ Fluocinolone acetonide implant 
+ 
+ 
+ Recurrence of uveitis at 24 months 
+ 676 per 1000 
+ 196 per 1000 (95 to 399) 
+ RR 0.29, (0.14 to 0.59) 
+ 132 eyes (1 study) 
+ ⊕⊕⊕⊝ 
+ moderate 1 
+ 
+   
+ 
+ 
+ Best‐corrected visual acuity (BCVA) 
+ At 12 months, the mean BCVA in the control group, as measured by logMAR chart, was 3.33 letters At 24 months, the mean BCVA in the control group, as measured by logMAR chart, was 3.23 letters 
+ At 12 months, the mean BCVA in the control group, as measured by logMAR chart, was 1.29 letters more (2.32 lower to 5.01 higher) At 24 months, the mean BCVA in the control group, as measured by logMAR chart, was 2.79 letters more (1.16 lower to 6.88 higher) 
+ 12 months; MD 1.29 (‐2.32 to 5.01) 24 months; MD 2.79 (‐1.16 to 6.88) 
+ 132 eyes (1 study) 
+ ⊕⊕⊕⊝ 
+ moderate 1 
+ 
+ At 12 months, the change in BCVA as measured by logMAR, from baseline 4.61 (SD = 1.38) letters in the FA implant group, compared to 3.33 (SD = 1.23) letters in the systemic therapy group. Number of participants in each group was not reported. At 24 months, the change in BCVA as measured by logMAR, from baseline 6.03 (SD = 1.41) letters in the FA implant group, compared to 3.23 (SD = 1.41) letters in the systemic therapy group. Number of participants in each group was not reported. 
+ 
+ 
+ Cataract surgery through 24 months 
+ 274 per 1000 
+ 817 per 1000 (638 to 1038) 
+ RR 2.98 (2.33 to 3.79) 
+ 371 eyes (2 studies) 
+ ⊕⊕⊕⊝ 
+ moderate 1 
+ 
+   
+ 
+ 
+ Elevated intraocular pressure > 10 mmHg over baseline or receiving intervention (eye drops or surgery) through 24 months 
+ 144 per 1000 
+ 817 per 1000 (390 to 701) 
+ RR 3.64 (2.71 to 4.87) 
+ 605 eyes (2 studies) 
+ ⊕⊕⊕⊝ 
+ moderate 1 
+ 
+   
+ 
+ 
+ Endophthalmitis through 24 months 
+ 0 per 1000 
+ 20 per 1000 (8 to 31)*** 
+ RR 7.30 (0.91 to 58.72) 
+ 607 eyes (2 studies) 
+ ⊕⊝⊝⊝ 
+ very low 1,2 
+ 
+   
+ 
+ 
+ Retinal detachment through 24 months 
+ 10 per 1000 
+ 21 per 1000 (5 to 84) 
+ RR 2.07 (0.51 to 8.40) 
+ 606 eyes (2 studies) 
+ ⊕⊝⊝⊝ 
+ very low 1,2 
+ 
+   
+ 
+ *The basis for the assumed risk is the mean baseline risk from the studies in the meta‐analysis; the total number of events in the control group divided by the total number of participants in the control groups scaled to 1000. The corresponding risk (and its 95% confidence interval) is based on the assumed risk in the comparison group and the relative effect of the intervention (and its 95% CI). ***The corresponding risk was the absolute risk (number of events divided by number of participants in the intervention group). The 95% CI was calculated using a binomial distribution. 
+ CI: confidence interval; FA: fluocinolone acetonide; MD: mean difference; RR: risk ratio; SD: standard deviation 
+ GRADE Working Group grades of evidence 
+ High quality: Further research is very unlikely to change our confidence in the estimate of effect. 
+ Moderate quality: Further research is likely to have an important impact on our confidence in the estimate of effect and may change the estimate. 
+ Low quality: Further research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate. 
+ Very low quality: We are very uncertain about the estimate. 
+ 
+ 
+ Open in a new tab 
+ 
+ ** Standard‐of‐care therapy include systemic steroids, intravitreal steroids, disease‐modifying antirheumatic drugs (See Characteristics of included studies for specific details). 
+ 1 Downgraded for high probability of funding bias or limitations in the design and implementation of available studies (suggesting high likelihood of performance and detection bias) or both. 
+ 2 Imprecision of results (wide confidence intervals). 
+ Background 
+ Description of the condition 
+ Uveitis is a term used to describe a heterogeneous group of intraocular inflammatory diseases of the anterior, intermediate, and posterior uveal tract (iris, ciliary body, choroid). Uveitis is the fifth most common cause of vision loss in high‐income countries, accounting for 5% to 20% of legal blindness ( Durrani 2004 ; Nussenblatt 1990 ), with the highest incidence of disease in the working‐age population ( Suttorp‐Schulten 1996 ). In low‐income countries, uveitis accounts for 2.4% to 24% of legal blindness. Individual estimates are not available for the various causes of infectious uveitis, including onchocerciasis, the fifth‐leading cause of blindness worldwide ( Durrani 2004 ; Suttorp‐Schulten 1996 ). A recent, large cross‐sectional study (over a 12‐month period) by Gritz and colleagues in California reported the incidence of uveitis to be 52.4 per 100,000 person‐years ( Gritz 2004 ), which was three times higher than previous estimates. Posterior uveitis alone accounts for approximately 15% to 22% of uveitis cases in the United States, and leads to approximately 10% of legal blindness in the United States ( Suttorp‐Schulten 1996 ). Description of the intervention 
+ Corticosteroids are the mainstay acute treatment for all anatomical subtypes of non‐infectious uveitis. They can be administered orally, topically with drops or ointments, by periocular (around the eye) or intravitreal (inside the eye) injection, or by surgical implantation ( Haupert 2000 ). Corticosteroids are immunosuppressant medications that reduce inflammation and macular edema (retinal swelling), a principal cause of reduced vision in uveitis. Treatment of posterior uveitis represents a particular therapeutic challenge because topical steroids rarely reach therapeutic concentrations in the vitreous, thus these patients often require administration of oral corticosteroids or local steroid injection ( Jaffe 2006a ). These therapeutic modalities may lead to several complications including cataract formation and elevated intraocular (eye) pressure. The systemic morbidity associated with oral steroids includes hyperglycemia (high blood sugar or frank diabetes mellitus), myopathy (muscle damage), secondary infections, impaired wound healing, mental status changes (ranging from mood changes to psychosis), and adrenal suppression (hormone problems). Periocular and intravitreal steroid injections also have limitations: they provide only short‐term control, often requiring repeated injections every three to six months to control inflammation, and the injection procedure may be complicated by globe perforation, retinal tears, hemorrhage, endophthalmitis (infection of the eye), ptosis (drooping lid), and fibrosis ( Haupert 2000 ; Jager 2004 ). In addition to systemic corticosteroids, systemic immunomodulatory therapies including methotrexate, azathioprine, mycophenolate mofetil, cyclosporine, adalimumab, infliximab, and alkylating agents such as cyclophosphamide are used to treat uveitis. There is currently no standardized algorithm for the use of systemic immunosuppressive therapies for non‐infectious uveitis, and most specific agents are being used off‐label for this indication. Additionally, many of these therapies can have serious side effects including increased susceptibility to infection and certain types of cancers, as well as bone marrow suppression (low blood counts, poor blood clotting, decreased ability to fight infection). While these therapies require close monitoring, their long‐term side effect profiles may be more favorable than corticosteroids. None of these therapies are available for localized administration to the eye, with the exception of cyclosporine, which is approved for dry eye syndrome but not commonly used to treat uveitis. How the intervention might work 
+ Several clinical trials have recently investigated the efficacy of a novel technology that involves corticosteroid delivery via a surgically implanted, intravitreal, polymer‐coated, sustained‐release implant ( Callanan 2008b ; Jaffe 2000a ; Jaffe 2005b ; Jaffe 2006a ; Lowder 2011b ; Williams 2009a ). An intravitreal corticosteroid implant has the theoretical advantage of maintaining an adequate, relatively stable concentration of corticosteroids for several months or years without repeated intravitreal injection and its inherent risks. Such an implant may decrease or eliminate the need for systemic immune suppression. 
+ The first corticosteroid implant for uveitis to be approved by the US Food and Drug Administration (FDA) was the fluocinolone acetonide sustained‐release implant (Retisert, Bausch & Lomb Inc., Rochester, NY) ( Callanan 2008b ; Jaffe 2006a ; Kempen 2011a ; Pavesio 2010a ). Additionally, the FDA has approved a biodegradable dexamethasone intravitreal steroid implant for macular edema caused by retinal vein occlusions and diabetic macular edema (Ozurdex, Allergan Inc., Irvine, CA) for uveitis ( Haller 2010 ; Taylor 2010 ). There is also a non‐biodegradable fluocinolone acetonide implant for diabetic edema ( Campochiaro 2010 ), which has been investigated for posterior uveitis. While such implants may reduce the overall systemic impact of corticosteroids, the increased intraocular exposure may cause higher rates of cataract and glaucoma ( Bollinger 2011 ; Goldstein 2007a ; Kempen 2011a ; Pavesio 2010a ), and these risks need to be weighed against their potential benefits. Why it is important to do this review 
+ To date, there are no systematic reviews examining the efficacy and safety of steroid implants for controlling posterior uveitis‐related inflammation. This review is needed to allow decision makers (policymakers, clinicians, and patients) to weigh the benefits and risks of these therapies in choosing the best option for treatment of uveitis. Furthermore, these implants are expensive ( Mohammad 2007 ), with the permanent fluocinolone acetonide implant (Retisert) costing approximately USD 18,000. Objectives 
+ To determine the efficacy and safety of steroid implants in people with chronic non‐infectious posterior uveitis, intermediate uveitis, and panuveitis. Methods 
+ Criteria for considering studies for this review 
+ Types of studies 
+ We included unpublished and published randomized controlled trials (RCTs) with at least six months of follow‐up after treatment. Types of participants 
+ We included studies that enrolled participants with better than hand‐motion vision and history of chronic posterior uveitis, intermediate uveitis, or panuveitis (one eye with history of recurrent non‐infectious uveitis affecting the posterior segment for at least one year) requiring systemic corticosteroids for more than one month or multiple sub‐Tenon’s capsule corticosteroid injections. We included studies with both active and quiescent disease. We excluded RCTs that enrolled participants with infectious uveitis. The participant age inclusion criterion reflects a change from our protocol, in which we proposed to include only studies that enrolled participants 18 years of age or older. We eliminated the age restriction because no studies qualified for our review that used the original inclusion criteria, as discussed in the ' Differences between protocol and review ' section. Types of interventions 
+ We included studies comparing fluocinolone acetonide or dexamethasone intravitreous implants with standard‐of‐care therapy (for example systemic steroids, intravitreal steroids, disease‐modifying antirheumatic drugs). These implants may have been used alongside traditional topical or systemic anti‐inflammatory therapies, as long as the dosage was stable at the time of enrollment, reflecting the fact that these medications are used both as monotherapy and add‐on therapy. Types of outcome measures 
+ Primary outcomes 
+ The primary outcome was the proportion of participants with a recurrence of uveitis at 6 months. We defined recurrence as any of the following: 
+ 
+ increase in vitreous haze by two or more steps above baseline; 
+ increase in anterior chamber cell by two or more steps above baseline; 
+ need to add or increase dose of systemic anti‐inflammatory medication to control inflammation. 
+ Secondary outcomes 
+ Secondary outcomes assessed at 6 months included: 
+ 
+ mean difference in best‐corrected distance visual acuity (BCVA) as measured by the Early Treatment of Diabetic Retinopathy Study (ETDRS) chart, Snellen chart, or Snellen equivalent. (If a study used any other visual acuity chart, we would seek and verify justification for its use and validation of the chart compared to the ETDRS/Snellen chart); 
+ mean difference in quality of life (mean difference in any validated measures presented, e.g. National Eye Institute Visual Functioning Questionnaire (NEI‐VFQ), 36‐Item Short Form Health Survey (SF‐36)); 
+ 
+ Adverse events 
+ We assessed the proportion of participants who experienced the following conditions through 24 months: 
+ 
+ cataract formation/progression or surgery; 
+ elevated intraocular pressure > 10 mmHg over baseline or receiving intervention (eye drops or surgery); 
+ endophthalmitis; 
+ retinal tear or retinal detachment; 
+ systemic adverse events related to steroid or immunomodulatory therapy. 
+ 
+ We also evaluated outcomes at times point after 6 months when provided in the source studies and summarized other adverse events reported in the included studies. We were presented with multiple measurements of quality of life and chose to present data measured by NEI‐VFQ. When numeric data was not reported, we did not abstract data from figures. Search methods for identification of studies 
+ Electronic searches 
+ We searched CENTRAL (which contains the Cochrane Eyes and Vision Trials Register) (Issue 10, 2015), Ovid MEDLINE, Ovid MEDLINE In‐Process and Other Non‐Indexed Citations, Ovid MEDLINE Daily, Ovid OLDMEDLINE (January 1946 to November 2015), EMBASE (January 1980 to November 2015), PubMed (1948 to November 2015), Latin American and Caribbean Health Sciences Literature Database (LILACS) (1982 to November 2015), the meta Register of Controlled Trials ( m RCT) ( www.controlled‐trials.com ) (last searched 15 April 2013), ClinicalTrials.gov ( www.clinicaltrials.gov ), and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) ( www.who.int/ictrp/search/en ). We did not use any date or language restrictions in the electronic search for studies. We last searched the electronic databases on 6 November 2015. 
+ See: Appendices for details of search strategies for CENTRAL ( Appendix 1 ), MEDLINE ( Appendix 2 ), EMBASE ( Appendix 3 ), PubMed ( Appendix 4 ), LILACS ( Appendix 5 ), m RCT ( Appendix 6 ), ClinicalTrials.gov ( Appendix 7 ), and the ICTRP ( Appendix 8 ). Searching other resources 
+ We searched the reference lists of included studies to identify any additional studies. We also used Google Scholar, Scopus, and the Science Citation Index Expanded database to identify additional studies that may have cited any studies we included in the review. We searched the online files of meeting abstracts for the following organizations, for years not included in CENTRAL at the time of the searches: American Academy of Ophthalmology, American Academy of Optometry, and Association for Research in Vision and Ophthalmology. Data collection and analysis 
+ Selection of studies 
+ Two review authors (CJB and ER) independently reviewed the titles and abstracts (when available) of all records identified through the electronic and manual searches. For studies that appeared to meet the inclusion criteria, or for which the information provided in the title and abstract were insufficient for us to make a clear decision, we obtained the full‐text reports. Two review authors (CJB and ER) independently assessed the full‐text reports to establish whether the studies met the inclusion criteria. We resolved any disagreement at either stage of screening by discussion. All publications from studies meeting the inclusion criteria underwent assessment of risk of bias and data extraction. We recorded studies that were excluded after screening the full‐text report or subsequent stages of the review process in the Characteristics of excluded studies table, with reasons for exclusion documented. Data extraction and management 
+ Two review authors (CJB and JT) independently extracted the data for study design, participant characteristics, and the primary and secondary outcomes onto electronic data collection forms developed in collaboration with the Cochrane Eyes and Vision Group. We resolved discrepancies by discussion. We contacted authors of included studies for missing data. One review author (CJB) entered all data into RevMan 5 ( RevMan 2014 ). 
+ For each study we recorded the following: 
+ 
+ year of publication, country from which participants were recruited, and source of study funding; 
+ details of the participants, including demographic characteristics and criteria for inclusion; 
+ details of the type of intervention; 
+ details of the outcomes reported, including method of assessment and time intervals. 
+ Assessment of risk of bias in included studies 
+ Two review authors (CJB and JT) independently assessed the risk of bias of included studies as part of the data extraction process. We followed the tool for assessing risk of bias set out in Chapter 8 of the Cochrane Handbook for Systematic Reviews of Interventions ( Higgins 2011 ). 
+ We examined seven main criteria: 
+ 
+ sequence generation; 
+ allocation concealment before randomization; 
+ masking of participants and study personnel; 
+ masking of outcome assessors; 
+ incomplete outcome data; 
+ selective outcome reporting; and 
+ funding source other sources of bias. 
+ 
+ We judged whether each study met the respective criterion and categorized the studies as being at "high risk of bias" (plausible bias that seriously weakens confidence in the results), "low risk of bias" (plausible bias unlikely to seriously alter the results), and "unclear risk of bias" (lack of information or uncertainty over the potential for bias). 
+ We resolved disagreements through discussion, involving a third review author as an adjudicator as appropriate. Measures of treatment effect 
+ Continuous data 
+ For continuous outcomes (visual acuity and quality of life), we expressed the estimates of treatment effects as mean differences in the mean change from baseline to follow‐up between interventions with 95% confidence intervals. Dichotomous data 
+ For dichotomous outcomes, we expressed the estimates of treatment effects as summary risk ratios with 95% confidence intervals. These outcomes included the recurrence of posterior uveitis, intermediate uveitis, or panuveitis; elevated intraocular pressure requiring intervention; need for additional therapeutic modalities to control inflammation; cataract formation; cataract extraction; endophthalmitis; retinal tear or retinal detachment; other ocular complications of uveitis and of therapy; and potential systemic complications of therapy. Unit of analysis issues 
+ The unit of analysis was a single eye for the majority of outcomes: recurrence rate of posterior uveitis, intermediate uveitis, or panuveitis; visual acuity; elevated intraocular pressure requiring intervention; reduction of cystoid macular edema; need for additional therapeutic modalities to control inflammation; cataract formation; cataract extraction; endophthalmitis; retinal tear or retinal detachment. The unit of analysis was the person for quality of life outcomes and potential systemic complications of therapy. Dealing with missing data 
+ We attempted to contact study investigators for any missing data. As study investigators did not respond, in Pavesio 2010 , or were not able to provide any additional data, in Kempen 2011 , we extracted data as available from the published report. We did not impute data for the purposes of this review. Assessment of heterogeneity 
+ We assessed the included studies for both clinical and methodological diversity and present any variability identified in the text. We assessed statistical heterogeneity using the I 2 statistic. We considered an I 2 statistic greater than 50% to indicate substantial statistical heterogeneity. We took into account clinical, methodological, and statistical heterogeneity when considering meta‐analysis. Assessment of reporting biases 
+ We assessed selective outcome reporting by comparing the outcomes specified in the methods section of the study report with the data that were reported in the study results. If in updates of this review 10 or more studies are included, we plan to use a funnel plot to evaluate for publication bias. Data synthesis 
+ Data analysis followed the guidelines set out in Chapter 9 of the Cochrane Handbook for Systematic Reviews of Interventions ( Deeks 2011 ). We calculated a summary risk ratio for dichotomous outcomes and a summary mean difference for continuous outcomes. Since there was a small number of studies in the analysis (two), we used the fixed‐effect model. Subgroup analysis and investigation of heterogeneity 
+ We did not conduct subgroup analyses due to the small number of included studies and methodologic heterogeneity. Sensitivity analysis 
+ We did not conduct sensitivity analyses due to the small number of included studies and methodologic heterogeneity. 
+ Summary of findings 
+ We provided a 'Summary of findings' table, which includes the assumed risk and corresponding risk for relevant outcomes based on the risk across control groups in the included studies. We graded the overall quality of the evidence for each outcome using the GRADE classification ( www.gradeworkinggroup.org/ ). We assessed the quality of evidence for each outcome as "high," "moderate," "low." or "very low" according to the following criteria as described in Chapter 12 of the Cochrane Handbook for Systematic Reviews of Interventions ( Schünemann 2011 ): 
+ 
+ High risk of bias among included studies. 
+ Indirectness of evidence. 
+ Unexplained heterogeneity or inconsistency of results. 
+ Imprecision of results (i.e. wide confidence intervals). 
+ High probability of publication bias. 
+ Results 
+ Description of studies 
+ Results of the search 
+ We retrieved 3318 records from the electronic database search as of 6 November 2015. We identified an additional 124 records from other sources ( Figure 1 ). After removing duplicates, we screened 2741 unique records and excluded 2684. Fifty‐seven records underwent full‐text review, and 45 studies (46 full‐text reports) were excluded for the reasons listed in the Characteristics of excluded studies table. We included two studies from 11 full‐text reports. We did not identify any other relevant studies for this review by searching reference lists or the Science Citation Index (as of 1 December 2015). 
+ 1. 
+ 
+ Open in a new tab 
+ Study flow diagram. Included studies 
+ We have provided a detailed description of the individual included studies in the Characteristics of included studies table. We have summarized the study characteristics in the following sections. 
+ Types of participants 
+ Both included studies enrolled participants with a clinically similar diagnosis of non‐infectious posterior uveitis, but with slightly different study populations: Pavesio and colleagues enrolled participants who had clinically quiet non‐infectious posterior uveitis, while Kempen and colleagues enrolled participants who had active non‐infectious posterior uveitis in the study eye at the time of randomization. Together the included studies enrolled 401 participants from Australia, France, Germany, Israel, Italy, Portugal, Saudi Arabia, Spain, Switzerland, Turkey, the United Kingdom, and the United States; Pavesio 2010 enrolled 255 participants and Kempen 2011 enrolled 146 participants. Participants in the two studies were similar in age (mean age of about 40 years), visual acuity, and baseline intraocular pressure. However, Kempen 2011 (75.0%) had a higher percentage of women than Pavesio 2010 (58.2%). Both Pavesio 2010 and Kempen 2011 included participants with unilateral disease and asymmetric bilateral disease. For participants with unilateral disease, the affected eye was the study eye. However each study handled participants with bilateral disease differently; for Pavesio 2010 the study eye was the more severely affected eye, compared with Kempen 2011 where both eyes were study eyes. Pavesio 2010 did not report the percentage of participants with asymmetric bilateral disease. In Kempen 2011 , the percentage of participants with asymmetric bilateral disease was 90% and 46% for FA implant group and standard‐of‐care therapy group, respectively. Types of interventions 
+ Both studies used 0.59 mg fluocinolone acetonide (FA) intravitreal implant as their intervention group and had similar standard‐of‐care therapy comparison groups. See Characteristics of included studies for each study's description of the standard‐of‐care therapy used. Types of outcomes 
+ Primary outcomes 
+ Pavesio and colleagues were the only study investigators who reported on our primary outcome, recurrence of uveitis. However, the authors did not report the outcome at 6 months post‐treatment, but at 12 and 24 months post‐treatment. We assessed the primary outcome at 12 and 24 months post‐treatment. Secondary outcomes 
+ Kempen and colleagues did not report mean change in BCVA from baseline at 6 months, but reported it at 12 and 24 months post‐treatment. Pavesio and colleagues reported the proportion of participants with a visual acuity improvement (more than 15 letters on Early Treatment Diabetic Retinopathy Study charts from baseline), but did not report the distance between the participants and the charts during the visual acuity assessment. We therefore could not combine the data. See Table 2 . 
+ 1. Secondary outcomes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Outcome or subgroup 
+ 
+Measured by 
+ 
+Study 
+ 
+Fluocinolone implant group 
+ 
+Standard‐of‐care therapy group 
+ 
+Effect estimate
+ 1 
+ 
+ 
+   
+ Mean 
+ SD 
+ Number of eyes 
+ Mean 
+ SD 
+ Number of eyes 
+ (Positive value favoring implant) 
+ 
+ 
+Mean change in visual acuity 
+ 
+ At 12 months 
+ logMAR 
+ Kempen 2011 
+ 4.61 
+ 1.38 
+ 215 
+ 3.33 
+ 1.23 
+ 225 
+ MD 1.29, 95% CI ‐2.32 to 5.01 
+ 
+ 
+ At 24 months 
+ logMAR 
+ Kempen 2011 
+ 6.03 
+ 1.41 
+ 212 
+ 3.23 
+ 1.41 
+ 223 
+ MD 2.79, 95% CI ‐1.16 to 6.88 
+ 
+ 
+ At 12 months 
+ logMAR 
+ Pavesio 2010 
+ Did not report the distance between the participants and the charts during the visual acuity assessment. 
+ 
+ 
+ At 24 months 
+ logMAR 
+ Pavesio 2010 
+ Did not report the distance between the participants and the charts during the visual acuity assessment. 
+ 
+ 
+Mean change in quality of life* 
+ 
+ At 12 months 
+ NEI‐VFQ 
+ Kempen 2011 
+ 12.13 
+ 1.60 
+ NR 
+ 4.86 
+ 1.38 
+ NR 
+ MD 7.29, 95% CI 3.11 to 11.42 
+ 
+ 
+ At 24 months 
+ NEI‐VFQ 
+ Kempen 2011 
+ 11.44 
+ 1.67 
+ NR 
+ 6.80 
+ 1.58 
+ NR 
+ MD 4.64, 95% CI 0.14 to 9.15 
+ 
+ 
+ 
+ Open in a new tab 
+ 
+ 1 Statistical method used was mean difference using fixed‐effect model. 
+ *The unit of analysis was the person. 
+ CI: confidence interval 
+MD: mean difference 
+NEI‐VFQ: National Eye Institute Visual Functioning Questionnaire 
+NR: not reported 
+SD: standard deviation 
+ Only the Kempen study reported on quality of life outcomes. The study used two different instruments to measure quality of life; the National Eye Institute Visual Functioning Questionnaire (NEI‐VFQ) and the Short Form (36) Health Survey (SF‐36). Data were presented as mean changes from baseline to 12 months and 24 months. We decided to present the results of NEI‐VFQ as it was the relevant to review's objective and because the results from the SF‐36 were reported separately for the mental and physical components. Adverse events 
+ Both included studies reported on two key adverse events: the number of participants receiving cataract surgery and the number of participants requiring intraocular pressure‐lowering surgery. Other adverse events reported by Kempen and colleagues were: hyperlipidemia diagnosis requiring treatment (cumulative over 24 months), hypertension diagnosis requiring treatment (cumulative through 24 months), diabetes mellitus (cumulative through 24 months), osteoporosis (cumulative through 24 months), white blood cell count less than 2500/microliter (cumulative through 24 months), elevated liver enzymes (cumulative through 24 months), cancer diagnosis through 24 months, and death through 24 months. The Pavesio study reported pooled non‐ocular adverse events through 24 months. Excluded studies 
+ After the full‐text assessment, we excluded 45 studies (46 full‐text reports) (see Characteristics of excluded studies ): six did not focus on non‐infectious posterior uveitis, intermediate uveitis, or panuveitis; one did not have at least six months of follow‐up after treatment; 18 were not randomized controlled trials; and 20 did not compare fluocinolone or dexamethasone implant with standard‐of‐care therapy. No ongoing studies met the review inclusion criteria ( CTRI/2014/07/004726 ; CTRI/2014/12/005337 ; NCT01694186 ; NCT02309385 ; NCT02482129 ; NCT02517619 ). Risk of bias in included studies 
+ We have presented the 'Risk of bias' assessment for the two included studies in Figure 2 . 
+ 2. 
+ 
+ Open in a new tab 
+ Risk of bias summary: review authors' judgements about each risk of bias item for each included study. Allocation 
+ We assessed both studies at a low risk of selection bias as they reported adequate random sequence generation and concealment of treatment allocation. Pavesio 2010 study used a voice response system, while Kempen 2011 study used a website. 
+ Masking (performance bias and detection bias) 
+ The intervention group was surgically implanted steroid device, and the comparison group was standard‐of‐care therapy. Both studies were thus unable to mask participants and personnel to which treatment groups each participant was in. We assessed both studies at high risk of performance and detection bias for this reason. Incomplete outcome data 
+ While “as‐randomized” or “intention‐to‐treat” analyses were performed in each study, we assessed the risk of bias as unclear, as there was uncertainty whether the reasons participants did not complete the final visit was associated with the review outcome; 6.4% of participants did not complete the final visit in the Pavesio 2010 study, and 9% of participants did not complete the final visit in the Kempen 2011 study. Selective reporting 
+ The Kempen 2011 study was registered and all outcomes defined in the trial registry was reported in the full‐text reports. The Pavesio 2010 study was not registered and the study protocol was not available for comparison. Therefore, we assessed the risk of reporting bias for Kempen 2011 study and the Pavesio 2010 study to be at low and unclear risk of bias, respectively. Other potential sources of bias 
+ We assessed Pavesio 2010 to be at high risk of funding bias because several of the authors were employees of the sponsor, and the lead author was a consultant for the sponsor. The authors did not make any statement about the role of the sponsor in study design, data analysis, interpretation, decision to publish, or manuscript preparation. We assessed the Kempen 2011 study at unclear risk of bias because the manufacturer of the steroid implant used provided support in the form of implants for participants who would otherwise not have access to the implants due to lack of insurance or regulatory approval in their country. Effects of interventions 
+ See: Table 1 
+ Primary outcome 
+ Recurrence of uveitis 
+ None of the included studies reported the primary outcome at 6 months. Only one of two included studies reported on the primary outcome at 24 months, therefore we did not perform a pooled analysis and we report the study results as a narrative. Pavesio 2010 reported that the risk of recurrence of uveitis at any point during the study through 24 months was 71% lower in the FA implant group (23 of 61 eyes) compared with the standard‐of‐care therapy group (48 of 71 eyes) (risk ratio (RR) 0.29, 95% confidence interval (CI) 0.14 to 0.59). The study authors also presented results of an alternative definition of recurrence, use of systemic medication and number of medications participants with FA implant received as part of incorrect or delayed tapering of uveitis medications, and showed a greater reduction (87%) in the risk of recurrence of uveitis in the FA implant group (12 of 61 eyes) compared with the standard‐of‐care therapy group (47 of 71 eyes) (RR 0.13, 95% CI 0.06 to 0.28). We judged the quality of the evidence for this outcome to be moderate, downgraded for high risks of bias in the study (‐1). Secondary outcomes 
+ Best‐corrected visual acuity (BCVA) 
+ Only the Kempen study reported on the change in BCVA as measured by logMAR chart. The authors did not report the number of participants analyzed in the FA implant group and standard‐of‐care therapy group, but they did report the between‐group estimates. The Kempen study was powered to detect a difference of 7.5 letters (standard deviation (SD) = 16) with a power of 91% and sample size of 250 participants. 
+ At 12 months, there was an improvement from baseline of 4.61 (SD = 1.38) letters in the FA implant group, compared with 3.33 (SD = 1.23) letters in the standard‐of‐care therapy group ( Table 2 mean difference (MD) 1.29 letters, 95% CI ‐2.32 to 5.01; positive value favoring implant; 437 eyes). It is uncertain whether FA implant increases the number of letters read compared with the standard‐of‐care therapy group, and the differences in improvement were at or below the threshold of minimally important differences detected by this instrument. 
+ At 24 months, there was an improvement from baseline of 6.03 (SD = 1.41) letters in the FA implant group, compared with 3.23 (SD = 1.41) letters in the standard‐of‐care therapy group ( Table 2 MD 2.79 letters, 95% CI ‐1.16 to 6.88; positive value favoring implant; 435 eyes). It is uncertain whether FA implant increases the number of letters read compared with the standard‐of‐care therapy group, and the differences in improvement were at or below the threshold of minimally important differences detected by this instrument. 
+ We judged the quality of the evidence for visual acuity outcomes to be moderate, downgraded for high risks of bias in the study (‐1). Mean change in quality of life 
+ Only the Kempen study reported on the mean change in quality of life. The study reported the between‐group estimates and did not report the number of participants analyzed in each group. 
+ At 12 months, the mean change from baseline NEI‐VFQ for the FA implant group was 12.13 (SD = 1.60) compared with the standard‐of‐care therapy group, which was 4.86 (SD = 1.38) ( Table 2 MD 7.29, 95% CI 3.11 to 11.42; positive value favoring implant; 235 eyes). The differences in change in NEI‐VFQ were at or below the threshold of minimally important differences detected by this instrument. 
+ At 24 months, the mean change from baseline NEI‐VFQ for the FA implant group was 11.44 (SD = 1.67) compared with the standard‐of‐care therapy group, which was 6.80 (SD = 1.58) ( Table 2 MD 4.64, 95% CI 0.14 to 9.15; positive value favoring implant; 232 eyes). The differences in change in NEI‐VFQ were at or below the threshold of minimally important differences detected by this instrument. 
+ We judged the quality of the evidence for quality of life outcomes to be moderate, downgraded for high risks of bias in the study (‐1). 
+ Both studies did not report on the following secondary outcomes: mean change in cystoid macular edema and the proportion of participants that required additional therapeutic modalities to control inflammation. Adverse events 
+ Both studies reported adverse events, and we performed a pooled analysis. We have presented two important adverse events in Figure 3 and Figure 4 . Both included studies only reported cumulative adverse events through 24 months' follow‐up. 
+ 3. 
+ 
+ Open in a new tab 
+ Forest plot of comparison: 1 Fluocinolone implant versus standard of care, outcome: 1.2 Cataract surgery through 24 months. 4. 
+ 
+ Open in a new tab 
+ Forest plot of comparison: 1 Fluocinolone implant versus standard of care, outcome: 1.6 IOP‐lowering surgery performed through 24 months. Cataract formation or progression 
+ Moderate‐quality evidence showed that the risk of cataracts forming or progressing within two years in the FA implant group was about three times the risk compared with standard‐of‐care therapy ( Analysis 1.1 ; RR 2.71, 95% CI 2.06 to 3.56; 210 eyes; I 2 = 80%). We did not downgrade for risk of performance and detection bias because the outcome measurement was not likely to be influenced by lack of masking. We downgraded for high risk of funding bias (‐1). 
+ 1.1. Analysis. 
+ 
+ Open in a new tab 
+ Comparison 1 Fluocinolone implant versus standard‐of‐care, Outcome 1 Cataract formation or progression through 24 months. Cataract surgery 
+ Moderate‐quality evidence showed that the risk of receiving cataract surgery within two years in the FA implant group was about three times the risk compared with standard‐of‐care therapy ( Analysis 1.2 ; RR 2.98, 95% CI 2.33 to 3.79; 371 eyes; I 2 = 70%). We did not downgrade for risk of performance and detection bias because the outcome measurement was not likely to be influenced by lack of masking. We downgraded for high risk of funding bias (‐1). 
+ 1.2. Analysis. 
+ 
+ Open in a new tab 
+ Comparison 1 Fluocinolone implant versus standard‐of‐care, Outcome 2 Cataract surgery through 24 months. Elevated intraocular pressure > 10 mmHg over baseline or receiving intervention (eye drops or surgery) 
+ Moderate‐quality evidence showed that the risk of elevated intraocular pressure > 10 mmHg over baseline or receiving intervention (eye drops or surgery) in the FA implant group was more than 3 times the risk with standard‐of‐care therapy ( Analysis 1.3 ; RR 3.64, 95% CI 2.71 to 4.87; 605 eyes; I 2 = 25%). We did not downgrade for risk of performance and detection bias because the outcome measurement was not likely to be influenced by lack of masking. We downgraded for high risk of funding bias (‐1). 
+ 1.3. Analysis. 
+ 
+ Open in a new tab 
+ Comparison 1 Fluocinolone implant versus standard‐of‐care, Outcome 3 Elevated intraocular pressure > 10 mmHg cumulative through 24 months. Endophthalmitis 
+ While there were more cases of endophthalmitis in the FA implant group in the Pavesio report, the very low quality evidence show that it is uncertain whether FA implant increased the risk of endophthalmitis ( Analysis 1.4 ; RR 7.30, 95% CI 0.91 to 58.72; 607 eyes; I 2 = 0%). We downgraded for high risk of bias (‐1), high risk of funding bias (‐1), and imprecision of results (‐1). 
+ 1.4. Analysis. 
+ 
+ Open in a new tab 
+ Comparison 1 Fluocinolone implant versus standard‐of‐care, Outcome 4 Endophthalmitis through 24 months. Retinal tear or retinal detachment 
+ The very low quality evidence shows that it is uncertain whether FA implant causes retinal tears or retinal detachment ( Analysis 1.5 ; RR 2.07, 95% CI 0.51 to 8.40; 606 eyes; I 2 = 44%). We downgraded for high risk of bias (‐1), high risk of funding bias (‐1), and imprecision of results (‐1). 
+ 1.5. Analysis. 
+ 
+ Open in a new tab 
+ Comparison 1 Fluocinolone implant versus standard‐of‐care, Outcome 5 Retinal detachment through 24 months. Intraocular pressure‐lowering surgery 
+ Moderate‐quality evidence showed that the risk of requiring intraocular pressure‐lowering surgery within two years in the FA implant group was seven times the risk with standard‐of‐care therapy ( Analysis 1.6 ; RR 7.48, 95% CI 3.94 to 14.19; 599 eyes; I 2 = 0%). We did not downgrade for risk of performance and detection bias because the outcome measurement was not likely to be influenced by lack of masking. We downgraded for high risk of funding bias (‐1). 
+ 1.6. Analysis. 
+ 
+ Open in a new tab 
+ Comparison 1 Fluocinolone implant versus standard‐of‐care, Outcome 6 IOP‐lowering surgery performed through 24 months. Hypotony 
+ The risk of hypotony through two years' follow‐up in the FA implant group was twice the risk with standard‐of‐care therapy ( Analysis 1.7 ; RR 2.27, 95% CI 1.24 to 4.14; 586 eyes; I 2 = 81%). The quality of the evidence was very low, downgraded for high risk of bias of performance and detection bias (‐1), high risk of funding bias (‐1), and imprecision of results (‐1). 
+ 1.7. Analysis. 
+ 
+ Open in a new tab 
+ Comparison 1 Fluocinolone implant versus standard‐of‐care, Outcome 7 Hypotony through 24 months. Systemic adverse events related to steroid or immunomodulatory therapy 
+ The two studies reported non‐ocular adverse events differently, and thus we could not pool the data. Pavesio 2010 reported that the risk of adverse event was similar in the FA implant (60.6%) compared with the standard‐of‐care therapy group (67.6%), although none of the events reported in the FA implant group were deemed to be related to the treatment assignment, as compared with 25.7% of the events that were felt to be related to treatment in the standard‐of‐care therapy group. Kempen 2011 reported the rate of infection requiring prescription therapy to be lower in the FA implant group compared with the standard‐of‐care therapy group (0.36 versus 0.60 events per person‐year, respectively; P = 0.034), but found the rate of hospitalizations did not differ (0.13 versus 0.17 hospitalizations per person‐year, respectively; P = 0.35). The risk of hypertension was lower in the FA implant group compared with standard‐of‐care therapy group (13% versus 27%, respectively; hazard ratio = 0.44, P = 0.030), but the rate of starting antihypertensive therapy did not differ (5% versus 11%; hazard ratio = 0.40, P = 0.13). Discussion 
+ Summary of main results 
+ After considering both benefits and harms reported from two randomized trials in which corticosteroid implants were compared with standard‐of‐care therapy in 401 participants with mean age approximately 40 years, we are unable to conclude that the implants are superior to traditional systemic therapy for the treatment of non‐infectious uveitis ( Table 1 ). Each study individually concluded that corticosteroid implants can be considered a reasonable alternative to standard‐of‐care therapy, but the pooled data do not support (or refute) their conclusion. Pavesio 2010 was an industry‐sponsored study that included participants whose uveitis was required to be inactive at the time of study entry. Their outcome of interest was therefore recurrence of uveitis signs or symptoms. The Kempen 2011 study was a National Eye Institute‐sponsored randomized controlled trial of people with active uveitis in which the primary outcome was the change in BCVA. Due to heterogeneity in the design of the studies and outcome measures assessed, we could not combine the results for the primary and secondary outcomes of this review. As a result, the evidence for or against the use of corticosteroid implants in the treatment of non‐infectious uveitis is limited. 
+ Since the safety endpoints were similar in the two studies, we pooled the data for these adverse events ( Analysis 1.1 to Analysis 1.7 ). These analyses concluded that cataract formation/progression, cataract surgery, elevated intraocular pressure, intraocular pressure‐lowering surgery, hypotony, retinal detachment, and endophthalmitis were more common in the FA implant group than the standard‐of‐care therapy group. While this result is not unexpected, clinicians may cautiously find some value in the updated risk ratios for each adverse event afforded by the pooled analysis. 
+ Reasons for excluding several studies of corticosteroid implants for uveitis from the review are described in the Characteristics of excluded studies table. We excluded many studies because they were not randomized controlled trials or did not compare corticosteroid implants with standard‐of‐care therapy. Most notably, none of the studies of the dexamethasone intravitreal implant met our inclusion/exclusion criteria. The principal report from these studies, Lowder 2011b , compared the dexamethasone implant with sham injection, not to standard‐of‐care therapy, which was an inclusion criterion for our review. Overall completeness and applicability of evidence 
+ The two studies included in our review investigated the comparative effectiveness of FA implants against standard‐of‐care therapy. We found no conclusive evidence showing whether FA implants is superior to standard‐of‐care therapy in preventing the recurrence of uveitis. We evaluated no other steroid implants. The two included studies did not distinguish between posterior uveitis, panuveitis, and intermediate uveitis. The applicability to a non‐European and minority population in the United States is limited. Quality of the evidence 
+ We downgraded outcomes in this review due to funding bias, imprecision of results, and high risk of bias in individual studies. Specifically, we assessed both studies at high risk of performance and detection bias. The nature of the study question (comparing a steroid implant with systemically administered medications) is certainly problematic from a masking perspective. Potential biases in the review process 
+ We used standard Cochrane methodological procedures in order to minimize potential biases in the review process. We reported all outcomes that were specified in the protocol for this review or reported that no data were available for specified outcomes. Agreements and disagreements with other studies or reviews 
+ Our search identified several review articles discussing the use of corticosteroid implants in the treatment of non‐infectious posterior uveitis, but we did not find any other systematic reviews with which to compare our results. Authors' conclusions 
+ Implications for practice. 
+ In the absence of any substantial newly synthesized evidence for or against the use of corticosteroid implants for non‐infectious uveitis, we are unable to conclude that the implants are superior to standard‐of‐care therapy for the treatment of non‐infectious uveitis. These studies exhibit heterogeneity in design and outcomes measured. Taken together, clinicians and patients will need to anticipate the possibility of an increased risk of post‐implant surgery for cataract and high intraocular pressure. Implications for research. 
+ The paucity of data this review identified using the prespecified inclusion/exclusion criteria, and our inability to perform pooled efficacy analyses indicate that there is a distinct need for further studies of corticosteroid implants for non‐infectious posterior uveitis. Researchers may want to devise research questions that allow for incorporation of study design elements from previously conducted studies to better permit pooled analyses/meta‐analyses, such as: 
+ 
+ better measures that are standardized (e.g. recurrence of uveitis); 
+ homogenous comparators (comparing fluocinolone acetonide or dexamethasone intravitreous implants with standard‐of‐care therapy); 
+ extending to various types of uveitis (e.g. chronic posterior uveitis, intermediate uveitis, panuveitis); and 
+ standardizing standard‐of‐care therapy (e.g. systemic steroids, intravitreal steroids, disease‐modifying antirheumatic drugs) given the heterogeneity of individual therapies, combination regimens and their attendant adverse event profiles. 
+ Acknowledgements 
+ The review authors would like to thank Lori Rosman, Trials Search Co‐ordinator, Cochrane Eyes and Vision (CEV US), for designing the search strategy and conducting the electronic searches. We also acknowledge Miguel Cordero for peer reviewing the review and the Cochrane Eyes and Vision (CEV) editorial team’s support during the preparation of the review. Appendices 
+ Appendix 1. CENTRAL search strategy 
+ #1 MeSH descriptor: [Uveitis] explode all trees 
+#2 uveiti* 
+#3 MeSH descriptor: [Panuveitis] explode all trees 
+#4 Panuveitis 
+#5 MeSH descriptor: [Ophthalmia, Sympathetic] explode all trees 
+#6 (Ophthalm* near/2 Sympathetic) 
+#7 MeSH descriptor: [Pars Planitis] explode all trees 
+#8 Pars Planitis 
+#9 MeSH descriptor: [Panophthalmitis] explode all trees 
+#10 Panophthalmiti* 
+#11 MeSH descriptor: [Uveomeningoencephalitic Syndrome] explode all trees 
+#12 (Uveomeningoencephaliti* or Vogt Koyanagi Harada or VKH or fuch or Harada disease or harada syndrome or vogt koyanagi disease) 
+#13 MeSH descriptor: [Behcet Syndrome] explode all trees 
+#14 (behcet* or triple symptom complex) 
+#15 MeSH descriptor: [Iridocyclitis] explode all trees 
+#16 (Iridocycliti* or Heterochromic Cycliti* or anterior scleritis) 
+#17 MeSH descriptor: [Iritis] explode all trees 
+#18 Iriti* 
+#19 Choroiditis 
+#20 (choroiditi* or retinochoroiditi* or chorioretinitis) 
+#21 (Blau* syndrome or familial juvenile systemic granulomatosis or Jabs disease) 
+#22 (Reiter* disease or reiter* syndrome or conjunctivo urethro synovial or urethrooculosynovial syndrome or uroarthritis) 
+#23 (uveoretinitis or uveo retinitis) 
+#24 vitritis* 
+#25 MeSH descriptor: [Retinitis] explode all trees 
+#26 retinitis or neuroretinitis 
+#27 #1 or #2 or #3 or #4 or #5 or #6 or #7 or #8 or #9 or #10 or #11 or #12 or #13 or #14 or #15 or #16 or #17 or #18 or #19 or #20 or #21 or #22 or #23 or #24 or #25 or #26 
+#28 MeSH descriptor: [Fluocinolone Acetonide] explode all trees 
+#29 (Fluocinolone or Fluortriamcinolone or Synalar or Synemol or Synamol or Alvadermo or Capex or "Co Fluocin" or Cortiespec or Gelidina or Flucinar or Fluocid or Fluodermo or Fluonid or Fluotrex or Flurosyn or Flusolgen or Jellin or Jellisoft or "Derma Smooth FS" or "67‐73‐2") 
+#30 MeSH descriptor: [Dexamethasone] explode all trees 
+#31 (Dexamethasone* or "50‐02‐2" or Millicorten* or maxidex* or decaspray* or dexpak* or dexasone* or oradexon* or decaject* or hexadecadrol* or hexadrol* or methylfluorprednisolone* or decameth*) 
+#32 retisert* 
+#33 MeSH descriptor: [Drug Implants] explode all trees 
+#34 MeSH descriptor: [Drug Delivery Systems] explode all trees 
+#35 (Device* or implant* or shunt* or valve* or tube*) 
+#36 #28 or #29 or #30 or #31 or #32 or #33 or #34 or #35 
+#37 #27 and #36 Appendix 2. MEDLINE (OvidSP) search strategy 
+ 1. Randomized Controlled Trial.pt. 
+2. Controlled Clinical Trial.pt. 
+3. (randomized or randomised).ab,ti. 
+4. placebo.ab,ti. 
+5. drug therapy.fs. 
+6. randomly.ab,ti. 
+7. trial.ab,ti. 
+8. groups.ab,ti. 
+9. 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 
+10. exp animals/ not humans.sh. 
+11. 9 not 10 
+12. exp Uveitis/ 
+13. uveiti*.tw. 
+14. exp Panuveitis/ 
+15. Panuveitis.tw. 
+16. exp Ophthalmia, Sympathetic/ 
+17. (Ophthalm* adj2 Sympathetic).tw. 
+18. exp Pars Planitis/ 
+19. Pars Planitis.tw. 
+20. exp Panophthalmitis/ 
+21. Panophthalmiti*.tw. 
+22. exp Uveomeningoencephalitic Syndrome/ 
+23. (Uveomeningoencephaliti* or Vogt Koyanagi Harada or VKH or fuch or Harada disease or harada syndrome or vogt koyanagi disease).tw. 
+24. exp Behcet Syndrome/ 
+25. (behcet* or triple symptom complex).tw. 
+26. exp Iridocyclitis/ 
+27. (Iridocycliti* or Heterochromic Cycliti* or anterior scleritis).tw. 
+28. exp Iritis/ 
+29. Iriti*.tw. 
+30. exp Choroiditis/ 
+31. (choroiditi* or retinochoroiditi* or chorioretinitis).tw. 
+32. (Blau* syndrome or familial juvenile systemic granulomatosis or Jabs disease).tw. 
+33. (Reiter* disease or reiter* syndrome or conjunctivo urethro synovial or urethrooculosynovial syndrome or uroarthritis).tw. 
+34. (uveoretinitis or uveo retinitis).tw. 
+35. vitritis*.tw. 
+36. exp Retinitis/ 
+37. (retinitis or neuroretinitis).tw. 
+38. or/12‐37 
+39. exp Fluocinolone Acetonide/ 
+40. (Fluocinolone or Fluortriamcinolone or Synalar or Synemol or Synamol or Alvadermo or Capex or Co‐Fluocin or Cortiespec or Gelidina or Flucinar or Fluocid or Fluodermo or Fluonid or Fluotrex or Flurosyn or Flusolgen or Jellin or Jellisoft or Derma Smooth FS or 67‐73‐2).tw. 
+41. exp Dexamethasone/ 
+42. (Dexamethasone* or 50‐02‐2 or Millicorten* or maxidex* or decaspray* or dexpak* or dexasone* or oradexon* or decaject* or hexadecadrol* or hexadrol* or methylfluorprednisolone* or decameth*).tw. 
+43. retisert*.tw. 
+44. exp Drug Implants/ 
+45. exp Absorbable Implants/ 
+46. exp Drug Delivery Systems/ 
+47. (Device* or implant* or shunt* or valve* or tube*).tw. 
+48. 39 or 40 or 41 or 42 or 43 or 44 or 45 or 46 or 47 
+49. or/39‐48 
+50. 11 and 38 and 49 
+51. ..dedup 50 
+ The search filter for trials at the beginning of the MEDLINE strategy is from the published paper by Glanville et al ( Glanville 2006 ). Appendix 3. EMBASE.com search strategy 
+ #1 'randomized controlled trial'/exp 
+#2 'randomization'/exp 
+#3 'double blind procedure'/exp 
+#4 'single blind procedure'/exp 
+#5 random*:ab,ti 
+#6 #1 OR #2 OR #3 OR #4 OR #5 
+#7 'animal'/exp OR 'animal experiment'/exp 
+#8 'human'/exp 
+#9 #7 AND #8 
+#10 #7 NOT #9 
+#11 #6 NOT #10 
+#12 'clinical trial'/exp 
+#13 (clin* NEAR/3 trial*):ab,ti 
+#14 ((singl* OR doubl* OR trebl* OR tripl*) NEAR/3 (blind* OR mask*)):ab,ti 
+#15 'placebo'/exp 
+#16 placebo*:ab,ti 
+#17 random*:ab,ti 
+#18 'experimental design'/exp 
+#19 'crossover procedure'/exp 
+#20 'control group'/exp 
+#21 'latin square design'/exp 
+#22 #12 OR #13 OR #14 OR #15 OR #16 OR #17 OR #18 OR #19 OR #20 OR #21 
+#23 #22 NOT #10 
+#24 #23 NOT #11 
+#25 'comparative study'/exp 
+#26 'evaluation'/exp 
+#27 'prospective study'/exp 
+#28 control*:ab,ti OR prospectiv*:ab,ti OR volunteer*:ab,ti 
+#29 #25 OR #26 OR #27 OR #28 
+#30 #29 NOT #10 
+#31 #30 NOT (#11 OR #23) 
+#32 #11 OR #24 OR #31 
+#33 'uveitis'/exp 
+#34 uveiti*:ab,ti 
+#35 'autoimmune uveitis'/exp 
+#36 'behcet disease'/exp 
+#37 behcet*:ab,ti OR 'triple symptom complex':ab,ti 
+#38 'blau syndrome'/exp 
+#39 (blau* NEXT/1 syndrome):ab,ti OR 'familial juvenile systemic granulomatosis':ab,ti OR 'jabs disease':ab,ti 
+#40 'choroiditis'/exp 
+#41 choroiditi*:ab,ti OR chorioiditi*:ab,ti 
+#42 'chorioretinitis'/exp 
+#43 retinochoroiditi*:ab,ti OR chorioretiniti*:ab,ti 
+#44 'vogt koyanagi syndrome'/exp 
+#45 uveomeningoencephaliti*:ab,ti OR 'vogt koyanagi harada':ab,ti OR vkh:ab,ti OR fuch:ab,ti OR 'harada disease':ab,ti OR 'harada syndrome':ab,ti OR 'vogt koyanagi disease':ab,ti 
+#46 'intermediate uveitis'/exp 
+#47 'pars planitis':ab,ti 
+#48 'iridocyclitis'/exp 
+#49 iridocycliti*:ab,ti OR (heterochromic NEXT/1 cycliti*):ab,ti OR 'anterior scleritis':ab,ti 
+#50 'iritis'/exp 
+#51 iriti*:ab,ti 
+#52 'kirisawa uveitis'/exp 
+#53 'reiter syndrome'/exp 
+#54 (reiter* NEXT/1 disease):ab,ti OR (reiter* NEXT/1 syndrome):ab,ti OR 'conjunctivo urethro synovial':ab,ti OR 'urethrooculosynovial syndrome':ab,ti OR uroarthritis:ab,ti 
+#55 'sympathetic ophthalmia'/exp 
+#56 (ophthalm* NEXT/2 sympathetic):ab,ti 
+#57 'uveoretinitis'/exp 
+#58 uveoretinitis:ab,ti OR 'uveo retinitis':ab,ti 
+#59 'vitritis'/exp 
+#60 vitritis*:ab,ti 
+#61 panuveitis:ab,ti 
+#62 panophthalmiti*:ab,ti 
+#63 'retinitis'/exp 
+#64 retinitis:ab,ti OR neuroretinitis:ab,ti 
+#65 #33 OR #34 OR #35 OR #36 OR #37 OR #38 OR #39 OR #40 OR #41 OR #42 OR #43 OR #44 OR #45 OR #46 OR #47 OR #48 OR #49 OR #50 OR #51 OR #52 OR #53 OR #54 OR #55 OR #56 OR #57 OR #58 OR #59 OR #60 OR #61 OR #62 OR #63 OR #64 
+#66 'fluocinolone acetonide'/exp 
+#67 fluocinolone:tn,rn,ab,ti OR adermina:tn,rn,ab,ti OR alfabios:tn,rn,ab,ti OR 'alvadermo fuerte':tn,rn,ab,ti OR aplosyn:tn,rn,ab,ti OR capex:tn,rn,ab,ti OR cervicum:tn,rn,ab,ti OR cinolon:tn,rn,ab,ti OR clofeet:tn,rn,ab,ti OR cortilona:tn,rn,ab,ti OR cremisona:tn,rn,ab,ti OR cynozet:tn,rn,ab,ti OR 'derma smooth':tn,rn,ab,ti OR 'derma smoothe':tn,rn,ab,ti OR dermalar:tn,rn,ab,ti OR dermoflam:tn,rn,ab,ti OR dermoran:tn,rn,ab,ti OR esacinone:tn,rn,ab,ti OR flozet:tn,rn,ab,ti OR fluciderm:tn,rn,ab,ti OR flulone*:tn,rn,ab,ti OR fluocet:tn,rn,ab,ti OR fluocinolon*:tn,rn,ab,ti OR fluoderm:tn,rn,ab,ti OR fluolar:tn,rn,ab,ti OR fluonid:tn,rn,ab,ti OR fluonide:tn,rn,ab,ti OR fluotrex:tn,rn,ab,ti OR fluquinol:tn,rn,ab,ti OR flurosyn:tn,rn,ab,ti OR flusonlen:tn,rn,ab,ti OR fluzon:tn,rn,ab,ti OR 'fs shampoo':tn,rn,ab,ti OR fusalar:tn,rn,ab,ti OR iluvien:tn,rn,ab,ti OR inoderm:tn,rn,ab,ti OR jellin:tn,rn,ab,ti OR localyn:tn,rn,ab,ti OR luci:tn,rn,ab,ti OR medidur:tn,rn,ab,ti OR neosynalar:tn,rn,ab,ti OR psoranide:tn,rn,ab,ti OR radiocin:tn,rn,ab,ti OR retisert:tn,rn,ab,ti OR 'rs 1401 at':tn,rn,ab,ti OR 'rs1401 at':tn,rn,ab,ti OR supralan:tn,rn,ab,ti OR synalar:tn,rn,ab,ti OR synandone:tn,rn,ab,ti OR synemol:tn,rn,ab,ti OR synotic:tn,rn,ab,ti OR syntopic:tn,rn,ab,ti OR trisyn:tn,rn,ab,ti OR '67 73 2':tn,rn,ab,ti 
+#68 'dexamethasone'/exp 
+#69 dexamethasone:tn,rn,ab,ti OR adrecort:tn,rn,ab,ti OR adrenocot:tn,rn,ab,ti OR 'aeroseb dex':tn,rn,ab,ti OR aflucoson:tn,rn,ab,ti OR aflucosone:tn,rn,ab,ti OR alfalyl:tn,rn,ab,ti OR anaflogistico:tn,rn,ab,ti OR arcodexan:tn,rn,ab,ti OR arcodexane:tn,rn,ab,ti OR artrosone:tn,rn,ab,ti OR azium:tn,rn,ab,ti OR bidexol:tn,rn,ab,ti OR calonat:tn,rn,ab,ti OR cebedex:tn,rn,ab,ti OR cetadexon:tn,rn,ab,ti OR colofoam:tn,rn,ab,ti OR corsona:tn,rn,ab,ti OR cortastat:tn,rn,ab,ti OR cortidex:tn,rn,ab,ti OR cortidexason:tn,rn,ab,ti OR cortidrona:tn,rn,ab,ti OR cortidrone:tn,rn,ab,ti OR cortisumman:tn,rn,ab,ti OR 'dacortina fuerte':tn,rn,ab,ti OR 'dacortine fuerte':tn,rn,ab,ti OR dalalone:tn,rn,ab,ti OR danasone:tn,rn,ab,ti OR 'de‐sone la':tn,rn,ab,ti OR decacortin:tn,rn,ab,ti OR decadeltosona:tn,rn,ab,ti OR decadeltosone:tn,rn,ab,ti OR decaderm:tn,rn,ab,ti OR decadion:tn,rn,ab,ti OR decadran:tn,rn,ab,ti OR decadron:tn,rn,ab,ti OR decadronal:tn,rn,ab,ti OR decadrone:tn,rn,ab,ti OR decaesadril:tn,rn,ab,ti OR decaject:tn,rn,ab,ti OR decamethasone:tn,rn,ab,ti OR decasone:tn,rn,ab,ti OR decaspray:tn,rn,ab,ti OR decasterolone:tn,rn,ab,ti OR decdan:tn,rn,ab,ti OR decilone:tn,rn,ab,ti OR decofluor:tn,rn,ab,ti OR dectancyl:tn,rn,ab,ti OR dekacort:tn,rn,ab,ti OR delladec:tn,rn,ab,ti OR deltafluoren:tn,rn,ab,ti OR deltafluorene:tn,rn,ab,ti OR dergramin:tn,rn,ab,ti OR deronil:tn,rn,ab,ti OR desacort:tn,rn,ab,ti OR desacortone:tn,rn,ab,ti OR desadrene:tn,rn,ab,ti OR desalark:tn,rn,ab,ti OR desameton:tn,rn,ab,ti OR desametone:tn,rn,ab,ti OR desigdron:tn,rn,ab,ti OR 'dexa‐p':tn,rn,ab,ti OR 'dexa cortisyl':tn,rn,ab,ti OR 'dexa dabrosan':tn,rn,ab,ti OR 'dexa korti':tn,rn,ab,ti OR 'dexa scherosan':tn,rn,ab,ti OR 'dexa scherozon':tn,rn,ab,ti OR 'dexa scherozone':tn,rn,ab,ti OR 'dexacen 4':tn,rn,ab,ti OR dexachel:tn,rn,ab,ti OR dexacort:tn,rn,ab,ti OR dexacortal:tn,rn,ab,ti OR dexacorten:tn,rn,ab,ti OR dexacortin:tn,rn,ab,ti OR dexacortisyl:tn,rn,ab,ti OR dexadabroson:tn,rn,ab,ti OR dexadecadrol:tn,rn,ab,ti OR dexadrol:tn,rn,ab,ti OR dexagel:tn,rn,ab,ti OR dexagen:tn,rn,ab,ti OR dexahelvacort:tn,rn,ab,ti OR dexakorti:tn,rn,ab,ti OR dexalien:tn,rn,ab,ti OR dexalocal:tn,rn,ab,ti OR dexame:tn,rn,ab,ti OR dexamecortin:tn,rn,ab,ti OR dexameson:tn,rn,ab,ti OR dexamesone:tn,rn,ab,ti OR dexametason:tn,rn,ab,ti OR dexametasone:tn,rn,ab,ti OR dexameth:tn,rn,ab,ti OR dexamethason:tn,rn,ab,ti OR dexamethazon:tn,rn,ab,ti OR dexamethazone:tn,rn,ab,ti OR dexamethonium:tn,rn,ab,ti OR dexamonozon:tn,rn,ab,ti OR dexan:tn,rn,ab,ti OR dexane:tn,rn,ab,ti OR dexano:tn,rn,ab,ti OR dexapot:tn,rn,ab,ti OR dexascheroson:tn,rn,ab,ti OR dexascherozon:tn,rn,ab,ti OR dexascherozone:tn,rn,ab,ti OR dexason:tn,rn,ab,ti OR dexasone:tn,rn,ab,ti OR dexinoral:tn,rn,ab,ti OR dexionil:tn,rn,ab,ti OR dexmethsone:tn,rn,ab,ti OR dexona:tn,rn,ab,ti OR dexone:tn,rn,ab,ti OR 'dexpak taperpak':tn,rn,ab,ti OR dextelan:tn,rn,ab,ti OR dextrasone:tn,rn,ab,ti OR dezone:tn,rn,ab,ti OR dibasona:tn,rn,ab,ti OR doxamethasone:tn,rn,ab,ti OR esacortene:tn,rn,ab,ti OR 'ex s1':tn,rn,ab,ti OR exadion:tn,rn,ab,ti OR exadione:tn,rn,ab,ti OR firmalone:tn,rn,ab,ti OR 'fluormethyl prednisolone':tn,rn,ab,ti OR 'fluormethylprednisolon':tn,rn,ab,ti OR fluormethylprednisolone:tn,rn,ab,ti OR fluormone:tn,rn,ab,ti OR fluorocort:tn,rn,ab,ti OR fluorodelta:tn,rn,ab,ti OR fluoromethylprednisolone:tn,rn,ab,ti OR fortecortin:tn,rn,ab,ti OR gammacorten:tn,rn,ab,ti OR gammacortene:tn,rn,ab,ti OR grosodexon:tn,rn,ab,ti OR grosodexone:tn,rn,ab,ti OR hexadecadiol:tn,rn,ab,ti OR hexadecadrol:tn,rn,ab,ti OR hexadiol:tn,rn,ab,ti OR hexadrol:tn,rn,ab,ti OR isnacort:tn,rn,ab,ti OR 'isopto dex':tn,rn,ab,ti OR 'isopto maxidex':tn,rn,ab,ti OR isoptodex:tn,rn,ab,ti OR isoptomaxidex:tn,rn,ab,ti OR 'lokalison f':tn,rn,ab,ti OR loverine:tn,rn,ab,ti OR luxazone:tn,rn,ab,ti OR marvidione:tn,rn,ab,ti OR maxidex:tn,rn,ab,ti OR mediamethasone:tn,rn,ab,ti OR megacortin:tn,rn,ab,ti OR mephameson:tn,rn,ab,ti OR mephamesone:tn,rn,ab,ti OR metasolon:tn,rn,ab,ti OR metasolone:tn,rn,ab,ti OR 'methazon ion':tn,rn,ab,ti OR 'methazone ion':tn,rn,ab,ti OR methazonion:tn,rn,ab,ti OR methazonione:tn,rn,ab,ti OR 'metisone lafi':tn,rn,ab,ti OR mexasone:tn,rn,ab,ti OR millicorten:tn,rn,ab,ti OR millicortenol:tn,rn,ab,ti OR 'mk 125':tn,rn,ab,ti OR 'mk125':tn,rn,ab,ti OR mymethasone:tn,rn,ab,ti OR nisomethasona:tn,rn,ab,ti OR novocort:tn,rn,ab,ti OR 'nsc 34521':tn,rn,ab,ti OR 'nsc34521':tn,rn,ab,ti OR 'oftan‐dexa':tn,rn,ab,ti OR opticorten:tn,rn,ab,ti OR opticortinol:tn,rn,ab,ti OR oradexan:tn,rn,ab,ti OR oradexon:tn,rn,ab,ti OR oradexone:tn,rn,ab,ti OR orgadrone:tn,rn,ab,ti OR ozurdex:tn,rn,ab,ti OR pidexon:tn,rn,ab,ti OR policort:tn,rn,ab,ti OR posurdex:tn,rn,ab,ti OR 'predni‐f':tn,rn,ab,ti OR 'prednisolone f':tn,rn,ab,ti OR prodexona:tn,rn,ab,ti OR prodexone:tn,rn,ab,ti OR sanamethasone:tn,rn,ab,ti OR santenson:tn,rn,ab,ti OR santeson:tn,rn,ab,ti OR sawasone:tn,rn,ab,ti OR solurex:tn,rn,ab,ti OR spoloven:tn,rn,ab,ti OR sterasone:tn,rn,ab,ti OR thilodexine:tn,rn,ab,ti OR triamcimetil:tn,rn,ab,ti OR vexamet:tn,rn,ab,ti OR visumetazone:tn,rn,ab,ti OR visumethazone:tn,rn,ab,ti OR '50‐02‐2':tn,rn,ab,ti 
+#70 'drug delivery system'/exp 
+#71 'drug implant'/exp 
+#72 'biodegradable implant'/exp 
+#73 device*:ab,ti OR implant*:ab,ti OR shunt*:ab,ti OR valve*:ab,ti OR tube*:ab,ti 
+#74 #66 OR #67 OR #68 OR #69 OR #70 OR #71 OR #72 OR #73 
+#75 #34 AND #65 AND #74 Appendix 4. PubMed search strategy 
+ 1. ((randomized controlled trial[pt]) OR (controlled clinical trial[pt]) OR (randomised[tiab] OR randomized[tiab]) OR (placebo[tiab]) OR (drug therapy[sh]) OR (randomly[tiab]) OR (trial[tiab]) OR (groups[tiab])) NOT (animals[mh] NOT humans[mh]) 
+2. uveiti*[tw] OR Panuveitis[tw] OR (Ophthalm*[tw] AND Sympathetic[tw]) OR Pars Planitis[tw] OR Panophthalmiti*[tw] OR Uveomeningoencephaliti*[tw] OR Vogt Koyanagi Harada[tw] OR VKH[tw] OR fuch[tw] OR Harada disease[tw] OR harada syndrome[tw] OR vogt koyanagi disease[tw] OR behcet*[tw] OR triple symptom complex[tw] OR Iridocycliti*[tw] OR Heterochromic Cycliti*[tw] OR anterior scleritis[tw] OR Iriti*[tw] OR choroiditi*[tw] OR retinochoroiditi*[tw] OR chorioretinitis[tw] OR Blau* syndrome[tw] OR familial juvenile systemic granulomatosis[tw] OR Jabs disease[tw] OR Reiter* disease[tw] OR reiter* syndrome[tw] OR conjunctivo urethro synovial[tw] OR urethrooculosynovial syndrome[tw] OR uroarthritis[tw] OR uveoretinitis[tw] OR uveo retinitis[tw] OR vitritis*[tw] OR retinitis[tw] OR neuroretinitis[tw] 
+3. Fluocinolone[tw] OR Fluortriamcinolone[tw] OR Synalar[tw] OR Synemol[tw] OR Synamol[tw] OR Alvadermo[tw] OR Capex[tw] OR Co Fluocin[tw] OR Cortiespec[tw] OR Gelidina[tw] OR Flucinar[tw] OR Fluocid[tw] OR Fluodermo[tw] OR Fluonid[tw] OR Fluotrex[tw] OR Flurosyn[tw] OR Flusolgen[tw] OR Jellin[tw] OR Jellisoft[tw] OR Derma Smooth FS[tw] OR 67‐73‐2[tw] OR Dexamethasone*[tw] OR 50‐02‐2[tw] OR Millicorten*[tw] OR maxidex*[tw] OR decaspray*[tw] OR dexpak*[tw] OR dexasone*[tw] OR oradexon*[tw] OR decaject*[tw] OR hexadecadrol*[tw] OR hexadrol*[tw] OR methylfluorprednisolone*[tw] OR decameth*[tw] OR retisert*[tw] OR Device*[tw] OR implant*[tw] OR shunt*[tw] OR valve*[tw] OR tube[tw] OR tubes[tw] 
+4. #2 AND #3 
+5. #1 AND #4 
+6. MEDLINE[sb] 
+7. #5 NOT #6 Appendix 5. LILACS search strategy 
+ ((Uveitis or Uveítis or Uveíte or MH:C11.941.879$ or Panuveitis or Panuveítis or Panuveíte or "Ophthalmia Sympathetic" or "Oftalmía Simpática" or "Oftalmia Simpática" or "Pars Planitis" or "Pars Planite" or "Panophthalmitis" or "Panoftalmitis" or "Panoftalmite" or MH:C01.252.354.900.675$ or MH:C01.539.375.354.900.675$ or MH:C01.539.375.450.900.675$ or MH:C01.703.343.900.675$ or MH:C11.294.354.900.675$ or MH:C11.294.450.900.675$ or "Uveomeningoencephalitic Syndrome" or "Síndrome Uveomeningoencefálico" or "Síndrome Uveomeningoencefálica" or MH:C10.114.843$ or MH:C10.228.228.553.900$ or MH:C20.111.258.925$ or Uveomeningoencephalitis or "Vogt Koyanagi Harada" or "Harada disease" or "harada syndrome" or "vogt koyanagi disease" or "Behcet syndrome" or "Síndrome de Behçet" or MH:C07.465.075$ or MH:C14.907.940.100$ or MH:C17.800.862.150$ or "triple symptom complex" or Iridocyclitis or Iridociclitis or Iridociclite or MH:C11.941.375.360$ or "Heterochromic Cyclitis" or MH:C11.941.160.478$ or chorioretinitis or Retinitis or Retinite or MH:C11.768.773$) AND ("Fluocinolone Acetonide" or "Fluocinolona Acetonida" or MH:D04.808.745.432.370$ or MH:D04.808.908.394$ or Dexamethasone or Dexametasona or MH:D04.808.745.432.769.344$ or MH:D04.808.908.238$ or MH:D26.255.210.315$ or MH:D27.720.280.210.315$ or MH:E07.695.025$ or "Drug Delivery Systems" or "Sistemas de Liberación de Medicamentos" or "Sistemas de Liberação de Medicamentos" or MH:E02.319.300$ or Device$ or implant$ or shunt$ or valve$ or tube or tubes)) Appendix 6. meta Register of Controlled Trials search strategy 
+ (uveitis OR panuveitis OR choroiditis OR pars planitis OR panophthalmitis OR uveomeningoencephalitic OR behcet OR iridocyclitis OR iritis OR retinitis) AND (fluocinolone OR dexamethasone OR retisert* OR device* OR implant* OR shunt* OR valve* OR tube*) Appendix 7. ClinicalTrials.gov search strategy 
+ (uveitis OR panuveitis OR choroiditis OR pars planitis OR panophthalmitis OR uveomeningoencephalitic OR behcet OR iridocyclitis OR iritis OR retinitis) AND (fluocinolone OR dexamethasone OR retisert OR device OR implant OR shunt OR valve OR tube) Appendix 8. ICTRP search strategy 
+ uveitis AND fluocinolone OR uveitis AND dexamethasone OR uveitis AND retisert OR uveitis AND device OR uveitis AND implant OR uveitis AND shunt OR uveitis AND valve OR uveitis AND tube OR panuveitis AND fluocinolone OR panuveitis AND dexamethasone OR panuveitis AND retisert OR panuveitis AND device OR panuveitis AND implant OR panuveitis AND shunt OR panuveitis AND valve OR panuveitis AND tube OR choroiditis AND fluocinolone OR choroiditis AND dexamethasone OR choroiditis AND retisert OR choroiditis AND device OR choroiditis AND implant OR choroiditis AND shunt OR choroiditis AND valve OR choroiditis AND tube OR pars planitis AND fluocinolone OR pars planitis AND dexamethasone OR pars planitis AND retisert OR pars planitis AND device OR pars planitis AND implant OR pars planitis AND shunt OR pars planitis AND valve OR pars planitis AND tube OR panophthalmitis AND fluocinolone OR panophthalmitis AND dexamethasone OR panophthalmitis AND retisert OR panophthalmitis AND device OR panophthalmitis AND implant OR panophthalmitis AND shunt OR panophthalmitis AND valve OR panophthalmitis AND tube 
+ uveomeningoencephalitic AND fluocinolone OR uveomeningoencephalitic AND dexamethasone OR uveomeningoencephalitic AND retisert OR uveomeningoencephalitic AND device OR uveomeningoencephalitic AND implant OR uveomeningoencephalitic AND shunt OR uveomeningoencephalitic AND valve OR uveomeningoencephalitic AND tube OR behcet AND fluocinolone OR behcet AND dexamethasone OR behcet AND retisert OR behcet AND device OR behcet AND implant OR behcet AND shunt OR behcet AND valve OR behcet AND tube OR iridocyclitis AND fluocinolone OR iridocyclitis AND dexamethasone OR iridocyclitis AND retisert OR iridocyclitis AND device OR iridocyclitis AND implant OR iridocyclitis AND shunt OR iridocyclitis AND valve OR iridocyclitis AND tube OR iritis AND fluocinolone OR iritis AND dexamethasone OR iritis AND retisert OR iritis AND device OR iritis AND implant OR iritis AND shunt OR iritis AND valve OR iritis AND tube OR retinitis AND fluocinolone OR retinitis AND dexamethasone OR retinitis AND retisert OR retinitis AND device OR retinitis AND implant OR retinitis AND shunt OR retinitis AND valve OR retinitis AND tube Data and analyses 
+ Comparison 1. Fluocinolone implant versus standard‐of‐care. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Outcome or subgroup title 
+ No. of studies 
+ No. of participants 
+ Statistical method 
+ Effect size 
+ 
+ 
+ 
+ 1 Cataract formation or progression through 24 months 
+ 2 
+ 210 
+ Risk Ratio (M‐H, Fixed, 95% CI) 
+ 2.71 [2.06, 3.56] 
+ 
+ 
+ 2 Cataract surgery through 24 months 
+ 2 
+ 371 
+ Risk Ratio (M‐H, Fixed, 95% CI) 
+ 2.98 [2.33, 3.79] 
+ 
+ 
+ 3 Elevated intraocular pressure > 10 mmHg cumulative through 24 months 
+ 2 
+ 605 
+ Risk Ratio (M‐H, Fixed, 95% CI) 
+ 3.64 [2.71, 4.87] 
+ 
+ 
+ 4 Endophthalmitis through 24 months 
+ 2 
+ 607 
+ Risk Ratio (M‐H, Fixed, 95% CI) 
+ 7.30 [0.91, 58.72] 
+ 
+ 
+ 5 Retinal detachment through 24 months 
+ 2 
+ 606 
+ Risk Ratio (M‐H, Fixed, 95% CI) 
+ 2.07 [0.51, 8.40] 
+ 
+ 
+ 6 IOP‐lowering surgery performed through 24 months 
+ 2 
+ 599 
+ Risk Ratio (M‐H, Fixed, 95% CI) 
+ 7.48 [3.94, 14.19] 
+ 
+ 
+ 7 Hypotony through 24 months 
+ 2 
+ 586 
+ Risk Ratio (M‐H, Fixed, 95% CI) 
+ 2.27 [1.24, 4.14] 
+ 
+ 
+ 
+ Open in a new tab Characteristics of studies 
+ Characteristics of included studies [ordered by study ID] 
+ 
+ Kempen 2011 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Methods 
+ 
+ Study design: parallel‐group, randomized controlled trial Number randomized: Total : 255 participants (479 eyes) FA implant group: 129 participants (245 eyes) Standard‐of‐care group: 126 participants (234 eyes) Number analyzed: Total: 255 participants (479 eyes) FA implant group: 129 participants (245 eyes) Standard‐of‐care group: 126 participants (234 eyes) Exclusions and loss to follow‐up: Total: 23 participants FA implant group: 11 participants Standard‐of‐care group: 12 participants Study follow‐up: 24 months 
+ 
+ 
+ Participants 
+ 
+ Country : Australia, United Kingdom, United States Age (mean ± SD, range): 46.3 ± 15.0, 34 to 56 years Gender : Overall: Women: 192/255 participants (75%) Men: 63/255 participants (25%) By group: not reported Inclusion criteria: "1. Age 13 years or older 2. Diagnosis of noninfectious intermediate uveitis, posterior uveitis, or panuveitis by a MUST‐certified ophthalmologist 3. Active uveitis of a degree for which systemic corticosteroid therapy is indicated in the judgment of a MUST‐certified ophthalmologist or such uveitis active within the last 60 days as determined either by examination by a MUST‐certified ophthalmologist or by review of ophthalmic medical records by a MUST‐certified ophthalmologist 4. Uveitis with or without an associated systemic disease is acceptable; however, the systemic disease must not be sufficiently active that it dictates therapy with oral corticosteroids or immunosuppressive agents at the time of study entry 5. Best‐corrected visual acuity of hand movements or better in at least 1 eye with uveitis 6. Baseline intraocular pressure of 24 mm Hg or less in all eyes with uveitis 7. Collection of required baseline data within 10 days before randomization 8. Signed informed consent" Exclusion criteria: "1. Use of a fluocinolone acetonide implant within the last 3 years 2. Diabetes mellitus that is inadequately controlled, according to best medical judgment 3. A known allergy to a required study medication 4. Uncontrolled glaucoma 5. Advanced glaucomatous optic nerve injury meeting the following criteria: (1) for patients able to undertake a Humphrey visual field analysis, depression of 2 points or more within 10 degrees of fixation by at least 10 dB, mean deviation worse than –15 dB, or both; (2) for patients unable to undertake a Humphrey visual field analysis, vertical cup‐to‐disc ratio [1]0.9 6. A history of scleritis (because of concerns regarding the potential for scleral melting with local corticosteroid therapy) 7. Presence of an ocular toxoplasmosis scar 8. Pregnancy 9. Current breastfeeding 10. Known human immunodeficiency virus infection or other immunodeficiency disease for which corticosteroid therapy would be contraindicated according to best medical judgment 11. Patients for whom participation in the trial would constitute a risk exceeding the potential benefits of study participation, in the judgment of the treating physician 12. Medical problems or drug or alcohol dependence problems sufficient to prevent adherence to treatment and study procedures" Participants with unilateral and asymmetric bilateral disease were included: For participants with unilateral disease, the affected eye was the study eye. For participants with asymmetric bilateral disease, both eyes were study eyes. 
+ 
+ 
+ Interventions 
+ 
+ FA implant: surgical FA implant (0.59 mg) placement Standard‐of‐care: “systemic therapy following expert guidelines” "Most cases had active inflammation at baseline and received 1 mg/kg/day up to 60 mg/day of prednisone until either the uveitis was controlled or 4 weeks had elapsed. After control was achieved, prednisone was tapered per study guidelines. Cases already suppressed at baseline began by tapering from their initial prednisone dose. Immunosuppression was indicated for (1) failure to initially control inflammation using corticosteroids; (2) corticosteroid‐sparing in cases consistently reactivating before reaching a prednisone dose of 10 mg/day; and (3) specific high‐risk uveitis syndromes. When indicated, clinicians selected the approved immunosuppressant most suitable for each patient; administration and monitoring for toxicity followed guidelines.8 Uveitis experts regularly monitored treatment regimens for protocol compliance at site visits." P1917 General procedures: ophthalmologic examination 
+ 
+ 
+ Outcomes 
+ 
+ Primary outcome: change in best‐corrected visual acuity from baseline Secondary outcome(s): patient‐reported quality of life, ophthalmologist‐graded uveitis activity, and local and systemic complications of uveitis or therapy Other outcomes(s): hyperlipidemia diagnosis requiring treatment, cumulative over 24 months, hypertension diagnosis requiring treatment, cumulative through 24 months, diabetes mellitus, cumulative through 24 months, osteoporosis, cumulative through 24 months, white blood cell count < 2500/microliter, cumulative through 24 months, elevated liver enzymes, cumulative through 24 months, elevated creatinine, cumulative through 24 months, cancer diagnosis through 24 months, death through 24 months Measurements taken: outcomes assessed at 1 month after enrollment, 3 months after enrollment, and then at 3‐month intervals until 24 months Unit of analysis: mix of individuals and eyes (one eye of 31 participants (12%) and both eyes of 224 participants (88%), respectively, were study eyes) Sample size calculation: "By assuming bilateral disease in 67% of patients, a between eye correlation of 0.4, a standard deviation of 16 letters’ change over 2 years, and a 2‐sided type 1 error rate of 0.05, a sample size of 250 provided 91% power (assuming 10% crossover) to detect a treatment difference of 7.5 standard Early Treatment of Diabetic Retinopathy Study letters’ change in visual acuity from baseline to 24 months, a difference similar to that which drove widespread use of expensive new retinal treatments in other trials that tested them. One interim analysis using the O’Brien‐Fleming‐spending function was conducted; the nominal type 1 error rate was 0.049 for the final analysis." 
+ 
+ 
+ Notes 
+ 
+ Study dates: December 2005 to December 2008 Funding sources: National Eye Institute, Research to Prevent Blindness, Paul and Evanina Mackall Foundation. Bausch and Lomb provided “support to the study in the form of a donation of a limited number of fluocinolone implants to patients who were … uninsured or otherwise unable to pay for the implants” Declaration of interest: "Dr Kempen is a consultant for Alcon Laboratories, Allergan Pharmaceutical Corporation, Lux Biosciences Inc, and Sanofi Pasteur SA. Dr Jabs is a consultant for Abbott Laboratories, Alcon Laboratories, Allergan Pharmaceutical Corporation, Corcept Therapeutics, Genentech Inc, Genzyme Corporation, GlaxoSmithKline, Novartis Pharmaceutical Corporation, Roche Pharmaceuticals, and Applied Genetic Technologies Corporation. Dr Louis is a consultant for Bristol‐Myers Squibb, Medtronic Inc, and the National Institute of Diabetes and Digestive and Kidney Diseases. Dr Thorne is a consultant for Heron Evidence Ltd, and Allergan. Drs Altaweel, Holbrook, and Sugar have no conflicts of interest." Trial registry: NCT00132691 (clinicaltrials.gov) Publication language: English 
+ 
+ Risk of bias 
+ 
+ Bias 
+ Authors' judgement 
+ Support for judgement 
+ 
+ 
+ Random sequence generation (selection bias) 
+ Low risk 
+ “Patients were randomized to implant or systemic therapy; patients with bilateral uveitis were assigned to receive implants in each eye meeting eligibility criteria. Randomization (1:1 ratio) was by variable length, permuted blocks within 2 strata (clinical center, intermediate vs posterior or panuveitis), with assignments produced by Stata 11.0 (StataCorp 2009, Stata Statistical Software: Release 11; StataCorp LP, College Station, TX).” P1917 
+ 
+ 
+ Allocation concealment (selection bias) 
+ Low risk 
+ “After data entry confirmed a subject’s eligibility and stratum, the study Web site revealed the next treatment assignment.” P1917 
+ 
+ 
+ Masking of participants and personnel (performance bias) 
+ High risk 
+ “Study‐certified visual acuity examiners measured best‐corrected visual acuity as the number of letters read from standard logarithmic visual acuity charts; 14 change in this measure from baseline to 24 months was the primary outcome.” P1917 “Other than at the 1‐ and 3‐month visits, when postoperative signs were expected to be visible, visual acuity examiners were masked.” P1917 “Secondary outcomes included patient‐reported quality of life, ophthalmologist‐graded uveitis activity, and local and systemic complications of uveitis or therapy. Reading Center graders and glaucoma specialists assessing ocular complications were masked. Participants, ophthalmologists, and coordinators were unmasked.” P1916 
+ 
+ 
+ Masking of outcome assessment (detection bias) 
+ High risk 
+ “Study‐certified visual acuity examiners measured best‐corrected visual acuity as the number of letters read from standard logarithmic visual acuity charts; 14 change in this measure from baseline to 24 months was the primary outcome.” P1917 “Other than at the 1‐ and 3‐month visits, when postoperative signs were expected to be visible, visual acuity examiners were masked.” P1917 “Secondary outcomes included patient‐reported quality of life, ophthalmologist‐graded uveitis activity, and local and systemic complications of uveitis or therapy. Reading Center graders and glaucoma specialists assessing ocular complications were masked. Participants, ophthalmologists, and coordinators were unmasked.” P1916 
+ 
+ 
+ Incomplete outcome data (attrition bias)  
+All outcomes 
+ Unclear risk 
+ “Among patients randomized, 232 (435 eyes with uveitis; 91%) completed visual acuity measurement at the 24‐month follow‐up visit. Overall, 4415 of 4790 study visits (92%) were completed for the primary outcome through 24 months.” P1919 “Analyses were conducted 'as randomized.'” P1918 
+ 
+ 
+ Selective reporting (reporting bias) 
+ Low risk 
+ All outcomes defined in trial registry were reported. 
+ 
+ 
+ Other bias 
+ Unclear risk 
+ The study was federally funded, although the device manufacturer “Bausch & Lomb provided support to the study in the form of donation of fluocinolone implants for patients randomized to implant therapy who were uninsured or otherwise unable to pay for implants, or were located at a site where implants could not be purchased (e.g., in the United Kingdom).” P1926 “A representative of the National Eye Institute participated in the conduct of the study, including the study design and the collection, management, analysis, and interpretation of the data, and in the review and approval of this manuscript.” P1926 
+ 
+ 
+ 
+ Open in a new tab 
+ Pavesio 2010 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Methods 
+ 
+ Study design: parallel‐group, randomized controlled trial Number randomized: Total: 146 participants FA implant group: 72 participants Standard‐of‐care group: 74 participants Number analyzed at 24 months' follow‐up: Total: 140 participants FA implant group: 66 participants Standard‐of‐care group: 74 participants Exclusions and loss to follow‐up: 6 treatment group participants excluded due to administrative problems (3), consent withdrawal (2), adverse events (1) Study follow‐up: 24 months 
+ 
+ 
+ Participants 
+ 
+ Countries: France, Germany, Israel, Italy, Portugal, Saudi Arabia, Spain, Switzerland, Turkey, United Kingdom Age (mean ± SD, range) : Overall: not reported FA implant group: 40.4 ± 14.4 years, 12 to 75 years Standard‐of‐care group: 43.1 ± 13.5 years, 18 to 70 years Gender: Overall: Women: 85/146 participants (58.2%); Men: 61/146 participants (41.8%) FA implant group: Women: 35/72 participants (48.5%); Men: 37/72 participants (51.5%) Standard‐of‐care group: Women: 50/74 participants (67.6%) Men: 24/74 participants (32.4%) Inclusion criteria: [if this is copied text, need quotes] 
+ "Quiet eyes at the time of treatment. Only eye randomized to implant had to be quiet at the time of surgery. Treatment with either ≥ 0.2 mg/kg daily prednisolone equivalent or ≥ 0.1 mg/kg daily prednisolone equivalent immunosuppressant at the time of randomization was required. 
+ Male or non‐pregnant female aged ≥ 6 years 
+ ≥ 1‐year history of recurrent or recrudescent unilateral or asymmetric NIPU not associated with significant systemic activity of any underlying disease 
+ More severely affected eyes with ≥ 2 separate recurrences of NIPU and the last episode occurring within 8 months of enrolment 
+ 
+ More severely affected eyes were treated with systemic therapy for ≥ 1 month: ≥ 0.2 mg/kg daily prednisolone equivalent (≥ 10 mg/kg daily for participants > 50 kg) or ≥ 0.1 mg/kg daily prednisolone equivalent if steroids were given with ½ of the following immunosuppressive agents: 
+ 
+ cyclosporine A, methotrexate 
+ cyclophosphamide, tacrolimus 
+ mycophenolate mofetil, azathioprine 
+ 
+ 
+ 
+ Less severely affected eyes with: 
+ 
+ VA of ≥ 0.7 logMAR (6/30) 
+ Uveitis requiring only periocular injections or no therapy 
+ 
+ 
+ 
+ Study eyes at time of enrolment: 
+ 
+ VA of ≥ 1.4 logMAR (6/150) 
+ ≤ 10 anterior chamber cells/high‐power field and a vitreous haze grade ≤ 2" 
+ 
+ 
+ 
+ Exclusion criteria: [if this is copied text, need quotes] 
+ "History of retinal detachment, retinoschisis in the area of implantation 
+ Media opacity precluding evaluation of the retina and vitreous 
+ Presence or history of uncontrolled IOP while receiving steroid therapy resulting in loss of vision 
+ IOP > 25 mmHg requiring at least 2 antiglaucoma medications to be reduced to < 25 mmHg 
+ 
+ Known allergy or contraindication to fluocinolone acetonide, systemic corticosteroids, or immunosuppressive agents 
+ Chronic use of such agents to manage nonocular disease 
+ 
+ History of NIPU only or iritis only with no vitreitis, macular edema, vitreous cells, or vitreous haze 
+ Infectious cause 
+ Vitreous haemorrhage or a toxoplasma scar in the study eye 
+ Ocular surgery, trauma affecting the study eye, or both within 3 months before enrolment, or trabeculoplasty or yttrium–aluminum–garnet laser within 1 month of enrolment 
+ Monocularity for reasons other than uveitis 
+ Positive human immunodeficiency virus test results, pregnancy or lactation 
+ Potential for noncompliance, or participation in other clinical studies within 1 month of enrolment" 
+ 
+ Participants with unilateral and asymmetric bilateral disease were included: For participants with unilateral disease, the affected eye was the study eye. For participants with asymmetric bilateral disease, the study eye was the more severely affected eye. 
+ 
+ 
+ Interventions 
+ 
+ FA implant: surgical implantation of 0.59 mg FA in vitreous cavity Standard‐of‐care: standard‐of‐care systemic management of uveitis "The SOC group received prednisolone or an equivalent corticosteroid alone, or an immunosuppressive agent was added to the therapy and the corticosteroid dose was reduced. Levels considered acceptable for therapy with steroids alone were 0.2 mg/kg daily (or 15 mg/day for the average weight). When inflammation could not be controlled with this level of corticosteroid, immunosuppressive agents were added. With the use of an immunosuppressive agent, the objective was to reduce steroid use to 0.1 mg/kg daily of prednisolone equivalent after 4 to 6 weeks of combination therapy. Approved immunosuppressants included cyclosporine A, methotrexate, cyclophosphamide, mycophenolate mofetil, azathioprine, and tacrolimus. If an immunosuppressive agent was not recommended, subjects were managed by maintaining systemic steroids at a higher level (0.2 mg/kg daily of prednisolone equivalent) or by increasing the steroids in case of inflammation. This regimen was followed by a slow taper to a minimal dose of 0.2 mg/kg daily (10 mg/day for subjects whose weight was 50 kg). After 6 months, if the disease was controlled, the treatment doses were tapered according to the standard guideline of each investigational site." P569 General procedures: ophthalmic examination 
+ 
+ 
+ Outcomes 
+ 
+ Primary outcomes: time to first recurrence of uveitis occurring in the 24 months after randomization for the standard‐of‐care group and time to first recurrence of uveitis in the study eye in the 24 months after the week 12 visit for the implant group Secondary outcomes: 
+ Percentage of participants with at least 1 recurrence 
+ Number of recurrences per participant 
+ Number of recurrences compared with the number that occurred during the 52 weeks before enrollment 
+ Proportion of participants with a VA improvement (> 15 letters on Early Treatment Diabetic Retinopathy Study charts from baseline) 
+ If cystoid macular edema present, the change in the size of the area of cystoid macular edema on fluorescein angiography 
+ 
+ Measurements taken, specify intervals at which outcomes assessed: Participants were assessed monthly for 3 months, bimonthly for 6 months, and then every 3 months for the second year of the study. Unit of analysis: individual (one eye per participant) Sample size calculation: "A sample size of 75 subjects per treatment was determined to have 85% power to detect a difference with respect to the primary end point in a 2‐tailed test (0.05)." 
+ 
+ 
+ Notes 
+ 
+ Study dates: April 2002 through August 2005 Funding source: Bausch and Lomb Inc Declaration of interest: Of the 5 study authors, lead author is a consult for Bausch and Lomb Inc, and 3 authors are employees of Bausch and Lomb Inc. Trial registry: not registered Publication language: English 
+ 
+ Risk of bias 
+ 
+ Bias 
+ Authors' judgement 
+ Support for judgement 
+ 
+ 
+ Random sequence generation (selection bias) 
+ Low risk 
+ “Subjects were allocated to receive either an implant or standardized therapy as determined by a randomization code with treatment randomization numbers assigned by a centrally administered randomization procedure.” P569 
+ 
+ 
+ Allocation concealment (selection bias) 
+ Low risk 
+ “Treatment allocation was masked to both the investigator and the subject through the use of an interactive voice response system that informed the investigator of the treatment group only after confirmation of inclusion of the subject.” P569 
+ 
+ 
+ Masking of participants and personnel (performance bias) 
+ High risk 
+ The study was designed to assess surgical implant vs standard‐of‐care oral therapy. “... it was not possible to mask study treatments ...” P569 
+ 
+ 
+ Masking of outcome assessment (detection bias) 
+ High risk 
+ No masking for primary outcomes. For secondary outcomes: “... some assessments, including fluorescein angiography, fundus photography, and laboratory parameters, were masked.” P569 
+ 
+ 
+ Incomplete outcome data (attrition bias)  
+All outcomes 
+ Unclear risk 
+ “Six subjects randomized to the FA implant group discontinued before receiving treatment because of administrative problems, consent withdrawal, or AEs and were excluded from the intent‐to‐treat population.” P570. Data for all other participants was included. “All randomized subjects who underwent at least 1 assessment after randomization were included in the intent‐to‐treat population, and all efficacy and safety summaries were based on the intent‐to‐treat populations. Data from the per‐protocol population also were analyzed for most outcome measures.” P570 
+ 
+ 
+ Selective reporting (reporting bias) 
+ Unclear risk 
+ Study protocol and trial registry were not available for comparison. All of the prespecified outcomes from the methods section were reported in the results section 
+ 
+ 
+ Other bias 
+ High risk 
+ Several of the authors are employees of the sponsor, and the lead author is a consultant for the sponsor. There is no statement about the role of the sponsor in study design, data analysis, interpretation, decision to publish, or manuscript preparation 
+ 
+ 
+ 
+ Open in a new tab 
+ AE: adverse event 
+FA: fluocinolone acetonide 
+IOP: intraocular pressure 
+MUST: Multicenter Uveitis Steroid Treatment 
+N/A: not applicable 
+NIPU: non‐infectious posterior uveitis 
+SD: standard deviation 
+VA: visual acuity Characteristics of excluded studies [ordered by study ID] 
+ 
+ 
+ 
+ 
+ 
+ 
+ Study 
+ Reason for exclusion 
+ 
+ 
+ 
+ Acharya 2004 
+ Not a RCT. 
+ 
+ 
+ Anonymous 1995 
+ Wrong type of participants were included; did not assess non‐infectious posterior uveitis, intermediate uveitis, or panuveitis. 
+ 
+ 
+ Ansari 2010 
+ Not a RCT. 
+ 
+ 
+ Arcinue 2013 
+ Not a RCT. 
+ 
+ 
+ Bollinger 2009 
+ Wrong type of participants were included; did not assess non‐infectious posterior uveitis, intermediate uveitis, or panuveitis. 
+ 
+ 
+ Callanan 2008a 
+ Did not compare fluocinolone or dexamethasone implant with standard‐of‐therapy. The study compared 0.59‐mg FA intravitreal implant with 2.1‐mg FA intravitreal implant. 
+ 
+ 
+ Campochiaro 2013 
+ Wrong type of participants were included; did not assess non‐infectious posterior uveitis, intermediate uveitis, or panuveitis. 
+ 
+ 
+ Cano‐Parra 2006 
+ Not a RCT. 
+ 
+ 
+ CTRI/2014/07/004726 
+ Did not compare fluocinolone or dexamethasone implant with standard‐of‐therapy. The study compared FA intravitreal implant with sham injection. 
+ 
+ 
+ CTRI/2014/12/005337 
+ Did not compare fluocinolone or dexamethasone implant with standard‐of‐therapy. The study compared FA intravitreal implant with sham injection. 
+ 
+ 
+ Eng 2007 
+ Wrong type of participants were included; did not assess non‐infectious posterior uveitis, intermediate uveitis, or panuveitis. 
+ 
+ 
+ Ermakova 2003 
+ Not a RCT. 
+ 
+ 
+ Galor 2007 
+ Not a RCT. 
+ 
+ 
+ Garg 2006 
+ Not a RCT. 
+ 
+ 
+ Goldstein 2007 
+ Did not compare fluocinolone or dexamethasone implant with standard‐of‐therapy. The study compared 0.59‐mg FA intravitreal implant with 2.1‐mg FA intravitreal implant. 
+ 
+ 
+ Ibrahim 2009 
+ Not a RCT. 
+ 
+ 
+ Jaffe 2000a 
+ Not a RCT. 
+ 
+ 
+ Jaffe 2000b 
+ Not a RCT. 
+ 
+ 
+ Jaffe 2005a 
+ Did not compare fluocinolone or dexamethasone implant with standard‐of‐therapy. The study compared 0.59‐mg FA intravitreal implant with 2.1‐mg FA intravitreal implant. 
+ 
+ 
+ Jaffe 2005b 
+ Not a RCT. 
+ 
+ 
+ Jaffe 2006a 
+ Did not compare fluocinolone or dexamethasone implant with standard‐of‐therapy. The study compared 0.59‐mg FA intravitreal implant with 2.1‐mg FA intravitreal implant. 
+ 
+ 
+ Jaffe 2006b 
+ Did not compare fluocinolone or dexamethasone implant with standard‐of‐therapy.The study compared 0.59‐mg FA intravitreal implant with 2.1‐mg FA intravitreal implant. 
+ 
+ 
+ Kim 2011 
+ Not a RCT. 
+ 
+ 
+ Kuppermann 2007 
+ Wrong type of participants were included; did not assess non‐infectious posterior uveitis, intermediate uveitis, or panuveitis. 
+ 
+ 
+ Lowder 2011a 
+ Did not compare fluocinolone or dexamethasone implant with standard‐of‐therapy. Participants were randomized to either a sham procedure or treatment with the 0.7‐mg or 0.35‐mg DEX implant. 
+ 
+ 
+ Mercante 2007 
+ Did not compare fluocinolone or dexamethasone implant with standard‐of‐therapy. The study compared 0.59‐mg FA intravitreal implant with 2.1‐mg FA intravitreal implant. 
+ 
+ 
+ Muller 2004 
+ Did not compare fluocinolone or dexamethasone implant with standard‐of‐care therapy. The study compared 0.59‐mg FA intravitreal implant with 2.1‐mg FA intravitreal implant. 
+ 
+ 
+ Mustakallio 1973 
+ Wrong type of participants were included; did not assess non‐infectious posterior uveitis, intermediate uveitis, or panuveitis. 
+ 
+ 
+ Naik 2013 
+ Did not compare fluocinolone or dexamethasone implant with standard‐of‐care therapy. The study compared dexamethasone intravitreal implant with sham injection. 
+ 
+ 
+ NCT01694186 
+ Did not compare fluocinolone or dexamethasone implant with standard‐of‐therapy.The study compared FA intravitreal implant with sham injection. 
+ 
+ 
+ NCT02309385 
+ Did not have at least six months of follow‐up after treatment. 
+ 
+ 
+ NCT02482129 
+ Did not compare fluocinolone or dexamethasone implant with standard‐of‐care therapy. The study compared LME636 60 mg/mL ophthalmic solution with dexamethasone 0.1% ophthalmic solution. 
+ 
+ 
+ NCT02517619 
+ Did not compare fluocinolone or dexamethasone implant with standard‐of‐care therapy. The study compared dexamethasone ophthalmic solution (40 mg/mL) with prednisolone acetate ophthalmic solution (1%). 
+ 
+ 
+ Neger 1996 
+ Wrong type of participants were included; did not assess non‐infectious posterior uveitis, intermediate uveitis, or panuveitis. 
+ 
+ 
+ Novack 2008 
+ Not a RCT. 
+ 
+ 
+ Ram 2013 
+ Wrong type of participants were included; did not assess non‐infectious posterior uveitis, intermediate uveitis, or panuveitis. 
+ 
+ 
+ Sangwan 2007 
+ Did not compare fluocinolone or dexamethasone implant with standard‐of‐care therapy. The study compared 0.59‐mg FA intravitreal implant with 2.1‐mg FA intravitreal implant. 
+ 
+ 
+ Saraiya 2011 
+ Not a RCT. 
+ 
+ 
+ Sheppard 2012 
+ Did not compare fluocinolone or dexamethasone implant with standard‐of‐care therapy. The study compared 0.59‐mg FA intravitreal implant with 2.1‐mg FA intravitreal implant. 
+ 
+ 
+ Taylor 2012 
+ Not a RCT. 
+ 
+ 
+ Viola 2009 
+ Not a RCT. 
+ 
+ 
+ Wen 1991 
+ Did not compare fluocinolone or dexamethasone implant with standard‐of‐therapy. The study compared Chinese traditional dialectic therapy combined with eastern medicine versus western medicine. 
+ 
+ 
+ Williams 2004 
+ Did not compare fluocinolone or dexamethasone implant with standard‐of‐care therapy and included participants with either uveitis or Irvine‐Gass syndrome. 
+ 
+ 
+ Williams 2009 
+ Did not compare fluocinolone or dexamethasone implant with standard‐of‐care therapy. Participants were randomized to 350‐ɥg dexamethasone or 700‐ɥg dexamethasone or observation. 
+ 
+ 
+ Yeh 2008 
+ Not a RCT. 
+ 
+ 
+ 
+ Open in a new tab 
+ FA: fluocinolone acetonide 
+mg: milligram 
+RCT: randomized controlled trial Differences between protocol and review 
+ In our protocol design phase, an age criterion greater than or equal to 18 years was created for practical reasons. In our initial full‐text review, no studies qualified for inclusion in our review due to this exclusion of participants younger than 18 years. We felt the differences in the disease states and response to treatment of those 17 or younger who would otherwise qualify for the review would not be systematically different from adults, and would not limit the generalizability of the review results. We therefore made the decision to eliminate the age requirement. 
+ In future revisions of the review, we plan to perform a subgroup analyses by age. For the current version of the review, we contacted study authors, but were unable to obtain separate data for those under 18 and those over 18, therefore we were not able to perform a subgroup analysis. Should study authors of future studies provide separate data for those age under 18 and those over 18 years, we will perform a subgroup analysis. 
+ In our protocol we also stated that we will not pursue meta‐analysis of the selected studies when the I 2 statistic was greater than 50% (substantial heterogeneity). We wanted to clarify that our initial intentions did not account for clinical and methodological heterogeneity. Because we determined that the two included studies were clinical and methodologically similar, we combined data in meta‐analysis even when the I 2 statistic was greater than 50%. 
+ There was insufficient data to conduct a subgroup analyses by clinical heterogeneity. We defined clinical heterogeneity by types of participants (i.e., baseline vision, baseline intraocular pressure, duration of prior therapy and diagnosis), interventions and outcomes in each study. We will perform a subgroup analyses by clinical heterogeneity when there are sufficient data. 
+ We were unable to conduct sensitivity analyses to determine the impact of exclusion of studies with lower methodological quality, including exclusion of industry‐funded studies and unpublished studies as there were too few included studies. When more studies are included in future versions of this review and appropriate, we plan to conduct sensitivity analyses. 
+ We also analyzed outcome data at 12 and 24 months rather than the prespecified six months, because this matched the primary outcomes of the two included studies. We felt this permitted a more relevant point of comparison for these two therapies, especially because many of the side effects of interest (for example cataract) are expected to take time to develop. Contributions of authors 
+ Conceiving the review: JT 
+ Designing the review: JT, SJG, RR, CJB, ACV, PCS 
+ Coordinating the review: CJB 
+ Data collection for the review 
+ 
+ Designing search strategies: Lori Rosman, PCS 
+ Undertaking manual searches: Lori Rosman 
+ Screening search results: CJB, HAL, JT 
+ Organizing retrieval of papers: CJB, HAL 
+ Screening retrieved papers against inclusion criteria: CJB, ER 
+ Appraising quality of papers: CJB, ER 
+ Abstracting data from papers: CJB, JT 
+ Writing to authors of papers for additional information: CJB 
+ Data management for the review: CJB 
+ Entering data into RevMan: CJB 
+ Adjudicated data entered into RevMan: HAL 
+ 
+ Analysis of data: ACV, CJB 
+ Interpretation of data 
+ 
+ Providing a methodological perspective: ACV, PCS 
+ Providing a clinical perspective: JT, SJG, CJB, RR, ER 
+ Providing a policy perspective: ACV 
+ 
+ Writing the review: CJB, ACV, SJG 
+ Guarantor for the review: CJB Sources of support 
+ Internal sources 
+ 
+ Johns Hopkins University, USA. 
+ Mid Atlantic Retina, Wills Eye Hospital, USA. 
+ Schroeder Institute for Tobacco Research and Policy Studies, Legacy, USA. 
+ Associated Retinal Consultants, Phoenix, Arizona, USA. 
+ University Hospitals Eye Institute, University Hospitals Eye Institute/Case Western Reserve University, USA. 
+ External sources 
+ 
+ The Cochrane Eyes and Vision US Project, which is funded by Grant 1 U01 EY020522 , National Eye Institute, National Institutes of Health, USA. 
+ 
+ National Institute for Health Research (NIHR), UK. 
+ 
+ Richard Wormald, Co‐ordinating Editor for Cochrane Eyes and Vision (CEV) acknowledges financial support for his CEV research sessions from the Department of Health through the award made by the National Institute for Health Research to Moorfields Eye Hospital NHS Foundation Trust and UCL Institute of Ophthalmology for a Specialist Biomedical Research Centre for Ophthalmology. 
+ The NIHR also funds the CEV Editorial Base in London. 
+ 
+ The views expressed in this publication are those of the authors and not necessarily those of the NIHR, NHS, or the Department of Health. 
+ 
+ Declarations of interest 
+ CJB: none known 
+ACV: none known 
+HAL: none known 
+ER: none known 
+RR: consultancy and speakership for Allergan on projects with no relevance to current study 
+PCS: none known 
+SJG: principal investigator of the Allergan Ozurdex Uveitis Trial at Wills Eye Institute 
+JT: none known New References 
+ References to studies included in this review 
+ Kempen 2011 {published data only} 
+ 
+ 
+ Frick KD, 
+Drye LT, 
+Kempen JH, 
+Dunn JP, 
+Holland GN, 
+Latkany P, 
+et al. 
+Associations among visual acuity and vision‐ and health‐related quality of life among patients in the multicenter uveitis steroid treatment trial. 
+Investigative Ophthalmology and Visual Science 2012;53(3):1169‐76.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Friedman DS, 
+Holbrook JT, 
+Ansari H, 
+Alexander J, 
+Burke A, 
+Reed SB, 
+et al. 
+Risk of elevated intraocular pressure and glaucoma in patients with uveitis: results of the multicenter uveitis steroid treatment trial. 
+Ophthalmology 2013;120(8):1571‐9.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Holbrook JT, 
+Kempen JH, 
+Prusakowski NA, 
+Altaweel MM, 
+Jabs DA. 
+Challenges in the design and implementation of the Multicenter Uveitis Steroid Treatment (MUST) Trial — lessons for comparative effectiveness trials. 
+Clinical Trials 2011;8(6):736‐43.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Kempen JH, 
+Altaweel MM, 
+Holbrook JT, 
+Jabs DA, 
+Louis TA, 
+Sugar EA, 
+et al. 
+Randomized comparison of systemic anti‐inflammatory therapy versus fluocinolone acetonide implant for intermediate, posterior, and panuveitis: the multicenter uveitis steroid treatment trial. 
+Ophthalmology 2011;118(10):1916‐26.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Kempen JH, 
+Altaweel MM, 
+Holbrook JT, 
+Jabs DA, 
+Sugar EA. 
+The multicenter uveitis steroid treatment trial: rationale, design, and baseline characteristics. 
+American Journal of Ophthalmology 2010;149(4):550‐61.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Multicenter Uveitis Steroid Treatment (MUST) Trial Research Group, 
+Kempen JH, 
+Altaweel MM, 
+Holbrook JT, 
+Jabs DA, 
+Louis TA, 
+et al. 
+Erratum: Randomized comparison of systemic anti‐inflammatory therapy versus fluocinolone acetonide implant for intermediate, posterior, and panuveitis: The Multicenter Uveitis Steroid Treatment Trial (Ophthalmology (2011) 118 (1916‐26)). 
+Ophthalmology 2012;119(2):212.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Multicenter Uveitis Steroid Treatment Trial Follow‐up Study Research Group. 
+Quality of life and risks associated with systemic anti‐inflammatory therapy versus fluocinolone acetonide intraocular implant for intermediate uveitis, posterior uveitis, or panuveitis: fifty‐four‐month results of the Multicenter Uveitis Steroid Treatment Trial and Follow‐up Study. 
+Ophthalmology 2015;122(10):1976‐86.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Sugar EA, 
+Holbrook JT, 
+Kempen JH, 
+Burke AE, 
+Drye LT, 
+Thorne JE, 
+et al. 
+Cost‐effectiveness of fluocinolone acetonide implant versus systemic therapy for noninfectious intermediate, posterior, and panuveitis. 
+Ophthalmology 2014;121(10):1855‐62.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Tomkins‐Netzer O, 
+Lightman S, 
+Drye L, 
+Kempen J, 
+Holland G, 
+Rao NA, 
+et al. 
+Outcome of treatment of uveitic macular edema: the Multicenter Uveitis Steroid Treatment Trial 2‐year results. 
+Ophthalmology 2015;122(11):2351‐9.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ Pavesio 2010 {published data only} 
+ 
+ 
+ Pavesio C, 
+Zierhut M, 
+Bairi K, 
+Comstock TL, 
+Usner DW. 
+Evaluation of an intravitreal fluocinolone acetonide implant versus standard systemic therapy in noninfectious posterior uveitis. 
+Ophthalmology 2010; Vol. 117, issue 3:567‐75.
+ [ DOI ] [ PubMed ] 
+ 
+ Pavesio CE, 
+Bairi K. 
+Evaluation of an intravitreal fluocinolone acetonide implant vs. standard systemic therapy in noninfectious posterior uveitis. 
+American Academy of Ophthalmology. 2006:194.
+ [ DOI ] [ PubMed ] 
+ References to studies excluded from this review 
+ Acharya 2004 {published data only} 
+ 
+ Acharya N, 
+Young L. 
+Sustained‐release drug implants for the treatment of intraocular disease. 
+International Ophthalmology Clinics 2004;44(3):33‐9.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Anonymous 1995 {published data only} 
+ 
+ Anonymous. 
+Good results from eye implant study. 
+Treatment Review 1995, (16):4.
+ [ PubMed ] [ Google Scholar ] Ansari 2010 {published data only} 
+ 
+ Ansari H, 
+Kempen JH. 
+Proof of concept for combined insertion of fluocinolone acetonide and glaucoma drainage implants for eyes with uveitis and glaucoma. 
+American Journal of Ophthalmology 2010;149(5):699‐700.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] Arcinue 2013 {published data only} 
+ 
+ Arcinue CA, 
+Ceron OM, 
+Foster CS. 
+A comparison between the fluocinolone acetonide (Retisert) and dexamethasone (Ozurdex) intravitreal implants in uveitis. 
+Journal of Ocular Pharmacology and Therapeutics 2013;29(5):501‐7.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Bollinger 2009 {published data only} 
+ 
+ Bollinger KE, 
+Smith SD. 
+Prevalence and management of elevated intraocular pressure after placement of an intravitreal sustained‐release steroid implant. 
+Current Opinion in Ophthalmology 2009;20(2):99‐103.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Callanan 2008a {published data only} 
+ 
+ Callanan DG, 
+Jaffe GJ, 
+Martin DF, 
+Pearson PA, 
+Comstock TL. 
+Treatment of posterior uveitis with a fluocinolone acetonide implant: three‐year clinical trial results. 
+Archives of Ophthalmology 2008;126(9):1191‐201.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Campochiaro 2013 {published data only} 
+ 
+ Campochiaro PA, 
+Nguyen QD, 
+Hafiz G, 
+Bloom S, 
+Brown DM, 
+Busquets M, 
+et al. 
+Aqueous levels of fluocinolone acetonide after administration of fluocinolone acetonide inserts or fluocinolone acetonide implants. 
+Ophthalmology 2013;120(3):583‐7.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Cano‐Parra 2006 {published data only} 
+ 
+ Cano‐Parra J, 
+Diaz‐Llopis M. 
+New drugs in the treatment of noninfectious uveitis. 
+Archivos de la Sociedad Espanola de Oftalmologia 2006;81(12):671‐3.
+ [ DOI ] [ PubMed ] [ Google Scholar ] CTRI/2014/07/004726 {unpublished data only} 
+ CTRI/2014/12/004726. 
+To assess the safety & efficacy of fluocinolone acetonide intravitreal (FAI) insert in patients with chronic, non‐infectious uveitis affecting the posterior segment of the eye. 
+www.ctri.nic.in/Clinicaltrials/pmaindet2.php?trialid=8285 accessed 15 January 2016.
+ CTRI/2014/12/005337 {unpublished data only} 
+ CTRI/2014/07/005337. 
+A research to study the effect of fluocinolone Aaetonide intravitreal (FAI) insert in patients with inflammation of middle layer of the eye. 
+http://www.ctri.nic.in/Clinicaltrials/pmaindet2.php?trialid=9684 (accessed 15 January 2016).
+ Eng 2007 {published data only} 
+ 
+ Eng K, 
+Kertes P. 
+Randomized controlled study of an intravitreous dexamethasone drug delivery system in patients with persistent macular edema: Commentary. 
+Evidence‐Based Ophthalmology 2007;8(3):170‐2.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Ermakova 2003 {published data only} 
+ 
+ Ermakova NA. 
+Efficacy of corticosteroids and cyclosporin in the treatment of retinal vasculitis in patients with Behcet's disease. 
+Advances in Experimental Medicine and Biology 2003;528:563‐5.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Galor 2007 {published data only} 
+ 
+ Galor A, 
+Margolis R, 
+Kaiser PK, 
+Lowder CY. 
+Vitreous band formation and the sustained‐release, intravitreal fluocinolone (Retisert) implant. 
+Archives of Ophthalmology 2007;125(6):836‐8.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Garg 2006 {published data only} 
+ 
+ Garg S. 
+Fluocinolone acetonide implant (Retisert) for noninfectious posterior uveitis: Thirty‐four‐week results of a multicenter randomized clinical study. 
+Evidence‐Based Ophthalmology 2006;7(4):216‐7.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Goldstein 2007 {published data only} 
+ 
+ Goldstein DA, 
+Godfrey DG, 
+Hall A, 
+Callanan DG, 
+Jaffe GJ, 
+Pearson PA, 
+et al. 
+Intraocular pressure in patients with uveitis treated with fluocinolone acetonide implants. 
+Archives of Ophthalmology 2007; Vol. 125, issue 11:1478‐85.
+ [ DOI ] [ PubMed ] Ibrahim 2009 {published data only} 
+ 
+ Ibrahim M, 
+Nguyen QD. 
+Treatment of posterior uveitis with a fluocinolone acetonide implant. 
+Evidence‐Based Ophthalmology 2009;10(4):224‐6.
+ [ Google Scholar ] Jaffe 2000a {published data only} 
+ 
+ Jaffe GJ, 
+Ben‐Nun J, 
+Guo H, 
+Dunn JP, 
+Ashton P. 
+Fluocinolone acetonide sustained drug delivery device to treat severe uveitis. 
+Ophthalmology 2000; Vol. 107, issue 11:2024‐33.
+ [ DOI ] [ PubMed ] Jaffe 2000b {published data only} 
+ 
+ Jaffe GJ, 
+Pearson PA, 
+Ashton P. 
+Dexamethasone sustained drug delivery implant for the treatment of severe uveitis. 
+Retina 2000;20:402‐3.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Jaffe 2005a {published data only} 
+ 
+ Jaffe GJ, 
+Martin D, 
+Callanan D, 
+Levy B. 
+Fluocinolone acetonide intravitreal implant to treat posterior uveitis: 2‐year results of a multi‐center clinical trial. 
+Investigative Ophthalmology and Visual Science 2005;46(13):ARVO E‐abstract 2386.
+ [ Google Scholar ] Jaffe 2005b {published data only} 
+ 
+ Jaffe GJ, 
+McCallum RM, 
+Branchaud B, 
+Skalak C, 
+Butuner Z, 
+Ashton P. 
+Long‐term follow‐up results of a pilot trial of a fluocinolone acetonide implant to treat posterior uveitis. 
+Ophthalmology 2005; Vol. 112, issue 7:1192‐8.
+ [ DOI ] [ PubMed ] Jaffe 2006a {published data only} 
+ 
+ Jaffe GJ, 
+Martin D, 
+Callanan D, 
+Pearson PA, 
+Levy B, 
+Comstock T. 
+Fluocinolone acetonide implant (Retisert) for noninfectious posterior uveitis: thirty‐four‐week results of a multicenter randomized clinical study. 
+Ophthalmology 2006; Vol. 113, issue 6:1020‐7.
+ [ DOI ] [ PubMed ] Jaffe 2006b {published data only} 
+ 
+ Jaffe GJ, 
+Martin DF, 
+Callanan D, 
+Levy B, 
+Comstock T. 
+Fluocinolone acetonide intravitreal implant to treat posterior segment uveitis: 3‐year results of a multi‐center clinical trial. 
+Investigative Ophthalmology and Visual Science 2006;47(13):ARVO E‐abstract 1523.
+ [ Google Scholar ] Kim 2011 {published data only} 
+ 
+ Kim SJ. 
+Diagnosis and management of noninfectious pediatric uveitis. 
+International Ophthalmology Clinics 2011;51(1):129‐45.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Kuppermann 2007 {published data only} 
+ 
+ Kuppermann BD, 
+Blumenkranz MS, 
+Haller JA, 
+Williams GA, 
+Weinberg DV, 
+Chou C, 
+et al. 
+Randomized controlled study of an intravitreous dexamethasone drug delivery system in patients with persistent macular edema. 
+Archives of Ophthalmology 2007; Vol. 125, issue 3:309‐17.
+ [ DOI ] [ PubMed ] Lowder 2011a {published data only} 
+ 
+ 
+ Lightman S, 
+Belfort Jr R, 
+Naik RK, 
+Lowder C, 
+Foster CS, 
+Rentz AM, 
+et al. 
+Vision‐related functioning outcomes of dexamethasone intravitreal implant in noninfectious intermediate or posterior uveitis. 
+Investigative Ophthalmology and Visual Science 2013;54(7):4864‐70.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Lowder C, 
+Belfort Jr R, 
+Lightman S, 
+Foster CS, 
+Robinson MR, 
+Schiffman RM, 
+et al. 
+Dexamethasone intravitreal implant for noninfectious intermediate or posterior uveitis. 
+Archives of Ophthalmology 2011;129(5):545‐53.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ Mercante 2007 {published data only} 
+ 
+ Mercante AR, 
+Huang SS, 
+Reddy R. 
+Cystoid macular edema in non‐infectious uveitis treated with fluocinolone acetonide intravitreal implant: 3‐year results of a multi‐center clinical trial. 
+Investigative Ophthalmology and Visual Science 2007;48(13):ARVO E‐Abstract 280.
+ [ Google Scholar ] Muller 2004 {published data only} 
+ Muller B, 
+Orlic N, 
+Pleyer U. 
+Intravitreal fluocinolone‐implant (Retisert) in posterior non‐infectious uveitis — intermediate results after 34 weeks. 
+Klinische Monatsblatter fur Augenheilkunde 2004; Vol. 221, issue Suppl 7:S8.
+ Mustakallio 1973 {published data only} 
+ 
+ Mustakallio A, 
+Kaufman HE, 
+Johnston G, 
+Wilson RS, 
+Roberts MD, 
+Harter JC. 
+Corticosteroid efficacy in postoperative uveitis. 
+Annals of Ophthalmology 1973;5(6):719‐30.
+ [ PubMed ] [ Google Scholar ] Naik 2013 {published data only} 
+ 
+ Naik RK, 
+Rentz AM, 
+Foster CS, 
+Lightman S, 
+Belfort R, 
+Lowder C, 
+et al. 
+Normative comparison of patient‐reported outcomes in patients with noninfectious uveitis. 
+JAMA Ophthalmology 2013;131(2):219‐25.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ NCT01694186 {unpublished data only} 
+ NCT01694186 . 
+Safety and efficacy of an injectable fluocinolone acetonide intravitreal insert. 
+clinicaltrials.gov/show/ NCT01694186 (accessed 15 January 2016).
+ 
+ NCT02309385 {unpublished data only} 
+ NCT02309385 . 
+Safety and efficacy study of DSP‐visulex for the treatment of anterior uveitis. 
+clinicaltrials.gov/show/ NCT02309385 (accessed 15 January 2016).
+ 
+ NCT02482129 {unpublished data only} 
+ NCT02482129 . 
+Proof of concept study to evaluate safety and efficacy of LME636 in the treatment of acute anterior uveitis. 
+clinicaltrials.gov/show/ NCT02482129 (accessed 15 January 2016).
+ 
+ NCT02517619 {unpublished data only} 
+ NCT02517619 . 
+Safety and efficacy of iontophoretic dexamethasone phosphate ophthalmic solution in non‐infectious anterior uveitis (EGP‐437‐006). 
+clinicaltrials.gov/show/ NCT02517619 (accessed 15 January 2016).
+ Neger 1996 {published data only} 
+ 
+ Neger RE. 
+The eyes have it, too. 
+Positively Aware: the Monthly Journal of the Test Positive Aware Network 1996;7(3):10‐1.
+ [ PubMed ] [ Google Scholar ] Novack 2008 {published data only} 
+ 
+ Novack GD. 
+Clinical indications for ophthalmic corticosteroids. 
+Ocular Surface 2008;6(4):199‐202.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Ram 2013 {published data only} 
+ 
+ Ram J, 
+Gupta A, 
+Gupta V. 
+Intraoperative dexamethasone implant in uveitis patients with cataract undergoing phacoemulsification. 
+Ocular Immunology and Inflammation 2013;21(6):462‐7.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Sangwan 2007 {published data only} 
+ Sangwan V S, 
+Paul H A, 
+Usner D W. 
+Safety and efficacy of an intravitreal fluocinolone acetonide implant in subjects with noninfectious uveitis. 
+American Academy of Ophthalmology. 2007:199.
+ Saraiya 2011 {published data only} 
+ 
+ Saraiya NV, 
+Patel SS, 
+Goldstein DA. 
+A report of high intraocular pressure with the dexamethasone intravitreal implant. 
+Archives of Ophthalmology 2011;129(12):1638‐9.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Sheppard 2012 {published data only} 
+ 
+ Sheppard Jr JD, 
+Nguyen QD, 
+Usner DW, 
+Comstock TL. 
+Post‐cataract outcomes in patients with noninfectious posterior uveitis treated with the fluocinolone acetonide intravitreal implant. 
+Clinical Ophthalmology 2012;6(1):79‐85.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] Taylor 2012 {published data only} 
+ 
+ Taylor SR, 
+Tomkins‐Netzer O, 
+Joshi L, 
+Morarji J, 
+McLoone E, 
+Lightman S. 
+Dexamethasone implant in pediatric uveitis. 
+Ophthalmology 2012;119(11):2412.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Viola 2009 {published data only} 
+ 
+ Viola F, 
+Staurenghi G, 
+Ratiglia R. 
+Uveitis treated with fluocinolone acetonide implants. 
+Archives of Ophthalmology 2009;127(1):115‐6.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Wen 1991 {published data only} 
+ 
+ Wen S, 
+Gao R, 
+Hu Z. 
+Comparison of Chinese traditional therapy combined with Western medicine and Western medicine alone in the treatment of uveitis. 
+Eye Science 1991;7(4):205‐8.
+ [ PubMed ] [ Google Scholar ] Williams 2004 {published data only} 
+ 
+ Williams G A, 
+Kuppermann B D, 
+Blumenkranz M S, 
+Haller J A, 
+Whitcup S M, 
+Weinberg D V. 
+Treatment of inflammatory macular edema with a dexamethasone posterior‐segment drug delivery system. 
+American Academy of Ophthalmology. 2004:87.
+ [ DOI ] [ PubMed ] Williams 2009 {published data only} 
+ 
+ Williams GA, 
+Haller JA, 
+Kuppermann BD, 
+Blumenkranz MS, 
+Weinberg DV, 
+Chou C, 
+et al. 
+Dexamethasone posterior‐segment drug delivery system in the treatment of macular edema resulting from uveitis or Irvine‐Gass syndrome. 
+American Journal of Ophthalmology 2009; Vol. 147, issue 6:1048‐54.
+ [ DOI ] [ PubMed ] Yeh 2008 {published data only} 
+ 
+ Yeh S, 
+Nussenblatt RB. 
+Fluocinolone acetonide for the treatment of uveitis: weighing the balance between local and systemic immunosuppression. 
+Archives of Ophthalmology 2008;126(9):1287‐9.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Additional references 
+ Bollinger 2011 
+ 
+ Bollinger K, 
+Kim J, 
+Lowder CY, 
+Kaiser PK, 
+Smith SD. 
+Intraocular pressure outcome of patients with fluocinolone acetonide intravitreal implant for noninfectious uveitis. 
+Ophthalmology 2011;118(10):1927‐31.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Callanan 2008b 
+ 
+ Callanan DG, 
+Jaffe GJ, 
+Martin DF, 
+Pearson PA, 
+Comstock TL. 
+Treatment of posterior uveitis with a fluocinolone acetonide implant: three‐year clinical trial results. 
+Archives of Ophthalmology 2008;126(9):1191‐201.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Campochiaro 2010 
+ 
+ Campochiaro PA, 
+Hafiz G, 
+Shah SM, 
+Bloom S, 
+Brown DM, 
+Busquets M, 
+et al. 
+Sustained ocular delivery of fluocinolone acetonide by an intravitreal insert. 
+Ophthalmology 2010;117(7):1393‐9.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Deeks 2011 
+ Deeks JJ, 
+Higgins JPT, 
+Altman DG (editors). 
+Chapter 9: Analysing data and undertaking meta‐analyses. 
+In: Higgins JPT, Green S (editors). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011. Available from www.cochrane‐handbook.org.
+ Durrani 2004 
+ 
+ Durrani OM, 
+Meads CA, 
+Murray PI. 
+Uveitis: a potentially blinding disease. 
+Ophthalmologica 2004;218(4):223‐36.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Glanville 2006 
+ 
+ Glanville JM, 
+Lefebvre C, 
+Miles JN, 
+Camosso‐Stefinovic J. 
+How to identify randomized controlled trials in MEDLINE: ten years on. 
+Journal of the Medical Library Association 2006;4(2):130‐6.
+ [ PMC free article ] [ PubMed ] [ Google Scholar ] Goldstein 2007a 
+ 
+ Goldstein DA, 
+Godfrey DG, 
+Hall A, 
+Callanan DG, 
+Jaffe GJ, 
+Pearson PA, 
+et al. 
+Intraocular pressure in patients with uveitis treated with fluocinolone acetonide implants. 
+Archives of Ophthalmology 2007;125(11):1478‐85.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Gritz 2004 
+ 
+ Gritz DC, 
+Wong IG. 
+Incidence and prevalence of uveitis in Northern California; the Northern California Epidemiology of Uveitis Study. 
+Ophthalmology 2004;111(3):491‐500.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Haller 2010 
+ 
+ Haller JA, 
+Bandello F, 
+Belfort Jr R, 
+Blumenkranz MS, 
+Gillies M, 
+Heier J, 
+et al. 
+Randomized, sham‐controlled trial of dexamethasone intravitreal implant in patients with macular edema due to retinal vein occlusion. 
+Ophthalmology 2010;117(6):1134‐46.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Haupert 2000 
+ 
+ Haupert CL, 
+Jaffe GJ. 
+New and emerging treatments for patients with uveitis. 
+International Ophthalmology Clinics 2000;40(2):205‐20.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Higgins 2011 
+ Higgins JPT, 
+Altman DG, 
+Sterne JAC (editors). 
+Chapter 8: Assessing risk of bias in included studies. In: Higgins JPT, Green S (editors). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011. 
+Available from: www.cochrane‐handbook.org.
+ Jager 2004 
+ 
+ Jager RD, 
+Aiello LP, 
+Patel SC, 
+Cunningham Jr ET. 
+Risks of intravitreous injection: a comprehensive review. 
+Retina 2004;24(5):676‐98.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Kempen 2011a 
+ 
+ Multicenter Uveitis Steroid Treatment (MUST) Trial Research Group, 
+Kempen JH, 
+Altaweel MM, 
+Holbrook JT, 
+Jabs DA, 
+Louis TA, 
+et al. 
+Randomized comparison of systemic anti‐inflammatory therapy versus fluocinolone acetonide implant for intermediate, posterior, and panuveitis: the Multicenter Uveitis Steroid Treatment trial. 
+Ophthalmology 2011;118(10):1916‐26.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] Lowder 2011b 
+ 
+ Lowder C, 
+Belfort Jr R, 
+Lightman S, 
+Foster CS, 
+Robinson MR, 
+Schiffman RM, 
+et al. 
+Dexamethasone intravitreal implant for noninfectious intermediate or posterior uveitis. 
+Archives of Ophthalmology 2011;129(5):545‐53.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Mohammad 2007 
+ 
+ Mohammad DA, 
+Sweet BV, 
+Elner SG. 
+Retisert: is the new advance in treatment of uveitis a good one?. 
+Annals of Pharmacotherapy 2007;41(3):449‐54.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Nussenblatt 1990 
+ 
+ Nussenblatt RB. 
+The natural history of uveitis. 
+International Ophthalmology 1990;14(5‐6):303‐8.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Pavesio 2010a 
+ 
+ Pavesio C, 
+Zierhut M, 
+Bairi K, 
+Comstock TL, 
+Usner DW, 
+Fluocinolone Acetonide Study Group. 
+Evaluation of an intravitreal fluocinolone acetonide implant versus standard systemic therapy in noninfectious posterior uveitis. 
+Ophthalmology 2010;117(3):567‐75.
+ [ DOI ] [ PubMed ] [ Google Scholar ] RevMan 2014 [Computer program] 
+ The Nordic Cochrane Centre, The Cochrane Collaboration. 
+Review Manager (RevMan). 
+Version 5.3. Copenhagen: The Nordic Cochrane Centre, The Cochrane Collaboration, 2014.
+ Schünemann 2011 
+ Schünemann HJ, 
+Oxman AD, 
+Vist GE, 
+Higgins JPT, 
+Deeks JJ, 
+et al. 
+Chapter 12: Interpreting results and drawing conclusions. In: Higgins JPT, Green S (editors). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011. 
+Available from: www.cochrane‐handbook.org.
+ Suttorp‐Schulten 1996 
+ 
+ Suttorp‐Schulten MS, 
+Rothova A. 
+The possible impact of uveitis in blindness: a literature survey. 
+British Journal of Ophthalmology 1996;80(9):844‐8.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] Taylor 2010 
+ 
+ Taylor SR, 
+Isa H, 
+Joshi L, 
+Lightman S. 
+New developments in corticosteroid therapy for uveitis. 
+Ophthalmologica 2010;224(Suppl 1):46‐53.
+ [ DOI ] [ PubMed ] [ Google Scholar ] Williams 2009a 
+ 
+ Williams GA, 
+Haller JA, 
+Kuppermann BD, 
+Blumenkranz MS, 
+Weinberg DV, 
+Chou C, 
+et al. 
+Dexamethasone posterior‐segment drug delivery system in the treatment of macular edema resulting from uveitis or Irvine‐Gass syndrome. 
+American Journal of Ophthalmology 2009;147(6):1048‐54.
+ [ DOI ] [ PubMed ] [ Google Scholar ]

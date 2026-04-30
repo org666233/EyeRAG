@@ -1,0 +1,569 @@
+Source: PubMed Central (PMC)
+PMCID: PMC11854452
+Title: The Perspective of Using Optical Coherence Tomography in Ophthalmology: Present and Future Applications
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11854452/
+Year: 2024
+Disease: oct
+Priority: 2
+============================================================
+
+Diagnostics (Basel) . 2025 Feb 7;15(4):402. doi: 10.3390/diagnostics15040402 
+ 
+ 
+ The Perspective of Using Optical Coherence Tomography in Ophthalmology: Present and Future Applications 
+ Mario A Vasilescu 
+ Mario A Vasilescu 
+ 
+ 1 Department of Ophthalmology, “Dr. Carol Davila” Central Military Emergency University Hospital, 010825 Bucharest, Romania; laura.macovei@yahoo.com 
+ Find articles by Mario A Vasilescu 
+ 
+ 
+ 1, * , Mioara L Macovei 
+ Mioara L Macovei 
+ 
+ 1 Department of Ophthalmology, “Dr. Carol Davila” Central Military Emergency University Hospital, 010825 Bucharest, Romania; laura.macovei@yahoo.com 
+ 
+ 2 Ophthalmology Department, “Carol Davila” University of Medicine and Pharmacy, 050474 Bucharest, Romania 
+ Find articles by Mioara L Macovei 
+ 
+ 
+ 1, 2 
+ 
+ Editor: Jae-Ho Han 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, “Dr. Carol Davila” Central Military Emergency University Hospital, 010825 Bucharest, Romania; laura.macovei@yahoo.com 
+ 
+ 2 Ophthalmology Department, “Carol Davila” University of Medicine and Pharmacy, 050474 Bucharest, Romania 
+ 
+ * Correspondence: mariovasilescu26@gmail.com 
+ 
+ Roles 
+ 
+ Jae-Ho Han : Academic Editor 
+ 
+ 
+ Received 2024 Nov 6; Revised 2025 Jan 17; Accepted 2025 Feb 5; Collection date 2025 Feb. 
+ 
+ © 2025 by the authors. 
+ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ ). 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC11854452  PMID: 40002553 
+ 
+ Abstract 
+ Optical coherence tomography (OCT) imaging plays a major role in the field of diagnosing, monitoring, and treating ophthalmological diseases. Since its introduction in the early 1990s, OCT technology has continued to advance both in the direction of acquisition quality and technique. In this manuscript, we concentrate on actual and future applications of OCT in the ophthalmology field, reviewing multiple types of OCT techniques and systems, such as visible-light OCT, adaptative optics OCT, intraoperative OCT, wide-field OCT, and more. All of them allow better monitoring of ocular diseases, earlier and broader diagnosis, and a more suitable treatment. Furthermore, overviewing all these technologies could play a pivotal role in research, leading to an advance in understanding the pathophysiology of targeted diseases. Finally, the aim of the present review was to evaluate the technical advances in OCT and their actual and potential clinical applications. 
+ Keywords: optical coherence tomography, visible-light OCT, adaptive optics, full field, wide field, polarization-sensitive, intraoperative OCT, hand-held OCT, at-home OCT 1. Introduction 
+ Optical coherence tomography (OCT) is a noninvasive imaging method that, since its appearance and clinical use, has revolutionized the field of ophthalmology. OCT operates on the principle of light interference, enabling the capture of high-resolution, cross-sectional tomographic images of ocular biological tissue, such as the cornea, retina, and choroid, at the micron level, making it a near histological research tool in vivo. Consequently, since its first introduction in 1991 [ 1 ], OCT has been rapidly adopted into clinical practice, aiding clinical investigations, including indirect ophthalmoscopy in diagnosing retinal and choroidal diseases, such as age-related macular degeneration, central serous chorioretinopathy, vascular retinal disorders, and other vitreoretinal diseases. 
+ The first OCT system used in ophthalmology was time-domain OCT (TD-OCT) [ 1 ] and, since then, OCT technology has faced impressive advances in new techniques and sophisticated systems that, ultimately, bring improvements in the resolution, scanning speed, and structural details of biological tissues through more enhanced penetration. This is why, nowadays, OCT systems are not limited only to the retina or cornea field but also to neuro-ophthalmology, research fields, and glaucoma. 
+ Ultimately, technological advances and emerging innovations in the OCT field lead to earlier therapeutic interventions and, most importantly, the preservation of patients’ vision. Therefore, the aim of this review is to briefly assess the current literature to provide an overview of recent developments in clinical and experimental OCT imaging in ophthalmology, as well as explore potential further applications of these recent OCT imaging methods. 2. Materials and Methods 
+ A structured literature search of titles in PubMed and Frontiers was performed in July 2024. The literature search followed the updated preferred reporting items for systematic reviews and scoping review (PRISMA) guidelines [ 2 ]. The keywords used for finding relevant results were “optical coherence tomography future applications”, “advances in optical coherence tomography”, “clinical applications of optical coherence tomography”, “intraoperative optical coherence tomography”, “ophthalmology”, and all relevant synonyms, abbreviations, and combinations between these terms. The references of identified articles were manually checked to locate potentially relevant studies. All studies, articles, and systematic reviews published before 2020 were excluded. The bibliographies of the selected articles or reviews were analyzed by the authors, and if relevant or complementary articles for this review were found, they were integrated into this study regardless of the year of publication. Studies were included for full-text review and qualitative analysis if they reported on potential future clinical applications and research areas of OCT and only if a recent technology or technique of the respective OCT systems was described. All studies about OCT angiography were excluded. The authors acknowledge the possibility that the search algorithm may have inadvertently excluded significant research papers. 3. Results 
+ 3.0 Spectral Domain OCT (SD-OCT) and functioning principle of nowadays OCT systems. 
+ To better understand the technological advancements of OCT systems, it is necessary to briefly describe the first OCT systems and the working principle of commercially and widely available OCT systems. First of all, OCT is a light interference-based optical technique and uses light in the near-infrared (800–1300 nm). It is based on the analysis of the light back-reflected from the sample (in this case, the eye) [ 3 ]. 
+ The functional principle behind OCT imaging is light interference [ 4 ]. The light from a low-coherence source is split into two paths by a coupler directing it along two different arms of an interferometer [ 4 ]. One arm is the reference arm, while the other arm is the sample arm [ 4 ]. In the reference arm, the light is backscattered by a reference mirror, while in the sample arm, the light is backscattered by the sample (the eye). The returning light from both arms recombines at the coupler and generates an interference pattern, which is recorded by the detector [ 4 ]. The OCT signal recorded by the detector during a complete travel of the reference mirror is called a depth scan or an A-scan. An OCT image, otherwise called a B-scan, is formed by a set of consecutive A-scans [ 4 ]. 
+ Time-domain OCT (TD-OCT) was the first OCT technology developed, and it uses a low-coherent light source and a scanning reference delay [ 4 ]. The reference mirror moves, allowing the reference light to travel a known path length and undergo a measurable variable time delay [ 4 ]. Its disadvantages were very slow imaging speed and poor image quality, all of them because it required the acquisition of a depth scan for every location [ 3 ]. 
+ The introduction of the Fourier domain OCT (FD-OCT) addressed these limitations. Perhaps the greatest difference between TD-OCT and FD-OCT is that the reference arm in an FD-OCT system has a static mirror instead of a moving one, as in TD-OCT [ 4 ]. The existence of this static mirror eliminates the limitations imposed by the inertia of a moving mirror, allowing higher acquisition speeds [ 4 ]. FD-OCT has evolved into two primary technologies: spectral domain OCT (SD-OCT) and swept-source OCT (SS-OCT). 
+ SD-OCT uses a spectrometer. This device incorporates a diffractive element that separates the different wavelength contributions into a line image, which is then recorded by a high-speed line scan camera. Each camera read-out constitutes a spectral interferogram with a superposition of fringe patterns [ 3 ]. Typically, a superluminescent diode is chosen as a broadband light source [ 3 ]. 
+ Two years after the development of SD-OCT, the broadband light source was replaced by an optical source that rapidly sweeps a narrow line width over a broad range of wavelengths, and this is called swept-source OCT (SS-OCT) [ 3 ]. Additionally, SS-OCT has a point detector, not a line or area detector. Point detection is one advantage that SS-OCT has over SD-OCT because of its higher signal-to-noise ratio when compared to area or line detectors [ 4 ]. In contrast to TD-OCT, the interferogram contains information for all depth layers of the sample simultaneously. Fourier transformation is required to extract their individual contribution as a function of their depth position [ 3 ]. 
+ A detailed description of the technology behind SD-OCT is beyond the scope of this paper, but it is certain that the principles outlined above have driven the development of spectral OCT techniques. These advancements allow a dramatic increase in the signal-to-noise ratio (SNR) and imaging speed [ 5 , 6 , 7 ]. 
+ 3.1. Visible-Light OCT (Vis-OCT) 
+ 3.1.1. Technological Advances 
+ The main characteristic of Vis-OCT is that it utilizes light (500–600 nm) for OCT illumination rather than near-infrared (NIR) light (800–1300 nm), and its development was primarily motivated by two considerations: (1) with comparable bandwidth, shorter illumination wavelengths improve axial resolution (<2 μm) and (2) vis-OCT can retrieve tissue scattering and absorption contrasts within the visible spectral range [ 8 ]. 3.1.2. Clinical Application 
+ Yi et al. [ 9 ] reported the first vis-OCT system for human retinal imaging. When comparing vis-OCT and NIR-OCT, both modalities provided similar representations of retinal anatomy in B-scans. However, vis-OCT demonstrated significantly enhanced contrast of the retinal nerve fiber layer (RNFL) and the layers in the outer retina, including the boundary between the photoreceptor inner and outer segments (IS/OS), the OS of the photoreceptors, the RPE layers, and Bruch’s membrane. 
+ The inner retinal layers in OCT correspond reasonably well with histological sections [ 10 ]. In contrast, interpreting the outer retinal hyperreflective bands presents challenges. These difficulties arise from the complex and intimate relationship between the retinal pigment epithelium (RPE) and photoreceptors [ 11 ], the proximity of the RPE to Bruch’s membrane (BM) [ 12 ], and the fine layers of stacked photoreceptors [ 13 ] and RPE organelles [ 14 ]. This is where vis-OCT proves advantageous. 
+ Recent studies have shown that vis-OCT can especially delineate two structural components of the retina: Bruch’s membrane [ 15 , 16 , 17 ] and the inner plexiform layer (IPL) sublayers [ 17 , 18 ]. High-resolution visualization of the outer retinal band 4, especially the Bruch’s membrane, would be helpful for monitoring macular degeneration diseases. This capability also holds promise for the development of new classification systems for such conditions. Clinically, vis-OCT could play a pivotal role in determining the optimal timing for initiating treatment and monitoring responses to different therapeutic approaches, particularly when we refer to age-related macular degeneration. Additionally, the visualization of the inner plexiform layer, which reflects scattering information from dendritic connections, has the potential to serve as a biomarker for glaucoma progression [ 19 ]. 
+ Another potential clinical application of VIS-OCT was remarked by Song W. et al. [ 20 ]. They quantified the reflectivity of the peripapillary retinal nerve fiber layer (pRNFL). The pRNFL of all eyes—normal, suspect/preperimetric glaucoma (GS/PPG), and perimetric glaucoma (PG)—were scanned by a custom-designed dual-channel device that simultaneously acquired VIS-OCT and NIR- OCT. The results showed that VIS-OCT pRNFL reflectivity more effectively distinguished GS/PPG from normal eyes compared to NIR- OCT. This finding highlights the clinical relevance of vis-OCT as a tool for the early detection of glaucoma. 
+ In addition, vis-OCT can evaluate quantitatively the oxygen saturation (sO 2 ) in retinal circulation [ 8 ]. Yi J. et al. [ 21 ] reported that vis-OCT, as a standalone imaging mapping modality, could quantify a full set of the metabolic parameters of retinal circulation, including total retinal oxygen delivery, oxygen extraction fraction, and metabolic rate of oxygen. These parameters could be utilized clinically to grade diseases affecting retinal circulation, such as diabetic retinopathy, retinopathy of prematurity (RoP), and retinal occlusive diseases. 
+ Another clinical use of vis-OCT ability to measure retinal oximetry was suggested by Wang J. et al. [ 22 ]. They concluded that GS/PPG and PG subjects exhibited significantly higher macular venous oxygen saturation, a reduced difference between arteriolar and venular oxygen saturation, and lower oxygen extraction, indicating less oxygen consumption of these eyes. These findings suggest that retinal oximetry obtained via vis-OCT could serve as potential metrics for the early diagnosis of glaucoma. 
+ In addition to these clinical applications, vis-OCT has potential utility in fundus autofluorescence (FAF) imaging [ 8 ]. Since vis-OCT can integrate with FAF imaging without requiring an additional light source, it enables the quantifications of true RPE autofluorescence (AF) intensity [ 23 ]. This is achieved by calculating the ratio of the vis-OCT signal intensity and AF signal intensity at the RPE [ 23 ]. 
+ Furthermore, due to the shorter illumination wavelength of vis-OCT, it is possible to retrieve the distribution of rhodopsin [ 24 ]. Rhodopsin is a functional biomarker of rod photoreceptors. Such evaluation has significant clinical implications. For instance, monitoring rhodopsin expression in photoreceptors may aid in the management of hereditary retinal degeneration (including retinitis pigmentosa) or AMD [ 24 ]. 3.2. Adaptative Optics OCT (AO-OCT) 
+ 3.2.1. Technological Advances 
+ The use of adaptative optics in ophthalmology was inspired by astronomical observations [ 25 ]. In astronomy, AO is employed in telescopes to obtain diffraction-limited imaging from the ground by compensating for the dynamic wavefront distortion caused by atmospheric turbulence. Like the atmosphere, the human eye is optically imperfect. It consists of the cornea, the anterior chamber, the lens, the vitreous body, and the retina. All these media are passed through by light, causing chromatic and monochromatic aberrations. Adaptative optics specifically address monochromatic aberrations, which are categorized into low-order and high-order aberrations. The mechanism which limits this phenomenon is the adjusting of pupil size, so in a daily life, people can see objects clearly. However, in conventional imaging systems without AO, which aim to capture details of the retina, such natural adjustments are not possible. 
+ In retinal imaging, the diffraction-limited optical resolution is governed by the numerical aperture (NA) of the human eye. The NA is limited to 0,24 due to the focal length of the eye and the maximum pupil diameter (approximately 8 mm) [ 3 ]. According to the diffraction limit formula, r = 0.61 λ / NA ( r is the resolution, λ is the imaging wavelength, and NA is the numerical aperture) [ 26 ], a theoretical resolution of about 2 μm can be achieved [ 3 , 26 ]. However, in practice, optical aberrations of the human eye increase with the pupil diameter. Therefore, commercial OCT systems typically offer a lateral resolution of about 9 μm [ 3 ] to 15 μm [ 26 ] by sending into the eye a beam of 2 mm in diameter [ 3 ]. 
+ In essence, it could be said that AO is for the fundus imaging techniques, what the adjusting of the pupil size is for the eye. It actively compensates for optical aberrations through an adaptive optical component like, e.g., a deformable mirror [ 3 ]. 
+ The primary advantage of AO-OCT is that the 2 μm axial resolution is actually a cellular resolution. Consequently, this leads to the ability to visualize in vivo the cellular-sized structures within the human retina, such as nerve fibers, photoreceptors, RPE, or capillaries. This feature is particularly relevant for research purposes. 
+ AO-OCT is not widely used in clinical ophthalmology due to several limitations, including motion artifacts, the need for constant fixation, poor mydriasis, and the presence of any media opacities that significantly degrade the image quality [ 27 ]. Despite these challenges, Mozaffari S. et al. [ 28 ] addressed some of these limitations and described a system of eye tracking that could remove eye motion artifacts. 3.2.2. Clinical Application 
+ The visualization of photoreceptors allows for the monitoring and diagnosing of diseases that affect the retinal layer. For instance, it can be utilized in inherited retinal degeneration, including but not limited to retinitis pigmentosa, cone-rod dystrophy, Stargardt’s macular dystrophy, choroideremia, and Usher’s syndrome and achromatopsia [ 29 ]. Additionally, it holds significant value in AMD. Several studies have demonstrated alterations in photoreceptor density and reflectivity at retinal sites overlaying drusen [ 30 , 31 ] and subretinal drusenoid deposits [ 32 , 33 ]. 
+ AO-OCT further enables visualization of the ganglion cell bodies [ 34 ]. Thanks to the 3D micrometric resolution of AO-OCT, a full 3D organization of the retinal ganglion cells (RGC) mosaic was revealed. Quantifying the RGC morphology offers a promising perspective in studying and diagnosing glaucoma [ 35 ]. 
+ Moreover, initial changes in inner retinal thickness in glaucoma may be followed by outer retinal changes. These include changes to the integrity and density of cone photoreceptors. Photoreceptors’ outer segments are observed to be shorter and exhibit greater variability in retinal areas associated with visual field loss compared to unaffected or less affected areas [ 36 , 37 ]. 
+ In the context of glaucoma, AO-OCT also allows direct visualization of the lamina cribrosa. Its high resolution allows a microscopic point of view of its network of collagenous beams at different axial depths [ 38 , 39 ]. Elevations in intraocular pressure contribute to the mechanical reshaping of the lamina cribrosa’s microarchitecture, which AO-OCT can effectively capture. 
+ Regarding retinal vasculature, clinical imaging of choriocapillaris is hard to obtain due to its dense capillary network and the overlaying melanin-rich RPE. Both block light from reaching the target. AO-OCT angiography allowed the in vivo imaging of the choriocapillaris structure and perfusion in the human retina [ 40 ]. These imaging approaches could track choriocapillaris changes, such as the disruptions found in AMD. 
+ Ultimately and most recently, AO-OCT is applied to monitor responses to emerging treatments, including gene and small-molecule therapies [ 41 ], stem cell transplantation [ 42 ], and optogenetic therapies [ 43 ]. Its cellular-level resolution facilitates detailed assessment, further solidifying its role in advancing ophthalmic research and clinical practice. 3.3. Polarization-Sensitive OCT 
+ 3.3.1. Technological Advances 
+ In the case of OCT, light is emitted to visualize tissues. To enhance tissue contrast, various physical properties of light are exploited, such as the wavelength or the intensity. Another important property of light is polarization. 
+ Within the eye, all biological tissues that light passes through (including the light emitted by conventional TD- and SD-OCT) contain varying amounts of collagen. The polarization state of light is altered along the axial depth when passing through these collagenous tissues [ 44 ]. So, an additional contrast could be provided by measuring and evaluating the change in the polarization state of the backscattered probe light [ 3 ]. 
+ PS-OCT can analyze the birefringence, providing quantitative information related to the polarization-dependent changes [ 45 ], and in 1992, the functions of PS-OCT were first demonstrated [ 46 ]. 3.3.2. Clinical Application 
+ Given PS-OCT’s ability to increase the contrast of fibrous tissues, it is suitable for imaging diseases, which imply collagen-reach structures (for example, the cornea and sclera), fibrosis growth (for example, AMD), or retinal structures, such as RPE. 
+ Clinically, PS-OCT is worthy of being applied for the investigation of glaucoma, including measuring the internal space of filtering blebs following trabeculectomy [ 47 , 48 , 49 , 50 , 51 ] or for the noninvasive visualization of the trabecular meshwork (TM) [ 52 ]. It is noteworthy that in addition to these structures of interest for glaucoma study, Schlemm’s canal observation through PS-OCT is not suitable because it is a hollow space (a tubular canal) rather than a solid collagenous tissue [ 44 ]. 
+ PS-OCT was found useful for the assessment of keratoconus [ 53 , 54 , 55 ]. The better ability of PS-OCT for imaging the cornea could offer, in the future, the assessment of cornea degeneration, keratitis, or corneal leucoma development. 
+ RPE is a melanin-containing structure [ 56 ] and depolarizes. Therefore, PS-OCT imaging offers a better contrast of RPE, making its visualization clearer. RPE is significantly involved in the pathogenesis of neovascular AMD, and the identification of disease-specific patterns in the choroidal neovascular membrane is significant regarding the status and progress of RPE, potentially contributing to a better pathophysiological understanding of neovascular AMD [ 57 ]. Similarly, PS-OCT can segment the geographic atrophy seen in the dry form of AMD [ 58 ]. Moreover, the retinal fibrosis growth in the setting of neovascular AMD can be tracked using PS-OCT [ 59 ]. 
+ In addition, PS-OCT has an adaptation, namely, a polarization-sensitive quantum (PS-QOCT), which provides dispersion cancellation and identifies the refractive index of a media [ 60 ]. Thus, PS-QOCT provides both an improved resolution and improved contrast of collagenous fibers [ 61 , 62 ]. 3.4. Full-Field OCT (FF-OCT) and Dynamic FFOCT 
+ 3.4.1. Technological Advances 
+ FF-OCT enables the acquisition of histology-like images of a sample noninvasively, offering controllable transverse and axial resolution ranging from 10 μm to as fine as 1 μm, with an imaging depth of 1 mm or more, depending on the scattering characteristics of the samples [ 63 ]. This capability is achieved through the combination of enhanced lateral resolution and axial resolution. The lateral resolution is improved by employing lenses with a high NA [ 63 ], while the axial resolution benefits from the use of a broadband light source [ 63 ]. With these technical improvements, FF-OCT collects interferograms of different phases at the focusing depth of the sample by the planar detector [ 63 ]. 
+ FF-OCT provides isotropic micrometric resolution and has the ability to produce a histology-like image from a sample within a few milliseconds without physical slicing, making this investigation a form of “optical biopsy” [ 63 ]. This capability enables the identification of the features from the microstructural to cellular level, making it valuable across various medical fields, including ophthalmology, oncology, and dermatology. In addition to ophthalmology, the reported applications include the discrimination of the benign and malignant tissues of skin cancer [ 64 , 65 ], breast invasive ductal cancer [ 66 , 67 ], and head and neck cancer [ 68 ], as well as the optical biopsy of intestinal tissues [ 69 , 70 ]. 3.4.2. Clinical Application 
+ In ophthalmology, FF-OCT enables the visualization of retinal structures, such as the nerve fiber layer, ganglion cell layer (GCL), inner plexiform layer (INL), outer plexiform layer (OPL), and outer nuclear layer (ONL). Due to its subcellular resolution, FF-OCT can also detect the cellular characteristics of each layer within the retina, such as the details of ganglion cell axons and cell bodies [ 63 , 71 ]. 
+ The FF-OCT presents some limitations in acquiring images of in vivo human retinal structures due to the presence of continuous involuntary head and eye axial motion and a relatively small field of view (FOV). Viacheslav M. et al. demonstrated a potential use of FF-OCT in the ophthalmology field [ 72 ]. Also, Mecê P. et al. developed a system that optically compensates for axial motion in real-time for time-domain FF-OCT [ 73 ]. 
+ Mazlin et al. [ 74 ] allowed visualization of the FOV of the corneal sub-basal nerve and endothelial layers. Many more nerves and cells could be counted. This could potentially lead to a more precise quantitative diagnosis of corneal conditions [ 75 ]. 
+ A derivative of FF-OCT has been described as providing the visualization of dynamic structures at the microscopic level. In the dynamic FF-OCT (D-FFOCT), backscattered light from subcellular structures in motion can be measured in a time-dependent fashion, which potentiates live or time-lapse imaging [ 76 ]. D-FFOCT can noninvasively capture mitochondrial dynamics and pigment distribution in RPE cells in real time [ 77 ]. Groux et al. [ 77 ] showed that D-FFOCT allows the imaging and study of degeneration in RPE cell cultures. Thus, it may play a pivotal role in understanding and monitoring degenerative retinal diseases (such as AMD). Furthermore, it may become a tool for following such diseases in a microscopic manner in vivo. Moreover, D-FFOCT could be applied to study optic nerve diseases, as mitochondrial dynamics, activity, and fragmentation play a key role in these conditions [ 77 , 78 ]. 
+ Another recent application of D-FFOCT is described by Scholler et al. [ 79 ], who introduced a novel method of the label-free imaging of retinal organoids using D-FFOCT and used it to monitor the temporal development of retinal organoids with a temporal resolution of 20 ms. 3.5. Intraoperative OCT (iOCT) 
+ 3.5.1. Technological Advances 
+ The first clinical application of iOCT was reported in 2005 using a handheld OCT device during anterior segment surgery [ 80 ]. Since then, technology has evolved and made systems more and more mobile and compact. However, the implementation of iOCT in clinical settings faces several challenges, such as a sterile environment, delayed surgical workflow, significant investment, and, most importantly, a still limited understanding of the benefits, referring to the balance between surgeons’ decisions and consequently, the postsurgical evolution of the patients [ 81 ]. 
+ To address this, Ehlers et al. conducted two studies in order to investigate the impact of iOCT on clinical decision-making: prospective and perioperative ophthalmic imaging with optical coherence tomography (PIONEER) [ 81 ] and Determination of the Feasibility of Intraoperative Spectral Domain Microscope Combined/Integrated OCT Visualization During En Face Retinal and Ophthalmic Surgery (DISCOVER) [ 82 ]. In both studies, the iOCT images led to an altered surgical decision in anterior and posterior segment surgery. For example, the completeness of retinal membrane peeling and adherence of posterior lamellar keratoplasty grafts are some of the surgical information provided by iOCT, which can alter surgical decision-making [ 81 ]. 
+ Regarding devices incorporating an iOCT system, technological advances have made possible three types of devices, which are currently used in practice: handheld, microscope-integrated, and instrument/probe-integrated [ 83 ]. 
+ Currently, iOCT is widely used in various types of surgeries: vitreoretinal surgery, corneal surgery, cataract surgery, glaucoma surgery, corneal crosslinking, refractive surgery, and pediatric ophthalmic surgery [ 83 ]. 3.5.2. Clinical Application 
+ Posterior Segment Surgery 
+ In vitreoretinal surgery, the current applications of iOCT are routine surgeries, such as retinal membrane peeling, macular hole surgery, and retinal detachment surgery [ 83 ], especially in complex cases [ 84 ]. However, iOCT aids in managing challenging vitreoretinal interventions that entail a high risk of misplacement, incorrect removal of tissue, or scar tissue formation, which suggests the potential future directions of its clinical use. 
+ Beyond enhancing the visualization of anatomical structures during surgery and guiding through the surgical procedure, iOCT provides a predictability value regarding postoperative outcomes. For example, during the peeling process of the epiretinal membrane, retinal stress and thickening are induced. The amount of retinal thickening immediately following peeling was measured with iOCT in a study [ 85 ]. They found a correlation between retinal thickening and postoperative development of a dissociated optic nerve fiber layer (DONFL) [ 85 ]. 
+ iOCT also plays a role in the submacular space. Kashani A.H. et al. [ 86 ] demonstrated that iOCT could confirm the successful implantation of a biosynthetic RPE monolayer for treating geographic atrophy. Also, iOCT visualizes and confirms the position of the cannula in the subretinal space for direct drug delivery [ 87 , 88 ]. Even more, in cases of maximum precision, such as delivering drugs directly between photoreceptors and the retinal pigment epithelium, iOCT is a mandatory tool [ 89 ]. Given the dimension of the subretinal space and the surgical precision of its approach, iOCT can be a tool used in robotic-assisted subretinal delivery [ 90 ]. In addition to these kinds of procedures, iOCT can be used for retinal prosthesis implantation and chorioretinal biopsies [ 91 ]. 
+ In a study, Asahina Y. et al. [ 92 ] analyzed 20 eyes with a clinical diagnosis of diabetic retinopathy and refractory cystoid macular edema (CME) treated with iOCT-guided cystotomy. The results indicated that iOCT-guided cystotomy could be another treatment option for refractory CME in diabetic eyes. Also, iOCT proves useful in retinal biopsies [ 93 ] and subretinal and submacular injections [ 88 ]. 
+ Furthermore, iOCT can assess the effect of instrumentation on tissues during vitreoretinal surgeries [ 94 ]. Since surgeons lack tactile feedback during such procedures, iOCT B-scans provide visual cues on how tissues react to different maneuvers using various instruments. 
+ Furthermore, iOCT allows the assessment of fovea status in cases of vitreous opacities, such as vitreous hemorrhage, which obstruct preoperatively fovea visualization due to the shadowing effect [ 94 ]. Anterior Segment Surgery 
+ In anterior segment surgery, iOCT is frequently used in different types of keratoplasties: deep lamellar anterior keratoplasty (DALK), Descemet stripping endothelial keratoplasty (DSEK), and Descemet membrane endothelial keratoplasty (DMEK) [ 95 ]. During these keratoplasties, through iOCT, the surgeon can directly assess the depth of the dissection planes if necessary [ 95 ]. The use of iOCT during DMEK aids the surgeon in orientating, positioning, or unfolding the graft [ 96 , 97 ]. Patel et al. [ 96 ] reported that iOCT can improve surgical efficiency by visualizing these maneuvers, leading to a decrease in the duration of these maneuvers and graft handling and minimizing endothelial cell loss. 
+ For corneal trauma and other corneal surgeries, iOCT demonstrates its helpfulness. Eguchi H. et al. [ 98 ] reported that iOCT can facilitate securing corneal sutures by demonstrating the needle depth during suture procedures; can assess the depth of foreign bodies in the cornea, thereby facilitating effective removal and reducing the risk of complications; and can precisely estimate the depth of corneal opacities in cases of chemical or thermal burns. Also, in cases of surgical treatment for Salzmann nodular degeneration, iOCT can visualize the cleavage plane between the nodule and underlying corneal tissue in image-guided lamellar keratectomy [ 82 ]. For the treatment of advanced keratoconus, iOCT can be used in a new procedure, namely, Bowman layer transplantation, even when the air–endothelial interface is obscured [ 99 ]. Glaucoma Surgery 
+ Regarding glaucoma surgeries, Muijzer et al. [ 83 ] concluded that, overall, the currently available iOCT devices do not show an important impact on targeted tissue (such as the trabecular meshwork or sclera) visualization and, therefore, a clinical benefit. The research algorithm used in this paper also led to their conclusion. Cataract Surgery 
+ Regarding cataract surgery, iOCT has demonstrated its utility in assessing the most important aspects of this type of surgery: surgical safety and the refractive outcome. Regarding safety and referring especially to young surgeons, iOCT provides direct visualization of the groove depth and the construction of self-sealing corneal incisions [ 100 , 101 ]. IOCT can confirm the placement of the intra-ocular lens (IOL) in the capsule bag [ 101 ] and can detect capsular defects [ 102 ]. 
+ Additionally, even experienced cataract surgeons could benefit from the use of iOCT. For example, in cases of posterior polar cataracts, iOCT detects pre-existing posterior capsular dehiscence during cataract surgery, thereby preventing lens drop [ 102 ]. Also, during IOL scleral fixation, iOCT visualizes the sclera flap preparations and can assess the preparation depth, which results in enhanced stability of the fixated IOL [ 103 ]. 
+ Regarding posterior pole cataracts, Sarkar S. et al. [ 104 ] investigated the efficacy of preoperative anterior segment OCT to predict intraoperative posterior capsular rupture (PCR). They found that the sensitivity and specificity of anterior segment OCT for detecting dehiscence were 94.4% and 87.5%, respectively. In other words, anterior segment OCT can be used in a diagnostic manner for this type of complication in this special type of cataract. 
+ Regarding the refractive outcome of cataract surgery, the images from iOCT and the associated data regarding the IOL position can optimize IOL calculations and future IOL designs. The meridian lens position has a great influence over the anterior chamber depth (ACD) [ 105 ]. Thereby, a study found that integrating iOCT data into current IOL power calculation formulas can improve refractive outcomes [ 106 ]. Similarly, the intraoperative ACD measured using OCT was a significantly better predictor for postoperative-manifesting refractive outcomes [ 106 , 107 , 108 ]. Furthermore, Hirnschall et al. showed 7.1% of cases would have resulted in a different IOL power if preoperative and intraoperative ACD measurements had been combined [ 106 ]. During IOL scleral fixation, iOCT can also be helpful in the adjustment of the IOL tilt, thus reducing potential residual cylinder diopters [ 109 ]. 3.6. At-Home OCT 
+ There are some retinal diseases (such as neovascular AMD or retinopathy of prematurity (ROP)) that require periodical monitoring via clinic visits and OCT imaging to survey disease evolution and ensure proper management. These visits can often be burdensome, especially for the elderly population [ 110 ]. Several studies have shown that the use of at-home OCT was feasible among patients and was clinically gradable and, therefore, successful in monitoring macular diseases and response to treatments [ 110 , 111 , 112 , 113 ]. 
+ Liu Y. et al. [ 110 , 111 ] studied the results of regular self-imaging through a novel spectral domain OCT system (Notal Vision Home OCT). They gathered several parameters, such as retinal fluid volume and fluid load over time, among patients suffering from neovascular AMD and compared the images taken by the patients with the images acquired by the medical personnel. They concluded that the novel system meets the requirements for self-controlled imaging, and it can be used in the future for illustrating the acute changes in neovascular AMD and anti-VEGF therapy responses. 
+ Furthermore, Nahen K. et al. [ 111 ] concluded that image analysis based on artificial intelligence can potentially support clinicians in the assessment and utilization of a large amount of data generated by daily home OCT imaging. Also, Burchard et al. [ 112 , 113 ] obtained similar results with a different at-home OCT system: a low-cost full-field based OCT with realistic production costs below USD 1000. Moreover, they scanned diabetic macular edema and retinal vein occlusion in addition to neovascular AMD. 3.7. Hand-Held OCT (HH-OCT) 
+ This type of OCT technology has been developed to address the main practical limitation of commercially available OCTs, namely, limited portability. Therefore, they serve as an efficient and diagnostic point-of-care imaging tool [ 114 ]. 
+ Thanks to its portability, HH-OCT can address limitations for patients who cannot be scanned by commercial OCT systems: bedridden patients [ 115 ] and infants or young populations [ 116 , 117 , 118 ]. However, given the fact that this sort of system does not present a stiff support (such as a table), Wang K.L. et al. [ 119 ] remarked on several challenges for a handheld OCT system, including operator variability, hand movement, and manual alignment. 
+ Nicholson R. et al. [ 117 ] demonstrated that OCT imaging of children with Down syndrome in an outpatient setting is feasible, revealing a high incidence of fovea hypoplasia in this group, associated with thickening of the ganglion cell and inner nuclear layers at the fovea. 
+ Kubsad D. et al. [ 120 ] used HH-OCT to evaluate several ROP severity vitreoretinal biomarkers, such as punctate hyperreflective vitreous opacities and vitreous bands, foveal development biomarkers, choroidal features, and dome-shaped macula. These biomarkers showed subclinical structural findings, and they were associated with the development and progression of ROP. These findings make HH-OCT a useful tool for guiding screening and treatment strategies. 
+ Also, Mangladesh S. et al. [ 121 ] examined infants at the bedside in an intensive care nursery and compared the stress level of the infants induced by the HH-OCT imaging investigation and binocular indirect ophthalmoscopy (BIO) examination for ROP. They showed that investigational HH-OCT imaging is less stressful for infants than BIO examination. 3.8. Wide-Field and Ultrawide-Field OCT (WF-OCT and UWF-OCT) 
+ 3.8.1. Technological Advances 
+ Standard OCT systems are constrained to a relatively narrow field of view (FOV) of around 30 × 30 degrees [ 122 ]. This is why patients are asked to move their eyes to scan the peripheral retina and widen the FOV. To address this limitation in imaging capability, wide-field OCT technology with an FOV of around 40–55 degrees and ultrawide-field OCT with a FOV of up to 200 degrees were developed [ 123 , 124 ]. 
+ In 2019, the International Widefield Imaging Study Group presented its definitions of wide-field imaging. A wide field was classified as an FOV of 60–100 degrees. This means the mid-periphery of the retina up to the posterior edge of the vortex vein ampulla. From the anterior edge of the vertex vein ampulla and beyond to the ora serrata was defined as an ultrawide field, meaning an FOV of 110–220 [ 125 ]. 3.8.2. Clinical Application 
+ This type of OCT can easily scan the peripheral retina and allows for capturing peripheral retinal diseases, such as retinal tears, retinal holes, retinal tuft, retinoschisis, choroidal lesions, vitreous detachments, or lattice degeneration [ 126 ]. 
+ UWF-OCT could be used to assess posterior vitreous detachments in high-myopia eyes. Takahashi H. et al. [ 123 ] demonstrated that vitreous traction spanning a wide distance may lead to myopic traction maculopathy. Also, in high-myopia eyes, only WF-OCT could detect the posterior staphyloma’s presence, depth, and perimeter. Specifically, the projection image could better see the edge of the staphyloma as a dark ring [ 122 ]. 
+ WF-OCT was able to scan peripheral choroidal lesions with superior quality than standard OCT, providing information on their size, shape, distance from the optic nerve and macula, and impact on the choriocapillaris and choroid. Furthermore, it revealed no vascularity in benign nevi and tubercular granuloma but dense vascularity in melanoma and choroidal hemangioma [ 122 ]. 
+ Ripa M. et al. [ 122 ] acquired WFT-OCT scans in 311 eyes. In this group, 39% had peripheral lesions, and 31% were not detectable using slit lamp biomicroscopy, WF retinography, and standard macular OCT. This reveals the potential complementary role of UWF-OCT when examining the peripheral retina. Also, in their study [ 122 ], WF and UWF-OCT revealed the location and extent of the retinal detachment, the retinal tear locations, and preretinal membranes in all eyes with retinal detachment. 
+ Furthermore, UWF-OCT could be used in cases with various densities of vitreous hemorrhages. Retinography, standard macular OCT, and slit lamp biomicroscopy cannot thoroughly examine the fundus. Blood’s cellularity is perceived as a collection of numerous aggregate dots. The vitreous cellularity in five uveitic eyes was remarkably similar to that originating from blood. Moreover, the cellularity could be detected neither with retinography nor standard macular OCT [ 122 ]. 
+ WF-OCT imaging was incorporated successfully into a hand-held device, as presented by Nyugen et al. [ 127 ]. They obtained high-resolution scanning images in pediatric populations. Their FOV was 105 degrees. Therefore, they obtained diagnoses and peripheral lesions, such as ROP, tractional retinal detachments secondary to ROP, rhegmatogenous retinal detachment, chronic exudative retinopathy, persistent fetal vasculature, incontinenta pigmenti with peripheral avascular retina, x-linked retinoschisis, and chorioretinal scarring with retinal traction secondary to non-accidental trauma and coats disease. 
+ Regarding future applications in ophthalmology, WF-OCT and UWF-OCT could undergo the application of artificial intelligence, which is playing an increasingly important role in optimizing the delivery of research and diagnoses in ophthalmology [ 128 ]. 
+ WF-OCT and UWF-OCT are not without challenges. Increasing optical aberrations as the FOV increases, pupillary and ciliary shadowing-related artifacts, increased peripheral retinal curvature and inter-individual variation in retinal curvature, and the need for a very high A-scan rate (>1 million A-scans per second) represent multiple variables that need to be addressed to obtain analyzable dense WF-OCT scans [ 60 ]. 
+ To summarize, WF-OCT and UWF-OCT provide high-quality, noninvasive, in vivo tomographic details of chorioretinal layers, aiding clinicians in diagnosing and managing peripheral chorioretinal disorders. 3.9. Summarized Discussions 
+ Table 1 summarizes the main technical features and, subsequently, the main benefits of tissue scanning and visualization. Table 2 shows the areas where the discussed OCT technologies have clinical applications. 
+ Table 1. 
+ The main technical advances and the main benefits of each OCT technology. 
+ 
+ 
+ Advances in OCT 
+ Main Technical Characteristic 
+ Main Benefit 
+ Reference 
+ 
+ 
+ 
+ Visible-light OCT 
+ It utilizes light (500–600 nm) for OCT illumination 
+ Improved axial imaging resolution (<2 μm) Quantitative evaluation of oxygen saturation in retinal circulation 
+ [ 8 ] 
+ 
+ 
+ Adaptative optics OCT 
+ It limits the wavefront aberrations 
+ Cellular resolution imaging 
+ [ 26 ] 
+ 
+ 
+ Polarization-sensitive OCT 
+ It analyzes the birefringence, providing quantitative information related to the polarization-dependent changes 
+ Suitable for imaging diseases that imply collagen-reach structures 
+ [ 45 ] 
+ 
+ 
+ Full-field and dynamic OCT 
+ It is based on the principle of low-coherent interference 
+ It provides histology-like images of a sample noninvasively with a controllable transverse and axial resolution (10 μm or even 1 μm) 
+ [ 63 ] 
+ 
+ 
+ Intraoperative OCT 
+ Portable OCT system 
+ OCT imaging during surgeries 
+ [ 83 ] 
+ 
+ 
+ At-home OCT 
+ Portable OCT system 
+ Self-imaging by patients 
+ [ 110 ] 
+ 
+ 
+ Hand-held OCT 
+ Portable OCT system 
+ Suitable for bedridden patients and pediatric patients 
+ [ 115 , 116 ] 
+ 
+ 
+ Wide-field and ultrawide-field OCT 
+ Increasing field of view up to 200 degrees 
+ Scans peripheral retina 
+ [ 123 , 124 ] 
+ 
+ 
+ 
+ Open in a new tab Table 2. 
+ The field of clinical application of each OCT technology. 
+ 
+ 
+ OCT Technologies 
+ Fields of Clinical Application 
+ 
+ 
+ 
+ Visible-light OCT 
+ 
+ 
+ Glaucoma [ 19 , 20 , 22 ]; 
+ Vascular retinopathies [ 8 , 21 ]; 
+ Retinal degeneration [ 24 ]. 
+ 
+ 
+ 
+ 
+ Adaptive optics OCT 
+ 
+ 
+ Retinal degeneration [ 29 , 30 , 31 , 32 , 33 ]; 
+ Glaucoma [ 35 , 36 , 37 , 38 , 39 ]; 
+ Monitoring gene and small-molecule therapies [ 41 ], stem-cell transplantation [ 42 ], and optogenetic therapies [ 43 ]. 
+ 
+ 
+ 
+ 
+ Polarization-sensitive OCT 
+ 
+ 
+ Glaucoma [ 47 , 48 , 49 , 50 , 51 , 52 ]; 
+ Keratoconus [ 53 , 54 , 55 ]; 
+ Neovascular AMD [ 57 , 59 ] and geographic AMD [ 58 ]. 
+ 
+ 
+ 
+ 
+ Full-field and dynamic full-field OCT 
+ 
+ 
+ Corneal diseases [ 75 ]; 
+ Retinal degeneration [ 77 ]. 
+ 
+ 
+ 
+ 
+ Intraoperative OCT 
+ 
+ 
+ Posterior segment: retinal membrane peeling, macular hole surgery, retinal detachment surgery [ 83 , 84 ], submacular surgeries and interventions [ 86 , 87 , 88 , 89 , 90 , 91 ], and cystotomy [ 92 ]; 
+ Anterior segment: DALK, DMEK, DSEK [ 95 , 96 , 97 ], other corneal surgeries [ 82 , 98 ], and keratoconus (Bowman layer transplantation) [ 99 ]; 
+ Cataract surgery: surgical safety [ 100 , 101 , 102 , 103 , 104 ] and refractive outcome [ 106 , 107 , 108 , 109 ]. 
+ 
+ 
+ 
+ 
+ At-home OCT 
+ 
+ Periodical monitoring of retinal diseases and the response to treatments [ 110 , 111 , 112 , 113 ]. 
+ 
+ 
+ 
+ Hand-held OCT 
+ 
+ 
+ Scanning bedridden patients [ 115 ], infants and young population [ 116 , 117 , 118 ]; 
+ Evaluation of ROP [ 120 ]. 
+ 
+ 
+ 
+ 
+ Wide-field and ultrawide-field OCT 
+ 
+ 
+ Examining peripheral retina [ 126 ]; 
+ Monitoring high-myopia eyes [ 122 , 123 ]; 
+ Examining vitreous cellularity [ 122 ]. 
+ 
+ 
+ 
+ 
+ 
+ Open in a new tab 4. Discussions 
+ After evaluating the clinical use of these technological advancements in OCT systems, it is essential to briefly discuss their actual and potential uses. These advancements clearly address several pressing needs in ophthalmology. All the OCT systems discussed above emerged as responses to the limitations of conventional SD-OCT, which remains the most widely available OCT system in clinical ophthalmology today. 
+ To better understand their actual roles in ophthalmology, we categorized these systems based on the specific needs they address. The need for enhanced contrast is met by the vis-OCT and PS-OCT, and AO-OCT and FF-OCT address the need for a higher resolution. Meanwhile, systems like iOCT, at-home OCT, HH-OCT, WF-OCT, and UWF-OCT integrate conventional SD-OCT into various devices, overcoming limitations such as portability, visualization of the peripheral retina, scanning bedridden patients, and regular monitoring of chronic diseases. 
+ It is also important to distinguish between their clinical applications and their role in research. For instance, AO-OCT and FF-OCT are particularly suited for research purposes due to their high resolution. In contrast, iOCT, at-home OCT, WF-OCT, UWF-OCT, and HH-OCT are primarily designed for clinical use. Their advancements lie in the integration of SD-OCT into specialized devices rather than innovations within the OCT system itself. Finally, vis-OCT and PS-OCT serve as versatile imaging tools with significant potential for both clinical and research applications. 
+ Regarding the aim of this paper—namely, examining the current and potential application of these OCT advances—several factors must be considered. 
+ First, there is the distinction between strictly clinical ophthalmology and surgical ophthalmology. iOCT has already proven itself as a well-known useful tool in various ophthalmic surgeries. We have discussed above its actual application. Its future applications will likely focus on refining the surgical outcomes, such as improving refractive results in anterior segment surgeries or enhancing visual recovery following manipulations of posterior structures during posterior segment procedures. 
+ Second, regarding the clinical use of these OCT technologies, it is necessary to recognize that they are not yet widely available or accessible in ophthalmology clinics. The reason for that is, for instance, that vis-OCT, PS-OCT, and AO-OCT provide detailed imaging capabilities that could pave the way for new disease classifications or influence the timing of treatments for conditions like retinal diseases or glaucoma. These developments raise broader considerations beyond clinical applications, such as evaluating the clinical benefit and cost-effectiveness of these systems. These complexities further blur the boundaries between their current clinical utility and their future potential. 5. Conclusions 
+ OCT is a powerful tool for diagnosing and monitoring diverse diseases in ophthalmology. Its technology progresses continuously. New advances reflect the need to overcome some limitations in understanding and, finally, treating ophthalmological pathologies. Nowadays, OCT offers a large spectrum of imaging support starting from greater resolution, which can achieve histological resolution and result in intraoperative support and portability in patients’ homes. The diversity of OCT’s innovations also covers the diversity of ocular diseases, being complementary for diagnostics. In addition, widening this spectrum of innovations could be enriching for research and, consequently, early treatment. Furthermore, artificial intelligence could play a major role in ophthalmology through OCT imaging. As technology continues to develop, OCT represents a promising imaging method to assist more and more the medical act. Author Contributions 
+ Conceptualization, M.A.V. and M.L.M.; methodology, M.A.V.; software, M.A.V.; validation, M.L.M.; formal analysis, M.L.M.; investigation, M.A.V.; resources, M.A.V.; data curation, M.L.M.; writing—original draft preparation, M.A.V.; writing—review and editing, M.L.M.; supervision, M.L.M.; funding acquisition, M.L.M. All authors have read and agreed to the published version of the manuscript. Conflicts of Interest 
+ The authors declare no conflicts of interest. Funding Statement 
+ This research received no external funding. Footnotes 
+ Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content. References 
+ 
+ 
+ 1. Huang D., Swanson E., Lin C., Schuman J., Stinson W., Chang W., Hee M., Flotee T., Gregory K., Puliafito C., et al. Optical coherence tomography. Science. 1991;254:1178–1181. doi: 10.1126/science.1957169. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Page M.J., McKenzie J.E., Bossuyt P.M., Boutron I., Hoffmann T.C., Mulrow C.D., Shamseer L., Tetzlaff J.M., Akl E.A., Brennan S.E., et al. The PRISMAA 2020 statement: An updated guideline for reporting systematic reviews. PLoS Med. 2021;18:e1003583. doi: 10.1371/journal.pmed.1003583. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Aumann S., Donner S., Fischer J., Muller F. High Resolution Imaging in Microscopy and Ophthalmology: New Frontiers in Biomedical Optics. Springer; Berlin/Heidelberg, Germany: 2019. Optical Coherence Tomography (OCT): Principle and Technical Realization. Chapter 3. [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Popescu D., Choo-Smith L., Flueraru C., Mao Y., Chang S., Disano J., Sherif S., Sowa M.G. Optical coherence tomography: Fundamental principles, instrumental designs and biomedical applications. Biophys. Rev. 2011;3:155–169. doi: 10.1007/s12551-011-0054-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Choma M.A., Sarunic M.V., Yang C., Izatt J.A. Sensitivity advantage of swept source and Fourier domain optical coherence tomography. Opt. Express. 2003;11:2183–2189. doi: 10.1364/OE.11.002183. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Leitgeb R., Hitzenberger C., Fercher A. Performance of fourier domain vs time domain optical coherence tomography. Opt. Express. 2003;11:889–894. doi: 10.1364/OE.11.000889. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. De Boer J.F., Cense B., Park B.H., Pierce M.C., Tearney G.J., Bouma B.E. Improved signal-to-noise ratio in spectral-domain compared with time-domain optical coherence tomography. Opt. Lett. 2003;28:2067–2069. doi: 10.1364/OL.28.002067. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Shu X., Beckmann L., Zhang H. Visible-light coherence tomography: A review. J. Biomed. Opt. 2017;22:121707. doi: 10.1117/1.JBO.22.12.121707. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Yi J., Chen S., Shu X., Fawzi A., Zhang H. Human retinal imaging using visible-lighy optical coherence tomography guided by scanning laser ophthalmoloscopy. Biomed. Opt. Express. 2015;6:3701–3713. doi: 10.1364/BOE.6.003701. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Toth C., Narayan D., Boppart S., Hee M.R., Fujimoto F.G., Birngruber R., Cain C.P., DiCarlo W.P. A comparison of retinal morphology viewed by optical tomography and by light microscopy. Arch. Ophthalmol. 1997;115:1425–1428. doi: 10.1001/archopht.1997.01100160595012. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Kevany B., Palczewski K. Phagocytosis of retinal rod and cone photoreceptors. Physiology. 2010;25:8–15. doi: 10.1152/physiol.00038.2009. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Booij J., Baas D., Beisekeeva J., Gorgles T., Bergen A. The dynamic nature of Bruch’s membrane. Prog. Retin. Eye Res. 2010;29:1–18. doi: 10.1016/j.preteyeres.2009.08.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Spaide R., Curcio C. Anatomical correlates to the bands seen in the outer retina by optical coherence tomography: Literature review and model. Retina. 2011;31:1609–1619. doi: 10.1097/IAE.0b013e3182247535. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Pollreisz A., Neschi M., Sloan K., Pircher M., Mittermueller T., Dacey D.M., Schmidt-Erfurth U., Curcio C.A. Atlas of human retinal pigment epithelium organelles significant for clinical imaging. Investig. Ophthalmol. Vis. Sci. 2020;51:13. doi: 10.1167/iovs.61.8.13. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Chong S., Zhang T., Kho A., Bernucci M., Dubra A., Srinivasan V. Ultrahigh resolution retinal imaging by visible light OCT with longitudinal achromatization. Biomed. Opt. Express. 2018;9:1477–1491. doi: 10.1364/BOE.9.001477. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Rubinoff I., Beckmann L., Wang Y., Fawzi A., Liu X., Tauber J., Jones K., Ishikawa H., Schuman J.S., Kuranov R., et al. Specke reduction in visible-light optical coherence tomography using modulation. Neurophotonics. 2019;6:041107. doi: 10.1117/1.NPh.6.4.041107. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Zhang T., Kho A., Srinivasan V. In vivo Morphometry of Inner Plexiform Layer (IPL) Stratification in the Human Retina with Visible Light Optical Coherence Tomography. Front. Cell. Neurosci. 2021;15:655096. doi: 10.3389/fncel.2021.655096. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Ghassabi Z., Kuranov R., Schuman J., Zambrano M., Wu M., Liu M., Tayebi B., Wang Y., Rubinoff I., Liu X., et al. In vivo Sublayer Analysis of Human Retinal Inner Plexiform Layer Obtained by Visible-LIght Optical Coherence Tomography. Investig. Ophthalmol. Vis. Sci. 2022;63:18. doi: 10.1167/iovs.63.1.18. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Rubinoff I., Miller D., Kuranov R., Wang Y., Fang R., Volpe N., Zhang H. High-speed balanced-detection visible-light optical coherence tomography in the human retina using subpixel spectrometer calibration. IEEE Trans. Med. Imaging. 2022;41:1724–1734. doi: 10.1109/TMI.2022.3147497. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Song W., Zhang S., Kim Y.M., Sadlak N., Fiorello M.G., Desai M., Yi J. Visible Light Optical Coherence Tomography of Peripapillary Retinal Nerve Fiber Layer Reflectivity Glaucom. Transl. Vis. Sci. Technol. 2022;11:28. doi: 10.1167/tvst.11.9.28. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Yi J., Liu W., Chen S., Backman V., Sheibani N., Sorenson C., Fawzi A.A., Lisenmeier R.A., Zhang H.F. Visibile light optical coherence tomography measures retinal oxygen metabolic response to systemic oxygenation. Light Sci. Appl. 2015;4:e334. doi: 10.1038/lsa.2015.107. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Wang J., Sadlak N., Fiorello M., Desai M., Yi J. Macular oxygen Saturation in Glaucoma Using Retinal Oximetry of Visible Optical Coherence Tomography. MedRxiv. 2023 doi: 10.1101/2023.12.20.23300300. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Nafar Z., Jiang M., Wen R., Jiao S. Visible-Light optical coherence tomograhy-based multimodal retinal imaging for improvement of fluorescent intensity quantification. Biomed. Opt. Express. 2016;7:3220–3229. doi: 10.1364/BOE.7.003220. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Liu T., Lam B., Puliafito C., Jiao S. Depth-resolved rhodopsin molecular contrast imaging for functional assessment of photoreceptors. Sci. Rep. 2015;5:13992. doi: 10.1038/srep13992. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Babcock H. The possibility of compensating astronomical seeing. Publ. Astron. Soc. Pac. 1953;65:229–236. doi: 10.1086/126606. [ DOI ] [ Google Scholar ] 
+ 
+ 26. Liu L., Wu Z., Qi M., Li M., Liao D., Gao P. Application of Adaptative Optics in Ophthalmology. Photonics. 2022;9:288. doi: 10.3390/photonics9050288. [ DOI ] [ Google Scholar ] 
+ 
+ 27. Pircher M., Zawadzki R. Review of adaptative optics OCT (AO-OCT): Principles and applications for retinal imaging. Biomed. Opt. Express. 2017;8:2536–2562. doi: 10.1364/BOE.8.002536. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Mozaffari S., Feroldi F., LaRocca F., Tiruveedhula P., Gregory P., Hyle Park B., Roorda A. Retinal imaging using adaptative optics optical coherence tomography with fast and accurate real time tracking. Biomed. Opt. Express. 2022;13:5909–5925. doi: 10.1364/BOE.467634. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Morgan J.I., Chui T., Grieve K. Twenty-five years of clinical applications using adaptive optics ophthlmoscopy. Biomed. Opt. Express. 2022;14:387–428. doi: 10.1364/BOE.472274. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Querques G., Kamami-Levy C., Garavito R.B., Georges A., Pedinelli A., Capuano V., Poulon F., Souied E. Appearence of medium-large drusen and reticular pseudodrusen on adaptive optics in age-related macular degeneration. Br. J. Ophthalmol. 2014;98:1522–1527. doi: 10.1136/bjophthalmol-2014-305455. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Mrejen S., Sato T., Curcio C., Spaide R. Assessing the cone photoreceptor mosaic in eyes with pseudodrusen and soft Drusen in vivo using adaptive optics imaging. Ophthalmology. 2014;121:545–551. doi: 10.1016/j.ophtha.2013.09.026. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Zhang Y., Wang X., Sadda S., Clark M., Whitherspoon C.D., Spaide R.F., Owslwy C., Curcio C.A. Lifecycles of individual subretinal drusenoid deposits and evolution of outer retinal atrophy in age-related macular degeneration. Ophthalmol. Retin. 2020;4:274–283. doi: 10.1016/j.oret.2019.10.012. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Zhang Y., Wang X., Rivero E., Clark M., Witherspoon C.D., Spaide R.F., Girkin C.A., Owsley C., Curcio C.A. Photoreceptor perturbation around subretinal drusenoid deposits as revealed by adaptative optics scanning laser ophthalmoscopy. Am. J. Ophthalmol. 2014;158:584–596. doi: 10.1016/j.ajo.2014.05.038. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Liu Z., Kurokawa K., Zhang F., Lee J., Miller D. Imaging and quantifying ganglion cells and other transparent neurons in the living human retina. Proc. Natl. Acad. Sci. USA. 2017;114:12803–12808. doi: 10.1073/pnas.1711734114. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Liu Z., Saeedi O., Zhang F., Villaneuva R., Asanad S., Agrawal A., Hammer D.X. Quantification of retinal ganglion cell morphology in human glaucomatous eyes. Investig. Ophthalmol. Vis. Sci. 2021;62:34. doi: 10.1167/iovs.62.3.34. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Kostanyan T., Wollstein G., Schuman J. Evaluating glaucoma damage: Emerging imaging technologies. Expert Rev. Ophthalmol. 2015;10:183–195. doi: 10.1586/17469899.2015.1012500. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Werner J.S., Keltner J., Zawadzki R., Choi S. Outer retinal abnormalities associated with inner retinal pathology in nonglaucomatous and glaucomatous optic neuropathies. Eye. 2011;25:279–289. doi: 10.1038/eye.2010.218. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Nadler Z., Wang B., JS S., Ferguson R., Patel A., Hammer D.X., Bilonick R.A., Ishikawa H., Kagemann L., Sigal I.A., et al. In vivo three-dimensional characterization of the healthy human lamina cribrosa with adaptative optics spectral-domain optical coherence tomography. Investig. Ophthalmol. Vis. Sci. 2014;55:6459–6466. doi: 10.1167/iovs.14-15177. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Kim D., Werner J., Zawadzki R. Complex conjugate artifact-free adaptative optics optical coherence tomograpghy of in vivo human optic nerve head. J. Biomed. Opt. 2012;17:126005. doi: 10.1117/1.JBO.17.12.126005. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Kurokawa K., Liu Z., Miller D. Adaptative optics optical coherence tomography angiography for morphometric analysis of choriocapillaris. Biomed. Opt. Express. 2017;8:1803–1822. doi: 10.1364/BOE.8.001803. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Anguela X., High K. Entering the modern era of gene therapy. Annu. Rev. Med. 2019;70:273–288. doi: 10.1146/annurev-med-012017-043332. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Shi Y., Inoue H., Wu J., Yamanaka S. Induced pluripotent stem cell technology: A decade of progress. Nat. Rev. Drug Discov. 2017;16:115–130. doi: 10.1038/nrd.2016.245. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Duebel J., Marazova K., Sajel J. Optogenetics. Curr. Opin. Opththalmol. 2015;26:226–232. doi: 10.1097/ICU.0000000000000140. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Ueno Y., Mori H., Kikuchi K., Yamanari M., Oshika T. Visualization of Anterior Chamber Angle Structures with Scattering- and Polarization- Senzitive Anterior Segment Optical Coherence Tomography. Transl. Vis. Sci. Technol. 2021;10:29. doi: 10.1167/tvst.10.14.29. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. de Boer J., Hitzenberger C., Yasuno Y. Polarization sensitive optical coherence tomography—A review. Biomed. Opt. Express. 2017;8:1838–1873. doi: 10.1364/BOE.8.001838. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Hee M.R., Huang D., Swanson E., Fujimoto J. Polarization-sensitive low-coherence reflectometer for birefrigence characterization and ranging. JOSA B. 1992;9:903–908. doi: 10.1364/JOSAB.9.000903. [ DOI ] [ Google Scholar ] 
+ 
+ 47. Yasuno Y., Yamanari M., Kawana K., Oshika T., Miura M. Investigation of post-glaucoma-surgery structures by three-dimensional and polarization sensitive anterior eye segment optical coherence tomography. Opt. Express. 2009;17:3980–3996. doi: 10.1364/OE.17.003980. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Fukuda S., Beheregaray S., Kasaragod D., Hoshi S., Kishino G., Ishii K., Yasuno Y., Oshika T. Noninvasive evaluation of phase retardation in blebs after glaucoma surgery using anterior segment polarizarion-sensitive optical coherence tomography. Investig. Ophthalmol. Vis. Sci. 2014;55:5200–5206. doi: 10.1167/iovs.14-14474. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Yamanari M., Tsuda S., Kokubun T., Shiga Y., Omodaka K., Yokohama Y., Himori N., Ryu M., Kunimatsu-Sanuki S., Takahashi H., et al. Fiber-based polarization-sensitive OCT for birefringence imaging of the anterior eye segment. Biomed. Opt. Express. 2015;6:369–389. doi: 10.1364/BOE.6.000369. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Fukuda S., Fujita A., Kasaragod D., Ueno Y., Hoshi S., Kishino G., Beheregaray S., Yasuno Y., Oshika T. Quantitative evaluation of phase retardation in filtering blebs using polarization-sensitive optical coherence tomography. Investig. Ophthalmol. Vis. Sci. 2016;57:5919–5925. doi: 10.1167/iovs.16-19548. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Kasaragod D., Fukuda S., Ueno Y., Hoshi S., Oshika T., Yasuno Y. Objective evaluation of functionality of filtering bleb based on polarization-sensitive optical coherence tomography. Investig. Ophthalmol. Vis. Sci. 2016;57:2305–2310. doi: 10.1167/iovs.15-18178. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Yasuno Y., Yamanari M., Kawana K., Makita S. Visibility of phase retardation of deep posterior eye by polarization-sensitive optical coherence tomography. J. Biomed. Opt. 2010;15:12385–12396. doi: 10.1117/1.3499421. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Götzinger E., Pircher M., Dejaco-Rushswurm I., Kaminski S., Skorpik C., Hitzenberger C. Imaging of birefringent properties of keratoconus corneas by polarization-sensitive optical coherence tomogrpaghy. Investig. Ophthalmol. Vis. Sci. 2007;48:3551–3558. doi: 10.1167/iovs.06-0727. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Fukuda S., Yamanari M., Lim Y., Hoshi S., Beheregaray S., Oshika T., Yasuno Y. Keratoconus diagnosis using anterior segment polarization-sensitive optical coherence tomography. Investig. Ophthalmol. Vis. Sci. 2013;54:1384–1391. doi: 10.1167/iovs.12-10979. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Fukuda S., Kishino G., Hoshi S., Beheregary S., Ueno Y., Fukuda M., Kasaragod D., Yasuno Y., Oshia T. Repeatability of corneal phase retardation measurements by polarization-sensitive optical coherence tomography. Investig. Ophthalmol. Vis. Sci. 2015;56:3196–3201. doi: 10.1167/iovs.14-16327. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Pircher M., Götzinger E., Findl O., Michels S., Geitzenauer W., Leydolt C., Schmidt-Erfurth U., Hitzenberger C.K. Human macula investigated in vivo with polarization-sensitive optical coherence tomography. Investig. Ophthalmol. Vis. Sci. 2006;47:5487–5494. doi: 10.1167/iovs.05-1589. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Schütze C., Teleky K., Baumann B., Pircher M., Gotzinger E., Hitzenberger C.K., Schmidt-Erfurth U. Polarisation-sensitive OCT is useful for evaluating retinal pigment epithelial lesions in patients with neovascular AMD. Br. J. Ophthalmol. 2016;100:371–377. doi: 10.1136/bjophthalmol-2015-306607. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Sayegh R., Zotter S., Roberts P., Kandula M., Sacu S., Kreil D.P., Baumann B., Pircher M., Hitzenbergen C.K., Schmidt-Erfurth U. Polarization- Sensitive Optical Coherence Tomography and Conventional Retinal Imaging Strategies in Assessing Foveal Integrity in Geographic Atrophy. Investig. Ophthalmol. Vis. Sci. 2015;55:5246–5255. doi: 10.1167/iovs.14-15114. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Schranz M., Roberts P., Motschi A., Hollaus M., Mylonas G., Sacu S., Pircher M., Hitzenberger C.K., Schmidt-Erfurth U. Tracking of fibrosis growth in neovasculare age related macular degeneration. Investig. Ophthalmol. Vis. Sci. 2022;63:1025-F0272. [ Google Scholar ] 
+ 
+ 60. Ong J., Zarnegar A., Corradetti G., Singh S., Chhablani J. Advances in Optical Coherence Tomography Imaging Technology and Techniques for Choroidal and Retinal Disorders. J. Clin. Med. 2022;11:5139. doi: 10.3390/jcm11175139. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Booth M., Giuseppe G., Bahaa E., Sergienko A.V., Teich M.C. Polarization-Sensitive quantum-optical coherence tomography. Phys. Rev. A. 2004;69:043815. doi: 10.1103/PhysRevA.69.043815. [ DOI ] [ Google Scholar ] 
+ 
+ 62. Abouraddy A.F., Nasr M., Bahaa E., Sergienko A.V., Teich N.C. Quantum-Optical Coherence Tomography with Dispersion Cancellation. Am. Phys. Soc. 2002;65:053817. doi: 10.1103/PhysRevA.65.053817. [ DOI ] [ Google Scholar ] 
+ 
+ 63. Ling W., Rongzhen F., Chen X., Minge X. Methods and applications of full-field optical coherence tomography: A review. J. Biomed. Opt. 2022;27:050901. doi: 10.1117/1.JBO.27.5.050901. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Tsai M.-R., Ho T.-S., Wu Y.-W., Lu C.-W. In vivo dual-mode full-field optical coherence tomography for differentiation of types of melanocytic nevi. J. Biomed. Opt. 2021;26:020501. doi: 10.1117/1.JBO.26.2.020501. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Wang Y.-J., Wang J.-Y., Wu Y.-H. Application of Cellular Resolution Full-Field Optical Coherence Tomography in vivo for the Diagnosis of Skin Tumours and Inflammatory Skin Disease: A Pilot Study. Dermatology. 2022;238:121–131. doi: 10.1159/000514686. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Yang H., Zhang S., Liu P., Cheng L., Tong F., Liu H., Wang S., Liu M., Wang C., Peng Y., et al. Use of high-resolution full-field optical coherence tomography and dynamic cell imaging for rapid intraoperative diagnosis during breast cancer surgery. Cancer. 2020;126:3847–3856. doi: 10.1002/cncr.32838. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Assayag O., Antoine M., Sigal-Zafrani B., Riber M., Harms F., Burcheri A., Grieve K., Dalimier E., Le Conte de Poly B., Boccara C. Large field, high resolution full-field optical coherence tomography: A pre-clinical study of human breast tissue and cancer assessment. Technol. Cancer Res. Treat. 2014;13:455–468. doi: 10.7785/tcrtexpress.2013.600254. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. De Leeuw F., Abbaci M., Casiraghi O., Lakhdar A.B., Alfaro A., Breuskin I., Laplace-Builje C. Value of full-field optical coherence tomography imaging for the histological assessment of head and neck cancer. Lasers Surg. Med. 2020;52:768–778. doi: 10.1002/lsm.23223. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Camus M., Beuvon F., Barret M., Dalimier E., El Bacha H., Leblanc S., Coriat R., Chaussade S., Terris B., Prat F. Full-field optical coherence tomography: A new imaging modality for rapid on-site evaluation of resected polyps during colonoscopy. Gastroenterology. 2018;155:1692–1694. doi: 10.1053/j.gastro.2018.07.054. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Quénéhervé L., Olivier R., Gora M., Bossard C., Mosnier J.-F., La Guillaume E.B., Boccara C., Brochard C., Neunlist M., Coron E. Full-field optical coherence tomography: A novel imaging technique for extemporaneous high-resolution analysis of mucosal architecture in human gut biopsies. Gut. 2020;70:6–8. doi: 10.1136/gutjnl-2020-321228. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Grieve K., Thouverin O., Sengupta A., Borderie V.M., Paques M. Appereance of the Retina with Full-Field Optical Coherence Tomography. Investig. Opthalmol. Vis. Sci. 2016;57:OCT96–OCT104. doi: 10.1167/iovs.15-18856. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Viacheslav M., Peng X., Kristina I., Scholler J., Groux K., Grieve K., Fink M., Boccara C. Optical phase modulation by natural eye movement: Application to time-domain FF-OCT image retrieval. Biomed. Opt. Express. 2022;13:902–920. doi: 10.1364/BOE.445393. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Mecê P., Scholler J., Groux K., Boccara C. High-resolution in-vivo human retinal imaging using full-field OCT with optical stabilization of axial motion. Biomed. Opt. Express. 2020;11:492–504. doi: 10.1364/BOE.381398. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Mazlin V., Irsch K., Paques M., Fink M., Boccara C. Curved-field optical coherence tomography: Large-field imaging of human corneal cells and nerves. Optica. 2020;7:872. doi: 10.1364/OPTICA.396949. [ DOI ] [ Google Scholar ] 
+ 
+ 75. Zhang J., Mazlin V., Frei K., Boccara A.C., Yuan J., Xiao P. Time-domain full-field optical coherence tomography (TD-FF-OCT) in ophthalmic imaging. Ther. Adv. Chronic Dis. 2023;14:0406223231170146. doi: 10.1177/20406223231170146. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Scholler J., Mazlin V., Thouverin O., Groux K., Xiao P., Sahel J.-A., Fink M., Boccara C., Grieve K. Probing dynamic processes in the eye at multiple spatial and temporal scales with multimodal full field OCT. Biomed. Opt. Express. 2019;10:731–746. doi: 10.1364/BOE.10.000731. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Groux K., Verschueren A., Nanteau C., Clemencon M., Fink M., Sahel J.-A., Paques M., Reichman S., Grieve K. Dynamic full-field optical coherence tomography allows live imaging of retinal pigment epithelium stress model. Commun. Biol. 2022;5:575. doi: 10.1038/s42003-022-03479-6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Miyazono Y., Hirashima S., Ishihara N., Kusukawa J., Nakamura K.-I., Ohta K. Uncoupled mitochondria quickly shorten along their axis to form indented manner. Sci. Rep. 2018;8:350. doi: 10.1038/s41598-017-18582-6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Scholler J., Groux K., Goureau O., Sahel J.-A., Fink M., Reichman S., Boccara C., Grieve K. Dynamic full-field optical coherence tomography: 3D live-imaging of retinal organoids. Light Sci. Appl. 2020;9:140. doi: 10.1038/s41377-020-00375-8. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Geerling G., Muller M., Winter C., Hoerauf H., Oelckers S., Laqua H., Birngruber R. Intraoperative 2-dimensional optical coherence tomography as a new tool for anterior segment surgery. Arch. Ophthalmol. 2005;123:253. doi: 10.1001/archopht.123.2.253. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Ehlers J.P., Dupps W.J., Kaiser P.K., Goshe J., Singh R.P., Petkovsek D., Srivastava S.K. The prospective intraoperative and perioperative ophthalmic ImagiNg with optical CoherEncE TomogRaphy (PIONEER) Am. J. Ophthalmol. 2014;158:999–1007. doi: 10.1016/j.ajo.2014.07.034. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Ehlers J., Modi Y., Pecen P., Goshe J., Dupps W., Rachitskaya A., Sharma S., Yuan A., Singh R., Kaiser P.K., et al. The DISCOVER study 3-years results: Feasiblity and usefulness of microscope-integrated intraoperative OCT during ophthalmic surgery. Ophthalmology. 2018;125:1014–1027. doi: 10.1016/j.ophtha.2017.12.037. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Muijzer M.B., Schellekens P.A., Beckers H.J., de Boer J.H., Imhof S.M., Wisse R.P. Clinical applications for intraoperative optical coherence tomography: A systemic review. Eye. 2022;36:379–391. doi: 10.1038/s41433-021-01686-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Abraham J., Srivastava S., Le T., Sharma S., Rachitskaya A., Reese J.L., Ehlers J.P. Intraoperative OCT-Assisted Retinal Detachment Repair in the DISCOVER Study: Impact and Outcomes. Ophthalmol. Retin. 2020;4:378–383. doi: 10.1016/j.oret.2019.11.002. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Runkle A.P., Srivastava S.K., Yuan A., Kaiser P.K., Singh R.P., Reese J.L., Ehlers J.P. Associated with Development of Dissociated Optic Nerve Fiber Layer Appearance in the Pioneer Intraoperative Optical Coherence Tomography Study. Retina. 2018;38:S103–S109. doi: 10.1097/IAE.0000000000002017. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Kashani A.H., Uang J., Mert M., Rahhal F., Chan C., Avery R., Dugel P., Chen S., Lebkowski J., Clegg D.O., et al. Surgical Method for Implantation of a Biosynthetic Retinal Pigment Epithelium Monolayer for Geographic Atrophy: Experience from a Phase 1/2a Study. Ophthalmol. Retin. 2020;4:264–273. doi: 10.1016/j.oret.2019.09.017. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Hussain R., Tran K., Maguire A., Berrocal A. Subretinal Injection of Voretigene Neparvovec-rzyl in a Patient with RPE65- Associated Leber’s Congenital Amaurosis. Ophthalmic Surg. Lasers Imaging Retin. 2019;50:661–663. doi: 10.3928/23258160-20191009-01. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Vasconcelos H., Lujan B., Pennesi M., Lauer A. Intraoperative optical coherence tomographic findings in patients undergoing subretinal gene therapy surgery. Int. J. Retin. Vitr. 2020;6:13. doi: 10.1186/s40942-020-00216-1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Davis J., Gregori N., MacLaren R., Lam B.L. Surgical Technique for Subretinal Gene Therapy in Humans with Inherited Retinal Degeneration. Retina. 2019;39:S2–S8. doi: 10.1097/IAE.0000000000002609. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Cehajic-Kapetanovic J., Xue K., Edwards T., Meenink T.C., Beelen M.J., Naus G.J., de Smet M.D., MacLaren R.E. First-in-Human Robot-Assisted Subretinal Drug Delivery Under Local Anesthesia. Am. J. Ophthalmol. 2022;237:104–113. doi: 10.1016/j.ajo.2021.11.011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. Ciarmatori N., Pellegrini M., Nasini F., Talli P.M., Sarti L., Mura M. The State of Intraoperative OCT in Vitreoretinal Surgery: Recent Advances and Future Challenges. Tomography. 2023;9:1649–1659. doi: 10.3390/tomography9050132. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. Asahina Y., Tachi N., Asahina Y., Yoshimura K., Ueta Y. Six-month postoperative outcomes for intraoperative OCT-guided surgical cystotomy for refractory cystoid macular edema in diabetic eyes. Clin. Ophthalmol. 2017;11:2099–2105. doi: 10.2147/OPTH.S150385. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 93. Kumar J., Ehlers J., Sharma S., Srivastava S. Intraoperative OCT for Uveitis-Related Vitreoretinal Surgery in the DISCOVER Study. Ophthalmol. Retin. 2018;2:1041–1049. doi: 10.1016/j.oret.2018.02.013. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 94. Parolini B., Ripa M., Frisina R., Matello V., Motta L. The Role of the Intraoperative Optical Coherence Tomography for Vitreoretinal Surgery in a Real-Life Setting. Life. 2023;13:1813. doi: 10.3390/life13091813. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 95. Au J., Goshe J., Supps W., Srivastava S., Ehlers J. Intraoperative optical coherence tomography for enhanced depth visualization in DALK from PIONEER study. Cornea. 2016;34:1039–1043. doi: 10.1097/ICO.0000000000000508. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 96. Patel A.S., Goshe J., Srivastava S., Ehlers J. Intraoperative optical coherence tomography- assisted descemet membrane endothelial keratoplasty in the DISCOVER study: First 100 cases. Am. J. Ophthalmol. 2020;210:167–173. doi: 10.1016/j.ajo.2019.09.018. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 97. Sharma N., Sahay P., Maharana P., Kumar P., Ahsan S., Titiyal J. Microscope integrated intraoperative optical coherence tomography- guided DMEK in corneas with poor visualization. Clin. Ophthalmol. 2020;14:543–651. doi: 10.2147/OPTH.S230195. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 98. Eguchi H., Hotta F., Kusaka S., Shimomura Y. Intraoperative optical coherence tomography imaging in corneal surgery: A literature review and proposal of novel applications. J. Ophthalmol. 2020;2020:1497089. doi: 10.1155/2020/1497089. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 99. Tong M., Parker J., Dockery P., Birbal R., Melles G. Use of intraoperative anterior segment optical coherence tomography for bowman layer transplantation. Acta Ophthalmol. 2019;97:e1031–e1032. doi: 10.1111/aos.14104. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 100. Titiyal J., Kaur M., Ramesh P., Shan P., Falera R., Bageshwar L., Kinkar A., Sharma N. Impact of clear corneal incision morphology on incision-site descemet membrane detachment in conventional and femtosecond laser-assisted phacoemulsification. Curr. Eye Res. 2018;43:293–299. doi: 10.1080/02713683.2017.1396616. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 101. Das S., Kummelil M., Kharbanda V., Arora V., Nagappa S., Shetty R., Shetty B.K. Microscope integrated intraoperative spectral domain optical coherence tomography for cataracta surgery: Uses and applications. Curr. Eye Res. 2016;41:643–652. doi: 10.3109/02713683.2015.1050742. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 102. Sachdev M., Sachdev R., Malik H., Gupta R., Sachdev G. Femtosecond laser-integrated anterior segment opticalc coherence tomography to detect preexisting posterior capsular dehiscence and increase safety in posterior polar cataracts. J. Cataract. Refract. Surg. 2020;46:235–240. doi: 10.1097/j.jcrs.0000000000000048. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 103. Lang S., Heinzelmann S., Bohringer D., Reinhard T., Maier P. Indications for intraoperative anterior segment optical coherence tomography in corneal surgery. Int. Ophthalmol. 2020;40:2617–2625. doi: 10.1007/s10792-020-01442-0. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 104. Sarkar S., Das S. Role of preoperative anterior segment optical coherence tomography in identifying intraoperative posterior capsular dehiscence in posterior polar cataract. Oman J. Ophthalmol. 2023;16:244–251. doi: 10.4103/ojo.ojo_178_22. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 105. Haddad J., Rocha K., Yeh K., Waring G. 4th Lens anatomy parameters with intraoperative spectral-domain optical coherence tomography in catarctous eyes. Clin. Ophthalmol. 2019;13:253–260. doi: 10.2147/OPTH.S184208. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 106. Hirnschall N., Farrokhi S., Amir-Asgari S., Hienert J., Findl O. Intraoperative optical coherence tomography measurements of aphakic eyes to predict postoperative position of 2 intraocular lens designs. J. Cataract. Refract. Surg. 2018;44:1310–1316. doi: 10.1016/j.jcrs.2018.07.044. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 107. Hirnschall N., Norrby S., Weber M., Maedel S., Amir-Asgari S., Findl O. Using continuous intraoperative optical coherence tomography measurements of the aphakic eyes for intraocular lens power calculation. Br. J. Ophthalmol. 2015;99:7–10. doi: 10.1136/bjophthalmol-2013-304731. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 108. Hirnschall N., Amir-Asgar S., Maedel S., Findl O. Predicting the postoperative intraocular lens position using continuous intraoperative optical coherence tomography measurements. Investig. Opthalmol. Vis. Sci. 2013;54:196–203. doi: 10.1167/iovs.13-11991. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 109. Fukumoto R., Inoue M., Ishida T., Koto T., Hirakata A. Adjustment of intraocular lens tilt during intrascleral fixation assited by intraoperative OCT. J. Cataract. Refrective Surg. 2021;47:1308–1313. doi: 10.1097/j.jcrs.0000000000000615. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 110. Liu Y., Holekamp N., Heier J. Prospective, Longitudinal Study: Daily Self-Imaging with Home OCT for Neovascular Age-Related Macular Degeneration. Ophthalmol. Retin. 2022;6:575–585. doi: 10.1016/j.oret.2022.02.011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 111. Nahen K., Benyamini G., Loewenstein A. Evaluation of a Self-Imaging SD-OCT System for Remote Monitoring of Patients with Neovascular Age Related Macular Degeneration. Klin. Monbl. Augenheilkd. 2020;237:1410–1418. doi: 10.1055/a-1271-6834. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 112. Burchard C., Sudkamp H., Tode J., Ehlken C., Purtskhvanidze K., Motlmann M., Heimes B., Koch P., Munst M., Vom Endt M., et al. Self-Examinaton Low-Cost Full-Field Optical Coherence Tomography (SELFF-OCT) for neovascular age-related macular degenertion: A cross-sectional diagnosic accuracy study. BMJ Open. 2022;12:e055082. doi: 10.1136/bmjopen-2021-055082. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 113. Burchard C., Motmann M., Tode J., Ehlken C., Sudkamp H., Theisen-Kunde D., Konig I., Huttman G., Roider J. Self-examination low cost full-field OCT (SELFF-OCT) for patients with various macular diseases. Graefes Arch. Clin. Exp. Ophthalmol. 2021;259:1503–1511. doi: 10.1007/s00417-020-05035-6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 114. Jung W., Kim J., Jeon M., Chaney E., Stewart C.N., Boppart S.A. Handheld optical coherence tompography scanner for primary care diagnostics. IEEE Trans. Biomed. Eng. 2011;58:741–744. doi: 10.1109/TBME.2010.2096816. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 115. Malon J., El-Haddad M., Yerramreddy S., Oguz I., Tao Y. Handheld sopectrally encoded coherence tomography and reflectometry for motion-corrected ophthalmic optical coherence tomography and optical coherence tomography angiography. Neurophotonics. 2019;6:041102. doi: 10.1117/1.NPh.6.4.041102. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 116. Rufai S. Handheld optival coherence tomograpy removers barriers to imaging the eyes of young children. Eye. 2022;36:907–908. doi: 10.1038/s41433-021-01884-5. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 117. Nicholson R., Osborne D., Fairhead L., Beed L., Hill C., Lee H. Segmentation of the foveal and parafoveal retinal architecture using handheld spectral-domain optical coherence tomography in children with Down syndrome. Eye. 2022;36:963–968. doi: 10.1038/s41433-021-01883-6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 118. Maldonado R., Izatt J., Sarin N., Wallace D., Freedman S., Cotten C., Toth C. Optimizing hand-held spectral domain optical coherence tomography imaging for neonates, infants, and children. Investig. Ophthalmol. Vis. Sci. 2010;51:2678–2685. doi: 10.1167/iovs.09-4403. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 119. Wang K., Chen X., Stinnett S., Tai V., Winter K., Tran-Viet D., Toth C. Understanding the variability of handheld spectral-domain optical coherence tomography measurements in supine infants. PLoS ONE. 2019;14:e0225960. doi: 10.1371/journal.pone.0225960. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 120. Kubsad D., Ohan M., Wu J., Cabrera M. Vitreoretinal biomarkers of retinopathy of prematurity using handheld optical coherence tomography: A review. Front. Pediatr. 2023;11:1191174. doi: 10.3389/fped.2023.1191174. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 121. Mangladesh S., Sarin N., McGeehan B., Prakalapakorn S., Tran-Viet D., Cotten C.M., Freedman S.F., Maguire M.G., Toth C.A. Preterm Infant Stress During Handheld Optical Coherence Tomography vs Binocular Indirect Ophthalmoscopy Examination for Retinopathy of Prematurity. JAMA Ophthalmol. 2021;139:567–574. doi: 10.1001/jamaophthalmol.2021.0377. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 122. Ripa M., Motta L., Florit T., Sahyoun J.Y., Matello V., Parolini B. The Role of Widefield and Ultra Widefield Optial Coherence Tomography in the Diagnosis and Management of Vitreoretinal Diseases. Diagnostics. 2022;12:2247. doi: 10.3390/diagnostics12092247. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 123. Takahashi H., Tanaka N., Shinohara K., Yokoi T., Yoshida T., Uramoto K., Ohno-Matsui K. Ultra-Widefield Optical Coherence Tomographic Imaging of Posterior Vitreous in Eyes with High Myopia. Am. J. Ophthalmol. 2019;206:102–112. doi: 10.1016/j.ajo.2019.03.011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 124. Choudhry N., Golding J., Manry M., Rao R. Ultra-Widefield Steering-Based Spectral-Domain Optical Coherence Tomography Imaging of the Retinal Periphery. Ophthalmology. 2016;123:1368–1374. doi: 10.1016/j.ophtha.2016.01.045. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 125. Choudhry N., Duker J., Freund K., Kiss S., Querques G., Rosen R., Sarraf D., Souied E.H., Stanga P.E., Staurenghi G., et al. Classification and guidelines for widefield imaging: Recommendations from the international widefield imaging study group. Ophthalmol. Retin. 2019;3:843–849. doi: 10.1016/j.oret.2019.05.007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 126. Sodhi S., Golding J., Trimboli C., Choudhry N. Feasibility of peripheral OCT imaging using a novel integrated SLO ultra-widefield imaging swept-source OCT device. Int. Ophthalmol. 2021;41:2805–2815. doi: 10.1007/s10792-021-01837-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 127. Nyugen T., Ni S., Liang G., Khan S., Wei X., Skalet A., Ostmo S., Chiang M.F., Jia Y., Huang D., et al. Widefield optical coherence tomography in pediatric retina: A case series of intraoperative applications using a prototype handheld device. Front. Med. 2022;9:860371. doi: 10.3389/fmed.2022.860371. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 128. Ong J., Hariprasad S., Chhablani J. A Guide to Accesible Artifical Intelligence and Machine Learning for the 21st Century Retina Specialist. Ophthalmic Surg. Lasers Imaging Retin. 2021;52:361–365. doi: 10.3928/23258160-20210628-01. [ DOI ] [ PubMed ] [ Google Scholar ]

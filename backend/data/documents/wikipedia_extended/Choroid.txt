@@ -1,0 +1,62 @@
+Source: Wikipedia
+Title: Choroid
+URL: https://en.wikipedia.org/wiki/Choroid
+============================================================
+
+The choroid, also known as the choroidea or choroid coat, is a part of the uvea, the vascular layer of the eye. It contains connective tissues, and lies between the retina and the sclera.  The human choroid is thickest at the far extreme rear of the eye (at 0.2 mm), while in the outlying areas it narrows to 0.1 mm. The choroid provides oxygen and nourishment to the outer layers of the retina.  Along with the ciliary body and iris, the choroid forms the uveal tract.
+The structure of the choroid is generally divided into four layers (classified in order of furthest away from the retina to closest):
+
+Haller's layer – outermost layer of the choroid consisting of larger diameter blood vessels;
+Sattler's layer – layer of medium diameter blood vessels;
+Choriocapillaris – layer of capillaries; and
+Bruch's membrane (synonyms: Lamina basalis, Complexus basalis, Lamina vitra) – innermost layer of the choroid.
+
+
+== Blood supply ==
+The human eye is supplied by two largely distinct vascular systems: the retinal circulation, which nourishes the inner retina, and the uveal circulation (choroidal, ciliary body and iris), which nourishes the uvea and the outer retina (via the choroid). Both systems arise primarily from the ophthalmic artery, a branch of the internal carotid artery.
+The uveal circulation is supplied mainly by the posterior ciliary arteries (short and long), which enter the globe independently of the optic nerve. These arteries provide the dominant blood supply to the choroid and contribute importantly to perfusion of the optic nerve head (including the anterior portion of the optic nerve).
+The retinal circulation derives primarily from the central retinal artery, which travels within the optic nerve and enters the eye at the optic disc. It then branches over the inner retinal surface into arterioles and capillaries supplying the nerve fiber and inner retinal layers.
+Retinal arteries behave as functional end-arteries with limited collateralization; consequently, focal obstruction can produce sectoral retinal ischemia. By contrast, the choroid exhibits a segmental vascular organization, and regional perfusion territories supplied by posterior ciliary arteries are clinically relevant because the macula and the anterior optic nerve (structures critical for central vision) depend strongly on choroidal perfusion.
+
+
+=== Imaging the choroid and its blood flow ===
+
+Structural features of the choroid can be assessed with optical coherence tomography (OCT), while choroidal vascular contrast is classically obtained with indocyanine green angiography (ICGA), an invasive dye-based method that is relatively robust for deeper choroidal vessels. Optical coherence tomography angiography (OCTA) provides non-invasive motion-contrast maps but can be limited by depth-dependent sensitivity, segmentation/projection artifacts, and reduced sensitivity for very slow flow or deeper large vessels.
+
+Laser-Doppler–based approaches provide an additional, non-invasive route to choroidal flow contrast. In ophthalmology, Laser Doppler holography (LDH) is a full-field, camera-based implementation that uses digital holography and temporal demodulation of reconstructed optical fluctuations to generate Doppler power maps that highlight blood-flow–related signals in retinal and choroidal vessels.
+Signal-processing refinements (e.g., spatio-temporal filtering and decomposition methods) have been reported to improve visualization of slower flow components and enhance choroidal vessel contrast in LDH datasets.
+Wide-field extensions of Doppler holography have also been described in conference literature for imaging choroidal blood flow over larger posterior-pole regions, with the aim of visualizing major choroidal arteries/veins and outflow patterns (including drainage toward vortex veins) that may be relevant in conditions such as the pachychoroid disease spectrum.
+
+
+=== In bony fish ===
+Teleosts bear a body of capillaries adjacent to the optic nerve called the choroidal gland. Though its function is not known, it is believed to be a supplemental oxygen carrier.
+
+
+== Mechanism ==
+Melanin, a dark colored pigment, helps the choroid limit uncontrolled reflection within the eye that would potentially result in the perception of confusing images.
+In humans and most other primates, melanin occurs throughout the choroid. In albino humans, frequently melanin is absent and vision is low.  In many animals, however, the partial absence of melanin contributes to superior night vision. In these animals, melanin is absent from a section of the choroid and within that section a layer of highly reflective tissue, the tapetum lucidum, helps to collect light by reflecting it in a controlled manner.  The uncontrolled reflection of light from dark choroid produces the photographic red-eye effect on photos, whereas the controlled reflection of light from the tapetum lucidum produces eyeshine (see Tapetum lucidum).
+
+
+== History ==
+The choroid was first described by Democritus (c. 460 – c. 370 BCE) around 400 BCE, calling it the "chitoon
+malista somphos" (more spongy tunic [than the sclera]). Democritus likely saw the choroid from dissections of animal eyes.
+About 100 years later, Herophilos (c. 335 – 280 BCE) also described the choroid from his dissections on eyes of cadavers.
+
+
+== Clinical significance ==
+Choroid is the most common site for metastasis in the eye due to its extensive vascular supply. The origin of the metastases are usually from breast cancer, lung cancer, gastrointestinal cancer, and kidney cancer. Bilateral choroidal metastases are usually due to breast cancer, while unilateral metastasis is due to lung cancer. Choroidal metastases should be differentiated from uveal melanoma, where the latter is a primary tumour arising from the choroid itself.
+
+
+== See also ==
+Chorioretinitis
+Uveitis
+
+
+== Additional images ==
+
+
+== References ==
+
+
+== External links ==
+Histology image: 08008loa – Histology Learning System at Boston University

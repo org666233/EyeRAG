@@ -1,0 +1,401 @@
+Source: PubMed Central (PMC)
+PMCID: PMC6095371
+Title: Diagnosis and management of blepharitis
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6095371/
+Year: 2018
+Disease: blepharitis
+Priority: 3
+============================================================
+
+Clin Optom (Auckl) . 2016 Aug 8;8:71–78. doi: 10.2147/OPTO.S84795 
+ 
+ 
+ Diagnosis and management of blepharitis: an optometrist’s perspective 
+ Christopher M Putnam 
+ Christopher M Putnam 
+ 
+ 1 College of Optometry, Adjunct Faculty, University of Missouri-St Louis, St Louis, MO, USA, cmputnam78@yahoo.com 
+ Find articles by Christopher M Putnam 
+ 
+ 
+ 1, ✉ 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 College of Optometry, Adjunct Faculty, University of Missouri-St Louis, St Louis, MO, USA, cmputnam78@yahoo.com 
+ 
+ ✉ Correspondence: Christopher M Putnam, College of Optometry, Adjunct Faculty, University of Missouri-St Louis, 417 Marillac Hall, 1 University Blvd, St Louis, MO 63121-4400, USA, Fax +1 314 516 6708, Email cmputnam78@yahoo.com 
+ 
+ 
+ Collection date 2016. 
+ 
+ © 2016 Putnam. This work is published and licensed by Dove Medical Press Limited 
+ The full terms of this license are available at https://www.dovepress.com/terms.php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License ( http://creativecommons.org/licenses/by-nc/3.0/ ). By accessing the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC6095371  PMID: 30214351 
+ 
+ Abstract 
+ Blepharitis is a condition characterized by inflammation of the eyelid margin and is a common cause of discomfort and irritation among people of all ages, ethnicity, and sex. In general, blepharitis is not a sight-threatening condition, but if left untreated has the potential to cause keratopathy, corneal neovascularization and ulceration, and permanent alterations in eyelid morphology. Historically, blepharitis has been categorized according to multiple structural classifications, including anatomic location, duration, and etiology. The substantial overlap of symptoms and signs from the differing structural classifications has led to initial misdiagnoses, clinical underreporting, and variability in treatment of blepharitis. The multifactorial nature is still not fully appreciated but infection and inflammation have been identified as the primary contributors. Ongoing clinical research continues the pursuit for a treatment panacea; however, long-term management of the underlying causes of blepharitis remains the best clinical approach. Here, we will attempt to review the existing literature as it pertains to clinical management of blepharitis and address a stepwise approach to diagnosis, treatment, and management. 
+ Keywords: blepharitis, categorization, seborrhea, meibomian gland dysfunction, dry eye syndrome Introduction 
+ Blepharitis, simply defined as inflammation of the eyelids, is one of the most common ocular conditions encountered by primary eye care providers and accounts for a growing percentage of primary care medical visits. 1 , 2 It is an inflammatory condition associated with irritation, hyperemia, foreign-body sensation, and crusting of the eyelids. Blepharitis can present with a range of signs and symptoms and is associated with various dermatological conditions, including seborrheic dermatitis, rosacea, and eczema. 2 Blepharitis is most commonly associated with ocular symptoms, including superficial discomfort, epiphora, and conjunctival hyperemia, leading to visual symptoms such as light sensitivity and blurred vision. 2 Less frequently, blepharitis can result in permanent changes to the eyelid morphology and visual deficits due to keratopathy and corneal ulceration. The precise pathogenesis is still under investigation but is hypothesized to be multifactorial to include inflammatory skin conditions, chronic lid margin infections, and parasitic infections. Epidemiology 
+ Blepharitis is widely recognized within the clinical community as one of the most commonly encountered ocular conditions. Reports from US primary medical providers estimate that 5% of all patients presented with signs or symptoms of blepharitis, and within primary eye care providers that number increases to >40%. 2 When interpreting prevalence results, it is important to note that a majority of the data utilized in prevalence estimation comes from survey-based samples and may be subject to considerable overlap of conditions sharing similar presentations, including seborrheic dermatitis, rosacea, dermatitis, atopy, and dry eye syndrome (DES). Compounding the difficulty in any prevalence data interpretation is the difficulty in reaching a standard definition. Published studies have attempted to alleviate the confusion regarding the definition of blepharitis but these efforts have also met with difficulty in response to the developing an understanding of the pathophysiology of both blepharitis and DES. 3 
+ Several demographic trends have been reported in blepharitis prevalence rates. Anterior blepharitis appears to occur more often in young females presenting with relatively short symptomatic histories, while chronic blepharitis presents more commonly in fair-skinned females with concurrent rosacea between the ages of 30–50 years. 3 Over 35% of chronic blepharitis diagnoses were associated with keratoconjunctivitis sicca (KCS) and meibomian gland dysfunction (MGD). 3 The incidence of MGD increases with age and tends to affect males aged >65 years followed by females aged 45–65 years. 4 Rosacea was diagnosed in 20% of MGD patients and 46% of those with MGD were diagnosed with concurrent seborrheic dermatitis. 5 Overlap of blepharitis classification was further illustrated by Groden et al who found that the prevalence of rosacea was 44% and that of KCS was 30% in a cohort of participants with all types of blepharitis. 6 A separate study found that, in patients with chronic blepharitis, 15% of participants had KCS, 33% had seborrheic dermatitis, and 27% had acne rosacea. 7 
+ Primary versus secondary 
+ The classification of primary blepharitis has been used to encompass rosacea, seborrhea, and hypersensitivity caused by Staphylococcal toxins. Secondary blepharitis refers to infectious processes, bacterial or viral, or infestation by phthiriasis or Demodex . Substantial overlap of signs and symptoms exist between primary and secondary causes. As the classifications suggest, primary blepharitis tends to be a more involved etiology with a more complex presentation. Secondary blepharitis tends to be a result of a distinct disease entity rather than the cause of the blepharitis itself. Treatment of the offending infection or infestation often results in resolution of the presenting blepharitis. Acute versus chronic 
+ Acute blepharitis, also referred to as lid infection, may be bacterial, viral, or parasitic in etiology. 8 Classification of acute blepharitis can also be broken into acute ulcerative (often secondary to staphylococcal or herpetic infection) and acute nonulcerative (typically allergic). The more common form is chronic blepharitis that encompasses lid inflammation. Early classification work categorized chronic blepharitis into six entities: 1) staphylococcal; 2) seborrheic; 3) staphylococcal/seborrheic; 4) meibomian seborrhea; 5) secondary meibomian inflammation; and 6) meibomian keratoconjunctivitis. 9 Recent work separated the classification of blepharitis into three distinct categories: staphylococcal, seborrheic, and MGD. 10 However, clinical presentation of blepharitis tends to be more nuanced than three strictly defined categories and substantial overlap exists among the treatment of the various forms. Anterior versus posterior 
+ Blepharitis is commonly cataloged based upon anatomic location. Anterior blepharitis is defined as inflammation affecting the lash margin, involving both staphylococcal and seborrheic blepharitis; and posterior blepharitis is defined as meibomian gland involvement posterior to the lash margin. MGD primarily affects the oil glands located on the posterior lid and therefore is included as a subset of posterior blepharitis. Angular blepharitis tends to occur in the canthal region and may present independent of anterior and posterior etiologies. Marginal blepharitis has been referred to in recent literature as a collective term for involvement of both anterior and posterior blepharitis. 10 
+ Here, we will discuss anterior blepharitis as two distinct entities, infectious and seborrheic, and posterior blepharitis to encompass MGD. Table 1 illustrates the differentiation of blepharitis among the three categories defined by the American Academy of Ophthalmology. 
+ Table 1. 
+ A categorization of blepharitis based on suspected etiology 
+ 
+ 
+ Categorization of blepharitis
+ 
+ 
+ 
+ 
+ Infectious 
+ Seborrheic 
+ Meibomian gland dysfunction 
+ 
+ 
+ 
+ 
+ Location 
+ Anterior eyelid 
+ Anterior eyelid 
+ Posterior eyelid 
+ 
+ 
+ Loss of lashes 
+ Frequent 
+ Rare 
+ None 
+ 
+ 
+ Lid margin 
+ Hard, fibrinous scales with matted crusts 
+ Oily or greasy 
+ Unusual 
+ 
+ 
+ Lid ulceration 
+ Occasionally 
+ None 
+ None 
+ 
+ 
+ Conjunctivitis 
+ Papillary with occasional purulent discharge 
+ Follicular or papillary tarsal reaction with mild hyperemia 
+ Papillary tarsal reaction with mild-to-moderate hyperemia 
+ 
+ 
+ Keratitis 
+ Inferior punctate erosions, marginal infiltrates, vascularization, phlyctenules 
+ Inferior punctate erosions 
+ Inferior punctate erosions, marginal infiltrates, vascular pannus 
+ 
+ 
+ Tear film disruption 
+ Occasional 
+ Occasional 
+ Occasional 
+ 
+ 
+ Rosacea 
+ Negative 
+ 15%–25% 
+ 40%–50% 
+ 
+ 
+ 
+ Open in a new tab Anterior blepharitis 
+ Clinical symptoms of anterior blepharitis may include superficial discomfort, mild photophobia, collarettes with lash debris, lid margin hyperemia, lid ulceration, madarosis, and trichiasis. 11 Typically, symptoms are worse in the morning and are described as a series of remissions and exacerbations. In many cases, a low correlation between symptoms and extent of clinical involvement can exist. Both acute and chronic forms of anterior blepharitis tend to demonstrate the presence of multiple types of bacteria. Staphylococcus epidermidis is the most commonly identified species followed by Staphylococcus aureus , Proprionibacterium , Corynebacteria , and Moraxella . 12 Chronic forms of anterior blepharitis tend to reveal increased numbers of nonpathologic flora compared to controls. Although a precise mechanism behind the development of anterior blepharitis is unclear, three convergent pathways likely underlie the pathophysiology: 1) direct bacterial infection, 2) exotoxin hypersensitivity, and 3) delayed cell-mediated immune hypersensitivity response. The combination of bacterial antigens and increased exotoxins may lead to the release of proinflammatory cytokines, leading to an inflammatory cascade. 
+ Infectious blepharitis is characterized by hyperemia, edema, and telangiectasia of the anterior lid margin, with scaling and collarettes visible at the base of the lash follicle. Severe, chronic cases may result in poliosis, madarosis, eyelid hypertrophy, and corneal scarring. 13 Recurrent hordeola are often related to infectious blepharitis and associated with staphylococcal strains. 14 However, one investigation showed that patients diagnosed with infectious blepharitis were found to have similar dermatologic flora compared to matched controls. 15 Additionally, a study of infectious blepharitis identified cultures positive for S. epidermidis in 95% of test subjects which was similar to the percentages within the control group. 16 Approximately 50% of patients diagnosed with infectious blepharitis caused by S. epidermidis had positive cultures for S. aureus , supporting the theory of a multifactorial etiology, including exotoxin involvement underlying inflammation found in cases of infectious blepharitis. Evidence of staphylococcal hypersensitivity can be seen in more severe cases of anterior blepharitis, which tend to present with perilimbal infiltrates and corneal neovascularization. Heightened cell-mediated immunity to S. aureus was identified in nearly 40% of anterior blepharitis patients frequently, necessitating topical corticosteroid therapy. 16 In addition to the bacterial etiology of infectious anterior blepharitis, parasitic infection from the Demodex genus have also been implicated in more chronic forms of blepharitis and Pthirus pubis in more acute forms of blepharitis. 
+ In addition to infectious causes, anterior blepharitis can also have a dermatological origin. Seborrhea is a papulosquamous disorder of the trunk, scalp, and face. It can be characterized by intermittent, active phases, manifesting as burning, scaling, and itching, alternating with inactive periods. 17 Clinical presentations range from mild dandruff to exfoliative erythroderma. Seborrheic blepharitis occurs when the pilosebaceous glands located within the lid margin become involved, primarily affecting the glands of Zeis, and the meibomian glands to a lesser degree. In seborrheic blepharitis, there is less inflammation and telangiectasia than staphylococcal blepharitis, and more it commonly presents with greasy lashes that cause matting across the anterior lid margins of both eyes. Patients with seborrheic blepharitis may also present with characteristics of MGD due to the dermatologic similarities between epidermal sebaceous glands and meibomian glands. 18 Posterior blepharitis 
+ Posterior blepharitis is characterized by inflammation of the posterior lid margin and has various etiologies, including MGD, infectious and allergic conjunctivitis, as well as systemic conditions such as rosacea, eczema, and atopy. 19 MGD is defined as a chronic, diffuse abnormality of the meibomian gland characterized by terminal duct obstruction and qualitative or quantitative changes in glandular secretion. It is a disorder involving the meibomian glands along the posterior lid margin that produce meibum, which acts to decrease tear film evaporation and deliver an optically stable tear film surface. Patients with MGD tend to have evaporative tear disorders, leading to corneal surface vulnerability and discomfort. 20 , 21 Deficiencies in meibum may be responsible for the symptoms experienced in MGD blepharitis. Hyper-keratinization related to MGD has been shown to play a role in decreased meibomian gland secretions and obstruction. 22 Similar sequela have shown a link between higher rates of tear evaporation and related secondary corneal surface damage associated with DES symptoms in blepharitis patients. 23 Tear film composition differences, including higher concentrations of free fatty acids and cholesterol esters, in MGD patients compared to matched controls have been reported. 24 , 25 Changes in these protective portions of the tear film may decrease their effectiveness and contribute to inflammation and irritation. Alterations in tear film composition likely lead to increased inflammation and worsened patient symptoms. Demodex organisms have also been hypothesized to play a role in the etiology of posterior blepharitis. 26 Infestation along the lid margin at the lash base, including the sebaceous glands, potentially causes obstruction and an associated inflammatory cascade. Recently, Liu et al also demonstrated an increased role of Demodex in MGD. 27 Diagnosis 
+ The substantial overlap of anterior and posterior blepharitis characteristics and the association of MGD make it virtually impossible to discuss blepharitis in isolation from DES. A detailed discussion of DES is outside the scope of this review but sound clinical management of blepharitis can have positive effects on the management of DES patients. Evaluation of a blepharitis patient can begin with the intake form to include the ocular surface disease index and the standard patient evaluation of eye dryness. Although these questionnaires are designed for the patient suffering from DES, the substantial overlap of symptoms and etiologies with blepharitis makes intake form an important tool in diagnosis and management. Along with self-reported patient symptoms, a thorough review of systems, including systemic disease and current medications, will provide the optometrist with a more complete clinical picture. Table 2 shows a list of common differential diagnoses of blepharitis based on the clinical condition and suspected etiology. 28 
+ Table 2. 
+ Common differential diagnoses of blepharitis based on clinical presentation and potential underlying etiology 
+ 
+ 
+ Differential diagnoses of blepharitis presentation
+ 
+ 
+ 
+ Clinical condition 
+ Etiology 
+ 
+ 
+ 
+ 
+ Bacterial infection 
+ Impetigo 
+ 
+ Erysipelas 
+ 
+ Viral infection 
+ Herpes simplex virus 
+ 
+ Molluscum contagiosum 
+ Vaccinia 
+ 
+ Parasitic infection 
+ Pthirus pubis 
+ 
+ Demodex 
+ 
+ Immune response related 
+ Atopic dermatitis 
+ 
+ Contact dermatitis 
+ Erythema multiforme 
+ Ocular pemphigoid 
+ 
+ Dermatoses 
+ Psoriasis 
+ 
+ Ichthyosis 
+ 
+ Benign lid tumors 
+ Pyogenic granuloma 
+ 
+ Sebaceous cell hyperplasia 
+ Actinic keratosis 
+ Hemangioma 
+ 
+ Malignant lid tumors 
+ Sebaceous carcinoma 
+ 
+ Squamous cell carcinoma 
+ Melanoma 
+ Mycosis 
+ 
+ Trauma 
+ Chemical 
+ 
+ Thermal 
+ Mechanical 
+ 
+ Toxic 
+ Medicamentosa 
+ 
+ 
+ 
+ Open in a new tab Slit lamp examination of the blepharitis patient should begin with the tear film appearance looking for debris, saponification, meniscus height, and incomplete blink during evaluation. Stability of the tear film is traditionally evaluated using the tear break-up time. However, a study by Marquardt et al showed that NaFl volume >2 μL has the potential to destabilize the tear film, potentially confounding the results. 29 Specifically designed dry eye test strips (Akorn Inc., Buffalo Grove, IL, USA) have been shown to minimize tear film disruption and reduce reflex tearing. Additional methods of tear film stability assessment include manual keratometry, placido keratometry, and precorneal tear film interferometry (Keratography 5M; OCULUS Inc., Arlington, WA, USA). A detailed lid margin evaluation should include recorded evidence of tyelosis, margin hyperemia, telangiectasia, margin serration, and lid wiper epitheliopathy. Examination of the meibomian function may include detailed description of capping, distended distal orifices, migration of gland line, narrowing of ducts, and opacified glands. Metrics for grading of meibomian function include secretion quality, gland structure imaged through contact illumination or infrared meibography, secretion volume imaged through TearScope (Keeler Ltd, Windsor, UK) or LipidView (AB Sciex Pte Ltd, Framingham, MA, USA), and gland distention or missing glands. Staging of meibomian gland function using guidelines provided by the International Workshop on MDG can create a more uniform assessment. 30 Point-of-care methods of tear film sampling such as TearLab (TearLab Corp, San Diego, CA, USA) and InflammaDry (Rapid Pathogen Screening, Inc, Sarasota, FL, USA) add quantifiable metrics that can be useful in monitoring both the presence and response to treatment for blepharitis. Table 3 provides a stepwise, diagnostic evaluation of blepharitis beginning from patient check-in through clinical assessment. 
+ Table 3. 
+ Diagnostic evaluation of a blepharitis patient 
+ 
+ 
+ Diagnostic evaluation of blepharitis presentation
+ 
+ 
+ 
+ Examination portion 
+ Components 
+ 
+ 
+ 
+ 
+ Patient intake 
+ Ocular surface disease index 
+ 
+ Standard patient evaluation of eye dryness 
+ Review of systems 
+ Medication list reconciliation 
+ 
+ Slit lamp examination 
+ Evidence of tear film debris or saponification 
+ 
+ Measurement of meniscus height and blink coverage 
+ Tear break-up time using DET strips 
+ Lid margin assessment 
+ 
+ Tear film stability and composition 
+ Tear break-up time using DET strips 
+ 
+ Placido keratometry 
+ Tear film interferometry 
+ TearLab or InflammaDry 
+ 
+ Lid margin imaging 
+ Contact illumination infrared meibography 
+ 
+ 
+ 
+ Open in a new tab 
+ Abbreviation : DET, dry eye test. Treatment 
+ Although the etiologies of various forms of blepharitis may differ, the treatment modalities show considerable overlap. Primary treatment for blepharitis is lid hygiene involving hyperthermic lid compress, lid margin massage with lash scrubs lasting 3–5 minutes at least two times daily during the acute presentation. Generally, patients are more receptive to this level of lid hygiene commitment if they report moderate-to-severe discomfort accompanied by visual disruption. Hyperthermia treatment is critical in order to soften the meibomian secretions, allowing improved gland expression during lid massage. Lash scrubs are typically performed following hyperthermic treatment, which remove accumulated gland expression and follicle debris. Critical within patient education is the chronic nature of blepharitis and the requirement that lid hygiene be performed even after the acute clinical presentation resolves. 
+ Staphylococcal blepharitis may show the greatest response to treatment with topical antibiotic ointment following lid hygiene. 18 Commonly prescribed antibiotic ointment therapy includes erythromycin or bacitracin continued for 4–8 weeks, based on clinical severity. Some recalcitrant cases require long-term antibiotic therapy in pursuit of symptom resolution. 15 Seborrheic blepharitis is typically concomitant with seborrheic dermatitis, requiring simultaneous treatment of the underlying dermatological condition. Treatment options include hyperthermic modalities with lid margin massage to include baby shampoo as a detergent to aid in removal of lash debris, crusting, and flaking. Additional treatment options include microblepharoexfoliation and antiseptic lid cleaning for more moderate-to-severe cases. 
+ In patients with posterior blepharitis and MDG not well-controlled with lid hygiene, oral tetracyclines or macrolides may be effective. 5 Effective treatment of acne rosacea with tetracyclines stems from lipase inhibition, as well as associated anti-inflammatory properties and lipid regulation. These same characteristics may provide the improvements seen in blepharitis due to S. aureus and S. epidermidis when treated with tetracyclines. However, care must be taken in the use of tetracyclines due to the potential of photosensitization, gastrointestinal upset, and hypersensitivity; tetracyclines are contraindicated in pregnant or lactating women and children <10 years of age. 5 Interactions with medications such as coumadin, oral cholesterol-lowering drugs and azithromycin-associated arrhythmias in cardiovascular patients must also be taken into account. The International MGD Workshop recommended dietary increase of omega-3 fatty acids as a treatment modality due to the recognized anti-inflammatory properties and associated reduction in dry eye symptoms. 31 
+ Table 4 outlines a generalized treatment approach for blepharitis based on suspected etiology. 
+ Table 4. 
+ Generalized treatment plan for the three primary etiologies of blepharitis. 
+ 
+ Treatment options of blepharitis types 
+ 
+ 
+ Infectious 
+ Bacterial 
+ Microblepharoexfoliation (BlephEx) 
+ 
+ Antiseptic lid cleaning (Avenova, OcuSoft) 
+ Topical antibiotic/corticosteroid 
+ Oral antibiotic for secondary hordeola 
+ 
+ Herpes simplex virus Pthirus pubis 
+ 
+ Oral acyclovir or valacyclovir if nonresolving Topical ganciclovir or trifluridine for 2° keratitis Manual forceps removal Bland ointment (white petrolatum) Treatment of linens, clothing, and affected areas 
+ 
+ 
+ Demodex 
+ Microblepharoexfoliation (BlephEx) 
+ 
+ Lid cleaning ( Clira dex) 
+ Oral ivermectin (Stromectol) 
+ 
+ Seborrheic 
+ Mild 
+ Hyperthermic treatment twice/day 
+ 
+ Baby shampoo solution with lid massage twice/day 
+ 
+ Moderate/severe 
+ Mild treatments plus the following: Microblepharoexfoliation (BlephEx) Antiseptic lid cleaning (OcuSoft) 
+ 
+ 
+ Meibomian gland dysfunction 
+ Mild 
+ Hyperthermic treatment twice/day Microblepharoexfoliation (BlephEx) Antiseptic lid cleaning (OcuSoft) Oral doxycycline 
+ 
+ 
+ Moderate/severe 
+ Mild treatments plus the following: LipiFlow (tear science) ThermoFlow (MiBo) Intense pulsed light 
+ 
+ 
+ 
+ Open in a new tab In general, a stepwise approach to blepharitis should include:
+ 
+ 
+ Do exogenous factors such as systemic disease and concurrent medication exist? 
+ Are anatomic changes such as lid or lash morphology changes present? 
+ Is there an inflammatory component? 
+ Are concurrent corneal signs present? 
+ 
+ The answers to these questions allow a clinician to tailor the blepharitis treatments using adjunctive therapy, including increased lid hygiene, heat and massage therapy, tear film stabilization and/or meibomian gland expression, and medical therapy, including topical anti-inflammatory and anti-infective, oral anti-infective and/or oral omega-3, or advanced therapy (LipiFlow [Tear Science, Morrisville, NC, USA], MiBo Thermaflow [MiBo Medical Group, Dallas, TX, USA], Intense Pulsed Light [500–800 nm] or BlephEx [Rysurg, Fort Worth, FL, USA]). Discussion 
+ Blepharitis can be categorized in several different ways based on the length of disease process (eg, acute or chronic), etiology of the disease process (1° [hypersensitivity, rosacea, seborrhea] or 2° [infection, infestation]), or based on the anatomical location of disease: anterior (eg, lash margin) and posterior (eg, meibomitis, recurrent chalazia). Anterior blepharitis has been further subdivided according to etiology (eg, staphylococcal, seborrheic, or mixed), although some researchers will include seborrheic dermatitis as a causative factor in posterior blepharitis. 
+ Lindsley et al reviewed 34 studies, including 26 randomized controlled studies and eight controlled clinical trials published between 1956 and 2011. The studies were stratified based on anatomic location: anterior/mixed versus posterior. 32 Their findings concluded that little evidence exists in support of a curative or universal approach to blepharitis management. A combination of strategies was the most effective treatment of chronic blepharitis and these techniques typically required an individualized approach specific to each patient. Long-term management, including lid hygiene in combination with focal treatment of acute exacerbations, is the current model of blepharitis management. 
+ Anterior/mixed infectious and seborrheic blepharitis 
+ The role of Staphylococcus and Moraxella strains and the resulting cell-mediated inflammatory response in bacterial blepharitis has been evaluated by a number of studies. 33 – 34 However, the meta-analysis performed by Lindsley et al evaluating topical antibiotic and topical steroid regimens in the treatment of blepharitis failed to show clinically significant improvements for either modality. Although a majority of the reviewed studies did show significantly decreased ocular surface bacterial cultures using antibiotic therapy, these improvements were not correlated with clinical improvement of blepharitis. 32 The improved clinical findings were demonstrated using a combination therapy of topical antibiotics and corticosteroid with minimal reported side effects. Clinical improvements in both signs and symptoms of blepharitis were seen across the studies using lid hygiene, hyperthermic therapy, and lid massage. Posterior blepharitis/MGD 
+ In the treatment of ocular surface disease secondary to posterior blepharitis, topical azithromycin has been demonstrated to improve patient signs and symptoms. 35 Topical 1% azithromycin solution in combination with hyperthermic lid therapy was found to have increased effects when compared against hyperthermic lid therapy. 36 However, a follow-up multicenter double-masked study did not support these results. 37 Oral azithromycin 500 mg three times daily in 3-day cycles has shown promise in the treatment of posterior blepharitis by demonstrating significant improvement in patient symptoms and lid margin signs. 38 A similar study showed success in treatment of symptomatic, unresponsive meibomitis using oral azithromycin 1 g dosed once per week for 3 weeks. 39 Oral doxycycline at 20 mg twice daily also demonstrated a clinical improvement in blepharitis with minimal reported side effects. 40 The action of doxycycline in chronic blepharitis associated with rosacea was shown to significantly decrease the activity of matrix metalloproteinase within the tear film and improve patient signs and symptoms. 41 Topical 0.05% cyclosporine has been evaluated in the treatment of MGD and posterior blepharitis, showing improved Schirmer scores, improved tear break-up time, and decreased patient symptoms when compared to tobramycin with dexamethasone. 42 A separate study assessed the efficacy of topical 0.05% cyclosporine in the treatment of MDG and found a significant improvement in objective clinical findings but nonsignificant improvements in patient reported symptoms. 43 
+ Hyperthermic therapy with digital massage has been one of the mainstays of chronic blepharitis treatment. More advanced thermal therapy has shown broad benefits in terms of patient symptoms and meibum expression. Recent technologies such as the LipiFlow system 44 (Tear Science), MiBo Thermaflow (Pain Point), 45 and intense pulsed light 46 have become viable options for long-term relief of chronic blepharitis due to MGD. Implications for practice 
+ Clinical interpretation of blepharitis is confounded by the inherent difficulty in clearly categorizing the various etiologies, including infectious, seborrheic, and infestation. In many cases, the etiologies overlap, potentially leading to inconsistent study results. Further complicating the management of blepharitis is the treatment of asymptomatic patients, which remains an open question. Compliance to lid hygiene regimens along with hyperthermic treatment and massage provide symptomatic relief to the patient but have not been shown as a curative option. A substantial number of commercial products are currently marketed with limited evidence within the literature regarding their efficacy. Compliance with lid hygiene regimens along with hyperthermic treatment and massage provide symptomatic relief to the patient but have not been proven to be a curative option. A combination of topical antibiotic and corticosteroid therapy may be a viable option for acute presentations of blepharitis, and both oral doxycycline and azithromycin therapy have shown efficacy for posterior lid margin involvement and meibomitis. 
+ Considerable differences in study design, determination of etiology of blepharitis, and classification create difficulty in drawing comprehensive conclusions from current treatments options. There is no overwhelming evidence for any of the above-described modalities related to curing blepharitis. Above all, sound clinical judgment of blepharitis etiology and recognition of associated conditions remains the cornerstone of optometric management. Paramount in the clinical management of blepharitis is appropriate patient education and the acknowledgment of its chronic nature. Blepharitis remains a highly prevalent condition with multiple etiologies and no definitive, universal treatment. Proper diagnosis, remediation of associated conditions, and patient education remain the most effective modalities available to primary care practitioners. Footnotes 
+ 
+ Disclosure 
+ The authors report no conflicts of interest in this work. 
+ References 
+ 
+ 
+ 1. Bowling JJ. Clinical Ophthalmology: A Systemic Approach. 7th ed. New York: Elsevier Saunders; 2011. pp. 34–39. [ Google Scholar ] 
+ 
+ 2. Lemp MA, Nichols KK. Blepharitis in the United States 2009: a survey-based perspective on prevalence and treatment. Ocular Surface. 2009;7(Suppl 2):1–14. doi: 10.1016/s1542-0124(12)70620-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Nelson JD, Shimazaki J, Benitez-del Castillo JM, et al. The international workshop on meibomian gland dysfunction: report of the definition and classification subcommittee. Invest Ophthal Vis Sci. 2001;52(4):1930–1937. doi: 10.1167/iovs.10-6997b. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Nemet AY, Vinker S, Kaiserman I. Associated morbidity of blepharitis. Ophthalmology. 2011;118(6):1060–1068. doi: 10.1016/j.ophtha.2010.10.015. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. McCulley JP, Dougherty JM. Blepharitis associated with acne rosacea and seborrheic dermatitis. Int Ophthalmol Clin. 1985;25(1):159–172. doi: 10.1097/00004397-198502510-00010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Groden LR, Murphy B, Rodnite J, Genvert GI. Lid flora in blepharitis. Cornea. 1991;10(1):50–53. [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Huber-Spitzy V, Baumgartner I, Bohler-Sommeregger K, Grabner G. Blepharitis – a diagnostic and therapeutic challenge: report on 407 consecutive cases. Graefes Arch Clin Exp Ophthalmol. 1991;229(3):244–247. doi: 10.1007/BF00167872. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Bernardes TF, Bonfioli AA. Blepharitis. Semin Ophthalmol. 2010;25(3):79–83. doi: 10.3109/08820538.2010.488562. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. McCulley JP, Dougherty JM, Deneau DG. Classification of chronic blepharitis. Ophthalmology. 1982;89:1173–1180. doi: 10.1016/s0161-6420(82)34669-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. American Academy of Ophthalmology Preferred Practice Pattern: Blepharitis. Oct, 2012. [Accessed November 10, 2014]. revision. Available from: http://one.aao.org/preferred-practice-pattern/blepharitis-ppp--2013 . 
+ 
+ 
+ 11. Din N, Patel NN. Blepharitis – a review of diagnosis and management. Int J Ophthalmol Prac. 2012;3(4):150–155. [ Google Scholar ] 
+ 
+ 12. Duncan K, Jeng BH. Medical management of blepharitis. Cur Opin Ophthalmol. 2015;26(4):289–294. doi: 10.1097/ICU.0000000000000164. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Scheinfeld N, Berk T. A review of the diagnosis and treatment of rosacea. Postgrad Med. 2010;122(1):139–143. doi: 10.3810/pgm.2010.01.2107. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Probst LE. Bacterial eyelid infections. In: Krachmer JH, Mannis MJ, Holland EJ, editors. Cornea. Philadelphia, PA: Elsevier Mosby; 2005. pp. 495–500. [ Google Scholar ] 
+ 
+ 15. McCulley JP. Blepharoconjunctivitis. Int Ophthalmol Clin. 1984;24(2):65–77. doi: 10.1097/00004397-198424020-00009. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Ficker L, Ramakrishnan M, Seal D, Wright P. Role of cell-mediated immunity to staphylococci in blepharitis. Am J Ophthalmol. 1991;111(4):473–479. doi: 10.1016/s0002-9394(14)72383-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Jackson WB. Blepharitis: current strategies for diagnosis and management. Can J Ophthalmol. 2008;43(2):170–179. doi: 10.1139/i08-016. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Raskin EM, Speaker MG, Laibson PR. Blepharitis. Infect Dis Clin North Am. 1992;6(4):777–787. [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Nelson JD, Shimazaki J, Benitez-del Castillo JM, et al. The international workshop on meibomian gland dysfunction: report of the definition and classification subcommittee. Invest Ophthalmol Vis Sci. 2011;52(4):1930–1937. doi: 10.1167/iovs.10-6997b. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Driver PJ, Lemp MA. Meibomian gland dysfunction. Sur Ophthalmol. 1996;40(5):343–367. doi: 10.1016/s0039-6257(96)80064-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Mathers WD. Ocular evaporation in meibomian gland dysfunction and dry eye. Ophthalmology. 1993;100(3):347–351. doi: 10.1016/s0161-6420(93)31643-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Obata H. Anatomy and histopathology of human meibomian gland. Cornea. 2002;21:S70–S74. doi: 10.1097/01.ico.0000263122.45898.09. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Shimazaki J, Sakata M, Tsubota K. Ocular surface changes and discomfort in patients with meibomian gland dysfunction. Arch Ophthalmol. 1995;113(10):1266–1270. doi: 10.1001/archopht.1995.01100100054027. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Dougherty JM, McCulley JP, Silvany RE, Meyer DR. The role of tetracycline in chronic blepharitis. Inhibition of lipase production in staphylococci. Invest Ophthalmol Vis Sci. 1991;32(11):2970–2975. [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Shine WE, McCulley JP. The role of cholesterol in chronic blepharitis. Invest Ophthalmol Vis Sci. 1991;32(8):2272–2280. [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Gao YY, Di Pascuale MA, Li W, et al. High prevalence of Demodex in eyelashes with cylindrical dandruff. Invest Ophthal Vis Sci. 2005;46:3089–3094. doi: 10.1167/iovs.05-0275. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Liu J, Sheha H, Tseng SC. Pathogenic role of Demodex mites in blepharitis. Cur Opin Allergy Clin Immunol. 2010;10(5):505–510. doi: 10.1097/ACI.0b013e32833df9f4. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. American Academy of Ophthalmology Preferred Practice Pattern: Blepharitis. Sep, 2013. [Accessed December 14, 2015]. revision. Available from: http://one.aao.org/preferred-practice-pattern/blepharitis-ppp--2013 . 
+ 
+ 
+ 29. Marquardt R, Stodtmeiser R, Christ T. Modification of tear film breakup time test for increased reliability. In: Holly FJ, editor. The Preocular Tear Film in Health, Disease and Contact Lens Wear. Lubbock: Dry Eye Institute; 1986. pp. 57–63. [ Google Scholar ] 
+ 
+ 30. Tomlinson A, Khanal S. Assessment of tear film dynamics: quantification approach. Ocul Surf. 2005;3(2):81–95. doi: 10.1016/s1542-0124(12)70157-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Geerling G, Tauber J, Baudouin C, et al. The international workshop on meibomian gland dysfunction: report of the subcommittee on management and treatment of meibomian gland dysfunction. Invest Ophthalmol Vis Sci. 2011;52(4):2050–2064. doi: 10.1167/iovs.10-6997g. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Lindsley K, Matsumura S, Hatef E, Akpek EK. Interventions for chronic blepharitis. Cochrane Database Syst Rev. 2012;5:CD005556. doi: 10.1002/14651858.CD005556.pub2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Dougherty JM, McCulley JP. Comparative bacteriology of chronic blepharitis. Br J Ophthalmol. 1984;68(8):524–528. doi: 10.1136/bjo.68.8.524. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. O’Brien TP. The role of bacteria in blepharitis. Ocul Surf. 2009;7(2):S21–S22. doi: 10.1016/s1542-0124(12)70624-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Opitz DL, Tyler KF. Efficacy of azithromycin 1% ophthalmic solution for treatment of ocular surface disease from posterior blepharitis. Clin Exp Optom. 2011;94(2):200–206. doi: 10.1111/j.1444-0938.2010.00540.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Luchs J. Efficacy of topical azithromycin ophthalmic solution 1% in the treatment of posterior blepharitis. Adv Ther. 2008;25(9):858–870. doi: 10.1007/s12325-008-0096-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Luchs J. Azithromycin in DuraSite® for the treatment of blepharitis. Clin Ophthalmol. 2010;4:681. doi: 10.2147/opth.s6370. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Igami TZ, Holzchuh R, Osaki TH, Santo RM, Kara-Jose N, Hida RY. Oral azithromycin for treatment of posterior blepharitis. Cornea. 2011;30(10):1145–1149. doi: 10.1097/ICO.0b013e318207fc42. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Greene JB, Jeng BH, Fintelmann RE, Margolis TP. Oral azithromycin for the treatment of meibomitis. JAMA Ophthalmol. 2014;132(1):121–122. doi: 10.1001/jamaophthalmol.2013.5295. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Yoo SE, Lee DC, Chang MH. The effect of low-dose doxycycline therapy in chronic meibomian gland dysfunction. Korean J Ophthalmol. 2005;19:258–263. doi: 10.3341/kjo.2005.19.4.258. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Iovieno A, Lambiase A, Micera A, Stampachiacchiere B, Sgrulletta R, Bonini S. In vivo characterization of doxycycline effects on tear metalloproteinases in patients with chronic blepharitis. Eur J Ophthalmol. 2009;19:708–716. doi: 10.1177/112067210901900504. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Rubin M, Rao SN. Efficacy of topical cyclosporine 0.05% in the treatment of posterior blepharitis. J Ocul Pharmacol Ther. 2006;22:47–53. doi: 10.1089/jop.2006.22.47. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Perry HD, Doshi-Carnevale S, Donnenfeld ED, Solomon R, Biser SA, Bloom AH. Efficacy of commercially available topical cyclosporine A 0.05% in the treatment of meibomian gland dysfunction. Cornea. 2006;25:171–175. doi: 10.1097/01.ico.0000176611.88579.0a. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Lane SS, DuBiner HB, Epstein RJ, et al. A new system, the Lipi-Flow, for the treatment of meibomian gland dysfunction. Cornea. 2012;31(4):396–404. doi: 10.1097/ICO.0b013e318239aaea. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Thode AR, Latkany RA. Current and emerging therapeutic strategies for the treatment of meibomian gland dysfunction (MGD) Drugs. 2015;75(11):1177–1185. doi: 10.1007/s40265-015-0432-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Toyos R, McGill W, Briscoe D. Intense pulsed light treatment for dry eye disease due to meibomian gland dysfunction; a 3-year retrospective study. Photomed Laser Surg. 2015;33(1):41–46. doi: 10.1089/pho.2014.3819. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

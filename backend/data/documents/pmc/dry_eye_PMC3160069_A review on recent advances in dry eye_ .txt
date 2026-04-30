@@ -1,0 +1,289 @@
+Source: PubMed Central (PMC)
+PMCID: PMC3160069
+Title: A review on recent advances in dry eye: Pathogenesis and management
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3160069/
+Year: 2011
+Disease: dry_eye
+Priority: 1
+============================================================
+
+Oman J Ophthalmol . 2011 May-Aug;4(2):50–56. doi: 10.4103/0974-620X.83653 
+ 
+ 
+ A review on recent advances in dry eye: Pathogenesis and management 
+ Ankita S Bhavsar 
+ Ankita S Bhavsar 
+ 
+ 1 Department of Pharmacology, L. M. College of Pharmacy, Navrangpura, Ahmedabad – 380 009, India 
+ Find articles by Ankita S Bhavsar 
+ 
+ 
+ 1 , Samir G Bhavsar 
+ Samir G Bhavsar 
+ 
+ 1 Department of Ophthalmology, S. K. Hospital and P. S. Medical College, Karamsad, Anand – 388 325, Gujarat, India 
+ Find articles by Samir G Bhavsar 
+ 
+ 
+ 1 , Sunita M Jain 
+ Sunita M Jain 
+ 
+ 1 Department of Pharmacology, L. M. College of Pharmacy, Navrangpura, Ahmedabad – 380 009, India 
+ Find articles by Sunita M Jain 
+ 
+ 
+ 1, ✉ 
+ 
+ 
+ Author information 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Pharmacology, L. M. College of Pharmacy, Navrangpura, Ahmedabad – 380 009, India 
+ 
+ 1 Department of Ophthalmology, S. K. Hospital and P. S. Medical College, Karamsad, Anand – 388 325, Gujarat, India 
+ 
+ ✉ Correspondence: Dr. Sunita M. Jain, Department of Pharmacology, L. M. College of Pharmacy, Navrangpura, Ahmedabad – 380009, Gujarat, India. E-mail: sunitalmcp@yahoo.com 
+ 
+ 
+ 
+ © 2011 Bhavsar AS, et al . 
+ This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC3160069  PMID: 21897618 
+ 
+ Abstract 
+ 
+ Keratoconjunctivitis sicca, more commonly known as dry eye, is an extremely common and often unrecognized disease. It is the condition in ophthalmology that in its mild grade of severity will affect most of the population at one time or other. Due to a wide variety of presentations and symptoms, it often frustrates the ophthalmologists as well as patients. Due to multifactorial and elusive etiology, it is often challenging to treat dry eye. Ocular surface disorders are also clinically important to treat especially in terms of visual acuity. Xero-dacryology is therefore becoming a very important branch of ophthalmology. Recent studies have given insight into the inflammatory etiology of dry eye. The conventional and main approach to the treatment of dry eye is providing lubricating eye drops or tear substitutes. However, the newer treatment approach is to target the underlying cause of dry eye instead of conventional symptomatic relief. In light of the above knowledge, the present article focuses on newer theories on pathogenesis of dry eye and their impact on dry eye management. Method of Literature Search: 
+ A systematic literature review was performed using PubMed databases in two steps. The first step was oriented to articles published for dry eye. The second step was focused on the role of inflammation and anti-inflammatory therapy for dry eye. The search strategy was not limited by year of publication. A manual literature search was also undertaken from authentic reference books on ocular surface disease. Keywords: Apoptosis, inflammation, pathogenesis Introduction 
+ Dry eye is one of the most frequently encountered ocular morbidities, a growing public health problem and one of the most common conditions seen by eye care practitioners.[ 1 ] In the light of new knowledge about the roles of ocular surface inflammation and tear hyperosmolarity in dry eye and the effects of dry eye on visual function, the International Dry Eye Workshop (DEWS) defined dry eye as a “multifactorial disease of the tears and ocular surface that results in symptoms of discomfort, visual disturbance, and tear film instability with potential damage to the ocular surface. It is accompanied by increased osmolarity of the tear film and inflammation of the ocular surface”.[ 2 ] 
+ Over the past few years, as a result of numerous studies, new concepts of pathogenesis have shown that dry eye seems to be caused by inflammation mediated by T-cell lymphocytes.[ 3 – 5 ] This finding has also been augmented by the studies investigating the role of antiinflammatory therapies. Consequently, because of the increasing importance of the role of inflammation in etiopathogenesis, we have included recent understanding of pathogenesis and treatment of dry eye disease (DED) in the present article. Lacrimal Functional Unit – The Newer Concept 
+ DEWS in 2007 recognized dry eye as a disturbance of the Lacrimal Functional Unit (LFU) whose parts act together and not in isolation. It is an integrated system comprising the lacrimal glands, ocular surface (cornea, conjunctiva and meibomian glands) and lids, and the sensory and motor nerves that connect them[ 2 ] [ Figure 1 ]. 
+ Figure 1. 
+ 
+ Open in a new tab 
+ The lacrimal functional unit Abnormality of any of several subparts of the lacrimal functional unit can be transferred across the entire system through its extensive neural connections to result in an unstable and unrefreshed tear film having altered composition like elevated tear osmolarity, presence of proinflammatory mediators and proteases, which no longer supports the normal functioning of the ocular surface.[ 6 ] Etiology and Risk Factors of Dry Eye Disease 
+ The last decade has brought about significant improvement in the understanding of the etiology and pathogenesis of DED.[ 7 ] Appreciation of the role of inflammation in DED was one of the most important factors that aided in the understanding and treatment of DED. The findings of the association of inflammation with reduced tear secretion and subsequent damage to the ocular surface led to the proposal of a unified concept of DED.[ 8 ] Older age and female sex (particularly peri and postmenopausal age) are wellknown risk factors for DED.[ 9 , 10 ] Hormonal studies suggest that sex hormones influence ocular surface conditions through their effects on tear secretion, meibomian gland function, and conjunctival goblet cell density.[ 11 ] Chronic androgen deficiency is associated with meibomian gland dysfunction. Postmenopausal women who use hormonal replacement therapy (HRT) – especially estrogen alone, have a higher prevalence of DED compared with those who have never used HRT.[ 12 , 13 ] 
+ Other factors that precipitate and/or exacerbate DED include long-term contact lens wear, refractive surgeries such as laser-assisted in situ keratomileusis (LASIK) or photorefractive keratectomy (PRK),[ 9 , 14 , 15 ] smoking,[ 16 ] extended visual tasking during computer use, television watching and prolonged reading provoke symptoms of dry eye.[ 17 , 18 ] 
+ Dry eye can be worsened by low relative humidity (RH) conditions like office environment, air-conditioned cars, airplane cabins and extreme hot or cold weather.[ 19 , 20 ] Certain systemic medications can cause dry eye.[ 9 ] Frequent use (>4-6 times daily) of preserved eye drops (including glaucoma medications and artificial tears) may contribute to DED because of the well established toxicity of preservatives like benzalkonium chloride.[ 21 ] Role of Inflammation in Etiopathogenesis of Dry Eye 
+ There has been considerable increase in knowledge regarding pathogenesis of dry eye. Though the term “keratoconjunctivitis sicca” (KCS) was used for more than 50 years, it is only recently recognized that inflammation of the ocular surface is part of the pathophysiology of dry eye. In KCS patients, ocular surface inflammation can be evaluated as both the cause and the consequence of cell damage. A dangerous vicious cycle ensures between ocular inflammation and dry eye, which in turn may lead to sight threatening complications [ Figure 2 ]. The role of inflammatory cytokines and matrix metalloproteinases (MMPs) in the pathogenesis of dry eye seems to be very important for both the easier understanding of KCS and for the discovery of new therapeutic agents.[ 22 – 24 ] 
+ Figure 2. 
+ 
+ Open in a new tab 
+ Vicious cycle of ocular surface inflammation As mentioned earlier, disease or dysfunction of any component of lacrimal functional unit disrupts the delicate balance between secretion and degradation of tear components on the ocular surface which destabilizes the tear film with delayed tear clearance that causes ocular irritation and epithelial abnormalities leading to KCS or DED.[ 25 ] Any condition that results in rapid stimulation of the lacrimal functional unit (e.g. due to dryness) will induce neurogenic inflammation within the acini of lacrimal gland resulting in antigen presentation and cytokine production, ultimately leading to activation of T cells. Normally when there is no inflammation, these T lymphocytes undergo apoptosis. But in the presence of inflammation, they are activated, become resistant to apoptosis and secrete proinflammatory cytokines which results in even more Tcell activation.[ 26 , 27 ] One of the causes of lacrimal dysfunction in Sjogren syndrome is lymphocytic infiltration of the lacrimal gland with damage to secretory acini. The presence of focal lymphocytic infiltrates and increased production of proinflammatory cytokines are characteristic findings of lacrimal gland inflammation.[ 28 ] Release of inflammatory cytokines by infiltrating inflammatory cells and diseased lacrimal epithelial cells themselves further causes epithelial cell dysfunction or apoptosis.[ 29 ] 
+ Apoptosis of the ocular surface epithelium which may serve as one of the initiating events is further exacerbated by the inflammatory process and the decreasing levels of lacrimal gland derived factors. This is evident by increased expression of proapoptic markers (e.g. Fas, Fas ligand, CD40, CD40 ligand) by the conjunctival epithelium.[ 30 ] 
+ Disease or dysfunction of the lacrimal functional unit leads to changes in tear film composition and stability, which have adverse consequences for the ocular surface. Common feature of dysfunctional unit is elevated tear osmolarity.[ 31 ] There are several reports suggesting that hyperosmolarity induces inflammation.[ 31 , 32 ] The role of inflammation in the etiopathogenesis of DED is briefly summarized in Figure 3 . 
+ Figure 3. 
+ 
+ Open in a new tab 
+ Etiopathogenesis of dry eye disease Androgens are important for providing trophic support to the lacrimal functional unit as well as creating a general anti-inflammatory environment.[ 33 , 34 ] Decrease in androgen levels can cause loss of the anti-inflammatory environment within the lacrimal gland. Meibomian glands are also androgen target organs. As circulatory androgen level drops (e.g. in menopause), the lacrimal tissue becomes vulnerable to immunogenic inflammation.[ 26 ] Relative androgen deficiency might explain the greater prevalence of dry eye in women. Alteration of either mucin distribution or mucin glycosylation on the surfaces of apical epithelial cells is also involved in the pathogenesis of dry eye.[ 35 ] 
+ Thus, it can be summarized that the dysfunction of any component of lacrimal functional unit can result in unstable tear film with altered tear film composition, ocular discomfort and ocular surface disease. The end result is ocular surface inflammation starting a vicious cycle of dryness and more inflammation. Diagnosis of Dry Eye 
+ Currently, there are no uniform criteria for the diagnosis of DED. Traditionally, combinations of diagnostic tests have been used to assess symptoms and clinical signs.[ 36 ] 
+ Common DED symptoms are dry, scratchy, gritty or sandy feeling, foreign body sensation, pain or soreness, burning, itching and increased blinking.[ 37 ] Two complaints provide important clues that patients may be suffering from dry eye: exacerbation of irritation by environmental stress and exacerbation of irritation by activities that require prolonged visual attention.[ 38 ] A number of questionnaires are available for evaluation of various aspects of DED symptomatology, including severity, effect on daily activities and quality of life. The ocular surface disease index (OSDI)[ 39 ] permits quantification of common symptoms and provides a reasonably objective approach to the evaluation of symptoms over time. It is a valuable tool in clinical treatment trials.[ 40 ] 
+ Physical examination includes visual acuity measurement, external examination, and slit-lamp biomicroscopy for grading the severity of DED.[ 25 ] Dry eye is classified according to the clinical severity into three grades.[ 41 ] 
+ Grade 1 or mild: Patients have symptoms of dryness in normal environmental conditions but no signs on slit-lamp examination. However, other electrophysiological or invasive tests, such as hyperosmolarity, hypolysozyme or inflammatory cytokines, may be positive. 
+ Grade 2 or moderate: In addition to symptoms, patient has reversible slitlamp signs such as epithelial erosion, punctate keratopathy, filamentary keratitis, short tear breakup time (TBUT), etc. 
+ Grade 3 or severe: The patient has, besides the symptoms of ocular dryness, signs that have evolved to permanent sequelae such as corneal ulcer, corneal opacity, corneal neovascularization or squamous epithelial metaplasia. These signs are commonly seen in untreated patients. 
+ Additional diagnostic tests may be performed to assess tear film instability, ocular surface damage and aqueous tear flow. 
+ 
+ Tear film stability assessment 
+ It is commonly done by performing TBUT.[ 38 ] Values of <10 seconds have traditionally been considered abnormal. Noninvasive breakup time (NIBUT) is a test of tear stability that does not involve the instillation of fluorescein dye. Measurements are performed with a xeroscope or keratometer.[ 42 ] Ocular surface integrity 
+ Fluorescein, Rose Bengal and lissamine green are the dyes used to view any conjunctival and corneal abnormalities.[ 42 , 43 ] The staining pattern can be photographed and graded using one of several scoring systems,[ 36 ] for example, Van Bijsterveld scoring system for Rose Bengal dye. Intensity of stain is scored in two exposed conjunctival zones (nasal and temporal) and cornea. Score of 03 is given for each zone where 0 is for no stain, +1 for separate spot, +2 for many separate spots, and +3 for confluent spots, with a maximum score of 9.[ 43 ] Aqueous tear flow 
+ It is commonly assessed by performing a Schirmer test which is of two types. Schirmer 1 (without topical anesthesia) to measure reflex tearing and Schirmer II also known as Jone's test (with anesthesia) to measure basal tearing by minimizing ocular surface reflex activity. Value of less than 6 mm of strip wetting in 5 minutes is accepted as diagnostic marker for aqueous tear deficiency.[ 42 ] 
+ Other diagnostic tests that may be performed include the following: 
+ 
+ Fluorescein clearance: This test measures tear clearance or turnover. Delayed clearance has been associated with increased tear cytokine concentration, which may contribute to chronic inflammation.[ 44 ] 
+ Corneal topography: A number of non-invasive techniques like videokeratography may be useful as an objective test for diagnosing and evaluating the severity of DED.[ 45 , 46 ] 
+ Impression cytology: This test serves as a minimally invasive alternative to ocular surface biopsy. Superficial layers of the ocular surface epithelium are collected (e.g. by applying filter paper) and examined microscopically. Impression cytology is useful for detecting abnormalities such as goblet cell loss and squamous metaplasia.[ 47 ] 
+ 
+ Although useful for confirming the diagnosis, the above diagnostic test results generally correlate poorly with symptoms.[ 9 ] 
+ Tear hyperosmolarity is a global mechanism of DED. It is clear from the comparison of the diagnostic efficiency of various tests for KCS, used singly or in combination, that osmolarity could potentially provide a “gold standard” for DED diagnosis.[ 48 ] Treatment Approaches 
+ As evident from pathophysiology of dry eye, many factors contribute to or exacerbate dry eye, including: tear deficiency, tear instability, irritation and inflammation. Over the past few years, as a result of numerous studies, new concepts of pathogenesis have shown that DED seems to be inflammatory in origin, mediated by Tcell lymphocytes.[ 3 , 5 ] This finding has also been augmented by the studies investigating the role of anti-inflammatory therapies. So, in the last few years, there has been a paradigm shift in the strategy to treat DED. However, conventional treatment still has importance. Therapy of dry eye requires a multipronged approach including tear conservation, and tear replacement through methods such as, punctual plug, novel antiinflammatory drugs and surgical procedures. 
+ 
+ Tear conservation techniques 
+ Patients with a clinical diagnosis of mild dry eyes may benefit from behavioral and environmental modification which causes preservation of existing tears by reducing evaporation, such as learning to take breaks while reading, lowering the computer monitors to decrease lid aperture, use of protective glasses with side pieces in outdoor setting and humidification of the environment.[ 49 , 50 ] 
+ Punctal occlusion is a good tear conserving method and should be considered for patients with aqueous tear deficiency when medical means of aqueous enhancement are not useful. It can be temporary occlusion by punctual plugs or permanent occlusion by thermocautery, radiofrequency needle[ 51 ] or argon laser canliculoplasty.[ 52 ] Tear substitutes 
+ Still they are the mainstay of treatment for mild to moderate aqueous tear deficiency. They are aqueous solutions containing polymers that determine their viscosity, retention time and adhesion to ocular surface such as cellulose derivatives [e.g. hydroxypropyl methyl cellulose (HPMC), carboxymethyl cellulose], polyvinyl derivatives (e.g. polyvinyl alcohol), chondroitin sulfate, and sodium hyluronate.[ 53 ] 
+ Artificial tears provide temporary improvement in symptoms of eye irritation, blurred vision and visual contrast sensitivity.[ 54 ] Artificial tears containing preservatives, particularly benzylkonium chloride, are poorly tolerated and harmful in moderate to severe cases, especially if used frequently. Antiinflammatory therapy 
+ Due to a newer understanding of the pathogenesis of DED, use of antiinflammatory medications is a paradigm shift in the treatment of dry eye. It addresses the root cause of the dry eye instead of giving symptomatic relief as done by lubricants. Antiinflammatory therapy is considered to be the first “causative therapeutic approach” in the treatment of dry eye, since its objective is to interrupt the inflammatory cascade.[ 24 , 55 ] 
+ In this section of the review, we present uptodate antiinflammatory therapy strategies discussing both well-known and newly designed current novel medications. 
+ 
+ Cyclosporine A (CsA): Several clinical studies have shown topical CsA to improve both objective and subjective sign of KCS.[ 56 – 59 ] It is a fungal derived peptide that prevents Tcell activation and inflammatory cytokine production.[ 60 ] It also inhibits mitochondrial mediated pathways of apoptosis. Recently, several large multicentric randomized trials confirmed the safety and efficacy of topical application of CsA for the treatment of dry eyes. It marks the first step in shifting focus of the therapy into the underlying mechanisms that contribute to the development and progression of the disease. 
+ Corticosteroids: Numerous studies have concluded that topical or systemic corticosteroid therapy may have several benefits in the treatment of moderate to severe dry eyes.[ 50 , 62 , 63 ] It is very effective for achieving a quick response by nonspecifically inhibiting many aspects of the inflammatory response.[ 64 ] However, it has to be emphasized that careful monitoring is mandatory in these cases because of steroid-related complications[ 63 ] like glaucoma and posterior subcapsular cataract in addition to increased chance of local infection. 
+ Tetracycline: Though traditionally used as an antibiotic, tetracyclines have a number of anti-inflammatory properties. They inhibit the production and action of inflammatory cytokines and matrix metalloproteinase. Oral doxycycline can be used in all patients with dry eyes who have significant component of meibomian gland disease.[ 25 , 64 ] 
+ Essential fatty acids: Omega3 and omega6 essential fatty acids (EFAs) are the precursors of eicosanoids, locally acting hormones involved in mediating inflammatory processes.[ 65 ] Recent studies have shown significant improvement in ocular irritation symptoms and decreased ocular surface lissamine green staining by EFA like linolenic acid and gammalinolenic acid administered orally.[ 66 , 67 ] Dietary supplementation of omega-3 EFA has already proven to be effective in coronary heart disease and arthritis. Evidence suggests that supplementation with omega-3 EFA may be beneficial in the treatment and prevention of DED.[ 68 ] 
+ Autologous serum: Serum and plasma contain many antiinflammatory factors which include inhibitors of inflammatory cytokines and inhibitors of MMPs. They have potential to inhibit mediators of the ocular surface inflammatory cascade of dry eye.[ 64 ] The major limitation is that it requires special preparation for each patient and also carries the risk of infection.[ 25 ] 
+ Novel therapeutic agents with antiinflammatory properties: Numerous researches continue to establish new therapeutic agents for cases with dry eye, in addition to the agents explained above. For instance, one of the promising agents is the antiCD4 monoclonal antibody.[ 69 ] There are several reports which suggest that hydroxychloroquine, when given orally for the treatment of Sjogren syndrome, has a beneficial effect on dry eye, also with an improvement in all diagnostic parameters.[ 70 , 71 ] There are reports that DA-6034 (7-carboxymethyloxy-3’,4’,5-trimethoxy flavone) has the therapeutic effect in rabbit lacrimal gland inflammation model of dry eye and might be a potential treatment option for acute DED.[ 75 ] 
+ 
+ Secretagogues 
+ They are cholinergic agonists that stimulate endogenous tear production by the lacrimal glands and/or ocular surface epithelia (e.g. oral pilocarpine).[ 73 ] The main limitation is systemic cholinergic side effects like sweating, nausea and intestinal cramping.[ 25 ] Recently, a muscarinic acetylcholine receptor agonist, cevimeline, has been approved for use against symptoms of dry mouth in patients with Sjogren syndrome. It has been found that cevimeline is safe and effective in improving symptoms of dry eye in patients with Sjogren syndrome.[ 74 ] 
+ Recently, the safety and efficacy of CF101, an A (3) adenosine receptor agonist, has been explored. The results show a statistically significant improvement in the corneal staining and an improvement in the tear film breakup time and tear meniscus in patients with moderate to severe dry eye syndrome.[ 75 ] 
+ Lastly, along with conventional medicine, research in alternative medicines such as acupuncture and yoga reported beneficial effect in the treatment of DED.[ 76 ] Surgical treatment 
+ In patients who continue to have significant pathology despite medical therapy, surgical treatment may be considered in a stepwise fashion.[ 25 ] 
+ 
+ Punctal occlusion: One of the most useful and practical therapies for conserving tears. Purpose is to decrease physiological outflow of the tear film down the nasolacrimal system. 
+ Tarsorrhaphy and botulinum toxin induced ptosis: They decrease the palpebral aperture height, thus decreasing tear evaporation. 
+ Salivary gland transplantation: Reported to be successful in patients with severe lacrimal gland dysfunction with intact salivary function (e.g. Sjogren syndrome), radiation-induced lacrimal gland atrophy or surgical removal of lacrimal gland. Though the results appear to be promising, there is disadvantage of technical complexity and “altered” tear film consistency and composition and possibility of tear secretion during eating (i.e. crocodile tears). 
+ 
+ In conclusion, the therapy of dry eye traditionally involved hydrating and lubricating the ocular surface, which may provide temporary improvement in symptoms of irritation and blurred vision, but did not address the inflammation that is the underlying cause of dry eye. New insights into the inflammatory nature of this disease have led to a paradigm shift in the therapeutic approach to KCS. In particular, treatment is now directed more toward suppressing the inflammatory response on the ocular surface. Footnotes 
+ 
+ Source of Support: Nil 
+ Conflict of Interest: None declared. 
+ References 
+ 
+ 
+ 1. O’Brien PD, Collum LM. Dry eye: Diagnosis and current treatment strategies. Curr Allergy Asthma Rep. 2004;4:314–9. doi: 10.1007/s11882-004-0077-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. The definition and classification of dry eye disease: Report of the Definition and Classification Subcommittee of the International Dry Eye Workshop (2007) Ocul Surf. 2007;5:75–92. doi: 10.1016/s1542-0124(12)70081-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Gao J, Schwalb TA, Addeo JV, Ghosn CR, Stern ME. The role of apoptosis in the pathogenesis of canine keratoconjunctivitis sicca: The effect of topical cyclosporine A therapy. Cornea. 1998;17:654–63. doi: 10.1097/00003226-199811000-00014. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Kunert KS, Tisdale AS, Stern ME, Smith JA, Gipson IK. Analysis of topical cyclosporine treatment of patients with dry eye syndrome: Effect on conjunctival lymphocytes. Arch Ophthalmol. 2000;118:1489–96. doi: 10.1001/archopht.118.11.1489. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Stern ME, Gao J, Schwalb TA, Ngo M, Tieu DD, Chan CC, et al. Conjunctival T-cell subpopulations in Sjögren's and non- Sjögren's patients with dry eye. Invest Ophthalmol Vis Sci. 2002;43:2609–14. [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Pflugfelder SC. Dry eye and Ocular Surface disorders. In: Pflugfelder SC, Roger WB, editors. New York: Marcel Dekker; 2004. pp. 11–32. [ Google Scholar ] 
+ 
+ 7. Gayton JL. Etiology, prevalence and treatment of dry eye disease. Clin Ophthalmol. 2009;3:405–12. doi: 10.2147/opth.s5555. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Stern ME, Beuerman RW, Fox RI, Gao J, Mircheff AK, Pflugfelder SC. A unified theory of the role of the ocular surface in dry eye. Adv Exp Med Biol. 1998;438:643–51. doi: 10.1007/978-1-4615-5359-5_91. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. The epidemiology of dry eye disease: Report of the Epidemiology Subcommittee of the International Dry Eye Workshop (2007) Ocul Surf. 2007;5:93–107. doi: 10.1016/s1542-0124(12)70082-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Lambert DW, Foster CS, Perry HD. Schirmer test after topical anesthesia and the tear meniscus height in normal eyes. Arch Ophthalmol. 1979;97:1082–5. doi: 10.1001/archopht.1979.01020010536004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Connor CG, Flockencier LL, Hall CW. The influence of gender on the ocular surface. J Am Optom Assoc. 1999;70:182–6. [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Krenzer KL, Dana MR, Ullman MD, Cermak JM, Tolls DB, Evans JE, et al. Effect of androgen deficiency on the human meibomian gland and ocular surface. J Clin Endocrinol Metab. 2000;85:4874–82. doi: 10.1210/jcem.85.12.7072. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Schaumberg DA, Buring JE, Sullivan DA. Hormone replacement therapy and dry eye syndrome. JAMA. 2001;286:2114–9. doi: 10.1001/jama.286.17.2114. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Ang RT, Dartt DA, Tsubota K. Dry eye after refractive surgery. Curr Opin Ophthalmol. 2001;12:318–22. doi: 10.1097/00055735-200108000-00013. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Donnenfeld ED, Ehrenhaus M, Solomon R, Mazurek J, Rozell JC, Perry HD. Effect of hinge width on corneal sensation and dry eye after laser in situ keratomileusis. J Cataract Refract Surg. 2004;30:790–7. doi: 10.1016/j.jcrs.2003.09.043. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Lee AJ, Lee J, Saw SM, Gazzard G, Koh D, Widjaja D, et al. Prevalence and risk factors associated with dry eye symptoms: A population based study in Indonesia. Br J Ophthalmol. 2002;86:1347–51. doi: 10.1136/bjo.86.12.1347. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Schlote T, Kadner G, Frudenthaler N. Marked reduction and distinct pattern of eye blinking in patients with moderately dry eyes during video display terminal use. Graefes Arch Clin Exp Ophthalmol. 2004;242:306–12. doi: 10.1007/s00417-003-0845-z. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Blehm C, Vishnu S, Khattak A, Mitra S, Yee RW. Computer vision syndrome: A review. Surv Ophthalmol. 2005;50:253–62. doi: 10.1016/j.survophthal.2005.02.008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Wolkoff P, Nøjaard JK, Troiano P, Piccoli B. Eye complaints in the office environment: Precorneal tear film integrity influenced by eye blinking efficiency. Occup Environ Med. 2005;62:4–12. doi: 10.1136/oem.2004.016030. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Wolkoff P, Nøjaard JK, Franck C, Skov P. The modern office environments desiccate the eye? Indoor Air. 2006;16:258–65. doi: 10.1111/j.1600-0668.2006.00429.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Management and therapy of dry eye disease: Report of the Management and Therapy Subcommittee of the International Dry Eye WorkShop (2007) Ocul Surf. 2007;5:163–78. doi: 10.1016/s1542-0124(12)70085-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Corrales RM, Villarreal A, Farley W, Stern ME, Li DQ, Pflugfelder SC. Strain-related cytokine profiles on the murine ocular surface in response to desiccating stress. Cornea. 2007;26:579–84. doi: 10.1097/ICO.0b013e318033a729. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Li DQ, Pflugfelder SC. Matrix metalloproteinases in corneal inflammation. Ocul Surf. 2005;3(4 Suppl):S198–202. doi: 10.1016/s1542-0124(12)70255-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Gumus K, Cavanagh DH. The role of inflammation and antiinflammation therapies in keratoconjunctivitis sicca. Clin Ophthalmol. 2009;3:57–67. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Djalilian AR, Pedram H, Pflugfelder SC. Cornea. In: Krachmer, Mannis, Holland, editors. 2nd ed. Vol. 1. Philadeiphia: Elsevier; 2005. pp. 521–38. [ Google Scholar ] 
+ 
+ 26. Dana MR, Hamarah P. Role of immunity and inflammation in corneal and ocular surface disease associated with dry eye. Adv Exp Med Biol. 2002;506:729–38. doi: 10.1007/978-1-4615-0717-8_103. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Hamarah P, Haq SO, Gulati A, Dana MR. Mechanism of ocular surface immune response. In: Pflugflelder SC, Roger W.B, editors. Dry eye and Ocular Surface disorders. New York: Marcel Dekker; 2004. pp. 111–41. [ Google Scholar ] 
+ 
+ 28. Zoukhri D. Effect of inflammation on lacrimal gland function. Exp Eye Res. 2006;82:885–98. doi: 10.1016/j.exer.2005.10.018. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Zhu Z, Stevenson D, Ritter T, Schechter JE, Mircheff AK, Kaslow HR, et al. Expression of IL-10 and TNF-inhibitor genes in lacrimal gland epithelial cells suppresses their ability to activate lymphocytes. Cornea. 2002;21:210–4. doi: 10.1097/00003226-200203000-00018. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Brignole F, De Saint Jean M, Goldschild M, Becquet F, Goguel A, Baudouin C. Expression of the fas-fas ligand antigens and appropriate marker apo2. 7 by the human conjunctival epithelium. Positive correlation with class II HL-DR expression in inflammatory ocular surface disorders. Exp Eye Res. 1998;67:687–97. doi: 10.1006/exer.1998.0566. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Farris RL. Tear osmolarity- a new gold standard? Adv Exp Med Biol. 1994;350:495–503. doi: 10.1007/978-1-4615-2417-5_83. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Schwartz L, Guais A, Pooya M, Abolhassani M. Is inflammation a consequence of extracellular hyperosmolarity? J Inflamm (Lond) 2009;23:21. doi: 10.1186/1476-9255-6-21. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Mircheff AK. Hormonal support of lacrimal function, primary lacrimal deficiency, autoimmunity and peripheral tolerance in the lacrimal gland. Ocul Immunol Inflamm. 1996;4:145–52. doi: 10.3109/09273949609079648. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Azzarolo AM, Mircheff AK, Kaswan RL, Stanczyk FZ, Gentschein E, Becker L, et al. Androgen support of lacrimal gland function. Endocrine. 1997;6:39–45. doi: 10.1007/BF02738800. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Danjo Y, Watanabe H, Tisdale AS, George M, Tsumura T, Abelson MB, et al. Alteration of mucin in human conjunctival epithelia in dry eye. Invest Ophthalmol Vis Sci. 1998;39:2602–9. [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Methodologies to diagnose and monitor dry eye disease: Report of the Diagnostic Methodology Subcommittee of the International Dry Eye WorkShop (2007) Ocul Surf. 2007;5:108–52. doi: 10.1016/s1542-0124(12)70083-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Perry HD. Dry Eye Disease: Pathophysiology, classification, and diagnosis. Am J Manag Care. 2008;14(3 Suppl):S79–87. [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Cintia S, DE Pavia, Pflugfelder SC. Diagnostic approaches to lacrimal keratoconjunctivitis. In: Pflugfelder SC, editor. Dry eye and ocular surface disorders. New York: Marcel Dekker; 2004. p. 270. [ Google Scholar ] 
+ 
+ 39. Perry HD, Donnenfeld ED. Dry eye diagnosis and management in 2004. Curr Opin Ophthalmol. 2004;15:299–304. doi: 10.1097/00055735-200408000-00004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Meyer D. Diagnostic tests and principles in dry eye syndrome. In: Garg A, editor. Clinical diagnosis and management of dry eye and ocular surface disorders (Xero-Dacryology) 1st ed. New Delhi: Jaypee; 2006. pp. 65–82. [ Google Scholar ] 
+ 
+ 41. Murube J, Nemeth J, Hoh H. The triple classification of dry eye for practical clinical use. In: Garg A, editor. Clinical diagnosis and management of dry eye and ocular surface disorders (Xero- Dacryology) New Delhi: Jaypee; 2006. pp. 45–59. [ Google Scholar ] 
+ 
+ 42. Yokoi N, Komuro A. Non-invasive methods of assessing the tear film. Exp Eye Res. 2004;78:399–407. doi: 10.1016/j.exer.2003.09.020. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Van Bijsterveld OP. Diagnostic test in sicca syndrome. Arch Ophthalmol. 1969;82:10–4. doi: 10.1001/archopht.1969.00990020012003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Afonso AA, Monroy D, Stern ME, Feuer WJ, Tseng SC, Pflugfelder SC. Correlation of tear fluorescein clearance and Schirmer test scores with ocular irritation symptoms. Ophthalmology. 1999;106:803–10. doi: 10.1016/S0161-6420(99)90170-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. De Paiva CS, Lindsey JL, Pflugfelder SC. Assessing the severity of keratitis sicca with videokeratoscopic indices. Ophthalmology. 2003;110:1102–9. doi: 10.1016/s0161-6420(03)00245-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Huang FC, Tseng SH, Shih MH, Chen FK. Effect of artificial tears on corneal surface regularity, contrast sensitivity, and glare disability in dry eyes. Ophthalmology. 2002;109:1934–40. doi: 10.1016/s0161-6420(02)01136-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Calonge M, Diebold Y, Saez V, Enríquez de Salamanca A, García-Vázquez C, Corrales RM, et al. Impression cytology of the ocular surface: A review. Exp Eye Res. 2004;78:457–72. doi: 10.1016/j.exer.2003.09.009. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Tomlinson A, Khanal S, Ramaesh K, Diaper D, McFadyen A. Tear Film Osmolarity: Determination of a Referent for dry eye diagnosis. Invest Ophthalmol Vis Sci. 2006;47:4309–15. doi: 10.1167/iovs.05-1504. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Tsubota K, Yamada M, Urayama K. Spectacle side panels and moist inserts for the treatment of dry-eye patients. Cornea. 1994;13:197–201. doi: 10.1097/00003226-199405000-00001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Pflugfelder SC, Stern ME. Dry eye and ocular surface disorders. In: Pflugfelder SC, Roger WB, editors. Therapy of Lacrimal Keratoconjunctivitis. New York: Marcel Dekker; 2004. pp. 309–20. [ Google Scholar ] 
+ 
+ 51. American Academy of Ophthalmology. Punctal occlusion for the dry eye. Three-year revision. ophthalmic procedure assessment. Ophthalmology. 1997;104:1521–4. [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Awan KJ. Laser punctoplasty for the treatment of punctual stenosis. Am J Ophthalmol. 1985;100:341–2. doi: 10.1016/0002-9394(85)90814-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Lemp MA. Artificial tear solutions. Int Ophthalmol Clin. 1973;13:221–9. doi: 10.1097/00004397-197301310-00016. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Haung FC, Tseng SH, Shih MH, Chen FK. Effect of artificial tears on corneal surface regularity, contrast sensitivity and glare disability in dry eyes. Ophthalmology. 2002;109:1934–40. doi: 10.1016/s0161-6420(02)01136-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Kymionis GD, Bouzoukis DI, Diakonis VF, Siganos C. Treatment of chronic dry eye: Focus on cyclosporine. Clin Ophthalmol. 2008;2(Suppl 4):829–36. doi: 10.2147/opth.s1409. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Gunduz K, Ozdemir O. Topical cyclosporin treatment of keratoconjunctivitis sicca in secondary Sjögren's syndrome. Acta Ophthalmol (Copenh) 1994;72:438–42. doi: 10.1111/j.1755-3768.1994.tb02792.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Sall KN, Cohen SM, Christensen MT, Stein JM. An evaluation of the efficacy of a cyclosporine-based dry eye therapy when used with marketed artificial tears as supportive therapy in dry eye. Eye Contact Lens. 2006;32:21–6. doi: 10.1097/01.icl.0000170599.57728.29. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Salib GM, McDonald MB, Smolek M. Safety and efficacy of cyclosporine 0.05% drops versus unpreserved artificial tears in dry-eye patients having laser in situ keratomileusis. J Cataract Refract Surg. 2006;32:772–8. doi: 10.1016/j.jcrs.2005.10.034. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Sall K, Stevenson OD, Mundorf TK, Reis BL. Two multicenter, randomized studies of the efficacy and safety of cyclosporine ophthalmic emulsion in moderate to severe dry eye disease.CsA Phase 3 Study Group. Ophthalmology. 2000;107:631–9. doi: 10.1016/s0161-6420(99)00176-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Matsuda S, Koyasu S. Mechanism of action of cyclosporine. Immunopharmacology. 2000;47:119–25. doi: 10.1016/s0162-3109(00)00192-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Sjogren H. Modern Trends in Ophthalmology. In: Ridly F, Sorsby A, editors. Keratoconjunctvitis sicca. London: Butterworth; 1940. pp. 403–13. [ Google Scholar ] 
+ 
+ 62. Marsh P, Pflugfelder SC. Topical nonpreserved methylprednisolone therapy for keratoconjunctivitis sicca in Sjögren syndrome. Ophthalmology. 1999;106:811–6. doi: 10.1016/S0161-6420(99)90171-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Hong S, Kim T, Chung SH, Kim EK, Seo KY. Recurrence after topical nonpreserved methylprednisolone therapy for keratoconjunctivitis sicca in Sjögren's syndrome. J Ocul Pharmacol Ther. 2007;23:78–82. doi: 10.1089/jop.2006.0091. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Pflugfelder SC. Antiinflammatory therapy for dry eye. Am J Ophthalmol. 2004;137:337–42. doi: 10.1016/j.ajo.2003.10.036. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Rosenberg ES, Asbell PA. Essential fatty acids in the treatment of dry eye. Ocul Surf. 2010;8(Suppl 1):18–28. doi: 10.1016/s1542-0124(12)70214-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Barabino S, Roland M, Camicione P, Ravera G, Zanardi S, Giuffrida S, et al. Systemic linoleic acid and gamma linolenic acid therapy in dry eye syndrome with an anti-inflammatory component. Cornea. 2003;22:97–101. doi: 10.1097/00003226-200303000-00002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Aragona P, Bucolo C, Spinella R, Giuffrida S, Ferreri G. Systemic omega-6 essential fatty acid treatment and pge1 tear content in Sjögren's syndrome patients. Invest Ophthalmol Vis Sci. 2005;46:4474–9. doi: 10.1167/iovs.04-1394. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Roncone M, Bartlett H, Eperjesi F. Essential fatty acids for dry eye: A review. Cont Lens Anterior Eye. 2010;33(Suppl 2):49–54. doi: 10.1016/j.clae.2009.11.002. quiz 100. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Hayashi Y, Ishimaru N, Arakaki R, Tsukumo S, Fukui H, Kishihara K, et al. Effective treatment of a mouse model of Sjögren's syndrome with eyedrop administration of anti-CD4 monoclonal antibody. Arthritis Rheum. 2004;50:2903–10. doi: 10.1002/art.20472. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Fox RI, Dixon R, Guarrasi V, Krubel S. Treatment of primary Sjögren's syndrome with hydroxychloroquine: A retrospective, open-label study. Lupus. 1996;5(Suppl 1):S31–6. [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Yavuz S, Asfuroðlu E, Bicakcigil M, Toker E. Hydroxychloroquine improves dry eye symptoms of patients with primary Sjogren's syndrome. Rheumatol Int. 2010 doi: 10.1007/s00296-010-1415-4. [In press] [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Seo MJ, Kim JM, Lee MJ, Sohn YS, Kang KK, Yoo M. The therapeutic effect of DA-6034 on ocular inflammation via suppression of MMP-9 and inflammatory cytokines and activation of the MAPK signaling pathway in an exp erimental dry eye model. Curr Eye Res. 2010;35(Suppl 2):165–75. doi: 10.3109/02713680903453494. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Garg A. Clinical diagnosis and management of dry eye and ocular surface disorders (Xero-Decryology) In: Garg A, editor. New Delhi: Jaypee; 2006. p. 99. [ Google Scholar ] 
+ 
+ 74. Ono M, Takamura E, Shinozaki K, Tsumura T, Hamano T, Yagi Y, Tsubota K. Therapeutic effect of cevimeline on dry eye in patients with Sjögren's syndrome: A randomized, double-blind clinical study. Am J Ophthalmol. 2004;138(Suppl 1):6–17. doi: 10.1016/j.ajo.2004.02.010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Avni I, Garzozi HJ, Barequet IS, Segev F, Varssano D, Sartani G, et al. Treatment of Dry Eye Syndrome with Orally Administered CF101 Data from a Phase 2 Clinical Trial. Ophthalmology. 2010;117:1287–93. doi: 10.1016/j.ophtha.2009.11.029. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Lee MS, Shin BC, Choi TY, Ernst E. Acupuncture for treating dry eye: A systematic review. Acta Ophthalmol. 2011;89:101–6. doi: 10.1111/j.1755-3768.2009.01855.x. [ DOI ] [ PubMed ] [ Google Scholar ]

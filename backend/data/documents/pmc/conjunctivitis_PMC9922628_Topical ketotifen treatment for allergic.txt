@@ -1,0 +1,147 @@
+Source: PubMed Central (PMC)
+PMCID: PMC9922628
+Title: Topical ketotifen treatment for allergic conjunctivitis: a systematic review
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9922628/
+Year: 2023
+Disease: conjunctivitis
+Priority: 2
+============================================================
+
+Int J Ophthalmol . 2023 Feb 18;16(2):286–292. doi: 10.18240/ijo.2023.02.17 
+ 
+ 
+ Topical ketotifen treatment for allergic conjunctivitis: a systematic review and Meta-analysis 
+ Xin-Yan Dou 
+ Xin-Yan Dou 
+ 
+ 1 Department of Ophthalmology, Shanghai Wusong Central Hospital, Shanghai 200940, China 
+ Find articles by Xin-Yan Dou 
+ 
+ 
+ 1, ✉ , Wei Zhang 
+ Wei Zhang 
+ 
+ 1 Department of Ophthalmology, Shanghai Wusong Central Hospital, Shanghai 200940, China 
+ Find articles by Wei Zhang 
+ 
+ 
+ 1 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, Shanghai Wusong Central Hospital, Shanghai 200940, China 
+ 
+ 
+ ✉ Correspondence to: Xin-Yan Dou. Department of Ophthalmology, Shanghai Wusong Central Hospital, Baoshan District, No.216 Mudanjiang Road, Baoshan District, Shanghai 200940, China. douxinyan0116@126.com 
+ 
+ 
+ ✉ Corresponding author. 
+ 
+ 
+ 
+ Received 2022 Feb 25; Accepted 2022 Oct 30; Collection date 2023. 
+ 
+ International Journal of Ophthalmology Press 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC9922628  PMID: 36816214 
+ 
+ Abstract 
+ AIM 
+ To assess the efficacy of ketotifen in treating allergic conjunctivitis. METHODS 
+ A systematic search of systematic reviews and Meta-analyses was conducted on the PubMed and Web Science of Science until October 2021 to address this knowledge gap. Mean difference with 95%CI and P values were used to assess the efficacy of ketotifen. The heterogeneity ( I 2 ) was used to evaluate the impact of heterogeneity. RESULTS 
+ Eight randomized controlled trials (RCTs) involving 1589 patients were included in this Meta-analysis. The results revealed that after treating with ketotifen, itching (MD=-0.91, 95%CI: -1.63 to -0.20, I 2 =94%, P =0.01), tearing (MD=-0.40, 95%CI: -0.61 to -0.18, I 2 =75%, P =0.0003) and total signs and symptoms (MD=-0.85, 95%CI: -1.12 to -0.58, I 2 =0, P <0.00001) showed better benefit effect compared to the placebo group. CONCLUSION 
+ Topical ketotifen is an effective treatment for patients with allergic conjunctivitis. Keywords: allergic conjunctivitis, ketotifen, Meta-analysis, olopatadine INTRODUCTION 
+ Allergic conjunctivitis is a common immunological disorder that affects up to 20% of the population with geographical variations [1] . Allergic conjunctivitis mainly affects young people, which can be subcategorized into different types according to severity, clinical presentation, and immunopathology. In addition, itching, redness and tearing remain the hallmark of all forms of this disorder [2] . Moreover, allergic conjunctivitis is often associated with allergic rhinitis, which is commonly known as allergic rhinoconjunctivitis. 
+ Allergic conjunctivitis is caused by type 1 immunoglobulin E-mediated hypersensitivity reaction. Its biological mechanism is that allergen particles bind and cross connect immunoglobulin E molecules which are attached to the tissue mast cells, resulting in these cells degranulation and release histamines and inflammatory mediators into the tissue [3] . At present, the topical therapeutic drugs for allergic conjunctivitis include antihistamines, cyclosporine ophthalmic solution, mast cell stabilizers, and eosinophil deactivators [4] . For severe case, non-steroidal anti-inflammatory drugs and corticosteroids is required [5] . Previous study has reported that topical ketotifen and olopatadine have mast cell stabilizing and antihistaminic properties [6] . 
+ Ketotifen is a H 1 blocker histamine antagonist, which is derived from cyproheptadine [7] . It has been proved that ketotifen treatment significantly reduces activated eosinophils, CD3 + , CD4 + T lymphocytes, bronchial mucosa and inhibit the expression of E-selectin and intercellular adhesive molecuk 1 (ICAM-1) on vascular endothelial cells [8] . The effects of ketotifen on ICAM-1 expression have been widely studied. Therefore, the present study aimed to perform a Meta-analysis through a comprehensive literature search, and to reach a conclusion by integrating clinical trials to identify the efficacious treatment of ketotifen for allergic conjunctivitis. MATERIALS AND METHODS 
+ Search Strategy 
+ Two independent researchers systematically searched the peer-reviewed English-language studies in the PubMed and Web of Science until October, 2021. The search terms were “(Allergic conjunctivitis) and (Ketotifen or Ketotifen Fumarate) and (Clinical trial)”. Inclusion Criteria 
+ The studies were eligible to the inclusion criteria have to fulfill the followings: 1) published as peer-reviewed English; 2) reported the treatment of allergic conjunctivitis; 3) the results showed symptoms of allergic cornea such as itching, conjunctival hyperemia, tearing, redness, or total signs and symptoms; and 4) the results quantitatively expressed as mean±SD. Exclusion Criteria 
+ Studies were excluded if: 1) no necessary sample data; 2) lack of a healthy control group; 3) data were measured in animal models; 4) grey- or unpublished studies; 5) other language. Screening of Articles 
+ The keywords and filtering titles was used for the screening of related articles. We used the inclusion criteria for the abstracts screened and the full-text of related studies. Moreover, we searched the reference list of the selected papers to the other relevant studies not included in the initial search. Finally, we performed a full-text search and analyze the data. The main information involved in the analysis was included aspects: name of the author, location, trail design, protocol, and relevant outcomes. Statistical Analysis 
+ Our study conforms to the guidelines from the Preferred Reporting Items for Systematic Reviews and Meta-analysis (PRISMA) statement [9] . The Meta-analysis was performed using Review Manager (Revman Version 5.3., Oxford, UK). Furthermore, mean difference with 95%CI and P values were used to assess the efficacy of ketotifen. The heterogeneity ( I 2 ) [10] was used to evaluate the impact of heterogeneity. A percentage of 0–25% was classified as mild, 26%–50% as moderate, and 51%–75% as significant between-study heterogeneity. If I 2 >50%, a random-effects model was used for the analysis, or the data were analyzed on fixed-effects model. Moreover, P <0.05 was considered as statistically significant in this Meta-analysis. RESULTS 
+ Search Results 
+ We retrieved 440 references from PubMed and Web of science through original search. After title and abstracts filtering, 121 studies met the requirements. After we screened a full-text, 8 of these articles in accord with inclusion criteria [6] , [11] – [17] ( Figure 1 ). 
+ Figure 1. Flowchart of the literature search. 
+ 
+ Open in a new tab Of these 8 studies, 7 were the comparison of ketotifen vs olopatadine, 3 were related to the comparison of the placebo. The risks of bias per study is analyzed by the methodological quality assessment. ‘Risk-of-bias’ domain ratings are shown for each study in Figures 2 and 3 . 
+ Figure 2. Risk of bias graph of included studies. 
+ 
+ Open in a new tab Figure 3. Risk of bias summary of included studies. 
+ 
+ Open in a new tab Ketotifen and Olopatadine in the Treatment of Allergic Conjunctivitis 
+ The reported data on the effect of ketotifen and olopatadine on allergic conjunctivitis were well converged ( Figure 4 ). The pairwise Meta-analysis for conjunctival hyperemia, itching, redness, tearing, and total signs and symptoms is reported in Figure 4 . The results showed that conjunctival hyperemia [mean difference (MD)=0.14, 95%CI: -0.26 to 0.53, I 2 =98%], itching (MD=0.02, 95%CI: -0.49 to 0.54, I 2 =98%), redness (MD=-0.05, 95%CI: -0.45 to 0.35, I 2 =88%), tearing (MD=-0.15, 95%CI: -0.44 to 0.13, I 2 =94%) and total signs and symptoms (MD=0.15, 95%CI: -0.54 to 0.84, I 2 =91%) were all no significant difference between the two drugs. A random-effects model was used for the analyses due to the inaccuracy and high degree of inconsistency between studies. 
+ Figure 4. A Forest plot of ketotifen vs olopatadine. 
+ 
+ Open in a new tab Ketotifen and Placebo in the Treatment of Allergic Conjunctivitis 
+ Figure 5 presents the results of the comparisons between ketotifen and placebo. The data from a total of 3 trials was used to analysis the effectiveness of ketotifen. Compared to the placebo group, itching (MD=-0.91, 95%CI: -1.63 to -0.20, I 2 =94%, P =0.01), tearing (MD=-0.40, 95%CI: -0.61 to -0.18, I 2 =75%, P =0.0003) and total signs and symptoms (MD=-0.85, 95%CI: -1.12 to -0.58, I 2 =0, P <0.00001) showed better benefit effect. There was no difference between conjunctival hyperemia (MD=-0.21, 95%CI: -0.60 to 0.18, I 2 =98%), redness (MD=-0.80, 95%CI: -1.94 to 0.33, I 2 =98%) and placebo group. 
+ Figure 5. A Forest plot of ketotifen vs placebo. 
+ 
+ Open in a new tab Sensitivity Analysis 
+ Sensitivity analysis included repeated evaluation of the effect of the intervention by excluding evaluation studies with high risk of bias in the main results. In our study, the funnel plots were analyzed for publication bias. The sensitivity analysis did not show significant differences compared with the main analysis ( Figures 6 and 7 ). 
+ Figure 6. A funnel plot of ketotifen vs olopatadine. 
+ 
+ Open in a new tab Figure 7. A funnel plot of ketotifen vs placebo. 
+ 
+ Open in a new tab DISCUSSION 
+ Our Meta-analysis was conducted on the data derived from treatments for allergic conjunctivitis patients in which was used to appraise the relative effectiveness therapy. We attempted to summarize the data of conjunctival hyperemia, itching, redness, tearing and total signs and symptoms from published clinical trials to indicate that whether ketotifen is a significant beneficial treatment for allergic conjunctivitis. Our results showed that ketotifen contributed to a significant improvement in itching, tearing, and total signs and symptoms. 
+ Ketotifen is a second-generation mast cell stabilizer and H 1 -antihistamine, and has a long elimination half-life [7] . In our study, topical ketotifen was associated with a reduction in itching, tearing and total signs symptoms by a pooled-MD of -1.63 to -0.20, -0.61 to -0.18, -1.12 to -0.58 respectively. The P values were considered as statistically significant in ocular itching and tearing. The advantage of this dual mechanism antiallergic molecules include rapid onset triggered by immediate antagonism of histamine receptors and long-term effects on late allergic reaction mediators. After the first infusion, itching relief was proved to be very rapid, because the treatment of the main part of the symptom has occurred in the short term. In the long term, the main signs/symptoms of allergic conjunctivitis improved on day 7, and most patients were absent on day 28 [18] . Some studies have reported that the benefit of ketotifen was obvious from the beginning of treatment to this visit [19] . In addition, fewer subjects discontinued ketotifen due to adverse events than placebo. Furthermore, ketotifen inhibits eosinophil infiltration, activation, and degranulation and other reactions [7] . The multiple effects of ketotifen produce additional efficacy with an anti-allergic mechanism. Therefore, ketotifen group was significantly better than place group in itching, tearing, and signs and symptoms. In addition, the number of asymptomatic days in the ketotifen group was significantly higher than that in the placebo group, indicating that ketotifen can prevent recurrent episodes in addition to alleviating the signs and symptoms of acute episodes of sac. It may suggest that ketotifen was an effective treatment strategy for allergic conjunctivitis. 
+ Olopatadine hydrochloride is a mast cell stabilizer and antihistamine, which is used as oral, ocular, and intranasal preparations. Most practical applications of olopatadine therapy focus on the treatment of allergic rhinoconjunctivitis [19] . The rapidity and intensity of the two antiallergic drugs are similar by reducing the patient's overall eye discomfort. In this study, topical ketotifen vs olopatadine was associated in conjunctival hyperemia, itching, redness, tearing, and total signs and symptoms respectively. There is no statistically significant between ketotifen and olopatadine evaluated by the P values. In a previous pharmacokinetic study, the concentrations of olopatadine were observed at the time points after single and multi-dose exposure in healthy subjects after 7d. Result showed that olopatadine was slowly absorbed in all participants and then rapidly eliminated from the body [20] . The common non-ocular adverse events associated with olopatadine include headache, nasal dryness, dysgeusia, and fatigue, which are known antihistamine effects [21] – [22] . The results showed that topical olopatadine has similar effect, which are effective treatments for allergic conjunctivitis. 
+ Our results support the use of topical ketotifen in the treatment of allergic conjunctivitis. It is more effective than placebo in relieving itching, tearing, and total signs and symptoms. However, the clinical and methodological heterogeneity of the study indicates that the overall efficacy of topical ketotifen should be cautiously evaluated. The lack of long-term data on the access of ketotifen for evidence-based medicine in the therapy of allergic conjunctivitis. Further randomized controlled trials with a larger sample size need to provide adequate statistical capacity to detect small differences in treatment effects such as conjunctival hyperemia and redness. The standardized research intention includes the use of precisely defined individual symbols and symptom severity grades, a unified follow-up schedule, and different concentrations of cyclosporin are justified to determine the short- and long-term efficacy and safety of ketotifen in the treatment of allergic conjunctivitis. Therefore, this Meta-analysis is to evaluate the efficacy and safety of ketotifen in the treatment of allergic conjunctivitis. We hope to provide more evidence to help clinicians and patients make the correct choice in the treatment of allergic conjunctivitis. 
+ The limitations of this study need to be recognized. First, in the studies we included, there was relatively little comparative evidence of treatment in patients with allergic conjunctivitis. Second, there may be other factors that lead to inconsistencies in this Meta-analysis, such as the duration and quality of the study. Third, a considerable number of studies do not have the above data, which makes fewer studies available. Moreover, an additional study limitation is the exclusion of some articles on the basis of language, and applicability of the results of this study on some population groups could be limited. 
+ In conclusion, our study suggested that topical ketotifen is an effective treatment for patients with allergic conjunctivitis, especially in itching, tearing and total signs symptoms. The therapeutic efficacy of ketotifen may appears to be like olopatadine. Acknowledgments 
+ Authors' contributions: Dou XY designed the protocol and the methods. Dou XY and Zhang W carried out the statistical analyses. Dou XY drafted of the article. 
+ Conflicts of Interest: Dou XY, None; Zhang W, None. REFERENCES 
+ 
+ 
+ 1. Bielory L, Delgado L, Katelaris CH, Leonardi A, Rosario N, Vichyanoud P. ICON: diagnosis and management of allergic conjunctivitis. Ann Allergy Asthma Immunol. 2020;124(2):118–134. doi: 10.1016/j.anai.2019.11.014. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Kam KW, Chen LJ, Wat N, Young AL. Topical olopatadine in the treatment of allergic conjunctivitis: a systematic review and meta-analysis. Ocular Immunol Inflamm. 2017;25(5):668–682. doi: 10.3109/09273948.2016.1158282. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Han JY, Lee H, Chung JL, Kim YJ, Kim JY, Tchah H. Multiple allergen simultaneous test-immunoblot assay for immunoglobulin E detection in patients with isolated allergic conjunctivitis. J Clin Med. 2021;10(5):960. doi: 10.3390/jcm10050960. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Chan VF, Yong AC, Azuara-Blanco A, Gordon I, Safi S, Lingham G, Evans J, Keel S. A systematic review of clinical practice guidelines for infectious and non-infectious conjunctivitis. Ophthalmic Epidemiol. 2022;29(5):473–482. doi: 10.1080/09286586.2021.1971262. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Ben-Eli H, Solomon A. Topical antihistamines, mast cell stabilizers, and dual-action agents in ocular allergy: current trends. Curr Opin Allergy Clin Immunol. 2018;18(5):411–416. doi: 10.1097/ACI.0000000000000473. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Patel D, Sarala N, Datti NP. Topical olopatadine hydrochloride versus ketotifen fumarate for allergic conjunctivitis. J Ophthalmic Vis Res. 2018;13(2):119–123. doi: 10.4103/jovr.jovr_85_17. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Triantafillou V, Maina IW, Patel NN, Tong CCL, Papagiannopoulos P, Kohanski MA, Kennedy DW, Palmer JN, Adappa ND, Cohen NA, Bosso JV. In vitro safety of ketotifen as a topical nasal rinse. Int Forum Allergy Rhinol. 2020;10(2):265–270. doi: 10.1002/alr.22461. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Aberg AKG, Arulnesan N, Bolger GT, Ciofalo VB, Pucaj K, Walle K, Walle T. Ketotifen is a Prodrug. Norketotifen is the active metabolite. Drug Dev Res. 2022;83(2):362–367. doi: 10.1002/ddr.21865. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Moher D, Liberati A, Tetzlaff J, Altman DG, PRISMA Group Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. BMJ. 2009;339:b2535. doi: 10.1136/bmj.b2535. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Qin XY, Wu HT, Cao C, Loh YP, Cheng Y. A meta-analysis of peripheral blood nerve growth factor levels in patients with schizophrenia. Mol Psychiatry. 2017;22(9):1306–1312. doi: 10.1038/mp.2016.235. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Ganz M, Koll E, Gausche J, Detjen P, Orfan N. Ketotifen fumarate and olopatadine hydrochloride in the treatment of allergic conjunctivitis: a real-world comparison of efficacy and ocular comfort. Adv Ther. 2003;20(2):79–91. doi: 10.1007/BF02850255. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Mortemousque B, Bourcier T, Khairallah M, et al. Ketotifen Study Group Comparison of preservative-free ketotifen fumarate and preserved olopatadine hydrochloride eye drops in the treatment of moderate to severe seasonal allergic conjunctivitis. J Fr Ophtalmol. 2014;37(1):1–8. doi: 10.1016/j.jfo.2013.02.007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Borazan M, Karalezli A, Akova YA, Akman A, Kiyici H, Erbek SS. Efficacy of olopatadine HCI 0.1%, ketotifen fumarate 0.025%, epinastine HCI 0.05%, emedastine 0.05% and fluorometholone acetate 0.1% ophthalmic solutions for seasonal allergic conjunctivitis: a placebo-controlled environmental trial. Acta Ophthalmol. 2009;87(5):549–554. doi: 10.1111/j.1755-3768.2008.01265.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Avunduk AM. Comparison of the effects of ketotifen fumarate 0.025% and olopatadine HCl 0.1% ophthalmic solutions in seasonal allergic conjunctivities: a 30-day, randomized, double-masked, artificial tear substitute-controlled trial. Clin Ther. 2005;27(9):1392–1402. doi: 10.1016/j.clinthera.2005.09.013. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Kidd M, McKenzie SH, Steven I, Cooper C, Lanz R, Group AKS Efficacy and safety of ketotifen eye drops in the treatment of seasonal allergic conjunctivitis. Br J Ophthalmol. 2003;87(10):1206–1211. doi: 10.1136/bjo.87.10.1206. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Anusha J, Jyothi R, Umadevi S, Girish K. Efficacy and tolerability comparison of olopatadine, ketotifen, and epinastine in seasonal allergic conjunctivitis: a prospective open-label comparative study. Natl J Physiol Pharm Pharmacol. 2019;9(11):1. [ Google Scholar ] 
+ 
+ 17. Sarker SJ, Chowdhury AN, Hussain Z, Hossain AM, Chowdhury H. Comparison of the therapeutic efficacy of 0.1% olopatadine hydrochloride and 0.025% ketotifen fumarate in allergic conjunctivitis. Therapy. 2011;8(5):545–553. [ Google Scholar ] 
+ 
+ 18. Leonardi A, Capobianco D, Benedetti N, Capobianco A, Cavarzeran F, Scalora T, Modugno R, Feuerman OM. Efficacy and tolerability of ketotifen in the treatment of seasonal allergic conjunctivitis: comparison between ketotifen 0.025% and 0.05% eye drops. Ocular Immunol Inflamm. 2019;27(8):1352–1356. doi: 10.1080/09273948.2018.1530363. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Figus M, Fogagnolo P, Lazzeri S, et al. Treatment of allergic conjunctivitis: results of a 1-month, single-masked randomized study. Eur J Ophthalmol. 2010;20(5):811–818. doi: 10.1177/112067211002000501. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Zi YX, Deng Y, Ji MQ, Qin YL, Nong LQ, Liu ZQ, Jin M. The effectiveness of olopatadine hydrochloride eye drops for allergic conjunctivitis: protocol for a systematic review. Medicine. 2020;99(7):e18618. doi: 10.1097/MD.0000000000018618. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Meier E, Narvekar A, Iyer GR, DuBiner HB, Vutikullird A, Wirta D, Sall K. Pharmacokinetics and safety of olopatadine hydrochloride 0.77% in healthy subjects with asymptomatic eyes: data from 2 independent clinical studies. Clin Ophthalmol. 2017;11:669–681. doi: 10.2147/OPTH.S126690. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Xue Y, Zhang W, Lei Y, Dang M. Novel polyvinyl pyrrolidone-loaded olopatadine HCL-laden doughnut contact lens to treat allergic conjunctivitis. J Pharm Sci. 2020;109(5):1714–1724. doi: 10.1016/j.xphs.2020.01.022. [ DOI ] [ PubMed ] [ Google Scholar ]

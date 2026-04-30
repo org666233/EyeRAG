@@ -1,0 +1,257 @@
+Source: PubMed Central (PMC)
+PMCID: PMC4437883
+Title: Recent Advances Clarifying the Etiologies of Strabismus
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4437883/
+Year: 2015
+Disease: strabismus
+Priority: 2
+============================================================
+
+J Neuroophthalmol . Author manuscript; available in PMC: 2016 Jun 1. 
+ 
+ Published in final edited form as: J Neuroophthalmol. 2015 Jun;35(2):185–193. doi: 10.1097/WNO.0000000000000228 
+ 
+ 
+ Recent Advances Clarifying the Etiologies of Strabismus 
+ Jason H Peragallo 
+ 
+ Jason H Peragallo , MD 
+ 
+ 
+ 1 Department of Ophthalmology, Emory University, Atlanta, Georgia; Department of Pediatrics, Emory University, Atlanta, Georgia 
+ Find articles by Jason H Peragallo 
+ 
+ 
+ 1 , Stacy L Pineles 
+ 
+ Stacy L Pineles , MD 
+ 
+ 
+ 2 Department of Ophthalmology, Stein Eye Institute, University of California, Los Angeles, California 
+ Find articles by Stacy L Pineles 
+ 
+ 
+ 2 , Joseph L Demer 
+ 
+ Joseph L Demer , MD, PhD 
+ 
+ 
+ 3 Department of Ophthalmology, Stein Eye Institute, University of California, Los Angeles, California; Department of Neurology, University of California, Los Angeles, California; Neuroscience Interdepartmental Program, University of California, Los Angeles, California; and Bioengineering Interdepartmental Program, University of California, Los Angeles, California 
+ Find articles by Joseph L Demer 
+ 
+ 
+ 3 
+ 
+ 
+ Author information 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, Emory University, Atlanta, Georgia; Department of Pediatrics, Emory University, Atlanta, Georgia 
+ 
+ 2 Department of Ophthalmology, Stein Eye Institute, University of California, Los Angeles, California 
+ 
+ 3 Department of Ophthalmology, Stein Eye Institute, University of California, Los Angeles, California; Department of Neurology, University of California, Los Angeles, California; Neuroscience Interdepartmental Program, University of California, Los Angeles, California; and Bioengineering Interdepartmental Program, University of California, Los Angeles, California 
+ 
+ ✉ Address correspondence to Jason H. Peragallo, MD, 1365B Clifton Road NE, Atlanta, GA 30322; jperaga@emory.edu 
+ 
+ 
+ 
+ © 2015 by North American Neuro-Ophthalmology Society 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC4437883  NIHMSID: NIHMS683908  PMID: 25724009 
+ 
+ The publisher's version of this article is available at J Neuroophthalmol 
+ 
+ Abstract 
+ Background 
+ Strabismus is commonly encountered in neuro-ophthalmology practice. Adult patients may present with symptoms including disabling diplopia and decreased quality of life. Although presentation to the neuro-ophthalmologist often prompts a thorough workup for a neurologic basis of ocular misalignment, advances in orbital imaging and understanding of orbital mechanics have revealed novel mechanical causes. A goal of this review is to clarify mechanical mechanisms of strabismus that were formerly assumed be neurologic in origin. Evidence Acquisition 
+ The authors combine their own research and clinical experience with a literature review using PubMed. Results 
+ Aberrant paths of the extraocular muscles can lead to strabismus. The extraocular muscles have connective tissue pulleys that control muscle paths and are, in turn, influenced by the extraocular muscle orbital layers. Orbital connective tissues, including the pulleys, constrain extraocular muscle paths. Abnormalities of these tissues may lead to strabismus that is not due to neurologic pathology. Some extraocular muscles are divided into independent neuromuscular compartments, so that partial motor nerve lesions may manifest as selective denervation of only 1 compartment, complicating the presentation of neuropathic strabismus. Conclusions 
+ Strabismus in adults due to nonneurologic causes can result from recently described abnormalities of the orbital connective tissue pulley system. Advances in understanding of compartmental extraocular muscle anatomy and innervation can explain cyclovertical strabismus in partial nerve palsies. Recognition of the underlying pathogenesis of the strabismus can lead to improved treatments. 
+ Extraocular motility is routinely assessed by neuro-ophthalmologists evaluating adult complaints of diplopia. Binocular diplopia is an often-disabling symptom resulting from strabismus and can decrease quality of life ( 1 ). Treatment of diplopia can restore function and improve psychosocial quality of life ( 2 ). 
+ Classical teaching regarding the anatomy of the extraocular muscles divided these muscles into antagonistic pairs ( 3 , 4 ). However, research over the past few decades has revealed a more complex mechanical system within the orbit, in which pathologic failure of the reciprocity of antagonist and co-agonist pairs can cause presentations of strabismus not foreseen by traditional concepts ( 4 ). 
+ Orbital Anatomy 
+ Histopathologic analysis of all extraocular muscles reveals divisions of the striated muscle fibers into global and orbital layers that share a common origin for each individual muscle ( 5 ). The global layer becomes continuous with the tendon that inserts directly on the globe. The orbital layer of each rectus muscle terminates about 16 mm posterior to the sclera, where it inserts into a connective tissue condensation in posterior Tenon's fascia that functions as a pulley ( 6 ). The orbital layer of each rectus muscle exerts force on the pulley itself, which actively alters the extraocular muscle's path ( 6 ). These pulleys are located posterior to the equator of the globe and are continuous with posterior Tenon's fascia ( Fig. 1 ). 
+ FIG. 1. 
+ 
+ Open in a new tab 
+ Intraoperative photograph of the lateral rectus pulley of an elderly person. LR, lateral rectus. Extraocular muscles do not follow straight line paths, leading to the notion that each passes through a pulley as first conceived by Miller ( 7 ). Pulleys maintain the stability of muscle paths posteriorly in the orbit and prevent side-slippage of the muscles over the globe in secondary and tertiary gaze positions ( 8 ). The muscle pulleys are mechanically coupled to each other and to anchor points on the medial and lateral orbital walls. Smooth muscle is present within the dense collagen rings and elastin that compose the pulley tissue ( 9 , 10 ) ( Fig. 2 ). The smooth muscle within the pulleys has autonomic innervation from sympathetics in the superior cervical ganglion and likely from parasympathetics in the ciliary and pterygopalatine ganglia ( 4 , 10 ). Specific effects of these autonomic pathways on pulley smooth muscles remain uncharacterized and likely depend on the exact orientation of the smooth muscle bundles. Current speculation favors a role for smooth muscle in the region of the medial rectus pulley in reducing the load on the striated medial rectus muscle during convergence, analogous to the manner in which contraction of the ciliary muscle permits relaxation of the fibers of the ciliary zonule during accommodation ( 11 ). At present, this is the only plausible explanation for the markedly lower contractility of the medial rectus in convergence than in adduction during horizontal gaze. 
+ FIG. 2. 
+ 
+ Open in a new tab 
+ Histologic section of an orbit demonstrating and contrasting the trochlea with the medial rectus muscle pulley (Masson trichrome, ×4). MR, medial rectus; SO, superior oblique. High-resolution magnetic resonance imaging (MRI) using orbital surface coils provides important detail of orbital anatomy. Inflections in the paths of the extraocular muscles in secondary and tertiary gaze produced by the orbital pulleys have been demonstrated by MRI for all 4 rectus muscles ( 12 ). Although the pulleys themselves cannot always be identified on MRI, inferences about their location can be determined by examining discrete inflection points of extraocular muscle paths in eccentric gaze positions ( 4 , 13 , 14 ). The inferior oblique muscle also has a pulley, located at the lateral margin of the inferior rectus muscle at the site of the motor nerve entry; the inferior oblique pulley is partially coupled with the inferior rectus pulley, so that the positions of both pulleys depend on the contractile states of the orbital layers of both muscles ( Fig. 3 ). In tertiary gaze positions, the inferior oblique muscle path may be observed to inflect at its pulley adjacent to the inferior rectus muscle's lateral border. The orbital layer of the inferior oblique muscle inserts on the inferior rectus pulley, on the inferior oblique sheath and on the inferior aspect of the lateral rectus pulley. As a result, inferior oblique contraction displaces the inferior rectus pulley nasally and the lateral rectus pulley inferiorly by a small amount. 
+ FIG. 3. 
+ 
+ Open in a new tab 
+ Postcontrast coronal magnetic resonance imaging shows the location of the medial rectus muscle pulley, lateral rectus muscle pulley, inferior oblique muscle pulley, and the lateral enthesis. IO, inferior oblique; MR, medial rectus; LR, lateral rectus. The orbital layer of the superior oblique muscle inserts on the superior oblique sheath posterior to the trochlea; the global layer of the superior oblique becomes continuous with the superior oblique tendon. Anterior to where both the superior oblique tendon and sheath are reflected in the trochlea, the superior oblique sheath inserts on the nasal aspect of the superior rectus tendon, whereas the superior oblique global layer tendon inserts on the sclera. Contraction of the superior oblique orbital layer produces nasal displacement of the superior rectus tendon, so that the superior oblique indirectly influences superior rectus pulling direction. Quantitative data on muscle path inflections supports the crucial role of pulleys in regulating muscle pulling directions. The unifying theory explaining the systematic changes in extraocular pulling directions during gaze shifts has been termed the “Active Pulley Hypothesis” to indicate that its kinematic precision is not accidental but rather the result of neutrally regulated forces in the orbital layers of all 6 oculorotary muscles. Nevertheless, because the orbital layers exert their forces against the passive elastic loading of orbital connective tissues, active processes in the orbital layers cannot always compensate when connective tissue pathology becomes sufficiently severe. This is particularly common where connective tissue pathology shifts pulley locations transversely to the long axes of the muscles, altering pulling direction in a way that cannot be compensated by change in orbital layer tension. 
+ Significant abnormalities of the pulley system can produce strabismus. Several kinds of abnormalities of the pulleys have been demonstrated by MRI and computed tomography (CT), including pulley heterotopy that produces a fixed change in muscle pulling direction, instability of a pulley that produces gaze-dependent changes in muscle pulling direction that may cause complex incomitant strabismus, and hindrance to movement of a pulley during muscle contraction, causing restrictive strabismus ( 4 , 8 ). 
+ The posterior fixation procedure, or fadenoperation, is used to decrease eye movement in a muscle's field of action. It was believed to decrease the effective force of a muscle in its field of action through weakening due to loss of arc of contact or alteration in the angle of tangency of the insertional tendon. However, MRI showed that posterior fixation sutures also hinder the normal posterior shift of the rectus muscle pulleys during contraction. It is now believed that this stiffening of the pulley suspension leads to an anteriorly directed elastic force that opposes the muscle contraction in its field of action ( 15 , 16 ). This mechanism of action has been exploited for treatment of incomitant strabismus. Posterior fixation sutures also are used to redirect muscle paths in the treatment of paralytic horizontal strabismus as part of vertical rectus muscle transposition surgery. After this procedure, MRI has shown a shift of the extraocular muscle pulleys in the direction of the transposed extraocular muscle insertions. Because all normal extraocular muscles have at least some resting tonus in every gaze position, transverse shift of rectus pulleys redirects this tonus to replace more fully the missing tension of the paralyzed muscle, thereby increasing the effectiveness of the tendon transposition procedure ( 17 ). 
+ One of the key components of the orbital pulley system is the “LR-SR” band, a ligament spanning between the lateral rectus and the superior rectus muscle pulleys that supports the vertical position of the lateral rectus muscle ( 18 ). Alterations in the positioning of the lateral rectus pulley due to involution of the LR-SR band has been implicated as the cause of age-related distance esotropia, a form of divergence insufficiency esotropia (see “Sagging Eye Syndrome”) ( 19 ). Heavy Eye Syndrome 
+ Strabismus associated with high axial myopia is a relatively rare but well-recognized entity. In this form of strabismus, abduction and supraduction are limited ( 20 , 21 ). It was postulated that the etiology of strabismus in patients with high axial myopia included the erroneous concept that the highly myopic globe was “heavy” and would sink onto the orbital floor or compress the lateral rectus, leading to ischemia of the muscle and mimic a sixth nerve palsy ( 22 , 23 ). The misconception that a large eye is somehow denser than a normal eye is the basis for the misnomer “heavy eye.” Unfortunately time-honored and in widespread use worldwide, the term will be used here. Krzizok and Schroeder ( 24 ) proposed that displacement of the lateral rectus muscle inferiorly led to a disturbance in abduction, but this did not explain limitation of elevation of the eye. The highly myopic globe has been demonstrated by MRI to be displaced superotemporally outside of the extraocular muscle cone in these cases ( 21 , 25 ). Yamaguchi et al ( 21 ) suggested that the globe itself displaced the extraocular muscles leading to strabismus, although an alternative interpretation is that disruption of the LR-SR band leads to inferior shift of the LR pulley that allows superotemporal globe displacement and subsequent strabismus ( 21 ). Because the relative positions of the globe and extraocular muscles are the mechanically relevant considerations, these 2 hypotheses are not mutually exclusive. The alteration of the muscle pulleys leads to abnormal pulling directions. Nasal translocation of the superior rectus pulley converts much of its force to adduction. Inferior displacement of the lateral rectus pulley converts most of its force to infraduction. There remains no source of abducting force, leading to esotropia. 
+ By recognizing the displacement of the globe superotemporally outside of the rectus pulley array, Yamaguchi et al ( 21 ) devised the “Yokoyama” surgical procedure tailored to the orbital anatomic pathology underlying myopic strabismus. This surgery consists of creating a union between the posterior bellies of the superior and lateral rectus muscles, effectively restoring the proper anatomic positions of the extraocular muscles, and so restoring abduction and elevation ( 21 , 26 ) ( Fig. 4 ). Durnian et al ( 27 ) demonstrated successful outcomes in 5 patients. However, this operation might be less effective for those patients' whose eyes are so elongated and misshapen by staphylomata that the globe is physically prevented from rotating due to collision with the orbital walls ( 28 ). Coronal plane orbital imaging is critical in establishing the diagnosis of heavy eye syndrome because the mere coexistence of axial myopia with esotropia does not exclude other etiologies such as sixth nerve palsy. 
+ FIG. 4. 
+ 
+ Open in a new tab 
+ Intraoperative photograph demonstrating the Yokoyama procedure in which the muscle bellies of the superior and lateral rectus muscles are joined. LR, lateral rectus; SR, superior rectus. Sagging Eye Syndrome 
+ Aging leads to widespread degeneration of adnexal connective tissues, including those within the orbit. For example, aponeurotic degeneration of the levator palpebrae superioris leads to ptosis in a significant portion of the elderly population. As the inferior displacement of the lateral rectus muscle due to involutional changes of the LR-SR band connective tissue ligament was known to be associated with strabismus, investigation of strabismic elderly patients was performed to determine if this phenomenon was causative ( 29 ). High-resolution orbital MRI performed in 3 elderly nonmyopic patients with strabismus demonstrated inferior displacement of the lateral rectus muscle ( 29 ). The LR-SR band was qualitatively abnormal on MRI ( 29 ). Coronal histologic sections of autopsied human orbits revealed progressive thinning and superotemporal displacement of the LR-SR band with age ( 29 ). Healthy older patients were shown to have horizontal rectus muscles more inferiorly displaced than younger subjects ( 30 ) ( Figs. 5 and 6 ). Limitation of sursumduction in the elderly may be related to inferior displacement of the horizontal rectus muscle pulleys due to degeneration of the LR-SR band ( 30 ). Similar to the heavy eye syndrome, inferior displacement of the lateral rectus muscle converts the action of the lateral rectus muscle from an abductor to an infraductor. Rutar and Demer ( 29 ) postulated that when this degeneration is present bilaterally, the primary effect is to create a deficit in abduction bilaterally, along with a symmetrical and, therefore, asymptomatic reduction in the range of sursumversion. These patients present with distance esotropia and bilateral supra-duction deficits. The clinical presentation has been described as divergence insufficiency esotropia, also known as age-related distance esotropia, adult-onset age-related distance esotropia, and divergence paralysis esotropia ( 19 , 29 , 32 – 36 ). This is one manifestation of the “sagging eye” syndrome. Connective tissue involution in the external adnexa is a clinically useful clue to the sagging eye syndrome. A history of previous surgery for ptosis or high eyelid creases can be considered a marker for degeneration of orbital tissues and may be suggestive of age-related distance esotropia ( Fig. 7 ). 
+ FIG. 5. 
+ 
+ Open in a new tab 
+ Coronal histology showing LR-SR band as it degenerates over time (van Giesson stain, ×4). IO, inferior oblique; LG, lacrimal gland; LPS, levator palpebrae superioris; LR, lateral rectus; SR, superior rectus. FIG. 6. 
+ 
+ Open in a new tab 
+ Coronal magnetic resonance imaging demonstrates LR-SR band degeneration in a patient with sagging eye syndrome. Note the progressive displacement of the LR-SR band from its original anatomic position with increasing age. LR, lateral rectus; SR, superior rectus. FIG. 7. 
+ 
+ Open in a new tab 
+ A . A patient with sagging eye syndrome has typical connective tissue involutional changes. B . Coronal magnetic resonance imaging of the same patient reveals an intact LR-SR band in the right orbit and a ruptured LR-SR band in the left orbit. LR, lateral rectus; SR, superior rectus. Evaluation of 56 orbits of patients suspected of having age-related degenerative changes as the cause of their diplopia was performed with quantitative high-resolution MRI. For this study, patients with axial high myopia were excluded to avoid confusion with the heavy eye syndrome. In patients who had sagging eye syndrome, a superior orbital sulcus deformity was found in 64% of patients, 29% of these patients had high upper eyelid creases and ptosis. Of the entire patient cohort, 29% had undergone previous facial cosmetic surgery ( 19 ). In the orbits of patients with sagging eye syndrome and age-related distance esotropia, orbital anatomy was distorted in comparison with both younger orbits and age-matched controls: the lateral rectus muscle pulley was displaced inferiorly, and the inferior rectus muscle pulley was displaced temporally and inferiorly ( 19 ). For patients with sagging eye syndrome and cyclovertical strabismus, the lateral rectus muscle pulley was inferiorly and temporally displaced in the hypotropic eye in comparison with its location in the orbits of younger patients and age-matched controls ( 19 ). Interestingly, both lateral rectus muscle pulleys were inferiorly displaced in patients with cyclovertical strabismus, but the hypotropic eye had greater inferior displacement than the hypertropic eye ( 19 ). The eye with greater inferior displacement of the lateral rectus pulley also exhibited consistently greater fundus excycloposition than the fellow eye. This excyclo effect is due to the excycloducting torque of the inferiorly displaced lateral rectus path. There was no consistent pattern of horizontal or vertical incomitance of the hypertropia, perhaps related to dynamic instabilities in pulley positions, compensatory vergence mechanisms, or compartmental mechanisms as described below. In both cyclovertical strabismus and age-related distance esotropia, lateral rectus muscle paths were approximately 50% longer than in younger patients or older controls, and the causative bowing of the lateral rectus muscles was evident on axial MRI images ( 19 ). The LR-SR band was no longer in older control patients than in young controls. The LR-SR band was thinned, elongated, or ruptured in many patients with sagging eye syndrome. 
+ Because cyclovertical strabismus due to asymmetric lateral rectus pulley sag may mimic some aspects of superior oblique palsy, some discussion of diagnostic criteria for superior oblique palsy is warranted. It is now recognized that the Parks–Bielschowsky 3-step test is not the reliable gold-standard it was once assumed to be. Based on MRI measures of superior oblique muscle function and knowledge that trochlear neurectomy rapidly induces denervation atrophy of the superior oblique muscle, MRI studies have demonstrated that the sensitivity of the 3-step test in the diagnosis of a complete superior oblique palsy is approximately 70% and the specificity is about 50%. Because adaptation to prism-induced vertical heterophoria causes a positive head tilt response even in normal individuals ( 37 ), it is no surprise that the amount of change in hypertropia with head tilt is poorly correlated with superior oblique structure or function ( 38 ). Nevertheless, the Parks–Bielschowsky 3-step test is still clinically useful in diagnosing unilateral superior oblique palsy in the acute setting. 
+ Patients with sagging eye syndrome may be identified without performing imaging by simple history and clinical examination, given the recognizable external appearance, tendency to have undergone cosmetic surgery, and motility patterns including limited supraduction. On examination, abduction must be full and abducting saccades must be normally brisk, so that sixth nerve weakness can be confidently excluded on clinical grounds. Divergence insufficiency type esotropia in younger patients in suspicious for an underlying neurologic disorder and should be investigated appropriately. Patients who do not meet the clinical profile of age-related distance esotropia or who exhibit associated ocular motor or cranial nerve abnormalities should undergo further neurological investigation regardless of age. 
+ In the treatment of age-related distance esotropia, small-angle distance esotropia can be treated conservatively with prism spectacles. For larger deviations, surgical options include either lateral rectus muscle shortening by resection or plication, or medial rectus muscle recession ( 39 ). It should be noted that because of muscle elongation in the sagging eye syndrome, the amount of medial rectus muscle recession must be greater than specified by standard strabismus tables ( 36 ). It is suggested that if medial rectus muscle recession is performed for age-related distance esotropia, the angle of deviation used to calculate surgery according to standard tables should be twice the measured angle of distance esotropia ( 36 ). For patients with small cyclovertical strabismus due to sagging eye syndrome, partial inferior rectus tenotomy under topical anesthesia can address hyper-tropia while allowing for intraoperative augmentation of the tenotomy up to 90% of the total tendon as necessary. 
+ A clearer relationship between heavy eye syndrome and sagging eye syndrome has recently emerged. The typical findings of sagging eye syndrome may occur in myopes, even axial high myopes, and responds well to conventional strabismus surgery when the globe remains within the general “conical” array of rectus muscles whose elongated paths are centrifugally displaced in the orbit. However, when an axially myopic globe shifts superotemporally, the superior and lateral rectus muscle paths shift towards the cranial midline; the lateral rectus path tends to parallel the inferior rectus path, markedly converting the abducting action of the lateral rectus into infraduction to produce marked esotropia and hypotropia characteristic of the heavy eye syndrome. These 2 possibilities may be difficult or impossible to distinguish without orbital imaging. We have also encountered a case in which an axially myopic patient exhibited severe esotropia that was presumed to be due to heavy eye syndrome until orbital imaging demonstrated denervation atrophy of the lateral rectus muscle due to a large cavernous sinus meningioma. That patient responded well to conventional vertical rectus transposition because the path of the atrophic lateral rectus muscle had become mechanically irrelevant. These situations illustrate the clinical value of preoperative orbital imaging in management of highly myopic patients. Extraocular Muscle Innervation: Compartmentalization 
+ Individual skeletal muscles may have multiple bellies innervated by different motor neuron populations ( 40 – 42 ). As noted above, the extraocular muscles are each composed of a global layer, that exerts force on the globe itself, and an orbital layer, that translates the connective tissues surrounding extraocular muscles to alter muscle paths. Beyond these 2 compartments, there is evidence of further specialization and innervation of portions of some extraocular muscles. 
+ The sixth nerve has been found to be duplicated in between 8% and 15% of autopsies ( 43 ). Histologic sectioning of human and monkey orbits has shown that the sixth nerve divides as it exits from the brainstem or travels peripherally and bifurcartes before entering the lateral rectus muscle ( 44 ). The bifurcation results in a distribution to 2 distinct zones of muscle fibers, a nonoverlapping superior zone and inferior zone ( 43 ). Ocular counterrolling violates Listing Law, and the possibility of compartmental contraction of the lateral rectus muscle during this maneuver was examined using high-resolution MRI imaging. The inferior compartment of the lateral rectus muscle exhibited increased contractility during ocular counterrolling maneuver in normal individuals. This effect was absent in patients with superior oblique palsies, suggesting a complex interaction between the oblique extraocular muscles and the inferior compartment of the lateral rectus muscle ( 45 ). There is vestibular input to the sixth nerve nucleus, leading to differential compartmental contraction of the lateral rectus muscle ( 46 ). 
+ Evidence for compartmentalization of the superior oblique muscle also has been demonstrated. Two separate nonoverlap-ping neuromuscular compartments innervated by separate divisions of the trochlear nerve have been identified on histologic sections of 3 adult human cadavers, multiple monkeys, and other mammalian orbits, but not in a preterm fetus. These divisions may implement separate control of torsional and vertical components of the action of the superior oblique muscle, because the more anterior fibers of the superior oblique tendon insert at the equator and have a mainly torsional effect, whereas the more posterior fibers have a mainly vertical effect (A. Le, BS, and J. L. Demer, MD, PhD, unpublished data, October 2014). Selective neuropathy of the torsional or vertical division of the trochlear nerve could produce 2 different patterns of compartmental superior oblique palsy with differences in vertical and torsional manifestations. 
+ Strabismus cases in which the classical cyclovertical muscles are implicated may not involve the cyclovertical muscles at all if differential compartmental activation of horizontal rectus muscles is involved in cyclorotation. This consideration may motivate the clinician to confirm putative cyclovertical muscle paralysis by an imaging method such as MRI to confirm the presence of denervation muscle atrophy. 
+ Imaging can demonstrate changes in morphology of the extraocular muscles. High-resolution MRI of the orbit has identified patients who have developed strabismus from selective compartmental palsies of the lateral rectus muscle. In a study of 18 patients with sixth nerve palsy, 6 exhibited asymmetric atrophy of the lateral rectus muscle, with the superior compartment significantly thinner than the inferior compartment ( 47 ). The total volume of the superior and inferior compartments in patients with complete sixth nerve palsies was significantly smaller than the normal contralateral lateral rectus muscle ( 47 ) ( Fig. 8 ). Patients with superior compartment lateral rectus palsies retained significantly more abduction function and had less esotropia than those with complete lateral rectus palsies, and the volume of the inferior compartment of the lateral rectus muscle was not smaller than the corresponding contralateral compartment ( 47 ). 
+ FIG. 8. 
+ 
+ Open in a new tab 
+ Coronal magnetic resonance imaging shows superior compartment lateral rectus atrophy in a patient with a paretic lateral rectus muscle. LR, lateral rectus. Clues to the presence of superior division sixth nerve palsy include a smaller angle esotropia in primary position, better abduction, the presence of an ipsilateral hypotropia, and the presence of excyclotorsion. Peripheral partial sixth nerve palsies are not the only cause of this pattern of strabismus, as central causes could lead to partial sixth and fourth palsies or skew deviation ( 48 ). Finding a selective compartmental sixth nerve palsy raises implications for the treatment of strabismus, as lateral rectus muscle tightening procedures may lead to vertical or torsional strabismus given the retained function of the inferior compartment of the lateral rectus muscle. We have recently had surgical success in selectively plicating or resecting only the lateral rectus tendon corresponding to 1 compartment sparing the other. The Emerging Case Against Clinical Diagnosis of Superior Oblique Palsy 
+ Diagnosis of superior oblique palsy has classically been established using the Parks–Bielschowsky 3-step test ( 49 ). Requirements for diagnosis include ipsilesional hypertropia in primary gaze, increase in the hypertropia with contralateral gaze, and increase in the hypertropia with ipsilateral vs. contralateral head tilt. The increase in hypertropia on head tilt has been proposed to be a result of compensatory superior rectus activation in the presence of deficient incyclotorsion during ocular counterrolling ( 50 ). 
+ Previous investigations questioned the validity of the Parks–Bielschowsky 3-step test in diagnosing superior oblique palsy. The 3-step test appears to be nonspecific, as other entities can have positive 3-step tests, such as muscle pulley heterotopy, superior oblique tendon anomalies, and skew deviation ( 51 – 54 ). 
+ Superior oblique atrophy is seen shortly and permanently after experimental denervation of the muscle in macaque monkeys ( 55 ). Therefore, atrophy of the superior oblique could be considered a marker of denervation on orbital imaging. In patients with superior oblique muscle atrophy on MRI, the 3-step test was evaluated for sensitivity in diagnosing superior oblique palsy. All 3 steps were satisfied in 70% of patients, leaving a significant number with radiographic evidence of marked superior oblique atrophy who would not have been clinically diagnosed with superior oblique palsy ( 56 ). Each individual step had differing sensitivity for superior oblique palsy, with ipsilesional hypertropia in primary gaze and ipsilesional exceeding contralesional head tilt hypertropia being more sensitive (92% each) than contralesional gaze hypertropia exceeding ipsilesional hypertropia (84%). 
+ Therefore, the Parks–Bielschowsky 3-step test for diagnosis of superior oblique palsy may be negative even in the presence of marked atrophy of the superior oblique muscle belly. There is no correlation between superior oblique muscle size in clinically diagnosed superior oblique palsy and head tilt–dependent hypertropia ( 38 ). 
+ Using the Parks–Bielschowsky 3-step test may result in erroneous diagnosis of superior oblique palsy in patients who harbor other disorders, while patients with actual neurogenic superior oblique palsy may not satisfy all components of the 3-step test. We recommend that the diagnosis of superior oblique palsy be reserved for situations where there are abnormalities of the superior oblique muscle on orbital imaging. As a provisional alternative, clinicians might consider “incomitant hypertropia” or “head tilt-dependent hypertropia” until or unless an abnormality of the superior oblique muscle or tendon is detected. 
+ Because the lateral rectus muscle path is oblique to the frontoparallel plane, routine coronal MRI or CT will not adequately demonstrate pathology of the LR-SR band or lateral rectus muscle atrophy limited to a single compartment. It will show substantial inferior displacement of the lateral rectus muscle. Optimal imaging requires thin (2 mm) quasicoronal scanning perpendicular to the long orbital axis that is nearly perpendicular to all of the extraocular muscle bellies, except for the inferior oblique muscle. This requires that each orbit be imaged separately. Imaging of the inferior oblique muscle must be performed in a quasisagittal plan parallel to the long orbital axis perpendicular to the path of the inferior oblique muscle. Use of surface coils to maximize signal-to-noise ratio, along with fixation targets to minimize motion artifacts, permits imaging of the motor nerve entry points for most extraocular muscles ( 57 ). The T2 fast spin echo pulse sequence reduces scanning time significantly. Repeated imaging in multiple gaze positions is required to demonstrate the changes in muscle cross section and volume indicative of physiologic contractility ( 11 , 58 – 60 ). Conclusion 
+ Our understanding of orbital anatomy has significantly advanced in the recent decades. Through our knowledge of the orbital structures, their developmental anomalies, and acquired involutional changes, we can explain multiple forms of previously unexplained or incorrectly understood strabismus. By understanding the mechanics and innervation of the orbit, we may be better able to tailor our treatments for specific forms of strabismus. Acknowledgments 
+ Supported by USPHS National Eye Institute EY08313, National Eye Institute K23EY021762, Knights Templar Eye Foundation, Oppenheimer Family Foundation, and Research to Prevent Blindness. Footnotes 
+ The authors report no conflicts of interest. Contributor Information 
+ Jason H. Peragallo, Department of Ophthalmology, Emory University, Atlanta, Georgia; Department of Pediatrics, Emory University, Atlanta, Georgia. 
+ Stacy L. Pineles, Department of Ophthalmology, Stein Eye Institute, University of California, Los Angeles, California. 
+ Joseph L. Demer, Department of Ophthalmology, Stein Eye Institute, University of California, Los Angeles, California; Department of Neurology, University of California, Los Angeles, California; Neuroscience Interdepartmental Program, University of California, Los Angeles, California; and Bioengineering Interdepartmental Program, University of California, Los Angeles, California. References 
+ 
+ 
+ 1. Hatt SR, Leske DA, Kirgis PA, Bradley EA, Holmes JM. The effects of strabismus on quality of life in adults. Am J Ophthalmol. 2007;144:643–647. doi: 10.1016/j.ajo.2007.06.032. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Hatt SR, Leske DA, Liebermann L, Holmes JM. Changes in health-related quality of life 1 year following strabismus surgery. Am J Ophthalmol. 2012;153:614–619. doi: 10.1016/j.ajo.2011.10.001. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Demer JL. Anatomy of strabismus. In: Taylor D, Hoyt C, editors. Pediatric Ophthalmology and Strabismus. 3rd. London, United Kingdom: Elsevier; 2005. pp. 849–861. [ Google Scholar ] 
+ 
+ 4. Demer JL. Mechanics of the orbita. Dev Ophthalmol. 2007;40:132–157. doi: 10.1159/0000100353. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Porter JD, Baker RS, Ragusa RJ, Brueckner JK. Extraocular muscles: basic and clinical aspects of structure and function. Surv Ophthalmol. 1995;39:451–484. doi: 10.1016/s0039-6257(05)80055-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Demer JL, Oh SY, Poukens V. Evidence for active control of rectus extraocular muscle pulleys. Invest Ophthalmol Vis Sci. 2000;41:1280–1290. [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Miller JM. Functional anatomy of normal human rectus muscles. Vis Res. 1989;29:223–240. doi: 10.1016/0042-6989(89)90126-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Demer JL. Muscle paths matter in strabismus associated with axial high myopia. Am J Ophthalmol. 2010;149:184–186. doi: 10.1016/j.ajo.2009.09.006. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Demer JL, Miller JM, Poukens V, Vinters HV, Glasgow BJ. Evidence for fibromuscular pulleys of the recti extraocular muscles. Invest Ophthalmol Vis Sci. 1995;36:1125–1136. [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Demer JL, Miller JM, Poukens V, Micevych P. Innervation of extraocular pulley smooth muscle in monkeys and humans. Invest Ophthalmol Vis Sci. 1997;38:1774–1785. [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Demer JL, Clark RA. Differential compartmental function of medial rectus muscle during conjugate and converged ocular adduction. J Neurophysiol. 2014;112:845–855. doi: 10.1152/jn.00649.2013. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Demer JL. Pivotal role of orbital connective tissues in binocular alignment in strabismus: the Friedenwald lecture. Invest Ophthalmol Vis Sci. 2004;45:729–738. doi: 10.1167/iovs.03-0464. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Clark RA, Miller JM, Demer JL. Three-dimensional location of human rectus pulleys by path inflections in secondary gaze positions. Invest Ophthalmol Vis Sci. 2000;41:3787–3797. [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Kono R, Clark RA, Demer JL. Active pulleys: magnetic resonance imaging of rectus muscle paths in tertiary gazes. Invest Ophthalmol Vis Sci. 2002;43:2179–2188. [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Clark RA, Rosenbaum AL, Demer JL. Magnetic resonance imaging after surgical transposition defines the anteroposterior location of the rectus muscle bellies. J AAPOS. 1999;3:9–14. doi: 10.1016/s1091-8531(99)70088-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Clark RA, Isenberg SJ, Rosenbaum AL, Demer JL. Posterior fixation sutures: a revised mechanical explanation for the fadenoperation based on rectus extraocular muscle pulleys. Am J Ophthalmol. 1999;128:702–714. doi: 10.1016/s0002-9394(99)00356-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Clark RA, Demer JL. Rectus extraocular muscle pulley displacement after surgical transposition and posterior fixation for treatment of paralytic strabismus. Am J Ophthalmol. 2002;133:119–128. doi: 10.1016/s0002-9394(01)01264-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Kono R, Poukens V, Demer JL. Quantitative analysis of the structure of the human extraocular muscle pulley system. Invest Ophthalmol Vis Sci. 2002;43:2923–2932. [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Chaudhuri Z, Demer JL. Sagging eye syndrome: connective tissue involution as a cause of horizontal and vertical strabismus in older patients. JAMA Ophthalmol. 2013;131:619–625. doi: 10.1001/jamaophthalmol.2013.783. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Kaynak S, Durak I, Ozaksoy D, Canda T. Restrictive myopic myopathy: computed tomography, magnetic resonance imaging, echography, and histologic findings. Br J Ophthalmol. 1994;78:414–415. doi: 10.1136/bjo.78.5.414. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Yamaguchi M, Yokoyama T, Shiraki K. Surgical procedure for correcting globe dislocation in highly myopic strabismus. Am J Ophthalmol. 2010;149:341–346. doi: 10.1016/j.ajo.2009.08.035. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Ward DM. The heavy eye phenomenon. Trans Ophthalmol Soc U K. 1967;87:717–726. [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Kowal L, Troski M, Gilford E. MRI in the heavy eye phenomenon. Aust N Z J Ophthalmol. 1994;22:125–126. doi: 10.1111/j.1442-9071.1994.tb00779.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Krzizok TH, Schroeder BU. Measurement of recti eye muscle paths by magnetic resonance imaging in highly myopic and normal subjects. Invest Ophthalmol Vis Sci. 1999;40:2554–2560. [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Aoki Y, Nishida Y, Hayashi O, Nakamura J, Oda S, Yamada S, Kani K. Magnetic resonance imaging measurements of extraocular muscle path shift and posterior eyeball prolapse from the muscle cone in acquired esotropia with high myopia. Am J Ophthalmol. 2003;136:482–489. doi: 10.1016/s0002-9394(03)00276-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Yokoyama T, Ataka S, Tabuchi H, Shiraki K, Miki T. Treatment of progressive esotropia caused by high myopia—a new surgical procedure based on its pathogenesis. In: de Faber JT, editor. Transactions: 27th Meeting, European Strabismological Association Florence. Italy: Lisse (Netherlands): Swets & Zeitlinger; 2002. pp. 145–148. [ Google Scholar ] 
+ 
+ 27. Durnian JM, Maddula S, Marsh IB. Treatment of “heavy eye syndrome” using simple loop myopexy. J AAPOS. 2010;14:39–41. doi: 10.1016/j.jaapos.2009.11.018. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Demer JL, von Noorder GK. High myopia as an unusual cause of restrictive motility disturbance. Surv Ophthalmol. 1989;33:281–284. doi: 10.1016/0039-6257(82)90154-0. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Rutar T, Demer JL. “Heavy eye” syndrome in the absence of high myopia: a connective tissue degeneration in elderly strabismic patients. J AAPOS. 2009;13:36–44. doi: 10.1016/j.jaapos.2008.07.008. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Clark RA, Demer JL. Effect of aging on human rectus extraocular muscle paths demonstrated by magnetic resonance imaging. Am J Ophthalmol. 2002;134:872–878. doi: 10.1016/s0002-9394(02)01695-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Clark RA, Isenberg SJ. The range of ocular movements decreases with aging. J AAPOS. 2001;5:26–30. doi: 10.1067/mpa.2001.111016. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Chaudhuri Z, Demer JL. Divergence insufficiency esotropia is a misnomer- reply. Arch Ophthalmol. 2013;131:547–548. doi: 10.1001/jamaophthalmol.2013.2412. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Mittleman D. Age-related distance esotropia. J AAPOS. 2006;10:212–213. doi: 10.1016/j.jaapos.2006.01.217. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Demer JL. Clarity of words and thoughts about strabismus. Am J Ophthalmol. 2001;132:757–759. doi: 10.1016/s0002-9394(01)01099-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Kuhn TS. The Structure of Scientific Revolutions. Chicago, IL: University of Chicago Press; 1996. [ Google Scholar ] 
+ 
+ 36. Chaudhuri Z, Demer JL. Medial rectus recession is as effective as lateral rectus resection in divergence paralysis esotropia. Arch Ophthalmol. 2012;130:1280–1284. doi: 10.1001/archophthalmol.2012.1389. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Irsch K, Guyton DL, Ramey NA, Adyanthaya RS, Ying HS. Vertical vergence adaptation produces an objective vertical deviation that changes with head tilt. Invest Ophthalmol Vis Sci. 2013;54:3108–3114. doi: 10.1167/iovs.12-11368. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Kono R, Okanobu H, Ohtsuki H, Demer JL. Absence of relationship between superior oblique muscle size and bielschowsky head tilt phenomenon in clinically diagnosed superior oblique palsy. Invest Ophthalmol Vis Sci. 2009;50:175–179. doi: 10.1167/iovs.08-2393. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Thacker NM, Velez FG, Bhola R, Rosenbaum AL. Lateral rectus resections in divergence palsy: results of long-term follow-up. J AAPOS. 2005;9:7–11. doi: 10.1016/j.jaapos.2004.11.014. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. English AW, Wolf SL, Segal RL. Compartmentalization of muscles and their motor nuclei: the partitioning hypothesis. Phys Ther. 1993;73:857–867. doi: 10.1093/ptj/73.12.857. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Holtermann A, Roeleveld K, Mork PJ, Grönlund C, Karlsson JS, Andersen LL, Olsen HB, Zebis MK, Sjøgaard G, Sjøgaard K. Selective activation of neuromuscular compartments within the human trapezius muscle. J Electromyogr Kinesiol. 2009;29:896–902. doi: 10.1016/j.jelekin.2008.04.016. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Mu L, Sanders I. The human cricothyroid muscle: three muscle bellies and their innervation patterns. J Voice. 2007;23:21–28. doi: 10.1016/j.jvoice.2007.08.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Peng M, Poukens V, da Silva Costa RM, Yoo L, Tyschen L, Demer JL. Compartmentalized innervation of primate lateral rectus muscle. Invest Ophthalmol Vis Sci. 2010;51:4612–4617. doi: 10.1167/iovs.10-5330. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Zhang Y, Yu H, Shen BY, et al. Microsurgical anatomy of the abducens nerve. Surg Radiol Anat. 2012;34:3–14. doi: 10.1007/s00276-011-0850-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Demer JL, Clark RA, da Silva Costa RM, Kung J, Yoo L. Expanding repertoire in the oculomotor periphery: selective compartmental function in rectus extraocular muscles. Ann NY Acad Sci. 2011;1233:8–16. doi: 10.1111/j.1749-6632.2011.06112.x. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Ugolini G, Klam F, Dans MD, Dubayle D, Brandi AM, Buttner-Ennever J, Graf W. Horizontal eye movement networks in primates as revealed by retrograde transneuronal transfer of rabies virus: differences in monosynaptic input to “slow” and “fast” abducens motoneurons. J Comp Neurol. 2006;498:762–785. doi: 10.1002/cne.21092. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Clark RA, Demer JL. Lateral rectus superior compartment palsy. Am J Ophthalmol. 2014;157:479–487. doi: 10.1016/j.ajo.2013.09.027. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Pihlblad M, Demer JL. Hypertropia in unilateral, isolated abducens palsy. J AAPOS. 2014;18:235–240. doi: 10.1016/j.jaapos.2014.01.017. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Plager DA. Superior oblique palsy and Superior oblique Myokymia. In: Rosenbaum AS, Santiago AP, editors. Clinical Strabismus Management Principles and Surgical Techniques. Philadelphia, PA: W.B. Saunders Company; 1999. pp. 222–223. [ Google Scholar ] 
+ 
+ 50. Parks MM. Isolated cyclovertical muscle palsy. AMA Arch Ophthalmol. 1958;60:1027–1035. doi: 10.1001/archopht.1958.00940081047008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Kushner BJ. Errors in the three-step test in the diagnosis of vertical strabismus. Ophthalmology. 1989;96:127–132. doi: 10.1016/s0161-6420(89)32933-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Clark RA, Miller JM, Rosenbaum AL, Demer JL. Heterotopic muscle pulleys or oblique muscle dysfunction? J AAPOS. 1998;2:17–25. doi: 10.1016/s1091-8531(98)90105-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Sato M, Iwata EA, Takai Y, Hickoya A, Kolde YM. Superior oblique palsy with class III tendon anomaly. Am J Ophthalmol. 2008;146:385–394. doi: 10.1016/j.ajo.2008.05.013. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Brodsky MC, Donahue SP, Vaphiades M, Brandt T. Skew deviation revisited. Surv Ophthalmol. 2006;51:105–128. doi: 10.1016/j.survophthal.2005.12.008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Demer JL, Poukens V, Ying H, Shan X, Tian J, Zee DS. Effects of intracranial trochlear neurectomy on the structure of the primate superior oblique muscle. Invest Ophthalmol Vis Sci. 2010;51:3485–3493. doi: 10.1167/iovs.09-5120. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Manchandia A, Demer JL. Sensitivity of the three-step test in diagnosis of superior oblique palsy. J AAPOS. 2014;18:567–571. doi: 10.1016/j.jaapos.2014.08.007. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Demer JL, Dusyanth A. T2 fast spin echo magnetic resonance imaging of extraocular muscles. J AAPOS. 2011;15:17–23. doi: 10.1016/j.jaapos.2010.12.006. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Clark RA, Demer JL. Enhanced vertical rectus contractility by magnetic resonance imaging in superior oblique palsy. Arch Ophthalmol. 2011;129:904–908. doi: 10.1001/archophthalmol.2011.152. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Clark RA, Demer JL. Functional morphometry of horizontal rectus extraocular muscles during ocular duction. Invest Ophthalmol Vis Sci. 2012;53:7375–7379. doi: 10.1167/iovs.12-9730. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Demer JL, Clark RA, Kung J. Functional imaging of human extraocular muscles in head tilt dependent hypertropia. Inv Ophthalmol Vis Sci. 2011;52:3023–3031. doi: 10.1167/iovs.10-6596. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

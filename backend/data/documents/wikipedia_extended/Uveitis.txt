@@ -1,0 +1,192 @@
+Source: Wikipedia
+Title: Uveitis
+URL: https://en.wikipedia.org/wiki/Uveitis
+============================================================
+
+Uveitis () is inflammation of the uvea, the pigmented layer of the eye between the inner retina and the outer fibrous layer composed of the sclera and cornea. The uvea consists of the middle layer of pigmented vascular structures of the eye and includes the iris, ciliary body, and choroid. Uveitis is described anatomically, by the part of the eye affected, as anterior, intermediate or posterior, or panuveitic if all parts are involved. Anterior uveitis (iridocyclitis)  is the most common, with the incidence of uveitis overall affecting approximately 1:4500, most commonly those between the ages of 20–60. Symptoms include eye pain, eye redness, floaters and blurred vision, and ophthalmic examination may show dilated ciliary blood vessels and the presence of cells in the anterior chamber. Uveitis may arise spontaneously, have a genetic component, or be associated with an autoimmune disease or infection. While the eye is a relatively protected environment, its immune mechanisms may be activated resulting in inflammation and tissue destruction associated with T-cell activation.
+Uveitis is an ophthalmic emergency that requires urgent control of the inflammation to prevent vision loss.  Treatment typically involves the use of topical eye drop steroids, intravitreal injection, newer biologics, and treating any underlying disease. While initial treatment is usually successful, complications include other ocular disorders, such as uveitic glaucoma, retinal detachment, optic nerve damage, cataracts, and in some cases, a permanent loss of vision. In the United States uveitis accounts for about 10–20% of cases of blindness.
+
+
+== Classification ==
+Uveitis is classified anatomically into anterior, intermediate, posterior, and panuveitis forms—based on the part of the eye primarily affected. Before the twentieth century, uveitis was typically referred to in English as "ophthalmia."
+
+Anterior uveitis includes iridocyclitis and iritis.  Iritis is the inflammation of the anterior chamber and iris.  Iridocyclitis is inflammation of the iris and ciliary body with inflammation predominantly confined to the ciliary body.  Between 66% and 90% of uveitis cases are anterior in location (iritis).  This condition can occur as a single episode and subside with proper treatment or may take on a recurrent or chronic nature.
+Intermediate uveitis, also known as pars planitis, consists of vitritis—which is inflammation of cells in the vitreous cavity, sometimes with snowbanking, or deposition of inflammatory material on the pars plana. There are also "snowballs," which are inflammatory cells in the vitreous.
+Posterior uveitis or chorioretinitis is the inflammation of the retina and choroid.
+Panuveitis is the inflammation of all layers of the uvea.
+
+
+== Signs and symptoms ==
+
+The disease course, anatomy, and laterality can vary widely and are important to consider in diagnosis and treatment. Cases may be acute (sudden onset with < 3 month duration) and monophonic, acute and recurrent, or chronic. The signs and symptoms of uveitis may include the following:
+
+
+=== Anterior uveitis (iritis) ===
+Pain in the eye(s)
+Redness of the eye(s)
+Blurred vision
+Photophobia
+Irregular pupil
+Signs of anterior uveitis include dilated ciliary vessels, presence of cells and flare in the anterior chamber, and keratic precipitates ("KP") on the posterior surface of the cornea. In severe inflammation there may be evidence of a hypopyon. Old episodes of uveitis are identified by pigment deposits on lens, KPs, and festooned pupil on dilation of pupil.
+Busacca nodules, inflammatory nodules located on the surface of the iris in granulomatous forms of anterior uveitis such as Fuchs heterochromic iridocyclitis (FHI).
+Synechia, adhesion of the iris to the cornea (anterior synechiae) or more commonly the lens (posterior synechiae)
+
+
+=== Intermediate uveitis ===
+Most common:
+
+Floaters, which are dark spots that float in the visual field
+Blurred vision
+Intermediate uveitis usually affects one eye. Less common is the presence of pain and photophobia.
+
+
+=== Posterior uveitis ===
+Inflammation in the back of the eye is commonly characterized by:
+
+Floaters
+Blurred vision
+
+
+== Causes ==
+Uveitis is usually an isolated illness, but can be associated with many other medical conditions. In anterior uveitis, no associated condition or syndrome is found in approximately one-half of cases. However, anterior uveitis is often one of the syndromes associated with HLA-B27. Presence of this type of HLA allele has a relative risk of evolving this disease by approximately 15%.
+The most common form of uveitis is acute anterior uveitis (AAU). It is most commonly associated with HLA-B27, which has important features: HLA-B27 AAU can be associated with ocular inflammation alone or in association with systemic disease. HLA-B27 AAU has characteristic clinical features including male preponderance, unilateral alternating acute onset, a non-granulomatous appearance, and frequent recurrences, whereas HLA-B27 negative AAU has an equivalent male to female onset, bilateral chronic course, and more frequent granulomatous appearance. Rheumatoid arthritis is not uncommon in Asian countries as a significant association of uveitis.
+
+
+=== Noninfectious or autoimmune causes ===
+
+Sympathetic ophthalmia
+Behçet disease
+Crohn's disease
+Fuchs heterochromic iridocyclitis
+Granulomatosis with polyangiitis
+HLA-B27 related uveitis
+Spondyloarthritis (especially seen in ankylosing spondylitis)
+Juvenile idiopathic arthritis
+Sarcoidosis
+Tubulointerstitial nephritis and uveitis syndrome
+
+
+=== Associated with systemic diseases ===
+Systemic disorders that can be associated with uveitis include:
+
+Enthesitis
+Ankylosing spondylitis
+Juvenile rheumatoid arthritis
+psoriatic arthritis
+reactive arthritis
+Behçet's disease
+inflammatory bowel disease
+Whipple's disease
+systemic lupus erythematosus
+polyarteritis nodosa
+Kawasaki's disease
+chronic granulomatous disease
+sarcoidosis
+multiple sclerosis
+Vogt–Koyanagi–Harada disease
+
+
+=== Infectious causes ===
+Uveitis may be an immune response to fight an infection caused by an organism in the eye. They are less common than non-infectious causes and require antimicrobial/ viral/ parasitic treatment in addition to inflammatory control.  Infectious causes in order of global burden include:
+}
+
+bartonellosis
+tuberculosis
+brucellosis
+human herpesvirus viruses (herpes simplex virus, herpes zoster ophthalmicus - shingles of the eye)
+leptospirosis
+presumed ocular histoplasmosis syndrome
+syphilis
+toxocariasis
+toxoplasmic chorioretinitis
+Lyme disease
+Zika fever
+
+
+=== Drug-related side effects ===
+Rifabutin, a derivative of Rifampin, has been shown to cause uveitis.
+Several reports suggest the use of quinolones, especially Moxifloxacin, may lead to uveitis.
+
+
+=== White dot syndromes ===
+Occasionally, uveitis is not associated with a systemic condition: the inflammation is confined to the eye and has unknown cause. In some of these cases, the presentation in the eye is characteristic of a described syndrome, which are called white dot syndromes, and include the following diagnoses:
+
+acute posterior multifocal placoid pigment epitheliopathy
+birdshot chorioretinopathy
+multifocal choroiditis and panuveitis
+multiple evanescent white dot syndrome
+punctate inner choroiditis
+serpiginous choroiditis
+acute zonal occult outer retinopathy
+
+
+=== Masquerade syndromes ===
+Masquerade syndromes are those conditions that include the presence of intraocular cells but are not due to immune-mediated uveitis entities. These may be divided into neoplastic and non-neoplastic conditions.
+
+Non-neoplastic:
+retinitis pigmentosa
+intraocular foreign body
+juvenile xanthogranuloma
+retinal detachment
+Neoplastic:
+retinoblastoma
+lymphoma
+melanoma
+leukemia
+reticulum cell sarcoma
+
+
+== Pathophysiology ==
+
+
+=== Immunological factors ===
+Onset of uveitis can broadly be described as a failure of the ocular immune system and the disease results from inflammation and tissue destruction. Uveitis is driven by the Th17 T cell sub-population that bear T-cell receptors specific for proteins found in the eye. These are often not deleted centrally whether due to ocular antigen not being presented in the thymus (therefore not negatively selected) or a state of anergy is induced to prevent self targeting.
+Autoreactive T cells must normally be held in check by the suppressive environment produced by microglia and dendritic cells in the eye. These cells produce large amounts of TGF beta and other suppressive cytokines, including IL-10, to prevent damage to the eye by reducing inflammation and causing T cells to differentiate to inducible T reg cells. Innate immune stimulation by bacteria and cellular stress is normally suppressed by myeloid suppression while inducible Treg cells prevent activation and clonal expansion of the autoreactive Th1 and Th17 cells that possess potential to cause damage to the eye.
+Whether through infection or other causes, this balance can be upset and autoreactive T cells allowed to proliferate and migrate to the eye. Upon entry to the eye, these cells may be returned to an inducible Treg state by the presence of IL-10 and TGF-beta from microglia. Failure of this mechanism leads to neutrophil and other leukocyte recruitment from the peripheral blood through IL-17 secretion. Tissue destruction is mediated by non-specific macrophage activation and the resulting cytokine cascades. Serum TNF-α is significantly elevated in cases while IL-6 and IL-8 are present in significantly higher quantities in the aqueous humour in patients with both quiescent and active uveitis. These are inflammatory markers that non-specifically activate local macrophages causing tissue damage.
+
+
+=== Genetic factors ===
+The cause of non-infectious uveitis is unknown but there are some strong genetic factors that predispose disease onset including HLA-B27 and the PTPN22 genotype.
+
+
+=== Infectious agents ===
+Recent evidence has pointed to reactivation of herpes simplex, varicella zoster and other viruses as important causes of developing what was previously described as idiopathic anterior uveitis. Bacterial infection is another significant contributing factor in developing uveitis.
+
+
+== Diagnosis ==
+Uveitis is assessed as part of a dilated eye exam. Diagnosis includes dilated fundus examination to rule out posterior uveitis, which presents with white spots across the retina along with retinitis and vasculitis.
+Laboratory testing is usually used to diagnose specific underlying diseases, including rheumatologic tests (e.g. antinuclear antibody, rheumatoid factor) and serology for infectious diseases (Syphilis, Toxoplasmosis, Tuberculosis). 
+Major histocompatibility antigen testing may be performed to investigate genetic susceptibility to uveitis. The most common antigens include HLA-B27, HLA-A29 (in birdshot chorioretinopathy) and HLA-B51 (in Behçet disease).
+Radiology X-ray may be used to show coexisting arthritis and chest X-ray may be helpful in sarcoidosis.
+
+
+== Treatment ==
+Uveitis is typically treated with glucocorticoid steroids, either as topical eye drops (prednisolone acetate) or as oral therapy. Prior to the administration of corticosteroids, corneal ulcers must be ruled out. This is typically done using a fluorescence dye test. In addition to corticosteroids, topical cycloplegics, such as atropine or homatropine, may be used. Successful treatment of active uveitis increases T-regulatory cells in the eye, which likely contributes to disease regression.
+In severe cases an injection of posterior subtenon triamcinolone acetate may also be given to reduce the swelling of the eye.
+
+Intravitreal injection of steroid has proven to be a newer useful way to control inflammation for longer without the need for daily eyedrops. Dexamethasone and fluocinolone acetonide are two more commonly used options for noninfectious uveitis.
+Non-biologic, steroid sparing therapies for noninfectious uveitis in adults are now more available. These include the disease-modifying antirheumatic drugs (DMARDs) methotrexate, mycophenolate, cyclosporine, azathioprine, and tacrolimus. In comparing various studies, methotrexate is more efficacious than mycophenolate in inflammatory control for most forms of panuveitis. Methotrexate also had little to no differences in safety outcomes compared to mycophenolate.
+Biologic agents target specific inflammatory pathways and are used for non-infectious uveitis that does not respond to conventional immunosuppression. Adalimumab, a monoclonal antibody that blocks tumor necrosis factor-alpha (TNF-α), was approved by the FDA in 2016 for non-infectious intermediate, posterior, and panuveitis. Clinical trials showed adalimumab extended time to treatment failure from 13 to 24 weeks compared to placebo and reduced treatment failure rates from 78.5% to 54.5%. Long-term studies demonstrate sustained disease control with 85% of patients achieving quiescence over three years. Adalimumab is typically used as second-line therapy when disease-modifying antirheumatic drugs fail to control inflammation. The drug allows long-term reduction in corticosteroid use, reducing steroid-related side effects. Other TNF inhibitors including infliximab have shown efficacy in smaller studies, and JAK inhibitors represent an emerging therapeutic class currently under investigation.
+In the case of herpetic uveitis, anti-viral medications, such as valaciclovir or aciclovir, may be administered to treat the causative viral infection.
+
+
+== Prognosis ==
+The prognosis is generally good for those who receive prompt diagnosis and treatment, but serious complication including cataracts, uveitic glaucoma, band keratopathy, macular edema and permanent vision loss may result if left untreated. The type of uveitis, as well as its severity, duration, and responsiveness to treatment or any associated illnesses, all factor into the outlook.
+
+
+== Epidemiology ==
+Uveitis affects approximately 38 to 714 per 100,000 people worldwide. Uveitis is most common between the ages of 20 and 60.  In Western countries, anterior uveitis accounts for between 50% and 90% of uveitis cases. In Asian countries the proportion is between 28% and 50%. Uveitis is estimated to be responsible for approximately 10%-20% of the blindness in the United States.
+For non-infectious uveitis, women are more likely (57%) to be affected than men, possibly due to their higher prevalence of related autoimmune diseases. Vitamin D deficiency and smoking are risk factors for non-infectious uveitis.
+
+
+== See also ==
+List of systemic diseases with ocular manifestations
+Intermediate uveitis
+Uveitis–Glaucoma–Hyphema syndrome
+
+
+== References ==
+
+
+== Further reading ==
+Bodaghi, Bahram; LeHoang, Phuc (2017) [2009]. Uvéite (in French) (2nd ed.). Issy-les-Molineux, France: Elsevier Health Sciences. ISBN 978-2-294-74755-7.

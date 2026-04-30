@@ -1,0 +1,67 @@
+Source: Wikipedia
+Title: Cone cell
+URL: https://en.wikipedia.org/wiki/Cone_cell
+============================================================
+
+Cone cells or cones are photoreceptor cells in the retina of the vertebrate eye. Cones are active in daylight conditions and enable photopic vision, as opposed to rod cells, which are active in dim light and enable scotopic vision. Most vertebrates (including humans) have several classes of cones, each sensitive to a different part of the visible spectrum of light. The comparison of the responses of different cone cell classes enables color vision. There are about six to seven million cones in a human eye (vs ~92 million rods), with the highest concentration occurring towards the macula and most densely packed in the fovea centralis, a 0.3 mm diameter rod-free area with very thin, densely packed cones. Conversely, like rods, they are absent from the optic disc, contributing to the blind spot.
+Cones are less sensitive to light than the rod cells in the retina (which support vision at low light levels), but allow the perception of color. They are also able to perceive finer detail and more rapid changes in images because their response times to stimuli are faster than those of rods. In humans, cones are normally one of three types: S-cones, M-cones and L-cones, with each type bearing a different opsin: OPN1SW, OPN1MW, and OPN1LW respectively. These cones are sensitive to visible wavelengths of light that correspond to short-wavelength, medium-wavelength and longer-wavelength light respectively. Because humans usually have three kinds of cones with different photopsins, which have different response curves and thus respond to variation in color in different ways, humans have trichromatic vision. Being color blind can change this, and there have been some verified reports of people with four types of cones, giving them tetrachromatic vision.
+The three pigments responsible for detecting light have been shown to vary in their exact chemical composition due to genetic mutation; different individuals will have cones with different color sensitivity.
+
+
+== Structure ==
+
+
+=== Classes ===
+Most vertebrates have several different classes of cone cells, differentiated primarily by the specific photopsin expressed within. The number of cone classes determines the degree of color vision. Vertebrates with one, two, three or four classes of cones possess monochromacy, dichromacy, trichromacy and tetrachromacy, respectively.
+Humans normally have three classes of cones, designated L, M and S for the long, medium and short wavelengths of the visible spectrum to which they are most sensitive. L cones respond most strongly to light of the longer red wavelengths, peaking at about 560 nm. M cones, respond most strongly to yellow to green medium-wavelength light, peaking at 530 nm. S cones respond most strongly to blue short-wavelength light, peaking at 420 nm, and make up only around 2% of the cones in the human retina. The peak wavelengths of L, M, and S cones occur in the ranges of 564–580 nm, 534–545 nm, and 420–440 nm, respectively, depending on the individual. The typical human photopsins are coded for by the genes OPN1LW, OPN1MW, and OPN1SW. The LMS color space is an often-used model of spectral sensitivities of the three cells of a typical human.
+
+
+=== Histology ===
+
+Cone cells are shorter but wider than rod cells. They are typically 40–50 μm long, and their diameter varies from 0.5–4.0 μm. They are narrowest at the fovea, where they are the most tightly packed. The S cone spacing is slightly larger than the others.
+Like rods, each cone cell has a synaptic terminal, inner and outer segments, as well as an interior nucleus and various mitochondria. The synaptic terminal forms a synapse with a neuron bipolar cell. The inner and outer segments are connected by a cilium. The inner segment contains organelles and the cell's nucleus, while the outer segment contains the light-absorbing photopsins, and is shaped like a cone, giving the cell its name.
+The outer segments of cones have invaginations of their cell membranes that create stacks of membranous disks. Photopigments exist as transmembrane proteins within these disks, which provide more surface area for light to affect the pigments. In cones, these disks are attached to the outer membrane, whereas they are pinched off and exist separately in rods. Neither rods nor cones divide, but their membranous disks wear out and are worn off at the end of the outer segment, to be consumed and recycled by phagocytic cells.
+
+
+=== Distribution ===
+
+While rods outnumber cones in most parts of the retina, the fovea, responsible for sharp central vision, consists almost entirely of cones. The distribution of photoreceptors in the retina is called the retinal mosaic, which can be determined using photobleaching. This is done by exposing dark-adapted retina to a certain wavelength of light that paralyzes the particular type of cone sensitive to that wavelength for up to thirty minutes from being able to dark-adapt, making it appear white in contrast to the grey dark-adapted cones when a picture of the retina is taken. The results illustrate that S cones are randomly placed and appear much less frequently than the M and L cones. The ratio of M and L cones varies greatly among different people with regular vision (e.g. values of 75.8% L with 20.0% M versus 50.6% L with 44.2% M in two male subjects).
+
+
+== Function ==
+
+The difference in the signals received from the three cone types allows the brain to perceive a continuous range of colors through the opponent process of color vision. Rod cells have a peak sensitivity at 498 nm, roughly halfway between the peak sensitivities of the S and M cones.
+All of the receptors contain the protein photopsin. Variations in its conformation cause differences in the optimum wavelengths absorbed.
+The color yellow, for example, is perceived when the L cones are stimulated slightly more than the M cones, and the color red is perceived when the L cones are stimulated significantly more than the M cones. Similarly, blue and violet hues are perceived when the S receptor is stimulated more. S Cones are most sensitive to light at wavelengths around 420 nm. At moderate to bright light levels where the cones function, the eye is more sensitive to yellowish-green light than other colors because this stimulates the two most common (M and L) of the three kinds of cones almost equally. At lower light levels, where only the rod cells function, the sensitivity is greatest at a blueish-green wavelength.
+Cones also tend to possess a significantly elevated visual acuity because each cone cell has a lone connection to the optic nerve, therefore, the cones have an easier time telling that two stimuli are isolated. Separate connectivity is established in the
+inner plexiform layer so that each connection is parallel.
+The response of cone cells to light is also directionally nonuniform, peaking at a direction that receives light from the center of the pupil; this effect is known as the Stiles–Crawford effect.
+S cones may play a role in the regulation of the circadian system and the secretion of melatonin, but this role is not clear yet. Any potential role of the S cones in the circadian system would be secondary to the better established role of melanopsin (see also Intrinsically photosensitive retinal ganglion cell). 
+
+
+=== Color afterimage ===
+Sensitivity to a prolonged stimulation tends to decline over time, leading to neural adaptation. An interesting effect occurs when staring at a particular color for a minute or so. Such action leads to an exhaustion of the cone cells that respond to that color – resulting in the afterimage. This vivid color aftereffect can last for a minute or more.
+
+
+== Associated diseases ==
+Achromatopsia (rod monochromacy) – a form of monochromacy with no functional cones
+Blue cone monochromacy – a rare form of monochromacy with only functional S-cones
+Congenital red–green color blindness – partial color blindness where either one cone class is absent (dichromacy, including protanopia, deuteranopia & tritanopia) or the spectral sensitivity of one cone class is shifted (anomalous trichromacy, including protanomaly, deuteranomaly)
+Oligocone trichromacy – poor visual acuity and impairment of cone function according to ERG, but without significant color vision loss.
+Bradyopsia – photopic vision has defects in detecting rapid changes in light .
+Bornholm eye disease – X-linked recessive myopia, astigmatism, impaired visual acuity and red–green dichromacy.
+Cone dystrophy – a degenerative loss of cone cells
+Retinoblastoma – a type of cancer originating from cone precursor cells
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Cell Centered Database – cone cell
+Photoreceptors - Webvision
+NIF Search – Cone Cell Archived 2014-12-16 at the Wayback Machine via the Neuroscience Information Framework
+Model and image of cone cell

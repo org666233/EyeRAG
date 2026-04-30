@@ -1,0 +1,1572 @@
+Source: PubMed Central (PMC)
+PMCID: PMC8968330
+Title: Posterior capsule opacification: a review of prevention and treatment
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8968330/
+Year: 2022
+Disease: cataract_complications
+Priority: 3
+============================================================
+
+J Anal Chem . 2022 Mar 31;77(3):376–387. doi: 10.1134/S1061934822010087 
+ 
+ 
+ On a Correlation between the Results of In-Hospital Analysis of Biosamples from Children Performed Using Standard Methods and an Array of Piezosensors 
+ T A Kuchmenko 
+ T A Kuchmenko 
+ 
+ 1 Department of Ecology and Chemical Technology, Voronezh State University of Engineering Technologies, 394000 Voronezh, Russia 
+ Find articles by T A Kuchmenko 
+ 
+ 
+ 1, ✉ , A A Shuba 
+ A A Shuba 
+ 
+ 1 Department of Ecology and Chemical Technology, Voronezh State University of Engineering Technologies, 394000 Voronezh, Russia 
+ Find articles by A A Shuba 
+ 
+ 
+ 1 , D A Menzhulina 
+ D A Menzhulina 
+ 
+ 2 Voronezh Pediatric Clinical Hospital, Burdenko State Medical University, 394000 Voronezh, Russia 
+ 
+ 3 Pediatric Faculty, Burdenko State Medical University, 394000 Voronezh, Russia 
+ Find articles by D A Menzhulina 
+ 
+ 
+ 2, 3 , A A Volkova 
+ A A Volkova 
+ 
+ 4 Clinical Diagnostic Laboratory, Voronezh Regional Children’s Clinical Hospital No. 2, 394024 Voronezh, Russia 
+ Find articles by A A Volkova 
+ 
+ 
+ 4 , V A Vecherkin 
+ V A Vecherkin 
+ 
+ 3 Pediatric Faculty, Burdenko State Medical University, 394000 Voronezh, Russia 
+ 
+ 4 Clinical Diagnostic Laboratory, Voronezh Regional Children’s Clinical Hospital No. 2, 394024 Voronezh, Russia 
+ Find articles by V A Vecherkin 
+ 
+ 
+ 3, 4 , J V Cornejo Tueros 
+ J V Cornejo Tueros 
+ 
+ 5 Continental University, Faculty of Engineering, Huancayo, Junin, Peru 
+ Find articles by J V Cornejo Tueros 
+ 
+ 
+ 5 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ecology and Chemical Technology, Voronezh State University of Engineering Technologies, 394000 Voronezh, Russia 
+ 
+ 2 Voronezh Pediatric Clinical Hospital, Burdenko State Medical University, 394000 Voronezh, Russia 
+ 
+ 3 Pediatric Faculty, Burdenko State Medical University, 394000 Voronezh, Russia 
+ 
+ 4 Clinical Diagnostic Laboratory, Voronezh Regional Children’s Clinical Hospital No. 2, 394024 Voronezh, Russia 
+ 
+ 5 Continental University, Faculty of Engineering, Huancayo, Junin, Peru 
+ 
+ ✉ Corresponding author. 
+ 
+ 
+ Received 2021 Jul 7; Revised 2021 Jul 31; Accepted 2021 Aug 3; Issue date 2022. 
+ 
+ © Pleiades Publishing, Ltd. 2022, ISSN 1061-9348, Journal of Analytical Chemistry, 2022, Vol. 77, No. 3, pp. 376–387. © Pleiades Publishing, Ltd., 2022.Russian Text © The Author(s), 2022, published in Zhurnal Analiticheskoi Khimii, 2022, Vol. 77, No. 3, pp. 269–281. 
+ This article is made available via the PMC Open Access Subset for unrestricted research re-use and secondary analysis in any form or by any means with acknowledgement of the original source. These permissions are granted for the duration of the World Health Organization (WHO) declaration of COVID-19 as a global pandemic. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC8968330 
+ Abstract 
+ A rapid procedure for obtaining information on changes in particular characteristics of urine as the most frequently taken biosample is presented. The relationship between the output data of an array of piezoelectric sensors based on different micro- and nanostructured phases and the standard characteristics of clinical urine analysis is discussed. Volatile organic compounds identified in an equilibrium headspace gas phase of the samples with deviations from normal characteristics of clinical urine analysis are considered. The tetrachoric correlation coefficients and associations between the parameters of a sensor array and standard characteristics were calculated. A minimum set of calculated parameters of an electronic nose for the rapid in-hospital monitoring of changes in the patient’s condition in the course of therapy or medical examination was recognized. A fast and economically affordable method was developed for the monitoring of body state characteristics using the profile of volatile urine compounds obtained with an electronic nose based on piezosensors. Two versions, a color scale and a table, were proposed for presenting the electronic nose data; they can be used even by specially untrained personnel for the rapid and easy assessment of the most important urine analysis data (protein, glucose, mucus, and bacteria). The method developed makes it possible to quickly (the time of a measurement is 120 s) perform the daily monitoring of patient’s condition to avoid an unnecessary burden on the laboratory and to increase the physician’s awareness of the dynamics of the patient’s condition and facilitate the choice of treatment tactics. This method can be used for clinical examinations in polyclinics and feldsher’s stations, and it will significantly shorten the time taken to obtain screening and diagnostic information on disruptions in the body, in particular, at the initial stages of diseases. 
+ Keywords: electronic nose, piezosensors, gas sensors, volatile organic compounds, urine, clinical urine analysis, correlation, standard characteristics, diagnostic method, in-hospital monitoring, periodic health examination 
+ Currently, clinical urine analysis remains among the main laboratory methods widely used in both inpatient and outpatient treatment practices. Along with the collection of anamnesis and physical and instrumental examinations, urine analysis is the most important method in the diagnosis of not only genitourinary diseases but also diseases of the body as a whole. The detection of glucose and ketones in the urine of patients with diabetes mellitus, the assessment of kidney damage by the presence of protein, and the determination of leukocytes and bacteria in urine in case of urinary tract infections are striking examples. The data of the last-named analysis are the main criterion for the timely appointment of antibiotic therapy, which is especially important in pediatric practice because children cannot always complain of pain or discomfort during urination. 
+ Urine is a biological fluid with the help of which metabolic products are removed from the body. Examination of urine is the oldest method, which was used in Mesopotamia and Ancient China, and the first descriptions appeared in the literature around 1000 BC in Egypt. Uroscopy—a study of urine for diagnostic purposes—was practiced by Hippocrates (460–370 BC) [ 1 ]. The early detection of infectious complications, such as pyelonephritis, cystitis, and urethritis, in the postoperative period remains a problem of considerable current importance because disease prognosis worsens and medical care quality decreases with late diagnosis and late start of therapy, and the patient’s stay in the hospital increases to negatively affect the country’s economy [ 2 ]. 
+ Over the past year, many hospital laboratories have been converted to perform PCR tests and determine the level of antibodies due to infection with the SARS-CoV-2 virus, which significantly increased the workload on the staff and laboratories. The introduction of restrictions in polyclinics worsens measures taken for the early diagnosis of pathologies, in particular, after an illness. Information on the functions and malfunctions in the body can be obtained only in specialized medical institutions, although multiparameter analyzers of biofluids are available. At the same time, the pandemic showed that the rate of pathology development can be rapid and a delay in obtaining diagnostic information can be serious. In this regard, the development of new noninvasive rapid methods for the analysis of biofluids, which are traditionally sampled to obtain information about the state of the body and the processes occurring in it, is of considerable current interest. This is especially important when the patients are children because sampling for analysis should be as physiological and atraumatic as possible and also specific and inexpensive. These procedures and appropriate devices should meet the following requirements for their implementation: 
+ • availability for medical institutions of different levels from feldsher’s stations to laboratories in hospitals; 
+ • user-friendly interface of the analysis procedure understandable to the laboratory assistant after a short training course; 
+ • short duration of analysis, ideally, no longer than the doctor’s appointment duration; 
+ • reliability of functioning and decision making; 
+ • unambiguous results. 
+ These systems can be in demand in the outpatient practice of a therapist and pediatrician, for the in-hospital monitoring of the dynamics of the patient’s condition, and for the clinical examination and detection of body disorders, in particular, with delayed complications in the postcovid period. 
+ The information content of clinical urine analysis can be increased by including additional data on the volatile profile of the sample. Electronic nose systems are used for the rapid nondestructive analysis and scanning of the volatile urine profile [ 3 , 4 ]. This approach is based on the headspace analysis of urine samples with their ranking into groups (based on the presence and absence of pathologies) according to certain characteristics. These characteristics are related to the presence and relative concentrations of volatile markers of diseases; the similarity of the sets of volatile compounds in equilibrium headspace gas phases of the samples, which is reflected in the integral analytical signals of electronic noses (profiles), is also assessed [ 5 , 6 ]. Although a large number of studies on the volatile compounds of urine from patients with various, including hereditary, pathologies were reported [ 7 – 12 ], only a few examples of the detection of pathological conditions based on volatile urine markers were described [ 13 – 18 ]. An approach to the detection of selective metabolite markers using a low-cost procedure can be applied to the rapid monitoring of patient’s condition and the inclusion of additional clinical endpoints for the efficient operation of a clinical laboratory. In this case, it is especially important to understand which standard urine characteristics deviated from the norm in order to correctly prescribe additional tests or adjust the treatment and to identify the problem at the earliest stage. 
+ The aim of this work was to assess a relationship between the output data of an array of piezoelectric sensors based on different micro- and nanostructured phases and the standard characteristics of clinical urine analysis, which determine abnormalities, based on an example of patients of a regional children’s hospital. 
+ EXPERIMENTAL 
+ The primary experiment was carried out in a hospital surgical department for confirming variable body dysfunctions of different etiology. The headspace analysis of 90 biological samples of urine from patients with various diagnoses was performed to characterize the composition an equilibrium gas phase. The 10.0-mL samples of urine were taken from the fasting first morning urine specimens collected at different stages of patient treatment in a hospital according to sampling rules for bacterial culture and standard methods of analysis. The samples were placed in tightly closed 20-mL vials with polypropylene caps and kept for 15 min at a laboratory temperature (22°C); thereafter, a headspace sample of 5.0 cm 3 was taken and injected into the closed detection cell of an instrument. The measurement time was 120 s for an injection. 
+ Simultaneously, the standard urine analysis was carried out on an Uriscan Pro urine analyzer with the use of URISCAN 11 test strips to determine 11 biomarkers (YD Diagnostics, South Korea) ( Table 1 ). Urine sediment was examined on an Olympus CX31 microscope (Japan) using counting slides (Lachema, the Czech Republic) [ 19 , 20 ]. 
+ Table 1. 
+ Characteristics of URISCAN 11 test strips 
+ 
+ 
+ 
+ Entry 
+ Determined characteristic 
+ Determination limit 
+ Concentration range for the coded characteristics 
+ 
+ 
+ + 
+ ++ 
+ +++ 
+ 
+ 
+ 
+ 
+ 1 
+ Blood (red blood cell (RBC) count) 
+ 5 RBC/10 –6 L 
+ 1–2 RBC 
+ 2–9 RBC 
+ 10 RBC or more 
+ 
+ 
+ 4 
+ Ketones (acetone) 
+ 0.5 g/L 
+ 0.5–1.5 
+ 1.5–5.0 
+ 5.0–10 
+ 
+ 
+ 5 
+ Protein (albumin) 
+ 0.10 g/L 
+ 0.01–0.04 
+ 0.04–0.1 
+ 0.1–0.2 
+ 
+ 
+ 6 
+ Nitrite ion 
+ 
+ 0.05 g/L 
+ (10 5 bacteria/10 –3 L) 
+ 
+ 
+ 0.01–0.04 
+ (few, single in the field of view) 
+ 
+ 
+ 0.05–0.10 
+ (moderate amount in the field of view) 
+ 
+ 
+ 0.1 or higher 
+ (significant amount, cover the entire field of view) 
+ 
+ 
+ 
+ 7 
+ Glucose 
+ 0.5 g/L 
+ 0.1–0.5 
+ 0.5–1.0 
+ 1.0–3.0 
+ 
+ 
+ 11 
+ Relative density 
+ 1.000 
+ – 
+ – 
+ – 
+ 
+ 
+ 
+ Open in a new tab Table 2 summarizes clinical characteristics of the analysis of urine. The following designations are used in Table 2 for a semiquantitative assessment of urine analysis characteristics: ~0 refers to a normal value (below the limits of detection), and +, ++, and +++ correspond to the coded values ( Table 1 ). 
+ Table 2.  . 
+ Clinical characteristics of urine samples and the results of bacterial culture tests of biomaterial after surgery 
+ 
+ 
+ 
+ Sample no. 
+ Urine characteristic 
+ Sample no. 
+ Urine characteristic 
+ Sample no. 
+ Urine characteristic 
+ 
+ 
+ mucus 
+ protein 
+ bacteria 
+ glucose 
+ RBC count 
+ mucus 
+ protein 
+ bacteria 
+ glucose 
+ RBC count 
+ mucus 
+ protein 
+ bacteria 
+ glucose 
+ RBC count 
+ 
+ 
+ 
+ 
+ 1 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 31 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 61 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 2 
+ + 
+ ++ 
+ ~0 
+ ~0 
+ ~0 
+ 32 
+ ~0 
+ +++ 
+ ~0 
+ ~0 
+ ~0 
+ 62 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 3 
+ ~0 
+ ~0 
+ ~0 
+ ++ 
+ ~0 
+ 33 
+ + 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ 63 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 4 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 34 
+ + 
+ + 
+ + 
+ ~0 
+ ++ 
+ 64 
+ + 
+ ++ 
+ ~0 
+ ~0 
+ + 
+ 
+ 
+ 5 
+ ~0 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ 35 
+ +++ 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ 65 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 6 
+ ~0 
+ ~0 
+ ~0 
+ ++ 
+ ~0 
+ 36 
+ ++ 
+ + 
+ + 
+ ~0 
+ ~0 
+ 66 
+ ++ 
+ ++ 
+ ~0 
+ ~0 
+ ++ 
+ 
+ 
+ 7 
+ ~0 
+ + 
+ ~0 
+ ~0 
+ + 
+ 37 
+ ~0 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ 67 
+ ++ 
+ ++ 
+ +++ 
+ ++ 
+ ~0 
+ 
+ 
+ 8 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 38 
+ ~0 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ 68 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 9 
+ ~0 
+ ~0 
+ ~0 
+ +++ 
+ ~0 
+ 39 
+ + 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ 69 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 10 
+ ~0 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ 40 
+ ~0 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ 70 
+ +++ 
+ ++ 
+ ~0 
+ ~0 
+ + 
+ 
+ 
+ 11 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 41 
+ + 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ 71 
+ ~0 
+ ++ 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 12 
+ ~0 
+ + 
+ ~0 
+ ~0 
+ + 
+ 42 
+ ++ 
+ + 
+ + 
+ ~0 
+ ~0 
+ 72 
+ +++ 
+ +++ 
+ ++ 
+ +++ 
+ ~0 
+ 
+ 
+ 13 
+ + 
+ ~0 
+ ~0 
+ ++ 
+ ~0 
+ 43 
+ ~0 
+ + 
+ ~0 
+ ++ 
+ + 
+ 73 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 14 
+ ~0 
+ + 
+ ~0 
+ ~0 
+ + 
+ 44 
+ + 
+ + 
+ + 
+ ~0 
+ + 
+ 74 
+ ++ 
+ ++ 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 15 
+ ~0 
+ ++ 
+ ~0 
+ ~0 
+ + 
+ 45 
+ ~0 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ 75 
+ ~0 
+ ~0 
+ ++ 
+ ++ 
+ ~0 
+ 
+ 
+ 16 
+ ~0 
+ ++ 
+ ~0 
+ ~0 
+ ~0 
+ 46 
+ +++ 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ 76 
+ ++ 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 17 
+ ~0 
+ + 
+ ~0 
+ ~0 
+ + 
+ 47 
+ ~0 
+ ~0 
+ ~0 
+ ++ 
+ ~0 
+ 77 
+ ++ 
+ ++ 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 18 
+ ~0 
+ ~0 
+ ~0 
+ ++ 
+ ~0 
+ 48 
+ + 
+ ~0 
+ ++ 
+ ~0 
+ ~0 
+ 78 
+ +++ 
+ ++ 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 19 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 49 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 79 
+ ++ 
+ ~0 
+ + 
+ ~0 
+ ~0 
+ 
+ 
+ 20 
+ ~0 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ 50 
+ + 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ 80 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 21 
+ ++ 
+ +++ 
+ ~0 
+ ~0 
+ + 
+ 51 
+ ++ 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ 81 
+ +++ 
+ ++ 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 22 
+ ~0 
+ +++ 
+ ~0 
+ ~0 
+ + 
+ 52 
+ ++ 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ 82 
+ ~0 
+ ++ 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 23 
+ ~0 
+ +++ 
+ ~0 
+ ~0 
+ + 
+ 53 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 83 
+ ++ 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 24 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 54 
+ + 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 84 
+ ++ 
+ ++ 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 25 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 55 
+ + 
+ + 
+ + 
+ ~0 
+ ~0 
+ 85 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 26 
+ ~0 
+ +++ 
+ ++ 
+ ++ 
+ +++ 
+ 56 
+ ++ 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 86 
+ + 
+ ++ 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 27 
+ ~0 
+ ~0 
+ – 
+ ~0 
+ ~0 
+ 57 
+ ++ 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 87 
+ ++ 
+ +++ 
+ ~0 
+ ~0 
+ + 
+ 
+ 
+ 28 
+ ~0 
+ ~0 
+ – 
+ ~0 
+ ~0 
+ 58 
+ ++ 
+ ~0 
+ ~0 
+ ~0 
+ ~0 
+ 88 
+ +++ 
+ ++ 
+ ++ 
+ ~0 
+ + 
+ 
+ 
+ 29 
+ + 
+ +++ 
+ – 
+ ~0 
+ ~0 
+ 59 
+ +++ 
+ ++ 
+ + 
+ ~0 
+ ++ 
+ 89 
+ +++ 
+ +++ 
+ ~0 
+ ~0 
+ + 
+ 
+ 
+ 30 
+ ++ 
+ +++ 
+ – 
+ ~0 
+ ~0 
+ 60 
+ + 
+ ++ 
+ ~0 
+ ~0 
+ ++ 
+ 90 
+ + 
+ ++ 
+ ~0 
+ ~0 
+ ~0 
+ 
+ 
+ 
+ Open in a new tab The headspace analysis of the urine samples was carried out on an eight-channel MAG-8 gas analyzer (OOO SNT, Russia) [ 21 ] with a set of sensors covered with the films of polyethylene glycol sebacate (PEGSb sensor 1), Triton X-100 (TX-100 sensor 2), dicyclohexano-18-crown-6 (DCH18C6 sensor 3), polyoxyethylene sorbitan monooleate (Tween-40 sensor 4), methyl red (MR sensor 5), bromocresol blue (BCB sensor 6), and multiwalled carbon nanotubes (MWCNT sensor 7). 
+ The instrument software recorded the integral responses of sensors (∆ F i , Hz) versus time in the form of chronofrequency patterns and their analytical signals (∆ F max, i ) as maximum changes in the sensor responses during the measurement, which were automatically determined in the software based on the chronofrequency patterns [ 22 ]. The sensors were fabricated in accordance with previously described procedures [ 23 ]. 
+ The sensors were chosen to make an array based on their high sensitivity to various classes of volatile substances, including the biomarkers of diseases in urine [ 7 – 12 ]: DCH18C6 and Tween-40 films were chosen for the detection of carboxylic and hydroxy acids [ 24 , 25 ]; MWCNTs, BCB, and MR were used for ammonia and structurally different amines [ 26 – 28 ]; PEGSb was used for ketones and organic acids [ 24 , 29 , 30 ]; and TX-100 was used for nitrogen- and sulfur-containing compounds [ 30 , 31 ]. Moreover, the selected films were stable for at least a year in the analysis of small amounts of volatile substances [ 22 ] contained in biosamples. Therefore, the resulting array should be effective for solving the problem. 
+ The array of sensors was preliminarily trained using test substances, the key metabolites of various pathologies contained in urine [ 7 – 12 ]. They included ethanol, 1-butanol, acetone, acetic acid, butyric acid, valeric acid, isovaleric acid, ammonia, diethylamine, piperidine, hydrogen sulfide and sulfides, phenol, ethyl acetate, and dimethylforamide dimethyl acetal (all of analytical grade). 
+ As shown earlier [ 32 , 33 ], the restoration of the original vibration frequency of sensors ( F 0 , Hz) is a measure for the degree of regeneration of sensor coatings to ensure the metrological reliability of measurements. Under stationary conditions, the sorption layers were recovered within 1 min after the measurement; the total measurement time for a sample was 3 min. 
+ To identify volatile markers of inflammation and infection in the headspace samples of urine, the sorption efficiency parameters were calculated and the geometry of the integral analytical signals of the sensors (visual imprints) ( m ijn , α ijn ) was assessed [ 34 ] using the following formulas: 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 3 
+ 
+ where i, j, and n are the sensor numbers in the array, and the j th sensor is located between the i th and n th sensors. 
+ The studies were carried out on the basis of a hospital’s clinical laboratory in 2017–2018 within the framework of compliance with the voluntary consent of patients, and no contact with the patients was made in the course of the experiment. RESULTS AND DISCUSSION 
+ The main output data of the electronic nose based on piezosensors are the following: 
+ (1) two-dimensional analytical signals of sensors in analyte vapors, chronofrequency diagrams containing information on the qualitative and quantitative composition of the sample [ 31 ], and visual imprints of sensor signals with the most characteristic areas of responses to substances in the form of circular diagrams, profiles of volatile mixtures; 
+ (2) analytical signals of sensors Δ F max, 
+ i , Hz, which depend on the nature and concentration of analytes; 
+ (3) additional calculated parameters of the array of sensors used to identify substances—the sorption efficiency parameter [ 34 ] and the geometric parameters of the visual imprint figure m ijn , α ijn [ 34 ]. 
+ To achieve the goal, it is necessary to determine the possibility of reliable identification of marker substances, to draw attention to informative parameters for their recognition, and to establish a correlation between the fixed and calculated parameters of the electronic nose and the standard characteristics of clinical urine analysis that determine pathological conditions. 
+ For seven different sensors selected based on the results of a preliminary assessment of their selectivity, sensitivity, and stability in the analysis of biological samples [ 35 – 37 ], the numbers of all possible recorded and calculated output parameters are the following: analytical signals, 7; chronofrequency patterns, 7; sorption efficiency parameters, 21; and geometric characteristics of the fragments of visual imprint figures m ijn or α ijn , 35. The number of recorded signals is determined by the number of sensors, and the number of calculated parameters is determined according to the formula for combinations from probability theory 
+ 
+ where П is the calculated parameter 
+ m ijn , or α ijn , n is the total number of sensors, and k is the number of sensors used to calculate the parameter. 
+ Table 3 summarizes the average analytical signals of the sensors obtained in the headspace analysis of urine biosamples taken from children in the monitoring of their states in the hospital after surgery for various reasons. The analytical signals of the sensors varied significantly with deviations from the normal values of standard urine analysis characteristics. Because the analytical signals are more related to the concentration of volatile compounds in the gas phase, it is more informative to assess the qualitative composition of the headspace gas phase over the biosamples due to different levels of metabolic processes. 
+ Table 3.  . 
+ Analytical signals of sensors (Δ F max, i ± 1, Hz) in equilibrium headspace gas phases over urine samples 
+ 
+ 
+ Sample no. 
+ Δ F max, 1 
+ 
+ Δ F max, 2 
+ 
+ Δ F max, 3 
+ 
+ Δ F max, 4 
+ 
+ Δ F max, 5 
+ 
+ Δ F max, 6 
+ 
+ Δ F max, 7 
+ 
+ 
+ 
+ 
+ 9 
+ 20 
+ 10 
+ 9 
+ 17 
+ 7 
+ 11 
+ 4 
+ 
+ 
+ 12 
+ 20 
+ 11 
+ 11 
+ 15 
+ 6 
+ 9 
+ 4 
+ 
+ 
+ 30 
+ 23 
+ 12 
+ 11 
+ 17 
+ 7 
+ 9 
+ 3 
+ 
+ 
+ 34 
+ 18 
+ 18 
+ 13 
+ 14 
+ 7 
+ 7 
+ 3 
+ 
+ 
+ 35 
+ 20 
+ 13 
+ 9 
+ 15 
+ 6 
+ 8 
+ 5 
+ 
+ 
+ 59 
+ 20 
+ 15 
+ 12 
+ 21 
+ 8 
+ 11 
+ 6 
+ 
+ 
+ 60 
+ 23 
+ 17 
+ 9 
+ 15 
+ 6 
+ 8 
+ 4 
+ 
+ 
+ 
+ Open in a new tab To identify volatile compounds in the gas phase over urine samples, we calculated sorption parameters, which are identification parameters and meet certain requirements [ 38 ]. Of the 98 sorption parameters, 18 are identification parameters because of a limited set of training marker substances ( Table 4 ). Earlier, Kuchmenko and Shuba [ 34 ] discussed the choice of these parameters and the possibility of identifying substances in the headspace of aqueous solutions. 
+ Table 4. 
+ Identification parameters of the sensor array for markers 
+ 
+ 
+ Parameter 
+ Identification value 
+ Identified substances 
+ Parameter 
+ Identification value 
+ Identified substances 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.7 ± 0.2 
+ Acetone, ethyl acetate 
+ 
+ 
+ 
+ 0.3 ± 0.2 
+ Valeric acid, isovaleric acid 
+ 
+ 
+ 0.1 ± 0.1 
+ Ammonia 
+ 1.8 ± 0.3 
+ Ethanol, butanol 
+ 
+ 
+ 
+ 
+ 
+ 0.2 ± 0.2 
+ Diethylamine 
+ 
+ 
+ 
+ 0.6 ± 0.2 
+ Acetic acid, butyric acid, valeric acid, isovaleric acid 
+ 
+ 
+ 
+ 
+ 
+ 1.2 ± 0.1 
+ 
+ 
+ 
+ 
+ 
+ 1.3 ± 0.1 
+ 
+ 
+ 
+ m 
+ 341 
+ 
+ 0.3 ± 0.2 
+ 4.5 ± 1.0 
+ Piperidine 
+ 
+ 
+ α 317 
+ 
+ 0.3 ± 0.2 
+ 
+ m 
+ 236 
+ 
+ 1.3 ± 0.3 
+ Ethanol, butanol, acetic acid, butyric acid 
+ 
+ 
+ 
+ 
+ 
+ 0.3 ± 0.2 
+ Ammonia, alkylamines 
+ 
+ 
+ 
+ m 
+ 276 
+ 
+ 2.8 ± 0.5 
+ Phenol 
+ 
+ 
+ 
+ 1.5 ± 0.3 
+ Hydrogen sulfide 
+ 
+ 
+ α 346 
+ 
+ 1.0 ± 0.2 
+ α 231 
+ 
+ 2.7 ± 0.2 
+ 
+ 
+ 
+ 
+ 
+ 1.2 ± 0.2 
+ Ammonia 
+ 
+ m 
+ 234 
+ 
+ 1.5 ± 0.4 
+ Acetone, ethanol, butanol 
+ 
+ 
+ 
+ 
+ 
+ 0.3 ± 0.2 
+ DMF-DMA 
+ 
+ m 
+ 241 
+ 
+ 2.0 ± 0.9 
+ Acetone 
+ 
+ 
+ 
+ Open in a new tab 
+ The table shows the identification values of the parameters and the coincidence test values (± d ). The number of volatile substances identified in the headspace over biological samples based on the parameters of an array of sensors can serve as an indirect indicator for assessing the characteristics of metabolism in the body, and it is associated with the degree of deviation of the characteristics from the norm. At the same time, reliable identification is associated with the concentrations of substances in the headspace above the detection limits of the sensor array, which were determined earlier [ 39 ]. 
+ Based on the results of the headspace analysis of the urine samples with the array of sensors using the selected parameters, different numbers of markers were identified ( Fig. 1 ). For most samples, the results of identification were positive for four or five parameters, which indicate the presence of a small amount of markers in the gas phase and may be associated with positive changes in the body after the start of therapy. More than six markers were detected in the headspace of urine samples from a third of patients; this may be associated with the acute phase of disease in the postoperative period or negative results of the therapy and the need to adjust it. Less than two markers were found in the samples from a small number of patients (less than 10%), and this fact presumably indicates positive changes at the final stage of the therapy. 
+ Fig. 1. 
+ 
+ Open in a new tab 
+ Numbers of urine samples ( N ) with different numbers of markers identified in the equilibrium headspace gas phase according to the signals of the electronic nose. If we accepted a signal of 0.5 for the presence of markers in the identification, that is, the substance was considered detected when two parameters coincided with the tabulated values, we established the frequent presence of dimethylformamide dimethyl acetal (DMF-DMA) as a possible metabolite of antibiotics in the headspace of the urine samples ( Fig. 2 ). The detection of piperidine and ammonia in the headspace of urine samples indicates significant changes in the body during long-term inflammatory processes. The identification of acetone and phenols in the headspace of urine samples can be indicative of more complex pathological processes, including a bacterial infection of the genitourinary system. The relationship between the patient’s condition and the results of analysis performed using the array of sensors can be understood in more detail by comparing them with general standard characteristics. 
+ Fig. 2. 
+ 
+ Open in a new tab 
+ Numbers of samples in which markers were identified based on two parameters of the sensor array. Because it is important to evaluate some general characteristics (protein, glucose, ketones, and nitrites) as qualitative signs (present/absent), it is impossible to assess the degree of their relationship with the electronic nose data using the standard Pearson correlation coefficient. In this regard, all of the results of the analysis were preliminarily artificially dichotomized, that is, coded on a yes/no basis. In accordance with Table 3 , the numerical values of identification parameters for all of the urine samples were replaced with the alternative signs identified/unidentified marker substance and the numerical values of urine analysis characteristics were replaced on a “norm/deviation from the norm” basis. For this a set of data with a binary response, the degrees of correlation of individual characteristics with each other can be estimated using the tetrachoric coefficient r tet [ 40 ]: 
+ 
+ 
+ 4 
+ 
+ where q 11 is the number of samples in which substances were identified based on the sensor array parameters and the urine analysis characteristic is within the normal range; q 12 is the number of samples in which the substance was not identified based on the sensor array parameters and the urine analysis characteristic is within the normal range; and q 21 and q 22 are the numbers of samples in which the urine analysis characteristic deviates from the norm and the substances were identified and not identified, respectively, based on the sensor array parameters. 
+ Table 5 summarizes the results of the calculations of tetrachoric coefficients for the sensor array parameters and the urine analysis characteristics. It was found that most of the parameters of the array of sensors had a negative relationship with the standard characteristics of urine analysis. The calculated parameters of the sensor array most strongly correlated with the presence of glucose and mucus in urine and least strongly correlated with the presence of protein. The assessment of a relationship between the urine analysis characteristics and the presence of markers identified by the parameters of the sensor array revealed a correlation for such indicators as relative density and transparency ( Table 5 ). At the same time, the relative density stably correlated with the presence of piperidine in the headspace of the samples, and the deviation of transparency from the norm correlated with the presence of diethylamine, which can be indicative of a greater contribution of protein substances to these characteristics. The strongest correlation of the presence of protein in urine at a concentration of more than 0.04 g/L with the presence of piperidine and ammonia in the headspace of the samples was noted; this correlation indicated a correspondence between the standard markers of inflammation and the concentration of amines. The bacterial contamination of urine samples reliably correlated with the presence of acetic and butyric acids in the headspace phase. The presence of ethanol and butanol vapors in the headspace of urine samples correlated with the absence of glucose from urine, and this fact can be useful in assessing the state of the patient’s carbohydrate metabolism. 
+ Table 5. 
+ Tetrachoric coefficients of correlations between the identification parameters of the array of sensors and substances identified by the sensor array parameters and the characteristics of clinical urine analysis 
+ 
+ 
+ Parameters and marker substances 
+ Relative density, g/mL 
+ Transparency 
+ Protein, g/L 
+ Glucose, g/L 
+ RBC count, cells/10 –6 L 
+ Mucus 
+ Bacteria 
+ 
+ 
+ 
+ 
+ 
+ 
+ – 
+ – 
+ – 
+ – 
+ – 
+ – 
+ –0.505 
+ 
+ 
+ 
+ 
+ 
+ – 
+ – 
+ –0.560 
+ – 
+ –0.643 
+ – 
+ – 
+ 
+ 
+ 
+ m 
+ 236 
+ 
+ – 
+ – 
+ – 
+ 0.815 
+ – 
+ – 
+ – 
+ 
+ 
+ α 231 
+ 
+ – 
+ – 
+ – 
+ – 
+ – 
+ –0.988 
+ – 
+ 
+ 
+ α 346 
+ 
+ – 
+ – 
+ –0.391 
+ – 
+ – 
+ – 
+ – 
+ 
+ 
+ Ethanol, butanol 
+ – 
+ – 
+ – 
+ 0.814 
+ – 
+ – 
+ – 
+ 
+ 
+ Acetic acid, butyric acid 
+ – 
+ – 
+ – 
+ – 
+ – 
+ – 
+ –0.686 
+ 
+ 
+ Diethylamine 
+ – 
+ –0.732 
+ – 
+ – 
+ – 
+ – 
+ – 
+ 
+ 
+ Piperidine 
+ 0.735 
+ –0.483 
+ –0.918 
+ – 
+ – 
+ – 
+ – 
+ 
+ 
+ Ammonia 
+ – 
+ – 
+ –0.541 
+ – 
+ –0.629 
+ – 
+ – 
+ 
+ 
+ 
+ Open in a new tab 
+ The table contains only statistically significant tetrachoric coefficients, p < 0.05. The degree of correlation of characteristics with a binary response can also be evaluated using the association coefficient r a [ 40 ]. The coefficients calculated for the established relationships showed that they are statistically significant, r a > r a 0.05; 88 = 0.212, and reliable when checked by the value of χ 2 > = 3.841. These approaches made it possible to establish that the presence of certain marker substances in the equilibrium headspace gas phase of biological samples is interconnected with the characteristics of clinical urine analysis, which are used to assess the patient’s condition. 
+ To develop a rapid test method for assessing the most frequently determined characteristics of urine using an electronic nose, we selected a minimum set of calculated parameters of the array of sensors associated with a certain characteristic of urine analysis ( Table 6 ). 
+ Table 6. 
+ Relationship between the characteristics of clinical urine analysis, the presence of marker substances, and necessary sets of sensor array parameters for their detection indicators of general urine analysis a mandatory set of the of s 
+ 
+ 
+ Standard characteristic of clinical urine analysis 
+ Marker substances in the headspace of urine samples 
+ Minimal identification sets of parameters 
+ 
+ 
+ 
+ Transparency 
+ Diethylamine, piperidine 
+ 
+ , , , 
+ 
+ 
+ 
+ Relative density 
+ Piperidine 
+ 
+ , 
+ 
+ 
+ 
+ Protein 
+ Piperidine, ammonia, phenol 
+ 
+ , , , α 346 
+ 
+ 
+ 
+ Glucose 
+ Ethanol, butanol 
+ 
+ m 234 , m 236 
+ 
+ 
+ 
+ RBC count 
+ Ammonia 
+ 
+ , 
+ 
+ 
+ 
+ Mucus 
+ Hydrogen sulfide 
+ α 231 
+ 
+ 
+ 
+ Bacteria 
+ Acetic acid, butyric acid, ethanol, butanol, DMF-DMA 
+ 
+ m 234 , m 236 , 
+ 
+ 
+ 
+ 
+ Open in a new tab It should be noted that a stable correlation of a parameter of urine analysis is provided by all parameters of the electronic nose in the set. For example, both of the parameters from the set for the test sample should correspond to the identification values of piperidine, which determine the deviation of relative density from the norm. 
+ A method was developed for the in-hospital monitoring of changes in the patient’s condition during therapy, which is also important for assessing the sensitivity of an approach to the level of development of pathological processes. The method does not imply an additional load on standard laboratory methods and instruments, but it is related to the rapid analysis of the most accessible biological samples. The monitoring is based on the scanning of volatile compounds in the headspace using an array of selected sensors, which are highly stable in a closed detection cell; they can operate continuously for 8–12 h without loss of sensitivity and do not require consumables. According to the procedure described in the Experimental section, the volatile profile of urine is measured and the necessary identification parameters are calculated using the software. 
+ Two versions for presenting the electronic nose data (a color scale diagram ( Fig. 3a ) and Table 7 ) were proposed for the quick and easy assessment of urine analysis characteristics that are most important for diagnostics with three levels: green zone, the value is within the normal range (~0); yellow zone, a slight or moderate excess of the norm (+); and red zone, a significant excess of the norm (+++). It is possible to quickly form an extract into the patient’s record by analyzing the parameters of the array of sensors. To determine the boundary values of parameters for different levels of urine analysis characteristics, we used the results of analysis of 83 test samples (a training sample), which were characterized by a minimum type 1 error; that is, the prediction of higher values of urine analysis characteristics was preferable to the underestimation of their values. As shown earlier using the analysis of nasal mucus samples as an example [ 41 ], these boundary values of the parameters of the array of sensors are stable under variations in urine analysis characteristics and measurement methods. In this case, a conclusion on the predicted value of a urine analysis characteristic is made based on a set of parameters. The parameters with significant correlation coefficients from Table 5 are characterized by the greatest weight. 
+ Fig. 3. 
+ 
+ Open in a new tab 
+ (a) General diagram of the parameters of the sensors array for assessing urine analysis values and diagrams for sample nos. (b) 30 and (c) 60. Table 7.  . 
+ Demonstration of a method for the rapid monitoring of individual urine analysis characteristics based on electronic nose signals 
+ 
+ 
+ 
+ Parameter 
+ Urine analysis values 
+ Sample no. 9 
+ Sample no. 35 
+ Sample no. 12 
+ Sample no. 34 
+ Sample no. 59 
+ 
+ 
+ ~0 
+ + 
+ +++ 
+ 
+ 
+ 
+ Protein 
+ 
+ 
+ 
+ 
+ <2.4 
+ 2.4–3.4 
+ >3.5 
+ 2.5 
+ 2.6 
+ 2.8 
+ 6.0 
+ 2.5 
+ 
+ 
+ 
+ 
+ 
+ <0.7 
+ 0.7–1.0 
+ >1.0 
+ 0.8 
+ 0.7 
+ 0.7 
+ 0.8 
+ 1.1 
+ 
+ 
+ 
+ 
+ 
+ >0.6 
+ 0.4–0.6 
+ <0.3 
+ 0.4 
+ 0.6 
+ 0.4 
+ 0.4 
+ 0.5 
+ 
+ 
+ α 346 
+ 
+ >1.3 
+ 1.1–1.2 
+ <1.0 
+ 1.2 
+ 1.2 
+ 1.5 
+ 1.6 
+ 1.0 
+ 
+ 
+ Predicted/true value 
+ +/~0* 
+ +/+ 
+ +/+ 
+ ++/+ 
+ +/++ 
+ 
+ Glucose 
+ 
+ 
+ m 
+ 234 
+ 
+ >1.1 
+ 1.0–0.6 
+ <0.6 
+ 0.5 
+ 0.9 
+ 0.8 
+ 1.2 
+ 0.7 
+ 
+ 
+ 
+ m 
+ 236 
+ 
+ >1.1 
+ 1.1–0.9 
+ <0.9 
+ 0.8 
+ 1.4 
+ 1.1 
+ 1.4 
+ 1.2 
+ 
+ 
+ Predicted/true value 
+ +++/+++ 
+ ~0/~0 
+ +/~0 
+ ~0/~0 
+ ~0/~0 
+ 
+ Mucus 
+ 
+ α 231 
+ 
+ <2.5 
+ 2.5–2.6 
+ >2.6 
+ 2.5 
+ 2.8 
+ 2.5 
+ 3.1 
+ 2.9 
+ 
+ 
+ Predicted/true value 
+ +/~0 
+ +++/+++ 
+ ~0/~0 
+ +++/~0 
+ +++/++ 
+ 
+ Bacteria 
+ 
+ 
+ m 
+ 234 
+ 
+ <0.6 
+ 0.6–1.1 
+ >1.1 
+ 0.6 
+ 0.9 
+ 0.8 
+ 1.2 
+ 0.7 
+ 
+ 
+ 
+ m 
+ 236 
+ 
+ <0.9 
+ 1.0–1.1 
+ >1.1 
+ 0.8 
+ 1.4 
+ 1.1 
+ 1.4 
+ 1.2 
+ 
+ 
+ 
+ 
+ 
+ <0.5 
+ 0.5–0.8 
+ >0.8 
+ 0.5 
+ 0.6 
+ 0.8 
+ 0.9 
+ 0.6 
+ 
+ 
+ Predicted/true value 
+ ~0/~0 
+ +/~0 
+ +/~0 
+ +++/+ 
+ +/~0 
+ 
+ 
+ 
+ Open in a new tab 
+ * The urine analysis value determined by a standard procedure (true value) is given. Let us demonstrate the application of this method using seven samples that were not included in the training set as an example ( Table 7 , Fig. 3 ). Thus, the predicted protein content of sample no. 9 ( Table 7 ) corresponds to + based on three of the four parameters because the value of the parameter α 346 (a parameter with the highest weight) and the other two parameters correspond to this level. The glucose level +++ is high based on both sensor array parameters. There are no bacteria because the values of the parameters (a parameter with the highest weight) and m 234 correspond to a level of ~0. The repeated analysis of a urine sample taken from this patient three days later in the course of the treatment (sample no. 35) showed that the urine did not contain glucose but the mucus content increased ( Table 7 ). The monitoring of the condition of another patient by analyzing the volatile profiles of urine samples was also consistent with changes in his condition during the course of treatment. The values of urine analysis characteristics predicted for sample no. 12 (upon admission) were within the normal range, and the predicted protein content and the level of bacteria in urine sample no. 34 (after surgery) were overestimated in comparison with the measured urine values. However, the repeated analysis of a urine sample (no. 59) taken from this patient two days later revealed an increase in these standard values, which confirmed the validity of coarsening the boundary values of parameters toward minimizing the type 1 error in the sensor signals. In general, a comparison between the urine values determined by a standard procedure and predicted based on the parameters of the array of sensors showed tendencies toward overestimation according to the unfavorable prognosis with the use of an electronic nose ( Table 7 ). 
+ The protein content of sample no. 30 predicted based on a color scale ( Fig. 3b ) was higher than 0.10 g/L, which corresponds to a value determined using the standard method (0.14 g/L); the presence of mucus and bacterial contamination was predicted correctly, and this is more important in determining the tactics of antibiotic treatment. In a repeated examination (sample no. 60, Fig. 3c ), a decrease in the concentrations of protein and mucus in the sample was predicted based on the parameters of the sensor array, which corresponded to the results of standard methods and indicated an improvement in the patient’s condition in the course of treatment. The prediction of standard urine values based on the sensor array parameters using a diagram ( Fig. 3a ) highly sensitively determines the deviation of all values from the norm. At the same time, the discrepancy between the deviation from the norm at the level + predicted based on the parameters of the sensor array and the results obtained by the standard method for some urine values (the amount of protein and the presence of bacteria) can be due to the high limits of determination of albumin and nitrites with URISCAN test strips. 
+ It was demonstrated that the electronic nose based on seven piezosensors can be used to obtain analytical and clinical information on the condition of children with various pathologies in a hospital from the volatile profiles of urine samples. The tabular presentation of data ( Table 7 ) with software adaptation also makes it possible to automate the decision-making process, which is useful on going to the use of electronic patient records. In this case, the process of analysis is highly intensified because the time of a measurement is 120 s and the time of a full cycle of the headspace analysis performed with the array of sensors in a patient is no longer than 15 min with repetition for 20 min. If necessary, the analysis can be performed daily in a patient, and it does not require high qualification of a laboratory assistant in order to perform the measurement. 
+ This method can be applied to the clinical examination of the population in remote feldsher’s stations and small clinics in order to perform the on-site detection of genitourinary and carbohydrate metabolism pathologies directly at a doctor’s appointment. * * * 
+ The markers of pathogenic processes were identified in the headspace gas phases of urine samples taken from patients of the surgical department of a children’s hospital based on the parameters of a sensor array. The relationship between the standard urine analysis characteristics and the identification parameters of the sensor array was evaluated. The markers the presence of which in the headspace phases of biological samples correlated with the urine analysis characteristics were determined. The applicability of an array of seven piezosensors to obtaining clinical information on the condition of patients in a hospital or in a clinical examination was positively assessed. A highly economical and rapid method was proposed for analyzing urine samples with different levels of visualization and data presentation in order to predict standard values. Footnotes 
+ Translated by V. Makhlyarchuk REFERENCES 
+ 
+ 
+ 1. Zakharova, I.N., Osmanov, I.M., Machneva, E.B., Mamuladze, E.B., Gavelya, N.V., Brazhnikova, O.V., and Lupan, I.N., Pediatr. Consilium Med ., 2019, no. 1, p. 83. 
+ 
+ 
+ 2. Usupbaev A.Ch., Kabaev B.A., Imankulova A.S., Sadyrbekov N.Zh., Cholponbaev K.S., Usupbaeva A.A. Issled. Prakt. Med. 2018;5:30. doi: 10.17709/2409-2231-2018-5-1-3. [ DOI ] [ Google Scholar ] 
+ 
+ 3. Aathithan S., Plant J.C., Chaudry A.N., French G.L. J. Clin. Microbiol. 2001;39:2590. doi: 10.1128/JCM.39.7.2590-2593.2001. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Di Natale C., Mantini A., Macagnano A., Antuzzi D., Paolesse R., D’Amico A. Physiol. Meas. 1999;20:377. doi: 10.1088/0967-3334/20/4/305. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Guernion N., Ratcliffe N.M., Spencer-Phillips P.T., Howe R.A. Clin. Chem. Lab. Med. 2001;39:893. doi: 10.1515/CCLM.2001.146. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Davies T., Hayward N.J. J. Chromatogr A. 1984;307:11. doi: 10.1016/S0378-4347(00)84068-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Liebich H.M., Al-Babbili O., Zlatkis A., Kim K. Clin. Chem. 1975;21:1294. doi: 10.1093/clinchem/21.9.1294. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Podebrad F., Heil M., Reichert S., Mosandl A., Sewell A.C., Bohles H. J. Inherited Metab. Dis. 1999;22:107. doi: 10.1023/A:1005433516026. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Banday K.M., Pasikanti K.K., Chan E.C., Singla R., Rao K.V., Chauhan V.S., Nanda R.K. Anal. Chem. 2011;83:5526. doi: 10.1021/ac200265g. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Carrola J., Rocha C.M., Barros A.S., Gil A.M., Goodfellow B.J., Carreira I.M., Bernardo J., Gomes A., Sousa V., Carvalho L., Duarte I.F. J. Proteome Res. 2011;10:221. doi: 10.1021/pr100899x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Cummings J.H., Hill M.J., Bone E.S., Branch W.J., Jenkins D.J. Am. J. Clin. Nutr. 1979;32:2094. doi: 10.1093/ajcn/32.10.2094. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Hayward N.J., Jeavons T.H., Nicholson A.J.C., Thorton A.G. J. Clin. Microbiol. 1977;6:195. doi: 10.1128/jcm.6.3.195-201.1977. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Smith S., Burden H., Persad R., Whittington K., de Lacy Costello B., Ratcliffe N.M., Probert C.S. J. Breath Res. 2008;2:37022. doi: 10.1088/1752-7155/2/3/037022. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Wahl H.G., Hong Q., Hildenbrand S., Risler T., Luft D., Liebich H. Nephrol., Dial., Transplant. 2004;19:2576. doi: 10.1093/ndt/gfh425. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Liebich H.M., Buelow H.J., Kallmayer R. J. Chromatogr. A. 1982;239:343. doi: 10.1016/S0021-9673(00)81993-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Mills G.A., Walker V. J. Chromatogr. B: Biomed. Sci. Appl. 2001;753:259. doi: 10.1016/S0378-4347(00)00554-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Weiss T., Angerer J. J. Chromatogr. B: Anal. Technol. Biomed. Life Sci. 2002;778:179. doi: 10.1016/S0378-4347(01)00542-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Lacy Costello B., Ratcliffe N.M. Volatile Biomarkers: Non-Invasive Diagnosis in Physiology and Medicine. Amsterdam: Elsevier; 2013. [ Google Scholar ] 
+ 
+ 19. Dolgov V.V., editor. Klinicheskaya laboratornaya diagnostika (Clinical Laboratory Diagnostics) Moscow: GEOTAR-Media; 2017. [ Google Scholar ] 
+ 
+ 20. Mironova, I.I., Romanova, L.A., and Dolgov, V.V., Obshcheklinicheskie issledovaniya: mocha, kal, likvor, mokrota. Rukovodstvo (General Clinical Studies: Urine, Feces, Cerebrospinal Fluid, Sputum), Moscow: Triada, 2012. 
+ 
+ 
+ 21. Kuchmenko, T.A. and Sel’manshchuk, V.A., PF Patent 2327984, 2008. 
+ 
+ 
+ 22. Kuchmenko T.A., Shuba A.A., Drozdova E.V. Russ. J. Appl. Chem. 2015;88:1997. doi: 10.1134/S10704272150120150. [ DOI ] [ Google Scholar ] 
+ 
+ 23. Kuchmenko, T.A., Innovatsionnye resheniya v analiticheskom kontrole: uchebnoe posobie (Innovative Solutions in Analytical Control: A Study Guide), Voronezh: Voronezh. Gos. Tekhnol. Akad., 2009. 
+ 
+ 
+ 24. Shuba, A.A., Kuchmenko, T.A., Samoilova, E.I., and Bel’skikh, N.V., Moscow Univ. Chem. Bull. (Engl. Transl.) , 2016, vol. 71, p. 68. 
+ 
+ 
+ 25. Korenman Ya.I., Popova N.N., Kuchmenko T.A. J. Anal. Chem. 2008;63:85. doi: 10.1134/S1061934808010164. [ DOI ] [ Google Scholar ] 
+ 
+ 26. Kuchmenko T.A., Mishina A.A. J. Anal. Chem. 2011;66:701. doi: 10.1134/S1061934811060116. [ DOI ] [ Google Scholar ] 
+ 
+ 27. Kuchmenko T.A., Umarkhanov R.U., Kochetova Zh.Yu., Bel’skikh N.V. J. Anal. Chem. 2012;67:930. doi: 10.1134/S106193481211007X. [ DOI ] [ Google Scholar ] 
+ 
+ 28. Kuchmenko T.A., Umarkhanov R.U. J. Anal. Chem. 2013;68:368. doi: 10.1134/S1061934813040059. [ DOI ] [ Google Scholar ] 
+ 
+ 29. Korenman Ya.I., Popova N.N., Kuchmenko T.A., Suleimanov S.M. Russ. J. Phys. Chem. A. 2006;80:1993. doi: 10.1134/S003602440612020X. [ DOI ] [ Google Scholar ] 
+ 
+ 30. Kuchmenko T.A., Kochetova Zh.Yu., Silina Yu.E., Korenman Ya.I., Kulin L.A., Lapitskii I.V. J. Anal. Chem. 2007;62:781. doi: 10.1134/S1061934807080151. [ DOI ] [ Google Scholar ] 
+ 
+ 31. Kuchmenko T.A., Lvova L.V. Chemosensors. 2019;7:39. doi: 10.3390/chemosensors7030039. [ DOI ] [ Google Scholar ] 
+ 
+ 32. Kuchmenko, T.A., Problemy analiticheskoi khimii (Problems of Analytical Chemistry), vol. 14: Khimicheskie sensory (Chemical Sensors), Vlasov, Yu.G., Ed., Moscow: Nauka, 2011. 
+ 
+ 
+ 33. Kuchmenko T.A. Pure Appl. Chem. 2017;89:1587. doi: 10.1515/pac-2016-1108. [ DOI ] [ Google Scholar ] 
+ 
+ 34. Kuchmenko T.A., Shuba A.A. Analitika Kontrol. 2017;21:72. [ Google Scholar ] 
+ 
+ 35. Kuchmenko T.A., Shuba A.A., Bityukova V.V., Tyurkin I.A. J. Anal. Chem. 2014;69:485. doi: 10.1134/S1061934814050050. [ DOI ] [ Google Scholar ] 
+ 
+ 36. Kuchmenko T.A., Shuba A.A., Cheremushkina I.V. J. Anal. Chem. 2016;71:1096. doi: 10.1134/S1061934816110071. [ DOI ] [ Google Scholar ] 
+ 
+ 37. Kuchmenko T.A., Shuba A.A., Bityukova V.V., Matveeva N.A. J. Anal. Chem. 2018;73:91. doi: 10.1134/S1061934817110053. [ DOI ] [ Google Scholar ] 
+ 
+ 38. Kuchmenko T.A., Shuba A.A., Bel’skikh N.V. Analitika Kontrol. 2012;16:151. [ Google Scholar ] 
+ 
+ 39. Kuchmenko T., Shuba A., Umarkhanov R., Lvova L. Chemosensors. 2021;9:116. doi: 10.3390/chemosensors9060116. [ DOI ] [ Google Scholar ] 
+ 
+ 40. Förster, E. and Rönz, B., Methoden der Korrelations- und Regressionsanalyse: Ein Leitfaden für Ökonomen (Methods of Correlation and Regression Analysis: A Guide for Economists), Berlin: Die Wirtschaft, 1979. 
+ 
+ 
+ 41. Kuchmenko T.A., Umarkhanov R.U., Menzhulina D.A. Sorbtsionnye Khromatogr. Protsessy. 2021;21:216. [ Google Scholar ]

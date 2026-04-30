@@ -1,0 +1,492 @@
+Source: Wikipedia
+Title: Visual acuity
+URL: https://en.wikipedia.org/wiki/Visual_acuity
+============================================================
+
+Visual acuity (VA) commonly refers to the clarity of vision, but technically rates an animal's ability to recognize small details with precision. Visual acuity depends on optical and neural factors. Optical factors of the eye influence the sharpness of an image on its retina. Neural factors include the health and functioning of the retina, of the neural pathways to the brain, and of the interpretative faculty of the brain.
+The most commonly referred-to visual acuity is distance acuity or far acuity (e.g., "20/20 vision"), which describes someone's ability to recognize small details at a far distance. This ability is compromised in people with myopia, also known as short-sightedness or near-sightedness. Another visual acuity is near acuity, which describes someone's ability to recognize small details at a near distance. This ability is compromised in people with hyperopia, also known as long-sightedness or far-sightedness.
+A common optical cause of low visual acuity is refractive error (ametropia): errors in how the light is refracted in the eye. Causes of refractive errors include aberrations in the shape of the eye or the cornea, and reduced ability of the lens to focus light. When the combined refractive power of the cornea and lens is too high for the length of the eye, the retinal image will be in focus in front of the retina and out of focus on the retina, yielding myopia. A similar poorly focused retinal image happens when the combined refractive power of the cornea and lens is too low for the length of the eye except that the focused image is behind the retina, yielding hyperopia. Normal refractive power is referred to as emmetropia. Other optical causes of low visual acuity include astigmatism, in which contours of a particular orientation are blurred, and more complex corneal irregularities.
+Refractive errors can mostly be corrected by optical means (such as eyeglasses, contact lenses, and refractive surgery). For example, in the case of myopia, the correction is to reduce the power of the eye's refraction by a so-called minus lens.
+Neural factors that limit acuity are located in the retina, in the pathways to the brain, or in the brain. Examples of conditions affecting the retina include detached retina and macular degeneration. Examples of conditions affecting the brain include amblyopia (caused by the visual brain not having developed properly in early childhood) and by brain damage, such as from traumatic brain injury or stroke. When optical factors are corrected for, acuity can be considered a measure of neural functioning.
+Visual acuity is typically measured while fixating, i.e. as a measure of central (or foveal) vision, for the reason that it is highest in the very center. However, acuity in peripheral vision can be of equal importance in everyday life. Acuity declines towards the periphery first steeply and then more gradually, in an inverse-linear fashion (i.e. the decline follows approximately a hyperbola). The decline is according to E2/(E2+E), where E is eccentricity in degrees visual angle, and E2 is a constant of approximately 2 degrees. At 2 degrees eccentricity, for example, acuity is half the foveal value.
+Visual acuity is a measure of how well small details are resolved in the very center of the visual field; it therefore does not indicate how larger patterns are recognized. Visual acuity alone thus cannot determine the overall quality of visual function.
+
+
+== Definition ==
+
+Visual acuity is a measure of the spatial resolution of the visual processing system. VA, as it is sometimes referred to by optical professionals, is tested by requiring the person whose vision is being tested to identify so-called optotypes – stylized letters, Landolt rings, pediatric symbols, symbols for the illiterate, standardized Cyrillic letters in the Golovin–Sivtsev table, or other patterns – on a printed chart (or some other means) from a set viewing distance. Optotypes are represented as black symbols against a white background (i.e. at maximum contrast). The distance between the person's eyes and the testing chart is set so as to approximate "optical infinity" in the way the lens attempts to focus (far acuity), or at a defined reading distance (near acuity). 
+A reference value above which visual acuity is considered normal is called 6/6 vision, the USC equivalent of which is 20/20 vision: At 6 metres or 20 feet, a human eye with that performance is able to separate contours that are approximately 1.75 mm apart. Vision of 6/12 corresponds to lower performance, while vision of 6/3 to better performance. Normal individuals have an acuity of 6/4 or better (depending on age and other factors).
+In the expression 6/x vision, the numerator (6) is the distance in metres between the subject and the chart and the denominator (x) the distance at which a person with 6/6 acuity would discern the same optotype. Thus, 6/12 means that a person with 6/6 vision would discern the same optotype from 12 metres away (i.e. at twice the distance). This is equivalent to saying that with 6/12 vision, the person possesses half the spatial resolution and needs twice the size to discern the optotype. 
+A simple and efficient way to state acuity is by converting the fraction to a decimal: 6/6 then corresponds to an acuity (or a Visus) of 1.0 (see Expression below), while 6/3 corresponds to 2.0, which is often attained by well-corrected healthy young subjects with binocular vision. Stating acuity as a decimal number is the standard in European countries, as required by the European norm (EN ISO 8596, previously DIN 58220). 
+The precise distance at which acuity is measured is not important as long as it is sufficiently far away and the size of the optotype on the retina is the same. That size is specified as a visual angle, which is the angle, at the eye, under which the optotype appears. For 6/6 = 1.0 acuity, the size of a letter on the Snellen chart or Landolt C chart is a visual angle of 5 arc minutes (1 arc min = 1/60 of a degree), which is a 43 point font at 20 feet. By the design of a typical optotype (like a Snellen E or a Landolt C), the critical gap that needs to be resolved is 1/5 this value, i.e., 1 arc min. The latter is the value used in the international definition of visual acuity:
+     acuity = ⁠1/gap size [arc min]⁠.
+Acuity is a measure of visual performance and does not relate to the eyeglass prescription required to correct vision. Instead, an eye exam seeks to find the prescription that will provide the best corrected visual performance achievable. The resulting acuity may be greater or less than 6/6 = 1.0. Indeed, a subject diagnosed as having 6/6 vision will often actually have higher visual acuity because, once this standard is attained, the subject is considered to have normal (in the sense of undisturbed) vision and smaller optotypes are not tested. Subjects with 6/6 vision or "better" (20/15, 20/10, etc.) may still benefit from an eyeglass correction for other problems related to the visual system, such as hyperopia, ocular injuries, or presbyopia.
+
+
+== Measurement ==
+
+Visual acuity is measured by a psychophysical procedure and as such relates the physical characteristics of a stimulus to a subject's percept and their resulting responses. Measurement can be taken by using an eye chart invented by Ferdinand Monoyer, by optical instruments, or by computerized tests like the FrACT.
+Care must be taken that viewing conditions correspond to the standard, such as correct illumination of the room and the eye chart, correct viewing distance, enough time for responding, error allowance, and so forth. In European countries, these conditions are standardized by the European norm (EN ISO 8596, previously DIN 58220).
+
+
+== History ==
+
+
+== Physiology ==
+Daylight vision (i.e. photopic vision) is subserved by cone receptor cells which have high spatial density (in the central fovea) and allow high acuity of 6/6 or better. In low light (i.e., scotopic vision), cones do not have sufficient sensitivity and vision is subserved by rods. Spatial resolution is then much lower. This is due to spatial summation of rods, i.e. a number of rods merge into a bipolar cell, in turn connecting to a ganglion cell, and the resulting unit for resolution is large, and acuity small. There are no rods in the very center of the visual field (the foveola), and highest performance in low light is achieved in near peripheral vision.
+The maximum angular resolution of the human eye is 28 arc seconds or 0.47 arc minutes; this gives an angular resolution of 0.008 degrees, and at a distance of 1 km corresponds to 136 mm. This is equal to 0.94 arc minutes per line pair (one white and one black line), or 0.016 degrees. For a pixel pair (one white and one black pixel) this gives a pixel density of 128 pixels per degree (PPD).
+6/6 vision is defined as the ability to resolve two points of light separated by a visual angle of one minute of arc, corresponding to 60 PPD, or about 290–350 pixels per inch for a display on a device held 250 to 300 mm from the eye.
+Thus, visual acuity, or resolving power (in daylight, central vision), is the property of cones.
+To resolve detail, the eye's optical system has to project a focused image on the fovea, a region inside the macula having the highest density of cone photoreceptor cells (the only kind of photoreceptors existing in the fovea's very center of 300 μm diameter), thus having the highest resolution and best color vision. Acuity and color vision, despite being mediated by the same cells, are different physiologic functions that do not interrelate except by position. Acuity and color vision can be affected independently.
+
+The grain of a photographic mosaic has just as limited resolving power as the "grain" of the retinal mosaic. To see detail, two sets of receptors must be intervened by a middle set. The maximum resolution is that 30 seconds of arc, corresponding to the foveal cone diameter or the angle subtended at the nodal point of the eye. To get reception from each cone, as it would be if vision was on a mosaic basis, the "local sign" must be obtained from a single cone via a chain of one bipolar, ganglion, and lateral geniculate cell each. A key factor of obtaining detailed vision, however, is inhibition. This is mediated by neurons such as the amacrine and horizontal cells, which functionally render the spread or convergence of signals inactive. This tendency to one-to-one shuttle of signals is powered by brightening of the center and its surroundings, which triggers the inhibition leading to a one-to-one wiring. This scenario, however, is rare, as cones may connect to both midget and flat (diffuse) bipolars, and amacrine and horizontal cells can merge messages just as easily as inhibit them.
+Light travels from the fixation object to the fovea through an imaginary path called the visual axis. The eye's tissues and structures that are in the visual axis (and also the tissues adjacent to it) affect the quality of the image. These structures are: tear film, cornea, anterior chamber, pupil, lens, vitreous, and finally the retina. The posterior part of the retina, called the retinal pigment epithelium (RPE) is responsible for, among many other things, absorbing light that crosses the retina so it cannot bounce to other parts of the retina. In many vertebrates, such as cats, where high visual acuity is not a priority, there is a reflecting tapetum layer that gives the photoreceptors a "second chance" to absorb the light, thus improving the ability to see in the dark. This is what causes an animal's eyes to seemingly glow in the dark when a light is shone on them. The RPE also has a vital function of recycling the chemicals used by the rods and cones in photon detection. If the RPE is damaged and does not clean up this "shed" blindness can result.
+As in a photographic lens, visual acuity is affected by the size of the pupil. Optical aberrations of the eye that decrease visual acuity are at a maximum when the pupil is largest (about 8 mm), which occurs in low-light conditions. When the pupil is small (1–2 mm), image sharpness may be limited by diffraction of light by the pupil (see diffraction limit). Between these extremes is the pupil diameter that is generally best for visual acuity in normal, healthy eyes; this tends to be around 3 or 4 mm.
+If the optics of the eye were otherwise perfect, theoretically, acuity would be limited by pupil diffraction, which would be a diffraction-limited acuity of 0.4 minutes of arc (minarc) or 6/2.6 acuity. The smallest cone cells in the fovea have sizes corresponding to 0.4 minarc of the visual field, which also places a lower limit on acuity. The optimal acuity of 0.4 minarc or 6/2.6 can be demonstrated using a laser interferometer that bypasses any defects in the eye's optics and projects a pattern of dark and light bands directly on the retina. Laser interferometers are now used routinely in patients with optical problems, such as cataracts, to assess the health of the retina before subjecting them to surgery.
+The visual cortex is the part of the cerebral cortex in the posterior part of the brain responsible for processing visual stimuli, called the occipital lobe. The central 10° of field (approximately the extension of the macula) is represented by at least 60% of the visual cortex. Many of these neurons are believed to be involved directly in visual acuity processing.
+Proper development of normal visual acuity depends on a human or an animal having normal visual input when it is very young. Any visual deprivation, that is, anything interfering with such input over a prolonged period of time, such as a cataract, severe eye turn or strabismus, anisometropia (unequal refractive error between the two eyes), or covering or patching the eye during medical treatment, will usually result in a severe and permanent decrease in visual acuity and pattern recognition in the affected eye if not treated early in life, a condition known as amblyopia. The decreased acuity is reflected in various abnormalities in cell properties in the visual cortex. These changes include a marked decrease in the number of cells connected to the affected eye as well as cells connected to both eyes in cortical area V1, resulting in a loss of stereopsis, i.e. depth perception by binocular vision (colloquially: "3D vision"). The period of time over which an animal is highly sensitive to such visual deprivation is referred to as the critical period. 
+The eye is connected to the visual cortex by the optic nerve coming out of the back of the eye. The two optic nerves come together behind the eyes at the optic chiasm, where about half of the fibers from each eye cross over to the opposite side and join fibers from the other eye representing the corresponding visual field, the combined nerve fibers from both eyes forming the optic tract. This ultimately forms the physiological basis of binocular vision. The tracts project to a relay station in the midbrain called the lateral geniculate nucleus, part of the thalamus, and then to the visual cortex along a collection of nerve fibers called the optic radiation. 
+Any pathological process in the visual system, even in older humans beyond the critical period, will often cause decreases in visual acuity. Thus measuring visual acuity is a simple test in accessing the health of the eyes, the visual brain, or pathway to the brain. Any relatively sudden decrease in visual acuity is always a cause for concern. Common causes of decreases in visual acuity are cataracts and scarred corneas, which affect the optical path, diseases that affect the retina, such as macular degeneration and diabetes, diseases affecting the optic pathway to the brain such as tumors and multiple sclerosis, and diseases affecting the visual cortex such as tumors and strokes. 
+Though the resolving power depends on the size and packing density of the photoreceptors, the neural system must interpret the receptors' information. As determined from single-cell experiments on the cat and primate, different ganglion cells in the retina are tuned to different spatial frequencies, so some ganglion cells at each location have better acuity than others.  Ultimately, however, it appears that the size of a patch of cortical tissue in visual area V1 that processes a given location in the visual field (a concept known as cortical magnification) is equally important in determining visual acuity. In particular, that size is largest in the fovea's center, and decreases with increasing distance from there.
+
+
+=== Optical aspects ===
+Besides the neural connections of the receptors, the optical system is an equally key player in retinal resolution. In the ideal eye, the image of a diffraction grating can subtend 0.5 micrometre on the retina. This is certainly not the case, however, and furthermore the pupil can cause diffraction of the light. Thus, black lines on a grating will be mixed with the intervening white lines to make a gray appearance. Defective optical issues (such as uncorrected myopia) can render it worse, but suitable lenses can help. Images (such as gratings) can be sharpened by lateral inhibition, i.e., more highly excited cells inhibiting the less excited cells. A similar reaction is in the case of chromatic aberrations, in which the color fringes around black-and-white objects are inhibited similarly.
+
+
+== Expression ==
+
+Visual acuity is often measured according to the size of letters viewed on a Snellen chart or the size of other symbols, such as Landolt Cs or the E Chart. 
+In some countries, acuity is expressed as a simple fraction, and in some as a decimal number. Using the metre as a unit of measurement, (fractional) visual acuity is expressed relative to 6/6. Otherwise, using the foot, visual acuity is expressed relative to 20/20. For all practical purposes, 20/20 vision is equivalent to 6/6. In the decimal system, acuity is defined as the reciprocal value of the size of the gap (measured in arc minutes) of the smallest Landolt C, the orientation of which can be reliably identified. A value of 1.0 is equal to 6/6. 
+LogMAR is another commonly used scale, expressed as the (decadic) logarithm of the minimum angle of resolution (MAR), which is the reciprocal of the acuity number. The LogMAR scale converts the geometric sequence of a traditional chart to a linear scale. It measures visual acuity loss: positive values indicate vision loss, while negative values denote normal or better visual acuity. This scale is commonly used clinically and in research because the lines are of equal length and so it forms a continuous scale with equally spaced intervals between points, unlike Snellen charts, which have different numbers of letters on each line. 
+A visual acuity of 6/6 is frequently described as meaning that a person can see detail from 6 metres (20 ft) away the same as a person with "normal" eyesight would see from 6 metres. If a person has a visual acuity of 6/12, they are said to see detail from 6 metres (20 ft) away the same as a person with "normal" eyesight would see it from 12 metres (39 ft) away. 
+The definition of 6/6 is somewhat arbitrary, since human eyes typically have higher acuity, as Tscherning writes, "We have found also that the best eyes have a visual acuity which approaches 2, and we can be almost certain that if, with a good illumination, the acuity is only equal to 1, the eye presents defects sufficiently pronounced to be easily established." Most observers may have a binocular acuity superior to 6/6; the limit of acuity in the unaided human eye is around 6/3–6/2.4 (20/10–20/8), although 6/3 was the highest score recorded in a study of some US professional athletes. Some birds of prey, such as hawks, are believed to have an acuity of around 20/2; in this respect, their vision is much better than human eyesight.
+When visual acuity is below the largest optotype on the chart, the reading distance is reduced until the patient can read it. Once the patient is able to read the chart, the letter size and test distance are noted. If the patient is unable to read the chart at any distance, they are tested as follows:
+
+
+=== Legal definitions ===
+Various countries have defined statutory limits for poor visual acuity that qualifies as a disability. For example, in Australia, the Social Security Act defines blindness as:
+
+A person meets the criteria for permanent blindness under section 95 of the Social Security Act if the corrected visual acuity is less than 6/60 on the Snellen Scale in both eyes or there is a combination of visual defects resulting in the same degree of permanent visual loss.
+In the US, the relevant federal statute defines blindness as follows:
+
+[T]he term "blindness" means central visual acuity of 20/200 or less in the better eye with the use of a correcting lens. An eye that is accompanied by a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees shall be considered for purposes in this paragraph as having a central visual acuity of 20/200 or less.
+A person's visual acuity is registered documenting the following: whether the test was for distant or near vision, the eye(s) evaluated and whether corrective lenses (i.e. glasses or contact lenses) were used:
+
+Distance from the chart
+D (distant) for the evaluation done at 20 feet (6 m).
+N (near) for the evaluation done at 15.7 inches (400 mm).
+Eye evaluated
+OD (Latin oculus dexter) for the right eye.
+OS (Latin oculus sinister) for the left eye.
+OU (Latin oculi uterque) for both eyes.
+Usage of spectacles during the test
+cc (Latin cum correctore) with correctors.
+sc: (Latin sine correctore) without correctors.
+Pinhole occluder
+The abbreviation PH is followed by the visual acuity as measured with a pinhole occluder, which temporarily corrects for refractive errors such as myopia or astigmatism.
+PHNI means no improvement of visual acuity using a pinhole occluder.
+So, distant visual acuity of 6/10 and 6/8 with pinhole in the right eye will be: DscOD 6/10 PH 6/8. Distant visual acuity of count fingers and 6/17 with pinhole in the left eye will be: DscOS CF PH 6/17. Near visual acuity of 6/8 with pinhole remaining at 6/8 in both eyes with spectacles will be: NccOU 6/8 PH 6/8.
+"Dynamic visual acuity" defines the ability of the eye to visually discern fine detail in a moving object.
+
+
+== Measurement considerations ==
+Visual acuity measurement involves more than being able to see the optotypes. The patient should be cooperative, understand the optotypes, be able to communicate with the physician, and many more factors. If any of these factors is missing, then the measurement will not represent the patient's real visual acuity. 
+Visual acuity is a subjective test meaning that if the patient is unwilling or unable to cooperate, the test cannot be done. A patient who is sleepy, intoxicated, or has any disease that can alter their consciousness or mental status, may not achieve their maximum possible acuity. 
+Patients who are illiterate in the language whose letters and/or numbers appear on the chart will be registered as having very low visual acuity if this is not known. Some patients will not tell the examiner that they do not know the optotypes, unless asked directly about it. Brain damage can result in a patient not being able to recognize printed letters, or being unable to spell them. 
+A motor inability can make a person respond incorrectly to the optotype shown and negatively affect the visual acuity measurement.
+Variables such as pupil size, background adaptation luminance, duration of presentation, type of optotype used, interaction effects from adjacent visual contours (or "crowding") can all affect visual acuity measurement.
+
+
+=== Testing in children ===
+
+The newborn's visual acuity is approximately 6/133, developing to 6/6 well after the age of six months in most children, according to a study published in 2009.
+The measurement of visual acuity in infants, pre-verbal children and special populations (for instance, disabled individuals) is not always possible with a letter chart. For these populations, specialised testing is necessary. As a basic examination step, one must check whether visual stimuli can be fixated, centered and followed. 
+More formal testing using preferential looking techniques use Teller acuity cards (presented by a technician from behind a window in the wall) to check whether the child is more visually attentive to a random presentation of vertical or horizontal gratings on one side compared with a blank page on the other side – the bars become progressively finer or closer together, and the endpoint is noted when the child in its adult carer's lap equally prefers the two sides. 
+Another popular technique is electro-physiologic testing using visual evoked (cortical) potentials (VEPs or VECPs), which can be used to estimate visual acuity in doubtful cases and expected severe vision loss cases like Leber's congenital amaurosis. 
+VEP testing of acuity is somewhat similar to preferential looking in using a series of black and white stripes (sine wave gratings) or checkerboard patterns (which produce larger responses than stripes). Behavioral responses are not required and brain waves created by the presentation of the patterns are recorded instead. The patterns become finer and finer until the evoked brain wave just disappears, which is considered to be the endpoint measure of visual acuity. In adults and older, verbal children capable of paying attention and following instructions, the endpoint provided by the VEP corresponds very well to the psychophysical measure in the standard measurement (i.e. the perceptual endpoint determined by asking the subject when they can no longer see the pattern). There is an assumption that this correspondence also applies to much younger children and infants, though this does not necessarily have to be the case. Studies do show the evoked brain waves, as well as derived acuities, are very adult-like by one year of age. 
+For reasons not totally understood, until a child is several years old, visual acuities from behavioral preferential looking techniques typically lag behind those determined using the VEP, a direct physiological measure of early visual processing in the brain. Possibly it takes longer for more complex behavioral and attentional responses, involving brain areas not directly involved in processing vision, to mature. Thus the visual brain may detect the presence of a finer pattern (reflected in the evoked brain wave), but the "behavioral brain" of a small child may not find it salient enough to pay special attention to. 
+A simple but less-used technique is checking oculomotor responses with an optokinetic nystagmus drum, where the subject is placed inside the drum and surrounded by rotating black and white stripes. This creates involuntary abrupt eye movements (nystagmus) as the brain attempts to track the moving stripes. There is a good correspondence between the optokinetic and usual eye-chart acuities in adults. A potentially serious problem with this technique is that the process is reflexive and mediated in the low-level brain stem, not in the visual cortex. Thus someone can have a normal optokinetic response and yet be cortically blind with no conscious visual sensation. 
+
+
+== "Normal" visual acuity ==
+Visual acuity depends upon how accurately light is focused on the retina, the integrity of the eye's neural elements, and the interpretative faculty of the brain. "Normal" visual acuity (in central, i.e. foveal vision) is frequently considered to be what was defined by Herman Snellen as the ability to recognize an optotype when it subtended 5 minutes of arc, that is Snellen's chart 6/6-metre, 20/20 feet, 1.00 decimal or 0.0 logMAR. In young humans, the average visual acuity of a healthy, emmetropic eye (or ametropic eye with correction) is approximately 6/5 to 6/4, so it is inaccurate to refer to 6/6 visual acuity as "perfect" vision. On the contrary, Tscherning writes, "We have found also that the best eyes have a visual acuity which approaches 2, and we can be almost certain that if, with a good illumination, the acuity is only equal to 1, the eye presents defects sufficiently pronounced to be easily established."
+6/6 is the visual acuity needed to discriminate roughly 1 cycle per 1.6 arc-minutes (2.15 cycles per miliradian) – 3.5 mm at 6 metres. This is because a 6/6 letter, E for example, has three black limbs with two white spaces between them which corresponds to slightly more than 2 cycles (where 1 cycle is defined as the transition from the beginning of a black bar, to a white bar and back to a black bar) over the entire height of the letter. The significance of the 6/6 standard can best be thought of as the lower limit of normal, or as a screening cutoff. When used as a screening test, subjects that reach this level need no further investigation, even though the average visual acuity with a healthy visual system is typically better (eg. 6/4.5, 20/15, or 2.9 cycles/mrad). 
+Some people may have other visual problems, such as severe visual field defects, color blindness, reduced contrast, mild amblyopia, cerebral visual impairments, inability to track fast-moving objects, or one of many other visual impairments and still have "normal" visual acuity. Thus, "normal" visual acuity does not imply normal vision. The reason visual acuity is very widely used is that it is easily measured, its reduction (after correction) often indicates some disturbance, and that it often corresponds with the normal daily activities a person can handle, and evaluates their impairment to do them (even though there is heavy debate over that relationship).
+
+
+== Other measures ==
+Normally, visual acuity refers to the ability to resolve two separated points or lines, but there are other measures of the ability of the visual system to discern spatial differences.
+Vernier acuity measures the ability to align two line segments. Humans can do this with remarkable accuracy. This success is regarded as hyperacuity. Under optimal conditions of good illumination, high contrast, and long line segments, the limit to vernier acuity is about 8 arc seconds or 0.13 arc minutes, compared to about 0.6 arc minutes (6/4) for normal visual acuity or the 0.4 arc minute diameter of a foveal cone. Because the limit of vernier acuity is well below that imposed on regular visual acuity by the "retinal grain" or size of the foveal cones, it is thought to be a process of the visual cortex rather than the retina. Supporting this idea, vernier acuity seems to correspond very closely (and may have the same underlying mechanism) enabling one to discern very slight differences in the orientations of two lines, where orientation is known to be processed in the visual cortex. 
+The smallest detectable visual angle produced by a single fine dark line against a uniformly illuminated background is also much less than foveal cone size or regular visual acuity. In this case, under optimal conditions, the limit is about 0.5 arc seconds or only about 2% of the diameter of a foveal cone. This produces a contrast of about 1% with the illumination of surrounding cones. The mechanism of detection is the ability to detect such small differences in contrast or illumination, and does not depend on the angular width of the bar, which cannot be discerned. Thus as the line gets finer, it appears to get fainter but not thinner. 
+Stereoscopic acuity is the ability to detect differences in depth with the two eyes. For more complex targets, stereoacuity is similar to normal monocular visual acuity, or around 0.6–1.0 arc minutes, but for much simpler targets, such as vertical rods, may be as low as only 2 arc seconds. Although stereoacuity normally corresponds very well with monocular acuity, it may be very poor, or absent, even in subjects with normal monocular acuities. Such individuals typically have abnormal visual development when they are very young, such as an alternating strabismus, or eye turn, where both eyes rarely, or never, point in the same direction and therefore do not function together.
+Another test, including Visual acuity (EVTS/OptimEyes), uses targets which change in size, contrast, and viewing time. This test was developed by Daniel M. Laby with colleagues and uses item response theory to calculate a vision performance score (core score). This specific test of visual function has been shown to correlate to professional sports performance.
+
+
+== Motion acuity ==
+The eye has acuity limits for detecting motion. Forward motion is limited by the subtended angular velocity detection threshold (SAVT), and horizontal and vertical motion acuity are limited by lateral motion thresholds. The lateral motion limit is generally below the looming motion limit, and for an object of a given size, lateral motion becomes the more insightful of the two, once the observer moves sufficiently far away from the path of travel. Below these thresholds subjective constancy is experienced in accordance with the Stevens' power law and Weber–Fechner law.
+
+
+=== Subtended angular velocity detection threshold (SAVT) ===
+There is a specific acuity limit in detecting an approaching object's looming motion. This is regarded as the subtended angular velocity detection threshold (SAVT) limit of visual acuity. It has a practical value of 0.0275 rad/s. For a person with SAVT limit of 
+  
+    
+      
+        
+          
+            
+              
+                θ
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\dot {\theta }}_{t}}
+  
+, the looming motion of a directly approaching object of size S, moving at velocity v, is not detectable until its distance D is
+
+  
+    
+      
+        D
+        ⪅
+        
+          
+            
+              
+                
+                  S
+                  ⋅
+                  v
+                
+                
+                  
+                    
+                      θ
+                      
+                        t
+                      
+                    
+                    ˙
+                  
+                
+              
+            
+            −
+            
+              
+                
+                  S
+                  
+                    2
+                  
+                
+                4
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle D\lessapprox {\sqrt {{\frac {S\cdot v}{\dot {\theta _{t}}}}-{\frac {S^{2}}{4}}}},}
+  
+
+where the S2/4 term is omitted for small objects relative to great distances by small-angle approximation.
+To exceed the SAVT, an object of size S moving as velocity v must be closer than D; beyond that distance, subjective constancy is experienced. The SAVT 
+  
+    
+      
+        
+          
+            
+              
+                θ
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\dot {\theta }}_{t}}
+  
+ can be measured from the distance at which a looming object is first detected:
+
+  
+    
+      
+        
+          
+            
+              
+                θ
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        ≈
+        
+          
+            
+              4
+              S
+              ⋅
+              v
+            
+            
+              
+                S
+                
+                  2
+                
+              
+              +
+              4
+              
+                D
+                
+                  2
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\dot {\theta }}_{t}\approx {\frac {4S\cdot v}{S^{2}+4D^{2}}},}
+  
+
+where the S2 term is omitted for small objects relative to great distances by small-angle approximation.
+The SAVT has the same kind of importance to driving safety and sports as the static limit. The formula is derived from taking the derivative of the visual angle with respect to distance, and then multiplying by velocity to obtain the time rate of visual expansion (dθ/dt = dθ/dx · dx/dt).
+
+
+=== Lateral motion ===
+There are acuity limits (
+  
+    
+      
+        
+          
+            
+              
+                θ
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\dot {\theta }}_{t}}
+  
+) of horizontal and vertical motion as well. They can be measured and defined by the threshold detection of movement of an object traveling at distance D and velocity v orthogonal to the direction of view, from a set-back distance B with the formula
+
+  
+    
+      
+        
+          
+            
+              
+                θ
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        ≈
+        
+          
+            
+              B
+              ⋅
+              v
+            
+            
+              
+                B
+                
+                  2
+                
+              
+              +
+              
+                D
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\dot {\theta }}_{t}\approx {\frac {B\cdot v}{B^{2}+D^{2}}}.}
+  
+
+Because the tangent of the subtended angle is the ratio of the orthogonal distance to the set-back distance, the angular time rate (rad/s) of lateral motion is simply the derivative of the inverse tangent multiplied by the velocity (dθ/dt = dθ/dx · dx/dt). In application this means that an orthogonally traveling object will not be discernible as moving until it has reached the distance
+
+  
+    
+      
+        D
+        ⪅
+        
+          
+            
+              
+                
+                  B
+                  ⋅
+                  v
+                
+                
+                  
+                    
+                      
+                        θ
+                        ˙
+                      
+                    
+                  
+                  
+                    t
+                  
+                
+              
+            
+            −
+            
+              B
+              
+                2
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle D\lessapprox {\sqrt {{\frac {B\cdot v}{{\dot {\theta }}_{t}}}-B^{2}}},}
+  
+
+where 
+  
+    
+      
+        
+          
+            
+              
+                θ
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\dot {\theta }}_{t}}
+  
+ for lateral motion is generally ≥ 0.0087 rad/s with probable dependence on deviation from the fovea and movement orientation, velocity is in terms of the distance units, and zero distance is straight ahead. Far object distances, close set-backs, and low velocities generally lower the salience of lateral motion. Detection with close or null set-back can be accomplished through the pure scale changes of looming motion.
+
+
+=== Radial motion ===
+The motion acuity limit affects radial motion in accordance to its definition, hence the ratio of the velocity v to the radius R must exceed 
+  
+    
+      
+        
+          
+            
+              
+                θ
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\dot {\theta }}_{t}}
+  
+:
+
+  
+    
+      
+        
+          
+            
+              
+                θ
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        ⪅
+        
+          
+            v
+            R
+          
+        
+        .
+      
+    
+    {\displaystyle {\dot {\theta }}_{t}\lessapprox {\frac {v}{R}}.}
+  
+
+Radial motion is encountered in clinical and research environments, in dome theaters, and in virtual-reality headsets.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Duane's Clinical Ophthalmology. Lippincott Williams & Wilkins. 2004. V.1 C.5, V.1 C.33, V.2 C.2, V.2 C.4, V.5 C.49, V.5 C.51, V.8 C.17.
+Golovin SS, Sivtsev DA (1927). Таблица для исследования остроты зрения [Table for the study of visual acuity] (in Russian) (3rd ed.).
+Carlson; Kurtz (2004). Clinical Procedures for the Ocular Examination (3rd ed.). McGraw Hill. ISBN 978-0-07-137078-3.
+
+
+== External links ==
+How Visual Acuity is Measured at Prevent Blindness
+Visual Acuity Measurement Standard Archived 7 May 2021 at the Wayback Machine, International Council of Ophthalmology, 1984
+Visual Acuity of the Human Eye Archived 6 September 2012 at the Wayback Machine
+Visual Acuity Chapter from the Webvision reference, University of Utah
+The Freiburg Visual Acuity Test (FrACT)

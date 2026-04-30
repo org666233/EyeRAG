@@ -1,0 +1,167 @@
+Source: Wikipedia
+Title: LASIK
+URL: https://en.wikipedia.org/wiki/LASIK
+============================================================
+
+LASIK or Lasik (; "laser-assisted in situ keratomileusis"), commonly referred to as laser eye surgery or laser vision correction, is a type of refractive surgery for the correction of myopia, hypermetropia, and astigmatism. LASIK surgery is performed by an ophthalmologist who uses a femtosecond laser or a microkeratome to create a corneal flap to expose the corneal stroma and then an excimer laser to reshape the corneal stroma in order to improve visual acuity.
+LASIK is very similar to another surgical corrective procedure, photorefractive keratectomy (PRK), and LASEK. All represent advances over radial keratotomy in the surgical treatment of refractive errors of vision. For people with moderate to high myopia or thin corneas which cannot be treated with LASIK or PRK, the phakic intraocular lens is an alternative.
+As of 2018, roughly 9.5 million Americans have had LASIK and, globally, between 1991 and 2016, more than 40 million procedures were performed. However, the procedure seemed to be a declining option as of 2015.
+
+
+== Process ==
+In March 2009, the FDA officially recognized the new LASIK standard from The American National Standards Institute (ANSI), entitled "Laser Systems for Corneal Reshaping".
+A detailed pre-operative screening will assess corneal thickness, shape, and refractive error, ensuring the patient is a suitable candidate. During the surgery, a surgeon uses a femtosecond laser or a microkeratome blade to create a thin corneal flap, which is then carefully folded back to expose the underlying tissue. An excimer laser precisely reshapes the stromal layer of the cornea, removing microscopic amounts of tissue to correct refractive errors. This step is guided by a pre-determined surgical plan tailored to the patient's specific visual needs. After the cornea is reshaped, the flap is repositioned, serving as a natural bandage that adheres without the need for stitches. The entire procedure typically takes 10–15 minutes per eye and offers minimal discomfort and rapid recovery, allowing most patients to return to normal activities within a day or two.
+
+
+=== Preoperative procedures ===
+
+
+==== Pre-operative examination and education ====
+In the United States, the US Food and Drug Administration (FDA) has approved LASIK for people 18 years of age and older, but the American Academy of Ophthalmology recommends people wait until age 21 because vision needs to stabilize. More importantly the patient's eye prescription should be stable for at least one year prior to surgery.
+The patient may be examined with pupillary dilation and education given prior to the procedure. Before the surgery, the patient's corneas are examined with a pachymeter to determine their thickness, and with a topographer, or corneal topography machine, to measure their surface contour. Using low-power lasers, a topographer creates a topographic map of the cornea. The procedure is contraindicated if the topographer finds difficulties such as keratoconus. The preparatory process also detects astigmatism and other irregularities in the shape of the cornea. Using this information, the surgeon calculates the amount and the location of corneal tissue to be removed. The patient is prescribed and self-administers an antibiotic beforehand to minimize the risk of infection after the procedure and is sometimes offered a short acting oral sedative medication as a pre-medication. Prior to the procedure, anaesthetic eye drops are instilled. Factors that may rule out LASIK for some patients include large pupils, thin corneas and extremely dry eyes.
+
+
+=== Operative procedure ===
+LASIK permanently changes the shape of the cornea, the clear covering of the front of the eye, using an excimer laser. A mechanical microkeratome (a blade device) or a laser keratome (femtosecond laser) is used to cut a flap in the cornea. A hinge is left at one end of this flap. The flap is folded back revealing the corneal stroma, the middle section of the cornea. Pulses from a computer-controlled laser (excimer laser) vaporize a portion of the stroma and the flap is replaced.
+Performing the laser ablation in the deeper corneal stroma provides for more rapid visual recovery and less pain than the earlier technique, photorefractive keratectomy (PRK).
+
+
+=== Postoperative care ===
+Patients are usually given a course of antibiotic and anti-inflammatory eye drops. These are continued in the weeks following surgery. Patients are told to rest and are given dark eyeglasses to protect their eyes from bright lights and occasionally protective goggles to prevent rubbing of the eyes when asleep and to reduce dry eyes. They also are required to moisturize the eyes with preservative-free tears and follow directions for prescription drops. Occasionally after the procedure a bandage contact lens is placed to aid the healing, and typically removed after 3–4 days. Patients should be adequately informed by their surgeons of the importance of proper post-operative care to minimize the risk of complications.
+
+
+=== Wavefront-guided ===
+Wavefront-guided LASIK is a variation of LASIK surgery in which, rather than applying a simple correction of only long/short-sightedness and astigmatism (only lower order aberrations as in traditional LASIK), an ophthalmologist applies a spatially varying correction, guiding the computer-controlled excimer laser with measurements from a wavefront sensor. The goal is to achieve a more optically perfect eye, though the result still depends on the physician's success at predicting changes that occur during healing and other factors that may have to do with the regularity/irregularity of the cornea and the axis of any residual astigmatism. Another important factor is whether the excimer laser can correctly register eye position in 3 dimensions, and to track the eye in all the possible directions of eye movement. If a wavefront guided treatment is performed with less than perfect registration and tracking, pre-existing aberrations can be worsened. In older patients, scattering from microscopic particles (cataract or incipient cataract) may play a role that outweighs any benefit from wavefront correction.
+When treating a patient with preexisting astigmatism, most wavefront-guided LASIK lasers are designed to treat regular astigmatism as determined externally by corneal topography. In patients who have an element of internally induced astigmatism, therefore, the wavefront-guided astigmatism correction may leave regular astigmatism behind (a cross-cylinder effect). If the patient has preexisting irregular astigmatism, wavefront-guided approaches may leave both regular and irregular astigmatism behind. This can result in less-than-optimal visual acuity compared with a wavefront-guided approach combined with vector planning, as shown in a 2008 study.
+The "leftover" astigmatism after a purely surface-guided laser correction can be calculated beforehand, and is called ocular residual astigmatism (ORA). ORA is a calculation of astigmatism due to the noncorneal surface (internal) optics. The purely refraction-based approach represented by wavefront analysis actually conflicts with corneal surgical experience developed over many years.
+The pathway to "super vision" thus may require a more customized approach to corneal astigmatism than is usually attempted, and any remaining astigmatism ought to be regular (as opposed to irregular), which are both fundamental principles of vector planning overlooked by a purely wavefront-guided treatment plan. This was confirmed by the 2008 study mentioned above, which found a greater reduction in corneal astigmatism and better visual outcomes under mesopic conditions using wavefront technology combined with vector analysis than using wavefront technology alone, and also found equivalent higher-order aberrations (see below). Vector planning also proved advantageous in patients with keratoconus.
+No good data can be found that compare the percentage of LASIK procedures that employ wavefront guidance versus the percentage that do not, nor the percentage of refractive surgeons who have a preference one way or the other. Wavefront technology continues to be positioned as an "advance" in LASIK with putative advantages; however, it is clear that not all LASIK procedures are performed with wavefront guidance.
+Still, surgeons claim patients are generally more satisfied with this technique than with previous methods, particularly regarding lowered incidence of "halos", the visual artifact caused by spherical aberration induced in the eye by earlier methods. A meta-analysis of eight trials showed a lower incidence of these higher order aberrations in patients who had wavefront-guided LASIK compared to non-wavefront-guided LASIK. Based on their experience, the United States Air Force has described WFG-Lasik as giving "superior vision results".
+
+
+=== Topography-assisted ===
+Topography-assisted LASIK is intended to be an advancement in precision and reduce night-vision side effects. The first topography-assisted device received FDA approval 13 September 2013.
+
+
+== History ==
+
+
+=== Barraquer's early work ===
+In the 1950s, the microkeratome and keratomileusis technique were developed in Bogotá, Colombia, by the Spanish ophthalmologist José Barraquer. In his clinic, he would cut thin (one hundredth of a mm thick) flaps in the cornea to alter its shape. Barraquer also investigated how much of the cornea had to be left unaltered in order to provide stable long-term results.
+
+
+=== Laser refractive surgery ===
+In 1980, Rangaswamy Srinivasan, Samuel E. Blum, and James J. Wynne at the IBM Research laboratory, discovered that an ultraviolet excimer laser could etch living tissue, with precision and with no thermal damage to the surrounding area. The phenomenon was termed "ablative photo-decomposition" (APD).
+Five years later, in 1985, Steven Trokel at the Edward S. Harkness Eye Institute, Columbia University in New York City, published his work using the excimer laser in radial keratotomy. He wrote,
+
+"The central corneal flattening obtained by radial diamond knife incisions has been duplicated by radial laser incisions in 18 enucleated human eyes. The incisions, made by 193 nm far-ultraviolet light radiation emitted by the excimer laser, produced corneal flattening ranging from 0.12 to 5.35 diopters. Both the depth of the corneal incisions and the degree of central corneal flattening correlated with the laser energy applied. Histopathology revealed the remarkably smooth edges of the laser incisions."
+
+
+=== Patent ===
+A number of patents have been issued for several techniques related to LASIK. Rangaswamy Srinivasan and James Wynne filed a patent application on the ultraviolet excimer laser, in 1986, issued in 1988. In 1989, Gholam A. Peyman was granted a US patent for using an excimer laser to modify corneal curvature. It was,
+
+"A method and apparatus for modifying the curvature of a live cornea via use of an excimer laser. The live cornea has a thin layer removed therefrom, leaving an exposed internal surface thereon. Then, either the surface or thin layer is exposed to the laser beam along a predetermined pattern to ablate desired portions. The thin layer is then replaced onto the surface. Ablating a central area of the surface or thin layer makes the cornea less curved, while ablating an annular area spaced from the center of the surface or layer makes the cornea more curved. The desired predetermined pattern is formed by use of a variable diaphragm, a rotating orifice of variable size, a movable mirror or a movable fiber optic cable through which the laser beam is directed towards the exposed internal surface or removed thin layer."
+The patents related to so-called broad-beam LASIK and PRK technologies were granted to US companies including Visx and Summit during 1990–1995 based on the fundamental US patent issued to IBM (1988) which claimed the use of UV laser for the ablation of organic tissues.
+
+
+=== Implementation in the United States ===
+The LASIK technique was implemented in the US after its successful application elsewhere. The Food and Drug Administration (FDA) commenced a trial of the excimer laser in 1989. The first enterprise to receive FDA approval to use an excimer laser for photo-refractive keratectomy was Summit Technology.
+In 1992, under the direction of the FDA, Greek ophthalmologist Ioannis Pallikaris introduced LASIK to ten VISX centers. In 1998, the "Kremer Excimer Laser", serial number KEA 940202, received FDA approval for its singular use for performing LASIK. Subsequently, Summit Technology was the first company to receive FDA approval to mass manufacture and distribute excimer lasers. VISX and other companies followed.
+
+ Pallikaris suggested a flap of cornea could be raised by microkeratome prior to the performing of PRK with the excimer laser. The addition of a flap to PRK became known as LASIK. The use of a femtosecond laser to raise the flap of cornea was discovered after a graduate student at the University of Michigan suffered an accidental laser eye injury in 1993. Tibor Juhasz and Ron Kurtz developed this approach and went on to found IntraLase to perform bladeless LASIK surgery.
+
+
+=== Recent years ===
+The procedure seems to be a declining option for many in the United States, dropping more than 50 percent, from about 1.5 million surgeries in 2007 to 604,000 in 2015, according to the eye-care data source Market Scope. A study determined the frequency with which LASIK was searched on Google from 2007 to 2011. Within this time frame, LASIK searches declined by 40% in the United States. Countries such as the U.K. and India also showed a decline, 22% and 24% respectively. Canada, however, showed an increase in LASIK searches by 8%. This decrease in interest can be attributed to several factors: the emergence of refractive cataract surgery, the economic recession in 2008, and unfavorable media coverage from the FDA's 2008 press release on LASIK.
+
+
+== Effectiveness ==
+In 2006, the British National Health Service's National Institute for Health and Clinical Excellence (NICE) considered evidence of the effectiveness and the potential risks of the laser surgery, stating "current evidence suggests that photorefractive (laser) surgery for the correction of refractive errors is safe and effective for use in appropriately selected patients. Clinicians undertaking photorefractive (laser) surgery for the correction of refractive errors should ensure that patients understand the benefits and potential risks of the procedure. Risks include failure to achieve the expected improvement in unaided vision, development of new visual disturbances, corneal infection and flap complications. These risks should be weighed against those of wearing spectacles or contact lenses." The FDA reports "The safety and effectiveness of refractive procedures has not been determined in patients with some diseases."
+
+
+=== Satisfaction ===
+Surveys of LASIK surgery find rates of patient satisfaction between 92 and 98 percent. In March 2008, the American Society of Cataract and Refractive Surgery published a patient satisfaction meta-analysis of over 3,000 peer-reviewed articles from international clinical journals. Data from a systematic literature review conducted from 1988 to 2008, consisting of 309 peer-reviewed articles about "properly conducted, well-designed, randomized clinical trials" found a 95.4 percent patient satisfaction rate among LASIK patients.
+A 2017 study claims that overall, preoperative symptoms decreased significantly, and visual acuity excelled. A meta-analysis discovered that 97% of patients achieved uncorrected visual acuity (UCVA) of 20/40, while 62% achieved 20/20.
+
+
+=== Dissatisfaction ===
+Some people with poor outcomes from LASIK surgical procedures report a significantly reduced quality of life because of vision problems or pain associated with the surgery. A small percentage of patients may need further surgery because their condition is over- or under-corrected. Some patients need to wear contact lenses or glasses even after treatment.
+The most common reason for dissatisfaction in LASIK patients is chronic severe dry eye. Independent research indicates 95% of patients experience dry eye in the initial post-operative period. This number has been reported to up to 60% after one month. Symptoms begin to improve in the vast majority of patients in the 6 to 12 months following the surgery. However, 30% of post-LASIK referrals to tertiary ophthalmology care centers have been shown to be due to chronic dry eye.
+Morris Waxler, a former FDA official who was involved in the approval of LASIK, subsequently criticized its widespread use. In 2010, Waxler made media appearances and claimed that the procedure had a failure rate greater than 50%. The FDA responded that Waxler's information was "filled with false statements, incorrect citations" and "mischaracterization of results".
+
+
+=== Presbyopia ===
+A type of LASIK, known as presbyLasik, may be used in presbyopia. Results are, however, more variable and some people have a decrease in visual acuity.
+
+
+== Risks ==
+
+
+=== Dry eyes ===
+95% of patients report dry-eye symptoms after LASIK. Although it is usually temporary, it can develop into chronic and severe dry eye syndrome, which can severely affect the quality of life.
+Underlying conditions with dry eye such as Sjögren's syndrome are considered contraindications to LASIK.
+Treatments include artificial tears, prescription tears, and punctal occlusion. Punctal occlusion is accomplished by placing a collagen or silicone plug in the tear duct, which normally drains fluid from the eye. Some patients complain of ongoing dry-eye symptoms despite such treatments and the symptoms may be permanent.
+
+
+=== Halos ===
+Some post-LASIK patients see halos and starbursts around bright lights at night.
+Complications due to LASIK have been classified as those that occur due to preoperative, intraoperative, early postoperative, or late postoperative sources: According to the UK National Health Service, complications occur in fewer than 5% of cases.
+
+
+=== Other complications ===
+Flap complications – The incidence of flap complications is about 0.244%. Flap complications (such as displaced flaps or folds in the flaps that necessitate repositioning, diffuse lamellar keratitis, and epithelial ingrowth) are common in lamellar corneal surgeries but rarely lead to permanent loss of visual acuity. The incidence of these microkeratome-related complications decreases with increased physician experience.
+Flap interface particles – are a finding whose clinical significance is undetermined. Particles of various sizes and reflectivity are clinically visible in about 38.7% of eyes examined via slit lamp biomicroscopy and in 100% of eyes examined by confocal microscopy.
+Diffuse lamellar keratitis  – an inflammatory process that involves an accumulation of white blood cells at the interface between the LASIK corneal flap and the underlying stroma. It is known colloquially as "sands of Sahara syndrome" because on slit lamp exam, the inflammatory infiltrate appears similar to waves of sand. The USAeyes organisation reports an incidence of 2.3% after LASIK. It is most commonly treated with steroid eye drops. Sometimes it is necessary for the eye surgeon to lift the flap and manually remove the accumulated cells. DLK has not been reported with photorefractive keratectomy due to the absence of flap creation.
+Infection – the incidence of infection responsive to treatment has been estimated at 0.04%.
+Post-LASIK corneal ectasia – a condition where the cornea starts to bulge forwards at a variable time after LASIK, causing irregular astigmatism. the condition is similar to keratoconus.
+Subconjunctival hemorrhage – A report shows the incidence of subconjunctival hemorrhage has been estimated at 10.5%.
+Corneal scarring – or permanent problems with cornea's shape making it impossible to wear contact lenses.
+Epithelial ingrowth – estimated at 0.01%.
+Traumatic flap dislocations – Cases of late traumatic flap dislocations have been reported up to thirteen years after LASIK.
+Retinal detachment: estimated at 0.36 percent.
+Choroidal neovascularization: estimated at 0.33 percent.
+Uveitis: estimated at 0.18 percent.
+For climbers – Although the cornea usually is thinner after LASIK, because of the removal of part of the stroma, refractive surgeons strive to maintain the maximum thickness to avoid structurally weakening the cornea. Decreased atmospheric pressure at higher altitudes has not been demonstrated as extremely dangerous to the eyes of LASIK patients. However, some mountain climbers have experienced a myopic shift at extreme altitudes.
+Late postoperative complications – A large body of evidence on the chances of long-term complications is not yet established and may be changing due to advances in operator experience, instruments and techniques.
+Potential best vision loss may occur a year after the surgery regardless of the use of eyewear.
+Ocular neuropathic pain (corneal neuralgia); rare
+
+
+=== FDA's position ===
+In October 2009, the US FDA, the US National Eye Institute (NEI), and the US Department of Defense (DoD) launched the LASIK Quality of Life Collaboration Project (LQOLCP) to help better understand the potential risk of severe problems that can result from LASIK in response to widespread reports of problems experienced by patients after LASIK laser eye surgery. This project examined patient-reported outcomes with LASIK (PROWL). The project consisted of three phases: pilot phase, phase I, phase II (PROWL-1) and phase III (PROWL-2).
+The results of the LASIK Quality of Life Study were published in October 2014.
+
+The FDA's director of the Division of Ophthalmic Devices said about the LASIK study: "Given the large number of patients undergoing LASIK annually, dissatisfaction and disabling symptoms may occur in a significant number of patients". Also in 2014, FDA published an article highlighting the risks and a list of factors and conditions individuals should consider when choosing a doctor for their refractive surgery.
+
+
+=== Contraindications ===
+Not everyone is eligible to receive LASIK. Severe keratoconus or thin corneas may disqualify patients from LASIK, though other procedures may be viable options. Those with Fuchs' corneal endothelial dystrophy, corneal epithelial basement membrane dystrophy, retinal tears, autoimmune diseases, severe dry eyes, and significant blepharitis should be treated before consideration for LASIK. Women who are pregnant or nursing are generally not eligible to undergo LASIK.
+People with large pupils (e.g. due to taking medications or in the younger age group) may be particularly prone to symptoms such as glare, halos, starbursts, and ghost images (double vision) in dim light after surgery. Because the laser can only work on the inner section of the cornea, the outer rim is left unaffected. In dim lighting, a patient's pupils dilate and may be predisposed to optic aberrations due to refractive asynchrony of the two regions with regards to the incoming light.
+
+
+== Further research ==
+
+Since 1991, there have been further developments such as faster lasers; larger spot areas; bladeless flap incisions; intraoperative corneal pachymetry; and "wavefront-optimized" and "wavefront-guided" techniques which were introduced by the University of Michigan's Center for Ultrafast Optical Science. The goal of replacing standard LASIK in refractive surgery is to avoid permanently weakening the cornea with incisions and to deliver less energy to the surrounding tissues. More recently, techniques like Epi-Bowman Keratectomy have been developed that avoid touching the epithelial basement membrane or Bowman's layer.
+
+
+=== Experimental techniques ===
+"plain" LASIK: LASEK, Epi-LASIK,
+Wavefront-guided PRK,
+advanced intraocular lenses.
+Femtosecond laser intrastromal vision correction: using all-femtosecond correction, for example, Femtosecond Lenticule EXtraction, FLIVC, or IntraCOR),
+Keraflex: a thermobiochemical solution which has received the CE Mark for refractive correction. and is in European clinical trials for the correction of myopia and keratoconus.
+Technolas FEMTEC laser: for incisionless IntraCOR ablation for presbyopia, with trials ongoing for myopia and other conditions.
+LASIK with the IntraLase femtosecond laser: early trials comparing to the LASIK with microkeratomes for the correction of myopia suggest no significant differences in safety or efficacy. However, the femtosecond laser has a potential advantage in predictability, although this finding was not significant.
+
+
+== Comparison to photorefractive keratectomy ==
+A systematic review that compared PRK and LASIK concluded that LASIK has shorter recovery time and less pain. The two techniques after a period of one year have similar results.
+A 2017 systematic review found uncertainty in visual acuity, but found that in one study, those receiving PRK were less likely to achieve a refractive error, and were less likely to have an over-correction compared to LASIK.
+
+
+== References ==
+
+
+== External links ==
+What is LASIK? – US Food and Drug Administration (FDA)
+Laser Eye Surgery – United States National Library of Medicine

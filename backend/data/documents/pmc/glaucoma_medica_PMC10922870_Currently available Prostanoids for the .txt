@@ -1,0 +1,364 @@
+Source: PubMed Central (PMC)
+PMCID: PMC10922870
+Title: Currently available Prostanoids for the Treatment of Glaucoma
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10922870/
+Year: 2024
+Disease: glaucoma_medication
+Priority: 3
+============================================================
+
+Curr Opin Pharmacol . Author manuscript; available in PMC: 2025 Feb 1. 
+ 
+ Published in final edited form as: Curr Opin Pharmacol. 2023 Dec 30;74:102424. doi: 10.1016/j.coph.2023.102424 
+ 
+ 
+ Currently available Prostanoids for the Treatment of Glaucoma and Ocular Hypertension: A review 
+ Betsy Benitez 
+ Betsy Benitez 
+ 
+ 1 Department of Ophthalmology, Bascom Palmer Eye Institute, University of Miami Miller School of Medicine, Miami, Florida, USA 33136 
+ 
+ 2 Miami Integrative Metabolomics Research Center, Miami, FL, 33136, USA 
+ Find articles by Betsy Benitez 
+ 
+ 
+ 1, 2 , Abdelrahman M Anter 
+ Abdelrahman M Anter 
+ 
+ 1 Department of Ophthalmology, Bascom Palmer Eye Institute, University of Miami Miller School of Medicine, Miami, Florida, USA 33136 
+ 
+ 2 Miami Integrative Metabolomics Research Center, Miami, FL, 33136, USA 
+ Find articles by Abdelrahman M Anter 
+ 
+ 
+ 1, 2 , Jennifer Arcuri 
+ Jennifer Arcuri 
+ 
+ 1 Department of Ophthalmology, Bascom Palmer Eye Institute, University of Miami Miller School of Medicine, Miami, Florida, USA 33136 
+ 
+ 2 Miami Integrative Metabolomics Research Center, Miami, FL, 33136, USA 
+ 
+ 3 Graduate program in Molecular and Cellular Pharmacology, University of Miami Miller School of Medicine, Miami, FL, 33136, USA 
+ Find articles by Jennifer Arcuri 
+ 
+ 
+ 1, 2, 3 , Sanjoy K Bhattacharya 
+ Sanjoy K Bhattacharya 
+ 
+ 1 Department of Ophthalmology, Bascom Palmer Eye Institute, University of Miami Miller School of Medicine, Miami, Florida, USA 33136 
+ 
+ 2 Miami Integrative Metabolomics Research Center, Miami, FL, 33136, USA 
+ 
+ 3 Graduate program in Molecular and Cellular Pharmacology, University of Miami Miller School of Medicine, Miami, FL, 33136, USA 
+ Find articles by Sanjoy K Bhattacharya 
+ 
+ 
+ 1, 2, 3 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, Bascom Palmer Eye Institute, University of Miami Miller School of Medicine, Miami, Florida, USA 33136 
+ 
+ 2 Miami Integrative Metabolomics Research Center, Miami, FL, 33136, USA 
+ 
+ 3 Graduate program in Molecular and Cellular Pharmacology, University of Miami Miller School of Medicine, Miami, FL, 33136, USA 
+ 
+ * Corresponding author(s): Sanjoy K. Bhattacharya ( SBhattacharya@med.miami.edu ) 
+ 
+ 
+ Issue date 2024 Feb. 
+ PMC Copyright notice 
+ 
+ PMCID: PMC10922870  NIHMSID: NIHMS1952957  PMID: 38160646 
+ 
+ The publisher's version of this article is available at Curr Opin Pharmacol 
+ 
+ Abstract 
+ Recent advancements in prostaglandin analogs (PGAs) have reinforced their role in managing intraocular pressure (IOP). Latanoprost excels in 24-hour IOP control, while various PGAs offer similar effectiveness and side effects, generic PGAs perform as well as branded ones, and a notable IOP rise observed upon PGA discontinuation. Formulations with or without preservatives show comparable IOP reduction and adherence, often surpassing benzalkonium chloride (BAK)-preserved options. Emergent PGAs, such as latanoprostene bunod, fixed-dose netarsudil combined with latanoprost, and omidenepag Isopropyl, offer enhanced or non-inferior IOP reduction. The bimatoprost implant introduces a novel administration method with effective IOP reduction. These developments underscore ongoing progress in PGA-focused ophthalmological research. This article offers a comprehensive review of available prostanoid analogs and explores new developments. 
+ Keywords: intraocular pressure, ocular hypertension, glaucoma, ocular pathologies, prostanoids, prostaglandins, prostaglandin analogs Graphical Abstract 
+ Introduction 
+ Glaucoma, a progressive optic neuropathy resulting in the degeneration of retinal ganglion cells and subsequent visual field impairment, stands as the leading cause of irreversible blindness globally. An estimated 68.56 million people worldwide were affected by primary open-angle glaucoma in 2020 [ 1 ]. The primary modifiable risk factor associated with glaucoma is elevated intraocular pressure (IOP), which refers to a sustained measurement of ≥ 21 mmHg. While a definitive cure for glaucoma remains elusive, current therapeutic interventions primarily revolve around reducing IOP due to its demonstrated capacity to slow disease progression. 
+ Normal physiological IOP ranges between 10 and 20 mmHg and is maintained by balancing the production and outflow of aqueous humor (AH). The non-pigmented epithelium of the ciliary body generates AH, which subsequently traverses the posterior chamber and pupil before reaching the anterior chamber. AH plays essential roles within the anterior chamber, nourishing avascular structures like the cornea and lens, and preserving the structural integrity of the eyeball. Additionally, AH facilitates waste removal through two routes— the conventional and unconventional (or uveoscleral) pathways [ 2 ] ( Figure 1 ). The conventional pathway entails AH passage through the trabecular meshwork (TM) and Schlemm’s canal (SC) to eventually join the episcleral venous system, accounting for 70-90% of AH outflow [ 3 ]. The remaining 10-30% is attributed to the unconventional pathway, wherein AH traverses the uveal layer of the TM and subsequently flows through the interstitial spaces of the ciliary muscles, ultimately reaching the supraciliary and suprachoroidal spaces. However, the precise subsequent route of AH drainage from these spaces remains a subject of debate, with potential pathways including drainage into the orbital vasculature, vortex veins, and ciliary lymphatics [ 4 ]. Both the conventional and unconventional pathways culminate in drainage into the systemic cardiovascular circulation. 
+ Figure 1: Aqueous humor (AH) pathway. 
+ 
+ Open in a new tab 
+ AH production occurs in the non-pigmented epithelium of the ciliary body. It traverses the posterior chamber and pupil to reach the anterior chamber (yellow arrows). AH outflow occurs through two routes, the conventional and unconventional pathways. In the conventional pathway (red arrow), AH traverses the three layers (uveal, corneoscleral, and juxtacanalicular) of the trabecular meshwork (TM), the Schlemm’s canal (SC), and collector channels to reach the episcleral venous system. In the unconventional pathway (green arrow), AH traverses the uveal layer of the TM and interstitial spaces of the ciliary muscles to reach the supraciliary and suprachoroidal spaces. Ocular hypertension results from an imbalance of the production and excretion of AH in the anterior chamber of the eye. To reduce IOP levels, therapeutic strategies either inhibit AH production in the ciliary body or amplify AH outflow through the conventional or unconventional pathways [ 5 , 6 ]. Traditional pharmacological agents used locally to reduce IOP primarily include prostaglandin analogs (PGAs), cholinergic drugs, adrenergic agonists, carbonic anhydrase inhibitors, and beta-adrenoceptor antagonists. Among these, PGAs offer the highest efficacy and most prolonged duration of action, making them the preferred choice in clinical practice [ 6 ]. This review will delve into the recent advancements in both traditional and novel PGAs for treating ocular pathologies associated with increased pressure, namely ocular hypertension and glaucoma. Background 
+ Eicosanoids are a diverse group of bioactive lipids derived from 20-carbon polyunsaturated fatty acids (PUFAs). They are subdivided into prostanoids, leukotrienes, and lipoxins. Eicosanoid biosynthesis begins with the release of PUFAs from cell membrane phospholipids by phospholipase enzymes. The most prevalent substrate for this reaction is the PUFA, arachidonic acid (ARA), owing to its abundance in cell membrane phospholipids. PUFAs are liberated in response to an array of stimuli, including cytokines, growth factors, and other pro-inflammatory signals [ 7 ]. Once released, the PUFA may proceed through the COX, LOX, or cytP450 pathways. Production of prostanoids, encompassing prostaglandins (PGs) and thromboxanes, is facilitated via the COX pathway ( Figure 2 ). The initial two stages of this pathway are catalyzed by PG endoperoxide H synthase, commonly referred to as COX. This enzyme has several isoforms, notably the constitutive COX-1 and the inducible COX-2. This enzyme initially converts ARA to prostaglandin G2 (PGG2) in a COX reaction and then synthesizes prostaglandin H2 (PGH2) via a peroxidation reaction [ 8 ]. The unstable PGH2 is subsequently metabolized by prostanoid synthases, culminating in the formation of five prostanoids: prostaglandins F2 (PGF2), E2 (PGE2), D2 (PGD2), and I2 (PGI2) (also termed prostacyclin), along with thromboxane A (TXA2). Most prostanoid synthases have various subtypes with differing tissue distributions, implying that different cell types possess unique capacities to synthesize these eicosanoids [ 8 ]. 
+ Figure 2: Prostanoid biosynthesis and receptors. 
+ 
+ Open in a new tab 
+ The production of prostanoids (prostaglandins and thromboxanes) begins with phospholipase enzymes releasing 20-carbon polyunsaturated fatty acids (PUFAs) from phospholipid membranes, of which arachidonic acid (ARA) is the most common. PG endoperoxide H synthase, loosely termed “COX,” first catalyzes a COX reaction that converts ARA to prostaglandin G2 (PGG2), subsequently catalyzing a peroxidase reaction that converts PGG2 to prostaglandin H2 (PGH2). PGH2 is converted to prostanoids by prostanoid synthases. Prostanoids mediate their reactions through GPCR receptors located on the surface of cells. The prostaglandins PGF 2α , PGE 2 , PGD 2 , and PGI 2 preferentially bind to the FP, EP 1–4, DP1–2, and IP receptors, respectively. The thromboxane TxA2 binds to the TP receptors. Prostanoids exert local effects via G-protein coupled receptors (GPCRs) located on the cell surface. These receptors relay signals by either stimulating or inhibiting the generation of second messengers such as calcium (Ca2+) and cyclic adenosine monophosphate (cAMP). The nine prostanoid receptors include the FP receptor for PGF2, EP1-4 receptors for PGE2, DP1-2 receptors for PGD2, IP receptor for PGI2, and TP receptor for TXA2 ( Figure 2 ). Although each prostanoid exhibits the highest affinity towards its corresponding receptor, some degree of cross-reactivity exists between various prostanoids and their receptors. 
+ Prostanoids and their receptors are pivotal in a myriad of biological functions throughout the body. Within ophthalmology, PGs are especially significant due to their synthesis in multiple ocular structures and their role in physiological processes such as regulating vascular permeability, inducing pupil constriction, and reducing IOP [ 7 ]. The identification of the hypotensive properties of PGs paved the way for the development of PGAs, primarily targeting FP and EP2 receptors. Now considered first-line therapies for ocular hypertension and glaucoma, PGAs have transformed the therapeutic landscape [ 7 , 9 ]. Beyond their commendable safety profile, these analogs deliver the most potent IOP-lowering effect among all existing monotherapies [ 10 ]. A distinct advantage of PGAs is their enhancement of AH outflow rather than the inhibition of AH production. This approach not only ensures vital nutrients are supplied to the avascular structures of the anterior segment but also stabilizes IOP fluctuations [ 11 ]. Traditional PGA Analogs for Treatment 
+ Latanoprost was the first PGA approved by the Food and Drug Administration (FDA) in 1996 under the brand name Xalatan ® (latanoprost ophthalmic solution, 0.005%). Subsequent approvals included bimatoprost (Lumigan ® , bimatoprost ophthalmic solution, 0.03%), travoprost (Travatan ® , travoprost ophthalmic solution, 0.004%), and tafluprost (Zioptan ® , tafluprost ophthalmic solution, 0.0015%). These medications are PGF2a analogs that reduce IOP by activating FP receptors found in ocular tissues like the corneal epithelium, ciliary epithelium, ciliary muscles, and iris stroma [ 12 , 13 ]. Once activated, these receptors stimulate Gq-protein-mediated phosphatidylinositol metabolism, leading to increased intracellular free calcium concentrations and the modulation of various signaling cascades [ 13 ]. Although the exact mechanism remains elusive, FP receptors appear to enhance AH outflow through the unconventional pathway [ 14 ]. One proposed mechanism involves the increased secretion of matrix metalloproteinases, which reduces the extracellular matrix content of the ciliary body muscles, facilitating AH flow through interstitial spaces [ 4 , 15 ]. 
+ Recent studies have extensively explored the efficacy and side effects of PGAs in treating glaucoma and ocular hypertension. A notable randomized control trial comparing latanoprost to selective laser trabeculoplasty found both to be effective as first-line treatments for IOP management. However, latanoprost displayed superior efficacy in regulating 24-hour IOP fluctuations [ 16 ]. 
+ Further in-depth comparisons between PGAs have been conducted. A prospective randomized clinical trial comparing latanoprost 0.005%, travoprost 0.004%, and tafluprost 0.0015% highlighted the similarities of these drugs in terms of IOP reduction and side effects for newly diagnosed open-angle glaucoma patients [ 17 ]. Moreover, a study comparing generic PGAs to their original counterparts found no clinically significant difference in their IOP-lowering efficacy and overall tolerability [ 18 ]. Another key study examined the effects of a 6-week PGA discontinuation after prolonged monotherapy. The results indicated a modest yet significant IOP increase. By day 42, 24.7% of participants in the discontinuation group had an IOP equal to or exceeding 21 mmHg [ 19 ]. 
+ Advancements in basic science research have demonstrated the potential of PGAs to modulate the lipid composition of the optic nerve (ON) [ 20 ]. Specifically, latanoprost treatment in DBA/2J mice elicited an elevation in triglyceride levels compared to untreated controls. Two alternative compounds, PF-04217329, an EP2 receptor agonist, and rivenprost, an EP4 receptor agonist, were investigated as potential alternatives to latanoprost. Rivenprost notably demonstrated superior IOP-lowering efficacy, and its impact on ON lipid composition distinctly differed from the other compounds ( Figure 3 ). This suggests that FP receptor activation, associated with augmented Ca2+ and diacylglycerol levels, initiates unique pathways in the ON in contrast to the pathways activated by the EP4 receptor, which elevates cAMP levels. 
+ Figure 3: PGA effects on Optic Nerve Lipidome. 
+ 
+ Open in a new tab 
+ Lipid composition of the optic nerve in DBA/2J mice following a 14-day daily ocular treatment regimen with PF04217329, latanoprost, or rivenprost. Triglyceride (TG), Sulfatide (ST), Sphingomyelin (SM), Phosphatidylethanolamine (PE), Phosphatidic acid (PA). Adapted from PMID: 37267222. The potential side effects of PGAs have garnered significant attention. A comprehensive systematic review centered on uveitis and cystoid macular edema (CME) as potential side effects of PGAs indicated that among the 28,000+ patients evaluated, incidences of uveitis and CME stood at 0.22% and 0.09%, respectively [ 21 ]. The study highlighted prior ocular surgical procedures or conditions such as aphakia or a subluxated intraocular lens might act as potential confounders. Still, the risk remained minimal for non-surgical patients. Another study suggested that discontinuing PGA use before surgery did not significantly reduce post-operative CME risk, especially for patients without CME risk factors [ 22 ]. Additionally, a meta-analysis revealed a significant reduction in central corneal thickness among glaucoma patients using topical PGAs, with bimatoprost and travoprost showing noticeable reductions, whereas latanoprost’s effect was statistically insignificant [ 23 ]. 
+ In recent years, several side effects of PGAs have been attributed to the presence of benzalkonium chloride (BAK) in their formulations. BAK is among the most frequently utilized preservatives in topical ophthalmic medications. This quaternary ammonium compound acts as a preservative against Gram-positive and Gram-negative bacteria, and fungi. Due to BAK’s potential side effects, topical PGAs with alternative or no preservatives have emerged, with some receiving FDA approval. 
+ A 12-week investigation compared BAK-preserved latanoprost to latanoprost preserved with potassium sorbate. While the alternatively-preserved latanoprost did not satisfy all non-inferiority criteria, it did depict similar IOP reduction with comparable adverse events among both treatment groups (Wirta et al., 2022). An open-label extension study assessing the prolonged safety of the potassium sorbate-preserved latanoprost determined its favorable tolerance and sustained IOP reduction throughout the study’s span (Shen Lee et al., 2022). In 2018, the FDA granted approval to Xelpros ™ (latanoprost ophthalmic emulsion, 0.005%), which uses potassium sorbate 0.47% as a preservative. 
+ A phase IV trial compared BAK-preserved and preservative-free latanoprost, with the preservative-free group depicting better adherence, lower hyperemia scores, and decreased stinging and burning sensations compared to the preserved group [ 24 ]. lyuzeh ™ (latanoprost ophthalmic solution, 0.005%), devoid of preservatives, received FDA approval in 2022. Novel PGA Analogs for Treatment 
+ Latanoprostene Bunod 
+ Latanoprostene bunod (LBN) is a nitric oxide (NO) donating PGF2α analog, approved by the FDA in 2017 under the brand name Vyzulta ® (LBN ophthalmic solution, 0.024%). Upon administration, LBN is hydrolyzed by ocular esterases into latanoprost acid and butanediol mononitrate, a NO-donating moiety. Latanoprost acid activates FP receptors, leading to increased AH outflow through the unconventional pathway, thereby reducing IOP. NO, an endogenous signaling molecule, plays multiple roles in ocular physiology. It inhibits AH formation by inhibiting Na+ K+-ATPases in the ciliary process, regulates blood flow, and promotes AH outflow via the conventional pathway [ 25 ]. This outflow facilitation arises from the activation of cyclic guanosine monophosphate, which results in the relaxation of TM and SC cells, ultimately decreasing outflow resistance and lowering IOP [ 25 , 26 ]. LBN’s dual mechanism reduces IOP via both conventional and unconventional pathways. 
+ Two phase III studies demonstrated that LBN 0.024% administered once daily had superior IOP-lowering efficacy compared to timolol 0.5% twice daily in patients with glaucoma or ocular hypertension over three months: 32.0% mean reduction with LBN versus 27.6% with timolol [ 27 ]. In safety extension phases, LBN sustained its IOP-lowering effect for up to 12 months. Patients transitioning from timolol to LBN in the open-label phase experienced a mean diurnal IOP reduction of 1.2 mmHg. LBN’s safety profile was comparable to that of PGAs, with the most common adverse event being conjunctival hyperemia (5.9% in the LBN group versus 1.1% in the timolol group). 
+ A network meta-analysis over three months indicated LBN’s superior efficiency compared to the discontinued PGA unoprostone and various beta-blockers [ 28 ]. When compared to other PGAs, LBN demonstrated numerical superiority over latanoprost and tafluprost, exhibited similar efficacy to bimatoprost 0.01%, and showed inferiority to bimatoprost 0.03%, although these differences were not statistically significant. Fixed-Dose Netarsudil and Latanoprost 
+ In 2019, the FDA approved a fixed-dose combination of netarsudil, a Rho kinase inhibitor, and latanoprost, branded as ROCKLATAN ® (netarsudil and latanoprost ophthalmic solution, 0.02%/0.005%). Rho kinase inhibitors decrease TM and SC cell contractility, enhancing AH outflow through the conventional pathway [ 29 ]. Coupled with latanoprost’s mechanism of action, this fixed-dose combination enhances AH outflow via both the conventional and unconventional pathways. 
+ The 12-month Mercury-1 and 3-month Mercury-2 phase III trials compared ROCKLATAN ® against netarsudil 0.02% and latanoprost 0.005% individually [ 30 , 31 ]. Pooled results showed that the fixed-dose solution significantly outperformed either drug used separately [ 32 ]. Another phase III trial, Mercury-3 ( NCT03284853 ), compared ROCKLATAN ® and GANFORT ® over six months. Conducted across 11 European nations, results from clinicaltrials.gov indicate ROCKLATAN ® ’s non-inferiority to GANFORT ® . Conjunctival hyperemia was more common in ROCKLATAN ® users (33.03%) compared to GANFORT ® (10.85%). 
+ ROCKLATAN ® is currently being evaluated in a phase IV clinical trial ( NCT05283395 ), where its efficacy and safety are compared to latanoprost alone or latanoprost combined with one or two other IOP-lowering agents. Bimatoprost Implant 
+ The FDA approved an intracameral implant containing 10 mcg of bimatoprost in 2020, branded as Durysta ™ , for patients with glaucoma or ocular hypertension. This implant, measuring about 1.1 mm in length and 200 μm in diameter, degrades into lactic and glycolic acids, steadily releasing bimatoprost over 4-6 months [ 33 ]. 
+ The Artemis 1 and 2 phase III trials evaluated the bimatoprost implant [ 34 , 35 ]. The implant displayed non-inferiority to timolol 0.5% over 12 weeks. This persisted after two 4-month intervals of administration. However, adverse effects like corneal endothelial cell loss were observed with re-administrations, leading to FDA to approve only a single administration of Durysta [ 33 ]. Pooled results from the Artemis trials indicated that by 52 weeks, 82% of the implants had either biodegraded completely or were reduced to ≤ 25% of their initial size [ 36 ]. By the 20th month, this effect was observed in 95% of the implants. Some degree of variability was noted amongst patients. 
+ A subsequent phase IIIb study revealed a sustained 24-hour IOP-lowering effect with the implant compared to bimatoprost 0.01% once daily [ 37 ]. A year post-implantation, 74% of participants did not require extra ocular hypotensive treatment. Of note, persistent IOP lowering was observed in many patients even after the implant was fully depleted. The authors mention this could be due to the high bimatoprost concentrations in target tissues from the implant, leading to enhanced activation of matrix metalloproteinases which results in prolonged remodeling of aqueous outflow. The bimatoprost implant showed a favorable safety profile up to one year following a single administration, with no clinically significant corneal endothelial cell loss noted. Omidenepag Isopropyl 
+ Omidenepag isopropyl (OMDI, Omlonti ® , 0.002%) is a selective prostanoid EP2 receptor agonist approved by the FDA in 2022 for the reduction of elevated IOP in patients with glaucoma or ocular hypertension. OMDI selectively binds to EP2 receptors, mitigating side effects from non-specific FP receptor interactions [ 38 ]. When OMDI’s active metabolite, omidenepag, binds to EP2 receptors, adenylyl cyclase is activated, which causes the conversion of adenosine triphosphate (ATP) to cAMP. Although the exact mechanism is unknown, this increase in cAMP leads to decreased outflow resistance in the TM and SC, thus improving AH outflow through both the conventional and unconventional methods [ 39 ]. 
+ A phase III trial evaluated OMDI 0.002% in patients with primary open-angle glaucoma or ocular hypertension [ 39 ]. After a 1-4 weeks washout, either OMDI 0.002% or latanoprost 0.005% was administered daily for four weeks. OMDI was determined non-inferior to latanoprost. OMDI was well-tolerated, with conjunctival hyperemia as the primary adverse event (24.5% in the OMDI group versus 10.4% in the latanoprost group). A related study found OMDI to be a potential pharmacological alternative for patients unresponsive to latanoprost [ 40 ]. 
+ Another phase III trial evaluated OMDI’s long-term efficacy, alone or combined with timolol 0.5% [ 41 ]. Over 52 weeks, consistent IOP reduction was seen. When used with timolol, a greater IOP reduction was achieved, albeit with increased conjunctival hyperemia incidence (18.8% in OMDI alone versus 45% combined). 
+ OMDI was also assessed for the treatment of normal-tension glaucoma, a subtype of primary open-angle glaucoma. While OMDI provided sustained IOP reduction over a 6-month period, there were observed changes in corneal endothelial cells, central corneal thickening, corneal erosion, and transient myopic shifts [ 42 ]. These ocular alterations are important to consider and monitor when administering OMDI. 
+ Sepetaprost (a FP and EP3 dual agonist) and NCX 470 (a NO-donating bimatoprost are newer prostaglandin analogs under development, primarily function by enhancing the outflow of aqueous humor from the eye, thereby reducing IOP [ 43 ]. Conclusion 
+ Recent developments in the field of ophthalmology have showcased notable progression in PGAs. While traditional PGAs are undergoing modifications to reduce their preservative content, which often contributes to side effects, newer PGAs are centered on introducing novel and synergistic mechanisms of action. Apart from the FDA-approved PGAs discussed in this review, there are new PGAs on the horizon such as sepetaprost and NCX 470 that seem promising. Additionally, innovations in methods of administration aim to circumvent many of the challenges associated with traditional drop administration. These transformative strategies underscore the commitment to improving patient outcomes and minimizing side effects. Table 1. 
+ Recently-approved prostaglandin analogs for the reduction of intraocular pressure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Drug 
+ FDA Approval 
+ Mechanism 
+ Administration and Dosage 
+ Efficacy compared to other drugs 
+ Most common adverse event 
+ 
+ 
+ 
+ Latanoprostene Bunod (LBN, 0.024%) 
+ 2017 
+ Nitric oxide (NO)-donating FP receptor agonist 
+ One drop in the affected eye(s) once daily in the evening 
+ Superiority to timolol 0.5% bid [ 26 ] Superiority to unoprostone and the beta-blockers apraclonidine, betaxolol, brimonidine, brinzolamide, carteolol, dorzolamide, and timolol [ 27 ] 
+ Conjunctival hyperemia [ 26 ] 
+ 
+ 
+ Fixed-dose netarsudil and latanoprost ophthalmic solution (0.02%/0.005%) 
+ 2019 
+ Rho kinase inhibitor and FP receptor agonist 
+ One drop in the affected eye(s) once daily in the evening 
+ Superiority to netarsudil and latanoprost [ 29 , 30 , 31 ] Non-inferiority to GANFORT ® ( NCT03284853 ) 
+ Conjunctival hyperemia [ 31 ] 
+ 
+ 
+ Bimatoprost intracameral implant (10 mcg) 
+ 2020 
+ FP receptor agonist 
+ Single intracameral administration in affected eye 
+ Non-inferiority to timolol 0.5% [ 33 , 34 ] More sustained 24-hour IOP-lowering effect than bimatoprost 0.01% qd [ 36 ] 
+ Conjunctival hyperemia [ 33 , 34 ] 
+ 
+ 
+ Omidenepag Isopropyl (OMDI, 0.002%) 
+ 2022 
+ EP2 receptor agonist 
+ One drop in the affected eye(s) once daily in the evening 
+ Non-inferiority to latanoprost [ 38 ] 
+ Conjunctival hyperemia [ 38 ] 
+ 
+ 
+ 
+ Open in a new tab 
+ Abbreviations: FDA: food and drug administration. Bid: two times a day. Qd: once a day Acknowledgement 
+ This work is supported by the National Eye Institute, grant numbers R01EY031292 and EY14801, an unrestricted grant by the Research to Prevent Blindness and a grant from The Glaucoma Foundation, New York. Footnotes 
+ 
+ Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain. 
+ 
+ Declaration of Competing Interests 
+ The authors have no conflicts of interest to declare. 
+ 
+ References 
+ 
+ 
+ 1. Zhang N, Wang J, Li Y, Jiang B: Prevalence of primary open angle glaucoma in the last 20 years: a meta-analysis and systematic review. Sci Rep
+2021, 11:13762.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Goel M, Picciani RG, Lee RK, Bhattacharya SK: Aqueous humor dynamics: a review. Open Ophthalmol J
+2010, 4:52–59.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3.**. Sharif NA: Recently Approved Drugs for Lowering and Controlling Intraocular Pressure to Reduce Vision Loss in Ocular Hypertensive and Glaucoma Patients. Pharmaceuticals (Basel)
+2023, 16. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]; This article summaries all recently available IOP lowering drugs, insight and outlook. It is a very good source for the readership to get a comprehensive overview. 
+ 
+ 
+ 4. Johnson M, McLaren JW, Overby DR: Unconventional aqueous humor outflow: A review. Exp Eye Res
+2017, 158:94–111.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5.*. Klimko PG, Sharif NA: Discovery, characterization and clinical utility of prostaglandin agonists for the treatment of glaucoma. Br J Pharmacol
+2019, 176:1051–1058.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]; In this review there is a good account of characterization and clinical utility of a number of prostanoid molecules written by long time experts in the field. 
+ 
+ 
+ 6. Liu P, Wang F, Song Y, Wang M, Zhang X: Current situation and progress of drugs for reducing intraocular pressure. Ther Adv Chronic Dis
+2022, 13:20406223221140392.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7.**. Asendrych-Wicik K, Zarczuk J, Walaszek K, Ciach T, Markowicz-Piasecka M: Trends in development and quality assessment of pharmaceutical formulations - F2alpha analogues in the glaucoma treatment. Eur J Pharm Sci
+2023, 180:106315.
+ [ DOI ] [ PubMed ] [ Google Scholar ]; This article goes into the formulations, which is important for drug, delivery, absorption and other pharmacokinetic aspects. 
+ 
+ 
+ 8.*. Calder PC: Eicosanoids. Essays Biochem
+2020, 64:423–441.
+ [ DOI ] [ PubMed ] [ Google Scholar ]; A good overview article on eicosanoids in general. Useful as an introductory account to new readership. 
+ 
+ 
+ 9. Wang T, Cao L, Jiang Q, Zhang T: Topical Medication Therapy for Glaucoma and Ocular Hypertension. Front Pharmacol
+2021, 12:749858.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Li F, Huang W, Zhang X: Efficacy and safety of different regimens for primary open-angle glaucoma or ocular hypertension: a systematic review and network meta-analysis. Acta Ophthalmol
+2018, 96:e277–e284.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11.**. Kaplan TM, Sit AJ: Emerging drugs for the treatment of glaucoma: a review of phase II & III trials. Expert Opin Emerg Drugs
+2022, 27:321–331.
+ [ DOI ] [ PubMed ] [ Google Scholar ]; This article written by a clinical scientist reviews phase II and II trials thus providing a number of insights into what went into successful drug development. 
+ 
+ 
+ 12. Subbulakshmi S, Kavitha S, Venkatesh R: Prostaglandin analogs in ophthalmology. Indian J Ophthalmol
+2023, 71:1768–1776.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Zhou L, Zhan W, Wei X: Clinical pharmacology and pharmacogenetics of prostaglandin analogues in glaucoma. Front Pharmacol
+2022, 13:1015338.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Sharif NA, Klimko PG: Prostaglandin FP receptor antagonists: discovery, pharmacological characterization and therapeutic utility. Br J Pharmacol
+2019, 176:1059–1078.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15.*. Nakamura N, Honjo M, Yamagishi R, Igarashi N, Sakata R, Aihara M: Effects of selective EP2 receptor agonist, omidenepag, on trabecular meshwork cells, Schlemm’s canal endothelial cells and ciliary muscle contraction. Sci Rep
+2021, 11:16257.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]; One of the recent drug that has been developed over a long period of time. Insight into effects on multiple cell types in anterior segment provided. 
+ 
+ 
+ 16. Shi Y, Zhang Y, Sun W, Huang AS, Chen S, Zhang L, Wang W, Xie L, Xie X: 24-Hour efficacy of single primary selective laser trabeculoplasty versus latanoprost eye drops for Naive primary open-angle glaucoma and ocular hypertension patients. Sci Rep
+2023, 13:12179.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Faseeh AE, Allam RS, Shalash AB, Abd Elmohsen MN: Comparison between Latanoprost, Travoprost, and Tafluprost in reducing intraocular pressure fluctuations in patients with glaucoma. Eur J Ophthalmol
+2021, 31:3018–3026.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Steensberg AT, Mullertz OO, Virgili G, Azuara-Blanco A, Kolko M: Evaluation of Generic versus Original Prostaglandin Analogues in the Treatment of Glaucoma: A Systematic Review and Meta-Analysis. Ophthalmol Glaucoma
+2020, 3:51–59.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Lim CW, Diaconita V, Liu E, Ault N, Lizotte D, Nguyen M, Hutnik CML: Effect of 6-week washout period on intraocular pressure following chronic prostaglandin analogue treatment: a randomized controlled trial. Can J Ophthalmol
+2020, 55:143–151.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Arcuri J, Elbaz A, Sharif NA, Bhattacharya SK: Ocular Treatments Targeting Separate Prostaglandin Receptors in Mice Exhibit Alterations in Intraocular Pressure and Optic Nerve Lipidome. J Ocul Pharmacol Ther
+2023. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Hu J, Vu JT, Hong B, Gottlieb C: Uveitis and cystoid macular oedema secondary to topical prostaglandin analogue use in ocular hypertension and open angle glaucoma. Br J Ophthalmol
+2020, 104:1040–1044.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Ozyol E, Ozyol P, Gunel-Karadeniz P: The Use of Prostaglandin Analogues and Cystoid Macular Edema after Uneventful Cataract Surgery: A Systematic Review and Meta-Analysis. Semin Ophthalmol
+2023, 38:490–497.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Kadri R, Shetty A, Parameshwar D, Kudva AA, Achar A, Shetty J: Effect of prostaglandin analogues on central corneal thickness in patients with glaucoma: A systematic review and meta-analysis with trial sequential analysis. Indian J Ophthalmol
+2022, 70:1502–1512.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Kim DW, Shin J, Lee CK, Kim M, Lee S, Rho S: Comparison of ocular surface assessment and adherence between preserved and preservative-free latanoprost in glaucoma: a parallel-grouped randomized trial. Sci Rep
+2021, 11:14971.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Mao YJ, Wu JB, Yang ZQ, Zhang YH, Huang ZJ: Nitric oxide donating anti-glaucoma drugs: advances and prospects. Chin J Nat Med
+2020, 18:275–283.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Impagnatiello F, Bastia E, Almirante N, Brambilla S, Duquesroix B, Kothe AC, Bergamini MVW: Prostaglandin analogues and nitric oxide contribution in the treatment of ocular hypertension and glaucoma. Br J Pharmacol
+2019, 176:1079–1089.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Weinreb RN, Liebmann JM, Martin KR, Kaufman PL, Vittitow JL: Latanoprostene Bunod 0.024% in Subjects With Open-angle Glaucoma or Ocular Hypertension: Pooled Phase 3 Study Findings. J Glaucoma
+2018, 27:7–15.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Harasymowycz P, Royer C, Cui AX, Barbeau M, Jobin-Gervais K, Mathurin K, Lachaine J, Beauchemin C: Short-term efficacy of latanoprostene bunod for the treatment of open-angle glaucoma and ocular hypertension: a systematic literature review and a network meta-analysis. Br J Ophthalmol
+2022, 106:640–647.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Clement Freiberg J, von Spreckelsen A, Kolko M, Azuara-Blanco A, Virgili G: Rho kinase inhibitor for primary open-angle glaucoma and ocular hypertension. Cochrane Database Syst Rev
+2022, 6:CD013817. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Brubaker JW, Teymoorian S, Lewis RA, Usner D, McKee HJ, Ramirez N, Kopczynski CC, Heah T: One Year of Netarsudil and Latanoprost Fixed-Dose Combination for Elevated Intraocular Pressure: Phase 3, Randomized MERCURY-1 Study. Ophthalmol Glaucoma
+2020, 3:327–338.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Walters TR, Ahmed IIK, Lewis RA, Usner DW, Lopez J, Kopczynski CC, Heah T, Group M-S: Once-Daily Netarsudil/Latanoprost Fixed-Dose Combination for Elevated Intraocular Pressure in the Randomized Phase 3 MERCURY-2 Study. Ophthalmol Glaucoma
+2019, 2:280–289.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Asrani S, Bacharach J, Holland E, McKee H, Sheng H, Lewis RA, Kopczynski CC, Heah T: Fixed-Dose Combination of Netarsudil and Latanoprost in Ocular Hypertension and Open-Angle Glaucoma: Pooled Efficacy/Safety Analysis of Phase 3 MERCURY-1 and -2. Adv Ther
+2020, 37:1620–1631.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Sirinek PE, Lin MM: Intracameral sustained release bimatoprost implants (Durysta). Semin Ophthalmol
+2022, 37:385–390.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Medeiros FA, Walters TR, Kolko M, Coote M, Bejanian M, Goodkin ML, Guo Q, Zhang J, Robinson MR, Weinreb RN, et al. 
+Phase 3, Randomized, 20-Month Study of Bimatoprost Implant in Open-Angle Glaucoma and Ocular Hypertension (ARTEMIS 1). Ophthalmology
+2020, 127:1627–1641.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Bacharach J, Tatham A, Ferguson G, Belalcazar S, Thieme H, Goodkin ML, Chen MY, Guo Q, Liu J, Robinson MR, et al. 
+Phase 3, Randomized, 20-Month Study of the Efficacy and Safety of Bimatoprost Implant in Patients with Open-Angle Glaucoma and Ocular Hypertension (ARTEMIS 2). Drugs
+2021, 81:2017–2033.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Weinreb RN, Bacharach J, Brubaker JW, Medeiros FA, Bejanian M, Bernstein P, Robinson MR: Bimatoprost Implant Biodegradation in the Phase 3, Randomized, 20-Month ARTEMIS Studies. J Ocul Pharmacol Ther
+2023, 39:55–62.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Weinreb RN, Christie WC, Medeiros FA, Craven ER, Kim K, Nguyen A, Bejanian M, Wirta DL: Single Administration of Bimatoprost Implant: Effects on 24-Hour Intraocular Pressure and 1-Year Outcomes. Ophthalmol Glaucoma
+2023. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Aihara M: Prostanoid receptor agonists for glaucoma treatment. Jpn J Ophthalmol
+2021, 65:581–590.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Aihara M, Lu F, Kawata H, Iwata A, Odani-Kawabata N, Shams NK: Omidenepag Isopropyl Versus Latanoprost in Primary Open-Angle Glaucoma and Ocular Hypertension: The Phase 3 AYAME Study. Am J Ophthalmol
+2020, 220:53–63.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Aihara M, Ropo A, Lu F, Kawata H, Iwata A, Odani-Kawabata N, Shams N: Intraocular pressure-lowering effect of omidenepag isopropyl in latanoprost non-/low-responder patients with primary open-angle glaucoma or ocular hypertension: the FUJI study. Jpn J Ophthalmol
+2020, 64:398–406.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Aihara M, Lu F, Kawata H, Iwata A, Odani-Kawabata N: Twelve-month efficacy and safety of omidenepag isopropyl, a selective EP2 agonist, in open-angle glaucoma and ocular hypertension: the RENGE study. Jpn J Ophthalmol
+2021, 65:810–819.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Lee SH, Lee WJ, Kim KW, Jeong JH, Park IK, Chun YS: Influence of 0.002% Omidenepag Isopropyl on Intraocular Pressure and the Cornea in Normal Tension Glaucoma. J Glaucoma
+2023, 32:245–251.
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Sharif NA, Odani-Kawabata N, Lu F, Pinchuk L: FP and EP2 prostanoid receptor agonist drugs and aqueous humor outflow devices for treating ocular hypertension and glaucoma. Exp Eye Res
+2023, 229:109415.
+ [ DOI ] [ PubMed ] [ Google Scholar ]

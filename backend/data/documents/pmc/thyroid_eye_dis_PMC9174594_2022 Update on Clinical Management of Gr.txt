@@ -1,0 +1,496 @@
+Source: PubMed Central (PMC)
+PMCID: PMC9174594
+Title: 2022 Update on Clinical Management of Graves' Disease and Thyroid Eye Disease
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9174594/
+Year: 2022
+Disease: thyroid_eye_disease
+Priority: 2
+============================================================
+
+Endocrinol Metab Clin North Am . Author manuscript; available in PMC: 2023 Jun 1. 
+ 
+ Published in final edited form as: Endocrinol Metab Clin North Am. 2022 May 11;51(2):287–304. doi: 10.1016/j.ecl.2021.12.004 
+ 
+ 
+ 2022 Update on Clinical Management of Graves’ Disease and Thyroid Eye Disease 
+ Thanh D Hoang 
+ Thanh D Hoang 
+ 
+ 1 Division of Diabetes, Endocrinology and Metabolism, Walter Reed National Military Medical Center 8901 Wisconsin Avenue Bethesda, MD 20819 
+ Find articles by Thanh D Hoang 
+ 
+ 
+ 1 , Derek J Stocker 
+ Derek J Stocker 
+ 
+ 2 Department of Radiology, Nuclear Medicine Service, Walter Reed National Military Medical Center 8901 Wisconsin Avenue Bethesda, MD 20819 
+ Find articles by Derek J Stocker 
+ 
+ 
+ 2 , Eva L Chou 
+ Eva L Chou 
+ 
+ 3 Department of Ophthalmology, Oculoplastic Service, Walter Reed National Military Medical Center 8901 Wisconsin Avenue Bethesda, MD 20819 
+ Find articles by Eva L Chou 
+ 
+ 
+ 3 , Henry B Burch 
+ Henry B Burch 
+ 
+ 4 Division of Diabetes, Endocrinology and Metabolic Diseases National Institute of Diabetes and Digestive and Kidney Diseases National Institutes of Health 6707 Democracy Boulevard, Room 6054 Bethesda, MD 20892-5460 
+ Find articles by Henry B Burch 
+ 
+ 
+ 4 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Division of Diabetes, Endocrinology and Metabolism, Walter Reed National Military Medical Center 8901 Wisconsin Avenue Bethesda, MD 20819 
+ 
+ 2 Department of Radiology, Nuclear Medicine Service, Walter Reed National Military Medical Center 8901 Wisconsin Avenue Bethesda, MD 20819 
+ 
+ 3 Department of Ophthalmology, Oculoplastic Service, Walter Reed National Military Medical Center 8901 Wisconsin Avenue Bethesda, MD 20819 
+ 
+ 4 Division of Diabetes, Endocrinology and Metabolic Diseases National Institute of Diabetes and Digestive and Kidney Diseases National Institutes of Health 6707 Democracy Boulevard, Room 6054 Bethesda, MD 20892-5460 
+ 
+ ✉ Contact: Henry.Burch@nih.gov (Corresponding author) 
+ 
+ 
+ Issue date 2022 Jun. 
+ PMC Copyright notice 
+ 
+ PMCID: PMC9174594  NIHMSID: NIHMS1806859  PMID: 35662442 
+ 
+ The publisher's version of this article is available at Endocrinol Metab Clin North Am 
+ 
+ Abstract 
+ The management of hyperthyroidism and extrathyroidal manifestations of Graves’ disease remains complex. Considerations that include patient preference, age, comorbidity, pregnancy, tobacco smoking, and social determinants of health must all be weaved into a cohesive management plan. A multidisciplinary team is required to manage all aspects of Graves’ disease, particularly thyroid eye disease, for which new therapeutic options are now available. 
+ Keywords: Hyperthyroidism, Graves’ disease, Thyroid eye disease, Antithyroid drugs, Radioiodine therapy, Thyroidectomy II. INTRODUCTION 
+ A. Background 
+ While the basic treatment options for hyperthyroidism due to Graves’ disease (GD) have seemed immutable for more than three-quarters of a century, its management remains complex. The endocrinologist must consider a multitude of factors including patient preference, age and comorbidity, pregnancy, or pregnancy potential, the influence of social factors such as tobacco smoking and the likelihood of adherence to medical therapy, and co-management of extrathyroidal manifestations such as orbitopathy. This article will leverage a multidisciplinary team to synthesize a current understanding of pathophysiology, contemporary understanding of benefits and risks of treatment and factors influencing trends in management of GD, arriving at a pragmatic approach to effective therapy. In addition, with the rollout of promising new therapeutic opportunities for thyroid eye disease (TED), a timely review of the complex management of this disorder is provided. B. Diagnosis and Initial Management of Graves’ Disease 
+ Initial Triage 
+ Evaluation of a new patient with thyrotoxicosis requires immediate answers to key questions ( Box 1 ). Acute complications requiring immediate intervention include ischemia, atrial fibrillation ( 1 ), congestive heart failure, thromboembolism ( 2 ), stroke ( 3 ), psychosis ( 4 ), periodic paralysis ( 5 ), and thyroid storm ( 6 ). Each requires specific intervention in addition to normalization of thyroid hormone levels. 
+ Box 1: Triage in patients presenting with overt thyrotoxicosis. 
+ 
+ Is the patient experiencing acute complications requiring urgent intervention, such as ischemia, atrial fibrillation, or impending thyroid storm? 
+ What is the etiology of the patient’s thyrotoxicosis? Is GD apparent clinically? 
+ What are the patient’s comorbidities? 
+ What initial testing is required? 
+ What therapy should be instituted at the first encounter? 
+ Diagnostic evaluation 
+ A diagnosis of GD can be made clinically in a patient with diffuse goiter, elevations in serum thyroxine (T4) and a suppressed thyroid stimulating hormone (TSH) value. If uncertainty remains after initial evaluation, the 2016 American Thyroid Association (ATA) Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis suggest that any one or more of three methods may be utilized, including TSH-receptor (TSH-R) antibody (TRAb) testing, radioactive iodine uptake (RAIU), or demonstration of diffusely increased vascularity on Doppler flow ultrasonography ( 7 ). Modern TRAb testing has high sensitivity and specificity for the diagnosis of GD, on the order of 97% and 99%, respectively ( 8 ). C. Shared Decision Making in Graves’ Disease 
+ Equipping a patient with an understanding of the benefits and risks associated with each of the treatment options for GD and taking into consideration their personal values are both critical. Patients are asked to choose between treatments that damage or remove the thyroid on the one hand and pharmacologic therapy with a low cure rate and a potential for serious adverse effects, on the other. They must be aware that medical therapy may be required chronically to sustain euthyroidism, and that serial laboratory testing and monitoring for adverse effects will be required. In addition, patients should be apprised of the risk of new or worsened orbitopathy after radioiodine therapy, and transient or permanent hypoparathyroidism or vocal cord dysfunction following thyroidectomy. Finally, patients should be familiar with the relative costs and cost-sharing associated with each of the three modalities. Detailed analyses of clinical factors and patient preferences favoring a specific treatment of hyperthyroidism in GD are available ( 7 , 9 ). Clinical factors influencing choice of therapy are summarized in Box 2 . 
+ Box 2 : Clinical factors that favor a particular treatment modality for hyperthyroidism in Graves’ Disease * . 
+ ATDs 
+ 
+ Patients with high likelihood of remission (women, mild disease, small goiter, negative or low titers of thyrotropin receptor antibody) 
+ Elderly or those with comorbidities and increased surgical risk or short life expectancy 
+ Patients with moderate to severe active Graves’ ophthalmopathy 
+ Radioiodine 
+ 
+ Contraindication to ATD use (severe adverse reactions, liver disease) 
+ Women planning pregnancy more than 6–12 months following RAI 
+ Patients with increased surgical risk (comorbidities, prior neck surgery or radiation) 
+ Lack of access to high-volume thyroid surgeon 
+ Surgery 
+ 
+ Patients with symptomatic compression or large goiters 
+ Patients with low RAIU 
+ When concurrent indications for surgery (thyroid cancer, hyperparathyroidism, suspicious thyroid nodules) 
+ Patients with moderate to severe active TED 
+ Women planning pregnancy in less than 6 months who wish to avoid ATDs 
+ 
+ Data from Refs 7 and 10 III. MEDICAL THERAPY WITH THIONAMIDES 
+ A. Antithyroid Drug (ATD) Dosing Principles 
+ ATDs are effective in controlling hyperthyroidism when given in proper doses with patient adherence. Methimazole (MMI) should be used in patients who choose ATD therapy for GD, except (a) during the first trimester of pregnancy when propylthiouracil (PTU) is preferred, (b) in the management of thyroid storm, and (c) in patients with minor adverse reactions to MMI who refuse radioactive iodine (RAI) therapy or surgery ( 7 ). 
+ Current practice guidelines suggest an initial MMI dosing of 5–10 mg daily if free T4 is 1–1.5 times the upper limit of normal; 10–20mg daily if free T4 is 1.5–2 times the upper limit of normal; and 30–40 mg daily for free T4 2–3 times the upper limit of normal ( 7 ). The minimal, effective dose of MMI is recommended in order to minimize adverse effects. MMI can be given once-a-day compared to PTU which has a shorter duration of action and is usually administered as 50–150 mg 3 times daily. B. Chronic Antithyroid Drug Therapy 
+ ATDs have historically been prescribed with the objective of permitting a remission from GD within a prescribed period of time, after which patients were considered treatment failures and approached with radioiodine (RAI) therapy or thyroidectomy. However, chronic low-dose ATD therapy appears to be a reliable alternative to ablative therapy ( 10 , 11 ). Patients in the U.S. increasingly select ATD therapy ( 12 , 13 ). Adverse effects occur less frequently on low maintenance doses of MMI ( 14 , 15 ), and most cases of agranulocytosis and severe hepatotoxicity occur within the first 3 months of therapy ( 11 , 16 ). A study of patients failing to remit after an initial course of ATDs who were then randomized to either continued ATD therapy or radioiodine, found 10-year costs of management similar or slightly lower with chronic ATD therapy, and episodes of hypothyroidism occurred more frequently after RAI therapy than with chronic ATDs ( 17 ). In another study, long-term ATDs in GD patients treated up to 11 years and then followed for an average of 4.5 years after stopping ATDs, found a remission rate of 63% ( 18 ). A retrospective study of patients treated with either continued low-dose ATDs or radioiodine after an initial relapse following ATD therapy showed that ATD-treated patients had better preservation of euthyroidism, less weight gain, and less orbitopathy deterioration compared to those treated with radioiodine ( 19 ). Conversely, chronic ATD therapy requires serial dose adjustment and monitoring for rare late-occurring adverse effects related to ATDs ( 20 ). C. Monitoring Patients Taking ATD Therapy 
+ Pre-treatment Considerations 
+ Before starting ATD therapy, a baseline complete blood count, including white blood cell count with differential and a baseline liver function profile including transaminases and bilirubin should be obtained. Mild leukocytopenia is common in patients with GD before starting ATDs. 
+ Notably, 10% of African Americans have neutrophil counts <2000 normally. Mild transaminase elevation occurs frequently in thyrotoxicosis ( 21 ). Patients should be counseled verbally and in writing regarding the potential side effects of ATD therapy ( 7 ). Monitoring therapy 
+ Serum TSH, free T4 and total or free T3 should be obtained initially at 2–4 week intervals after starting ATDs, and the dosage should be adjusted accordingly. Serum TSH may remain low for months after initiating ATD therapy. Serum free T4 may normalize despite persistent elevated total or free T3 level; thus, serum total or free T3 should also be monitored ( 7 ). 
+ Once the patient is biochemically euthyroid, gradual lowering of the MMI dose is advised, with repeated laboratory testing in 4–6 weeks. Euthyroid levels should be achieved with minimal ATD therapy dosage and repeat testing should be done in at approximate 2–3 months or longer intervals for long-term therapy. 
+ Patients should be advised regarding potential adverse effects of ATDs. A differential WBC count should be obtained during febrile illness or pharyngitis in all patients taking ATDs. Liver function tests should be checked in patients taking ATDs who develop jaundice, pruritic rash, light-colored stool or dark urine, arthralgia, abdominal pain, anorexia, nausea, or fatigue. After discontinuation of ATDs, liver function tests should be monitored weekly until normalization occurs. Routine monitoring of CBC and liver function by endocrinologists is commonly performed ( 13 ), though controversial ( 7 ). ATDs should be discontinued if transaminase levels are above 3 times the upper limit of normal or if the transaminitis worsens ( 7 ). IV. RADIOIODINE THERAPY 
+ A. Background and Mechanism 
+ RAI has been a safe and effective treatment option for hyperthyroidism for over eight decades ( 22 ). It is well-tolerated and has few associated adverse effects in treatment doses for GD ( 7 ). RAI is a β radiation emitter with a long physical half-life of just over 8 days which is rapidly concentrated by the thyroid after oral ingestion. The β particle has a range in tissue of approximately 2 mm and induces DNA damage and eventual thyroid cell death, rendering most patients with GD hypothyroid over a period of six weeks to six months. B. Preparation for Radioiodine Therapy 
+ The ATA hyperthyroidism guidelines identify several contraindications to the use of RAI, including pregnancy, lactation, known or suspected coexistent thyroid cancer, inability to comply with radiation safety guidelines, and planned pregnancy within the subsequent six months ( 7 ). Moderate to severe and sight-threatening TED is also considered a contraindication to RAI ( 7 , 23 , 24 ). In this clinical setting, ATDs or thyroidectomy are favored, as these demonstrate no significant effect on the course of TED ( 24 , 25 ). 
+ Patients with active mild TED are candidates for oral glucocorticoid therapy (0.3–0.5 mg of prednisone per kg of body mass per day, started 1–3 days after RAI administration, tapered over three months) ( 7 , 23 , 26 ). Shorter courses at lower doses (0.2 mg per kg of body mass per day for 6 weeks) may be equally protective ( 7 , 26 ). Prophylactic use of glucocorticoids in patients without pre-existing orbitopathy remains controversial ( 23 ). 
+ The goal of RAI treatment in GD is to administer sufficient activity to render the patient hypothyroid ( 7 ). This can be accomplished with the use of a fixed dose or calculating the activity based on goiter size and RAI uptake ( 7 , 27 ). In order to achieve hypothyroidism, activity of greater than 150 μCi/g (5.55 MBq/g) should be administered ( 7 ). The efficacy of RAI is strongly dependent on the activity administered, with success rates ranging from 61% with 5.4 mCi (200 MBq) to 86% with 15.7 mCi (580 MBq) ( 28 ). To avoid the necessity for retreatment, therapy with lower activities is generally not recommended ( 7 ). C. RAI Therapy Outcomes 
+ ATDs have a treatment failure rate of approximately 50%, followed by 7% for RAI and <1% for thyroidectomy ( 29 , 30 ). In a nationwide population-based study, thyroidectomy patients had the highest rate of complications, at 24%, mostly either transient or chronic hypoparathyroidism. ATD patients had a complication rate of 12%, followed by RAI patients at 6%. New onset TED occurred in 7% of ATD patients and 6% of RAI patients ( 29 ). Early and successful RAI treatment was associated with a 50% reduction in mortality compared to ATD treatment, but this advantage was lost when the RAI failed to resolve the hyperthyroidism ( 31 , 32 ). 
+ Specifically addressing TED outcomes, RAI therapy for GD is associated with new or worsened TED with an incidence of 10 to 39% ( 7 , 25 , 33 – 35 ) and in approximately 5%, these changes persisted after one year, requiring additional treatment ( 25 , 36 ). The mechanism of this association is incompletely understood, but it is postulated that RAI-induced leakage of thyroid antigen and increased production of TRAb, thyroid peroxidase, and thyroglobulin, contributes to the development or worsening of TED ( 34 ). The risk of worsening TED can be mitigated and almost eliminated in cases of mild disease with a short course of oral glucocorticoids and avoiding post-treatment hypothyroidism ( 7 , 36 ). D. RAI Usage Trends in the United States 
+ RAI was favored by 60% in the United States in a 2011 survey of endocrinologists ( 13 ), reduced from 69% in 1990. A 2020 analysis of private insurance claims in 4661 patients for GD showed that only 33% of this selected group received initial therapy with RAI, while another 8.9% received RAI after ATD failure ( 29 ). E. RAI and Cancer Controversy 
+ The association of RAI use in hyperthyroidism with an increased cancer incidence remains controversial. RAI in patients with hyperthyroidism has been associated with increased ( 37 – 39 ), similar ( 40 ), and even decreased ( 41 , 42 ) rates of overall cancer mortality. Those studies which demonstrated increased rates have been criticized for failing to adjust for confounders such as smoking, obesity, alcohol intake, and thyroid status ( 31 , 39 , 43 ). In a recent analysis of a multicenter cohort of patients with hyperthyroidism treated with ATDs, RAI or surgery, there were no differences in solid cancer mortality among groups when controlling for confounders, but within the RAI subgroup there was a modest dose-dependent association between RAI and mortality ( 44 ). Hyperthyroidism itself is associated with an increased cancer risk, making a lack of a hyperthyroid control group a challenge in interpreting cohort studies ( 31 , 42 , 43 ). The risks of both cardiovascular and cancer mortality in patients with hyperthyroidism can primarily be attributed to thyroid hormone excess, leading some to conclude that even a marginal increased cancer mortality in RAI would be offset by improved hyperthyroidism control with RAI over ATD ( 31 ). V. THYROIDECTOMY 
+ A. Overview 
+ Surgery is recommended by fewer than 1% of thyroid experts for the initial management of GD ( 13 ). Indications include large goiters with compressive symptoms, concurrent suspicious thyroid nodules or hyperparathyroidism requiring surgery, and patient preference ( 7 ). Health disparities are evident in the selection of thyroidectomy to treat GD, with black Americans twice as likely in one study to undergo surgery than whites with GD ( 45 ), and this surgery is more frequently performed by lower volume surgeons than that seen in whites ( 46 ). B. Preparation for thyroidectomy 
+ Patients selecting thyroidectomy to treat GD should first be rendered euthyroid using ATDs ( 7 ). This typically requires 1–3 months of ATDs prior to thyroidectomy. Rapid preoperative preparation is occasionally needed for patients requiring urgent surgery ( 47 ) or in patients with contraindications to ATDs. Safe and effective oral therapy with a combination of β-blockers (propranolol 40 mg every 8 hours), high dose glucocorticoids (betamethasone 0.5 mg every 6 hours) and sodium iopanoate (500 mg every 6 hours) has been reported in a small number of patients requiring urgent surgery ( 48 ). This regimen was given for 5 days with surgery performed on the sixth day. Dexamethasone and hydrocortisone decrease T4-to-T3 conversion and have an important role in this setting. A recent case series reported the combination of iodine, dexamethasone, and propranolol to rapidly restore euthyroidism prior to thyroidectomy in 10 patients with GD ( 49 ). Emergent preparation for thyroid surgery at our center in patients unable to use ATDs ( 47 ) has involved the regimen in Box 3 , typically given in the inpatient setting for 5–10 days before thyroidectomy, with rapid correction of thyrotoxicosis. 
+ Box 3: Rapid preparation for thyroidectomy in patients unable to use ATDs. 
+ 
+ Propranolol 60 mg orally, twice daily 
+ Dexamethasone 2 mg intravenously, four times daily 
+ Cholestyramine 4 g orally, four times daily 
+ Super saturated potassium iodide (SSKI) 2 drops orally, three times daily 
+ VI. THYROID EYE DISEASE 
+ A. Referral guidance 
+ Thyroid eye disease (TED) is a debilitating autoimmune disease with an incidence of 1.9 cases per 10,000 population per year ( 50 ). Although most frequently associated with hyperthyroidism secondary to GD, about 10% of patients with TED are euthyroid or hypothyroid. The mechanism of action is not completely understood but is characterized by activation of orbital fibroblasts by TRAb binding, leading to the expression of extracellular matrix molecules and deposition of glycosaminoglycans, resulting in swelling, congestion, and connective tissue modeling. The overall result is extraocular muscle enlargement and orbital fat expansion. As discussed later, recent work has suggested a role for cross-linking of the IGF-1 receptor with the TSH-R in orbital tissue ( 51 ). 
+ Control of thyroid function is crucial in all patients with TED; however, the course and severity does not always correlate with thyroid hormone levels. When assessing patients for TED activity, the 7-point Clinical Activity Score (CAS) is frequently used, in which one point is assigned for pain behind the eyes, pain with eye movement, eyelid swelling, eyelid edema, conjunctival redness, chemosis (scleral edema), or caruncle swelling, and a score of 3 or greater is considered active disease ( 52 ).The EUGOGO (European Group of Graves’ Orbitopathy) system is commonly used to describe TED severity as mild, moderate-severe, or sight threatening, while the VISA (Vision, Inflammation, Strabismus, and Appearance) system may be utilized to assess both TED activity and severity ( 53 ). If a patient exhibits any significant signs of TED or is experiencing eye discomfort, referral to an ophthalmologist is indicated. B. TED Risk Factors 
+ In contrast to GD for which women are at higher risk, the role of sex in TED is controversial. Recent studies do not find an obvious sex-related risk for TED, while earlier studies suggested a slightly increased risk for men. This variability might relate to changes in smoking trends over the years. The prevalence of TED is higher with aging (40–60 years), and peaks in the fifth and sixth decades of life ( 54 – 57 ). 
+ Identified risk factors for TED include smoking, sex, advanced age, genetics including HLA DRB3*0101/*0202 heterozygosity ( 58 ), wider lateral wall orbital angle, high TRAb levels, high pre-treatment levels of T3 and T4, uncontrolled hypo/hyperthyroidism, and RAI therapy. Smoking is the most important risk factor for TED with the risk proportional to the number of cigarettes smoked per day. Former smokers have lower risk than current smokers. Patients should be referred to smoking cessation programs. Recent data suggests that statin usage is correlated with a lower risk of orbitopathy in patients with GD ( 59 ). C. Eye assessment 
+ Formal Ophthalmology Assessment 
+ TED is diagnosed when two of three findings occur together, including immune-related thyroid dysfunction, one or more ocular signs, or radiologic evidence of tendon-sparing fusiform enlargement of one or more extraocular muscles. The most common signs of TED are eyelid retraction (Dalrymple’s sign), lid lag of the upper eyelid on downgaze (von Graefe’s sign), and lid edema. Thyroid eye disease is the most common cause of proptosis, both unilateral and bilateral, in adults. Other clinical features include lagophthalmos, exposure keratopathy, chemosis and conjunctival injection, restrictive extraocular motility, and compressive optic neuropathy. Patients with TED typically have symptoms of ocular surface discomfort, such as tearing, dry eyes, swelling of the lids, or redness of the lids or conjunctiva. Compressive optic neuropathy, often heralded by dyschromatopsia, decreased vision, and/or visual field defects, is considered an ophthalmic emergency requiring immediate treatment. 
+ At every ophthalmology visit, best-corrected visual acuity, color vision, extraocular motility, and intraocular pressure are measured, and a pupillary exam performed to assess for relative afferent pupillary defect. An external exam is performed assessing standard lid measurements, exophthalmometry, and resistance to retropulsion. A slit lamp and dilated funduscopic examination are performed. Static perimetric visual field examination is required at baseline to assess for visual field deficits with interval repeat testing as indicated by disease activity and severity. Imaging 
+ The diagnosis of TED is usually made clinically ( 60 , 61 ). In unusual or unilateral cases, orbital imaging can play an important role in establishing the diagnosis, providing a differential diagnosis for management, and assisting in clinical and surgical follow up. Magnetic resonance imaging (MRI), computed tomography (CT), ultrasonography (US), color Doppler imaging (CDI), and octreotide scintigraphy can each play a role in TED diagnosis and management ( 60 , 61 ). CT continues to play a key role in the diagnosis of TED due to its superior characterization of the bones and soft tissues and remains the preferred imaging modality for orbital decompression planning in patients requiring surgical management ( 23 , 61 ). MRI is considered the preferred imaging modality for detecting disease activity, given its superior ability to characterize soft tissues, and is also considered by some to be the preferred choice for diagnosis of TED ( 23 ). MRI does not subject the lens of the eye to ionizing radiation, an important benefit over CT ( 60 , 61 ). As in Graves’ treatment options, significant regional practice variation exists in the use of imaging in moderate TED, with providers in the European Union obtaining CT and MRI imaging more often than those in the US ( 62 ). D. General Treatment Measures 
+ General treatment of patients with thyroid eye disease includes (a) reversal of hyperthyroidism; (b) monitoring for and prompt treatment of hypothyroidism; and (c) cessation of smoking, if applicable. Clinicians should advise their patients with GD to stop smoking and refer them to a structured smoking cessation program. Since both firsthand and secondhand smoking increase TED risk, patients with exposure to secondhand smoke should be advised of its negative effects and avoidance of secondhand smoke ( 63 , 64 ). 
+ Local measures to improve symptoms may include eye shades, artificial tears, elevation of head during sleep, and avoidance of eye cosmetics. For mild, active TED, topical artificial tears in drop, gel, and ointment (1% methylcellulose drops and/or petrolatum jelly) are key to maintaining a healthy ocular surface. If there are signs of focal eye inflammation, topical glucocorticoid ophthalmic drops may reduce inflammation, but evidence supporting this practice is scarce. Topical cyclosporine has been shown to be beneficial in reducing ocular surface inflammation. Selenium supplementation has been shown to improve the course of mild TED in areas of relative selenium deficiency ( 65 ). Eye patching or prisms can be useful to treat diplopia while waiting for eye muscle stability before strabismus surgery. 
+ TED is a self-limiting disease, with patients progressing from the active to quiescent phase within 1–3 years with a 5–10% risk of future recurrence. Once TED is diagnosed, treatment should commence immediately to target the active, inflammatory phase of the disease and decrease disease severity that can be more recalcitrant to treatment in the chronic or fibrotic phase of the disease. E. Medical Therapy for TED 
+ Glucocorticoids 
+ Intravenous glucocorticoids (IVGC) are considered first-line therapy in patients with moderate-to-severe TED. The preferred regimen involves delivery of a 4.5 g dose of methylprednisolone over 12 weeks, typically given as 0.5 mg IV weekly × 6 weeks and then 0.5 g weekly for another 6 weeks ( 66 ). For patients with diplopia due to extraocular muscle involvement, higher cumulative doses up to 7.5 g have been utilized with greater benefit ( 67 ), but it is important that the total dose remain under 8 g, to avoid potentially severe toxicity ( 68 , 69 ). Oral glucocorticoids are less effective and more poorly tolerated than IVGC ( 66 ). Topical glucocorticoid drops and intraocular depot injections have not been shown to be efficacious compared to systemic therapy and intraocular injections are associated with potentially severe adverse effects, including blindness. Patients receiving glucocorticoids for TED require continuous surveillance for a host of adverse effects including hyperglycemia, hypertension, glaucoma, hip osteonecrosis, and psychosis. Teprotumumab 
+ Teprotumumab, an insulin-like growth factor 1 (IGF-1) receptor inhibitor, was approved to treat TED by the US Food and Drug Administration (FDA) in 2020, based on the results of two 24-week trials comparing teprotumumab with placebo in patients with active, moderate-to-severe orbitopathy ( 70 , 71 ). In the first trial, improvement of CAS by ≥ 2 points and reduction in proptosis by ≥ 2 mm, together, occurred in 69% of patients with teprotumumab versus 20% with placebo ( 71 ). In the second trial, the primary outcome of proptosis improvement by ≥ 2 mm occurred in 83% of patients treated with teprotumumab versus 10% with placebo ( 70 ); while a secondary outcome of combined improvement in CAS and proptosis occurred in 78% with teprotumumab versus 7% with placebo ( 70 ). Assessment of the durability of effect will require further long-term follow-up studies. Cost may play a key role in clinical decision-making. 
+ Teprotumumab is administered intravenously every 3 weeks (10 mg/kg first dose, then 20mg/kg) for a total of 8 infusions. Common side effects include nausea, diarrhea, muscle spasms, hearing impairment, dysgeusia, headaches, dry skin, infusion reactions, alopecia, paresthesia, weight loss, and hyperglycemia. Other possible serious effects reported include optic neuropathy, encephalopathy, urinary retention, inflammatory bowel disease activation, and neurocognitive decline ( 72 ). Teprotumumab is contraindicated in pregnancy, and not approved for children under age 18. Selenium 
+ Selenium may improve symptoms in patients with mild thyroid eye disease, especially in regions of selenium insufficiency. One study compared selenium (100 mcg BID), pentoxifylline (600 mg BID), or placebo in 159 patients with mild TED from a region in which selenium levels are marginally decreased ( 73 ). These patients had at least one sign of mild orbitopathy (chemosis, mild-to-moderate eyelid swelling, exophthalmos ≤22 mm) and disease duration of <18 months. After 6 months of treatment, selenium (but not pentoxifylline) was associated with an improved quality of life (both visual functioning and appearance scores), less eye involvement, and slowed the progression of TED. Evaluation at 12 months confirmed the results at six months. Neither placebo nor pentoxifylline improved quality-of-life measures. 
+ It is uncertain whether selenium benefits individuals with mild thyroid eye disease who reside in selenium-sufficient regions such as the United States. 
+ Currently, the ETA/European Group on Graves’ Orbitopathy (EUGOGO) recommends 6 months of selenium supplementation in patients with mild TED of short duration since it may improve eye manifestations and quality of life and prevent TED progression to severe forms ( 74 , 75 ). Mycophenolate mofetil 
+ Mycophenolate mofetil is an immunosuppressive with relatively mild side effects, commonly used after organ transplantation. As a potent selective, noncompetitive, and reversible inhibitor of inosine-5’-monophosphate dehydrogenase, it inhibits T and B-lymphocytes proliferation and reduces immunoglobulin production. It also suppresses dendritic cell maturation, reducing its ability for antigen presentation to T lymphocytes ( 76 , 77 ). In a trial comparing mycophenolate mofetil 50 mg BID for 24 weeks with glucocorticoids 0.5 g IV daily for 3 days, followed by 60 mg oral daily for eight weeks and then tapered in 174 Chinese patients with active moderate-to-severe TED, the overall result was better with mycophenolate at 24 weeks (91.3% versus 67.9%) with concurrent improvement in 3 or more features including CAS, diplopia, proptosis, visual acuity, soft tissue swelling, or diplopia ( 78 ). Another randomized study of 164 patients with active moderate-to-severe TED treated with methylprednisolone alone versus methylprednisolone with mycophenolate showed no significant difference in the rate of response at 12 weeks or rate of relapse at 24 and 36 weeks; however, post-hoc analysis showed that addition of mycophenolate to methylprednisolone improved response to therapy at 24 weeks in patients with active and moderate-to-severe TED ( 79 ). A recent study found a favorable riskbenefit ratio for low-dose mycophenolate therapy in active moderate-to-severe TED ( 80 ). The 2021 EUGOGO Clinical Practice Guidelines recommend combined use of IVGC and mycophenolate as first line therapy for active moderate-severe TED ( 75 ). Tocilizumab 
+ Tocilizumab is a humanized monoclonal antibody against the interleukin-6 receptor. Dosing is 8 mg/kg at four monthly infusions. This agent targets interleukin (IL)-6. A randomized trial of 32 patients with moderate-to-severe corticosteroid-resistant TED randomly assigned patients to tocilizumab (8 mg/kg) or placebo, administered intravenously at weeks 0, 4, 8, and 12. Tocilizumab therapy was associated with greater improvement in CAS at 16 weeks (93.3% versus 58.8%) and improved composite ophthalmic score at 16 weeks (73.3% versus 29.4%); however, no significant differences persisted between groups at 40 weeks ( 81 ). Case reports and a small series of 9 patients (aged 40–84 years) with chronic, active, moderate-to-severe TED treated with subcutaneous tocilizumab after failing other interventions showed clinical improvement in CAS, with decreases in thyroid stimulating immunoglobulins (TSI) also observed ( 82 , 83 ). Optimal duration of treatment with tocilizumab remains undetermined. Rituximab 
+ Rituximab is a chimeric human and mouse monoclonal antibody against CD20 antigen on B-cells. Rituximab decreases thyrotropin receptor antibody (TRAb) levels and depletes B-cells in the thyroid and retroorbital tissues ( 84 ). For treatment of TED, two infusions of rituximab (1000 mg each and 2 weeks apart) have been utilized without immunosuppressive effects. 
+ Two prospective studies using rituximab for TED produced conflicting results ( 85 , 86 ), possibly related to shorter disease duration in the trial showing beneficial effects ( 85 ). Both trials reported a high rate of adverse effects from rituximab (i.e., optic neuropathy and infusion reactions). Meta-analyses suggest that intravenous rituximab has an acute and long-lasting beneficial effect on reducing both CAS and TRAb; however, the effect on proptosis is limited ( 87 – 89 ). Currently, the therapeutic role of rituximab remains uncertain. F. Surgical Approach to TED: What an Endocrinologist Needs to Know 
+ Surgery for TED is typically performed either emergently, such as for optic neuropathy, globe subluxation, or corneal thinning/perforation due to exposure keratopathy; or for rehabilitation after the disease has run its active course. 
+ Dysthyroid optic neuropathy (DON) occurring in the setting of TED is due to inflammation and congestion of the orbital apex, which compresses the blood supply of the optic nerve within the bony orbit. DON presents with insidious, progressive, typically bilateral (but asymmetric) vision loss, dyschromatopsia, and visual field deficits. DON is surgically treated with orbital decompression to relieve the pressure on the optic nerve and blood supply. This is often performed in combination with systemic intravenous corticosteroids. Orbital decompression is performed by removing bone, and sometimes orbital fat, to expand the boundaries of the orbit ( 90 ), allowing for the enlarged retroocular tissue mass to decompress from its normal confined space. The most commonly decompressed walls of the orbit are the lateral, medial, and floor. Orbital roof decompressions are performed rarely, and always with the involvement of neurosurgeons. This surgery is performed under general anesthesia and, if done emergently, requires inpatient admission for close interval evaluation. 
+ Globe subluxation occurs when the pressure inside the orbit due to tissue expansion leads to anterior displacement of the eye, usually when then equator of the globe protrudes beyond the retracted lids. This is a rare and dramatic orbital complication. Immediate treatment is vital, with digital or surgical repositioning of the globe ( 91 ). If this fails, lateral tarsorrhaphy or orbital decompression is warranted to protect the exposed ocular surface. 
+ If corneal integrity is threatened due to prolonged exposure from proptosis, eyelid retraction, lagophthalmos, or a poor Bell’s reflex, urgent surgery is also indicated. Corneal desiccation can lead to decreased vision, diminished barrier to infection, corneal thinning, and corneal perforation. If the corneal has perforated, it must be emergently repaired or patched to maintain the integrity of the globe. If the cornea is threatened, a surgical temporary tarsorrhaphy may be performed to close the lids partially or fully and decrease corneal exposure. 
+ Non-emergent surgery for TED can be considered when the disease is in the quiescent phase and no reactivation is suspected. The surgery occurs in three phases – orbital decompression, strabismus surgery, and eyelid surgery – with the potential for more than one surgery per phase. Because orbital decompression can alter globe positioning, decrease eyelid retraction, and affect extraocular motility, it should precede any strabismus or eyelid surgeries ( 92 ). 
+ TED affects extraocular muscles through inflammation and fibrosis of the muscle belly, leading to diplopia through restriction of extraocular motility. Most patients with diplopia due to strabismus will not require surgery and can be managed with prism spectacles. Strabismus surgery is reserved for patients with intractable diplopia in primary gaze or with reading, abnormal head positioning due to compensation for diplopia, or cosmetically unacceptable globe position. Due to the relationship of the vertical eye muscles with the eyelid, strabismus surgery should be performed prior to eyelid procedures. 
+ Eyelid changes due to TED are common and include upper and lower eyelid retraction and eyelid fat compartment expansion. Eyelid retraction surgery is aimed at lowering the upper eyelid and raising the lower eyelid to correct the “thyroid stare” appearance. Eyelid contouring is targeted to restore the natural height and contour of the eyelid, including decreasing the fat compartment expansion and minimizing the temporal flare which occur as part of the disease state. Eyelid surgery is typically the last step in the rehabilitation of the patient’s appearance. The total time between onset of TED to the final eyelid surgery can span several years. Table 1: 
+ Comparative Adverse Effects from MMI and PTU 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adverse side effects 
+ MMI 
+ PTU 
+ Mean onset 
+ Treatment 
+ 
+ 
+ 
+ Pruritus or minor rash 
+ 6% 
+ 3% 
+ 18–22 days of treatment 
+ Antihistamines, CS, +/− stop ATD 
+ 
+ 
+ Hepatotoxicity (cholestatic & hepatocellular) 
+ 0.4% 
+ 2.7% 
+ 28–90 days 
+ Stop ATD 
+ 
+ 
+ Liver failure 
+ 0.03% 
+ 0.05% 
+ 27–127 days 
+ Stop ATD, supportive care 
+ 
+ 
+ Agranulocytosis 
+ 0.1–0.3% 
+ 0.1–0.3% 
+ 30–90 days 
+ Stop ATD, recommend GCSF, CS, supportive care 
+ 
+ 
+ Vasculitis (p-ANCA positive) 
+ ≤0.1% 
+ ≤0.1% 
+ Weeks-months 
+ Stop ATD, CS 
+ 
+ 
+ Drug-induced lupus 
+ none 
+ Case reports only 
+ Weeks-months 
+ Stop ATD, CS 
+ 
+ 
+ Insulin autoimmune syndrome with symptomatic hypoglycemia 
+ 6.3% 
+ 0% 
+ 30–60 days 
+ Stop ATD, CS, diazoxide 
+ 
+ 
+ 
+ Open in a new tab 
+ Table 1 abbreviations: CS- corticosteroids, GCSF- granulocyte colony stimulating factor Key points: 
+ 
+ Initial ATD dosing should be individualized based on thyroid hormone levels. 
+ MMI 10–30 mg daily can be used to achieve euthyroidism followed by lower maintenance doses. 
+ PTU should be used only in the first trimester of pregnancy, thyroid storm, or when patients develop minor adverse reactions to MMI and refuse other modalities. 
+ Minor adverse effects of ATDs include rash, mild transaminase elevation, and arthralgias 
+ Rare, serious adverse effects of ATDs include agranulocytosis, vasculitis, hepatic necrosis, and liver failure 
+ Baseline complete blood count with differential and liver function profile should be obtained prior to starting ATDs. 
+ Regular clinical and biochemical evaluation of thyroid function is required in patients taking ATDs 
+ RAI is an effective and safe GD therapy which should be administered with sufficient activity to render the patient hypothyroid (greater than 150 μCi/g (5.55 MBq/g)), either in a fixed or calculated dose 
+ RAI should not be used in patients with moderate or severe TED 
+ Smoking is the most important risk factor for TED, with a risk proportional to the number of cigarettes smoked per day. 
+ TED patients who smoke cigarettes should be referred for smoking cessation 
+ General treatment of patients with TED includes (a) reversal of hyperthyroidism, (b) monitoring for and prompt treatment of hypothyroidism, and (c) cessation of smoking, if applicable. 
+ GD patients with ocular signs and symptoms should be referred early for ophthalmologic assessment and care. 
+ Treatment of TED should be initiated immediately to target the active, inflammatory phase of the disease to decrease disease severity. 
+ Teprotumumab (insulin-like growth factor 1 (IGF-1) receptor inhibitor) was approved to treat TED by the US FDA in 2020 
+ Teprotumumab is administered intravenously every 3 weeks (10 mg/kg initial dose, then 20mg/kg) for a total of 8 infusions. 
+ Other medical therapies for TED may include glucocorticoids, mycophenolate, selenium, rituximab, or tocilizumab. 
+ Surgical treatment may be required urgently in the case of compressive optic neuropathy, globe subluxation, or corneal decompensation 
+ When thyroid function and TED are stable, reconstructive ophthalmic surgery can proceed in three phases – orbital surgery, strabismus surgery, then eyelid surgery 
+ Clinical Care Points. 
+ 
+ Assess new patients with hyperthyroidism for acute severe complications including cardiac ischemia, arrhythmia, congestive heart failure, and thyroid storm 
+ Shared decision making that includes the patient and family members should be maximized when selecting primary treatment for Graves’ disease 
+ Liver associated enzymes and a complete cell count should be obtained before starting antithyroid drugs 
+ Dosing with methimazole should be individualized and based on the severity of thyrotoxicosis 
+ Patients treated with antithyroid drugs should be repeatedly apprised of warning signs for agranulocytosis, hepatotoxicity, and vasculitis 
+ Radioiodine therapy should be avoided in patients with active moderate-to-severe thyroid eye disease 
+ Patients unable to take antithyroid drugs who are not candidates for radioiodine therapy may generally be prepared for surgery with combination therapy utilizing corticosteroids, potassium iodide, beta-adrenergic blocking agents, and cholestyramine to normalize thyroid hormone levels preoperatively 
+ Thyroid eye disease should be comanaged by endocrinologists and ophthalmologists with experience managing this disorder 
+ Intravenous glucocorticoids should be considered primary initial therapy for active thyroid eye disease 
+ Teprotumumab should be considered in patients with moderate-severe thyroid eye disease with proptosis, but it should be acknowledged that the long-term durability of benefit and cost-effectiveness remain to be determined 
+ Surgical rehabilitation should be considered for stable thyroid eye disease, and includes orbital decompression to reduce proptosis and congestion, strabismus surgery to improve ocular motility, and eyelid procedures to treat fibrosis-related eyelid retraction 
+ Footnotes 
+ 
+ Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain. 
+ 
+ * The views expressed in this manuscript are those of the authors and do not reflect the official policy of the Department of the Army, Department of the Navy, the Department of Defense, the National Institutes of Health, or the United States Government. Authors are military service members or employees of the U.S. Government. This work was prepared as part of our official duties. Title 17 U.S.C. 105 provides the “Copyright protection under this title is not available for any work of the United States Government.” Title 17 U.S.C. 101 defines a U.S. Government work as a work prepared by a military service member or employee of the U.S. Government as part of that person’s official duties. We certify that all individuals who qualify as authors have been listed; each has participated in the conception and design of this work, the analysis of data (when applicable), the writing of the document, and/or the approval of the submission of this version; that the document represents valid work; that if we used information derived from another source, we obtained all necessary approvals to use it and made appropriate acknowledgments in the document; and that each takes public responsibility for it. 
+ 
+ Disclosure Summary: The authors have nothing to disclose. 
+ Bibliography 
+ 
+ 
+ 1. Frost L, Vestergaard P, Mosekilde L. Hyperthyroidism and risk of atrial fibrillation or flutter: a population-based study. Arch Intern Med. 2004;164(15):1675–8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Srisawat S, Sitasuwan T, Ungprasert P. Increased risk of venous thromboembolism among patients with hyperthyroidism: a systematic review and meta-analysis of cohort studies. Eur J Intern Med. 2019;67:65–9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Kim HJ, Kang T, Kang MJ, Ahn HS, Sohn SY. Incidence and Mortality of Myocardial Infarction and Stroke in Patients with Hyperthyroidism: A Nationwide Cohort Study in Korea. Thyroid. 2020;30(7):955–65. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Golub D, Rodack V. Antipsychotics in Hyperthyroid-Related Psychosis: Case Report and Systematic Review. Neuro Endocrinol Lett. 2018;39(1):65–74. [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Rivas AM, Thavaraputta S, Orellana-Barrios MA, Payne JD, Sotello D, Vinan-Vega M, et al. 
+Thyrotoxic Periodic Paralysis and Complicated Thyrotoxicosis, Two Presentations of Hyperthyroidism with Notable Differences in their Clinical Manifestations: An Experience from a Tertiary Care Hospital in the United States. Endocr Pract. 2020;26(7):699–706. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Warnock AL, Cooper DS, Burch HB. Life-threatening thyrotoxicosis. In: Matfin G, ed. Endocrine and Metabolic Medical Emergencies: A Clinician’s Guide, Second Edition: John Wiley & Sons, Ltd.; 2018. [ Google Scholar ] 
+ 
+ 7. Ross DS, Burch HB, Cooper DS, Greenlee MC, Laurberg P, Maia AL, et al. 
+2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis. Thyroid. 2016;26(10):1343–421. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Kahaly GJ, Diana T, Olivo PD. TSH receptor antibodies: relevance & utility. Endocr Pract. 2020;26(1):97–106. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Muldoon BT, Mai VQ, Burch HB. Management of Graves’ disease: an overview and comparison of clinical practice guidelines with actual practice trends. Endocrinol Metab Clin North Am. 2014;43(2):495–516. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Azizi F
+Long-Term Treatment of Hyperthyroidism with Antithyroid Drugs: 35 Years of Personal Clinical Experience. Thyroid. 2020;30(10):1451–7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Burch HB, Cooper DS. ANNIVERSARY REVIEW: Antithyroid drug therapy: 70 years later. Eur J Endocrinol. 2018;179(5):R261–R74. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Brito JP, Schilz S, Singh Ospina N, Rodriguez-Gutierrez R, Maraka S, Sangaralingham LR, et al. 
+Antithyroid Drugs-The Most Common Treatment for Graves’ Disease in the United States: A Nationwide Population-Based Study. Thyroid. 2016;26(8):1144–5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Burch HB, Burman KD, Cooper DS. A 2011 survey of clinical practice patterns in the management of Graves’ disease. J Clin Endocrinol Metab. 2012;97(12):4549–58. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Reinwein D, Benker G, Lazarus JH, Alexander WD. A prospective randomized trial of antithyroid drug dose in Graves’ disease therapy. European Multicenter Study Group on Antithyroid Drug Treatment. J Clin Endocrinol Metab. 1993;76(6):1516–21. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Sato S, Noh JY, Sato S, Suzuki M, Yasuda S, Matsumoto M, et al. 
+Comparison of efficacy and adverse effects between methimazole 15 mg+inorganic iodine 38 mg/day and methimazole 30 mg/day as initial therapy for Graves’ disease patients with moderate to severe hyperthyroidism. Thyroid. 2015;25(1):43–50. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Nakamura H, Miyauchi A, Miyawaki N, Imagawa J. Analysis of 754 cases of antithyroid drug-induced agranulocytosis over 30 years in Japan. J Clin Endocrinol Metab. 2013;98(12):4776–83. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Azizi F, Ataie L, Hedayati M, Mehrabi Y, Sheikholeslami F. Effect of long-term continuous methimazole treatment of hyperthyroidism: comparison with radioiodine. Eur J Endocrinol. 2005;152(5):695–701. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Elbers L, Mourits M, Wiersinga W. Outcome of very long-term treatment with antithyroid drugs in Graves’ hyperthyroidism associated with Graves’ orbitopathy. Thyroid. 2011;21(3):279–83. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Villagelin D, Romaldini JH, Santos RB, Milkos AB, Ward LS. Outcomes in Relapsed Graves’ Disease Patients Following Radioiodine or Prolonged Low Dose of Methimazole Treatment. Thyroid. 2015;25(12):1282–90. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Laurberg P, Berman DC, Andersen S, Bulow Pedersen I. Sustained control of Graves’ hyperthyroidism during long-term low-dose antithyroid drug therapy of patients with severe Graves’ orbitopathy. Thyroid. 2011;21(9):951–6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Goichot B, Raverot V, Klein M, Vija Racaru L, Abeillon-du Payrat J, Lairez O, et al. 
+Management of thyroid dysfunctions in the elderly. French Endocrine Society consensus 2019 guidelines. Short version. Ann Endocrinol (Paris). 2020;81(5):511–5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Becker DV, Sawin CT. Radioiodine and thyroid disease: the beginning. Semin Nucl Med. 1996;26(3):155–64. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Gontarz-Nowak K, Szychlińska M, Matuszewski W, Stefanowicz-Rutkowska M, Bandurska-Stankiewicz E. Current Knowledge on Graves’ Orbitopathy. J Clin Med. 2020;10(1). [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Bahn Chair RS, Burch HB, Cooper DS, Garber JR, Greenlee MC, Klein I, et al. 
+Hyperthyroidism and other causes of thyrotoxicosis: management guidelines of the American Thyroid Association and American Association of Clinical Endocrinologists. Thyroid. 2011;21(6):593–646. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Bartalena L, Marcocci C, Bogazzi F, Manetti L, Tanda ML, Dell’Unto E, et al. 
+Relation between therapy for hyperthyroidism and the course of Graves’ ophthalmopathy. N Engl J Med. 1998;338(2):73–8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Bartalena L, Baldeschi L, Dickinson A, Eckstein A, Kendall-Taylor P, Marcocci C, et al. 
+Consensus statement of the European Group on Graves’ orbitopathy (EUGOGO) on management of GO. Eur J Endocrinol. 2008;158(3):273–85. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Ariamanesh S, Ayati N, Mazloum Khorasani Z, Mousavi Z, Kiavash V, Kiamanesh Z, et al. 
+Effect of Different 131I Dose Strategies for Treatment of Hyperthyroidism on Graves’ Ophthalmopathy. Clin Nucl Med. 2020;45(7):514–8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Braga M, Walpert N, Burch HB, Solomon BL, Cooper DS. The effect of methimazole on cure rates after radioiodine treatment for Graves’ hyperthyroidism: a randomized clinical trial. Thyroid. 2002;12(2):135–9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Brito JP, Payne S, Singh Ospina N, Rodriguez-Gutierrez R, Maraka S, Sangaralingham LR, et al. 
+Patterns of Use, Efficacy, and Safety of Treatment Options for Patients with Graves’ Disease: A Nationwide Population-Based Study. Thyroid. 2020;30(3):357–64. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Sundaresh V, Brito JP, Thapa P, Bahn RS, Stan MN. Comparative Effectiveness of Treatment Choices for Graves’ Hyperthyroidism: A Historical Cohort Study. Thyroid. 2017;27(4):497–505. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Okosieme OE, Taylor PN, Dayan CM. Should radioiodine now be first line treatment for Graves’ disease?
+Thyroid Res. 2020;13:3. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Okosieme OE, Taylor PN, Evans C, Thayer D, Chai A, Khan I, et al. 
+Primary therapy of Graves’ disease and cardiovascular morbidity and mortality: a linked-record cohort study. Lancet Diabetes Endocrinol. 2019;7(4):278–87. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Träisk F, Tallstedt L, Abraham-Nordling M, Andersson T, Berg G, Calissendorff J, et al. 
+Thyroid-associated ophthalmopathy after treatment for Graves’ hyperthyroidism with antithyroid drugs or iodine-131. J Clin Endocrinol Metab. 2009;94(10):3700–7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Ponto KA, Zang S, Kahaly GJ. The tale of radioiodine and Graves’ orbitopathy. Thyroid. 2010;20(7):785–93. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Stan MN, Durski JM, Brito JP, Bhagra S, Thapa P, Bahn RS. Cohort study on radioactive iodine-induced hypothyroidism: implications for Graves’ ophthalmopathy and optimal timing for thyroid hormone assessment. Thyroid. 2013;23(5):620–5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Bartalena L, Marcocci C, Bogazzi F, Panicucci M, Lepri A, Pinchera A. Use of corticosteroids to prevent progression of Graves’ ophthalmopathy after radioiodine therapy for hyperthyroidism. N Engl J Med. 1989;321(20):1349–52. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Hall P, Berg G, Bjelkengren G, Boice JD Jr., Ericsson UB, Hallquist A, et al. 
+Cancer mortality after iodine-131 therapy for hyperthyroidism. Int J Cancer. 1992;50(6):886–90. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Metso S, Auvinen A, Huhtala H, Salmi J, Oksala H, Jaatinen P. Increased cancer incidence after radioiodine treatment for hyperthyroidism. Cancer. 2007;109(10):1972–9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Kitahara CM, Berrington de Gonzalez A, Bouville A, Brill AB, Doody MM, Melo DR, et al. 
+Association of Radioactive Iodine Treatment With Cancer Mortality in Patients With Hyperthyroidism. JAMA Intern Med. 2019;179(8):1034–42. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Goldman MB, Maloof F, Monson RR, Aschengrau A, Cooper DS, Ridgway EC. Radioactive iodine therapy and breast cancer. A follow-up study of hyperthyroid women. Am J Epidemiol. 1988;127(5):969–80. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Franklyn JA, Maisonneuve P, Sheppard M, Betteridge J, Boyle P. Cancer incidence and mortality after radioiodine treatment for hyperthyroidism: a population-based cohort study. Lancet. 1999;353(9170):2111–5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Ron E, Doody MM, Becker DV, Brill AB, Curtis RE, Goldman MB, et al. 
+Cancer mortality following treatment for adult hyperthyroidism. Cooperative Thyrotoxicosis Therapy Follow-up Study Group. Jama. 1998;280(4):347–55. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Greenspan BS, Siegel JA, Hassan A, Silberstein EB. There Is No Association of Radioactive Iodine Treatment with Cancer Mortality in Patients with Hyperthyroidism. J Nucl Med. 2019;60(11):1500–1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Kitahara CM, Preston DL, Sosa JA, Berrington de Gonzalez A. Association of Radioactive Iodine, Antithyroid Drug, and Surgical Treatments With Solid Cancer Mortality in Patients With Hyperthyroidism. JAMA Netw Open. 2020;3(7):e209660. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Elfenbein DM, Schneider DF, Havlena J, Chen H, Sippel RS. Clinical and socioeconomic factors influence treatment decisions in Graves’ disease. Ann Surg Oncol. 2015;22(4):1196–9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Sosa JA, Mehta PJ, Wang TS, Yeo HL, Roman SA. Racial disparities in clinical and economic outcomes from thyroidectomy. Ann Surg. 2007;246(6):1083–91. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Langley RW, Burch HB. Perioperative management of the thyrotoxic patient. Endocrinol Metab Clin North Am. 2003;32(2):519–34. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Baeza A, Aguayo J, Barria M, Pineda G. Rapid preoperative preparation in hyperthyroidism. Clin Endocrinol (Oxf). 1991;35(5):439–42. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Fischli S, Lucchini B, Müller W, Slahor L, Henzen C. Rapid preoperative blockage of thyroid hormone production / secretion in patients with Graves’ disease. Swiss Med Wkly. 2016;146:w14243. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Smith TJ, Hegedüs L. Graves’ Disease. N Engl J Med. 2016;375(16):1552–65. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Smith TJ, Janssen J. Insulin-like Growth Factor-I Receptor and Thyroid-Associated Ophthalmopathy. Endocr Rev. 2019;40(1):236–67. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Mourits MP, Prummel MF, Wiersinga WM, Koornneef L. Clinical activity score as a guide in the management of patients with Graves’ ophthalmopathy. Clin Endocrinol (Oxf). 1997;47(1):9–14. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Barrio-Barrio J, Sabater AL, Bonet-Farriol E, Velázquez-Villoria Á, Galofré JC. Graves’ Ophthalmopathy: VISA versus EUGOGO Classification, Assessment, and Management. J Ophthalmol. 2015;2015:249125. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Bartley GB. The epidemiologic characteristics and clinical course of ophthalmopathy associated with autoimmune thyroid disease in Olmsted County, Minnesota. Trans Am Ophthalmol Soc. 1994;92:477–588. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Laurberg P, Berman DC, Bülow Pedersen I, Andersen S, Carlé A. Incidence and clinical presentation of moderate to severe graves’ orbitopathy in a Danish population before and after iodine fortification of salt. J Clin Endocrinol Metab. 2012;97(7):2325–32. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Perros P, Crombie AL, Kendall-Taylor P. Natural history of thyroid associated ophthalmopathy. Clin Endocrinol (Oxf). 1995;42(1):45–50. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Tanda ML, Piantanida E, Liparulo L, Veronesi G, Lai A, Sassi L, et al. 
+Prevalence and natural history of Graves’ orbitopathy in a large series of patients with newly diagnosed graves’ hyperthyroidism seen at a single center. J Clin Endocrinol Metab. 2013;98(4):1443–9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Lombardi A, Menconi F, Greenberg D, Concepcion E, Leo M, Rocchi R, et al. 
+Dissecting the Genetic Susceptibility to Graves’ Disease in a Cohort of Patients of Italian Origin. Front Endocrinol (Lausanne). 2016;7:21. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Nilsson A, Tsoumani K, Planck T. Statins Decrease the Risk of Orbitopathy in Newly Diagnosed Patients with Graves Disease. J Clin Endocrinol Metab. 2021;106(5):1325–32. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Müller-Forell W, Kahaly GJ. Neuroimaging of Graves’ orbitopathy. Best Pract Res Clin Endocrinol Metab. 2012;26(3):259–71. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Gonçalves AC, Gebrim EM, Monteiro ML. Imaging studies for diagnosing Graves’ orbitopathy and dysthyroid optic neuropathy. Clinics (Sao Paulo). 2012;67(11):1327–34. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Negro R, Attanasio R, Grimaldi F, Guglielmi R, Papini E. A 2015 Italian Survey of Clinical Practice Patterns in the Management of Graves’ Disease: Comparison with European and North American Surveys. Eur Thyroid J. 2016;5(2):112–9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Khong JJ, Finch S, De Silva C, Rylander S, Craig JE, Selva D, et al. 
+Risk Factors for Graves’ Orbitopathy; the Australian Thyroid-Associated Orbitopathy Research (ATOR) Study. J Clin Endocrinol Metab. 2016;101(7):2711–20. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Krassas GE, Perros P. Prevention of thyroid associated-ophthalmopathy in children and adults: current views and management of preventable risk factors. Pediatr Endocrinol Rev. 2007;4(3):218–24. [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Marcocci C, Kahaly GJ, Krassas GE, Bartalena L, Prummel M, Stahl M, et al. 
+Selenium and the course of mild Graves’ orbitopathy. N Engl J Med. 2011;364(20):1920–31. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Kahaly GJ, Pitz S, Hommel G, Dittmar M. Randomized, single blind trial of intravenous versus oral steroid monotherapy in Graves’ orbitopathy. J Clin Endocrinol Metab. 2005;90(9):5234–40. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Bartalena L, Krassas GE, Wiersinga W, Marcocci C, Salvi M, Daumerie C, et al. 
+Efficacy and safety of three different cumulative doses of intravenous methylprednisolone for moderate to severe and active Graves’ orbitopathy. J Clin Endocrinol Metab. 2012;97(12):4454–63. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Weissel M, Hauff W. Fatal liver failure after high-dose glucocorticoid pulse therapy in a patient with severe thyroid eye disease. Thyroid. 2000;10(6):521. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Marcocci C, Watt T, Altea MA, Rasmussen AK, Feldt-Rasmussen U, Orgiazzi J, et al. 
+Fatal and non-fatal adverse events of glucocorticoid therapy for Graves’ orbitopathy: a questionnaire survey among members of the European Thyroid Association. Eur J Endocrinol. 2012;166(2):247–53. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Douglas RS, Kahaly GJ, Patel A, Sile S, Thompson EHZ, Perdok R, et al. 
+Teprotumumab for the Treatment of Active Thyroid Eye Disease. N Engl J Med. 2020;382(4):341–52. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Smith TJ, Kahaly GJ, Ezra DG, Fleming JC, Dailey RA, Tang RA, et al. 
+Teprotumumab for Thyroid-Associated Ophthalmopathy. N Engl J Med. 2017;376(18):1748–61. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Hoang TD, Nguyen NT, Chou E, Shakir MK. Rapidly progressive cognitive decline associated with teprotumumab in thyroid eye disease. BMJ Case Rep. 2021;14(5). [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Marcocci C, Kahaly GJ, Krassas GE, Bartalena L, Prummel M, Stahl M, et al. 
+Selenium and the course of mild Graves’ orbitopathy. N Engl J Med. 2011;364(20):1920–31. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Bednarczuk T, Schomburg L. Challenges and perspectives of selenium supplementation in Graves’ disease and orbitopathy. Hormones (Athens). 2020;19(1):31–9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Bartalena L, Kahaly GJ, Baldeschi L, Dayan CM, Eckstein A, Marcocci C, et al. 
+The 2021 European Group on Graves’ orbitopathy (EUGOGO) clinical practice guidelines for the medical management of Graves’ orbitopathy. Eur J Endocrinol. 2021;185(4):G43–G67. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Riedl M, Kuhn A, Krämer I, Kolbe E, Kahaly GJ. Prospective, systematically recorded mycophenolate safety data in Graves’ orbitopathy. J Endocrinol Invest. 2016;39(6):687–94. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Villarroel MC, Hidalgo M, Jimeno A. Mycophenolate mofetil: An update. Drugs Today (Barc). 2009;45(7):521–32. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Ye X, Bo X, Hu X, Cui H, Lu B, Shao J, et al. 
+Efficacy and safety of mycophenolate mofetil in patients with active moderate-to-severe Graves’ orbitopathy. Clin Endocrinol (Oxf). 2017;86(2):247–55. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Kahaly GJ, Riedl M, Konig J, Pitz S, Ponto K, Diana T, et al. 
+Mycophenolate plus methylprednisolone versus methylprednisolone alone in active, moderate-to-severe Graves’ orbitopathy (MINGO): a randomised, observer-masked, multicentre trial. Lancet Diabetes Endocrinol. 2018;6(4):287–98. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Lee ACH, Riedl M, Frommer L, Diana T, Kahaly GJ. Systemic safety analysis of mycophenolate in Graves’ orbitopathy. J Endocrinol Invest. 2020;43(6):767–77. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Perez-Moreiras JV, Gomez-Reino JJ, Maneiro JR, Perez-Pampin E, Romo Lopez A, Rodriguez Alvarez FM, et al. 
+Efficacy of Tocilizumab in Patients With Moderate-to-Severe Corticosteroid-Resistant Graves Orbitopathy: A Randomized Clinical Trial. Am J Ophthalmol. 2018;195:181–90. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Copperman T, Idowu OO, Kersten RC, Vagefi MR. Subcutaneous Tocilizumab for Thyroid Eye Disease: Simplified Dosing and Delivery. Ophthalmic Plast Reconstr Surg. 2019;35(3):e64–e6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Silkiss RZ, Paap MK, Roelofs KA, Agi J, Weis E. Treatment of corticosteroid-resistant thyroid eye disease with subcutaneous tocilizumab. Can J Ophthalmol. 2021;56(1):66–70. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Salvi M, Vannucchi G, Campi I, Currò N, Simonetta S, Covelli D, et al. 
+Rituximab treatment in a patient with severe thyroid-associated ophthalmopathy: effects on orbital lymphocytic infiltrates. Clin Immunol. 2009;131(2):360–5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Salvi M, Vannucchi G, Currò N, Campi I, Covelli D, Dazzi D, et al. 
+Efficacy of B-cell targeted therapy with rituximab in patients with active moderate to severe Graves’ orbitopathy: a randomized controlled study. J Clin Endocrinol Metab. 2015;100(2):422–31. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Stan MN, Garrity JA, Carranza Leon BG, Prabin T, Bradley EA, Bahn RS. Randomized controlled trial of rituximab in patients with Graves’ orbitopathy. J Clin Endocrinol Metab. 2015;100(2):432–41. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Chen J, Chen G, Sun H. Intravenous rituximab therapy for active Graves’ ophthalmopathy: a meta-analysis. Hormones (Athens). 2021;20(2):279–86. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Shen WC, Lee CH, Loh EW, Hsieh AT, Chen L, Tam KW. Efficacy and Safety of Rituximab for the Treatment of Graves’ Orbitopathy: A Meta-analysis of Randomized Controlled Trials. Pharmacotherapy. 2018;38(5):503–10. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Wang C, Ning Q, Jin K, Xie J, Ye J. Does rituximab improve clinical outcomes of patients with thyroid-associated ophthalmopathy? A systematic review and meta-analysis. BMC Ophthalmol. 2018;18(1):46. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Jefferis JM, Jones RK, Currie ZI, Tan JH, Salvi SM. Orbital decompression for thyroid eye disease: methods, outcomes, and complications. Eye (Lond). 2018;32(3):626–36. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. Tse DT. A simple maneuver to reposit a subluxed globe. Arch Ophthalmol. 2000;118(3):410–1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. Chang EL, Bernardino CR, Rubin PA. Normalization of upper eyelid height and contour after bony decompression in thyroid-related ophthalmopathy: a digital image analysis. Arch Ophthalmol. 2004;122(12):1882–5. [ DOI ] [ PubMed ] [ Google Scholar ]

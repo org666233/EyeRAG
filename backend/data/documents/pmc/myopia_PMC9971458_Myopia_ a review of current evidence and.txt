@@ -1,0 +1,467 @@
+Source: PubMed Central (PMC)
+PMCID: PMC9971458
+Title: Myopia: a review of current evidence and treatment strategies
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9971458/
+Year: 2023
+Disease: myopia
+Priority: 2
+============================================================
+
+Asian Pac J Cancer Prev . 2022 Dec;23(12):4137–4143. doi: 10.31557/APJCP.2022.23.12.4137 
+ 
+ 
+ Expressions of Progesterone Receptor of Orbital Meningiomas in Indonesia 
+ Raudatul Janah 
+ Raudatul Janah 
+ 
+ 1 
+ Doctoral Degree of Biological Science Programme, Faculty of Biology, Universitas Jenderal Soedirman Purwokerto, Indonesia. 
+ 
+ 
+ 2 
+ Department of Anatomical Pathology PMN Cicendo Eye Hospital Bandung, Indonesia. 
+ 
+ Find articles by Raudatul Janah 
+ 
+ 
+ 1, 2, * , Lantip Rujito 
+ Lantip Rujito 
+ 
+ 3 
+ Department of Biology and Molecular, Faculty of Medicine, Universitas Jenderal Soedirman Purwokerto, Indonesia. 
+ 
+ Find articles by Lantip Rujito 
+ 
+ 
+ 3 , Daniel Joko Wahyono 
+ Daniel Joko Wahyono 
+ 
+ 4 
+ Department of Genetics and Molecular Biology, Faculty of Biology, Universitas Jenderal Sudirman, Purwokerto, Indonesia. 
+ 
+ Find articles by Daniel Joko Wahyono 
+ 
+ 
+ 4 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 
+ Doctoral Degree of Biological Science Programme, Faculty of Biology, Universitas Jenderal Soedirman Purwokerto, Indonesia. 
+ 
+ 
+ 2 
+ Department of Anatomical Pathology PMN Cicendo Eye Hospital Bandung, Indonesia. 
+ 
+ 
+ 3 
+ Department of Biology and Molecular, Faculty of Medicine, Universitas Jenderal Soedirman Purwokerto, Indonesia. 
+ 
+ 
+ 4 
+ Department of Genetics and Molecular Biology, Faculty of Biology, Universitas Jenderal Sudirman, Purwokerto, Indonesia. 
+ 
+ 
+ * 
+For Correspondence: raudatul.janah@mhs.unsoed.ac.id 
+ 
+ 
+ Received 2022 Jun 11; Accepted 2022 Dec 19. 
+ 
+ This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.( https://creativecommons.org/licenses/by-nc/4.0/ ) 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC9971458  PMID: 36579995 
+ 
+ Abstract 
+ Objective: 
+ Visual disturbances that can heal after a complete resection of orbital meningiomas are only about 2.9%. Grading and expression of the progesterone receptor (PR) in orbital meningiomas, according to World Health Organization (WHO) is a useful predictive value of recurrence in the treatment management of orbital meningiomas. This study aims to determine the relationship of PR expression on the grading of orbital meningiomas as tumour prognostic factors. Methods: 
+ This cross-sectional observational analysis observed 44 orbital meningioma in Cicendo Eye Hospital Bandung and Hasan Sadikin Hospital between 2017-2020. We performed of mRNA PR with RT-qPCR technique and calculation with the 2 ∆∆Ct formula. Statistical analysis used the Kruskal-Wallis Test, followed by the Mann-Whitney post hoc test with p<0.005. Results: 
+ Relative expression of mRNA PR in meningioma orbita grade I to grade III decreased significantly the expression of relative mRNA PR at grade I, II, III of 21.69±44.35, 20.39±26.30 and 1.25±0.85, with Kruskal-Wallis test, p =0.007. Mann Whitney’s test results showed relative mRNA PR expression between grades I and II not different (p = 0.055), relative expression mRNA PR between grades I and III differed significantly (p = 0.024), and relative expression mRNA PR between grades I and III was not different (p = 0.638). Conclusion: 
+ mRNA PR expression is viable for prognostic value, predicting recurrence and implementing more effective management of subsequent therapy, it must be combined with other markers to determine the nature of the orbital meningioma. Key Words: Orbital meningioma, grading, mRNA PR Introduction 
+ Orbital meningiomas are meningiomas that, based on their anatomical origin and location, are divided into primary optic nerve sheath (ON) meningioma, primary intraorbital ectopic (Ob) meningioma, and extension of the secondary intracranial sphenoid wing (Sph-Ob) lesion (Ho et al., 2015). The incidence of orbital meningiomas comprises only 3-9% of all orbital tumors. While 0.4-2% of all intracranial meningiomas are primary orbital meningiomas, secondary orbital meningiomas are more common and referred to as the intracranial sphenoid wing (Sph-Ob). The clinical picture of primary intraorbital meningioma (primary optic nerve sheath meningioma) is generally with loss of vision without pain, whereas secondary orbital meningioma (intracranial sphenoid wing meningioma) is usually accompanied by a protruding proptosis due to the effect of space compression by the tumor mass (Jain et al., 2010). Only 2.9% of post-surgery orbital meningioma patients with complaints of visual disturbances gain their vision back. Even after complete resection, recurrence is common and estimated to occur in 10%-32% of cases (Okunade, 2018). The possible role of steroid hormones and progesterone receptors (from now on referred to as progesterone receptor/PR) in meningiomas has not been conclusive regarding their function on the development and risk of meningioma recurrence (Cea-Soriano et al., 2012; Claus et al., 2013). Genes that express PR are found in 11q22-q23. Progesterone receptor status is associated with gene mutations on the long arm chromosome 22. A higher loss of 22q occurs in meningiomas with PR(-) expression (Claus et al., 2008), which may initiate the development or tumorigenesis of meningioma (Kim et al., 2017). Progesterone receptors are normally present in leptomeningeal adults but are expressed only in low levels (Korhonen et al., 2012). Progesterone receptors expressed in most meningioma tissues are about 60.3% (Trott et al., 2015; Ongaratti et al., 2016). Several pathways that include several genes for PR expression are known to be involved in the production of collagen and extracellular matrix (Riemenschneider, Perry and Reifenberger, 2006). Extracellular matrix and collagen are present differently in types of meningiomas: high collagen in fibrous meningiomas, moderate collagen in transitional type, and low collagen in meningothelial (Claus et al., 2008). Progesterone receptors have nuclear receptors binding to DNA at specific sites that regulate gene transcription. When the progesterone receptor has been activated, it will compose and stabilize the preinitiation complex by interacting with coactivator proteins. The preinitiation complex will conduct the transcription of these genes, which, when activated, will increase cell proliferation (Korhonen et al., 2012). The mechanism of the progesterone receptor indirectly inactivates the NF2 gene that acts as a tumor suppressor gene through interaction with IL−1β. Still, other findings mentioned that progesterone could inhibit the production of pro-inflammatory cytokines, such as IL−1β (Butts et al., 2007; Johnson et al., 2011; Garcia-Ruíz et al., 2015; A. et al., 2017; Garcia et al., 2018). The potential capacity of progesterone receptors as the prognostic and recurrence indicator of meningiomas is related to the loss of PR that causes a higher MIB-1//Ki67 (Tahir et al., 2019). Evaluating this parameter is useful to determine the follow-up frequency and aggressiveness of meningioma treatment at the time of diagnosis (Okunade, 2018). This study aims to determine the relationship of PR expression on orbital meningioma grading, which can be of prognostic significance. Material and Methods 
+ 
+ Study Design and Population 
+ 
+ This research is an observational analysis in the form of a cross-sectional study harnessing secondary data from medical records of patients with confirmed orbital meningioma either clinically, radiologically, or histopathologically at PMN Cicendo Eye Hospital and Hasan Sadikin Hospital, Bandung. The primary data were the results of subtype evaluation and grading of orbital meningioma without changing the existing diagnosis by an anatomical pathologist specialist using a microscope at the Anatomical Pathology Laboratory of the PMN Cicendo Eye Hospital in Bandung from 2017 to 2020, selecting 44 samples of the entire medical records which met the inclusion criteria in the secondary and primary data. 
+ 
+ Assessment of Expression of Progesterone Receptors mRNA 
+ 
+ Exactly 44 samples were obtained and examined for PR expression using quantitative polymerase chain reaction (q-PCR) by cutting the paraffin block of orbital meningioma with a thickness of 4µm. Quantitative PCR examination was performed to determine PR expression after RNA extraction, and then cDNA amplification was performed for cDNA quantification with primer set GAPDH forward: 5′-GCA TCC TGG GCT ACA CTG AG-3′; GAPDH reverse: 5′-TCC ACC ACC CTG TTG CTG TA-3′, PR forward: 5′-AGC TCA TCA AGG CAA TTG GTT T-3′; PR reverse: 5′-ACA AGA TCA TGC AAG TTA TCA AGA AGT T-3′). We performed a real-time expression examination of mRNA PR with RT-qPCR technique and calculation with the 2∆∆Ct formula. 
+ 
+ Statistical Analysis 
+ 
+ The data were subjected to Kruskal-Wallis test followed by post hoc Mann-Whitney test (p<0.05). Results 
+ We divided orbital meningiomas based on the distribution of age, gender, history hormonal contraseptive, recurrence, orbital meningioma grade, orbital meningioma subtype, and PR expression. The total respondents in this study were 44 patients. All patients were categorized into WHO’s three groups of histopathological grading and subtype of orbital meningioma (2016), namely Grade I, II, and III. In this study, 59.1% of patients (26) were in Grade I (25 female and one male), 25% (11) in Grade II (10 female and one male), and 15.9% (7) in Grade 3 (five female and two female). Orbital meningioma was more prevalent among female patients, affecting 40 out of 44 people or 90.9%. The complete clinical characteristics of the samples were described in Table 1 . 
+ Table 1. 
+ Clinical Characteristics of the Study Population 
+ 
+ 
+ Characteristics 
+ Grade I 
+ Grade II 
+ Grade III 
+ P value 
+ 
+ 
+ 
+ Age years old 
+ 43,66±13,98 
+ 44,82±9,29 
+ 45,86±113,08 
+ 0.06 
+ 
+ 
+ Rerata±SD 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gender (n,%) 
+ 
+ 
+ 
+ 0.082 
+ 
+ 
+ Male 
+ 1 (2,3%) 
+ 1 (2,3%) 
+ 2 (4,5%) 
+ 
+ 
+ 
+ Female 
+ 25 (56,8%) 
+ 10 (22,7%) 
+ 5 (11,4%) 
+ 
+ 
+ 
+ Total (n=44) 
+ 26 (59,1%) 
+ 11 (25%) 
+ 7 (15,4%) 
+ 
+ 
+ 
+ Hormonal Contraseptive (n,%) 
+ 
+ 
+ 
+ 0.866 
+ 
+ 
+ Yes 
+ 18 (40,91%) 
+ 10 (22,7%) 
+ 4 (9,1%) 
+ 
+ 
+ 
+ No 
+ 8 (18,19%) 
+ 1 (2,3%) 
+ 3 (6,8%) 
+ 
+ 
+ 
+ Total (n=44) 
+ 26(59,1%) 
+ 11(25%) 
+ 7 (15,9%) 
+ 
+ 
+ 
+ Recurrence (n,%) 
+ 
+ 
+ 
+ 0.541 
+ 
+ 
+ Yes 
+ 4 (9,1%) 
+ 11 (25%) 
+ 1 (2,3%) 
+ 
+ 
+ 
+ No 
+ 22 (50%) 
+ 0 (0%) 
+ 6 (13,6%) 
+ 
+ 
+ 
+ Total (n=44) 
+ 26 (59,1%) 
+ 11 (25%) 
+ 7 (15,9%) 
+ 
+ 
+ 
+ 
+ Open in a new tab 
+ Table 1 , The results of the analysis of Mann Whitney showed statistically with Mann Whitney significant (p < 0.05) no differences in age, gender, hormonal contraceptive, and recurrence between the groups of grade I meningioma, grade II meningioma, and grade III meningioma. 
+ 
+ Table 2 shows that the most prevalent histopathological subtypes in grade I is 14 cases meningothelial meningioma (31.8%) followed by four cases of transitional meningioma (9.1%), whereas in grade II is nine cases of atypical meningioma in nine patients (20.5%), and grade III is three (6.8%) anaplastic meningioma. 
+ Table 2. 
+ Histopathological Subtype of Orbital Meningioma 
+ 
+ 
+ No 
+ Subtype of Meningioma Orbita 
+ Total =44 (100%) 
+ P 
+ 
+ 
+ 
+ Grade I 
+ Meningothelial meningioma 
+ 14 (31,8%) 
+ 0.00 
+ 
+ 
+ 
+ Fibrous meningioma 
+ 2 (4,5%) 
+ 
+ 
+ 
+ 
+ Transitional meningioma 
+ 4 (9,1%) 
+ 
+ 
+ 
+ 
+ Psamomatous meningioma 
+ 2 (4,5%) 
+ 
+ 
+ 
+ 
+ Angiomatous meningioma 
+ 2 (4,5%) 
+ 
+ 
+ 
+ 
+ Mycrocystic meningioma 
+ 2 (4,5%) 
+ 
+ 
+ 
+ 
+ Total 
+ 26 (59,1%) 
+ 
+ 
+ 
+ Grade II 
+ Atypical meningioma 
+ 9 (20,5%) 
+ 
+ 
+ 
+ 
+ Clear cell meningioma 
+ 1 (2,3%) 
+ 
+ 
+ 
+ 
+ Chordoid meningioma 
+ 1 (2,3%) 
+ 
+ 
+ 
+ 
+ Total 
+ 11 (25 %) 
+ 
+ 
+ 
+ Grade III 
+ Rhabdoid meningioma 
+ 2 (4,5%) 
+ 
+ 
+ 
+ 
+ Papillary meningioma 
+ 2 (4,5%) 
+ 
+ 
+ 
+ 
+ Anaplastic meningioma 
+ 3 (6,8%) 
+ 
+ 
+ 
+ 
+ Total 
+ 7 (15,9 %) 
+ 
+ 
+ 
+ 
+ Open in a new tab 
+ Mann-Whitney p<0,05 
+ Table 3 , shows a decreased mRNA PR expression in orbital meningiomas from grade I, to II, and III, i.e., 21.69±44.35, 20.39±26.30, and 1.25±0.85, respectively. The Kruskal Wallis test indicated p= 0.007, which means p<0.05 so there was at least one difference in PR expression between two groups of orbital meningioma grades. A post hoc analysis (Mann Whitney) was carried out to identify the difference and the interpreted test results showed no statistical differences in mRNA PR expression between grade I and Grade II (p=0.055) and between grade II and grade III (p = 0.638). However statistically different PR expression was observed between grade I and grade III groups (p = 0.024). 
+ Table 3. 
+ PR Expression 
+ 
+ 
+ Grading meningioma orbita 
+ (n) 
+ Expression mRNA PR 
+ p value 
+ 
+ 
+ 
+ Grade I 
+ (26) 
+ 21.69±44,35 
+ 0.007 
+ 
+ 
+ Grade II 
+ (11) 
+ 20.39±26,30 
+ 
+ 
+ 
+ Grade III 
+ (7) 
+ 1.25±0,85 
+ 
+ 
+ 
+ 
+ Open in a new tab 
+ Kruskal-Wallis test, Mann-Whitney post hoc test: Grade I vs Grade II p = 0.055; Grade I vs Grade III p = 0.024; while Grade II vs Grade III p = 0.638. The data is presented in the mean and standard deviation because the data is normally distributed Discussion 
+ In the present study, orbital meningiomas are more prevalent among women, i.e., 40 patients (90.9%), with 25 patients (56,8%) in grade I, 10 patients (22,7%) in grade II, and 5 patiens (11,4%) in grade III, confirming previous research (Lassie and Supartoto, 2016; Supartoto et al., 2016; Okunade, 2018; Supartoto et al., 2019; Poniman et al., 2020) and other findings that female meningioma patients constituted 68% of India and 71% in Surabaya, Indonesia (Desai and Patel, 2016; Damayanti et al., 2021). The etiology of meningiomas is associated with gender differences in which grade I meningiomas are higher in women than men, but the trend reverses in grades II and III (Louis et al., 2016; Damayanti and Rahmawati, 2020; Poniman et al., 2020). While progesterone, estrogen, and androgen hormones increase at puberty, progesterone is the most influential one on the increased incidence of orbital meningiomas in postpubertal women. Meanwhile, Hormones hPL and prolactin stimulate the spread of tumor cells while FSH, LH, and hCG suppress tumor growth (Wiemels et al., 2010; Hortobágyi et al., 2016, 2017). A study in Nigeria reported the 30s as the peak age of meningioma incidence (Okunade, 2018). We found that it occurred at the age of 43,66±13,98 years in grade I, 44,82±9,29 in grade II, and 45,86±113,08 in grade III, which is in accordance with data from referral hospitals in Indonesia for meningioma incidence showed a prevalence between the age of 40-50 years (Lassie and Supartoto, 2016; Wahyuhadi et al., 2018). The risk of developing meningiomas increases with age. Although both age and gender are significantly associated with meningioma incidence, we found no significant differences in the distribution of grade I, II, and III meningiomas nor in PR expression. Therefore, the present study has supported the general etiology of idiopathic and sporadic meningiomas rather than hormonal ones (Louis et al., 2016; Damayanti et al., 2021). It was in line with Mukhopadhyay et al., who reported no relationship between age and meningioma grading (Mukhopadhyay et al., 2017), and Roser et al., that found no relationship between gender and age with PR expression (Roser et al., 2004). Furthermore, we found the most common orbital meningioma was in grade I (59.1%) with meningothelial subtypes (31.8%). It is in accordance with research at RSUD Dr. Soetomo (97%) and in Finland, where 407 of 443 (92%) of the patients suffered from meningioma grade I (Korhonen et al., 2012; Wahyuhadi et al., 2018). This is consistent with the nature of meningiomas – slow-growing and generally benign neoplasms – so the incidence of grade I meningiomas is more prevalent than Grade II and III, in which meningothelial and transitional subtypes are the most common in orbital meningiomas, which have the same histological appearance as meningiomas in general (Louis et al., 2016). 
+ Limited information available from regular histopathological tests in predicting the behavior of meningiomas has encouraged various additional studies, including q-PCR, cytogenetic and immunohistochemical examinations. Sex hormones are perceived to be involved in the incidence of meningiomas, including increased tumor growth during pregnancy and changes in size during menstruation (Comminset al., 2007). In addition, while observational data show that menopause and ovariectomy are protective factors for the development of meningiomas, steatosis is positively associated with this disease (Wahab and Al-Azzawi, 2003). The perceived important mechanism in tumorigenesis and meningioma growth is hormonal stimulation. Meningiomas generally express various hormone receptors, but the most important appears to be the progesterone receptor (PR). Progesterone plays vital roles in regulating reproduction and other tissues, such as the cardiovascular system, bone, and central nervous system (Scarpin et al., 2009). In the central nervous system, progesterone is one of the neurosteroids with multiple essential functions. In addition, progesterone is an indirect precursor of cortisol that contributes to stress response and has an anti-inflammatory effect (Santarius et al., 2014). Progesterone is usually expressed in non-neoplastic meningothelial cells in small numbers, which then increases with cell proliferation, as in meningiomas. It decreases when there is a change in cell differentiation (Okunade, 2018). However, this progesterone expression is not influenced by estrogen as in the reproductive organs (Mukhopadhyay et al., 2017; Shanthi et al., 2017). Meningothelial cells, especially the arachnoid granulation margins or arachnoid cap cells, promote the absorption of cerebrospinal fluid into the dural sinuses. The role of PR in regulating fluid transport is unclear. Still, there are some indications of steroid hormone contribution, particularly glucocorticoid dexamethasone, reportedly increasing the cerebrospinal fluid uptake into the sagittal sinus. In addition, the metabolites of progesterone and the mineralocorticoid deoxycorticosterone have been reported to modulate the function of receptor-operated chloride channels in the nervous system as part of fluid and ion transport (Okunade, 2018). The normal adult meninges express low progesterone receptors, and most meningiomas express progesterone receptors. A decrease in progesterone receptor expression from low to high grade has been reported, and meningiomas with negative progesterone receptor expression are more aggressive than positive ones. Meningiomas that transformed from benign to atypical showed decreased progesterone receptor expression than de novo atypical meningiomas. Meningioma meningothelial subtype has more progesterone receptor expression than the transitional and fibrous subtypes. Meanwhile, several studies have reported higher progesterone receptor expression in women than men. A recent study examining gene expression for meningiomas found evidence of overexpression of several genes located on the long arm of chromosome 22 for progesterone receptor-positive cases compared with progesterone receptor-negative cases (Supartoto et al., 2019a; Supartoto et al., 2019b). Furthermore, the relationship between progesterone receptor status and regulation of chromosome 22q suggests a hormonal role in meningioma tumorigenesis (Omulecka et al., 2006; Supartoto, Mahayana, et al., 2019; Supartoto, Sasongko, et al., 2019). 
+ We found a downward trend of mRNA PR expression from grade I to II and III of orbital meningiomas decreased, from 21.69±44.35 to 20.39±26.30 and 1.25±0.85, respectively. PR expression in meningiomas is inversely proportional to grading and exhibits a prognostic role in meningiomas’ histopathology (Perry et al., 2000). Positive PR expression in a range of 50-90% was observed in grade I, whereas loss of PR expression was present in both grade II (up to 60-80%) and grade III (80-90%), even to negative expression (Poniman et al., 2020). This finding is consistent with another study in Nigeria that PR expression scores decreased as grading increased, i.e., PR expression scores of grade I are higher than that of grade II and III, and grade II is higher than III (Okunade, 2018). The results of this study demonstrated differences in PR expression of each grade of orbital meningioma (p=0.07) and statistical differences in PR expression between grade I and grade III (p = 0.024). These findings confirmed a decreased progesterone expression in atypical and anaplastic meningiomas compared to benign meningiomas. Similarly, Bouillot reported a relationship between PR expression and meningioma grade and revealed a significant association where PR expression was about 78% benign, 52% atypical, and 23% in anaplastic. Additionally, this study reflects that of Hsu, where PR expression decreased in anaplastic meningiomas but remained the same in atypical and benign meningiomas. We found no difference in PR expression in grade I and Grade II (p = 0.055) and in grade II and III ( p = 0.638), and the immunoreactivity of this PR can be used as a prognostic factor for meningioma. Different results indicate less uniform assessment criteria that are probably due to differences in antibodies and laboratory techniques (Hsu, Efird and Hedley-Whyte, 1997). Multiple studies have shown that most meningiomas express hormone receptors on cell membranes with different degrees of variation. Progesterone receptor positivity is significant in benign meningiomas, has a low recurrence rate, and is associated with a better prognosis. While evidence of PR functional roles was obtained from laboratory analysis of in vivo studies in mice implanted with human meningiomas and treated with the anti-progestin RU-486, results from clinical studies remain uncertain. It’s thought to be owing to a higher rate of tumor cell mitosis in the lack of progesterone receptors, as well as enhanced angiogenesis (Claus et al., 2008; Marosi et al., 2008). Normal meningeal tissue (arachnoid cells) also express progesterone receptors at a lower frequency than meningioma tissue. The neoplastic histology of well-differentiated meningiomas in the meningioma subtype has much in common with normal arachnoid cells. Not surprisingly, the highest progesterone receptor expression was found in the meningeal subtype (Wolfsberger et al., 2004; Lassie and Supartoto, 2016). Benign meningiomas with recurrence and without recurrence equally expressed PR, thus slightly supporting the prognostic role of meningiomas using PR immunohistochemistry. Although not statistically significant, we discovered a trend of higher survival in atypical meningiomas with PR positive, which could be attributed to the relative frequency of atypical meningioma immunophenotype and low mortality in this meningioma subtype. Accordingly, the greatest clinical potential in meningiomas diagnosis is that PR immunostatus can help differentiate grade I and grade II meningiomas. Hence, PR expression supports the diagnosis of benign or grade I meningiomas. The histopathological appearance of meningiomas is an important predictor of tumor behavior and often a factor in treatment decisions. Approximately 80% of all meningiomas are slow-growing tumors classified as Grade I. The expression of progesterone receptors in the meningothelial and other subtypes of the same grade (benign) has a similar prognostic rate (Riemenschneider, Perry and Reifenberger, 2006; Lassie and Supartoto, 2016). 
+ In Indonesia, the main management of orbital meningioma is resection, and total resection has a higher survival rate than the other managements. Surgery remains the standard treatment for meningiomas, with the main goal to completely remove the tumor mass (Lee et al., 2017). Surgery alone may not be enough in some cases, such as old age, medical problems, inaccessible tumors, incomplete resection, and recurrence. In these cases, if the progesterone receptor test is positive, hormonal control may be preferred in addition to radiotherapy. Mifepristone is an anti-progesterone that has been studied in patients with unresectable meningiomas. Clinically significant tumor regression has been reported in premenopausal male and female patients (Wolfsberger et al., 2004; Grunberg et al., 2006). Patients with the highest progesterone receptor index will benefit most from antiprogesterone therapy that acts directly on the progesterone receptor. In vitro and in vivo studies on the antiprogesterone single-agent mifepristone (RU-486) have shown to inhibit the growth of meningioma cell lines and reduce the size of meningiomas implanted into mice. The presence of PR may suggest the use of antiprogesterone agents as adjunctive medical therapy for patients with meningiomas (Khalid, 1994). 
+ PR expression status in meningiomas may achieve greater clinical relevance in the future if a significant correlation is found between PR expression and response to anti-progesterone therapy. To put it another way, antiprogesterone, such as RU-486, is a viable therapy option for meningioma (Perry et al., 2000). Genetic differences in the initiation or development pathways are more and less likely to include loss or deletion of the long arm of chromosome 22 as an important step and which may be clinically demonstrated by measures of PR status. While significantly different PR expression was associated with collagen and extracellular matrix production, fibrous meningiomas produced more collagen, transitional meningiomas produced moderate collagen, and the meningothelial type produced the least amount of extracellular collagen and matrix. This gene pathway is associated with PR overexpression and with meningioma development, so further studies need to investigate whether anti-progesterone, in some cases, can be used to block collagen gene activity and possibly tumor growth in meningiomas (Olar et al., 2017, 2018). Progesterone receptor expression was perceived higher, although no significant difference in benign meningiomas than in atypical and malignant ones. Omulecka’s 2006 study on the association of progesterone receptor expression with several types of meningiomas showed that progesterone receptors were found 100% in meningothelial, 95.2% in transitional, 77.8% in atypical, and 42.2% in fibrous. If meningioma loses progesterone receptor expression during transformation to a higher grade, antiprogesterone will be useful to treat atypical and malignant meningiomas (Omulecka et al., 2006; Shayanfar et al., 2010; Fakhrjouet al., 2012; Zador et al., 2020). 
+ Meningiomas can cause complications and death. In our study there was no significant relationship between recurrence and grading of orbital meningioma. This recurrence is associated with angiogenesis that occurs in meningiomas. where semaphorin can be a major factor that plays a role in the development of the nervous system during the embryogenic period. Furthermore, they were found to play several roles in cell migration, immune response, tumor development and angiogenesis (Sotoodeh et al., 2019; Lee et al., 2017). Further investigation could focus on the risk factors of meningiomas for better early detection and prevention of their occurrence to avoid invasive management (Lee et al., 2017). In a recent study by Supartoto et al. the longer the exposure to exogenous progesterone injection, the lower the PR and NF2 mRNA expression in the serum, resulting in an increased risk of women suffering from orbitocranial meningiomas. Low PR expression increases the production of proinflammatory cytokines, such as IL-1β. Increased levels of IL-1β can further trigger NF2 inactivation followed by low merlin activity, resulting in accelerated cell growth and meningioma development. This suggests that low serum PR expression and NF2 inactivation have an important role in the tumorigenesis of progesterone-associated meningiomas, and therefore, may be potential clinical markers for women at higher risk of meningiomas (Butts et al., 2007; Garcia-Ruíz et al., 2015; Supartoto et al., 2019; Supartoto et al., 2019). In conclusion, we recommend that PR be conducted routinely on all cases of meningioma submitted for histopathologic evaluation, such as may aid in the diagnosis of orbital meningiomas of grades I, II, and III, which is the minimum diagnostic criteria with WHO 2016. mRNA PR expression is viable for prognostic value, predicting recurrence, and implementing more effective management of subsequent therapy. Still, it must be combined with other markers to determine the nature of the orbital meningioma. Author Contribution Statement 
+ Raudatul Janah devised the project, the main conceptual ideas, proof outline and drafted the manuscript. Lantip Rujito and Daniel Joko Wahyono reviewed the manuscript. Acknowledgments 
+ This study protocol was approved by the Central General Hospital Research Ethics Commission. Hasan Sadikin Bandung by the registration number: LB.02.01/X.6.5/201/2001. This research is part of an approved student dissertation, and This study was not supported financially by any funding agencies from the public, private and nonprofit sectors. Thus, there is no funding statement to declare. The authors declare no conflicts of interest. The authors contributed equally to the research. 
+ Highlights 
+ 1. Only around 2.9 percent of visual problems recover after a full resection of orbital meningiomas. 
+ 2. Important mechanism tumorigenesis meningioma is hormonal stimulation such as progesteron reseptor 
+ 3. Grading and expression of the mRNA PR is a useful predicting the behavior of orbital meningiomas. References 
+ 
+ 
+ Butts AM, Syrjanen JA, Aakre JA, Brown PD. Epidemiologic study of risk factors for meningioma in the Mayo Clinic Study of Aging. J Clin Oncol. 2017;35:2067. [ Google Scholar ] 
+ 
+ Butts CL, Shukair SA, Duncan KM, et al. Progesterone inhibits mature rat dendritic cells in a receptor-mediated fashion. Int Immunol. 2007;19:287–96. doi: 10.1093/intimm/dxl145. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Cea-Soriano L, Blenk T, Wallander MA, García Rodríguez LA. Hormonal therapies and meningioma: Is there a link? Cancer Epidemiol. 2012;36:198–205. doi: 10.1016/j.canep.2011.08.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Claus EB, Park PJ, Carroll R, Chan J, Black PM. Specific genes expressed in association with progesterone receptors in meningioma. Cancer Res. 2008;1:314–22. doi: 10.1158/0008-5472.CAN-07-1796. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Claus EB. Exogenous hormone use, reproductive factors, and risk of intracranial meningioma in females. J Neurosurg. 2013;153:93–101. doi: 10.3171/2012.9.JNS12811. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Commins DL, Atkinson RD, Burnett ME. Review of meningioma histopathology. Neurosurg Focus. 2007;23:1–9. doi: 10.3171/FOC-07/10/E3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Damayanti AA, Kalanjati VP, Wahyuhadi J. Korelasi Usia dan Jenis Kelamin dengan Angka Kejadian Meningioma. Aksona. 2021;1:34–8. [ Google Scholar ] 
+ 
+ Damayanti Y, Rahmawati D. Expression of progesterone receptors in meningioma patients. Serial Case. 2020;13:146–51. [ Google Scholar ] 
+ 
+ Desai P, Patel D. A study of meningioma in relation to age, sex, site, symptoms, and computerized tomography scan features. Int J Med Sci Public Health. 2016;5:331. [ Google Scholar ] 
+ 
+ Fakhrjou A, Meshkini A, Shadrvan S. Status of Ki-67 estrogen and progesterone receptors in various subtypes of intracranial meningiomas. Pak J Biol Sci. 2012;15:530–5. doi: 10.3923/pjbs.2012.530.535. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Garcia GA. Malignant Orbital Meningioma Originating from the Frontal Lobe. Ocul Oncol Pathol. 2018;4:186–90. doi: 10.1159/000481509. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Garcia-Ruíz G. In vitro progesterone modulation on bacterial endotoxin-induced production of IL-1β, TNFα, IL-6, IL-8, IL-10, MIP-1α, and MMP-9 in pre-labor human term placenta. Reprod Biol Endocrin. 2015;13:115. doi: 10.1186/s12958-015-0111-3. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Grunberg SM. Long-term administration of mifepristone (RU486): Clinical tolerance during extended treatment of meningioma. Cancer Invest. 2006;24:727–33. doi: 10.1080/07357900601062339. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Ho CY. Genetic profiling by single-nucleotide polymorphism-based array analysis defines three distinct subtypes of orbital meningioma. Brain Pathol. 2015;25:193–201. doi: 10.1111/bpa.12150. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Hortobágyi T, et al. Meningioma recurrence. Open Med-Warsaw. 2016;11:168–73. doi: 10.1515/med-2016-0032. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Hortobágyi T. Pathophysiology of meningioma growth in pregnancy. Open Med-Warsaw. 2017;12:195–200. doi: 10.1515/med-2017-0029. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Hsu DW, Efird JT, Hedley-Whyte ET. Progesterone and estrogen receptors in meningiomas: Prognostic considerations. J Neurosurg. 1997;86:113–20. doi: 10.3171/jns.1997.86.1.0113. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Jain A. Mixed schwannoma with meningioma of the trigeminal nerve. Indian J Pathol Micr. 2010;3:769–71. doi: 10.4103/0377-4929.72084. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Johnson DR. Risk factors for meningioma in postmenopausal women: Results from the Iowa Women’s Health Study. Neuro Oncol. 2011;13:1011–9. doi: 10.1093/neuonc/nor081. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Khalid H. Immunohistochemical study of estrogen receptor related antigen, progesterone, and estrogen receptors in human intracranial meningiomas. Cancer. 1994;74:679–85. doi: 10.1002/1097-0142(19940715)74:2<679::aid-cncr2820740221>3.0.co;2-f. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Kim M. Analysis of the results of recurrent intracranial meningiomas treated with re-radiosurgery. Clin Neurol Neurosur. 2017;153:93–101. doi: 10.1016/j.clineuro.2016.12.014. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Korhonen K. A nationwide cohort study on the incidence of meningioma in women using postmenopausal hormone therapy in Finland. Am J Epidemiol. 2012;175:309–14. doi: 10.1093/aje/kwr335. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Lassie N, Supartoto A. Progesterone Receptor Expression in Histopathological Subtypes of Beningn Orbitocranial Meningiomas. Ophthalmological Indonesia. 2016;42:91–6. [ Google Scholar ] 
+ 
+ Lee JH. Prognostic factors of atypical meningioma: Overall survival rate and progression free survival rate. J Korean Neurosurg S. 2017;60:661–6. doi: 10.3340/jkns.2017.0303.008. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Louis DN. The 2016 World Health Organization Classification of Tumors of the Central Nervous System: a summary. Acta Neuropathol. 2016;131:803–20. doi: 10.1007/s00401-016-1545-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Marosi C. Meningioma. Crc Cr Rev Oncol-Hem. 2008;67:153–71. doi: 10.1016/j.critrevonc.2008.01.010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Mukhopadhyay M. Spectrum of meningioma with special reference to prognostic utility of ER,PR and Ki67 expression. J Lab Physicians. 2017;9:308–13. doi: 10.4103/JLP.JLP_158_16. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Olar A. Global epigenetic profiling identifies methylation subgroups associated with recurrence-free survival in meningioma. Acta Neuropathol. 2017;133:431–44. doi: 10.1007/s00401-017-1678-x. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Olar A. A gene expression signature predicts recurrence-free survival in meningioma. Oncotarget. 2018;9:16087–98. doi: 10.18632/oncotarget.24498. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Omulecka A. Immunohistochemical expression of progesterone and estrogen receptors in meningiomas. Folia Neuropathol. 2006;44:111–5. [ PubMed ] [ Google Scholar ] 
+ 
+ Ongaratti BR. Expression of Merlin, NDRG2, ERBB2, and c-MYC in meningiomas: Relationship with tumor grade and recurrence. Braz J Med Biol Res. 2016;49:4–9. doi: 10.1590/1414-431X20155125. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Perry A. Merlin, DAL-1, and progesterone receptor expression in clinicopathologic subsets of meningioma: A correlative immunohistochemical study of 175 cases. J Neuropath Exp Neur. 2000;59:872–9. doi: 10.1093/jnen/59.10.872. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Poniman J. Progesterone Receptor Expression and Score Differences in Determining Grade and Subtype of Meningioma. J Neurosci Rural Pract. 2020;11:552–7. doi: 10.1055/s-0040-1714043. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Riemenschneider MJ, Perry A, Reifenberger G. Histological classification and molecular genetics of meningiomas. Lancet Neurol. 2006;5:1045–54. doi: 10.1016/S1474-4422(06)70625-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Roser F. The prognostic value of progesterone receptor status in meningiomas. J Clin Pathol. 2004;57:1033–7. doi: 10.1136/jcp.2004.018333. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Sancho RJ, Bordes VM, Garcia HI. Intraorbital meningiomas. Rev Esp Otoneurooftalmol Neurocir. 1961;20:402–9. [ PubMed ] [ Google Scholar ] 
+ 
+ Santarius T. Delayed neurological deficit following resection of tuberculum sellae meningioma: Report of two cases, one with permanent and one with reversible visual impairment. Acta Neurochir. 2014;156:1099–102. doi: 10.1007/s00701-014-2046-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Scarpin KM. Progesterone action in human tissues: regulation by progesterone receptor (PR) isoform expression, nuclear positioning and coregulator expression. Nucl Recept Signal. 2009;7:1–13. doi: 10.1621/nrs.07009. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Shanthi V. Assessing the Prognostic Importance of ER, PR Expression in Meningiomas by Comparing with Proliferative Rate Using Ki67. Indian J Pathol Res Pract. 2017;6:431–4. [ Google Scholar ] 
+ 
+ Shayanfar N, Mashayekh M, Mohammadpour M. Expression of progestrone receptor and proliferative marker ki 67 in various grades of meningioma. Acta Med Iran. 2010;48:142–7. [ PubMed ] [ Google Scholar ] 
+ 
+ Sotoodeh MS, Saffarian A, Taghipour M, et al. Correlation of Peritumoral Edema and Microvessel Density with Tissue Expression of VEGF, Semaphorins 3A and 3C in Patients with Meningioma. Asian Pac J Cancer Biol. 2019;3:93–8. [ Google Scholar ] 
+ 
+ Supartoto A, Mahayana IT. Neurofibromatosis type 2 gene mutation and progesterone receptor messenger RNA expression in the pathogenesis of sporadic orbitocranial meningioma. Int J Ophthalmol. 2019;12:571–6. doi: 10.18240/ijo.2019.04.07. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Supartoto A, Mahayana IT, Christine RN. Exposure to Exogenous Female Sex Hormones is Associated with Increased Risk of Orbito-Cranial Meningioma in Females: A Case-Control Study. Int J Ophthalmic Pathol. 2016;5:3. [ Google Scholar ] 
+ 
+ Tahir M, et al. The Expression of Progesterone Receptors in Meningiomas of Different Grades. J Islamabad Med Dent College. 2019;8:65–9. [ Google Scholar ] 
+ 
+ Trott G. Abundant immunohistochemical expression of dopamine D2 receptor and p53 protein in meningiomas: Follow-up, relation to gender, age, tumor grade, and recurrence. Braz J Med Biol Res. 2015;48:415–9. doi: 10.1590/1414-431X20144163. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Wahab M, Al-Azzawi F. Meningioma and hormonal influences. Climacteric. 2003;6:285–92. [ PubMed ] [ Google Scholar ] 
+ 
+ Wahyuhadi J, Heryani D, Basuki H. Risk of meningioma associated with exposure of hormonal contraception A case control study. Majalah Obstet Ginekol. 2018;26:36–41. [ Google Scholar ] 
+ 
+ Wiemels J, Wrensch M, Claus EB. Epidemiology and etiology of meningioma. Neuro Oncol. 2010;99:307–14. doi: 10.1007/s11060-010-0386-3. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ Wolfsberger S. Progesterone-receptor index in meningiomas: Correlation with clinico-pathological parameters and review of the literature. Neurosurg Rev. 2004;27:238–45. doi: 10.1007/s10143-004-0340-y. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ Zador Z. Meta-gene markers predict meningioma recurrence with high accuracy. Sci Rep-Uk. 2020;10:180. doi: 10.1038/s41598-020-74482-2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

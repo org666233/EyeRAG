@@ -1,0 +1,355 @@
+Source: PubMed Central (PMC)
+PMCID: PMC11898816
+Title: Diabetic Retinopathy (DR): Mechanisms, Current Therapies, and Emerging Strategies
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11898816/
+Year: 2025
+Disease: diabetic_retinopathy
+Priority: 1
+============================================================
+
+Cells . 2025 Mar 4;14(5):376. doi: 10.3390/cells14050376 
+ 
+ 
+ Diabetic Retinopathy (DR): Mechanisms, Current Therapies, and Emerging Strategies 
+ Hyewon Seo 
+ Hyewon Seo 
+ 
+ 1 New Drug Development Center, Daegu-Gyeongbukk Medical Innovation Foundation (K-MEDI hub), 80 Cheombok-ro, Dong-gu, Daegu 41061, Republic of Korea; h.seo@kmedihub.re.kr (H.S.); sunji@kmedihub.re.kr (S.-J.P.) 
+ Find articles by Hyewon Seo 
+ 
+ 
+ 1 , Sun-Ji Park 
+ Sun-Ji Park 
+ 
+ 1 New Drug Development Center, Daegu-Gyeongbukk Medical Innovation Foundation (K-MEDI hub), 80 Cheombok-ro, Dong-gu, Daegu 41061, Republic of Korea; h.seo@kmedihub.re.kr (H.S.); sunji@kmedihub.re.kr (S.-J.P.) 
+ Find articles by Sun-Ji Park 
+ 
+ 
+ 1 , Minsoo Song 
+ Minsoo Song 
+ 
+ 1 New Drug Development Center, Daegu-Gyeongbukk Medical Innovation Foundation (K-MEDI hub), 80 Cheombok-ro, Dong-gu, Daegu 41061, Republic of Korea; h.seo@kmedihub.re.kr (H.S.); sunji@kmedihub.re.kr (S.-J.P.) 
+ Find articles by Minsoo Song 
+ 
+ 
+ 1, * 
+ 
+ Editor: Mohammed S Razzaque 1 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 New Drug Development Center, Daegu-Gyeongbukk Medical Innovation Foundation (K-MEDI hub), 80 Cheombok-ro, Dong-gu, Daegu 41061, Republic of Korea; h.seo@kmedihub.re.kr (H.S.); sunji@kmedihub.re.kr (S.-J.P.) 
+ 
+ * Correspondence: msong@kmedihub.re.kr 
+ 
+ Roles 
+ 
+ Mohammed S Razzaque : Academic Editor 
+ 
+ 
+ Received 2025 Jan 31; Revised 2025 Feb 21; Accepted 2025 Feb 28; Collection date 2025 Mar. 
+ 
+ © 2025 by the authors. 
+ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ ). 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC11898816  PMID: 40072104 
+ 
+ Abstract 
+ Diabetic retinopathy (DR) is one of the most prevalent complications of diabetes, affecting nearly one-third of patients with diabetes mellitus and remaining a leading cause of blindness worldwide. Among the various diabetes-induced complications, DR is of particular importance due to its direct impact on vision and the irreversible damage to the retina. DR is characterized by multiple pathological processes, primarily a hyperglycemia-induced inflammatory response and oxidative stress. Current gold standard therapies, such as anti-VEGF injections and photocoagulation, have shown efficacy in slowing disease progression. However, challenges such as drug resistance, partial therapeutic responses, and the reliance on direct eye injections—which often result in low patient compliance—remain unresolved. This review provides a comprehensive overview of the underlying molecular mechanisms in DR, the current therapies, and their unmet needs for DR treatment. Additionally, emerging therapeutic strategies for improving DR treatment outcomes are discussed. 
+ Keywords: diabetic retinopathy, molecular mechanism, therapeutics, oxidative stress, inflammation, diabetic complications 1. Introduction 
+ Diabetic retinopathy (DR) is one of the most prevalent microvascular complications of diabetes mellitus and a leading cause of vision loss across all age groups, including children, working adults, and the elderly [ 1 , 2 , 3 ]. In 2020, more than 103 million people worldwide were affected by DR, and projections estimate this number will rise to 161 million by 2045 [ 4 ]. Clinically, DR is categorized into two stages: non-proliferative DR (NPDR), characterized by vascular abnormalities, and proliferative DR (PDR), which involves pathological neovascularization. Severe NPDR increases the risk of progression to PDR, while diabetic macular edema (DME)—a major cause of vision impairment—can develop at any stage of DR. 
+ The burden of DR extends beyond vision loss, encompassing significant physical, emotional, and socioeconomic challenges. Although early-stage DR is often asymptomatic, early diagnosis plays a crucial role in improving treatment outcomes. However, current diagnostic methods, such as optical coherence tomography (OCT), fluorescein angiography (FA), and color fundus retinal photography, require in-person clinical visits, which may pose accessibility challenges for individuals in remote areas [ 5 ], and those from low-income households [ 6 , 7 ]. To enhance early detection and risk assessment, recent research has explored genetic prediction analysis [ 8 , 9 ], patient history evaluation [ 10 ], biomarker discovery [ 11 ], and artificial intelligence (AI)-based diagnostic tools that analyze DR-related retinal features from imaging data [ 12 , 13 ]. Despite these advancements, effective treatment options remain an unmet clinical need. 
+ Currently, DR is managed through intravitreal injections of anti-vascular endothelial growth factor (anti-VEGF) drugs, vitreous surgery, and laser therapy. Anti-VEGF agents, such as bevacizumab, ranibizumab, and aflibercept, have demonstrated clinical efficacy in reducing vascular leakage and neovascularization. However, only 29% of patients with DME experience significant visual improvement after two years of treatment [ 14 ]. Moreover, the need for frequent intravitreal injections and the high cost of antibody-based therapies impose substantial financial and logistical burdens on patients. While strict glycemic control has been shown to slow the onset and progression of DR [ 15 , 16 , 17 ], some studies indicate that DR may continue to progress even in patients with intensive glycemic management due to the phenomenon of “metabolic memory”—a process that remains poorly understood [ 18 ]. 
+ Given the limited efficacy of current therapies and the rising global prevalence of DR, there is an urgent need for novel therapeutic approaches. This review provides a comprehensive overview of DR, focusing on current treatment modalities, existing challenges, and emerging strategies aimed at improving patient outcomes. 2. Molecular Mechanism of DR 
+ Extensive research has investigated the biochemical and molecular mechanisms underlying the onset and progression of DR; however, no single definitive pathway has been established. Key pathological features of DR include pericyte loss, thickening of the basement membrane, microaneurysm formation, neovascularization, and disruption of the blood–retinal barrier. Hyperglycemia-induced oxidative stress, inflammation, increased glycosylation products, and vascular endothelial growth factor (VEGF) overexpression have all been identified as critical contributors to DR pathogenesis. These mechanisms are highly interconnected, forming a complex network of pathological events ( Figure 1 ). 
+ Figure 1. 
+ 
+ Open in a new tab 
+ Mechanisms of hyperglycemia-induced pathogenesis in DR. Elevated glucose levels induce inflammatory responses, oxidative stress, and metabolic dysregulation, which lead to endothelial dysfunction, vascular leakage, and neovascularization in the retina. Hyperglycemia activates macrophages and microglia, promoting the release of pro-inflammatory cytokines (IL-1β, IL-6, TNF-α, ICAM-1), which further stimulate NF-κB and HIF-1α signaling ( a ). Oxidative stress enhances the activation of metabolic pathways, including the hexosamine pathway ( b ), protein kinase C (PKC) activation ( c ), and the polyol pathway ( d ), contributing to VEGF upregulation and vascular dysfunction. Additionally, hyperglycemia leads to the formation of advanced glycation end-products (AGEs), which activate RAGE signaling ( e ), resulting in increased NADPH oxidase activity and reactive oxygen species (ROS) production. The accumulation of ROS exacerbates oxidative stress, endothelial cell death, and vascular permeability. The cumulative effect of these processes results in pathological neovascularization and vascular leakage ( f ), leading to retinal damage characteristic of DR. The right panel depicts retinal abnormalities and typical fundus features associated with DR, including increased neovascularization, cotton wool spots, and hard exudates. Created in BioRender. Seo, H. (2025) https://BioRender.com/n23b627 (accessed on 30 January 2025). 2.1. Inflammation 
+ Inflammation plays a key role in DR progression, with several pro-inflammatory cytokines—such as interleukin 1β (IL-1β), IL-18, and tumor necrosis factor-α (TNF-α)—being significantly upregulated and implicated in inflammation-induced cell death ( Figure 1 a). 
+ Excessive IL-1β triggers apoptosis in retinal pigment epithelial cells, compromising photoreceptor integrity [ 19 ]. Additionally, IL-1β activates the nuclear factor kappa B (NF-κB) pathway and oxidative stress, leading to endothelial cell apoptosis and increased vascular permeability [ 20 ]. Emerging studies indicate that IL-17A contributes to PDR progression. Müller cells, which constitute 90% of the glial cells in the retina and mediate intercellular communication, transmit IL-17A signals to retinal ganglion cells via exosomal miRNA (miR-92a-3p), leading to Notch-1 downregulation. This finding suggests that targeting miR-92a-3p could be a potential therapeutic approach [ 21 ]. 
+ Macrophage and microglia polarization further contribute to the pathological progression of DR. These immune cells are key regulators of innate immunity, orchestrating various homeostatic and host defense responses [ 22 ]. In response to environmental signals, macrophages/microglia can polarize into two distinct yet reversible phenotypes: M1 and M2. M1 macrophages are pro-inflammatory, releasing cytokines that exacerbate inflammation, while M2 macrophages contribute to tissue repair, remodeling, and the clearance of necrotic cell debris [ 23 ]. Recent research suggests that macrophage polarization extends beyond the binary M1/M2 classification, with intermediate or hybrid phenotypes—such as tumor-associated macrophages—exhibiting characteristics of both, along with other macrophages that do not fit within this classification, indicating a broader spectrum of functional states [ 24 , 25 ]. Under hyperglycemia conditions, M1 macrophage activation is heightened, leading to increased production of pro-inflammatory factors, while M2 macrophage activity and anti-inflammatory factor production are diminished [ 26 ]. Studies have proposed that enhancing M2 polarization could be a potential therapeutic strategy for diabetes by reducing insulin resistance and stabilizing glucose and lipid metabolism [ 27 ]. More recently, Liu et al. identified a link between mitochondrial dysfunction and macrophage polarization in DR. As mitochondria serve as the primary source of ATP for macrophages, their function is crucial in regulating polarization. By analyzing 784 differentially expressed genes of the GSE221521 dataset, researchers identified intersections between mitochondrial-related genes (MRGs) and macrophage polarization-related genes (MPRGs) in patients with DR. Mendelian randomization (MR) analysis further pinpointed 13 genes with strong causal relationships, and machine learning algorithms identified protein prenyltransferase alpha subunit repeat-containing protein 1 (PTAR1) and SLC25A34 as potential biomarker genes associated with DR pathology [ 28 ]. 
+ VEGF is another key inflammatory factor driving neovascularization and vascular leakage in DR ( Figure 1 f) [ 29 ]. Under hyperglycemic and hypoxic conditions, hypoxia-inducible factor-1α (HIF-1α) is activated, leading to increased VEGF secretion. VEGF promotes neovascularization through signaling pathways such as PI3K/Akt, PKC, and NF-κB [ 30 ]. Furthermore, VEGF enhances the expression of intercellular adhesion molecule-1 (ICAM-1) and nitric oxide synthase, facilitating leukocyte adhesion, vascular permeability alterations, and pathological neovascularization. 2.2. Oxidative Stress 
+ Chronic hyperglycemia induces oxidative stress through multiple pathways, including the polyol pathway, hexosamine biosynthesis, advanced glycation end-product (AGEs) formation, and protein kinase C (PKC) activation. 
+ The hexosamine pathway produces uridine-5′-diphospho-N-acetylglucosamine (UDP-GlcNAc), a key substrate for N-linked glycosylation of secretory proteins and O-GlcNAcylation of intracellular proteins at serine/threonine residues. Glycosylation influences protein activity, stability, and function. It begins with the conversion of glucose into fructose-6-phosphate, which is subsequently transformed into glucosamine-6-phosphate by glutamine-fructose-6-phosphate amidotransferase (GFAT), the rate-limiting enzyme in this pathway ( Figure 1 b). Overexpression of GFAT has been reported in diabetic glomeruli, correlating with postprandial hyperglycemia and insulin resistance [ 31 ]. Moreover, increased O-GlcNAcylation in diabetic models disrupts gene expression by modifying transcription factor Sp1, leading to VEGF upregulation [ 32 , 33 ]. Furthermore, O-GlcNAcylation of p53 has been linked to retinal pericyte apoptosis, contributing to early vascular dysfunction in DR [ 34 , 35 ]. 
+ Hyperglycemia-induced PKC activation, particularly PKC-β, is implicated in endothelial dysfunction, increased vascular permeability, and excessive neovascularization in DR ( Figure 1 c) [ 36 ]. PKC activation is driven by elevated diacylglycerol (DAG) levels, which trigger signaling cascades that involve mitogen-activated protein kinases (MAPKs), transcription factors, and oxidative stress pathways. This leads to the overexpression of plasminogen activator inhibitor-1, VEGF, and other pro-inflammatory and pro-angiogenic factors. While PKC inhibitors have potential therapeutic applications, further studies are required to validate their clinical efficacy. 
+ The polyol pathway converts glucose to sorbitol via aldose reductase and subsequently metabolizes it into fructose ( Figure 1 d). This conversion consumes NADPH, thereby depleting cellular antioxidant defenses and increasing the NADH/NAD + ratio, which contributes to oxidative stress and osmotic imbalance. Aldose reductase, a key enzyme in this pathway, has low glucose affinity but becomes hyperactive under hyperglycemic conditions, leading to sorbitol accumulation in the retina, kidneys, and nerves [ 37 ]. Since sorbitol diffuses poorly across cell membranes, it exacerbates osmotic stress and cellular damage [ 38 ]. While aldose reductase inhibitors showed early promise in animal models, clinical trials, such as the sorbinil trial yielded inconsistent results, casting doubt on the therapeutic feasibility of targeting this [ 39 ]. 
+ Prolonged hyperglycemia results in the formation of AGEs, which accumulate in retinal vessels and exacerbate DR pathology [ 40 ]. AGEs, generated through the non-enzymatic glycation and oxidation of proteins and lipids, contribute to vascular damage by binding to the receptor for advanced glycation end-product (RAGE). This interaction activates inflammatory and oxidative stress pathways, including NF-κB and MAPK, further amplifying retinal damage ( Figure 1 e). AGEs, such as carboxyethyllysine, carboxymethyllysine, and pentosidine, are highly enriched in the retinal tissues of patients with DR. Although AGEs are established contributors to DR pathogenesis, further research is needed to better understand their mechanisms and potential as a therapeutic target. 2.3. Other Related Pathways 
+ Recently, Jeon et al. have identified the transglutaminase 2 (TGase2)/AMP-activated protein kinase (AMPK)/ glyceraldehyde 3-phosphate dehydrogenase (GAPDH) pathway as a key molecular mechanism underlying hyperglycemia-induced microvascular leakage in DR [ 41 ]. This pathway is activated by elevated intracellular calcium (Ca 2+ ) and reactive oxygen species (ROS), which cause activated TGase2 to inhibit AMPK phosphorylation and GAPDH activity. This leads to the disassembly of adherens junctions and vascular permeability in the retina. Since AMPK plays a protective role in maintaining the blood–retinal barrier and reducing inflammation, its suppression by activated TGase2 accelerates DR progression. Additionally, GAPDH inhibition contributes to vascular dysfunction by exacerbating oxidative stress and increasing endothelial permeability. This pathway offers potential therapeutic targets for managing DR and related diabetic vascular complications. 
+ An interesting study has examined why some patients with NPDR do not progress to PDR. MicroRNA sequencing of plasma and retinal samples from patients with NPDR who did not develop PDR revealed that the level of circulating microRNAs targeting ETS proto-oncogene 1 (Ets1), a crucial regulator of microvascular angiogenesis, is highly upregulated. Further analysis using single-cell sequencing data showed that Ets1 expression was reduced in diabetic endothelial cells, which was associated with the suppression of Angiopoietin-1 and the PI3K-Akt signaling pathways. These findings suggest that an anti-angiogenic mechanism may be active in NPDR, preventing progression to the more severe form of the disease, PDR [ 42 ]. 3. Current Clinical Therapies 
+ For patients with mild to moderate NPDR, regular screening and blood glucose monitoring are recommended [ 43 ]. However, for patients with PDR and DME, active therapeutic interventions are essential to prevent vision loss. Current treatments for PDR and DME primarily include laser photocoagulation, intravitreal injections of anti-VEGF or steroids, and vitreoretinal surgery. A list of currently approved drugs for DR treatment is provided in Table 1 . 
+ Table 1. 
+ Approved drugs for DR treatment. 
+ 
+ 
+ Type 
+ Drug Name 
+ Target of Action 
+ Administration Route 
+ 
+ 
+ 
+ Biologics 
+ Bevacizumab 
+ Anti-VEGF 
+ Intravitreal injection 
+ 
+ Ranibizumab 
+ Alfibercept 
+ Faricimab 
+ Brolucizumab 
+ 
+ Small molecules 
+ Conbercept 
+ Glucocorticoid receptor agonist 
+ Intravitreal implant 
+ 
+ 
+ Difluprednate 
+ Ophthalmic 
+ 
+ 
+ Dexamethason 
+ Intravitreal implant 
+ 
+ 
+ Triamcinolone acetonide 
+ Intravitreal injection 
+ 
+ 
+ Finerenone 
+ Mineralocorticoid receptor antagonist 
+ Oral 
+ 
+ 
+ Fenofibrate 
+ Lipoprotein lipase stimulator (PPAR alpha agonist) 
+ Oral 
+ 
+ 
+ Ocriplasmin 
+ Alpha-2 antiplasmin inhibitor, collagen antagonist, fibronectin inhibitor, laminin antagonist plasmin stimulator 
+ Intravitreal injection 
+ 
+ 
+ Ripasudil hydrochloride 
+ Rho-associated protein kinase inhibitor 
+ Ophthalmic 
+ 
+ 
+ Bromfenac sodium 
+ Cyclooxygenase inhibitor 
+ Ophthalmic 
+ 
+ Nepafenac 
+ 
+ 
+ Open in a new tab Laser therapy, particularly panretinal photocoagulation (PRP), has long been a cornerstone in the management of DR. Clinical trials have demonstrated that PRP significantly reduces the risk of progression to high-risk PDR and decreases the likelihood of severe vision loss by over 50% [ 44 ]. PRP works by creating laser-induced burns in the peripheral retina, leading to tissue coagulation and improved retinal oxygenation [ 45 ]. However, PRP treatment is not a one-time solution. As shown in RIDE (ranibizumab injection in subjects with clinically significant macular edema with center involvement secondary to diabetes mellitus) and RISE (ranibizumab injection in subjects with clinically significant macular edema with center involvement secondary to diabetes mellitus) clinical trials, 9.5% of patients required multiple PRP treatment over 24 months without additional anti-VEGF treatment [ 46 ]. While PRP effectively reduces vision loss, it is associated with significant side effects, including peripheral vision loss, delayed dark adaptation, and creeping atrophy [ 47 , 48 , 49 ]. 
+ Another effective treatment is intravitreal anti-VEGF injection. Initially developed for DME, ranibizumab (Lucentis; Genentech, Inc., South San Francisco, CA, USA), bevacizumab (Avastin; Genentech, Inc., South San Francisco, CA, USA), and aflibercept (Eylea; Regeneron Pharmaceuticals, Inc., Tarrytown, NY, USA) have also demonstrated efficacy in treating severe DR. The Protocol S study revealed that ranibizumab treatment reduced DME, minimized visual field defects, and decreased the need for vitrectomy compared to PRP [ 50 ]. Similarly, the RIDE study showed that ranibizumab therapy led to better visual acuity and prevention of neovascularization compared to PRP after 12 months; however, these benefits diminished at 24 months. Despite these advantages, frequent follow-ups and the risk of disease worsening upon treatment discontinuation remain significant concerns. 
+ Potential adverse effects of anti-VEGF injections include increased intraocular pressure, retinal detachment, endophthalmitis, cataract formation, and systemic absorption. Furthermore, some patients with DME exhibit incomplete responses to anti-VEGF therapy, underscoring the need for alternative, long-lasting, and non-invasive treatment options [ 51 ]. 
+ Corticosteroids (CSs) are widely used for their anti-inflammatory and immunosuppressive properties in treating inflammatory, allergic, and autoimmune conditions such as asthma, rheumatoid arthritis, and lupus. However, long-term corticosteroid use is associated with significant systemic and ocular side effects, including hypertension, diabetes, gastrointestinal complications, osteoporosis, ocular hypertension, glaucoma, cataracts, and central serous chorioretinopathy. Steroid-induced glaucoma (SIG) can lead to optic disk and vision loss if left untreated, while prolonged systemic corticosteroid use increases the risk of posterior subcapsular cataracts [ 52 ]. These potential complications highlight the need for careful patient selection and monitoring when considering corticosteroids as a treatment for DR. 
+ Ripasudil, a Rho-associated kinase (ROCK) inhibitor, initially developed for glaucoma and ocular hypertension, has been explored for DR treatment. Aging is associated with increased ROCK2 signaling, which leads to the overexpression of proangiogenic macrophages that promote IL-4 production and angiogenesis. Ripasudil suppresses multiple inflammatory and macrophage activation markers, including NLR family pyrin domain containing 3 (NLRP3), apoptosis-associated speck-like protein containing a caspase recruitment domain (ASC), caspase-1, IL-1β, and IL-18 [ 53 ]. 
+ Non-steroidal anti-inflammatory drugs (NSAIDs) function by inhibiting cyclooxygenase (COX) enzymes, thereby reducing pro-inflammatory prostaglandin levels. Studies suggest that combining bromfenac with anti-VEGF therapy may improve visual acuity in age-related macular degeneration (AMD) [ 54 ]. In DR, NSAIDs have been proposed to lower COX and prostaglandin levels, which are often elevated in retinal cells [ 55 ]. However, the Protocol R study from the Diabetic Retinopathy Clinical Research (DRCR) network found no significant impact of NSAIDs on retinal thickness in non-central DME [ 56 ]. Moreover, concerns regarding corneal complications persist, especially in patients with diabetes or those undergoing post-surgical recovery. 
+ Population-based studies have indicated that elevated total cholesterol, triglycerides, and low-density lipoprotein (LDL) cholesterol increase the risk of retinal hard exudates and macular edema [ 57 , 58 , 59 , 60 ]. However, the impact of dyslipidemia on PDR progression remains inconsistent. For example, a study in male patients with diabetes found no significant correlation between statin use and DR progression [ 61 ]. On the other hand, fenofibrate, a peroxisome proliferator-activated receptor alpha (PPARα) agonist, has shown promising results in reducing DR progression by lowering triglycerides and LDL cholesterol while increasing high-density lipoprotein (HDL) cholesterol. Two large randomized clinical trials have confirmed its efficacy in slowing DR progression [ 62 , 63 ]. 
+ Surgical intervention, such as vitrectomy, is reserved for severe cases, including dense vitreous hemorrhage, macula-threatening tractional detachment, or rhegmatogenous retinal detachment. Nonetheless, complications—such as recurrent vitreous hemorrhage, cataract formation in phakic patients, and, in rare instances, postoperative endophthalmitis—may occur [ 64 , 65 , 66 ]. These risks underscore the need for careful management and individualized treatment planning in DR. 4. Emerging Therapeutics 
+ Emerging research is paving the way for a variety of new approaches, including small molecule inhibitors including natural compounds, and dietary interventions targeting underlying mechanisms such as inflammation, oxidative stress, and neovascularization. Meanwhile, advances in molecular biology and biochemistry have led to the identification of promising biomarkers and therapeutic targets. This section highlights recent developments in pharmacological treatments, dietary interventions, and novel therapeutic targets. 
+ 4.1. Natural Compounds and Supplements 
+ Resveratrol (RES), a natural antioxidant, has been investigated for DR treatment both in vitro and in vivo. Peng et al. reported that 20 μM RES significantly improved cell viability, reduced apoptosis, decreased reactive oxygen species generation, and lowered inflammatory cytokines in high-glucose-induced human retinal capillary endothelial cells (HRCECs) [ 67 ]. Further studies on its molecular mechanism revealed that RES activates the sirtuin 1 (SIRT1)/ high-mobility group box 1 (HMGB1) pathway, as demonstrated by increased SIRT1 and HMGB1 expression and reduced HMGB1 acetylation. Silencing SIRT1 with lentiviral shRNA reversed RES’s protective effects, confirming the SIRT1/HMGB1 pathway as a critical mechanism in RES-mediated DR protection. Additionally, RES suppressed ferroptosis by restoring the levels of solute carrier family 7 member 11 (SLC7A11) and reducing iron and malondialdehyde concentrations. 
+ In a streptozotocin (STZ)-induced DR mouse model, daily administration of 20 mg/kg RES for four weeks resulted in lower blood glucose levels, preserved retinal structure as observed through optical coherence tomography (OCT), and improved retinal function measured by electroretinography. Histological analysis further demonstrated reduced expression of VEGF and CD31, markers of angiogenesis, along with attenuation of retinal thinning and neovascularization. These effects were reversed upon SIRT1 silencing, underscoring its essential role in RES-mediated retinal protection. Given its efficacy and safety profile, RES warrants further clinical investigation as a potential therapy for DR. 
+ Another natural compound with promising anti-inflammatory properties is oridonin (Ori), the major active component of the traditional Chinese medicinal herb Rabdosia rubescens [ 68 ]. In an STZ-induced diabetic mouse model, intraperitoneal injection of Ori improved visual function and mitigated retinal abnormalities, including yellowish-white spots, contiguous patches, and lesions resembling geographic damage observed in fundus photography. Additionally, it significantly lowered systemic levels of TNF-α and IL-1β while suppressing retinal NLRP3 inflammasome activation. The molecular mechanism studies revealed that Ori alleviated high-glucose-induced pyroptosis in human retinal endothelial cells (HRECs) by inhibiting the NF-κB/NLRP3 inflammasome pathway and disrupting NEK7–NLRP3 interactions. These findings suggest that Ori and other NLRP3 inhibitors could serve as an effective therapy for mitigating DR progression by targeting inflammation and pyroptosis. 
+ Dietary interventions have also been explored as potential approaches for DR management. Among omega-3 fatty acids, docosahexaenoic acid (DHA), the most abundant fatty acid in the human retina, plays a crucial role in retinal function and visual acuity [ 69 ]. In both patients with diabetes and mouse models, DHA levels in the retina were significantly reduced. Postmortem analyses revealed a 40% reduction in DHA in the peripheral retinas and a 25% decrease in the macula of diabetic human donors [ 70 ]. Similar reductions were observed in diabetic mice, along with thinner retinal layers and impaired retinal function. Gene expression analysis indicated increased pro-inflammatory TNF-α levels and downregulation of elongation of very-long-chain fatty acid protein 5 (ELOV5), an enzyme essential for DHA biosynthesis. These results indicate that diabetes-induced hyperglycemia and inflammation contribute to oxidative stress, impaired DHA synthesis, and reduced DHA uptake, ultimately leading to structural and functional retinal impairments that may accelerate DR progression. Therefore, maintaining adequate DHA levels through dietary supplementation has been proposed as a potential strategy to prevent or slow the progression of DR. For example, high doses of DHA (1 g) combined with carotenoids have been shown to significantly improve macular function within three months in asymptomatic patients with NPDR [ 71 ]. And the combination of dietary DHA with overexpression of Mfsd2a, the lysophosphatidylcholine-DHA transporter, also showed a reduction in neovascularization in both STZ- and oxygen-induced diabetic mouse models [ 72 ]. Although further studies are needed to establish a causal relationship between DHA depletion and DR progression, these findings suggest that dietary DHA enrichment could be a new approach to preventing the progression of early-stage DR. 4.2. Lipid Modulators 
+ Lipid metabolism has been increasingly recognized as a contributing factor in DR pathology. Proprotein convertase subtilisin/kexin type 9 inhibitors (PCSK9i), including alirocumab, evolocumab, and inclisiran, are widely used to reduce LDL-C levels and lower cardiovascular risks in patients with diabetes. Recent studies suggest that PCSK9 inhibitors could offer additional therapeutic benefits in DR. Serum PCSK9 levels have been positively correlated with advanced DR stages, indicating a possible role in disease progression [ 73 ]. Notably, evolocumab has demonstrated anti-inflammatory effects in retinal Müller cells by modulating the TLR-4/NF-κB signaling pathway [ 74 ]. A MR analysis by Chen et al. further identified a genetic association between PCSK9-mediated LDL-C regulation and DR risk, supporting the idea that PCSK9 inhibitors could be repurposed for DR treatment [ 75 ]. Clinical trials have also provided evidence for the role of lipid-lowering drugs in DR management. In the multinational FIELD study, which included 9795 patients with type 2 diabetes, daily administration of fenofibrate (200 mg) significantly reduced the need for laser treatment in patients with DR [ 76 ]. Similarly, the ACCORD-EYE study reported a 3.7% reduction in DR progression over four years in patients with pre-existing DR who were treated with fenofibrate [ 77 ]. These findings highlight the potential of lipid-lowering therapies, particularly PCSK9 inhibitors and PPARα agonists, in improving DR outcomes. 4.3. Epigenetic Modulators 
+ Epigenetic modifications have been increasingly implicated in DR pathogenesis, particularly in inflammation-mediated retinal damage. Histone deacetylase 6 (HDAC6) has been identified as a key regulator of NLRP3 inflammasome activation, driving retinal inflammation and neurodegeneration in DR [ 78 ]. RNA sequencing of retinal tissue from STZ-induced diabetic mice fed a high-fat diet revealed a significant upregulation of HDAC6 [ 79 ]. Notably, HDAC6 knockout (KO) mice exhibited marked improvement in DR symptoms such as reduced retinal vascular leakage and preserved retinal structure, without affecting blood glucose levels. Furthermore, oral administration of compound 1 (4-((4-(1-(2-fluoro-2-methylpropyl)piperidin-4-yl)-1H-pyrrolo[2,3-b]pyridin-1-yl)methyl)-N-hydroxybenzamide), developed by Chong Kun Dang, at a dose of 50 mg/kg daily for one week, led to decreased vascular leakage, reduced inflammatory markers, and improved retinal integrity in diabetic mice. Further insights were obtained from both in vivo and in vitro studies; notably, bone marrow-derived macrophages exposed to AGEs showed that HDAC6 KO macrophages produced lower levels of IL-1β and TNF-α, confirming that HDAC6 plays a key role in the inflammatory response under diabetic stress. Collectively, these findings highlight the therapeutic potential of selective HDAC6 inhibition as a novel strategy for treating DR and other diabetic complications. 4.4. Other Targeted Therapies 
+ Huang et al. reported that peroxiredoxin 4 (PRDX4), a protein that removes hydrogen peroxide and helps protein folding in the endoplasmic reticulum (ER), can be a protective factor against DR-related damage [ 80 ]. In PRDX4-knockout (PRDX4-KO) mice, STZ-induced hyperglycemia resulted in significant retinal neurodegeneration, evidenced by reduced retinal thickness, increased apoptosis in the ganglion cell layer, elevated GFAP, and decreased glutamine synthetase. Additionally, PRDX4 deficiency exacerbated ER stress and mitochondrial dysfunction, as indicated by elevated levels of glucose-regulated protein 78, activating transcription factor 4, C/EBP homologous protein (CHOP), phosphorylated protein kinase RNA-like endoplasmic reticulum kinase (PERK), swollen mitochondria with disrupted cristae, reduced mitochondrial membrane potential, and lower ATP contents. Oxidative stress was intensified in PRDX4-KO diabetic mice demonstrated by increased dihydroethidium and 8-hydroxy-2′-deoxyguanosine staining. In vitro silencing PRDX4 in Müller cells under hyperglycemic conditions amplified reactive gliosis, apoptosis, ER stress, and oxidative stress, whereas overexpression of PRDX4 mitigated these effects. These findings suggest that enhancing PRDX4 could be a promising therapeutic strategy for DR. 
+ Poly (ADP-ribose) polymerase-1 (PARP-1), a DNA-dependent nuclear enzyme, plays a critical role in the pathophysiology of DR by driving inflammation, oxidative stress, and neovascularization. PARP-1 acts as a downstream effector in both oxidative and nitrosative stress pathways, contributing to endothelial cell proliferation under hypoxic conditions. Under normal conditions, PARP-1 knockout (KO) mice do not show significant phenotypic alterations [ 81 , 82 ]. However, in diabetes, elevated glucose levels upregulate PARP-1 expression, exacerbating vascular complications and inflammation [ 83 ]. Consequently, PARP-1 inhibitors, such as nicotinamide and 3-aminobenzamide, have been used to treat STZ-induced diabetic rat models, leading to a significant reduction in angiostatin isoforms, a key regulator of angiogenesis [ 84 , 85 ]. However, PARP-1 inhibitors can exhibit substantial cytotoxic effects at higher doses, requiring careful dose management [ 86 ]. Furthermore, while PARP-1 inhibitors effectively reduce inflammation and oxidative stress, their limited impact on vascular complications and neuroprotection necessitates alternative therapeutic approaches. To overcome these challenges, combining PARP-1 inhibitors with other treatments—such as anti-VEGF agents, Rho-associated protein kinase inhibitors, or neuroprotective peptides—has emerged as a promising strategy. By simultaneously targeting multiple disease mechanisms, these combination therapies offer a more comprehensive and effective approach to treating DR. 5. Conclusions 
+ DR remains a leading cause of vision loss and blindness among patients with diabetes mellitus. Although several treatments are available, effectively managing the disease continues to present significant challenges. While anti-VEGF therapies and laser treatments offer clinical benefits, limitations such as treatment resistance, side effects, and the need for frequent interventions underscore the urgent need for novel approaches. The molecular mechanisms underlying DR are highly complex and interrelated, making it difficult to develop targeted therapies. Additionally, key biomarkers remain underexplored, limiting early diagnosis and intervention. Given these challenges, emerging therapeutic strategies—including small molecule inhibitors targeting novel molecular pathways, gene-based therapies, and anti-inflammatory agents—show promise in improving patient outcomes. Furthermore, dietary interventions and combination therapies may provide additional benefits by addressing underlying mechanisms such as inflammation and oxidative stress. Repurposing existing drugs for DR treatment also presents a cost-effective strategy that could accelerate the development of new therapeutic options. Advancing early diagnostic tools and integrating these emerging therapeutic strategies could significantly transform DR management, ultimately reducing the burden of vision loss among patients with diabetes mellitus. Author Contributions 
+ Conceptualization, H.S., S.-J.P., and M.S.; investigation, H.S.; resources, H.S.; writing—original draft preparation, H.S.; writing—review and editing, H.S., S.-J.P., and M.S.; visualization, H.S.; funding acquisition, M.S.; All authors have read and agreed to the published version of the manuscript. Data Availability Statement 
+ No new data were created or analyzed in this study. Conflicts of Interest 
+ All authors declare no conflicts of interest. Funding Statement 
+ This research was supported by the Bio & Medical Technology Development Program of the National Research Foundation (NRF) funded by the Ministry of Science, ICT and Future Planning (NRF-2022M3A9J4079468). Footnotes 
+ Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content. References 
+ 
+ 
+ 1. Korkmaz H.A., Dogan B., Devebacak A., Değirmenci C., Afrashi F. The Relationship of Serum Diabetes Antibodies With the Development of Early Diabetic Retinopathy Findings in Children With Type 1 Diabetes Mellitus. J. Pediatr. Ophthalmol. Strabismus. 2024;0:1–8. doi: 10.3928/01913913-20241121-03. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Rees G., Xie J., Fenwick E.K., Sturrock B.A., Finger R., Rogers S.L., Lim L., Lamoureux E.L. Association Between Diabetes-Related Eye Complications and Symptoms of Anxiety and Depression. JAMA Ophthalmol. 2016;134:1007–1014. doi: 10.1001/jamaophthalmol.2016.2213. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Al-Namaeh M. Common causes of visual impairment in the elderly. Med. Hypothesis Discov. Innov. Ophthalmol. 2021;10:191–200. doi: 10.51329/mehdiophthal1438. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Teo Z.L., Tham Y.C., Yu M., Chee M.L., Rim T.H., Cheung N., Bikbov M.M., Wang Y.X., Tang Y., Lu Y., et al. Global Prevalence of Diabetic Retinopathy and Projection of Burden through 2045: Systematic Review and Meta-analysis. Ophthalmology. 2021;128:1580–1591. doi: 10.1016/j.ophtha.2021.04.027. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Cummings D.M., Morrissey S., Barondes M.J., Rogers L., Gustke S. Screening for Diabetic Retinopathy in Rural Areas: The Potential of Telemedicine. J. Rural Health. 2001;17:25–31. doi: 10.1111/j.1748-0361.2001.tb00251.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Piyasena M., Murthy G.V.S., Yip J.L.Y., Gilbert C., Zuurmond M., Peto T., Gordon I., Hewage S., Kamalakannan S. Systematic review on barriers and enablers for access to diabetic retinopathy screening services in different income settings. PLoS ONE. 2019;14:e0198979. doi: 10.1371/journal.pone.0198979. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Patel H., Allen A., Karl J., Weng P., Stinnett S.S., Rosdahl J.A., Schuman S.G. Diabetic Retinopathy Disease Burden in Patients With Lower Household Incomes vs Higher Household Incomes. J. Vitr. Dis. 2025;0:24741264241309683. doi: 10.1177/24741264241309683. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Oncel D., Minaker S., Shepherd E.A., Rezaei S., Boucher N., Aggarwal N., MacCumber M. Risk Factors for Proliferative Vitreoretinopathy in a Large Clinical Database. Retina. 2024:9900. doi: 10.1097/IAE.0000000000004391. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Han G., Hu K., Luo T., Wang W., Zhang D., Ouyang L., Liu X., Liu J., Wu Y., Liang J., et al. Research progress of non-coding RNA regulating the role of PANoptosis in diabetes mellitus and its complications. Apoptosis. 2025 doi: 10.1007/s10495-024-02066-w. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Wang Z., Bai X., Wang M., Li F., Sun T., Liu W., Xu Z., Shen D., Wang L., Li M., et al. Risk factors for diabetic retinopathy in young and middle-aged patients: A retrospective study. BMC Ophthalmol. 2024;24:544. doi: 10.1186/s12886-024-03821-y. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Behnoush A.H., Samavarchitehrani A., Shirazi Ghaleno A.M., Klisic A. Fetuin-A levels in diabetic retinopathy: A systematic review and meta-analysis. J. Diabetes Metab. Disord. 2025;24:31. doi: 10.1007/s40200-024-01533-0. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Kummerle D., Beals D., Simon L., Rogers F., Pogroszewski S. Revolutionizing Diabetic Retinopathy Screening: Integrating AI-Based Retinal Imaging in Primary Care. J. CME. 2025;14:2437294. doi: 10.1080/28338073.2024.2437294. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Wang V.Y., Lo M.T., Chen T.C., Huang C.H., Huang A., Wang P.C. A deep learning-based ADRPPA algorithm for the prediction of diabetic retinopathy progression. Sci. Rep. 2024;14:31772. doi: 10.1038/s41598-024-82884-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Gonzalez V.H., Campbell J., Holekamp N.M., Kiss S., Loewenstein A., Augustin A.J., Ma J., Ho A.C., Patel V., Whitcup S.M., et al. Early and Long-Term Responses to Anti-Vascular Endothelial Growth Factor Therapy in Diabetic Macular Edema: Analysis of Protocol I Data. Am. J. Ophthalmol. 2016;172:72–79. doi: 10.1016/j.ajo.2016.09.012. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. UK Prospective Diabetes Study (UKPDS) Group Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33) Lancet. 1998;352:837–853. doi: 10.1016/S0140-6736(98)07019-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Ohkubo Y., Kishikawa H., Araki E., Miyata T., Isami S., Motoyoshi S., Kojima Y., Furuyoshi N., Shichiri M. Intensive insulin therapy prevents the progression of diabetic microvascular complications in Japanese patients with non-insulin-dependent diabetes mellitus: A randomized prospective 6-year study. Diabetes Res. Clin. Pract. 1995;28:103–117. doi: 10.1016/0168-8227(95)01064-K. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Nathan D.M., Genuth S., Lachin J., Cleary P., Crofford O., Davis M., Rand L., Siebert C. The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus. N. Engl. J. Med. 1993;329:977–986. doi: 10.1056/nejm199309303291401. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Kumar J., Malaviya P., Kowluru R.A. Long noncoding RNAs and metabolic memory associated with continued progression of diabetic retinopathy. J. Diabetes. 2024;16:e70009. doi: 10.1111/1753-0407.70009. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Zhao L., Zabel M.K., Wang X., Ma W., Shah P., Fariss R.N., Qian H., Parkhurst C.N., Gan W.B., Wong W.T. Microglial phagocytosis of living photoreceptors contributes to inherited retinal degeneration. EMBO Mol. Med. 2015;7:1179–1197. doi: 10.15252/emmm.201505298. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Yun J.H. Interleukin-1β induces pericyte apoptosis via the NF-κB pathway in diabetic retinopathy. Biochem. Biophys. Res. Commun. 2021;546:46–53. doi: 10.1016/j.bbrc.2021.01.108. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Qiu A.-W., Wang N.-Y., Yin W.-J., Zhu Z.-Q., Liu Q.-H., Zhang W.-W. Retinal Müller Cell-Released Exosomal MiR-92a-3p Delivers Interleukin-17A Signal by Targeting Notch-1 to Promote Diabetic Retinopathy. Investig. Ophthalmol. Vis. Sci. 2025;66:1. doi: 10.1167/iovs.66.1.1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Yao Y., Li J., Zhou Y., Wang S., Zhang Z., Jiang Q., Li K. Macrophage/microglia polarization for the treatment of diabetic retinopathy. Front. Endocrinol. 2023;14:1276225. doi: 10.3389/fendo.2023.1276225. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Chen S., Saeed A.F.U.H., Liu Q., Jiang Q., Xu H., Xiao G.G., Rao L., Duo Y. Macrophages in immunoregulation and therapeutics. Signal Transduct. Target. Ther. 2023;8:207. doi: 10.1038/s41392-023-01452-1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Martinez F.O., Gordon S. The M1 and M2 paradigm of macrophage activation: Time for reassessment. F1000Prime Rep. 2014;6:13. doi: 10.12703/P6-13. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. De I., Nikodemova M., Steffen M.D., Sokn E., Maklakova V.I., Watters J.J., Collier L.S. CSF1 overexpression has pleiotropic effects on microglia In Vivo. Glia. 2014;62:1955–1967. doi: 10.1002/glia.22717. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Chen T., Zhu W., Wang C., Dong X., Yu F., Su Y., Huang J., Huo L., Wan P. ALKBH5-Mediated m(6)A Modification of A20 Regulates Microglia Polarization in Diabetic Retinopathy. Front. Immunol. 2022;13:813979. doi: 10.3389/fimmu.2022.813979. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Hu X. Microglia/macrophage polarization: Fantasy or evidence of functional diversity? J. Cereb. Blood Flow. Metab. 2020;40:S134–S136. doi: 10.1177/0271678X20963405. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Tang L., Zhang C., Lu L., Tian H., Liu K., Luo D., Qiu Q., Xu G.T., Zhang J. Melatonin Maintains Inner Blood-Retinal Barrier by Regulating Microglia via Inhibition of PI3K/Akt/Stat3/NF-κB Signaling Pathways in Experimental Diabetic Retinopathy. Front. Immunol. 2022;13:831660. doi: 10.3389/fimmu.2022.831660. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Penn J.S., Madan A., Caldwell R.B., Bartoli M., Caldwell R.W., Hartnett M.E. Vascular endothelial growth factor in eye disease. Prog. Retin. Eye Res. 2008;27:331–371. doi: 10.1016/j.preteyeres.2008.05.001. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Ghalehbandi S., Yuzugulen J., Pranjol M.Z.I., Pourgholami M.H. The role of VEGF in cancer-induced angiogenesis and research progress of drugs targeting VEGF. Eur. J. Pharmacol. 2023;949:175586. doi: 10.1016/j.ejphar.2023.175586. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Nerlich A.G., Sauer U., Kolm-Litty V., Wagner E., Koch M., Schleicher E.D. Expression of Glutamine: Fructose-6-Phosphate Amidotransferase in Human Tissues: Evidence for High Variability and Distinct Regulation in Diabetes. Diabetes. 1998;47:170–178. doi: 10.2337/diab.47.2.170. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Dierschke S.K., Miller W.P., Favate J.S., Shah P., Imamura Kawasawa Y., Salzberg A.C., Kimball S.R., Jefferson L.S., Dennis M.D. O-GlcNAcylation alters the selection of mRNAs for translation and promotes 4E-BP1–dependent mitochondrial dysfunction in the retina. J. Biol. Chem. 2019;294:5508–5520. doi: 10.1074/jbc.RA119.007494. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Donovan K., Alekseev O., Qi X., Cho W., Azizkhan-Clifford J. O-GlcNAc modification of transcription factor Sp1 mediates hyperglycemia-induced VEGF-A upregulation in retinal cells. Investig. Ophthalmol. Vis. Sci. 2014;55:7862–7873. doi: 10.1167/iovs.14-14048. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Gurel Z., Sieg K.M., Shallow K.D., Sorenson C.M., Sheibani N. Retinal O-linked N-acetylglucosamine protein modifications: Implications for postnatal retinal vascularization and the pathogenesis of diabetic retinopathy. Mol. Vis. 2013;19:1047–1059. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Gurel Z., Sheibani N. O-Linked β-N-acetylglucosamine (O-GlcNAc) modification: A new pathway to decode pathogenesis of diabetic retinopathy. Clin. Sci. 2018;132:185–198. doi: 10.1042/CS20171454. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Donnelly R., Idris I., Forrester J.V. Protein kinase C inhibition and diabetic retinopathy: A shot in the dark at translational research. Br. J. Ophthalmol. 2004;88:145–151. doi: 10.1136/bjo.88.1.145. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Safi S.Z., Qvist R., Kumar S., Batumalaie K., Ismail I.S. Molecular mechanisms of diabetic retinopathy, general preventive strategies, and novel therapeutic targets. Biomed. Res. Int. 2014;2014:801269. doi: 10.1155/2014/801269. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Thorne C.A., Grey A.C., Lim J.C., Donaldson P.J. The Synergistic Effects of Polyol Pathway-Induced Oxidative and Osmotic Stress in the Aetiology of Diabetic Cataracts. Int. J. Mol. Sci. 2024;25:9042. doi: 10.3390/ijms25169042. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. A randomized trial of sorbinil, an aldose reductase inhibitor, in diabetic retinopathy. Sorbinil Retinopathy Trial Research Group. Arch. Ophthalmol. 1990;108:1234–1244. doi: 10.1001/archopht.1990.01070110050024. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Zong H., Ward M., Stitt A.W. AGEs, RAGE, and diabetic retinopathy. Curr. Diab. Rep. 2011;11:244–252. doi: 10.1007/s11892-011-0198-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Jeon H.-Y., Lee A.-J., Moon C.-H., Ha K.-S. Regulation of AMPK and GAPDH by Transglutaminase 2 Plays a Pivotal Role in Microvascular Leakage in Diabetic Retinas. Diabetes. 2024;73:1756–1766. doi: 10.2337/db23-0885. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Zhao J., Sun Z., Li Z., Xu M., Tian A., An Z., Guo W., He C., Dong Y., Wen J., et al. MicroRNA-mediated Ets1 repression in retinal endothelial cells: A novel anti-angiogenic mechanism in nonproliferative diabetic retinopathy. Diabetes Obes. Metab. 2025 doi: 10.1111/dom.16182. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Zhu C.H., Zhang S.S., Kong Y., Bi Y.F., Wang L., Zhang Q. Effects of intensive control of blood glucose and blood pressure on microvascular complications in patients with type II diabetes mellitus. Int. J. Ophthalmol. 2013;6:141–145. doi: 10.3980/j.issn.2222-3959.2013.02.06. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Mohamed Q., Gillies M.C., Wong T.Y. Management of diabetic retinopathy: A systematic review. JAMA. 2007;298:902–916. doi: 10.1001/jama.298.8.902. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Reddy S.V., Husain D. Panretinal Photocoagulation: A Review of Complications. Semin. Ophthalmol. 2018;33:83–88. doi: 10.1080/08820538.2017.1353820. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Gonzalez V.H., Wang P.-w., Ruiz C.Q. Panretinal Photocoagulation for Diabetic Retinopathy in the RIDE and RISE Trials: Not “1 and Done”. Ophthalmology. 2021;128:1448–1457. doi: 10.1016/j.ophtha.2019.08.010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Striph G.G., Hart W.M., Olk R.J. Modified Grid Laser Photocoagulation for Diabetic Macular Edema: The Effect on the Central Visual Field. Ophthalmology. 1988;95:1673–1679. doi: 10.1016/S0161-6420(88)32957-X. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Sims L.M., Stoessel K., Thompson J.T., Hirsch J. Assessment of Visual-Field Changes before and after Focal Photocoagulation for Clinically Significant Diabetic Macular Edema. Ophthalmologica. 2010;200:133–141. doi: 10.1159/000310094. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Golden M.P., Russell B.P., Ingersoll G.M., Gray D.L., Hummer K.M. Management of Diabetes Mellitus in Children Younger Than 5 Years of Age. Am. J. Dis. Child. 1985;139:448–452. doi: 10.1001/archpedi.1985.02140070022019. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Gross J.G., Glassman A.R., Jampol L.M., Inusah S., Aiello L.P., Antoszyk A.N., Baker C.W., Berger B.B., Bressler N.M., Browning D., et al. Panretinal Photocoagulation vs Intravitreous Ranibizumab for Proliferative Diabetic Retinopathy: A Randomized Clinical Trial. JAMA. 2015;314:2137–2146. doi: 10.1001/jama.2015.15217. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Nishikawa K., Murakami T., Yoshida M., Terada N., Ishihara K., Mori Y., Ito S., Tsujikawa A. Extracellular Mitochondria Exacerbate Retinal Pigment Epithelium Degeneration in Diabetic Retinopathy. Diabetes. 2025;74:409–415. doi: 10.2337/db24-0040. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Salvetat M.L., Pellegrini F., Spadea L., Salati C., Musa M., Gagliano C., Zeppieri M. The Treatment of Diabetic Retinal Edema with Intravitreal Steroids: How and When. J. Clin. Med. 2024;13:1327. doi: 10.3390/jcm13051327. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Gao Z., Li Q., Zhang Y., Gao X., Li H., Yuan Z. Ripasudil alleviated the inflammation of RPE cells by targeting the miR-136-5p/ROCK/NLRP3 pathway. BMC Ophthalmol. 2020;20:134. doi: 10.1186/s12886-020-01400-5. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Kulikov A.N., Vasiliev A.S., Kalinicheva Y.A., Maltsev D.S. Topical bromfenac in VEGF-driven maculopathies: Topical review and meta-analysis. BMC Ophthalmol. 2024;24:369. doi: 10.1186/s12886-024-03650-z. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Amrite A.C., Ayalasomayajula S.P., Cheruvu N.P., Kompella U.B. Single periocular injection of celecoxib-PLGA microparticles inhibits diabetes-induced elevations in retinal PGE2, VEGF, and vascular leakage. Investig. Ophthalmol. Vis. Sci. 2006;47:1149–1160. doi: 10.1167/iovs.05-0531. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Friedman S.M., Almukhtar T.H., Baker C.W., Glassman A.R., Elman M.J., Bressler N.M., Maker M.P., Jampol L.M., Melia M., Network D.R.C.R. Topical nepafenec in eyes with noncentral diabetic macular edema. Retina. 2015;35:944–956. doi: 10.1097/IAE.0000000000000403. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Hiran H.M., Kamath A., Mendonca T.M., Rodrigues G.R., Nayak R.R., Kamath G., Kamath S.J. Association of serum lipid profile and other systemic risk factors with retinal hard exudates in diabetic retinopathy. Int. Ophthalmol. 2024;44:338. doi: 10.1007/s10792-024-03263-x. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Chew E.Y., Klein M.L., Ferris F.L., III, Remaley N.A., Murphy R.P., Chantry K., Hoogwerf B.J., Miller D. Association of Elevated Serum Lipid Levels With Retinal Hard Exudate in Diabetic Retinopathy: Early Treatment Diabetic Retinopathy Study (ETDRS) Report 22. Arch. Ophthalmol. 1996;114:1079–1084. doi: 10.1001/archopht.1996.01100140281004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Davis M.D., Fisher M.R., Gangnon R.E., Barton F., Aiello L.M., Chew E.Y., Ferris F., Knatterud G.L. Risk factors for high-risk proliferative diabetic retinopathy and severe visual loss: Early Treatment Diabetic Retinopathy Study Report# 18. Investig. Ophthalmol. Vis. Sci. 1998;39:233–252. [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Ferris F.L., 3rd, Chew E.Y., Hoogwerf B.J. Serum lipids and diabetic retinopathy. Early Treatment Diabetic Retinopathy Study Research Group. Diabetes Care. 1996;19:1291–1293. doi: 10.2337/diacare.19.11.1291. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Zhang J., McGwin G. Association of statin use with the risk of developing diabetic retinopathy. Arch. Ophthalmol. 2007;125:1096–1099. doi: 10.1001/archopht.125.8.1096. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Chew E.Y., Ambrosius W.T., Davis M.D., Danis R.P., Gangaputra S., Greven C.M., Hubbard L., Esser B.A., Lovato J.F., Perdue L.H., et al. Effects of medical therapies on retinopathy progression in type 2 diabetes. N. Engl. J. Med. 2010;363:233–244. doi: 10.1056/NEJMoa1001288. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Knickelbein J.E., Abbott A.B., Chew E.Y. Fenofibrate and Diabetic Retinopathy. Curr. Diabetes Rep. 2016;16:90. doi: 10.1007/s11892-016-0786-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Tham Y.-C., Liu L., Rim T.H., Zhang L., Majithia S., Chee M.L., Tan N.Y.Q., Wong K.-H., Ting D.S.W., Sabanayagam C., et al. Association of Cataract Surgery With Risk of Diabetic Retinopathy Among Asian Participants in the Singapore Epidemiology of Eye Diseases Study. JAMA Netw. Open. 2020;3:e208035. doi: 10.1001/jamanetworkopen.2020.8035. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Schachat A.P., Oyakawa R.T., Michels R.G., Rice T.A. Complications of Vitreous Surgery for Diabetic Retinopathy: II. Postoperative Complications. Ophthalmology. 1983;90:522–530. doi: 10.1016/S0161-6420(83)34540-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Ostri C., Lux A., Lund-Andersen H., la Cour M. Long-term results, prognostic factors and cataract surgery after diabetic vitrectomy: A 10-year follow-up study. Acta Ophthalmol. 2014;92:571–576. doi: 10.1111/aos.12325. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Peng Y., Hu L., Xu H., Fang J., Zhong H. Resveratrol alleviates reactive oxygen species and inflammation in diabetic retinopathy via SIRT1/HMGB1 pathway-mediated ferroptosis. Toxicol. Appl. Pharmacol. 2024;495:117214. doi: 10.1016/j.taap.2024.117214. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Zhang Y., Pan T., Yang Y., Xu X., Liu Y. Oridonin attenuates diabetic retinopathy progression by suppressing NLRP3 inflammasome pathway. Mol. Cell. Endocrinol. 2025;596:112419. doi: 10.1016/j.mce.2024.112419. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Sapieha P., Chen J., Stahl A., Seaward M.R., Favazza T.L., Juan A.M., Hatton C.J., Joyal J.S., Krah N.M., Dennison R.J., et al. Omega-3 polyunsaturated fatty acids preserve retinal function in type 2 diabetic mice. Nutr. Diabetes. 2012;2:e36. doi: 10.1038/nutd.2012.10. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Sugasini D., Yalagala P.C.R., Park J.C., Ma G., Farooq Z., Baccouche B., Sawant O.B., McAnany J.J., Yao X., Kazlauskas A., et al. Retinal docosahexaenoic acid is significantly reduced in diabetic humans and mice: Possible relationship to diabetic retinopathy. Investig. Ophthalmol. Vis. Sci. 2024;65:39. doi: 10.1167/iovs.65.14.39. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Rodríguez González-Herrero M.E., Ruiz M., López Román F.J., Marín Sánchez J.M., Domingo J.C. Supplementation with a highly concentrated docosahexaenoic acid plus xanthophyll carotenoid multivitamin in nonproliferative diabetic retinopathy: Prospective controlled study of macular function by fundus microperimetry. Clin. Ophthalmol. 2018;12:1011–1020. doi: 10.2147/OPTH.S157635. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Sugasini D., Yalagala P.C.R., Subbaiah P.V. Efficient Enrichment of Retinal DHA with Dietary Lysophosphatidylcholine-DHA: Potential Application for Retinopathies. Nutrients. 2020;12:3114. doi: 10.3390/nu12103114. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Varughese M.S., Nayak A.U., Jacob S. PCSK9 levels and diabetic retinopathy: Opportunities for a potential target and novel therapeutic approach in conjunction with treating dyslipidaemia. Eye. 2024 doi: 10.1038/s41433-024-03523-1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Zhou Q., Tang H., Li S. Protective effect of evolocumab on Müller cells in the rat retina under hyperglycaemic and hypoxic conditions. J. Diabetes Complicat. 2023;37:108593. doi: 10.1016/j.jdiacomp.2023.108593. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Chen S., Zhang M., Yang P., Guo J., Liu L., Yang Z., Nan K. Genetic Association between Lipid-Regulating Drug Targets and Diabetic Retinopathy: A Drug Target Mendelian Randomization Study. J. Lipids. 2024;2024:5324127. doi: 10.1155/2024/5324127. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Varughese M.S., Nayak A.U., Jacob S. Fenofibrate therapy in reducing the progression of diabetic retinopathy: Revisiting the FIELD and ACCORD-EYE studies through the LENS trial. Eye. 2025;39:15–17. doi: 10.1038/s41433-024-03410-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Wong T.Y., Simó R., Mitchell P. Fenofibrate—A potential systemic treatment for diabetic retinopathy? Am. J. Ophthalmol. 2012;154:6–12. doi: 10.1016/j.ajo.2012.03.013. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Magupalli V.G., Negro R., Tian Y., Hauenstein A.V., Di Caprio G., Skillern W., Deng Q., Orning P., Alam H.B., Maliga Z., et al. HDAC6 mediates an aggresome-like mechanism for NLRP3 and pyrin inflammasome activation. Science. 2020;369:eaas8995. doi: 10.1126/science.aas8995. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Kim J.S., Jun J.H., Lee J., Park S., Kim E., Hwang S.J., Moon H., Baek S.H., Kim H.K., Park J., et al. HDAC6 mediates NLRP3 inflammasome activation in the pathogenesis of diabetic retinopathy. Metabolism. 2024;164:156108. doi: 10.1016/j.metabol.2024.156108. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Huang Y., Zhang Y., Liu Y., Jin Y., Yang H. PRDX4 mitigates diabetic retinopathy by inhibiting reactive gliosis, apoptosis, ER stress, oxidative stress, and mitochondrial dysfunction in Müller cells. J. Biol. Chem. 2024;301:108111. doi: 10.1016/j.jbc.2024.108111. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Ke Y., Wang C., Zhang J., Zhong X., Wang R., Zeng X., Ba X. The Role of PARPs in Inflammation-and Metabolic-Related Diseases: Molecular Mechanisms and Beyond. Cells. 2019;8:1047. doi: 10.3390/cells8091047. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Wang Z.Q., Auer B., Stingl L., Berghammer H., Haidacher D., Schweiger M., Wagner E.F. Mice lacking ADPRT and poly(ADP-ribosyl)ation develop normally but are susceptible to skin disease. Genes. Dev. 1995;9:509–520. doi: 10.1101/gad.9.5.509. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Sun J., Liu G., Chen R., Zhou J., Chen T., Cheng Y., Lou Q., Wang H. PARP1 Is Upregulated by Hyperglycemia Via N6-methyladenosine Modification and Promotes Diabetic Retinopathy. Discov. Med. 2022;34:115–129. [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Guzyk M.M., Tykhomyrov A.A., Nedzvetsky V.S., Prischepa I.V., Grinenko T.V., Yanitska L.V., Kuchmerovska T.M. Poly(ADP-Ribose) Polymerase-1 (PARP-1) Inhibitors Reduce Reactive Gliosis and Improve Angiostatin Levels in Retina of Diabetic Rats. Neurochem. Res. 2016;41:2526–2537. doi: 10.1007/s11064-016-1964-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Wu Y., Chen Y., Wu Q., Jia L., Du X. Minocycline inhibits PARP-1 expression and decreases apoptosis in diabetic retinopathy. Mol. Med. Rep. 2015;12:4887–4894. doi: 10.3892/mmr.2015.4064. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Greenwald S.H., Pierce E.A. Parthanatos as a Cell Death Pathway Underlying Retinal Disease. Adv. Exp. Med. Biol. 2019;1185:323–327. doi: 10.1007/978-3-030-27378-1_53. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ Associated Data 
+ This section collects any data citations, data availability statements, or supplementary materials included in this article. 
+ Data Availability Statement 
+ No new data were created or analyzed in this study.

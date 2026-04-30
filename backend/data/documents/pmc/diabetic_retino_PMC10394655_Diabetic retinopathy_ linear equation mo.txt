@@ -1,0 +1,117 @@
+Source: PubMed Central (PMC)
+PMCID: PMC10394655
+Title: Diabetic retinopathy: linear equation modeling of risk factors
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10394655/
+Year: 2024
+Disease: diabetic_retinopathy
+Priority: 1
+============================================================
+
+ATS Sch . 2023 Mar 24;4(2):241–242. doi: 10.34197/ats-scholar.2022-0098OT 
+ 
+ 
+ Physiology of the Critically Ill Pregnant Patient with COVID-19 
+ Mark Dunlop 
+ Mark Dunlop 
+ 
+ 1 Department of Medicine; 
+ Find articles by Mark Dunlop 
+ 
+ 
+ 1, ✉ , Scott A Shainker 
+ Scott A Shainker 
+ 
+ 2 Department of Obstetrics and Gynecology; and 
+ Find articles by Scott A Shainker 
+ 
+ 
+ 2 , Margaret Hayes 
+ Margaret Hayes 
+ 
+ 3 Division of Pulmonary, Critical Care, and Sleep Medicine, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, Massachusetts 
+ Find articles by Margaret Hayes 
+ 
+ 
+ 3 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Medicine; 
+ 
+ 2 Department of Obstetrics and Gynecology; and 
+ 
+ 3 Division of Pulmonary, Critical Care, and Sleep Medicine, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, Massachusetts 
+ 
+ 
+ ✉ Correspondence and requests for reprints should be addressed to Mark Dunlop, M.D., Department of Medicine, Beth Israel Deaconess Medical Center, Harvard Medical School, 330 Brookline Avenue, Boston, MA 0221. E-mail: mdunlop@bidmc.harvard.edu . 
+ 
+ 
+ ✉ Corresponding author. 
+ 
+ 
+ 
+ Received 2022 Aug 9; Accepted 2023 Jan 19; Collection date 2023 Jun. 
+ 
+ Copyright © 2023 by the American Thoracic Society 
+ This article is open access and distributed under the terms of the Creative Commons Attribution Non-Commercial No Derivatives License 4.0 . For commercial usage and reprints, please e-mail Diane Gern . 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC10394655  PMID: 37538082 
+ 
+ 
+ Coronavirus disease (COVID-19) can lead to acute respiratory distress syndrome (ARDS). Pregnant patients with severe COVID-19 have physiologic changes that require consideration when evaluating and managing their disease. 
+ Clinical Scenario 
+ A 36-year-old gravida 1 para 0 woman at 34 weeks’ gestation is admitted with acute hypoxic respiratory failure from COVID-19 pneumonia requiring high-flow nasal cannula (flow rate, 60 L/min; fractionated inspired oxygen, 0.8). Examination is notable for tachycardia, respiratory rate 26 with oxygen saturation 95%, and mild bibasilar crackles. Fetal testing is reassuring. Pregnancy-related Physiologic Changes to Consider in Critically ILL Obstetric Patients 
+ Respiratory 
+ Maternal O 2 consumption increases with pregnancy. Increased demand drives an increase in minute ventilation, facilitated by an increased tidal volume (V t ) without a change in respiratory rate. Thus, an increase in respiratory rate should prompt immediate investigation. Cardiac 
+ Sinus tachycardia is an early finding for clinical deterioration; however, mild tachycardia (rate < 110) is commonly seen in the second and third trimesters. Vascular 
+ The gravid uterus can compress the inferior vena cava. If hypotension occurs, left lateral decubitus positioning relieves this pressure and increases venous return and resultant cardiac output. Acid–Base 
+ Normal pregnancy results in mild respiratory alkalosis (baseline pH, 7.42–7.46; partial pressure of carbon dioxide [pCO 2 ], 28–32 mm Hg; serum bicarbonate, 18–21 mEq/L), which helps improve fetal ventilation and excretion of CO 2 through the placenta ( 1 ). If bicarbonate becomes too low, it can impair uterine blood flow and lead to fetal hypoxia. A pCO 2 in the low 40s should raise concern. Gastrointestinal 
+ Decreased gastroesophageal sphincter tone plus increased intraabdominal pressure can increase the risk of aspiration. Consider this when initiating noninvasive positive pressure ventilation. Acute Hypoxic Respiratory Failure and COVID-19 in Pregnancy 
+ Dyspnea is a common complaint related to hormonal and anatomic changes throughout pregnancy. Supplemental oxygen in pregnant patients is titrated to a higher oxygen saturation as measured by a pulse oximetry goal of 95% and/or arterial oxygen pressure goal of 70 mm Hg ( 2 ) to promote adequate maternal–fetal oxygen exchange. Outcomes for pregnant patients with severe COVID-19 are worse than outcomes for age-matched nonpregnant patients, as demonstrated by increased risk of intensive care unit admission (adjusted risk ratio (aRR), 1.5; 95% confidence interval [CI], 1.2–1.8) and mechanical ventilation (aRR, 1.7; 95% CI, 1.2–2.4) ( 3 ). 
+ Proning is safe at any gestation with appropriate propping and protection to the gravid uterus ( Figure 1 ) to optimize ventilation and perfusion in severe COVID-19 with ARDS. If mechanical ventilation is required, lung-protective techniques with low V t (6 ml/kg of ideal body weight) should be used. In severe ARDS, extracorporeal life support can be implemented in pregnant patients, although maternal bleeding and preterm labor are common complications to consider ( 4 ). 
+ 
+Figure 1.
+ 
+ 
+ Open in a new tab 
+ Prone positioning during pregnancy. ( A ) Suggested pillow locations. P1: pillows supporting shins and knees; P2: pillows supporting maternal pelvis; P3: pillows supporting maternal chest; P4: pillows supporting maternal head. (Note: head of bed elevated 10–20°). ( B ) Pregnant patient with gravid abdomen supported between P2 and P3. Reprinted by permission from Reference 5 . Regarding extubation, if the rapid shallow breathing index is calculated, it should be considered with caution. Pregnancy-related increase in V t might falsely lower the calculated score. References 
+ 
+ 
+ 1. 
+Lapinsky SE.
+Management of acute respiratory failure in pregnancy. 
+
+Semin Respir Crit Care Med
+. 2017;38:201–207. doi: 10.1055/s-0037-1600909. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Halscott T, Vaught J, SMFM COVID-19 Task Force . Society for Maternal-Fetal Medicine Management considerations for pregnant patients with COVID-19. 2001 https://s3.amazonaws.com/cdn.smfm.org/media/2734/SMFM_COVID_Management_of_COVID_pos_preg_patients_2-2-21_(final).pdf 
+ 
+ 
+ 3. 
+Overton EE, Goffman D, Friedman AM.
+The epidemiology of COVID-19 in pregnancy. 
+
+Clin Obstet Gynecol
+. 2022;65:110–122. doi: 10.1097/GRF.0000000000000674. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. 
+Naoum EE, Chalupka A, Haft J, MacEachern M, Vandeven CJM, Easter SR, et al. 
+Extracorporeal life support in pregnancy: a systematic review. 
+
+J Am Heart Assoc
+. 2020;9:e016072. doi: 10.1161/JAHA.119.016072. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. 
+Levitus M, Shainker SA, Colvin M.
+COVID-19 in the critically ill pregnant patient. 
+
+Crit Care Clin
+. 2022;38:521–534. doi: 10.1016/j.ccc.2022.01.003. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

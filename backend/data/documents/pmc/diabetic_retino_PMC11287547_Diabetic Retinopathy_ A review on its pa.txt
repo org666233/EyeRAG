@@ -1,0 +1,644 @@
+Source: PubMed Central (PMC)
+PMCID: PMC11287547
+Title: Diabetic Retinopathy: A review on its pathophysiology and novel treatment modalities
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11287547/
+Year: 2024
+Disease: diabetic_retinopathy
+Priority: 1
+============================================================
+
+World J Methodol . 2024 Dec 20;14(4):95881. doi: 10.5662/wjm.v14.i4.95881 
+ 
+ 
+ Diabetic retinopathy: A review on its pathophysiology and novel treatment modalities 
+ Arvind Kumar Morya 
+ Arvind Kumar Morya 
+ 
+ 1 Head of the Department, Department of Ophthalmology, All India Institute of Medical Sciences, Hyderabad 508126, Telangana, India. bulbul.morya@gmail.com 
+ Find articles by Arvind Kumar Morya 
+ 
+ 
+ 1 , Prasanna Venkatesh Ramesh 
+ Prasanna Venkatesh Ramesh 
+ 
+ 2 Glaucoma Medical Officer, Department of Glaucoma and Research, Mahathma Eye Hospital Private Limited, Trichy 620017, Tamil Nadu, India 
+ Find articles by Prasanna Venkatesh Ramesh 
+ 
+ 
+ 2 , Prateek Nishant 
+ Prateek Nishant 
+ 
+ 3 Department of Ophthalmology, ESIC Medical College, Patna 801103, Bihar, India 
+ Find articles by Prateek Nishant 
+ 
+ 
+ 3 , Kirandeep Kaur 
+ Kirandeep Kaur 
+ 
+ 4 Department of Pediatric Ophthalmology and Strabismus, Gomabai Netralaya and Research Centre, Neemuch 458441, Madhya Pradesh, India 
+ Find articles by Kirandeep Kaur 
+ 
+ 
+ 4 , Bharat Gurnani 
+ Bharat Gurnani 
+ 
+ 5 Cornea and Refractive Services, Gomabai Netralaya and Research Centre, Neemuch 458441, Madhya Pradesh, India 
+ Find articles by Bharat Gurnani 
+ 
+ 
+ 5 , Aarti Heda 
+ Aarti Heda 
+ 
+ 6 Department of Ophthalmology, National Institute of Ophthalmology, Pune 411000, Maharashtra, India 
+ Find articles by Aarti Heda 
+ 
+ 
+ 6 , Sarika Salodia 
+ Sarika Salodia 
+ 
+ 7 Global Medical Safety, Lundbeck, Singapore 569933, Singapore, Singapore 
+ Find articles by Sarika Salodia 
+ 
+ 
+ 7 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Head of the Department, Department of Ophthalmology, All India Institute of Medical Sciences, Hyderabad 508126, Telangana, India. bulbul.morya@gmail.com 
+ 
+ 2 Glaucoma Medical Officer, Department of Glaucoma and Research, Mahathma Eye Hospital Private Limited, Trichy 620017, Tamil Nadu, India 
+ 
+ 3 Department of Ophthalmology, ESIC Medical College, Patna 801103, Bihar, India 
+ 
+ 4 Department of Pediatric Ophthalmology and Strabismus, Gomabai Netralaya and Research Centre, Neemuch 458441, Madhya Pradesh, India 
+ 
+ 5 Cornea and Refractive Services, Gomabai Netralaya and Research Centre, Neemuch 458441, Madhya Pradesh, India 
+ 
+ 6 Department of Ophthalmology, National Institute of Ophthalmology, Pune 411000, Maharashtra, India 
+ 
+ 7 Global Medical Safety, Lundbeck, Singapore 569933, Singapore, Singapore 
+ 
+ ✉ Co-first authors: Arvind Kumar Morya and Prasanna Venkatesh Ramesh. 
+ Author contributions: Morya AK designed the research; Ramesh PV, Nishant P, Kaur K and Gurnani B performed the research; Ramesh PV and Nishant P wrote the manuscript; Nishant P, Heda A and Salodia S revised the manuscript. 
+ Corresponding author: Arvind Kumar Morya, MS, Doctor, Neurosurgeon, Professor, Researcher, Senior Lecturer, Senior Researcher, Surgeon, Head of the Department, Department of Ophthalmology, All India Institute of Medical Sciences, Bibi Nagar, Hyderabad 508126, Telangana, India. bulbul.morya@gmail.com 
+ 
+ 
+ Received 2024 Apr 21; Revised 2024 May 28; Accepted 2024 Jul 10; Collection date 2024 Dec 20. 
+ 
+ ©The Author(s) 2023. Published by Baishideng Publishing Group Inc. All rights reserved. 
+ This article is an open-access article that was selected by an in-house editor and fully peer-reviewed by external reviewers. It is distributed in accordance with the Creative Commons Attribution NonCommercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC11287547  PMID: 39712561 
+ 
+ Abstract 
+ Diabetes mellitus (DM) is a chronic metabolic non-communicable disease with the ability to cause serious microvascular and macrovascular complications throughout the body, including in the eye. Diabetic retinopathy (DR), present in one-third of patients with diabetes, is a vision-threatening complication caused by uncontrolled diabetes, which greatly affects the retinal blood vessels and the light-sensitive inner retina, eventually leading to blindness. Several epidemiological studies elucidate that DR can vary by age of onset, duration, types of diabetes, and ethnicity. Recent studies show that the pathogenesis of diabetic retinopathy has spread its roots beyond merely being the result of hyperglycemia. The complexity of its etiopathology and diagnosis makes therapeutic intervention challenging. This review throws light on the pathological processes behind DR, the cascade of events that follow it, as well as the available and emerging treatment options. 
+ Keywords: Diabetes, Diabetic retinopathy, Diabetic macular edema, Intravitreal injection, Laser photocoagulation 
+ 
+ Core Tip: Diabetic retinopathy (DR) is a complication of diabetes mellitus that is a potential threat to the vision of patients. In patients with diabetes, regular ocular examination is essential to diagnose the disease at an early stage, and timely screening and diagnosis play an important part in a better prognosis. Non-proliferative diabetic retinopathy (NPDR) requires regular follow-up and treatment as and when needed. In proliferative diabetic retinopathy (PDR), the effectiveness of laser photocoagulation is time-bound: the earlier the better. Advanced DR stages require a more intensive approach such as vitreoretinal surgery, and PDR is associated with limited visual prognosis. Despite the multiple therapeutic approaches that are currently available for DR patients, such as intravitreal injections and sutureless pars plana vitrectomy, an interdisciplinary approach remains a mandate to treat these patients. Diabetic patients require good glycemic control as well as blood pressure control to reduce the risk of associated ophthalmic complications. 
+ INTRODUCTION 
+ Diabetes mellitus (DM) is a globally growing epidemic affecting more than 400 million adults and is likely to affect 650 million by 2040[ 1 - 3 ]. Uncontrolled and long-standing diabetes affects every organ of the body, including the eye. 
+ Arguably the most popular ocular complication of DM is diabetic retinopathy (DR). DR is classically characterized by gradually progressing changes that occur in the microvasculature. These changes include alterations in the retinal permeability, macular edema, retinal ischemia and neovascularization. Recent research, however, has explained that neurodegeneration of the retina is a crucial hallmark linked with the disease process. Retinal ganglion and axonal loss appear to be antecedent to microangiopathy[ 4 - 9 ], as various cell types show deviations in their functions on electrodiagnostic tests and other macular function investigations performed with reduced illumination and contrast[ 10 - 15 ]. The functional abnormalities are attributable to vascular injury, as well as toxicity to the integrated neurovascular unit by products of direct inflammation causing slow but relentless neurodegeneration[ 16 ]. Further, the idea that neurovascular complex lesions precede the angiopathic lesions suggests that innovative management modalities targeting these pathways ought to be carefully investigated. This is likely to guide us to better understand this problem and ultimately develop practical treatment modalities[ 17 - 19 ]. 
+ DR is a leading cause of blindness in the adult working populace. Poor patient compliance with annual ocular screening (only 35%–55% compliance) is an important factor for late diagnosis of the disease. Screening of the retina or retinal photography focused on vascular abnormalities is usually delayed, and the disease is often left undetected. In instances where severe damage has occurred, it was found that treatments are not able to effectively restore vision, with only 25%–28% demonstrating improvement of ≥ 3 early treatment DR study (ETDRS) lines[ 20 - 25 ]. Additionally, retinal examination alone, or with artificial intelligence-assisted photographic identification of hemorrhagic and vascular lesions, is currently limited by its capacity to overwhelmingly detect gross retinal abnormalities that cause visual impairment, and is not yet adept at identifying inner retinal ischemia, the histological levels of exudates with hemorrhages in the retina, and retinal pigment epithelium abnormalities[ 26 - 28 ]. 
+ Management of DR involves a combination of strategies aimed at controlling the underlying diabetes and directly treating retinal complications. Primarily, it involves a combination of strategies, including glycemic control, blood pressure management, and lipid-lowering therapies to slow the progression of the disease. For advanced stages of DR, treatment modalities are laser photocoagulation, intravitreal anti-vascular endothelial growth factor (anti-VEGF) agents, and corticosteroids to treat macular edema and proliferative DR. Vitrectomy is reserved for severe cases involving vitreous hemorrhage or tractional retinal detachment. 
+ Retinopathy is best understood if approached from the point of view of being an integrated pathophysiological construct of diabetes and its associated complications. This review manuscript presents newer perspectives regarding the etiology and pathophysiology of the domino-like progression of DR, and its candidate targets, highlighting the role of the inter-professional team in diagnosing and treating patients with these diseases. METHODOLOGY 
+ The authors looked up highly cited articles from PubMed, Scopus, Google Scholar, Web of Science, Cochrane Library, and Embase databases, focusing on publications from 1990 to 2022. The specific keywords used in the search included “Diabetic Retinopathy,” “Retinal Neurodegeneration,” “Anti-VEGF Therapy,” “Macular Edema,” and “Neurovascular Unit.” These keywords were selected to cover critical aspects of DR, ensuring a focused and detailed examination of the condition’s underlying mechanisms and treatment strategies. 
+ We diligently used Reference Citation Analysis to search the articles, based on the Impact Index per article. Five independent reviewers selected the latest highlighted articles, based on their relevance, recency, and impact on the understanding and management of DR. This selection includes recent reviews and meta-analyses that offer comprehensive overviews, clinical trials, studies on new treatment modalities like anti-VEGF therapies and corticosteroids, and basic science research that delves into the neurodegenerative aspects of DR and the function of the neurovascular unit. Additionally, articles discussing technological advances in diagnosing and managing DR, particularly the use of artificial intelligence in retinal imaging, were included. All articles published in English were included. PREVALENCE AND CLINICAL CHALLENGE OF DR 
+ DR is an ever-rising public health problem, with the increasing burden of DR-related visual impairment and blindness[ 29 - 32 ]. Many epidemiologic studies state that DR is more frequent in younger patients with type 1 DM. Thus, DR is a burden to the socio-economic system, owing to its significant impact on the global workforce[ 33 ]. The prevalence of DR in pediatric age groups is variable. Few studies have published that mild DR occurs in children, with the duration of the disease as short as 1–2 years. However, many studies reveal that the duration is 3 years or more, with the typical duration being 8–10 years before the inception of retinopathy[ 34 - 37 ]. 
+ Among adults, the prevalence of DR has been found to range from 4%–32% in various studies[ 38 - 46 ]. The International Centre for Eye Health, London, has included the prevalence of DR in the Rapid Assessment of Avoidable Blindness (RAAB + DR) study, as a much faster and less expensive way to determine the burden of diabetes and DR in the over-50 population. This will help plan and prioritize diabetic eye care services to that population group, for early detection and treatment of the disease[ 34 ]. RISK FACTORS 
+ Development of DR is proportionate to the age of the patient, the duration of diabetes, poor glycemic control, and fluctuating serum lipid and blood pressure levels. The etiological risk factors for DR are shown in Table 1 . 
+ Table 1. 
+ Etiological risk factors for diabetic retinopathy 
+ 
+ 
+ 
+ Non-modifiable risk factors 
+ 
+ 
+ 
+ Modifiable risk factors 
+ 
+ 
+ 
+ Newer risk factors 
+ 
+ 
+ 
+ 
+ 
+ Puberty 
+ Hypertension 
+ Inflammation 
+ 
+ 
+ Pregnancy 
+ Obesity 
+ Apolipoproteins 
+ 
+ 
+ 
+ Dyslipidemia 
+ Hormonal influence 
+ 
+ 
+ 
+ 
+ Poor glycemic control 
+ Leptin and adiponectin vitamin D 
+ 
+ 
+ 
+ Nephropathy 
+ Oxidative stress 
+ 
+ 
+ 
+ 
+ Genetic factors 
+ 
+ 
+ 
+ Open in a new tab PATHOPHYSIOLOGY OF DR 
+ Although the core pathophysiological factor responsible for the development of DR is hyperglycemia, the natural history of DR arises from increased vascular perfusion and leakage, retinal inflammation, edema, expression of cytokines and cell adhesion molecules, glial reaction, apoptosis of the inner retinal structures, and neovessel formation (Figure 1 )[ 47 ]. 
+ Figure 1. 
+ 
+ Open in a new tab 
+ 
+ Pathophysiologic process of diabetic retinopathy. Ang: Angiotensin; IGF: Insulin-like growth factor; VEGF: Vascular endothelial growth factor. Hyperglycemia 
+ Hyperglycemia is a primary biochemical disturbance of diabetes and implies an increased level of plasma glucose owing to insulin inadequacy. Various metabolic pathways have been involved in hyperglycemia-induced vascular changes, including advanced glycation end products (AGEs) accumulation, the polyol pathway, and the protein kinase C (PKC) pathway. Oxidative stress due to hyperglycemia has also been implicated in the development of DR. 
+ 
+ AGEs: Accumulation of AGEs occurs secondary to non-enzymatic protein glycation pathogenic mechanisms due to raised glucose levels. AGE formation causes various secondary complications, such as triggering the reactive oxygen species (ROS), which subjects retinal cells to oxidative stress by one of three primary pathways: as altered serum proteins, as endogenous adducts produced secondary to glucose metabolism, or as extracellular matrix-immobilized alterations of structural proteins. Additionally, the increased amount of AGEs cause a decrease in the standard mRNA levels of pigment epithelium-derived factor (PEDF), which has a protective role[ 48 - 50 ]. Simultaneously, this cascades nicotinamide adenine dinucleotide phosphate (NADPH) oxidase and nuclear factor-B (NF-κB), causing inflammation and retinal cell damage, leading to DR[ 48 , 51 , 52 ]. 
+ 
+ Polyol pathway: Hyperglycemia activates the metabolic polyol pathway, leading to the production of sorbitol with NADPH (Figure 2 )[ 53 ]. Sorbitol dehydrogenase converts sorbitol into fructose as cellular membranes are impermeable to sorbitol. In addition, NADPH reduces the antioxidant capacity of the cells. So, the accumulation of sorbitol causes multiple forms of damage in retinal cells including osmotic damage and leads to DR. 
+ Figure 2. 
+ 
+ Open in a new tab 
+ 
+ Sorbitol pathway. NADP: Nicotinamide adenine dinucleotide phosphate; NADPH: Nicotinamide adenine dinucleotide phosphate hydrogen. 
+ PKC: Of the 10 enzymes in the PKC family, the β1/2 isoform seems to be particularly connected to the onset and progress of DR[ 54 ]. PKC is a serine/threonine kinase that participates as a signal transducer in response to extracellular stimuli. The main PKC activator in physiology, diacylglycerol (DAG), is synthesized de novo because of increased glucose metabolism through the glycolysis pathway brought on by hyperglycemia. Clinical and experimental research has shown that the expression of DAG and PKC activation are both increased in the diabetes condition (Figure 3 )[ 55 ]. PKC promotes DR by altering blood flow to the retina, causing changes in endothelial and leukocyte function that lead to capillary occlusion and leukostasis, and altering the synthesis of extracellular matrix (ECM) proteins and ECM remodeling. Because of this, the PKC pathway has a direct impact on other pathways, including those involved in inflammation, neovascularization, and abnormal hemodynamics, all of which play a role in the development of DR. 
+ Figure 3. 
+ 
+ Open in a new tab 
+ 
+ Pathway of oxidative stress on the development of diabetic complications. ECM: Extracellular matrix; PKCβ: Protein kinase C beta; VEGF: Vascular endothelial growth factor. 
+ Oxidative stress: The increased ROS causes loss of neurons and pericytes, resulting in clogged capillaries (Figure 4 ). Escalating intracellular NADH levels increase the tricarboxylic acid cycle, thereby altering the tissue lactate:pyruvate ratio. This causes electron flux into the mitochondria, generating ROS, causing oxidative stress[ 48 ]. This potentially accentuates the nuclear enzyme poly-adenosine diphosphate-ribose polymerase and increases NF-κB activation, which influence production of TNF-α and NF-κB-dependent genes. This exacerbates stress, leading to capillary block and ultimately deforming alterations in the microvascular structure of the retina causing DR[ 49 ]. 
+ Figure 4. 
+ 
+ Open in a new tab 
+ 
+ Regulation of pathophysiological processes in diabetic retinopathy by protein kinase C. H 2 O 2 : Hydrogen peroxide; Me n+ : Methyl Cation; O 2 ˉ: Oxygen superoxide anion radical; OH.: Oxygen hydroxyl radical; ROOH: Hydroperoxides. Other pathophysiological changes leading to DR 
+ 
+ Renin-angiotensin-aldosterone system: The renin-angiotensin-aldosterone system (RAAS) regulates fluid balance and blood pressure and exhibits abnormalities in diabetic individuals[ 56 ]. In PDR, the expression of renin, angiotensin-converting enzymes I and II (ACEI and ACE II), angiotensin receptors, RAAS receptors and signaling molecules, has been observed to rise in DR[ 57 ]. There is evidence from experimental models that ACE inhibition reduces neovascularization, a defining characteristic of early DR. 
+ 
+ Dyslipidemia and hypertension: Dyslipidemia and high blood pressure may also influence DR[ 58 ]. Blood pressure has been shown to have a substantial impact on the development of PDR by the Wisconsin Epidemiological Study of Diabetic Retinopathy (WESDR) and the United Kingdom Prospective Diabetes Study[ 59 , 60 ]. Furthermore, people with diabetes frequently experience hypertension. Additionally, an investigation by Patel et al [ 61 ] showed that blood flow to the retina was found to be reduced after effective photocoagulation, which was seen as a correction to hemodynamic autoregulation. 
+ Through two different processes, hypertension is considered to speed up the development of DR. First, endothelial dysfunction is caused by mechanical strain and shear stress that elevate blood pressure, increase retinal perfusion, and increase blood viscosity placed on endothelial cells. Second, the pathophysiology of DR is separately linked to the endocrine system that regulates blood pressure[ 59 ]. 
+ Effective management of systemic risk factors is essential, but hyperglycemia (indicated by HbA1c levels) may contribute to approximately 10% of the risk for DR. Hypertension and dyslipidemia together may account for less than 10% of the risk, as seen in certain population-based studies[ 62 , 63 ]. This evidence implies that other, yet-to-be-identified factors, play a significant role in the initiation and progression of DR. 
+ 
+ Subclinical inflammation and leukostasis: Many studies have documented that subclinical inflammation plays a key role in the development of DR[ 64 ]. While AGEs, oxidative stress, hypertension, and hyperglycemia are contributors to inflammation, further propagation of these pathways is caused by the inflammatory response itself, via various signaling responses involving VEGF, RAGE expression, nitric oxide, CRP, ICAM-1, and NF-B. Endothelial nitric oxide synthase (eNOS) causes the formation of new, fragile blood vessels and an increase in their permeability due to VEGF, which induces ICAM-1 and eNOS expression. 
+ Leukostasis causes capillary blockage, ROS-mediated cell death, and an intense local inflammatory response in the retinal tissue. It is a significant event in the pathophysiology of DR. It is widely known that individuals with DR have significantly higher levels of soluble and cell surface adhesion molecule activation, systemic production of proinflammatory cytokines, and chemokine expression in the retina[ 64 , 65 ]. Numerous clinical investigations show a correlation between the development of DR and an increase in serum proinflammatory cytokines, adhesion molecules, and immune cell activation. The connection between leukocytes and endothelial cells is improved by endothelial dysfunction, elevated levels of proinflammatory cytokines, and adhesion molecules. This was further supported by research showing that leukocyte entrapment in retinal capillaries in experimental models was significantly decreased when adhesion molecules were knocked off. 
+ Recent research has demonstrated that variations in the expression of carbohydrate chains on leukocyte surfaces trigger their activation, rolling and adherence to the vascular endothelial cells. In diabetic individuals, UDP-GlcNAc: Galβ1-3GalNAcβ-R-β-1-6-N-acetylglucosaminyltransferase (C2GNT) has increased activity. The enhanced O-glycosylation-type alterations on the leukocyte’s surface carbohydrate chains caused by this hyperglycemia and the TNF-α induced enzyme result in increased leukocyte dysfunction and leukostasis. The severity and development of DR and neuropathy have both been linked to the enzyme activity[ 50 ]. 
+ The pathophysiology of DR is also hypothesized to involve inflammatory factors at a local level, such as the triggering of microglia, macrophages, and other immune cells. The pathophysiology of DR has been linked to higher levels of proinflammatory cytokines, ROS, growth factors, matrix metalloproteinases, and nitric oxide, produced more often when microglia are activated in the diabetic retina. The anti-inflammatory antibiotic minocycline stops microglial activation and halts DR progression. 
+ 
+ Growth factors: VEGF, insulin-like growth factor-1 (IGF-1), PEDF, basic fibroblast growth factor, angiopoietin (Ang)-1 and -2, stromal-derived factor-1, epidermal growth factor, transforming growth factor-beta 2, platelet-derived growth factors, and erythropoietin, are some of the growth factors that have been attributed to the development and progression of DR[ 66 ]. 
+ Most human tissues manufacture insulin-like growth factors (IGFs), and elevated levels of IGF-1 are found in the vitreous and serum of individuals with diabetes. IGF’s specific significance in the development of DR is not yet clear. IGFs appear to function both systemically and directly inside target tissues, according to mounting data. Additionally, much research points to vascular endothelial growth factor (VEGF) as the regulator of IGF action in neovascularization[ 67 ]. 
+ VEGF is the growth factor that has been the focus of most studies on DR. It increases vascular permeability in the ischemic retina, stimulates angiogenesis, breaks down the blood-retinal barrier, and causes endothelial cell proliferation and neovascularization. The activation of two membrane-bound tyrosine kinase receptors is the mechanism through which VEGF exerts its cellular effects. Two possible signaling routes, a calcium influx channel or a mitogen-activated protein kinase signaling pathway, may be activated by the binding of VEGF to the membrane-bound receptors. The blood-retinal barrier degradation and vascular leakage that VEGF has been linked to occur via both mechanisms. The angiogenic function of VEGF in the retina is assumed to be a result of an interaction with angiotensin II. Leukocyte adherence to retinal endothelial cells has been linked to VEGF, and this is thought to happen when nitric oxide synthase and intracellular adhesion molecule-1 are induced[ 68 ]. 
+ 
+ Malfunction of insulin signaling in DR: Cellular absorption of fatty acids, carbohydrates, and proteins is heavily influenced by the presence of insulin. Insulin shows an inverse interaction with glucagon for the regulation of glucose, and these interactions are regulated by the signal transduction pathway[ 69 ]. In the presence of abnormalities in coagulation or insufficiency in insulin, this mechanism gets disrupted. Research that utilized exsanguinated animals proposed that there was a decrease in the rate of transport of insulin, along with alterations in the physiological functions of glial, neuronal, and vascular cells of the retina[ 69 , 70 ]. Current studies have discovered that insulin receptor activation in microvasculature shows a multitude of effects, such as an overlap of the insulin receptor, insulin receptor substrate-1, phosphatidylinositol3-kinase, and phosphotyrosine in neuronal cells of rats[ 69 , 71 , 72 ]. Different IR subsets signal differently[ 73 ]. Another study on hyperglycemic rats showed increased insulin receptor levels in retinal cells[ 74 ]. There is evidence of a link between insulin levels and retinopathy; however, more research is needed to understand the underlying mechanism fully. 
+ 
+ Retinal neurodegeneration: The progression of DR begins with retinal neurodegeneration. Growing data suggests that retinal neurodegeneration may have a distinct pathogenesis apart from DR. Loss of ganglion cells and a decrease in retinal thickness were seen in a mouse model of diabetes before the development of microvascular changes. Patients with diabetes who had either no DR or early DR (microaneurysms) had inner retinal thinning. To develop possible therapeutic targets for DR early intervention, more research into the molecular pathways of retinal neurodegeneration is needed[ 75 ]. STRUCTURAL PATHOGENESIS MODEL OF DR - THE NEUROVASCULAR UNIT IN DR 
+ Retinal neurovascular unit pathology, or DR, describes the interdependent interaction and functional linkage between neuroglia, neurons, and retinal vasculature that controls the retina’s normal function[ 76 ]. Retinal capillaries consist of endothelial cells and pericytes and are closely linked with glial end feet, neural processes, and microglia. Retinal arterioles have smooth muscle cells in their vessel wall with marked pericyte coverage, depending on the order and size of the vessel. Pericytes respond dynamically to different vascular and neuronal (neural as well as glial) stimuli[ 77 ]. The responses can be visualized as “neurovascular coupling,” which occurs in large and small vessels to adjust blood flow to attain the metabolic demands of the retina. Its dysregulation in DR is evidenced by abnormal retinal vascular response to diffuse illuminance flicker. This also occurs due to unusual endothelial-glia interactions, resulting in attenuated vascular dilatory responses that may have a prognostic value in early DR[ 77 - 79 ]. The concept of DR as a disorder involving both nerves and vessels together widens the potential therapeutic strategies for DR due to the multitude of cell-types that can be modulated by innovative therapies. CLASSIFICATION SYSTEMS OF DR 
+ Early treatment DR study 
+ The details of the ETDRS classification are shown in Table 2 . 
+ Table 2. 
+ Early treatment of diabetic retinopathy classification of diabetic retinopathy 
+ 
+ 
+ Category 
+ 
+ Features 
+ 
+ Follow-up periods 
+ 
+ 
+ 
+ 
+ No DR 
+ No findings 
+ 12 months 
+ 
+ 
+ Very mild NPDR 
+ Microaneurysms only 
+ Most of the patients in 12 months 
+ 
+ 
+ Mild NPDR 
+ Any or all of: Microaneurysms, retinal hemorrhages, exudates, cotton wool spots 
+ 6-12 months, depending on the severity of signs, stability, systemic factors, and patient’s personal circumstances 
+ 
+ 
+ Moderate NPDR 
+ Severe retinal hemorrhages in 1-3 quadrants or mild IRMA; Significant venous beading in no more than one quadrant; Cotton wool spots 
+ Approximately 6 months (PDR in up to 26%, high-risk PDR in up to 8% within a year) 
+ 
+ 
+ Severe NPDR 
+ The 4-2-1 rule; Severe retinal hemorrhages in all four quadrants; Significant venous beading in ≥ 2 quadrants; Moderate IRMA in > 1 quadrant 
+ 4 months (PDR in up to 50%, High-risk PDR in up to 15% within a year) 
+ 
+ 
+ Very severe NPDR 
+ ≥ 2 of the criteria for severe 
+ 2-3 months (high-risk PDR in up to 45% within a year) 
+ 
+ 
+ High-risk PDR 
+ NVD > 1/3 rd disc area; Any NVD with vitreous/Pre-retinal hemorrhage; NVE > 1/2 disc area with vitreous/pre-retinal hemorrhage 
+ Laser photocoagulation Intravitreal Anti-VEGF agents Intravitreal Triamcinolone Pars Plana Vitrectomy; Lipid-lowering drugs 
+ 
+ 
+ Advanced diabetic eye disease 
+ Pre-retinal (retro hyaloid) and/or intragel hemorrhage; Tractional retinal detachment Tractional retinoschisis Rubeosis Iridis (Iris Neovascularization) 
+ Pars plana vitrectomy 
+ 
+ 
+ 
+ Open in a new tab 
+ NPDR: Non-proliferative diabetic retinopathy; NVD: Neovascularization of the disc; NVE: Neovascularization elsewhere; PDR: Proliferative diabetic retinopathy. Optical coherence tomography classification of diabetic macular edema 
+ Optical coherence tomography (OCT) is a non-invasive, non-contact transpupillary imaging technique that has set the precedent for the onset of a new era in ophthalmic clinical practice in terms of ocular imaging, by producing histologically analogous images of the macula. OCT thereby allows objective evaluation of macular thickness and evaluation of the vitreomacular interface (Figures 5A - C ). Various OCT patterns of structural macular changes linked with diabetic macular edema (DME) are shown in Table 3 . 
+ Figure 5. 
+ 
+ Open in a new tab 
+ 
+ Optical coherence tomography images. A: Cystoid macular edema; B: Tractional retinal detachment; C: Tractional retinal detachment due to vitreous hemorrhage. Table 3. 
+ Optical coherence tomography classification of diabetic macular edema 
+ 
+ 
+ Classification features 
+ 
+ 
+ 
+ Large cystoid spaces 
+ Serous detachment of the retina 
+ Tractional detachment of the fovea or vitreomacular traction 
+ Taut posterior hyaloid membrane 
+ Diffuse retinal thickening 
+ Cystoid macular edema with posterior hyaloidal traction serous retinal detachment Tractional retinal detachment 
+ 
+ 
+ Open in a new tab International clinical DR disease severity scale 
+ To simplify the classification of DR, several faculties discussed and introduced the International Clinical Disease Severity Scale for DR[ 80 ]. This severity scale for the disease is founded on the interpretations presented by the WESDR and the ETDRS (Figures 6A and B ). The details of the International Clinical Diabetic Retinopathy Disease Severity Scale classification are shown in Table 4 . 
+ Figure 6. 
+ 
+ Open in a new tab 
+ 
+ Fundus. A: All suggestive findings of severe non-proliferative diabetic retinopathy; B: Severe proliferative diabetic retinopathy; C: Pan-retinal photocoagulation laser marks. Table 4. 
+ International clinical diabetic retinopathy disease severity scale classification of diabetic retinopathy 
+ 
+ Disease 
+ 
+ 
+ 
+ Concerning diabetic retinopathy 
+ 
+ 
+ 
+ No apparent retinopathy 
+ 
+ No findings 
+ 
+ 
+ 
+ Mild NPDR 
+ 
+ Only microaneurysms 
+ 
+ 
+ 
+ Moderate NPDR 
+ 
+ More microaneurysms and less than severe disease 
+ 
+ 
+ 
+ Severe NPDR 
+ 
+ No signs of PDR; Intraretinal hemorrhages in all four quadrants; Venous beading in ≥ 2 quadrants; Prominent IRMA ≥ 1 quadrant 
+ 
+ 
+ 
+ PDR 
+ 
+ Neovascularization; Vitreous or subhyaloid hemorrhage Figure 6 (Fundus picture showing PDR) 
+ 
+ 
+ Concerning DME 
+ 
+ 
+ 
+ DME apparently absent 
+ 
+ No retinal thickening and hard exudates at the posterior 
+ 
+ 
+ 
+ DME apparently present 
+ 
+ Apparent retinal thickening and hard exudates present at the posterior pole. Furthermore, it can be classified into three subtypes based on the area of thickening and hard exudates in the center of the Fovea 
+ 
+ 
+ 
+ Mild DME 
+ 
+ The retinal thickening or hard exudates are located farther away from the center of the fovea 
+ 
+ 
+ 
+ Moderate DME 
+ 
+ Retinal thickening or hard exudates are near the center of the macula but not involving the fovea 
+ 
+ 
+ 
+ Severe DME 
+ 
+ Hard exudate and thickening present in the center of the fovea 
+ 
+ 
+ 
+ Open in a new tab 
+ DME: Diabetic macular edema; NPDR: Non-proliferative diabetic retinopathy; PDR: Proliferative diabetic retinopathy. Fluorescein angiographic classification 
+ The ETDRS formulated that certain fundus changes in diabetes are discernible on fluorescein angiograms (FA) rather than colored fundus photographs. Hence, FA-based classification was also proposed, including stereoscopic FA of two 30° fields along the horizontal meridian, ranging from 25° nasal to the optic disc to 20° temporal to the macula. In the early-mid phase of the FA, the foveal avascular zone, loss of capillary flow, dilation of capillaries, arteriolar abnormalities, and RPE abnormalities were assessed. Fluorescein leakage, fluorescein leakage source, and cystoid changes were analyzed during the late FA phase[ 81 ]. This fluorescein angiographic classification scheme is time consuming, complex, and best-suited for the research setting, not for regular clinical use. Modified Airlie House classification 
+ In 1968, a group of faculties met in Airlie House, Virginia, to discuss the known factors about DR at that time. After the symposium, a standardized classification system for DR was developed. This system underwent modifications and was utilized in the Diabetic Retinopathy Study[ 82 ]; it was later adapted for use in the ETDRS. The modified Airlie House Classification of DR is based on the grading of stereo images across seven fields. It categorizes DR into 13 detailed levels, from level 10 (no retinopathy present) to level 85 (vitreous hemorrhage or retinal detachment involving macula)[ 83 ]. Although highly valuable for research purposes, its complexity makes it impractical for routine clinical use. As a result, most ophthalmologists do not employ this classification in their everyday practice. TREATMENT PROTOCOLS IN DR AND OTHER ASSOCIATED SYSTEMIC DISEASES, AND THEIR LIMITATIONS 
+ Ocular treatment protocols 
+ Ocular treatment protocols for DR comprise of laser photocoagulation, intravitreal anti-VEGF and steroidal injections, and vitreoretinal surgery. Recent therapeutics emphasize treatment of advanced diseases such as PDR or DME. 
+ For PDR, pan-retinal photocoagulation (PRP) is the first-line treatment (Figure 6C ). Laser burns to the peripheral retina can induce recession of neovessels, and the ability of PRP to reduce occurrence of severe vision loss in cases of PDR was confirmed in a DR study[ 79 ]. Complications reported in post-PRP eyes include peripheral visual field loss, delayed dark adaptation, and atrophic creep over extended follow-up periods. To solve those issues, the pattern scan laser was used and the pain, time, expansion of the coagulation, nerve fiber layer loss, and inflammatory cytokines significantly reduced[ 84 ]. The ETDRS eventually told that less aggressive focal or grid laser treatment given to the macula decreases the rate of moderate visual impairment in eyes with DME by 50% over 3 years[ 85 ]. Recently, sub-threshold diode laser micropulse photocoagulation, invisible retinal phototherapy, has been used to treat parafoveal edema mild macular edema, including that of the fovea, owing to its capacity to apply energy to the retinal pigment epithelium to stimulate it without triggering cell death[ 86 ]. 
+ In this modern era, three clinical sittings of intravitreal anti-VEGF injections enhance visual gains in eyes with DME[ 87 - 89 ]. A recent comparative efficacy study of the most advised anti-VEGF injections showed that aflibercept, bevacizumab, and ranibizumab were all effective in visual improvement[ 90 , 91 ]. However, treatment with aflibercept provided better visual gains as compared with bevacizumab and ranibizumab where initial visual acuity was poorer. Steroid intravitreal injections against VEGF are the first-line treatment for most eyes with centrally involved DME, and they can also be beneficial in treating DME[ 92 , 93 ]. However, intravitreal steroid usage is limited because of ocular side effects, such as cataracts and glaucoma. 
+ In eyes with PDR, anti-VEGF medication has been strongly recommended as a means of regressing retinal neovascularization[ 94 ]. Recent studies have shown anti-VEGF to be an effective treatment option in eyes with PDR, especially with coexistent DME. Additionally, the advantages of anti-VEGF over PRP laser include reduced chances of peripheral visual field loss, DME, and vitrectomy over 2 years. Even with these positive outcomes, anti-VEGF therapy may not be optimal for patients who cannot present themselves for the near-monthly follow-up. Evidence on the efficacy and safety of anti-VEGF therapy and comparison with other treatment modalities is available from the Diabetic Retinopathy Clinical Research Network (drcr.net). 
+ Steroid treatment is considered in the case of diffuse macular edema because of its anti-inflammatory effect downregulating the proinflammatory and pro-angiogenic mediators implicated in the progression of DME. Topical corticosteroids are preferable for DME rather than systemic administration as it has multiple side effects. The various routes of administration of corticosteroids include intravitreal injection, sub-Tenon injection, and dexamethasone intravitreal implant (Ozurdex; Abbvie, Chicago, IL, United States). Intravitreal triamcinolone acetonide (IVTA) has been used to treat DME for decades with substantial improvements in macular thickness and visual acuity[ 95 ]. Sub-Tenon triamcinolone acetonide injection (STTA) is also preferred to treat DME patients, though it has some controversial results[ 96 ]. The Ozurdex implant has become an alternative to IVTA and STTA because it provides a sustained-release formulation for dexamethasone required for adequate treatment and prevention of PDR recurrences[ 97 ]. 
+ Vitreoretinal surgery is used for non-clearing vitreous hemorrhage in PDR and tractional retinal bands[ 98 ]. In cases where there is an epiretinal membrane or some component of vitreoretinal traction causing retinal thickening, pars plana vitrectomy with or without peeling of the internal limiting membrane is done to treat associated DME. Though retinal thickening often improves after vitrectomy for DME, with results showing approximately a third of patients experiencing significant visual improvement, the visual outcomes may not be optimal, as evidenced by 20%–30% of patients who have significant loss of vision following this intervention. 
+ Although current therapies are effective at preventing vision loss and often yield favorable visual outcomes for patients with both PDR and DME, there remain unmet treatment needs. Approximately 40%–50% of eyes with DME do not fully respond to anti-VEGF therapy, highlighting the need for new, advanced treatments. Moreover, for both PDR and DME, there is a need for non-invasive, non-destructive, and longer-lasting treatment options. Other supportive essential treatments for diabetes 
+ Strict control of hyperglycemia and associated comorbidities are the first step. If macular edema worsens after PRP with moderate vision reduction, other modalities of treatment may be needed. 
+ It is common to see raised intraocular pressure after intravitreal injections in the initial phase. This usually reduces within 3-6 h. One tablet of acetazolamide 250 mg stat may be used after the procedure. Follow-up is essential the next day, after which they are planned as needed. Further management is decided based on OCT done at every follow-up, whether repeat injections, and/or laser or surgery would be needed. NEW THERAPEUTIC APPROACHES IN DR 
+ While there have been substantial developments in management protocols for DR, additional approaches are warranted because recent therapies exclusively target advanced DR. Anti-VEGF injection is only partially effective against DME, and the identification of additional, VEGF-independent pathogenic molecules in this scenario is important, as it may lead to new treatments that aid better preservation of vision[ 99 ]. Broadening treatments beyond direct suppression of pathologic vascular changes may have more benefits. Recognizing DR as a disease of the neurovascular unit highlights the need to expand therapeutic targets. Broadening the focus beyond just vascular leakage and neovascularization to include neuroprotection and intraretinal revascularization would set ambitious goals for DR treatment. The idea that epigenetic modifications related to metabolic memory play a role in DR is another pathogenic process deserving of therapeutic focus[ 100 ]. Topical drug formulations capable of penetrating the retina could reduce systemic side effects and enable patients to self-administer treatments over extended periods. These novel therapeutic approaches demonstrate promising advancements. Future strategies hold the potential to significantly revolutionize the management of DR with even more innovative solutions. FUTURE APPROACHES TO DR 
+ Artificial intelligence in DR 
+ Artificial intelligence (AI) is becoming popular in diagnosing fundus images using the basic convolutional neural network, as it is more sensitive and specific for the diagnosis of DR in comparison with human capabilities. Studies have also reported that AI systems can perform automated grading of DR. 
+ IDxDR is the first United States Food and Drug Administration (FDA)-approved commercially available DR detection and referral system. This system uses lesion-based grading with a sensitivity of approximately 80%, but with a specificity of less than 90%[ 101 ]. Although it is an effective tool, it remains less popular because of the high cost and bulky size. 
+ Morya et al [ 101 ] have shown that the first smartphone-based online annotation tool for DR and common retinal disorders is very effective for faster and more accurate image labeling, using AI-based deep learning (DL) for DR (Figure 7 ). The DL algorithm creates a binary classification system for diabetic retinopathy referrals based on whether a patient’s retinal image indicates the presence of referable DR. A team of 32 retinal specialists, eight IIT engineers, and supporting staff used the tool for over 200,000 images. This tool was flexible and portable with accurate grader variability in concurrence with image annotation[ 101 , 102 ]. 
+ Figure 7. 
+ 
+ Open in a new tab 
+ 
+ How artificial intelligence software assesses diabetic retinopathy into referable and non-referable interventions. NPDR; Non-proliferative diabetic retinopathy; PDR: Proliferative diabetic retinopathy. Sosale et al [ 102 ] created and investigated Remidio Medios, an offline AI. This algorithm was developed to operate offline due to restricted internet access and demands considerable computational capabilities, unlike cloud-based AI systems commonly used in developing nations. Fundus can be imaged using a handheld camera (Remidio Non-Mydriatic Fundus on Phone) and the image directly processed on a smartphone graphics processing unit, with 86% specificity and 98% sensitivity. 
+ Retmarker can decrease the workload of humans grading pictures by 48%[ 103 ]. Rather than visiting specialized hospitals, these systems enable diabetic participants to obtain fundus pictures or OCT images at nearby basic healthcare clinics. These images can then be used for direct grading, providing recommendations for follow-up or referral. This approach enhances convenience and efficiency for diabetic patients undergoing fundus screening, substantially reducing the workload of ophthalmologists. As a result, it can greatly enhance compliance with fundus screening among diabetic patients[ 102 ]. Protective mechanisms 
+ Significant research has been devoted to identifying the pathogenic pathways involved in the initiation and progression of DR. A notable emerging perspective highlights the paramount value of autogenous protective mechanisms against DR[ 104 , 105 ]. In a study, nearly 40% of participants with confirmed diabetes decades before strict glycemic control became standard of care, had no or only mild DR[ 106 ]. Additionally, in studies involving groups with shorter durations of diabetes, the severity of DR has not been correlated with either current or historical HbA1c levels. This suggests that some individuals possess endogenous protective factors that prevent the progression to advanced DR. Understanding these mechanisms could pave the way for innovative strategies to prevent the initiation and progression of diabetic ocular disease. CONCLUSION 
+ Patients with DM show a domino-like cascade of development and progression of DR. As it is a microvascular disease, there are multiple variables involved with intricate correlation. According to several experimental and clinical findings, inflammation and retinal neurodegeneration may be regarded as separate pathogenic pathways in DR. Some individuals may develop DME, while others may progress toward PDR. The development of medications targeting molecules in those pathologic pathways may provide new therapeutic treatments. New approaches should embrace a comprehensive understanding of the impact of diabetes impact on the fundus, allowing for treatments tailored to distinct disease phenotypes. This holds promise for achieving successful clinical outcomes for all patients. A deeper insight into patient variability and its influence on clinical phenotypes will strengthen efforts toward more precise and effective management of DR. ACKNOWLEDGEMENTS 
+ We thank Dr Venkatesh D, Dr Ravi N, Dr Sony Sinha, Dr Ranjeet Kumar Sinha. Footnotes 
+ 
+ 
+ Conflict-of-interest statement: The authors declare that they each have no conflicts of interest. 
+ 
+ Provenance and peer review: Invited article; Externally peer reviewed. 
+ Peer-review model: Single blind 
+ Specialty type: Ophthalmology 
+ Country of origin: India 
+ Peer-review report’s classification 
+ 
+ Scientific Quality: Grade A, Grade C, Grade D 
+ 
+ Novelty: Grade A, Grade B, Grade C 
+ Creativity or Innovation: Grade A, Grade C, Grade C 
+ 
+ Scientific Significance: Grade B, Grade B, Grade D 
+ 
+ P-Reviewer: Alsaidan A, Saudi Arabia; Guo MS, China S-Editor: Liu JH L-Editor: Filipodia P -Editor: Zhang L 
+ Contributor Information 
+ Arvind Kumar Morya, Head of the Department, Department of Ophthalmology, All India Institute of Medical Sciences, Hyderabad 508126, Telangana, India. bulbul.morya@gmail.com. 
+ Prasanna Venkatesh Ramesh, Glaucoma Medical Officer, Department of Glaucoma and Research, Mahathma Eye Hospital Private Limited, Trichy 620017, Tamil Nadu, India. 
+ Prateek Nishant, Department of Ophthalmology, ESIC Medical College, Patna 801103, Bihar, India. 
+ Kirandeep Kaur, Department of Pediatric Ophthalmology and Strabismus, Gomabai Netralaya and Research Centre, Neemuch 458441, Madhya Pradesh, India. 
+ Bharat Gurnani, Cornea and Refractive Services, Gomabai Netralaya and Research Centre, Neemuch 458441, Madhya Pradesh, India. 
+ Aarti Heda, Department of Ophthalmology, National Institute of Ophthalmology, Pune 411000, Maharashtra, India. 
+ Sarika Salodia, Global Medical Safety, Lundbeck, Singapore 569933, Singapore, Singapore. References 
+ 
+ 
+ 1. Ogurtsova K, da Rocha Fernandes JD, Huang Y, Linnenkamp U, Guariguata L, Cho NH, Cavan D, Shaw JE, Makaroff LE. IDF Diabetes Atlas: Global estimates for the prevalence of diabetes for 2015 and 2040. Diabetes Res Clin Pract. 2017;128:40–50. doi: 10.1016/j.diabres.2017.03.024. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Centers for Disease Control and Prevention National Center for Chronic Disease Prevention and Health Promotion. National Diabetes Statistics Report, 2017: Estimates of Diabetes and Its Burden in the United States. (2017). (accessed May 1, 2018). Available from: www.cdc.gov/diabetes/pdfs/data/statistics/national-diabetes-statistics-report.pdf . 
+ 
+ 
+ 3. International Diabetes Federation. IDF Diabetes Atlas, seventh edition 2015. [online], (2015). Available from: https://diabetesatlas.org/idfawp/resource-files/2012/07/IDF_diabetes_atlas_seventh_edition_en.pdf . 
+ 
+ 
+ 4. Simó R, Stitt AW, Gardner TW. Neurodegeneration in diabetic retinopathy: does it really matter? Diabetologia. 2018;61:1902–1912. doi: 10.1007/s00125-018-4692-1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Araszkiewicz A, Zozulinska-Ziolkiewicz D. Retinal Neurodegeneration in the Course of Diabetes-Pathogenesis and Clinical Perspective. Curr Neuropharmacol. 2016;14:805–809. doi: 10.2174/1570159X14666160225154536. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Gardner TW, Sundstrom JM. A proposal for early and personalized treatment of diabetic retinopathy based on clinical pathophysiology and molecular phenotyping. Vision Res. 2017;139:153–160. doi: 10.1016/j.visres.2017.03.006. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Lynch SK, Abràmoff MD. Diabetic retinopathy is a neurodegenerative disorder. Vision Res. 2017;139:101–107. doi: 10.1016/j.visres.2017.03.003. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Simó R, Hernández C European Consortium for the Early Treatment of Diabetic Retinopathy (EUROCONDOR) Neurodegeneration in the diabetic eye: new insights and therapeutic perspectives. Trends Endocrinol Metab. 2014;25:23–33. doi: 10.1016/j.tem.2013.09.005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Villarroel M, Ciudin A, Hernández C, Simó R. Neurodegeneration: An early event of diabetic retinopathy. World J Diabetes. 2010;1:57–64. doi: 10.4239/wjd.v1.i2.57. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Barber AJ, Lieth E, Khin SA, Antonetti DA, Buchanan AG, Gardner TW. Neural apoptosis in the retina during experimental and human diabetes. Early onset and effect of insulin. J Clin Invest. 1998;102:783–791. doi: 10.1172/JCI2425. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Bui BV, Loeliger M, Thomas M, Vingrys AJ, Rees SM, Nguyen CT, He Z, Tolcos M. Investigating structural and biochemical correlates of ganglion cell dysfunction in streptozotocin-induced diabetic rats. Exp Eye Res. 2009;88:1076–1083. doi: 10.1016/j.exer.2009.01.009. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Coughlin BA, Feenstra DJ, Mohr S. Müller cells and diabetic retinopathy. Vision Res. 2017;139:93–100. doi: 10.1016/j.visres.2017.03.013. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Gastinger MJ, Kunselman AR, Conboy EE, Bronson SK, Barber AJ. Dendrite remodeling and other abnormalities in the retinal ganglion cells of Ins2 Akita diabetic mice. Invest Ophthalmol Vis Sci. 2008;49:2635–2642. doi: 10.1167/iovs.07-0683. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Kern TS, Barber AJ. Retinal ganglion cells in diabetes. J Physiol. 2008;586:4401–4408. doi: 10.1113/jphysiol.2008.156695. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Meshi A, Chen KC, You QS, Dans K, Lin T, Bartsch DU, Cheng L, Amador-Patarroyo MJ, Muftuoglu IK, Gomez ML, Nudleman E, Freeman WR. ANATOMICAL AND FUNCTIONAL TESTING IN DIABETIC PATIENTS WITHOUT RETINOPATHY: Results of Optical Coherence Tomography Angiography and Visual Acuity Under Varying Contrast and Luminance Conditions. Retina. 2019;39:2022–2031. doi: 10.1097/IAE.0000000000002258. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Abcouwer SF, Gardner TW. Diabetic retinopathy: loss of neuroretinal adaptation to the diabetic metabolic environment. Ann N Y Acad Sci. 2014;1311:174–190. doi: 10.1111/nyas.12412. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Russell JW, Zilliox LA. Diabetic neuropathies. Continuum (Minneap Minn) 2014;20:1226–1240. doi: 10.1212/01.CON.0000455884.29545.d2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Giacco F, Brownlee M. Oxidative stress and diabetic complications. Circ Res. 2010;107:1058–1070. doi: 10.1161/CIRCRESAHA.110.223545. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Hirsch IB, Brownlee M. Beyond hemoglobin A1c--need for additional markers of risk for diabetic microvascular complications. JAMA. 2010;303:2291–2292. doi: 10.1001/jama.2010.785. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Brown DM, Nguyen QD, Marcus DM, Boyer DS, Patel S, Feiner L, Schlottmann PG, Rundle AC, Zhang J, Rubio RG, Adamis AP, Ehrlich JS, Hopkins JJ RIDE and RISE Research Group. Long-term outcomes of ranibizumab therapy for diabetic macular edema: the 36-month results from two phase III trials: RISE and RIDE. Ophthalmology. 2013;120:2013–2022. doi: 10.1016/j.ophtha.2013.02.034. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Cai S, Bressler NM. Aflibercept, bevacizumab or ranibizumab for diabetic macular oedema: recent clinically relevant findings from DRCR.net Protocol T. Curr Opin Ophthalmol. 2017;28:636–643. doi: 10.1097/ICU.0000000000000424. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Reddy RK, Pieramici DJ, Gune S, Ghanekar A, Lu N, Quezada-Ruiz C, Baumal CR. Efficacy of Ranibizumab in Eyes with Diabetic Macular Edema and Macular Nonperfusion in RIDE and RISE. Ophthalmology. 2018;125:1568–1574. doi: 10.1016/j.ophtha.2018.04.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Sinclair SH. Diabetic retinopathy: the unmet needs for screening and a review of potential solutions. Expert Rev Med Devices. 2006;3:301–313. doi: 10.1586/17434440.3.3.301. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Sinclair SH, Delvecchio C. The internist's role in managing diabetic retinopathy: screening for early detection. Cleve Clin J Med. 2004;71:151–159. doi: 10.3949/ccjm.71.2.151. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Mitchell P, Bandello F, Schmidt-Erfurth U, Lang GE, Massin P, Schlingemann RO, Sutter F, Simader C, Burian G, Gerstner O, Weichselberger A RESTORE study group. The RESTORE study: ranibizumab monotherapy or combined with laser vs laser monotherapy for diabetic macular edema. Ophthalmology. 2011;118:615–625. doi: 10.1016/j.ophtha.2011.01.031. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Duh EJ, Sun JK, Stitt AW. Diabetic retinopathy: current understanding, mechanisms, and treatment strategies. JCI Insight. 2017;2 doi: 10.1172/jci.insight.93751. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Gulshan V, Peng L, Coram M, Stumpe MC, Wu D, Narayanaswamy A, Venugopalan S, Widner K, Madams T, Cuadros J, Kim R, Raman R, Nelson PC, Mega JL, Webster DR. Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs. JAMA. 2016;316:2402–2410. doi: 10.1001/jama.2016.17216. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Simó R, Villarroel M, Corraliza L, Hernández C, Garcia-Ramírez M. The retinal pigment epithelium: something more than a constituent of the blood-retinal barrier--implications for the pathogenesis of diabetic retinopathy. J Biomed Biotechnol. 2010;2010:190724. doi: 10.1155/2010/190724. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Guariguata L, Whiting DR, Hambleton I, Beagley J, Linnenkamp U, Shaw JE. Global estimates of diabetes prevalence for 2013 and projections for 2035. Diabetes Res Clin Pract. 2014;103:137–149. doi: 10.1016/j.diabres.2013.11.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Nanditha A, Ma RC, Ramachandran A, Snehalatha C, Chan JC, Chia KS, Shaw JE, Zimmet PZ. Diabetes in Asia and the Pacific: Implications for the Global Epidemic. Diabetes Care. 2016;39:472–485. doi: 10.2337/dc15-1536. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Stitt AW, Curtis TM, Chen M, Medina RJ, McKay GJ, Jenkins A, Gardiner TA, Lyons TJ, Hammes HP, Simó R, Lois N. The progress in understanding and treatment of diabetic retinopathy. Prog Retin Eye Res. 2016;51:156–186. doi: 10.1016/j.preteyeres.2015.08.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Leasher JL, Bourne RR, Flaxman SR, Jonas JB, Keeffe J, Naidoo K, Pesudovs K, Price H, White RA, Wong TY, Resnikoff S, Taylor HR Vision Loss Expert Group of the Global Burden of Disease Study. Global Estimates on the Number of People Blind or Visually Impaired by Diabetic Retinopathy: A Meta-analysis From 1990 to 2010. Diabetes Care. 2016;39:1643–1649. doi: 10.2337/dc15-2171. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Song P, Yu J, Chan KY, Theodoratou E, Rudan I. Prevalence, risk factors and burden of diabetic retinopathy in China: a systematic review and meta-analysis. J Glob Health. 2018;8:010803. doi: 10.7189/jogh.08.010803. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Vashist P, Senjam SS, Gupta V, Manna S, Gupta N, Shamanna BR, Bhardwaj A, Kumar A, Gupta P. Prevalence of diabetic retinopahty in India: Results from the National Survey 2015-19. Indian J Ophthalmol. 2021;69:3087–3094. doi: 10.4103/ijo.IJO_1310_21. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Holl RW, Lang GE, Grabert M, Heinze E, Lang GK, Debatin KM. Diabetic retinopathy in pediatric patients with type-1 diabetes: effect of diabetes duration, prepubertal and pubertal onset of diabetes, and metabolic control. J Pediatr. 1998;132:790–794. doi: 10.1016/s0022-3476(98)70305-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Donaghue KC, Fairchild JM, Chan A, Hing SJ, King J, Howard NJ, Silink M. Diabetes microvascular complications in prepubertal children. J Pediatr Endocrinol Metab. 1997;10:579–585. doi: 10.1515/jpem.1997.10.6.579. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Verougstraete C, Toussaint D, De Schepper J, Haentjens M, Dorchy H. First microangiographic abnormalities in childhood diabetes--types of lesions. Graefes Arch Clin Exp Ophthalmol. 1991;229:24–32. doi: 10.1007/BF00172257. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Azad R, Sinha S, Nishant P. Asymmetric diabetic retinopathy. Indian J Ophthalmol. 2021;69:3026–3034.. doi: 10.4103/ijo.IJO_1525_21. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Kristinsson JK, Gudmundsson JR, Stefánsson E, Jónasson F, Gíslason I, Thórsson AV. Screening for diabetic retinopathy. Initiation and frequency. Acta Ophthalmol Scand. 1995;73:525–528. doi: 10.1111/j.1600-0420.1995.tb00329.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Gallego PH, Wiltshire E, Donaghue KC. Identifying children at particular risk of long-term diabetes complications. Pediatr Diabetes. 2007;8 Suppl 6:40–48. doi: 10.1111/j.1399-5448.2007.00298.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Massin P, Erginay A, Mercat-Caudal I, Vol S, Robert N, Reach G, Cahane M, Tichet J. Prevalence of diabetic retinopathy in children and adolescents with type-1 diabetes attending summer camps in France. Diabetes Metab. 2007;33:284–289. doi: 10.1016/j.diabet.2007.03.004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Majaliwa ES, Munubhi E, Ramaiya K, Mpembeni R, Sanyiwa A, Mohn A, Chiarelli F. Survey on acute and chronic complications in children and adolescents with type 1 diabetes at Muhimbili National Hospital in Dar es Salaam, Tanzania. Diabetes Care. 2007;30:2187–2192. doi: 10.2337/dc07-0594. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Donaghue KC, Craig ME, Chan AK, Fairchild JM, Cusumano JM, Verge CF, Crock PA, Hing SJ, Howard NJ, Silink M. Prevalence of diabetes complications 6 years after diagnosis in an incident cohort of childhood diabetes. Diabet Med. 2005;22:711–718. doi: 10.1111/j.1464-5491.2005.01527.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Szwergold BS, Kappler F, Brown TR. Identification of fructose 3-phosphate in the lens of diabetic rats. Science. 1990;247:451–454. doi: 10.1126/science.2300805. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. González RG, Miglior S, Von Saltza I, Buckley L, Neuringer LJ, Cheng HM. 31P NMR studies of the diabetic lens. Magn Reson Med. 1988;6:435–444. doi: 10.1002/mrm.1910060409. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Drel VR, Xu W, Zhang J, Kador PF, Ali TK, Shin J, Julius U, Slusher B, El-Remessy AB, Obrosova IG. Poly(ADP-ribose)polymerase inhibition counteracts cataract formation and early retinal changes in streptozotocin-diabetic rats. Invest Ophthalmol Vis Sci. 2009;50:1778–1790. doi: 10.1167/iovs.08-2191. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Kaul K, Hodgkinson A, Tarr JM, Kohner EM, Chibber R. Is inflammation a common retinal-renal-nerve pathogenic link in diabetes? Curr Diabetes Rev. 2010;6:294–303. doi: 10.2174/157339910793360851. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Ola MS, Nawaz MI, Siddiquei MM, Al-Amro S, Abu El-Asrar AM. Recent advances in understanding the biochemical and molecular mechanism of diabetic retinopathy. J Diabetes Complications. 2012;26:56–64. doi: 10.1016/j.jdiacomp.2011.11.004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Yamagishi S, Matsui T, Inoue H. Inhibition by advanced glycation end products (AGEs) of pigment epithelium-derived factor (PEDF) gene expression in microvascular endothelial cells. Drugs Exp Clin Res. 2005;31:227–232. [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Yamagishi S, Matsui T, Nakamura K, Takeuchi M, Imaizumi T. Pigment epithelium-derived factor (PEDF) prevents diabetes- or advanced glycation end products (AGE)-elicited retinal leukostasis. Microvasc Res. 2006;72:86–90. doi: 10.1016/j.mvr.2006.04.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Yamagishi S, Matsui T. Advanced glycation end products (AGEs), oxidative stress and diabetic retinopathy. Curr Pharm Biotechnol. 2011;12:362–368. doi: 10.2174/138920111794480534. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Ibrahim AS, El-Remessy AB, Matragoon S, Zhang W, Patel Y, Khan S, Al-Gayyar MM, El-Shishtawy MM, Liou GI. Retinal microglial activation and inflammation induced by amadori-glycated albumin in a rat model of diabetes. Diabetes. 2011;60:1122–1133. doi: 10.2337/db10-1160. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Gabbay KH. The sorbitol pathway and the complications of diabetes. N Engl J Med. 1973;288:831–836. doi: 10.1056/NEJM197304192881609. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Koya D, King GL. Protein kinase C activation and the development of diabetic complications. Diabetes. 1998;47:859–866. doi: 10.2337/diabetes.47.6.859. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Wang QJ. PKD at the crossroads of DAG and PKC signaling. Trends Pharmacol Sci. 2006;27:317–323. doi: 10.1016/j.tips.2006.04.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Wilkinson-Berka JL. Angiotensin and diabetic retinopathy. Int J Biochem Cell Biol. 2006;38:752–765. doi: 10.1016/j.biocel.2005.08.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Ebrahimian TG, Tamarat R, Clergue M, Duriez M, Levy BI, Silvestre JS. Dual effect of angiotensin-converting enzyme inhibition on angiogenesis in type 1 diabetic mice. Arterioscler Thromb Vasc Biol. 2005;25:65–70. doi: 10.1161/01.ATV.0000149377.90852.d8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. van Leiden HA, Dekker JM, Moll AC, Nijpels G, Heine RJ, Bouter LM, Stehouwer CD, Polak BC. Blood pressure, lipids, and obesity are associated with retinopathy: the hoorn study. Diabetes Care. 2002;25:1320–1325. doi: 10.2337/diacare.25.8.1320. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Yau JW, Rogers SL, Kawasaki R, Lamoureux EL, Kowalski JW, Bek T, Chen SJ, Dekker JM, Fletcher A, Grauslund J, Haffner S, Hamman RF, Ikram MK, Kayama T, Klein BE, Klein R, Krishnaiah S, Mayurasakorn K, O'Hare JP, Orchard TJ, Porta M, Rema M, Roy MS, Sharma T, Shaw J, Taylor H, Tielsch JM, Varma R, Wang JJ, Wang N, West S, Xu L, Yasuda M, Zhang X, Mitchell P, Wong TY Meta-Analysis for Eye Disease (META-EYE) Study Group. Global prevalence and major risk factors of diabetic retinopathy. Diabetes Care. 2012;35:556–564. doi: 10.2337/dc11-1909. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Mohamed Q, Gillies MC, Wong TY. Management of diabetic retinopathy: a systematic review. JAMA. 2007;298:902–916. doi: 10.1001/jama.298.8.902. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Patel V, Rassam S, Newsom R, Wiek J, Kohner E. Retinal blood flow in diabetic retinopathy. BMJ. 1992;305:678–683. doi: 10.1136/bmj.305.6855.678. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Heiran A, Azarchehry SP, Dehghankhalili S, Afarid M, Shaabani S, Mirahmadizadeh A. Prevalence of diabetic retinopathy in the Eastern Mediterranean Region: a systematic review and meta-analysis. J Int Med Res. 2022;50:3000605221117134. doi: 10.1177/03000605221117134. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Klein R, Knudtson MD, Lee KE, Gangnon R, Klein BE. The Wisconsin Epidemiologic Study of Diabetic Retinopathy: XXII the twenty-five-year progression of retinopathy in persons with type 1 diabetes. Ophthalmology. 2008;115:1859–1868. doi: 10.1016/j.ophtha.2008.08.023. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. van Hecke MV, Dekker JM, Nijpels G, Moll AC, Heine RJ, Bouter LM, Polak BC, Stehouwer CD. Inflammation and endothelial dysfunction are associated with retinopathy: the Hoorn Study. Diabetologia. 2005;48:1300–1306. doi: 10.1007/s00125-005-1799-y. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Schröder S, Palinski W, Schmid-Schönbein GW. Activated monocytes and granulocytes, capillary nonperfusion, and neovascularization in diabetic retinopathy. Am J Pathol. 1991;139:81–100. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Grant MB, Mames RN, Fitzgerald C, Hazariwala KM, Cooper-DeHoff R, Caballero S, Estes KS. The efficacy of octreotide in the therapy of severe nonproliferative and early proliferative diabetic retinopathy: a randomized controlled study. Diabetes Care. 2000;23:504–509. doi: 10.2337/diacare.23.4.504. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Boulton M, Gregor Z, McLeod D, Charteris D, Jarvis-Evans J, Moriarty P, Khaliq A, Foreman D, Allamby D, Bardsley B. Intravitreal growth factors in proliferative diabetic retinopathy: correlation with neovascular activity and glycaemic management. Br J Ophthalmol. 1997;81:228–233. doi: 10.1136/bjo.81.3.228. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Joussen AM, Poulaki V, Qin W, Kirchhof B, Mitsiades N, Wiegand SJ, Rudge J, Yancopoulos GD, Adamis AP. Retinal vascular endothelial growth factor induces intercellular adhesion molecule-1 and endothelial nitric oxide synthase expression and initiates early diabetic retinal leukocyte adhesion in vivo. Am J Pathol. 2002;160:501–509. doi: 10.1016/S0002-9440(10)64869-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Reiter CE, Gardner TW. Functions of insulin and insulin receptor signaling in retina: possible implications for diabetic retinopathy. Prog Retin Eye Res. 2003;22:545–562. doi: 10.1016/s1350-9462(03)00035-1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Ferguson TA, Griffith TS. A vision of cell death: insights into immune privilege. Immunol Rev. 1997;156:167–184. doi: 10.1111/j.1600-065x.1997.tb00967.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. James CR, Cotlier E. Fate of insulin in the retina: an autoradiographic study. Br J Ophthalmol. 1983;67:80–88. doi: 10.1136/bjo.67.2.80. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Folli F, Bonfanti L, Renard E, Kahn CR, Merighi A. Insulin receptor substrate-1 (IRS-1) distribution in the rat central nervous system. J Neurosci. 1994;14:6412–6422. doi: 10.1523/JNEUROSCI.14-11-06412.1994. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Baskin DG, Sipols AJ, Schwartz MW, White MF. Immunocytochemical detection of insulin receptor substrate-1 (IRS-1) in rat brain: colocalization with phosphotyrosine. Regul Pept. 1993;48:257–266. doi: 10.1016/0167-0115(93)90355-c. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Zetterström C, Benjamin A, Rosenzweig SA. Differential expression of retinal insulin receptors in STZ-induced diabetic rats. Diabetes. 1992;41:818–825. doi: 10.2337/diab.41.7.818. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Park SH, Park JW, Park SJ, Kim KY, Chung JW, Chun MH, Oh SJ. Apoptotic death of photoreceptors in the streptozotocin-induced diabetic rat retina. Diabetologia. 2003;46:1260–1268. doi: 10.1007/s00125-003-1177-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Kur J, Newman EA, Chan-Ling T. Cellular and physiological mechanisms underlying blood flow regulation in the retina and choroid in health and disease. Prog Retin Eye Res. 2012;31:377–406. doi: 10.1016/j.preteyeres.2012.04.004. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Garhofer G, Bek T, Boehm AG, Gherghel D, Grunwald J, Jeppesen P, Kergoat H, Kotliar K, Lanzl I, Lovasik JV, Nagel E, Vilser W, Orgul S, Schmetterer L Ocular Blood Flow Research Association. Use of the retinal vessel analyzer in ocular blood flow research. Acta Ophthalmol. 2010;88:717–722. doi: 10.1111/j.1755-3768.2009.01587.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Lim LS, Ling LH, Ong PG, Foulds W, Tai ES, Wong E, Lee SY, Wong D, Cheung CM, Wong TY. Dynamic responses in retinal vessel caliber with flicker light stimulation in eyes with diabetic retinopathy. Invest Ophthalmol Vis Sci. 2014;55:5207–5213. doi: 10.1167/iovs.14-14301. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Nguyen TT, Kawasaki R, Wang JJ, Kreis AJ, Shaw J, Vilser W, Wong TY. Flicker light-induced retinal vasodilation in diabetes and diabetic retinopathy. Diabetes Care. 2009;32:2075–2080. doi: 10.2337/dc09-0075. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Early Treatment Diabetic Retinopathy Study Research Group. Classification of diabetic retinopathy from fluorescein angiograms. ETDRS report number 11. Ophthalmology. 1991;98:807–822. [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Goldberg MF, Jampol LM. Knowledge of diabetic retinopathy before and 18 years after the Airlie House Symposium on Treatment of Diabetic Retinopathy. Ophthalmology. 1987;94:741–746. doi: 10.1016/s0161-6420(87)33524-9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Early Treatment Diabetic Retinopathy Study Research Group. Grading diabetic retinopathy from stereoscopic color fundus photographs--an extension of the modified Airlie House classification. ETDRS report number 10. Ophthalmology. 1991;98:786–806. [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Writing Committee for the Diabetic Retinopathy Clinical Research Network. Gross JG, Glassman AR, Jampol LM, Inusah S, Aiello LP, Antoszyk AN, Baker CW, Berger BB, Bressler NM, Browning D, Elman MJ, Ferris FL 3rd, Friedman SM, Marcus DM, Melia M, Stockdale CR, Sun JK, Beck RW. Panretinal Photocoagulation vs Intravitreous Ranibizumab for Proliferative Diabetic Retinopathy: A Randomized Clinical Trial. JAMA. 2015;314:2137–2146. doi: 10.1001/jama.2015.15217. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Striph GG, Hart WM Jr, Olk RJ. Modified grid laser photocoagulation for diabetic macular edema. The effect on the central visual field. Ophthalmology. 1988;95:1673–1679. doi: 10.1016/s0161-6420(88)32957-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. 85. Photocoagulation for diabetic macular edema. Early Treatment Diabetic Retinopathy Study report number 1. Early Treatment Diabetic Retinopathy Study research group. Arch Ophthalmol. 1985;103:1796–1806. [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Ohkoshi K, Yamaguchi T. Subthreshold micropulse diode laser photocoagulation for diabetic macular edema in Japanese patients. Am J Ophthalmol. 2010;149:133–139. doi: 10.1016/j.ajo.2009.08.010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Diabetic Retinopathy Clinical Research Network, Elman MJ, Aiello LP, Beck RW, Bressler NM, Bressler SB, Edwards AR, Ferris FL 3rd, Friedman SM, Glassman AR, Miller KM, Scott IU, Stockdale CR, Sun JK. Randomized trial evaluating ranibizumab plus prompt or deferred laser or triamcinolone plus prompt laser for diabetic macular edema. Ophthalmology. 2010;117:1064–1077.e35. doi: 10.1016/j.ophtha.2010.02.031. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Mehta H, Hennings C, Gillies MC, Nguyen V, Campain A, Fraser-Bell S. Anti-vascular endothelial growth factor combined with intravitreal steroids for diabetic macular oedema. Cochrane Database Syst Rev. 2018;4:CD011599. doi: 10.1002/14651858.CD011599.pub2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Heier JS, Korobelnik JF, Brown DM, Schmidt-Erfurth U, Do DV, Midena E, Boyer DS, Terasaki H, Kaiser PK, Marcus DM, Nguyen QD, Jaffe GJ, Slakter JS, Simader C, Soo Y, Schmelter T, Vitti R, Berliner AJ, Zeitz O, Metzig C, Holz FG. Intravitreal Aflibercept for Diabetic Macular Edema: 148-Week Results from the VISTA and VIVID Studies. Ophthalmology. 2016;123:2376–2385. doi: 10.1016/j.ophtha.2016.07.032. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Diabetic Retinopathy Clinical Research Network, Wells JA, Glassman AR, Ayala AR, Jampol LM, Aiello LP, Antoszyk AN, Arnold-Bush B, Baker CW, Bressler NM, Browning DJ, Elman MJ, Ferris FL, Friedman SM, Melia M, Pieramici DJ, Sun JK, Beck RW. Aflibercept, bevacizumab, or ranibizumab for diabetic macular edema. N Engl J Med. 2015;372:1193–1203. doi: 10.1056/NEJMoa1414264. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. Wells JA, Glassman AR, Ayala AR, Jampol LM, Bressler NM, Bressler SB, Brucker AJ, Ferris FL, Hampton GR, Jhaveri C, Melia M, Beck RW Diabetic Retinopathy Clinical Research Network. Aflibercept, Bevacizumab, or Ranibizumab for Diabetic Macular Edema: Two-Year Results from a Comparative Effectiveness Randomized Clinical Trial. Ophthalmology. 2016;123:1351–1359. doi: 10.1016/j.ophtha.2016.02.022. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. Campochiaro PA, Brown DM, Pearson A, Chen S, Boyer D, Ruiz-Moreno J, Garretson B, Gupta A, Hariprasad SM, Bailey C, Reichel E, Soubrane G, Kapik B, Billman K, Kane FE, Green K FAME Study Group. Sustained delivery fluocinolone acetonide vitreous inserts provide benefit for at least 3 years in patients with diabetic macular edema. Ophthalmology. 2012;119:2125–2132. doi: 10.1016/j.ophtha.2012.04.030. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 93. Boyer DS, Yoon YH, Belfort R Jr, Bandello F, Maturi RK, Augustin AJ, Li XY, Cui H, Hashad Y, Whitcup SM Ozurdex MEAD Study Group. Three-year, randomized, sham-controlled trial of dexamethasone intravitreal implant in patients with diabetic macular edema. Ophthalmology. 2014;121:1904–1914. doi: 10.1016/j.ophtha.2014.04.024. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 94. Avery RL, Pearlman J, Pieramici DJ, Rabena MD, Castellarin AA, Nasir MA, Giust MJ, Wendel R, Patel A. Intravitreal bevacizumab (Avastin) in the treatment of proliferative diabetic retinopathy. Ophthalmology. 2006;113:1695.e1–1695.15. doi: 10.1016/j.ophtha.2006.05.064. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 95. Martidis A, Duker JS, Greenberg PB, Rogers AH, Puliafito CA, Reichel E, Baumal C. Intravitreal triamcinolone for refractory diabetic macular edema. Ophthalmology. 2002;109:920–927. doi: 10.1016/s0161-6420(02)00975-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 96. Entezari M, Ahmadieh H, Dehghan MH, Ramezani A, Bassirnia N, Anissian A. Posterior sub-tenon triamcinolone for refractory diabetic macular edema: a randomized clinical trial. Eur J Ophthalmol. 2005;15:746–750. doi: 10.1177/112067210501500614. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 97. Rishi P, Rishi E, Attiku Y, Dhami A, Iyer V. Real-world experience with pro re nata dosing of intravitreal dexamethasone implant for eyes with refractory diabetic macular edema. GMS Ophthalmol Cases. 2020;10:Doc21. doi: 10.3205/oc000148. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 98. Berrocal MH, Acaba LA, Acaba A. Surgery for Diabetic Eye Complications. Curr Diab Rep. 2016;16:99. doi: 10.1007/s11892-016-0787-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 99. Ford JA, Lois N, Royle P, Clar C, Shyangdan D, Waugh N. Current treatments in diabetic macular oedema: systematic review and meta-analysis. BMJ Open. 2013;3 doi: 10.1136/bmjopen-2012-002269. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 100. Kowluru RA, Kowluru A, Mishra M, Kumar B. Oxidative stress and epigenetic modifications in the pathogenesis of diabetic retinopathy. Prog Retin Eye Res. 2015;48:40–61. doi: 10.1016/j.preteyeres.2015.05.001. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 101. Morya AK, Gowdar J, Kaushal A, Makwana N, Biswas S, Raj P, Singh S, Hegde S, Vaishnav R, Shetty S, S P V, Shah V, Paul S, Muralidhar S, Velis G, Padua W, Waghule T, Nazm N, Jeganathan S, Reddy Mallidi A, Susan John D, Sen S, Choudhary S, Parashar N, Sharma B, Raghav P, Udawat R, Ram S, Salodia UP. Evaluating the Viability of a Smartphone-Based Annotation Tool for Faster and Accurate Image Labelling for Artificial Intelligence in Diabetic Retinopathy. Clin Ophthalmol. 2021;15:1023–1039. doi: 10.2147/OPTH.S289425. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 102. Sosale B, Sosale AR, Murthy H, Sengupta S, Naveenam M. Medios- An offline, smartphone-based artificial intelligence algorithm for the diagnosis of diabetic retinopathy. Indian J Ophthalmol. 2020;68:391–395. doi: 10.4103/ijo.IJO_1203_19. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 103. Ribeiro L, Oliveira CM, Neves C, Ramos JD, Ferreira H, Cunha-Vaz J. Screening for Diabetic Retinopathy in the Central Region of Portugal. Added Value of Automated 'Disease/No Disease' Grading. Ophthalmologica. 2014 doi: 10.1159/000368426. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 104. Rask-Madsen C, King GL. Kidney complications: factors that protect the diabetic vasculature. Nat Med. 2010;16:40–41. doi: 10.1038/nm0110-40. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 105. Rask-Madsen C, King GL. Vascular complications of diabetes: mechanisms of injury and protective factors. Cell Metab. 2013;17:20–33. doi: 10.1016/j.cmet.2012.11.012. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 106. Sun JK, Keenan HA, Cavallerano JD, Asztalos BF, Schaefer EJ, Sell DR, Strauch CM, Monnier VM, Doria A, Aiello LP, King GL. Protection from retinopathy and other complications in patients with type 1 diabetes of extreme duration: the joslin 50-year medalist study. Diabetes Care. 2011;34:968–974. doi: 10.2337/dc10-1675. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

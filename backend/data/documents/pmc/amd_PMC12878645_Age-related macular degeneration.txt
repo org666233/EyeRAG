@@ -1,0 +1,1892 @@
+Source: PubMed Central (PMC)
+PMCID: PMC12878645
+Title: Age-related macular degeneration
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12878645/
+Year: 2025
+Disease: amd
+Priority: 1
+============================================================
+
+Nat Rev Dis Primers . Author manuscript; available in PMC: 2026 Feb 7. 
+ 
+ Published in final edited form as: Nat Rev Dis Primers. 2021 May 6;7(1):31. doi: 10.1038/s41572-021-00265-2 
+ 
+ 
+ Age-related macular degeneration 
+ Monika Fleckenstein 
+ Monika Fleckenstein 
+ 
+ 1 Department of Ophthalmology and Visual Science, John A. Moran Eye Center, University of Utah, Salt Lake City, UT, USA. 
+ Find articles by Monika Fleckenstein 
+ 
+ 
+ 1, ✉ , Tiarnán D L Keenan 
+ Tiarnán D L Keenan 
+ 
+ 2 Division of Epidemiology and Clinical Applications, National Eye Institute, National Institutes of Health, Bethesda, MD, USA. 
+ Find articles by Tiarnán D L Keenan 
+ 
+ 
+ 2 , Robyn H Guymer 
+ Robyn H Guymer 
+ 
+ 3 Centre for Eye Research Australia, Royal Victorian Eye and Ear Hospital, East Melbourne, Melbourne, VIC, Australia. 
+ 
+ 4 Ophthalmology, Department of Surgery, The University of Melbourne, Melbourne, VIC, Australia. 
+ Find articles by Robyn H Guymer 
+ 
+ 
+ 3, 4 , Usha Chakravarthy 
+ Usha Chakravarthy 
+ 
+ 5 Department of Ophthalmology, Centre for Public Health, Queen’s University of Belfast, Belfast, UK. 
+ Find articles by Usha Chakravarthy 
+ 
+ 
+ 5 , Steffen Schmitz-Valckenberg 
+ Steffen Schmitz-Valckenberg 
+ 
+ 1 Department of Ophthalmology and Visual Science, John A. Moran Eye Center, University of Utah, Salt Lake City, UT, USA. 
+ 
+ 6 Department of Ophthalmology, University of Bonn, Bonn, Germany. 
+ Find articles by Steffen Schmitz-Valckenberg 
+ 
+ 
+ 1, 6 , Caroline C Klaver 
+ Caroline C Klaver 
+ 
+ 7 Department of Ophthalmology, Erasmus MC, Rotterdam, Netherlands. 
+ 
+ 8 Department of Epidemiology, Erasmus MC, Rotterdam, Netherlands. 
+ 
+ 9 Department of Ophthalmology, Radboud Medical Center, Nijmegen, Netherlands. 
+ 
+ 10 Institute of Molecular and Clinical Ophthalmology, Basel, Switzerland. 
+ Find articles by Caroline C Klaver 
+ 
+ 
+ 7, 8, 9, 10 , Wai T Wong 
+ Wai T Wong 
+ 
+ 11 Section on Neuron-Glia Interactions in Retinal Disease, National Eye Institute, National Institutes of Health, Bethesda, MD, USA. 
+ Find articles by Wai T Wong 
+ 
+ 
+ 11 , Emily Y Chew 
+ Emily Y Chew 
+ 
+ 2 Division of Epidemiology and Clinical Applications, National Eye Institute, National Institutes of Health, Bethesda, MD, USA. 
+ Find articles by Emily Y Chew 
+ 
+ 
+ 2, ✉ 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology and Visual Science, John A. Moran Eye Center, University of Utah, Salt Lake City, UT, USA. 
+ 
+ 2 Division of Epidemiology and Clinical Applications, National Eye Institute, National Institutes of Health, Bethesda, MD, USA. 
+ 
+ 3 Centre for Eye Research Australia, Royal Victorian Eye and Ear Hospital, East Melbourne, Melbourne, VIC, Australia. 
+ 
+ 4 Ophthalmology, Department of Surgery, The University of Melbourne, Melbourne, VIC, Australia. 
+ 
+ 5 Department of Ophthalmology, Centre for Public Health, Queen’s University of Belfast, Belfast, UK. 
+ 
+ 6 Department of Ophthalmology, University of Bonn, Bonn, Germany. 
+ 
+ 7 Department of Ophthalmology, Erasmus MC, Rotterdam, Netherlands. 
+ 
+ 8 Department of Epidemiology, Erasmus MC, Rotterdam, Netherlands. 
+ 
+ 9 Department of Ophthalmology, Radboud Medical Center, Nijmegen, Netherlands. 
+ 
+ 10 Institute of Molecular and Clinical Ophthalmology, Basel, Switzerland. 
+ 
+ 11 Section on Neuron-Glia Interactions in Retinal Disease, National Eye Institute, National Institutes of Health, Bethesda, MD, USA. 
+ 
+ 
+ Author contributions 
+ Introduction (E.Y.C., U.C., R.H.G., and M.F.); Epidemiology (C.C.K., U.C., R.H.G., T.D.L.K., M.F. and E.Y.C.); Mechanisms/pathophysiology (T.D.L.K., W.T.W., M.F., U.C., R.H.G., E.Y.C. and S.S.-V.); Diagnosis, screening and prevention (M.F., S.S.-V., U.C., E.Y.C. and R.H.G.); Management (R.H.G., U.C., E.Y.C. and M.F.); Quality of life (U.C.); Outlook (E.Y.C., U.C., R.H.G. and M.F.); Overview of Primer (E.Y.C., U.C., R.H.G. and M.F.). 
+ 
+ 
+ ✉ monika.fleckenstein@hsc.utah.edu ; echew@nei.nih.gov 
+ 
+ 
+ 
+ Collection date 2021 May 6. 
+ PMC Copyright notice 
+ 
+ PMCID: PMC12878645  NIHMSID: NIHMS2142184  PMID: 33958600 
+ 
+ The publisher's version of this article is available at Nat Rev Dis Primers 
+ 
+ Abstract 
+ Age-related macular degeneration (AMD) is the leading cause of legal blindness in the industrialized world. AMD is characterized by accumulation of extracellular deposits, namely drusen, along with progressive degeneration of photoreceptors and adjacent tissues. AMD is a multifactorial disease encompassing a complex interplay between ageing, environmental risk factors and genetic susceptibility. Chronic inflammation, lipid deposition, oxidative stress and impaired extracellular matrix maintenance are strongly implicated in AMD pathogenesis. However, the exact interactions of pathophysiological events that culminate in drusen formation and the associated degeneration processes remain to be elucidated. Despite tremendous advances in clinical care and in unravelling pathophysiological mechanisms, the unmet medical need related to AMD remains substantial. Although there have been major breakthroughs in the treatment of exudative AMD, no efficacious treatment is yet available to prevent progressive irreversible photoreceptor degeneration, which leads to central vision loss. Compelling progress in high-resolution retinal imaging has enabled refined phenotyping of AMD in vivo. These insights, in combination with clinicopathological and genetic correlations, have underscored the heterogeneity of AMD. Hence, our current understanding promotes the view that AMD represents a disease spectrum comprising distinct phenotypes with different mechanisms of pathogenesis. Hence, tailoring therapeutics to specific phenotypes and stages may, in the future, be the key to preventing irreversible vision loss. 
+ Age-related macular degeneration (AMD) is the leading cause of severe vision loss in individuals >55 years of age in the developed world, accounting for 6–9% of legal blindness globally 1 , 2 . It has been estimated that by 2040, ~288 million people will be affected by AMD worldwide 1 . 
+ AMD affects the complex of photoreceptors, retinal pigment epithelium (RPE), Bruch’s membrane (BrM) and the choroid ( FIG. 1 ). Most pronounced pathological alterations occur in the macula, although the disease is not limited to this area 3 . AMD is characterized by the accumulation of drusen that lead to progressive degeneration of photoreceptors and RPE, resulting in loss of central vision. In addition to drusen, a more diffused form of deposit known as subretinal drusenoid deposit (SDD) is commonly observed in the subretinal space 4 . 
+ Fig. 1 |. Manifestations of AMD. 
+ 
+ Open in a new tab 
+ Age-related macular degeneration (AMD) affects the complex of photoreceptors, retinal pigment epithelium (RPE), Bruch’s membrane and the choriocapillaris, the innermost layer of the choroid. Schematic of normal retina–RPE–Bruch’s membrane choroid complex (part a ). The early and intermediate stages of the disease are characterized by the deposition of extracellular debris, such as Drusen or basal linear deposits and subretinal drusenoid deposits, accompanied by pathological changes in the RPE, including the migration of RPE cells into the retina (parts b and c ). Loss of the photoreceptors, RPE and choriocapillaris presumably begins in the early and/or intermediate stages (part c ) and is definitive in geographic atrophy (GA; part d ). The late stages of AMD are characterized by GA or by invasion of macular neovascularizations (MNV) into the outer retina, subretinal space or subRPE space (which is known as neovascular AMD; part e , left panel). The exudative stage becomes apparent when these new vessels leak or rupture, resulting in fluid accumulation and/or haemorrhages in the above-mentioned retinal spaces (part e , right panel). AMD is regarded as a multifactorial disease comprising a complex interplay between ageing, genetic susceptibility and environmental risk factors. The most consistent modifiable risk factors are smoking and diet, and variants in CFH and ARMS2 – HTRA1 confer the highest risk of AMD 5 . Clinically used classification systems for assessing severity of the non-sight-threatening earlier stages of this disease usually categorize AMD according to drusen size. In brief, medium-sized drusen are classified as ‘early’ AMD and large drusen are classified as ‘intermediate’ AMD 6 , 7 ( BOX 1 ). The risk of developing late-stage AMD, which manifests as geographic atrophy (GA) and/or neovascular AMD, is greatest if drusen are large in area and associated with pigmentary changes 6 . 
+ Box 1 |. AMD classification systems based on colour fundus photography. 
+ Epidemiological classification 
+ 
+ 
+ Early AMD 
+ Large (≥125 μm) drusen or pseudodrusen or pigment irregularities 
+ 
+ 
+ Late AMD 
+ Neovascular AMD or geographic atrophy 
+ 
+ AREDS classification 7 
+ 
+ 
+ AREDS category 1 (no AMD) 
+ 
+ No or small drusen (<63 μm) 
+ Drusen area <125 μm diameter 
+ No pigment abnormalities 
+ 
+ 
+ Second eye: same as first eye 
+ AREDS category 2 
+ Presence of one or more of the following 
+ 
+ Small (<63 μm) or medium-sized (≥63; <125 μm) drusen 
+ Drusen area ≥125 μm diameter 
+ Retinal pigment epithelial pigment abnormalities consistent with AMD, defined as one or more of the following in the centre or inner subfields: depigmentation present; increased pigment circle ≥125 μm; increased pigment present and depigmentation at least questionable 
+ 
+ Second eye: same as first eye or category 1 
+ AREDS category 3 
+ Presence of one or more of the following 
+ 
+ Large drusen (≥125 μm) 
+ Soft, indistinct drusen, drusen size ≥63 μm and drusen area ≥360 μm diameter 
+ Soft, distinct drusen, drusen size ≥63 μm and drusen area ≥656 μm diameter 
+ 
+ Non-central geographic atrophy (outside 500 μm radius from foveal centre) Second eye: same as first eye or category 1 or 2 
+ AREDS category 4 (advanced AMD) Presence of one or more of the following 
+ 
+ Geographic atrophy in central subfield (inside 500 μm radius from foveal centre) with at least questionable involvement of centre of macula 
+ Evidence of neovascular AMD: fibrovascular/serous pigment epithelial detachment; serous (or haemorrhagic) sensory retinal detachment; subretinal/sub-retinal pigment epithelial haemorrhage; subretinal fibrous tissue (or fibrin); photocoagulation for AMD 
+ 
+ Second eye: category 1, 2 or 3 Classification Committee of the Beckman Initiative for Macular Research 6 
+ 
+ Lesions are assessed within two disc diameters of the fovea in either eye 
+ 
+ 
+ No apparent ageing changes 
+ 
+ No drusen, and 
+ No AMD pigmentary abnormalities a 
+ 
+ 
+ 
+ Normal ageing changes 
+ 
+ Only drupelets (small drusen ≤63 μm), and 
+ No AMD pigmentary abnormalities a 
+ 
+ 
+ 
+ Early AMD 
+ 
+ Medium drusen >63 μm and ≤125 μm, and 
+ No AMD pigmentary abnormalities a 
+ 
+ 
+ 
+ Intermediate AMD 
+ 
+ Large drusen >125 μm, and/or 
+ Any AMD pigmentary abnormalities a 
+ 
+ 
+ 
+ Late AMD 
+ 
+ Neovascular AMD, and/or 
+ Any geographic atrophy 
+ 
+ 
+ 
+ AMD, age-related macular degeneration; AREDS, Age-Related Eye Disease Study. a AMD pigmentary abnormalities: any definite hyperpigmentary or hypopigmentary abnormalities associated with medium or large drusen but not associated with known disease entities. GA, also known as ‘dry AMD’, is characterized by confluent atrophy of photoreceptors, RPE and choriocapillaris and is associated with scotoma. Areas of GA enlarge over time, leading to progressive central visual field loss 8 . At any stage of AMD, new vessels may invade the outer retina, subretinal space or subRPE space, resulting in macular neovascularization (MNV), which is the hallmark lesion of neovascular AMD 9 . The exudative stage of neovascular AMD (also known as ‘wet AMD’) becomes apparent when these new vessels leak or rupture, resulting in fluid accumulation and/or haemorrhages, and distortion and deterioration in vision. Without treatment, exudative MNV typically results in extensive fibrosis with severe central vision loss. 
+ Epidemiological and clinical observations, clinicopathological correlations as well as biochemical, genetic and genomic investigations, have led to a broad understanding of AMD pathogenesis. In brief, AMD can be thought of as a disruption in the normal homeostatic mechanisms of the retina, where ageing changes coupled with chronic inflammation, increased lipid and lipoprotein deposition, oxidative stress and impaired extracellular matrix (ECM) maintenance lead to an imbalance, which manifests as this disease 10 . However, the exact sequence and the pathophysiological events that culminate in drusen and basal linear deposits (BLinD) formation and the precise molecular mechanisms that lead to photoreceptor and RPE loss with or without MNV are yet to be fully understood. At the same time, in vivo retinal imaging, functional assessment and clinical observations have enabled the development of a comprehensive clinical picture of AMD, including the progression of changes from early to late AMD stages, characterization of precursor lesions and risk features for faster disease progression and the definition of distinct phenotypes of GA and neovascular AMD. 
+ The use of biologicals that inhibit VEGF to treat exudative MNV was a milestone in AMD management. Following the approval of anti-VEGF therapy in 2006, fewer patients (≥80 years of age) with neovascular AMD were visually impaired than prior to the era of anti-VEGF therapy 11 . However, treatment responses vary and not all patients achieve or maintain stable good vision in the long term. The underlying pathophysiological mechanisms of this differential response are not yet completely understood. Moreover, existing anti-VEGF strategies do not prevent the development of atrophy, which causes sight loss in the long term 12 , 13 . Despite a plethora of early phase interventional trials to prevent or delay GA progression, none has been successful yet in meeting the primary end point in phase III trials 14 . Hence, there is an unmet need to prevent vision loss in GA as well as in exudative MNV. Our current understanding is that targeting a single pathway may not prevent disease progression in general as AMD represents a disease spectrum, and phenotype-specific and stage-specific therapeutic approaches are more likely to be effective. 
+ In this Primer, we discuss trends in the epidemiology and risk factors of AMD, current knowledge of potential pathophysiological mechanisms, AMD diagnosis and management, and the effects of AMD on quality of life. Finally, we also explore gaps in knowledge to suggest future avenues for research. 
+ Epidemiology 
+ Prevalence 
+ A 2014 meta-analysis of pooled global population-based studies of persons between 45 and 85 years of age estimated a prevalence of 8.69% (95% credible intervals (CrI) 4.26–17.40%) for any AMD 1 . The prevalence of early AMD and late AMD were 8.01% (95% CrI 3.98–15.49%) and 0.37% (95% CrI 0.18–0.77%), respectively. The meta-analysis also showed a pooled prevalence of 0.44% (95% CrI 0.15–1.36%) for GA and 0.46% (95% CrI 0.18–1.08%) for neovascular AMD 1 . In addition, the prevalence of any AMD was 12.3% in people of European descent, 10.4% of Latin American heritage, 7.5% in people of African descent, and 7.4% in people of Asian ancestry 1 . 
+ Notably, a pooled meta-analysis of data originating from ten different Asian countries found a prevalence of 0.09% (95% CI 0.03–0.14%) for GA in individuals 60–69 years of age and 0.29% (95% CI 0.16–0.43%) in those >70 years of age, which is substantially lower than that observed in Western populations 15 . Another meta-analysis involving patients >60 years of age residing in Europe found a prevalence of 25.3% (95% CI 18.0–34.4%) for early and intermediate AMD and 2.4% (95% CI 1.8–3.3%) for any late AMD 16 . Differences in prevalence may be explained not only by ethnic differences but also by the heterogeneity between studies, particularly owing to the employment of different classification systems for AMD ( BOX 1 ). 
+ Interestingly, the Beaver Dam Eye Study (1988–1995) and the Beaver Dam Offspring Study (2005–2013) found a decline in the 5-year risk of any AMD by birth cohorts throughout the 20th century 17 . Furthermore, the European Eye Epidemiology (E3) consortium observed a decreased prevalence of late AMD, especially in those ≥70 years of age 11 . Following the approval of anti-VEGF therapies for neovascular AMD in 2006, fewer patients (≥80 years of age) with neovascular AMD were visually impaired than prior to 2006 (REF. 11 ). Despite the evidence of a slow decline in age-specific AMD prevalence, ageing of the global population suggests that the absolute number of persons with any AMD will grow worldwide, with a projected increase from 196 million in 2020 to 288 million by 2040 (REF. 1 ). In Europe, it has been estimated that by 2040, 14.9–21.5 million people will be affected by early and 3.9–4.8 million people by late AMD, respectively 11 , 17 . Of note, the rapid growth in population and increasing life expectancy are likely to result in a pronounced increase in the prevalence of any AMD in Asia in the next few decades 1 . Incidence 
+ A meta-analysis estimated the annual incidence of late AMD in white American individuals to be 3.5 per 1,000 persons (>50 years of age; 95% CrI 2.5–4.7 per 1000) 18 . The study also found an estimated annual incidence of 1.9 and 1.8 per 1,000 persons for GA and neovascular AMD, respectively. Another meta-analysis of studies conducted in a European population showed a pooled annual incidence of late AMD of 1.4 per 1,000 persons (95% CI 0.8–2.6) 16 . A prospective cohort study examined racial or ethnic differences in the incidence of AMD in the USA and found age-standardized and gender-standardized incidences of 4.1% and 2.3% for early-stage AMD and late AMD, respectively 19 . When stratified by race, the incidences of early-stage AMD and late AMD were found to be 5.3% and 4.1% for white individuals, 4.5% and 2.2% for people of Chinese ancestry, 3.3% and 0.8% for people of Latin American ancestry and 1.6% and 0.4% for Black individuals, respectively 19 . Non-modifiable risk factors 
+ Age. 
+ Age is the strongest, albeit non-modifiable, risk factor for AMD. The age at onset of clinically apparent AMD, usually early AMD, varies greatly but typically begins at >55 years of age 6 . Meta-analyses of studies from different populations have demonstrated an exponential increase in the prevalence of AMD, especially late AMD, with increasing age (odds ratio of 4.2 per decade) 18 , 20 . The incidence was shown to approximately quadruple per decade of age 18 ( FIG. 2 ). The pathophysiological changes associated with ageing that precede AMD development are discussed below. 
+ Fig. 2 |. Annual incidence of AMD by 5-year age groups. 
+ 
+ Open in a new tab 
+ Estimated number of new cases each year and average annual incidence per 1,000 cases of age-related macular degeneration (AMD; including late AMD, geographic atrophy and neovascular AMD) by 5-year age groups in the white American population. Data from REF. 18 . Environmental risk factors 
+ Smoking. 
+ Cigarette smoking is an independent risk factor for AMD 21 , increasing the risk of AMD by twofold to fourfold 22 . Smoking may increase the risk of developing AMD by adversely affecting blood flow, decreasing high-density lipoprotein levels, increasing fibrinogen, platelet aggregation, oxidative stress and lipid peroxidation, reducing plasma levels of antioxidants, and raising levels of inflammation and inflammatory cytokines 23 . Smoking cessation reduces the risk of AMD, and after 20 years of cessation, the risk of AMD is similar to that in non-smokers 24 . Diet. 
+ Several studies have recognized the beneficial role of diet regarding AMD development 5 . For example, higher consumption of foods containing lutein and zeaxanthin, such as spinach, collard greens and kale, and increased consumption of fish oils or ω-3 long-chain polyunsaturated fatty acids, namely docosahexaenoic acid and eicosapentaenoic acid, are associated with decreased risk of late AMD 25 – 29 . A cross-sectional study but not a longitudinal study found that increased dietary and supplementary calcium is associated with increased risk of AMD 30 , 31 . Decreased intake of vitamin D might be associated with decreased risk of late AMD but the correlation was not always significant across studies 32 – 34 . Physical activity. 
+ Physical activity has been associated with reduced AMD progression 35 . Indeed, a meta-analysis reemphasized the protective association between physical activity and both early-stage AMD and late-stage AMD 36 . As little as 3 hours of low-to-moderate intensity of physical activity per week was classified as an active lifestyle, suggesting that small amounts of physical activity might be sufficient to confer a beneficial effect 36 . Metabolic and other risk factors. 
+ Although a number of studies have shown a link between cardiovascular risk factors and AMD, the roles of hypertension, atherosclerosis, high BMI, diabetes mellitus, higher plasma fibrinogen and hyperlipidaemia remain equivocal owing to inconsistent findings 37 . Findings on the contribution of previous cataract surgery in accelerating AMD progression have been variable across studies 38 . Sunlight exposure has been hypothesized to be associated with AMD. Interestingly, sunlight was not a consistent risk factor across studies 39 – 42 . Genetic risk factors 
+ Evidence for strong genetic involvement in AMD susceptibility came from familial aggregation studies and twin studies 23 . The heritability of late AMD is estimated to be up to 71% 43 , which is higher than most complex age-related diseases (for example, coronary artery disease). Genome-wide association studies (GWAS) have identified variants at two major loci — CFH (rs1061170, p.Y402H) 44 – 47 on chromosome 1 and in two neighbouring genes, ARMS2 and HTRA1 , on chromosome 10 — as strongly associated with late AMD 48 , 49 . Subsequent GWAS conducted in multiple populations have consistently confirmed these associations 50 . However, the ARMS2 and HTRA1 variants are in high linkage disequilibrium 51 and statistical genetic approaches alone cannot distinguish between the effects of the variants in ARMS2 and HTRA1 . Furthermore, the haplotype structure of the loci encompassing CFH and CFHR1–5 is complex, with some risk haplotypes and some protective haplotypes, resulting in similar challenges in differentiating the effects of variants 52 , 53 . In both cases, ascertaining which variants are causally linked with late AMD has been difficult. 
+ A large GWAS carried out by the International AMD Genomics Consortium (IAMDGC) revealed that 52 single nucleotide polymorphisms (SNPs) at 34 loci are independently associated with late AMD 50 . Together, these 52 SNPs accounted for 27% of late AMD risk, which was >50% of the total genomic heritability based on all genotyped variants (47%). These figures give a sense of what ‘missing heritability’ might be left to discover and the influence of environmental factors in AMD development. In addition, these data permit the calculation of genetic risk scores (GRS) to represent genetic liability to late AMD for any individual ( BOX 2 ). 
+ Box 2 |. AMD genetic risk scores. 
+ Age-related macular degeneration (AMD) genetic risk scores (GRS) can be constructed to provide a single metric to represent an individual’s overall genetic load and risk of progression to late AMD 5 , 277 , 278 . For example, an individual can be genotyped for the 52 single nucleotide polymorphisms (SNPs) from the genome-wide association study (GWAS) of the International AMD Genetic Consortium (IAMDGC). The GRS is calculated by summing the number of risk alleles for that individual in a weighted fashion (that is, greater contribution from those risk alleles more strongly associated with late AMD) and summing the risk alleles 50 . In personalized medicine, the GRS can help predict the risk of progression to late AMD. Pathway-based GRS can also be generated by weighted summation of risk alleles specifically for each biological pathway, which can help understand whether heterogeneity of AMD phenotypes may represent different patients having disease driven predominantly by one or another pathway. Importantly, these groups of patients might require different treatments. 
+ Genetic testing is, however, not currently recommended as part of routine clinical care of patients with AMD by most professional bodies such as the American Academy of Ophthalmology 279 and the National Institute for Health and Care Excellence in the UK 280 . The likely reasons include: the absence of interventions proven to decrease AMD risk in those without clinically apparent disease but with higher genetic risk; the absence of treatments that are strongly genotype-dependent; and the relatively high accuracy of predictions of disease progression based on phenotype alone, with only slightly improved accuracy from adding genotype 278 . Hence, AMD genetic testing remains important mostly in the research setting rather than in clinical practice. Interestingly, several biological pathways including inflammation and immunity, lipid metabolism and transport, cellular stress and toxicity, and ECM maintenance are significantly enriched, strongly implicating their role in AMD pathogenesis 50 . In addition, rare, highly penetrant variants at some loci (for example, CFH , CFI and TIMP3 ) have provided evidence of causality 54 , 55 . Similarly, the use of induced pluripotent stem cells has aided in understanding the potential contribution of a specific genetic variant to AMD in isolation from other genetic variants and from other types of neighbouring cells 56 – 58 . However, these models do not fully recapitulate human disease and, so far, have typically relied on comparisons between cells lines with different genetic backgrounds. 
+ AMD genetics are unusual in that a small number of variants underlie a large proportion of heritability. The two loci with highest population attributable risk are CFH and ARMS2 – HTRA1 , and all other loci have low attributable risk, through low prevalence and/or weak association (with OR <1.2) 50 . 
+ Although GWAS can detect genetic variants associated with risk or protection, they have important limitations 59 . The way that phenotypes are combined into a single disease entity may not accurately represent disease complexity. GWAS are prone to confounding by environmental risk factors, particularly gene–environment interactions. Their resolution means that a lead variant may not coincide with a causal variant or gene. These considerations may explain some of the missing heritability in AMD. Although additional risk variants may still be discovered by GWAS, these variants will probably account for diminishing proportions of the remaining heritability 50 . Newer technologies may address other sources of heritability: for example, expression quantitative trait loci (eQTL) 60 , 61 can help interpret GWAS as combined eQTL–GWAS data are more likely to identify causal genes or variants. Similarly, whole-genome methylation profiling of human RPE has revealed differential methylation of three genes in AMD 62 and ATAC-Seq has demonstrated global decreases in chromatin accessibility 63 . 
+ Genetic risk of AMD progression and genotype–phenotype correlations. 
+ The genetic risk factors for late AMD may be a combination of factors involved in early-stage AMD and factors involved in disease progression, which may be partially distinct from each other. In 2007, the first longitudinal study of AMD progression showed that the rs1061170 CFH variant and the ARMS2 – HTRA1 variants are independently associated with increased progression from early or intermediate AMD to late AMD 64 . In addition, 24 out of the 34 lead variants identified by the IAMDGC GWAS were also nominally associated with intermediate AMD. Of the ten remaining variants that were specifically associated with late AMD, seven were genes involved in ECM regulation 50 , implying a crucial role for ECM pathway at later disease stages. 
+ The involvement of partially distinct genetics at different disease stages implicates distinct pathological mechanisms. Furthermore, stratifying genetic factors according to age and sex has shown that some risk variants have stronger effects in younger individuals 65 . These considerations are important for tailoring treatment strategies to target the predominant biological pathway at a particular age and disease stage. Evidence shows that ARMS2 – HTRA1 risk variants increase the risk of GA development and its accelerated enlargement. However, the C3 risk variant is specifically associated with slower GA enlargement but the CFH risk variants are not associated with altered speed of GA enlargement 8 , 66 . These findings suggest that biological mechanisms involved in GA enlargement differ at least partially from those underlying its nascence. Several variants associated with late AMD, such as ARMS2-HTRA1 , MMP9 , CETP and TIMP3 , are preferentially linked to neovascular AMD with a higher risk than to GA 50 . 
+ Of note, a large majority of the associations described above were based on colour fundus imaging and relatively simple epidemiological disease classification ( BOX 1 ). Studies with more refined phenotyping have revealed several distinct AMD subtypes with genetic correlations. One study found association of two CFH variants with extramacular drusen and peripheral reticular pigmentary changes 67 . Data from the Age-Related Eye Disease Study (AREDS) suggest that CFH variants are preferentially associated with macular drusen area, and ARMS2 – HTRA1 variants with subretinal or subRPE haemorrhages 68 . 
+ The Fundus-Autofluorescence in AMD (FAM) research group has shown a significant difference in allele frequencies in the two variants of CFH in the trickling GA form compared with other types of GA 69 . Furthermore, one ARMS2 – HTRA1 risk variant was more common in those with trickling GA than in those without AMD, and the GRS of individuals with trickling GA was significantly different from the GRS of patients with other GA types 69 . These observations suggest differential pathogenic pathways underlying distinct phenotypes, and highlight the broad disease spectrum of AMD. Prediction of disease progression based on multiple risk factors. 
+ Multiple models are available to predict the personal risk of developing late-stage AMD 37 . These models take into account phenotypic disease classification based on colour fundus photography (CFP), demographic factors, environmental risk factors and a subset of AMD variants, including CFH and ARMS2 – HTRA1 variants 37 . Remarkably, phenotypic risk factors in these models seem to be most predictive for late AMD. Inclusion of more refined phenotyping, for example, based on optical coherence tomography (OCT) imaging, may certainly increase the accuracy of such prediction models. Notably, automated segmentation algorithms already exist, which allow detection, characterization and quantification of risk features, such as SDD, hyper-reflective foci, drusen and even photoreceptor layer integrity on OCT images 70 – 72 . Mechanisms/pathophysiology 
+ The mechanisms underlying AMD are complex and multifactorial. These mechanisms include genetic susceptibility, ageing-associated dysfunction of normal retinal homeostasis, impaired lipid metabolism, immune activation and progression to chronic inflammation, oxidative stress and ECM dysfunction, all of which seem to contribute to the disease. Despite major advances, the exact stochastic relationship among pathogenetic features are largely unknown. This section aims to highlight the crucial aspects of pathogenesis from our contemporary understanding. 
+ Drusen and subretinal drusenoid deposits 
+ Drusen, the most intensively studied and most relevant intraocular risk factor for severe vision loss associated with AMD, are composed of lipids, proteins and minerals. Drusen are clearly visible on conventional ophthalmoscopy, and the timeline of drusen progression is well documented ( FIG. 3 ). In a 15-year study of the cumulative incidence of signs of early and late AMD, the researchers found a continuum from small hard drusen to late stages in older persons in the population 73 . In the natural course of the disease, drusen grow in size and number and then regress. This life cycle of drusen is accompanied by pathological alterations in the RPE, which includes detachment of individual RPE cells from their basement membrane and migration into the neurosensory retina ( FIG. 1 ). This alteration in the RPE heralds GA development and manifests as precursor lesions in the form of foci of hypopigmentation and/or hyperpigmentation ( FIG. 3 ). 
+ Fig. 3 |. Manifestations of AMD as observed on colour fundus photography. 
+ 
+ Open in a new tab 
+ a | Age-related macular degeneration (AMD) affects the centre of the macula. The square box highlights this area in a normal eye without pathological alterations. b | Early AMD with medium-sized drusen (yellowish deposits, arrowheads). c | Intermediate AMD with large drusen (arrowheads) and hyperpigmentation (arrows). d | Geographic atrophy (arrowheads). e | Neovascular AMD with haemorrhage (asterisks). In addition to drusen or BLinD, SDD are found in patients with AMD ( FIG. 4 ). The clinical significance of SDD is well known, including their association with disease progression, late-stage AMD subtypes and with functional deficits most pronounced within the scotopic (dark-adapted, rod-mediated) range 74 . 
+ Fig. 4 |. Subretinal drusenoid deposits. 
+ 
+ Open in a new tab 
+ a | Near-infrared reflectance (NIR) image showing the location of the OCT scan (green line). b | Corresponding OCT scan. c | Magnified OCT image. The arrows indicate the structures that correlate with subretinal drusenoid deposits. The asterisks indicate the structures that typically correspond to drusen. Pseudodrusen seem to be located on top of a hyperreflective band whereas the drusen appear to be located beneath that same hyperreflective band (dashed line). Based on the assumption that the hyperreflective band represents the retinal pigment epithelium (RPE), it has been speculated that reticular pseudodrusen are located in the subretinal space, explaining the terminology ‘subretinal drusenoid deposits’ (SDD). Ageing-associated alterations 
+ The strongest risk factor for AMD is age and, therefore, any model attempting to summarize AMD pathogenesis needs to take into account normal ageing-related changes. Histopathological studies suggest that loss of choriocapillaris is the most pronounced effect of ageing in the retina–RPE–BrM choroid complex 75 – 77 , which is also strongly supported by in vivo studies using OCT angiography (OCT-A) 78 , 79 . Hence, AMD presumably develops on the floor of microangiopathy that accelerates further pathological events by reducing blood supply to the photoreceptors and the RPE, and by diminishing the lipoprotein clearance from the RPE and BrM 80 . This concept of a primary microangiopathy suggests that neurodegeneration in AMD is secondary to vascular changes, although definitive proof remains elusive. There might be AMD subtypes in which primary neurodegeneration leads to the disease, whereas in other subtypes, vascular deficiency might be the earliest change ( FIG. 5 ). 
+ Fig. 5 |. Model of AMD pathogenesis. 
+ 
+ Open in a new tab 
+ Age-related macular degeneration (AMD) affects the complex of photoreceptors, retinal pigment epithelium, Bruch’s membrane (BrM) and the choroid. AMD is regarded as a multifactorial disease comprising a complex interplay between ageing, genetic susceptibility and environmental risk factors. AMD is hypothesized to develop as a consequence of disruption of the normal homeostatic mechanisms of the retina. In AMD, ageing changes coupled with chronic inflammation, altered lipid and lipoprotein deposition, increased oxidative stress and impaired extracellular matrix (ECM) maintenance lead to the formation of extracellular deposits, namely drusen and basal linear deposits (BLinD) in the BrM, which are the hallmark lesions of AMD. Bruch’s membrane. 
+ In addition, BrM undergoes pronounced ageing-related changes. For example, the inner BrM accumulates lipoprotein-like particles and cholesterol-rich, apolipoprotein (Apo) B100-containing lipoproteins 81 , 82 , which are thought to stimulate inflammatory infiltration, accumulation of cellular debris and the formation of basal laminar deposits (BLamD) 83 . The age-related lipid deposition in BrM probably represents the precursors of AMD lesions, namely, ‘pre-BLinD’ 82 , 84 . Retinal pigment epithelium. 
+ Evidence suggests that RPE dysfunction sets the stage for the development of AMD. The RPE performs specialized metabolic functions including processing lipids from photoreceptor turnover, synthesizing and absorbing lipids from the circulatory system 85 . Lipofuscin, which forms as a consequence of light-related vitamin A recycling in the visual cycle, also accumulates in the RPE with age. One of the main components of lipofuscin is the bisretinoid, N -retinyl- N -retinylidene ethanolamine (A2E) 86 , although its role in AMD pathogenesis is under active investigation 87 , 88 . Inflammatory processes. 
+ Ageing further involves the accumulation of oxidative stress, and marked increases in the expression of oxidized proteins or lipids can be detected in the ageing retina 89 . Oxidative or metabolic stress may cause retinal cell damage, including various neurons and RPE cells, which provoke adaptive responses of the immune system 89 : a cell autonomous inflammatory process may be initiated, including the upregulation of heat shock proteins and the activation of the autophagy pathways to repair damage and maintain homeostasis. With increasing stress and/or persisting insult for a prolonged period, as occurring in ageing, the autonomous response may become overburdened and stressed cells may undergo senescence or cell death. Senescent cells may secrete proinflammatory cytokines and chemokines, such as IL-6, IL-8, TNF, IL-1α, IL-1β, MCP-1, MCP-2, CX3CL1, IGF–IGFR and colony-stimulating factors (GCSF and GMCSF) 89 . These mediators further stimulate microglia or macrophages and the tissue complement system. If tissue stress exceeds the reparative capacity of resident macrophages, additional cytokines and chemokines might be released in the circulation 89 . This release may activate the systemic immune system and initiate other innate immune pathways, such as the complement pathway, to promote tissue repair or remodelling, a process known as parainflammation 89 , 90 . The physiological role of parainflammation in ageing is to maintain homeostasis and restore tissue functionality 90 and its dysregulation may lead to pathological consequences. Genetic and environmental factors 
+ Genetic susceptibility plays a major part in contributing to the development of AMD. Nevertheless, the exact function of ARMS2 – HTRA1 and how one or both genes are related to the pathophysiology of AMD is still not fully understood. Studies suggest a function for ARMS2 gene product in the mitochondrial outer membrane, whereas other reports suggest that ARMS2 encodes an extracellular protein 91 , 92 . HTRA1 encodes a heat shock serine protease and is involved in regulating ECM deposition, angiogenesis and TGFβ signalling 93 , 94 , as well as subretinal inflammation by controlling monocyte elimination 95 . 
+ Environmental factors are thought to affect genetic susceptibility in both development and progression of the disease, leading to earlier onset and more severe phenotypes 10 . The presence of the risk variants in CFH and ARMS2 / HTRA1 genes in combination with an unfavourable diet 96 , 97 and smoking 98 are known to result in earlier onset of late-stage AMD. The E3 consortium reported that the odds ratio for developing AMD in the highest genetic risk group increases from 14.9 to 35.0 in individuals with an unfavourable lifestyle 99 . This increase might be caused by changes in lipid metabolism owing to a high-fat diet. Inflammation and innate immunity 
+ Several studies have highlighted the crucial role of inflammation and immune-mediated processes in the development of drusen and in the progression of AMD 100 – 102 . In a systems biology approach, the processes in AMD that invoke a chronic, heightened immune response that causes tissue destruction were described as ‘loss of parainflammation control’ 83 . The hallmarks of immune activation in AMD pathogenesis include extracellular deposit formation, localized immune activation, and subretinal and choroidal recruitment of microglia or macrophages. The exact sequence and chain of pathogenetic events, however, remain to be elucidated. In this regard, a group of researchers have suggested a two-level hypothesis, in which AMD can be considered the consequence of age-related stochastic accumulation of molecular damage at the ocular level and the subsequent systemic inflammatory host response to such damage 103 . These perspectives posit the combined involvement of immune triggers (which can be age-related or environment-related) and the resulting inflammatory responses in AMD pathogenesis. 
+ Role of the complement system. 
+ Analyses of donor eye tissue demonstrated the presence of complement proteins such as C3 and C5 in drusen of patients with AMD. In addition, post-mortem studies have shown that C5b-9 (membrane attack complex) accumulates in the choriocapillaris and BrM with increasing age and in eyes with AMD 101 . Genetic studies have also implicated the involvement of the complement system in AMD pathogenesis. Indeed, a large number of high-risk genetic variants are found in genes encoding complement system regulatory proteins (for example, CFH , CFI , C3 and FB / C2 ) 50 . Nevertheless, the exact mechanisms by which the common variant (rs1061170, p.Y402H) in CFH increases AMD susceptibility are not clear yet. In vitro experiments have suggested uncontrolled activation of the complement system 104 and reduced binding of the CFH H402 variant to heparan sulfate chains may lead to lipoprotein accumulation in BrM 105 . 
+ Besides negative regulation of complement activation, CFH is involved in the modulation of the innate immune responses, such as the altered binding affinity of CFH Y420H to CRP 106 and the subretinal clearance of mononuclear phagocytes. Dysregulation of this homeostatic mechanism has been proposed as a cause of chronic inflammation and damage to the RPE and photoreceptors 107 . In addition, one study suggested that endogenously produced CFH in RPE cells contributes to transcriptional and metabolic homeostasis, protecting RPE cells from oxidative stress 108 . Furthermore, CFH H402 variant is also associated with altered lipid metabolism and demonstrates impaired malondialdehyde binding 109 . Mice on a high-fat diet (up to 90 weeks of age) carrying CFH H402 variant demonstrate AMD-like pathology associated with genotype-dependent alterations in ocular and plasma lipoprotein levels 110 . In addition, exogenously applied CFH protects RPE cells from oxidized lipid-mediated damage 111 . These studies support the pathogenic involvement of complement proteins and suggest that the underlying mechanisms may extend beyond regulation of complement activation. Lipid deposition 
+ Lipids are a major constituent of drusen and may account for >40% of drusen volume 112 . The major ultrastructural component of drusen or BLinD is large ApoB-containing and ApoE-containing, cholesterol-rich lipoproteins secreted by the RPE 113 . The RPE cell accumulates cholesterol either from the ingestion of lipoproteins from the circulation or from phagocytosis of photoreceptor outer segments 83 . Under healthy conditions, the RPE recycles the cholesterol back to the photoreceptors or eliminates it through cholesterol efflux to ApoA-I to form a high-density lipoprotein particle. If this reverse cholesterol transport is impaired, the RPE secretes ApoB100 lipoproteins, the principal protein of low-density lipoprotein, into the BrM 81 , 114 . 
+ Variants in several lipid-related genes, including LIPC , CETP , ABCA1 and APOE , are associated with AMD risk, further supporting a key role for lipid transport pathways in AMD pathogenesis 83 . Indeed, efflux of unwanted lipids from the RPE leads to accumulation of material that is linked to an atherosclerosis-like mechanism leading to thickening of BrM 82 , with some authors viewing BrM essentially as a vessel wall 112 . It has been suggested that soft drusen or BLinD form due to accumulation of metabolites effluxed from the RPE in the subRPE–basal lamina space as a result of impaired clearance across an aged BrM–choriocapillary endothelium 113 . The progression of drusen seems to involve oxidation of lipoproteins 115 , 116 , with subsequent deposition of hydroxyapatite that becomes coated with lipids and inflammatory proteins 117 , 118 . Interestingly, the fatty acid composition of lipids in BrM is consistent with dietary input rather than photoreceptor origin, emphasizing the nutritional component in this process 113 . 
+ Therapeutic targeting of lipid deposition has been proposed as a potential AMD treatment. Of note, intravitreally administered L-4F (an anti-inflammatory and anti-atherogenic ApoA-I mimetic peptide) was shown to clear neutral lipid, esterified cholesterol and membrane attack complex in the BrM of aged macaques, leading to restoration of BrM ultrastructure 119 . Although a large body of circumstantial evidence suggests a pathophysiological role for accumulated lipids in the retina, there are no data to support a definitive association between dyslipidaemia and AMD. A few small RCTs have shown benefits with statin intake in terms of AMD progression. However, a Cochrane systematic review found insufficient evidence from existing RCTs to confirm a role for statins in preventing or delaying the onset or progression of AMD 120 . Oxidative stress 
+ The retina provides an ideal environment for the generation of reactive oxygen species (ROS) due to its specific anatomical and metabolic characteristics. These characteristics include: high oxygen consumption by the outer retina–RPE complex; high levels of cumulative irradiation; abundance of photosensitizers in the neurosensory retina and RPE; and polyunsaturated fatty acid-rich photoreceptor outer segment membranes that are readily oxidized and can initiate a cytotoxic chain reaction 121 . Cigarette smoking clearly adds to the oxidative stress burden; it contains >4,700 chemical components, many of which are strong oxidants and each puff contains 1,015 free radicals 122 . Although the exact role of oxidative damage caused by cigarette smoking in AMD is unknown, chemical oxidants in cigarette smoke deplete tissues of ascorbic acid and protein sulfhydryl groups, resulting in oxidation of DNA, lipids and proteins 122 . To a lesser extent, a high-fat diet also induces oxidative stress and is another source of oxidative stress, and is a risk factor for AMD 122 . Whether the burden of oxidative stress extends beyond physiological signalling and becomes pathological, and to what extent the accumulated exogenous and preventable sources of oxidative stress overwhelm the RPE cell’s antioxidant system are unclear 122 . Furthermore, genetic variants in oxidative stress-related genes are associated with AMD risk, further supporting their role in AMD pathogenesis 123 – 125 . 
+ Mitochondrial dysfunction. 
+ Mitochondrial dysfunction may further contribute to a poor response of the RPE to stress. Indeed, mitochondrial injury and decreases in mitochondrial mass and number have been demonstrated to correlate with AMD disease severity 126 . This reduction in mitochondria and diminished function leads to reduced oxygen consumption, reserve capacity and elevated ROS in the RPE 127 , which in turn impairs its essential bioenergetics. The RPE is unable to meet the high energy demand of the photoreceptors and apoptosis is a potential consequence 128 . This bioenergetic crisis in the RPE has been suggested to contribute to AMD pathology by increasing the risk for RPE and photoreceptor degeneration 126 . Extracellular matrix 
+ Matrix metalloproteinases (MMPs) and the tissue inhibitors of metalloproteinases (TIMPs) closely regulate the dynamic metabolism of the ECM. The modulation of ECM turnover by the RPE may have a central role in the normal functioning of the retina. The pathological degradation or accumulation of ECM structural components, which may eventually lead to AMD development, is caused by a dysregulation of specific MMP or TIMP complexes as well as by other genetic and environmental factors 129 . Pathological changes in BrM, such as altered elastin and collagen composition, occur at different stages of AMD and may be associated with variants in genes that regulate ECM structure and function, such as HTRA1 , MMP9 and TIMP3 (REF. 10 ). As mentioned earlier, most of the variants in ECM-related genes are associated with late-stage AMD 50 . 
+ An in vitro study demonstrated that a short pulse laser causes an increase in activated MMPs involved in ECM turnover. Furthermore, in an animal model with a thickened BrM, application of nanosecond laser treatment resulted in a significant reduction in BrM thickness and upregulation of genes involved in ECM turnover. Based on these findings, a large RCT investigated the efficacy of targeting ECM turnover in AMD 130 . In patients with AMD, a single application of nanosecond laser resulted in a reduction in drusen load without any evidence of damage to overlying photoreceptors 130 . Despite these promising observations, this RCT did not demonstrate an overall benefit in slowing AMD progression with nanosecond laser application compared with sham treatment in a cohort of patients with intermediate AMD 130 . Photoreceptor cell death 
+ Ultimately, the interplay of the above-described pathological changes including chronic tissue hypoxia owing to choriocapillaris microvasculopathy, chronic inflammation and ROS-mediated oxidative stress may lead to the actual ‘end-stage’ of AMD, which is neurodegeneration, specifically photoreceptor cell death causing irreversible vision loss. In ageing and AMD, rods degenerate ahead of cones 131 , suggesting a greater vulnerability of rods to these pathological processes. 
+ Photoreceptor cell death is presumably directly induced by the breakdown of multiple systems that are crucial for photoreceptor outer segment morphogenesis, phototransduction and metabolic homeostasis. These systems are mainly maintained by the RPE, which, in the course of AMD undergoes degeneration, finally leading to cell death. Hence, photoreceptor cell death is presumably preceded by impairment of critical RPE function, such as phagocytosis and clearance of photoreceptor outer segment tips, autophagy of debris and damaged organelles, endolysosomal function, and the regulation of nutrients and oxygen between the subretinal space and the choroid 85 . Specifically, breakdown of drusen clearance mechanisms and lipid efflux into the choroidal circulation by RPE cells, Müller cells and outer retinal microglia or macrophages along with increased diffusion distance from the choriocapillaris to the RPE and photoreceptors may have major implications in promoting the degeneration process 132 – 137 . 
+ Hence, various upstream stressors activate multiple pathways that lead eventually to cell death via apoptosis and necrosis. Interestingly, different in vitro injury models have demonstrated that inhibition of caspase-mediated apoptosis or receptor-interacting protein kinases-mediated necrosis in isolation was less effective than combined targeting of both pathways in preventing overall photoreceptor and RPE cell death 138 . These pivotal studies emphasize the need for combination therapies for successful neuroprotection. Neovascularization 
+ The development of MNV might be regarded as a non-specific ‘rescue’ mechanism, which aims to attenuate the pathological events described above. Although this concept is not new 139 , it has evoked increasing interest owing to the present ability to non-invasively detect and monitor non-exudative MNV lesions with OCT-A. Several studies have shown that MNV in the subRPE space can slow down photoreceptor and RPE degeneration 140 – 144 . These MNV lesions can be regarded as vascular patches that have overcome the ‘lipid wall’ in BrM to perform the task of choriocapillaris (that is, providing nutrients and oxygen) in direct proximity to the RPE and photoreceptors. 
+ A model for regulation of signalling events involved in the pathophysiology of neovascular AMD proposes oxidative changes in lipoprotein debris to form pro-angiogenic signals conducive to vascular growth 145 . One predominant component of oxidized lipoprotein debris that accumulates in BrM in neovascular AMD is 7-ketocholesterol, which can induce angiogenesis 146 . 7-Ketocholesterol is thought to activate microglia to release cytokines, such as TNF, which mediates VEGF expression in RPE cells and its release preferentially from the basal aspects 147 . It has been further proposed that the secreted VEGF promotes choroidal endothelial cell activation and migration, potentially by interactions with integrins in ECM components 148 and by activating GTPases, namely Rac1 (REF. 145 ). Choroidal endothelial cells that are in proximity to RPE cells are presumably further activated via RPE cell-secreted VEGF. In addition, VEGF and TNF crosstalk may lead to further activation of choroidal endothelial cell Rac1 in a feedforward loop 145 . Furthermore, the generated ROS presumably also diminish the RPE barrier integrity and permit secreted VEGF entry into the retina, which promotes choroidal endothelial cell migration, proliferation and eventually MNV formation 149 . 
+ The conversion of non-exudative MNV to exudative MNV is likely to be a major disease transition point in neovascular AMD. Signalling pathways that contribute to this transition may include alterations in MNV pericyte coverage (as potentially regulated by PDGF and TIE2–ANG1 signalling) 150 , 151 , changes in the local balance of vascular trophic factors (such as VEGF and PEDF) 152 , or modulation of complement function 150 . Hence, these pathways may be key therapeutic targets that can be adapted to allow MNV formation but prevent or minimize harmful exudation. Diagnosis, screening and prevention 
+ Symptoms 
+ The earliest signs of visual function changes that occur in early stages of AMD affect tasks performed at low luminance levels. Individuals frequently report impairments in daily life, such as difficulties seeing in dim or changing light conditions as well as in low-contrast surroundings 153 . Most common symptoms that trigger patients with AMD to seek help are visual distortion (that is, straight lines becoming distorted), deterioration in vision (blurred vision), and/or a central visual field defect 154 . Central visual loss is typically related to late AMD stages associated with photoreceptor loss. When the areas of photoreceptor loss expand, patients often lose central vision, markedly decreasing the ability to read or recognize faces. 
+ Objective measures to detect and quantify AMD-related symptoms include best corrected visual acuity (BCVA) at high contrast and high luminance which, however, does not detect subtle sensitivity changes that may already be noticed by patients. Functional tests that simulate conditions under which persons with early and intermediate AMD are expected to experience defective vision include tests for low luminance visual acuity, contrast sensitivity 155 and dark adaptation that involve the assessment of the retinal response after a bright bleaching light has been administered to the eye 156 . 
+ Fundus-controlled perimetry (FCP) additionally allows spatially resolved testing of retinal sensitivity at multiple locations in the macula 157 . Moreover, current developments of FCP now enable the testing of dark-adapted (rod-mediated) function, which seems prudent given that rod degeneration seems to exceed cone degeneration in older people and in people with AMD 131 . Diagnostic imaging 
+ The diagnosis of AMD is primarily based on ophthalmoscopy (also known as funduscopy). This clinical examination can reveal the various pathological changes associated with AMD, including drusen, pigment alterations of the RPE and atrophy of the RPE as well as features linked to exudative MNV such as fluid and hard exudates, haemorrhages and fibrosis 158 ( FIG. 3 ). Hence, ophthalmoscopy is widely used to diagnose the onset of AMD, particularly in settings where imaging devices are not available or accessible. 
+ CFP is the closest imaging modality to ophthalmoscopy and it is used for documenting fundus abnormalities ( FIG. 3 ). Notably, epidemiological studies and widely accepted classification systems on AMD typically employ ophthalmoscopic examination or CFP alone. Nevertheless, new imaging techniques have facilitated the visualization of more granular details, which are not accessible via traditional ophthalmoscopy. 
+ Although ophthalmoscopy might be sufficient for a basic diagnosis of AMD, fluorescein angiography is the gold standard for detecting and differentiating MNV. Furthermore, OCT imaging is particularly suitable for monitoring the disease, especially in the context of anti-VEGF therapy. The application of additional imaging technologies such as fundus autofluorescence (FAF) imaging, near-infrared reflectance (NIR) imaging, indocyanine green angiography (ICG-A) and OCT-A can provide complementary information about AMD including the identification of distinct AMD subtypes, high-risk characteristics and a refined differential diagnosis. Hence, a ‘multimodal imaging approach’ is recommended in general in clinical studies and interventional trials 159 . 
+ Optical coherence tomography. 
+ OCT imaging allows fast acquisition of cross-sectional and en face (that is, frontal) images of ocular structures 160 ( FIG. 6 ). In brief, the principal of OCT imaging is that low-coherent infrared light (wavelength 800–1,100 nm) is split and projected equally onto the retina and a reference mirror. This light is reflected differently by the diverse layers of the retina, which results in an interference pattern that is detected by a photodiode and electronically evaluated as a signal 161 . The most common application of OCT imaging in the clinical setting is to monitor the response to anti-VEGF therapy in individuals with exudative MNV ( FIG. 7 ). On OCT, exudative activity typically presents with intraretinal and/or subretinal fluid. Currently, OCT is also used extensively to monitor the progression of non-exudative AMD. 
+ Fig. 6 |. High-resolution OCT scans showing different stages of AMD. 
+ 
+ Open in a new tab 
+ a | Normal eye without age-related macular degeneration (AMD)-related pathological features. b | Eye with early AMD characterized by subtle elevations of the retinal pigment epithelium (RPE) and ellipsoid zone (EZ) of the photoreceptors corresponding to small or medium-sized drusen (arrows). c | Eye with intermediate AMD showing more pronounced elevations of the RPE, ellipsoid zone of the photoreceptors, and external limiting membrane, in the areas corresponding to large drusen (arrows). Note the small hyperreflective focus (small down arrow) on top of a large druse; this corresponds to hyperpigmentation and most likely reflects migrating RPE cells. d | Eye with geographic atrophy characterized by complete loss of outer retinal layers and the RPE (dashed bracket). e | Eye with neovascular AMD and exudation of fluid in the subretinal space (asterisk) and intraretinal space (arrows); the bracket indicates the extend of the macular neovascularization. BrM, Bruch’s membrane; EML, external limiting membrane; OCT, optical coherence tomography; ONL, outer nuclear layer; PR, photoreceptors. Part a adapted with permission from REF. 8 , Elsevier. Fig. 7 |. Therapeutic effect of anti-VEGF treatment on exudative MNV. 
+ 
+ Open in a new tab 
+ a | Optical coherence tomography (OCT) scan in an eye of a patient at first diagnosis of exudative macular neovascularization (MNV). There is intraretinal fluid as a sign for exudation (arrows); in addition, there is a shallow elevation of the retinal pigment epithelium (RPE) (dashed bracket), which is presumably evoked by the MNV and subRPE fluid (asterisk). b | OCT scan in the same location after three monthly intravitreal anti-VEGF injections. There is no more intraretinal or subRPE fluid, although the subtle shallow elevation of the RPE indicates that the MNV is still present. Owing to the high spatial resolution of OCT imaging, AMD-related microstructural changes including the hallmark AMD lesions, drusen and SDD, and risk-associated hyperpigmentation (which correlates with hyperreflective foci on OCT) can be detected and studied in vivo. Additionally, subtler changes can be detected with OCT and correlated with histopathological findings. For example, a ‘splitting’ of the RPE–BrM complex band in eyes with GA suggests the presence of excessive BLamD 162 . A shallow irregular elevation of the RPE, known as the SIRE sign, on OCT without signs of exudation seems to indicate the existence of a non-exudative MNV lesion (see also OCT-A below) 163 . Moreover, differences in reflectivity of drusen subtypes suggest variable composition and might imply differential pathogenesis and progression of distinct drusen 164 – 166 . 
+ Notably, OCT imaging also allows the direct visualization of photoreceptor loss and, therefore, in vivo tracking of neurodegeneration in eyes with AMD 167 – 169 . Given this ability of OCT imaging, the FDA accepts the ‘prevention of photoreceptor loss’ as seen on OCT as a structural primary trial end point 170 . Fundus autofluorescence imaging. 
+ FAF imaging allows in vivo visualization of intrinsic retinal fluorophores, such as components of lipofuscin and melanolipofuscin in the RPE 171 , 172 . FAF imaging provides high-contrast retinal images that are particularly valuable for the diagnosis and evaluation of GA as loss of RPE and fluorophores in atrophic areas is associated with a decreased FAF signal 173 ( FIG. 8 ). 
+ Fig. 8 |. Differential enlargement rates of GA. 
+ 
+ Open in a new tab 
+ Serial fundus autofluorescence images of eyes with geographic atrophy (GA). a | GA lesion with a progression rate of 1 mm 2 /year and only a few disseminated spots of increased fundus autofluorescence (FAF). b | A lesion with a progression rate of 2 mm 2 /year. In this eye, there is a widespread fine granular FAF signal surrounding the atrophic lesion. c | An eye with a trickling GA phenotype showing the fastest progression. The FAF signal is typically garish in the area of atrophy compared with the other GA subtypes, and the lesion is multilobular, surrounded by extensive reticular pseudodrusen. Copyright: adapted from REF. 8 . Blue light excitation (488 nm) is currently the most commonly used mode for FAF imaging. The contrast between preserved RPE and RPE atrophy usually allows reproducible semi-automatic quantification of GA based on FAF imaging 174 . As RPE loss in GA detected on FAF correlates with photoreceptor loss observed on OCT 175 , the FDA has approved FAF imaging as the primary outcome measure to quantify changes in GA lesion size over time to test the efficacy of therapeutic interventions in clinical trials 159 . 
+ Distinct characteristic FAF patterns are associated with SDD and different AMD phenotypes. Furthermore, FAF imaging is instrumental in differentiating AMD from other retinal diseases 173 . For example, FAF imaging can be used to differentiate late-onset Stargardt macular dystrophy with peripheral flecks of increased FAF from GA secondary to AMD 176 , 177 . Several studies have demonstrated the prognostic relevance of FAF imaging. For example, distinct FAF patterns and the extent of FAF changes surrounding GA lesions are associated with the rate of GA enlargement 173 ( FIG. 8 ). 
+ Of note, the FAF signal using blue light excitation is physiologically reduced in the central macula mainly due to signal absorbance by the macula pigments lutein and zeaxanthin 173 . Atrophy in these areas may therefore not be visible by blue light excitation FAF imaging. Hence, simultaneous OCT or NIR imaging is recommended, particularly in patients with suspected foveal involvement. Near-infrared reflectance imaging. 
+ NIR imaging uses near-infrared wavelengths (787–820 nm), which are minimally absorbed by media opacities, neurosensory layers and macular pigments. The application of NIR may allow a refined diagnosis of AMD-associated lesions and in combination with FAF imaging, NIR can facilitate the visualization of foveal atrophic areas 159 . Furthermore, evidence suggests that NIR images allow the detection of the reticular pseudodrusen pattern with the highest sensitivity 178 . Fluorescein angiography. 
+ Fluorescein angiography is the standard approach for detecting and grading exudative neovascular AMD 179 . Based on fluorescein angiography patterns, neovascular AMD can be classified into classic, occult or mixed with dye leakage in the late phase indicating activity, that is, exudation from neovascular membranes ( FIG. 9 ). 
+ Fig. 9 |. Exudative macular neovascularization in AMD. 
+ 
+ Open in a new tab 
+ a | Colour fundus photography. b | Near-infrared reflectance image; the green line indicates the location of the optical coherence tomography (OCT) scan. c | OCT scan (magnified) in an eye with intraretinal fluid (example areas indicated by arrows) as a sign of exudation. d | Fluorescein angiography (images taken serially within ~5 minutes) revealing a choroidal neovascularization (arrows) with leakage or exudation in the late phase as a sign of ‘activity’ (arrowhead). The characteristics are most compatible with a ‘type 2’ macular neovascularization (MNV) according to the Consensus on Neovascular AMD Nomenclature (CONAN) group 9 . AMD, age-related macular degeneration. Indocyanine green angiography. 
+ Indocyanine green has greater binding affinity to plasma proteins than fluorescein and is associated with minimal leakage from the fenestrated choriocapillaris, enabling more detailed visualization of the choroidal vessels 180 . Hence, ICG-A is helpful in identifying specific subtypes of MNV, namely retinochoroidal anastomoses and polypoidal choroidal vasculopathy. The disadvantages of fluorescein angiography and ICG-A include their invasive nature, the relatively long examination times (~5–20 minutes) to acquire the late-phase fluorescence images and the risk of adverse reaction to the intravenously administered dye 181 . Optical coherence tomography angiography. 
+ OCT-A, the latest angiography modality based on OCT, is non-invasive and enables isolated analysis of blood flow in the various retinal and choroidal layers based on motion contrast 182 . The motion contrast can be derived from phase or Doppler shift or a variation in signal amplitude over time within a voxel due to movement of blood cells 183 . As OCT-A only visualizes flow above a threshold of detection, no information on vascular wall integrity (similar to leakage in fluorescein angiography) can be obtained. Consequently, OCT-A allows a detailed characterization and detection of MNV as the vessel structure is not obscured by dye leakage or dye staining of drusen 184 . The application of OCT-A in non-exudative AMD (that is, early AMD, intermediate AMD and GA) has substantially increased the awareness of the presence of non-exudative MNV lesions that are associated with a SIRE sign on conventional OCT 163 ( FIG. 10 ). Interestingly, in eyes with GA, the presence of non-exudative neovascular lesions is associated with slower disease progression 140 , supporting a protective mechanism for MNV development 139 . This concept is further supported by a clinicopathological correlation demonstrating that outer nuclear layer thickness is preserved and shows less photoreceptor degeneration over areas of non-exudative MNV 185 . Of note, the presence of non-exudative MNV carries a high risk of conversion to exudative MNV and, therefore, these lesions should be monitored closely 186 . Indeed, in one study, a subset of patients with AMD showed subthreshold exudation visible on structural OCT, without leakage on fluorescein angiography but a clear MNV on OCT-A. These patients may show a more indolent, mature and stable vascular network and may be better managed by observation despite subtle exudative activity 187 . 
+ Fig. 10 |. Non-exudative macular neovascularization. 
+ 
+ Open in a new tab 
+ a | There is a shallow irregular elevation of the retinal pigment epithelium (RPE), known as the SIRE sign, but no intraretinal or subretinal fluid on conventional optical coherence tomography (OCT). b | The OCT angiography scan at the same location as in part a shows flow between the RPE and the choroid (red signals; asterisks indicate the blood flow between the RPE and the choroid). c | Location of the OCT scan is indicated in the near-infrared reflectance image (green line). d and e | En face OCT angiography shows a large choroidal neovascularization (part d is a native OCT angiography en face image; part e shows the extent of choroidal neovascularization in red). Part a adapted from REF. 276 . The use of OCT-A in AMD has further revealed a reduction in choriocapillaris flow signal, which may already begin in early AMD (in the absence of RPE atrophy), and this was confirmed in a histopathological study 188 . Several studies have found increased choriocapillaris rarefication up to total loss with the presence of larger choroidal vessels directly adjacent to BrM in areas of GA 189 . In one such study of patients with GA, OCT-A revealed an attenuated choriocapillaris flow signal compared with the eyes of controls, even in areas not affected by GA. Moreover, the area surrounding the GA margin showed a significantly higher flow impairment than more distant areas in the same eye 190 , 191 . These findings support the concept of GA development on a background of microvasculopathy and underscores the potential prognostic value of OCT-A for monitoring future GA progression. Classification of AMD 
+ Several internationally accepted classification systems are available for AMD ( BOX 1 ). Population studies have traditionally classified AMD into early and late stages, whereas clinically based studies often use the AREDS classification system 192 . The AREDS classification refers to both eyes and was the basis for patient recruitment and analysis for the AREDS, the largest prospective studies evaluating the efficacy of antioxidant and other dietary supplements in AMD. In 2013, a modified clinical classification scheme was presented based on the AREDS data by an international committee of experts (Beckman Initiative for Macular Research Classification Committee) 6 . According to this classification, small drusen (that is, smallest diameter <63 μm) are known as drupelets to distinguish these normal ageing-associated changes from actual pathological findings. Thus, eyes with very small drusen have no increased risk of progression to AMD. Of note, SDD were not included in this classification system. A further modification of the Beckman for Macular Research Classification Initiative Committee was the classification of any GA within two optic disc diameters around the fovea as late AMD. In the Beckman classification, the term dry AMD was used only for GA and not for early stages of AMD 6 . 
+ Towards refined AMD classifications. 
+ The previously introduced classification systems for AMD were mainly based on ophthalmoscopic examination or CFP, hence, pathological findings that are visible only on high-resolution retinal imaging were not taken into account. Accordingly, efforts to establish a more precise classification systems for AMD that includes findings from advanced diagnostic imaging are ongoing. 
+ This is exemplified by the Classification of Atrophy Meeting Group (CAM), a panel of retinal specialists, retinal histopathologists, image reading centre experts and optics engineers who suggested a consensus definition of ‘atrophic’ AMD based on high-resolution OCT 193 , 194 ( BOX 3 ). This consensus proposes four terms and histological correlates — complete RPE and outer retinal atrophy (cRORA), incomplete RPE and outer retinal atrophy (iRORA), complete outer retinal atrophy (cORA) and incomplete outer retinal atrophy (iORA). Notably, future studies to validate the implicit risk of vision loss associated with these newly introduced terms are warranted. 
+ Box 3 |. Refined classification of atrophy associated with AMD. 
+ Consensus definitions for atrophy associated with age-related macular degeneration (AMD) on optical coherence tomography (OCT) according to the Classification of Atrophy Meeting (CAM) reports III and IV 193 , 194 : 
+ Complete RPE and outer retinal atrophy (cRORA) 
+ 
+ Region of hypertransmission of at least 250 μm in diameter 
+ Zone of attenuation or disruption of the RPE at least 250 μm in diameter 
+ Evidence of overlying photoreceptor degeneration 
+ Absence of scrolled RPE or other signs of an RPE tear 
+ Incomplete RPE and outer retinal atrophy (iRORA) 
+ 
+ Region of signal hypertransmission into the choroid 
+ Corresponding zone of attenuation or disruption of the RPE 
+ Evidence of overlying photoreceptor degeneration 
+ 
+ RPE, retinal pigment epithelium Similarly, based on the findings from OCT and OCT-A, the Consensus on Neovascular AMD Nomenclature (CONAN) Group published a framework of a consensus nomenclature to define and subclassify neovascular AMD 9 ( TABLE 1 ). Of note, the OCT and OCT-A findings do not correlate directly with the fluorescein angiographic categories, such as classic, occult or mixed membranes. 
+ Table 1 |. 
+ Definition and multimodal imaging correlates of macular neovascularization in AMD 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Type of MNV 
+ Definition 
+ Multimodal imaging correlate 
+ 
+ 
+ 
+ Type 1 MNV 
+ Ingrowth of vessels initially from the choriocapillaris into and within the subretinal pigment epithelial space; leads to varying types of PED 
+ Areas of neovascular complexes arising from the choroid and imaged with OCT as an elevation of the RPE by material with heterogeneous reflectivity; vascular elements may be seen; OCT angiography shows vessels below the level of the RPE 
+ 
+ 
+ Type 2 MNV 
+ Neovascularization that originates from the choroid that traverses Bruch's membrane and the RPE monolayer and then proliferates in the subretinal space 
+ Neovascular complex located in the subretinal space above the level of the RPE; may be associated with subretinal hyperreflective material and separation of the neurosensory retina from the RPE; OCT angiography shows vascular elements above the level of the RPE 
+ 
+ 
+ Mixed type 1 and type 2 MNV 
+ Neovascularizations with a combination of type 1 and type 2 growth patterns 
+ OCT findings of both type 1 and type 2 together; OCT angiography shows neovascularization in the preretinal and subretinal compartments 
+ 
+ 
+ Type 3 MNV 
+ Neovascularization that originates from the retinal circulation, typically the deep capillary plexus, and grows towards the outer retina 
+ Extension of hyperreflectivity from the middle retina towards the level of the RPE associated with intraretinal oedema, haemorrhage and telangiectasis; OCT angiography shows the downgrowth of new vessels towards or even penetrating the level of the RPE 
+ 
+ 
+ Retinal-choroidal anastomosis 
+ Aberrant connection from the retinal to the choroidal circulation 
+ Aberrant connection from the retinal to the choroidal circulation; the course of the vessel can occasionally be seen with OCT-OCT angiography; although visible on fluorescein angiography, indocyanine green is often better in demonstrating the anastomosis 
+ 
+ 
+ Polypoidal choroidal vasculopathy 
+ A variant of type 1 MNV commonly seen in Asia; indocyanine green angiography shows a branching vascular network and aneurysmal dilations of varying number at the outer edge of the expanding lesion; the internal structure of the aneurysmal structures, often termed polyps, is controversial 
+ OCT findings similar to those in type 1 MNV; however, some patients have dilated vascular elements at the outer border of the lesion; stippled hyperfluorescence over an area of elevated RPE, which expands to coalesce in the later phases of the angiography; the pattern of the RPE elevation may suggest nodules; indocyanine green angiography shows a branching vascular network with aneurysmal dilations 
+ 
+ 
+ 
+ Open in a new tab 
+ Consensus nomenclature for reporting neovascular AMD according to the Consensus on Neovascular AMD Nomenclature Study Group (CONAN) 9 . MNV, macular neovascularization; OCT, optical coherence tomography; PED, pigment epithelium detachment; RPE, retinal pigment epithelium. One goal of developing new consensus terminologies for distinct manifestations of AMD is to provide a more complete view of pathological changes that occur in AMD than can be seen with fundus photography alone. Furthermore, finding common terminology for phenotypic features is essential to precisely compare different clinical trials and research projects. The newly proposed terminologies are still in flux but are aimed to drive research to determine the best way to proceed. One such example is the change from using the term ‘choroidal neovascularization’ (CNV) to MNV. For decades, CNV was the preferred term to denote the choroidal origin of new vessels in AMD and in other retinal diseases. However, in AMD, neovascularization may also originate in other layers, such as the outer retina. This form of neovascularization is known as retinal angiomatous proliferation 195 , 196 , which is now proposed to be termed ‘type 3 MNV’. Using the term ‘MNV’ is a simplification; however, it encompasses all neovascular AMD variants described so far and, therefore, MNV is the term used throughout this Primer. Of note, neovascularization can also occur in the retinal periphery (away from the macula) in AMD 197 and, as such, the term MNV does not embrace these lesions. Thus, usage of the term MNV and particularly the claim to entirely replace the well-established term, CNV, may not meet consensus and another all-inclusive term is still required. Screening 
+ An effective screening programme must ideally detect the disease at an asymptomatic stage with good sensitivity and specificity so that the initiation of a therapy can prevent or delay disease progression 198 . Although AMD can be detected at asymptomatic stages as patients reveal ocular changes, no screening programmes embedded within clinical care are established; there could be several reasons for this. First, the progression to late stages in people with bilateral early or intermediate AMD can take many years. Second, although AREDS showed that antioxidant supplementation slows progression to exudative neovascular AMD in the fellow eye in people with late-stage AMD in one eye or those with bilateral intermediate AMD (including those with non-central GA) 199 , it does not do so in people with bilateral early AMD. Third, no study has yet demonstrated a preventive effect in terms of delaying GA development. Nevertheless, lifestyle changes and closer monitoring of high-risk patients could be beneficial. Evidence suggests that systematic screening for AMD could mitigate future disease burden and is cost-effective, particularly when performed simultaneously in patients already undergoing screening for diabetic retinopathy based on fundus photography 200 , 201 . 
+ Given the limited availability of retinal specialists and the growing ageing population, there is a need for automatic, rapid and cost-effective, yet highly sensitive and specific methods for detecting ophthalmic disorders 202 . Notably, ~25% of eyes deemed to be normal by primary eye-care physicians were reported to have AMD features by trained graders 203 . Artificial intelligence grounded on deep learning techniques has attracted global interest over the last decade. The application of deep learning will undoubtedly revolutionize the field of ophthalmology not least due to the practically unlimited number of digital images in large datasets. Drusen, SDD, fluid and GA can reliably be detected by deep learning algorithms on CFP and OCT scans 204 . The most effective automated applications in these studies demonstrated relatively high accuracy, sensitivity and specificity for the detection of AMD 205 , 206 . 
+ Although validated models for AMD screening and risk prediction for late AMD are now ready for clinical testing and potential telemedicine deployment 207 , the implementation of deep learning methods into clinical care still has a long way to go. Validation in real-life populations, large-scale clinical testing in prospective trials, regulatory approval and proper incorporation into physician–patient dynamics and interfaces are yet needed. Prevention 
+ A large body of evidence suggests that the modification of certain lifestyle components is of the utmost importance in delaying the onset of AMD as well as its progression 5 . Smoking cessation and a high level of physical activity have been shown to reduce the risk of AMD progression 21 , 22 , 24 , 35 , 36 . Furthermore, a high consumption of fish, nuts, lutein and zeaxanthin, and the unsaturated ω-3 fatty acids DHA and EPA, is associated with a reduced risk of AMD, whereas the consumption of red meat and trans fats is associated with an increased risk 5 . 
+ The Mediterranean diet has been associated with healthy ageing and lower rates of mortality, chronic disease and stroke 208 , 209 . Of note, a higher adherence to the Mediterranean diet has also been associated with reduced risk of progression to late-stage AMD 96 , 210 – 212 . Interestingly, a 2015 study demonstrated that the alternate Mediterranean diet (aMeDi) score is significantly associated with a lower incidence of advanced AMD among subjects carrying the CFH Y402H non-risk (T) allele ( P -trend = 0.0004, P -interaction = 0.04) and is not associated with AMD among patients homozygous for the risk (C) allele. This finding suggests that the preventive effect of nutrition can be modified by genetic susceptibility 96 . 
+ AREDS, a large RCT, evaluated the effect of dietary supplements, specifically the combination of antioxidant vitamins (500 mg vitamin C, 400 IU vitamin E, 15 mg β-carotene) and 80 mg zinc plus 2 mg copper 199 . In people with unilateral late AMD or bilateral intermediate AMD (including non-central GA), the AREDS supplementation reduced the risk of progression to neovascular AMD by ~25% in 5 years 199 , 213 , 214 . Interestingly, the AREDS2, a RCT that tested ω-3 fatty acids and lutein and zeaxanthin, found no evidence for DHA and EPA supplementation in reducing AMD progression, and supported the view that β-carotene should be excluded owing to the twofold increased risk of lung cancer linked to its use 214 . The primary analysis of the AREDS2 trial found no beneficial or harmful effect for lutein or zeaxanthin, whereas secondary exploratory analyses suggested a reduced risk of progression to advanced AMD 214 . Individuals examined in AREDS2 were well-nourished and characterized by an above-average intake of dietary nutrients and, therefore, whether the results of AREDS2 can be generalized to the general population in the USA and across the world is uncertain. Moreover, given that the outcome measures in AREDS2 did not include direct assessment of tissue level effects, mechanisms other than antioxidant protection may potentially have contributed to the observed results. For example, studies have demonstrated anti-inflammatory functions for lutein and zeaxanthin in neural tissue and neurodevelopmental functions for lutein in the paediatric brain, implicating a role in neural development 215 . As major constituents of the macular pigment, lutein and zeaxanthin may further be protective by reducing exposure to harmful ultraviolet light 215 . Notably, one study demonstrated that high-dose lutein or zeaxanthin supplementation led to measurable increases in macular pigment optical density without serious adverse effects 216 . Management 
+ Counselling patients about the importance of a healthy lifestyle, including smoking cessation, adherence to a healthy diet and promoting physical exercise, is an important part of the management of AMD. In addition, patients with unilateral late AMD or bilateral intermediate AMD are recommended to take the AREDS2 supplementation. Although the field has witnessed advances in the treatment of neovascular AMD, therapeutic strategies to prevent photoreceptor loss in the context of de novo development and enlargement of GA are not available to date. Below, we summarize the latest advances in the treatment of neovascular AMD and emerging therapeutic approaches in the field. 
+ Laser therapy 
+ In the 1980s, thermal laser photocoagulation was used to ablate the new vessels. However this treatment was only applicable to a small proportion of eyes with well-defined small lesions outside the central fovea 217 . In the late 1990s, introduction of photodynamic therapy (PDT) expanded the therapeutic options for neovascular AMD. PDT utilizes the photosensitive intravenous drug, verteporfin, in combination with a laser, to cause direct damage to the abnormal vessels, sparing the retinal tissue 218 . Although trials showed efficacy in neovascular AMD, the use of PDT greatly diminished as substantial loss of vision was still observed following PDT. Nevertheless, PDT may still have a role in the treatment of polypoidal choroidal vasculopathy. PDT used in combination with anti-VEGF therapy may provide an additional benefit in this subgroup of patients 219 . Anti-VEGF therapies 
+ Since the early 2000s, the treatment of neovascular AMD has remarkably changed with the introduction of biologicals that inhibit VEGF a key mediator of angiogenesis 220 , 221 . Anti-VEGF therapy has transformed the visual outcomes in neovascular AMD, with a reduction of >50% in the rate of legal blindness from neovascular AMD in many countries 222 . Several anti-VEGF agents are available for the treatment of neovascular AMD. Ranibizumab is a humanized monoclonal antibody fragment that binds all VEGF isoforms. Aflibercept is a recombinant fusion protein that acts as a soluble decoy receptor. Aflibercept is a competitive inhibitor of VEGF but also binds placental growth factors 1 and 2 (other ligands of the VEGF family), the added effect of which is still debated. Bevacizumab is a full-length humanized monoclonal VEGF antibody 223 . In 2019, another anti-VEGF agent, brolucizumab, was added to the armamentarium. Brolucizumab is a humanized single-chain antibody fragment that allows higher molar dosing than former anti-VEGF biologicals 224 . Anti-VEGF drugs are administered through intravitreal injection and repeated treatments are needed frequently (individualized intervals between 4 and 16 weeks) over a prolonged period of time, often for life. 
+ Ranibizumab. 
+ Two pivotal phase III RCTs demonstrated superior vision outcomes measured as visual acuity in groups treated with ranibizumab every month compared with sham injections or PDT over 12 months 225 , 226 . In both RCTs, >90% of patients receiving ranibizumab lost <15 letters of vision measured on a standard vision chart at 12 months compared with ~60% of patients receiving the sham injections. Moreover, 25–40% of ranibizumab-treated patients achieved BCVA gains of 15 or more letters at 12 months compared with only 5% of patients receiving the sham injections. The visual acuity gains were maintained at 24 months in the patients receiving ranibizumab compared with baseline, whereas vision continued to decrease in the patients receiving PDT 226 . The FDA approved ranibizumab in 2006, with subsequent approval by other international agencies. Aflibercept. 
+ Two pivotal phase III RCTs evaluated the non-inferiority of aflibercept compared with ranibizumab for the treatment of neovascular AMD. In both trials, aflibercept was non-inferior to monthly ranibizumab in terms of numbers of patients losing <15 letters of vision and mean change in BCVA from baseline. Aflibercept was approved by the FDA in 2011 with subsequent approval in other jurisdictions 227 . Bevacizumab. 
+ Bevacizumab, approved for use in certain cancers, has been used off-label in the treatment of neovascular AMD since 2005 (REF. 228 ). Data from prospective, randomized trials document the non-inferiority of bevacizumab to ranibizumab 229 , 230 . The difference in mean gain in visual acuity was similar for both drugs among patients following the same regimen for 2 years. Brolucizumab. 
+ Brolucizumab was shown to be non-inferior to aflibercept in terms of visual function at 2 years 224 . Its potential for a more sustained duration of action to reduce the treatment burden for patients with MNV is promising. However, reports of severe uveitis and occlusive retinal vasculitis in association with brolucizumab merit further investigations 231 . A mechanism of delayed hypersensitivity with local antibodies may underlie the formation of immune complexes, leading to vasculitis 232 . 
+ The choice of which anti-VEGF agent to use often depends as much on cost as perceived differences in efficacy, and different countries have different availability to the various drugs. Newer anti-VEGF therapies that may be more efficacious or have longer duration of action are imminent, and their place in the treatment of neovascular AMD will be clarified as clinicians become experienced in their use. Adverse effects. 
+ Endophthalmitis (inflammation within the eye), retinal detachment, cataract and increased intraocular pressure, are known to occur in the context of intravitreal therapy. Nevertheless, clinical trials and several years of routine practice confirm that these are rare events. The rate of endophthalmitis, the most vision-threatening complication, was reported to be 0.06% (that is, 1 in 1,700 injections) 233 . Reports on the association between cerebrovascular accident (stroke) or arterial thromboembolic events (myocardial infarction) and the use of anti-VEGF agents vary greatly. To date, there is no clear evidence proving increased risk of the afore-mentioned events compared with those receiving no treatment or between the specific anti-VEGF interventions 234 , 235 . Individualizing anti-VEGF treatment protocols. 
+ Clinicians have attempted to individualize anti-VEGF treatment to reduce the treatment burden without loss in efficacy. Several criteria, such as a loss of more than five letters of vision, new haemorrhage or fluid seen on OCT images, have been applied to determine disease activity. Typically, OCT is used to titrate the treatment owing to the easy detection of fluid in the macular scans. The aim of anti-VEGF treatment is to dry the retina, so that none of the exudate from the abnormal vessels remains. Treatment protocols that use a pro re nata strategy, a reactive treatment given on monthly review only when disease activity is noted, has proven as efficacious as fixed dosing with an intravitreal injection given every month 236 . A popular protocol is ‘treat and extend’, a proactive treatment strategy whereby treatment is administered every visit. In the absence of signs of disease activity, the review interval is increased gradually and if disease activity recurs, then the interval is shortened. This strategy has delivered results similar to the fixed dosing trials and has been widely adopted internationally 237 . Most clinicians continue the treatment indefinitely, whereas others may discontinue treatment after achieving long-term stability with long treatment intervals. However, the individual needs to be monitored for life as recurrences do occur. 
+ Long-term follow-up studies have identified that the gains made in the first 2 years are not maintained in the long term 238 . In many instances, this loss can be attributed to under-treatment for a variety of reasons, including inability to access ongoing regular treatment, inappropriate treatment protocols and the burden of treatment for the clinician and patient. Besides patients dropping out of treatment, evidence shows that atrophy and fibrosis are important causes of vision loss despite good early results 13 . Efforts to reduce atrophy and fibrosis and to understand the relationship between anti-VEGF treatment and atrophy are areas of intense research. Issues around treatment burden and loss to follow-up for ongoing treatment are also major obstacles to overcome to ensure that patients receive the treatment at the required frequency over many years. Emerging therapies 
+ Targeting the complement system. 
+ Given the role of the complement system in AMD pathogenesis, targeting it with a therapeutic to halt or delay disease progression seems reasonable. However, to date, large phase III trials investigating the efficacy of ocular complement system modulation have failed to provide evidence. Two large phase III RCTs of lampalizumab involving patients with GA were terminated due to lack of efficacy, assessed as the mean change from baseline in GA lesion area at 48 weeks 14 . Currently, a phase III trial investigating pegcetacoplan, a selective C3 inhibitor, is ongoing following demonstration of efficacy in a phase II trial. Patients receiving pegcetacoplan intravitreally every month had a 29% lower rate of GA lesion enlargement at 12 months than those receiving sham injections ( P = 0.008) 239 . Furthermore, a phase II/III trial investigating intravitreal avacincaptad pegol, a C5 inhibitor, showed a 27.4% reduction in the mean rate of GA enlargement over 12 months compared with sham injection ( P = 0.0072) 240 . 
+ Although targeting complement remains hopeful, additional critical considerations might determine the eventual efficacy of the approach, including the selection of the appropriate patient population (for example, patients demonstrating abnormal systemic complement activation or having an at-risk genotype). Furthermore, in patients with established GA, targeting complement might not be efficacious as other factors and mechanisms have been hypothesized to drive GA enlargement 8 , 66 . Finally, intervening at such an advanced disease stage might be too late to be effective and, therefore, earlier intervention, for example, during intermediate AMD, to prevent GA development may be more successful. Quality of life 
+ AMD is a highly symmetrical disease; when late disease occurs in one eye, the fellow eye is at a high risk of developing late AMD as well. Thus, severely reduced vision owing to late stage AMD often affects both eyes with major implications for the patient’s quality of life with limited independence and even depression 241 . An important element in AMD management is vision rehabilitation, the purpose of which is to allow patients to resume or continue performing daily living tasks, with reading being one of the most important. Improved reading ability may be achieved by providing appropriate optical devices and special training in the use of residual vision through low-vision aids, which include optical magnifiers, magnifiers with light source, scanning devices and video devices, and electronic reading tablets 242 . 
+ Vision loss and AMD 
+ The Global Burden of Disease Consortium estimated that ~2 million and 6 million people were severely visually impaired and blind, respectively, owing to AMD and other macular diseases despite excluding those with diabetes mellitus 243 . One study analysing data from different European countries found the annual cost of lost productivity arising from visual impairment and blindness is ~25 billion euros even with the most conservative estimates without including treatment expenditure 244 . AMD accounts for the vast majority of cases of legal blindness arising from macular diseases 1 , 2 and, therefore, the burden of care is correspondingly high. A large study in the UK of electronic medical records of people predominantly with GA found that at initial diagnosis and based on the visual acuity in their better eye, approximately one fifth would be eligible for registration as severely visually impaired and another two-thirds of those with good visual acuity became ineligible to drive within 2 years 245 . Neovascular AMD also results in considerable visual decline, despite the obvious successes of anti-VEGF therapies 246 . The economic burden arising from social care and medical care of patients with AMD is complicated by the fact that many patients have both GA and neovascular AMD, and management of this disease extends into many decades 247 . A matter of concern is the accruing evidence of disappointing long-term outcomes with anti-VEGF treatment; slow and gradual deterioration of visual acuity occurs in around one-third of eyes, which become severely visually impaired over time indicating residual areas of unmet need 238 . Health-related quality of life in AMD 
+ Owing to the bilateral nature of AMD and loss of vision in both eyes, the impact on quality of life and resultant disability is perceived by patients as equivalent to the most severe health impairing conditions, such as cancer and stroke 248 . A measure of health-related quality of life (HRQOL) can be obtained using instruments that consist of structured questions about a patient’s ability to perform specific tasks or rating of health 249 . Such instruments known as patient-related outcome measures (PROMs) 250 are applied extensively in the social and health sciences to provide estimates of the impact of a disease on populations. These measures are also used as important indicators of the effectiveness of an intervention by policy makers and health-care delivery systems 251 , 252 . Thus, instruments estimating both generic and vision-specific HRQOL should be included as outcome measures in clinical trials and studies in ophthalmology 253 . Vision-specific quality of life in AMD 
+ An outcome accepted by clinicians, investigators of clinical trials and regulators as the most robust measure of efficacy is BCVA, which is a measure of foveal function 254 . However, the BCVA metric merely represents static foveal acuity in a single eye, whereas vision is a complex function and represents visual search, eye movement with directed attention and binocular performance 255 , 256 . Hence, BCVA correlates poorly with instruments that assess generic HRQOL even when recorded in the better eye of an individual 257 . 
+ Studies in patients with neovascular AMD show that vision specific instruments such as the visual functioning index (VFI), National Eye Institute Visual Functioning Questionnaire (NEI-VFQ) and the Daily Living Tasks dependent on Vision (DLTV) show significantly stronger correlations on statistical testing with BCVA recorded in the better eye 258 – 260 . Similar results have been shown in patients with GA 261 . These instruments ask people to rank the level of difficulty they experience when performing activities that require sight, such as reading and driving. However, the majority of the variance between vision-specific instruments and BCVA remains unexplained 262 . Vision-related quality of life instruments reflect broader aspects including contrast, colour detection, visual field, motion perception and a host of other properties of the sensory system we term vision. Furthermore, the responses are clearly influenced by whether one or both eyes are affected and by the patients’ own view of their disability, which is highly subjective. Hence, it is not surprising that correlations between BCVA and vision-specific instruments, albeit significant in the statistical sense, are at best moderate and usually poor. Consequently, BCVA is recognized to only inadequately capture the impact of late-stage AMD manifestations on visual disutility 262 , 263 . One study provided unique insights into the disutility associated with AMD: notably, the disutility calculated from the responses of people with AMD at specified vision impairment levels (mild, moderate or severe) was worse than that assigned by clinicians involved in the treatment of patients with AMD 264 . 
+ Patient and public preferences for health states associated with AMD are also different, with patients valuing their health state more severely than the public tariffs of commonly used HRQOL questionnaires 265 . These findings suggest that both the general public and clinicians underestimate the disutility that accompanies vision loss. A health economic study examining the costs attributable to social care provided for visually impaired and blind people across European countries suggests that the availability of monetary resources and country-specific political agendas will result in even greater differences 244 . Outlook 
+ The past two decades have witnessed substantial advances in how we treat and understand AMD. Despite these tremendous advances, the unmet medical need related to AMD continues to be substantial. AMD remains the leading cause of sight impairment and legal blindness in developed countries and the upcoming decades will continue to see substantial increases in the global burden of this disease 1 , 2 . 
+ In this context, the most urgent needs are efficacious therapies to prevent photoreceptor loss in patients with intermediate AMD and GA, and to reduce the burden of care in neovascular AMD without compromising functional outcomes. An early intervention that has the potential to prevent or retard late AMD development is desirable. However, a major challenge for clinical trials that intervene at an early stage of the disease is the variable and slow rate of progression to late-stage AMD, which remains the key clinical end point. Notably, no proven biomarkers are available to determine the success of an intervention in early AMD stages. Hence, tremendous efforts are ongoing to validate imaging biomarkers as clinical endpoints for future interventional clinical trials in early and intermediate AMD 155 , 193 , 194 , 266 . Although previous attempts to identify serum biomarkers that correlate with AMD progression led to inconsistent findings, systematic and unbiased approaches of finding biomarkers through metabolomics are underway 267 , 268 . The study of small-molecule fingerprints of cellular processes is a potentially powerful tool to identify AMD, and to provide prognostic information and precise treatment 138 . 
+ Clinical trials investigating the efficacy of complement inhibition, immunomodulation, alleviation of oxidative stress, improvement of choroidal perfusion and neuroprotection strategies in slowing GA progression are in progress 223 . In this context, systemic therapeutic approaches may be promising as most of the risk factors for AMD are not confined to the eye. Additionally, combination therapies may be more effective given that multiple pathways contribute to photoreceptor degeneration. A growing body of evidence shows that AMD is not one homogeneous disease but rather a disease spectrum comprising diverse phenotypes 68 , 69 , 269 . Sophisticated analyses of associations among phenotyping, genetics and risk factors will certainly elucidate further distinct AMD phenotypes with differential pathogenesis. 
+ Furthermore, evidence shows that mechanisms involved in driving GA enlargement may be different to those increasing the risk of ‘de novo’ GA development 8 . Therefore, pathogenetic pathways that are involved in the development of early AMD or late AMD are not necessarily meaningful targets to slow down GA enlargement. Hence, precision medicine that tailors therapeutics to specific AMD phenotypes and stages instead of ‘one-drug-fits-all’ models might be the key to battle the AMD disease spectrum in the future. 
+ In those patients who have already lost vision due to AMD, restoring the ability of the macula to detect and process light represents the greatest challenge. Research into regenerative therapies is being pursued in the laboratory, with some approaches entering early-phase clinical trials 270 , 271 . These regeneration strategies include the delivery of replacement cells (for example, engineered RPE cells) or the induction of endogenous regeneration in non-neural cells. A highly promising approach is the development of 3D retina organoids that recapitulate the spatial differentiation of the retina in a microphysiological system 272 , 273 . Such organoids can be valuable resources in the future for drug screening, disease modelling and for developing precision and regenerative medicine 273 . Restoration of vision might further be achievable by retinal prostheses. Early developments are currently dealing with optimizing such prostheses for patients taking into account cortical interactions between prosthetic and natural vision 274 . 
+ In the treatment of neovascular AMD, future research aims include decreasing the treatment burden of anti-VEGF regimens, sustaining long-term visual acuity gains and preventing visual loss from atrophy in the long term. Ongoing research efforts focus on the sustained delivery of anti-VEGF agents (in the form of depot release devices or formulations or gene therapy-mediated intraocular expression) and on targeting additional angiogenic pathways (for example, PDGF signalling and AngI–Tie2 signalling) 223 . 
+ Given the epidemiological predictions, we will face an immense increase in patients who require treatment for exudative neovascular AMD. Integration of artificial intelligence and deep learning algorithms into clinical practice may contribute to overcoming limited resources in health-care systems and resulting under-treatment. Deep learning methods can aid in diagnostics, screening and guidance of therapy with automated detection of disease activity, as well as the identification of potential therapeutic targets 275 . Tailoring therapeutics to specific phenotypes and disease stages may be the key to preventing irreversible vision loss and the associated reduced quality of life for patients with AMD. Supplementary Material 
+ Supplement 
+ 
+ NIHMS2142184-supplement-Supplement.pdf (282.2KB, pdf) 
+ Acknowledgements 
+ M.F. and S.S.-V. were in part supported by National Institutes of Health Core Grant (EY014800), and an Unrestricted Grant from Research to Prevent Blindness, New York, NY, to the Department of Ophthalmology & Visual Sciences, University of Utah and the German Research Foundation (DFG) grant FL 658/4–1 and FL 658/4–2. Glossary 
+ 
+ Macula 
+ An area in the centre of the retina, which harbours the area of sharpest vision. 
+ Drusen 
+ Focal deposits located between the retinal pigment epithelium (RPE)–basal lamina and the subRPE space (the inner collagenous layer of Bruch’s membrane). 
+ Subretinal drusenoid deposit 
+ (SDD). A drusen-like deposit located between the apical aspect of the retinal pigment epithelium and the subretinal space. SDD on optical coherence tomography correlates with the ‘reticular pseudodrusen’ pattern, described in en face imaging modalities. 
+ Choriocapillaris 
+ The innermost layer of the choroidal vasculature. 
+ Scotoma 
+ An area of partial or complete vision loss in the visual field. 
+ Macular neovascularization 
+ (MNV). Denotes neovascular disease in the macula from many causes. in AMD, neovascularization may start from the choroid (also termed choroidal neovascularization (CNV)) or in the outer retina. 
+ Basal linear deposits 
+ (BLinD). Thin layer of drusen material usually continuous with drusen. 
+ Lutein and zeaxanthin 
+ Two types of xanthophyll carotenoids in the retina. 
+ Linkage disequilibrium 
+ Non-random association of alleles at different loci. 
+ Lead variant 
+ The most associated variant for the lead trait at a given locus. 
+ Trickling GA 
+ Subtype of geographic atrophy (GA) with rapid enlargement and phenotypic features, such as extensive subretinal drusenoid deposits, deposition of subRPE material and a thin choroid. 
+ Microangiopathy 
+ A disease of small blood vessels. 
+ Basal laminar deposits 
+ (BLamD). Focal deposits located between the retinal pigment epithelium and its basement membrane. 
+ Lipofuscin 
+ Autofluorescent material that accumulates progressively over time in lysosomes of post-mitotic cells such as the retinal pigment epithelium. 
+ Malondialdehyde 
+ A product of lipid oxidation and a marker of oxidative stress. 
+ Central visual field defect 
+ Area of partial or complete vision loss in the central visual field. 
+ Visual acuity 
+ A point measure that reflects function in a small area of the retina, the fovea. it is a reproducible metric and used widely both in clinical practice and in research. 
+ Hard exudates 
+ Lipid molecules that accumulate within the retina from the abnormally leaky blood vessels. 
+ Mediterranean diet 
+ A diet comprising a well-balanced combination of foods with high consumption of plant foods (such as fruits, vegetables and cereals), moderate consumption of fish and wine, low consumption of dairy products and meat, and monounsaturated fat as the primary fat source. 
+ Alternate Mediterranean diet 
+ (aMeDi) score A scoring system that ranges from 0 to 9, with higher scores indicating a higher adherence to the diet. Alternate part refers to a variation in the diet that is most typical of the Mediterranean diet found in Europe. 
+ Intravitreal injection 
+ A procedure to administer, typically, a drug, directly into the vitreous cavity of the eye. 
+ Pro re nata 
+ Latin for ‘as needed’ or ‘as the circumstances arise’. in the context of AMD, this term is used for a ‘reactive’ treatment strategy for exudative neovascular AMD; treatment is given on monthly review only when disease activity is noted. 
+ Lampalizumab 
+ A selective complement factor D inhibitor. 
+ Footnotes 
+ 
+ Competing interests 
+ M.F. reports grants from Heidelberg Engineering, Genentech/Roche, Novartis and Optos; and personal fees from Bayer, Heidelberg Engineering, Genentech/Roche and Novartis; and non-financial support from Heidelberg Engineering, Optos and Zeiss Meditech, outside the submitted work. In addition, M.F. has a patent, US20140303013 A1, pending. R.H.G serves on the advisory boards of Apellis, Bayer, Genentech/Roche and Novartis. U.C. reports personal fees from Apellis, Alimera, Boehringer Ingelheim, Iveric Bio, Novartis, and Roche. S.S.-V. reports grants from Acucela/Kubota Vision, grants and personal fees from Allergan, personal fees from Bayer, non-financial support from Carl Zeiss MediTec, non-financial support from Centervue, personal fees from Gailmedix, personal fees and non-financial support from Heidelberg Engineering, grants from Katairo, grants and personal fees from Novartis, grants and personal fees from Roche, personal fees from Oxurion, grants and personal fees from Bioeq/Formycon, personal fees from Apellis, grants from SparingVision, grants from Pixium, outside the submitted work. E.Y.C., T.D.L.K and W.T.W. are co-inventors on a patent application (‘Methods and systems for predicting rates of progression of age-related macular degeneration’). W.T.W. is a current employee at Janssen Research and Development. C.C.K. declares no competing interests. 
+ References 
+ 
+ 
+ 1. 
+Wong WL
+et al. 
+Global prevalence of age-related macular degeneration and disease burden projection for 2020 and 2040: a systematic review and meta-analysis. Lancet Glob. Health
+2, e106–e116 (2014).
+
+This paper presents the global prevalence of age-related macular degeneration and provides the basis for understanding the burden of disease throughout the world. 
+ 
+ 
+ 2. Jonas JB, Cheung CMG & Panda-Jonas S
+Updates on the epidemiology of age-related macular degeneration. Asia Pac J. Ophthalmol. 6, 493–497 (2017). [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Sarks SH
+New vessel formation beneath the retinal pigment epithelium in senile eyes. Br. J. Ophthalmol. 57, 951–965 (1973).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Zweifel SA, Spaide RF, Curcio CA, Malek G & Imamura Y
+Reticular pseudodrusen are subretinal drusenoid deposits. Ophthalmology
+117, 303–312. e1 (2010).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Seddon JM
+Macular degeneration epidemiology: nature-nurture, lifestyle factors, genetic risk, and gene-environment interactions – the Weisenfeld award lecture. Invest. Ophthalmol. Vis. Sci. 58, 6513–6528 (2017).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. 
+Ferris FL 3rd
+et al. 
+Clinical classification of age-related macular degeneration. Ophthalmology
+120, 844–851 (2013).
+
+This is the current classification of age-related macular degeneration based on colour fundus photography that is used clinically and also in research. 
+ 
+ 
+ 7. Age-Related Eye Disease Study Research Group. The Age-Related Eye Disease Study system for classifying age-related macular degeneration from stereoscopic color fundus photographs: the Age-Related Eye Disease Study Report Number 6. Am. J. Ophthalmol. 132, 668–681 (2001).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Fleckenstein M
+et al. 
+The progression of geographic atrophy secondary to age-related macular degeneration. Ophthalmology
+125, 369–390 (2018).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Spaide RF
+et al. 
+Consensus nomenclature for reporting neovascular age-related macular degeneration data: Consensus on Neovascular Age-Related Macular Degeneration Nomenclature Study Group. Ophthalmology
+127, 616–636 (2020).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Miller JW
+Age-related macular degeneration revisited–piecing the puzzle: the LXIX Edward Jackson memorial lecture. Am. J. Ophthalmol. 155, 1–35.e13 (2013).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Colijn JM
+et al. 
+Prevalence of age-related macular degeneration in Europe: the past and the future. Ophthalmology
+124, 1753–1763 (2017).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Rofagha S, Bhisitkul RB, Boyer DS, Sadda SR & Zhang K
+Seven-year outcomes in ranibizumab-treated patients in ANCHOR, MARINA, and HORIZON: a multicenter cohort study (SEVEN-UP). Ophthalmology
+120, 2292–2299 (2013).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Jaffe GJ
+et al. 
+Macular morphology and visual acuity in year five of the comparison of age-related macular degeneration treatments trials. Ophthalmology
+126, 252–260 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Holz FG
+et al. 
+Efficacy and safety of lampalizumab for geographic atrophy due to age-related macular degeneration: Chroma and Spectri phase 3 randomized clinical trials. JAMA Ophthalmol. 136, 666–677 (2018).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Rim TH
+et al. 
+Prevalence and pattern of geographic atrophy in Asia: the Asian Eye Epidemiology Consortium. Ophthalmology. 127, 1371–1381 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Li JQ
+et al. 
+Prevalence and incidence of age-related macular degeneration in Europe: a systematic review and meta-analysis. Br. J. Ophthalmol. 104, 1077–1084 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Cruickshanks KJ
+et al. 
+Generational differences in the 5-year incidence of age-related macular degeneration. JAMA Ophthalmol. 135, 1417–1423 (2017).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Rudnicka AR
+et al. 
+Incidence of late-stage age-related macular degeneration in American whites: systematic review and meta-analysis. Am. J. Ophthalmol. 160, 85–93.e83 (2015).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Fisher DE
+et al. 
+Incidence of age-related macular degeneration in a multi-ethnic United States population: the Multi-Ethnic Study of Atherosclerosis. Ophthalmology
+123, 1297–1308 (2016).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Rudnicka AR
+et al. 
+Age and gender variations in age-related macular degeneration prevalence in populations of European ancestry: a meta-analysis. Ophthalmology
+119, 571–580 (2012).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Seddon JM, Willett WC, Speizer FE & Hankinson SE
+A prospective study of cigarette smoking and age-related macular degeneration in women. JAMA
+276, 1141–1146 (1996).
+ [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Smith W
+et al. 
+Risk factors for age-related macular degeneration: pooled findings from three continents. Ophthalmology
+108, 697–704 (2001).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Sobrin L & Seddon JM
+Nature and nurture–genes and environment predict onset and progression of macular degeneration. Prog. Retin. Eye Res. 40, 1–15 (2014).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Myers CE
+et al. 
+Cigarette smoking and the natural history of age-related macular degeneration: the Beaver Dam Eye Study. Ophthalmology
+121, 1949–1955 (2014).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Seddon JM, Cote J & Rosner B
+Progression of age-related macular degeneration: association with dietary fat, transunsaturated fat, nuts, and fish intake. Arch. Ophthalmol. 121, 1728–1737 (2003).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Seddon JM, George S & Rosner B
+Cigarette smoking, fish consumption, omega-3 fatty acid intake, and associations with age-related macular degeneration: the US Twin Study of Age-Related Macular Degeneration. Arch. Ophthalmol. 124, 995–1001 (2006).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Merle BM
+et al. 
+Circulating omega-3 fatty acids and neovascular age-related macular degeneration. Invest. Ophthalmol. Vis. Sci. 55, 2010–2019 (2014).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Augood C
+et al. 
+Oily fish consumption, dietary docosahexaenoic acid and eicosapentaenoic acid intakes, and associations with neovascular age-related macular degeneration. Am. J. Clin. Nutr. 88, 398–406 (2008).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Chong EW, Kreis AJ, Wong TY, Simpson JA & Guymer RH
+Dietary omega-3 fatty acid and fish intake in the primary prevention of age-related macular degeneration: a systematic review and meta-analysis. Arch. Ophthalmol. 126, 826–833 (2008).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Kakigi CL, Singh K, Wang SY, Enanoria WT & Lin SC
+Self-reported calcium supplementation and age-related macular degeneration. JAMA Ophthalmol. 133, 746–754 (2015).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Tisdale AK
+et al. 
+Association of dietary and supplementary calcium intake with age-related macular degeneration: age-related eye disease study report 39. JAMA Ophthalmol. 137, 543–550 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Merle BMJ, Silver RE, Rosner B & Seddon JM
+Associations between vitamin D intake and progression to incident advanced age-related macular degeneration. Invest. Ophthalmol. Vis. Sci. 58, 4569–4578 (2017).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Millen AE
+et al. 
+Association between vitamin D status and age-related macular degeneration by genetic risk. JAMA Ophthalmol. 133, 1171–1179 (2015).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Millen AE
+et al. 
+Serum 25-hydroxyvitamin D concentrations and incidence of age-related macular degeneration: the Atherosclerosis Risk in Communities Study. Invest. Ophthalmol. Vis. Sci. 60, 1362–1371 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Seddon JM, Cote J, Davis N & Rosner B
+Progression of age-related macular degeneration: association with body mass index, waist circumference, and waist-hip ratio. Arch. Ophthalmol. 121, 785–792 (2003).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. McGuinness MB
+et al. 
+Physical activity and age-related macular degeneration: a systematic literature review and meta-analysis. Am. J. Ophthalmol. 180, 29–38 (2017).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Heesterbeek TJ, Lorés-Motta L, Hoyng CB, Lechanteur YTE & den Hollander AI
+Risk factors for progression of age-related macular degeneration. Ophthalmic Physiol. Opt. 40, 140–170 (2020).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Bockelbrink A
+et al. 
+Cataract surgery and the development or progression of age-related macular degeneration: a systematic review. Surv. Ophthalmol. 53, 359–367 (2008).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Tomany SC, Cruickshanks KJ, Klein R, Klein BE & Knudtson MD
+Sunlight and the 10-year incidence of age-related maculopathy: the Beaver Dam Eye Study. Arch. Ophthalmol. 122, 750–757 (2004).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Fletcher AE
+et al. 
+Sunlight exposure, antioxidants, and age-related macular degeneration. Arch. Ophthalmol. 126, 1396–1403 (2008).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Khan JC
+et al. 
+Age related macular degeneration and sun exposure, iris colour, and skin sensitivity to sunlight. Br. J. Ophthalmol. 90, 29–32 (2006).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Clemons TE, Milton RC, Klein R, Seddon JM & Ferris FL III
+Risk factors for the incidence of advanced age-related macular degeneration in the Age-Related Eye Disease Study (AREDS): AREDS report no. 19. Ophthalmology
+112, 533–539 (2005).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Seddon JM, Cote J, Page WF, Aggen SH & Neale MC
+The US twin study of age-related macular degeneration: relative roles of genetic and environmental influences. Arch. Ophthalmol. 123, 321–327 (2005).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Hageman GS
+et al. 
+A common haplotype in the complement regulatory gene factor H (HF1/CFH) predisposes individuals to age-related macular degeneration. Proc. Natl Acad. Sci. USA
+102, 7227–7232 (2005).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Edwards AO
+et al. 
+Complement factor H polymorphism and age-related macular degeneration. Science
+308, 421–424 (2005).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Klein RJ
+et al. 
+Complement factor H polymorphism in age-related macular degeneration. Science
+308, 385–389 (2005).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Haines JL
+et al. 
+Complement factor H variant increases the risk of age-related macular degeneration. Science
+308, 419–421 (2005).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Rivera A
+et al. 
+Hypothetical LOC387715 is a second major susceptibility gene for age-related macular degeneration, contributing independently of complement factor H to disease risk. Hum. Mol. Genet. 14, 3227–3236 (2005).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Jakobsdottir J
+et al. 
+Susceptibility genes for age-related maculopathy on chromosome 10q26. Am. J. Hum. Genet. 77, 389–407 (2005).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. 
+Fritsche LG
+et al. 
+A large genome-wide association study of age-related macular degeneration highlights contributions of rare and common variants. Nat. Genet. 48, 134–143 (2016).
+
+This is the largest genetic study of age-related macular degeneration showing 52 genetic variants of 34 loci that are associated with the disease, and potential pathways of pathogenesis are noted. 
+ 
+ 
+ 51. Wang G
+Chromosome 10q26 locus and age-related macular degeneration: a progress update. Exp. Eye Res. 119, 1–7 (2014).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Hageman GS
+et al. 
+Extended haplotypes in the complement factor H (CFH) and CFH-related (CFHR) family of genes protect against age-related macular degeneration: characterization, ethnic distribution and evolutionary implications. Ann. Med. 38, 592–604 (2006). [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Hughes AE
+et al. 
+A common CFH haplotype, with deletion of CFHR1 and CFHR3, is associated with lower risk of age-related macular degeneration. Nat. Genet. 38, 1173–1177 (2006).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Raychaudhuri S
+et al. 
+A rare penetrant mutation in CFH confers high risk of age-related macular degeneration. Nat. Genet. 43, 1232–1236 (2011).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. den Hollander AI & de Jong EK
+Highly penetrant alleles in age-related macular degeneration. Cold Spring Harb. Perspect. Med. 5, a017202 (2014).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Hallam D
+et al. 
+An induced pluripotent stem cell patient specific model of complement factor H (Y402H) polymorphism displays characteristic features of age-related macular degeneration and indicates a beneficial role for UV light exposure. Stem Cell
+35, 2305–2320 (2017). [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Saini JS
+et al. 
+Nicotinamide ameliorates disease phenotypes in a human iPSC model of age-related macular degeneration. Cell Stem Cell
+20, 635–647.e7 (2017).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Smith EN
+et al. 
+Human iPSC-derived retinal pigment epithelium: a model system for prioritizing and functionally characterizing causal variants at AMD risk loci. Stem Cell Rep. 12, 1342–1353 (2019). [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Grassmann F, Ach T, Brandl C, Heid IM & Weber BHF. What does genetics tell us about age-related macular degeneration?
+Annu. Rev. Vis. Sci. 1, 73–96 (2015).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Orozco LD
+et al. 
+Integration of eQTL and a single-cell atlas in the human eye identifies causal genes for age-related macular degeneration. Cell Rep. 30, 1246–1259.e6 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Ratnapriya R
+et al. 
+Retinal transcriptome and eQTL analyses identify genes associated with age-related macular degeneration. Nat. Genet. 51, 606–610 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Porter LF
+et al. 
+Whole-genome methylation profiling of the retinal pigment epithelium of individuals with age-related macular degeneration reveals differential methylation of the SKI, GTF2H4, and TNXB genes. Clin. Epigenetics
+11, 6 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Wang J
+et al. 
+ATAC-Seq analysis reveals a widespread decrease of chromatin accessibility in age-related macular degeneration. Nat. Commun. 9, 1364 (2018).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Seddon JM
+et al. 
+Association of CFH Y402H and LOC387715 A69S with progression of age-related macular degeneration. JAMA
+297, 1793–1800 (2007).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Winkler TW
+et al. 
+Investigating the modulation of genetic effects on late AMD by age and sex: lessons learned and two additional loci. PLoS ONE
+13, e0194321 (2018).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Keenan TD
+et al. 
+Progression of geographic atrophy in age-related macular degeneration: AREDS2 Report Number 16. Ophthalmology
+125, 1913–1928 (2018).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Seddon JM, Reynolds R & Rosner B
+Peripheral retinal drusen and reticular pigment: association with CFHY402H and CFHrs1410996 genotypes in family and twin studies. Invest. Ophthalmol. Vis. Sci. 50, 586–591 (2009).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. van Asten F
+et al. 
+A deep phenotype association study reveals specific phenotype associations with genetic variants in age-related macular degeneration: Age-Related Eye Disease Study 2 (AREDS2) Report No. 14. Ophthalmology
+125, 559–568 (2018).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Fleckenstein M
+et al. 
+Distinct genetic risk profile of the rapidly progressing diffuse-trickling subtype of geographic atrophy in age-related macular degeneration (AMD). Invest. Ophthalmol. Vis. Sci. 57, 2463–2471 (2016).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Waldstein SM
+et al. 
+Characterization of drusen and hyperreflective foci as biomarkers for disease progression in age-related macular degeneration using artificial intelligence in optical coherence tomography. JAMA Ophthalmol. 138, 740–747 (2020).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Pfau M
+et al. 
+Progression of photoreceptor degeneration in geographic atrophy secondary to age-related macular degeneration. JAMA Ophthalmol. 125, 369–390 (2020). [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Reiter GS
+et al. 
+Subretinal drusenoid deposits and photoreceptor loss detecting global and local progression of geographic atrophy by SD-OCT imaging. Invest. Ophthalmol. Vis. Sci. 61, 11 (2020). [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Klein R
+et al. 
+Fifteen-year cumulative incidence of age-related macular degeneration: the Beaver Dam Eye Study. Ophthalmology
+114, 253–262 (2007).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Wightman AJ & Guymer RH
+Reticular pseudodrusen: current understanding. Clin. Exp. Optom. 102, 455–462 (2019).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Ramrattan RS
+et al. 
+Morphometric analysis of Bruch’s membrane, the choriocapillaris, and the choroid in aging. Invest. Ophthalmol. Vis. Sci. 35, 2857–2864 (1994).
+ [ PubMed ] [ Google Scholar ] 
+ 
+ 76. 
+Mullins RF
+et al. 
+The membrane attack complex in aging human choriocapillaris: relationship to macular degeneration and choroidal thinning. Am. J. Pathol. 184, 3142–3153 (2014).
+
+This study points to the importance of the choriocapillaris in the pathogenesis of AMD. 
+ 
+ 
+ 77. Sohn EH
+et al. 
+Loss of CD34 expression in aging human choriocapillaris endothelial cells. PLoS ONE
+9, e86538 (2014).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Zheng F
+et al. 
+Age-dependent changes in the macular choriocapillaris of normal eyes imaged with swept-source optical coherence tomography angiography. Am. J. Ophthalmol. 200, 110–122 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Borrelli E
+et al. 
+In vivo mapping of the choriocapillaris in healthy eyes: a widefield swept-source OCT angiography study. ophthalmol. Ophthalmol. Retina
+3, 979–984 (2019).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Friedman E
+A hemodynamic model of the pathogenesis of age-related macular degeneration. Am. J. Ophthalmol. 124, 677–682 (1997).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Malek G, Li CM, Guidry C, Medeiros NE & Curcio CA
+Apolipoprotein B in cholesterol-containing drusen and basal deposits of human eyes with age-related maculopathy. Am. J. Pathol. 162, 413–425 (2003).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Curcio CA, Johnson M, Rudolf M & Huang JD
+The oil spill in ageing Bruch membrane. Br. J. Ophthalmol. 95, 1638–1645 (2011).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Handa JT
+et al. 
+A systems biology approach towards understanding and treating non-neovascular age-related macular degeneration. Nat. Commun. 10, 3347 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Chen L
+et al. 
+Abundance and multimodal visibility of soft drusen in early age-related macular degeneration: a clinicopathologic correlation. Retina
+40, 1644–1648 (2020).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Lakkaraju A
+et al. 
+The cell biology of the retinal pigment epithelium. Prog. Retin. Eye Res. 100846 (2020).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Sparrow JR
+et al. 
+A2E, a byproduct of the visual cycle. Vis. Res. 43, 2983–2990 (2003).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Zhou J, Jang YP, Kim SR & Sparrow JR
+Complement activation by photooxidation products of A2E, a lipofuscin constituent of the retinal pigment epithelium. Proc. Natl Acad. Sci. USA
+103, 16182–16187 (2006).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Zhang Q
+et al. 
+Highly differentiated human fetal RPE cultures are resistant to the accumulation and toxicity of lipofuscin-like material. Invest. Ophthalmol. Vis. Sci. 60, 3468–3479 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Chen M & Xu H
+Parainflammation, chronic inflammation, and age-related macular degeneration. J. Leukoc. Biol. 98, 713–725 (2015).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Medzhitov R
+Origin and physiological roles of inflammation. Nature
+454, 428–435 (2008).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. Kanda A
+et al. 
+A variant of mitochondrial protein LOC387715/ARMS2, not HTRA1, is strongly associated with age-related macular degeneration. Proc. Natl Acad. Sci. USA
+104, 16227–16232 (2007).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. Kortvely E, Hauck SM, Behler J, Ho N & Ueffing M
+The unconventional secretion of ARMS2. Hum. Mol. Genet. 25, 3143–3151 (2016).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 93. Yang Z
+et al. 
+A variant of the HTRA1 gene increases susceptibility to age-related macular degeneration. Science
+314, 992–993 (2006).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 94. Canfield AE, Hadfield KD, Rock CF, Wylie EC & Wilkinson FL
+HtrA1: a novel regulator of physiological and pathological matrix mineralization?
+Biochem. Soc. Trans. 35, 669–671 (2007).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 95. Beguier F
+et al. 
+The 10q26 risk haplotype of age-related macular degeneration aggravates subretinal inflammation by impairing monocyte elimination. Immunity
+53, 429–441.e8 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 96. Merle BM, Silver RE, Rosner B & Seddon JM
+Adherence to a Mediterranean diet, genetic susceptibility, and progression to advanced macular degeneration: a prospective cohort study. Am. J. Clin. Nutr. 102, 1196–1206 (2015).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 97. Ho L
+et al. 
+Reducing the genetic risk of age-related macular degeneration with dietary antioxidants, zinc, and ω-3 fatty acids: the Rotterdam study. Arch. Ophthalmol. 129, 758–766 (2011).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 98. Schaumberg DA, Hankinson SE, Guo Q, Rimm E & Hunter DJ
+A prospective study of 2 major age-related macular degeneration susceptibility alleles and interactions with modifiable risk factors. Arch. Ophthalmol. 125, 55–62 (2007).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 99. Colijn JM
+et al. 
+Genetic risk, lifestyle, and age-related macular degeneration in Europe. The EYE-RISK consortium. Ophthalmology
+10.1016/j.ophtha.2020.11.024 (2020). [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 100. Penfold PL, Killingsworth MC & Sarks SH
+Senile macular degeneration: the involvement of immunocompetent cells. Graefes Arch. Clin. Exp. Ophthalmol. 223, 69–76 (1985).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 101. Anderson DH, Mullins RF, Hageman GS & Johnson LV
+A role for local inflammation in the formation of drusen in the aging eye. Am. J. Ophthalmol. 134, 411–431 (2002).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 102. 
+Hageman GS
+et al. 
+An integrated hypothesis that considers drusen as biomarkers of immune-mediated processes at the RPE-Bruch’s membrane interface in aging and age-related macular degeneration. Prog. Retin. Eye Res. 20, 705–732 (2001).
+
+This study describes the underlying mechanisms of the immune process that is at the heart of the pathophysiology of AMD, with drusen as the biomarker. 
+ 
+ 
+ 103. Rozing MP
+et al. 
+Age-related macular degeneration: a two-level model hypothesis. Prog. Retin. Eye Res. 76, 100825 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 104. Skerka C
+et al. 
+Defective complement control of factor H (Y402H) and FHL-1 in age-related macular degeneration. Mol. Immunol. 44, 3398–3406 (2007).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 105. Clark SJ
+et al. 
+Impaired binding of the age-related macular degeneration-associated complement factor H 402H allotype to Bruch’s membrane in human retina. J. Biol. Chem. 285, 30192–30202 (2010).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 106. Molins B
+et al. 
+Complement factor H binding of monomeric C-reactive protein downregulates proinflammatory activity and is impaired with at risk polymorphic CFH variants. Sci. Rep. 6, 22889 (2016).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 107. Calippe B
+et al. 
+Complement factor H inhibits CD47-mediated resolution of inflammation. Immunity
+46, 261–272 (2017).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 108. Armento A
+et al. 
+Loss of complement factor H impairs antioxidant capacity and energy metabolism of human RPE cells. Sci. Rep. 10, 10320 (2020).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 109. Weismann D
+et al. 
+Complement factor H binds malondialdehyde epitopes and protects from oxidative stress. Nature
+478, 76–81 (2011).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 110. Landowski M
+et al. 
+Human complement factor H Y402H polymorphism causes an age-related macular degeneration phenotype and lipoprotein dysregulation in mice. Proc. Natl Acad. Sci. USA
+116, 3703–3711 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 111. Borras C
+et al. 
+CFH exerts anti-oxidant effects on retinal pigment epithelial cells independently from protecting against membrane attack complex. Sci. Rep. 9, 13873 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 112. Curcio CA, Millican CL, Bailey T & Kruth HS
+Accumulation of cholesterol with age in human Bruch’s membrane. Invest. Ophthalmol. Vis. Sci. 42, 265–274 (2001).
+ [ PubMed ] [ Google Scholar ] 
+ 
+ 113. Curcio CA
+Soft drusen in age-related macular degeneration: biology and targeting via the oil spill strategies. Invest. Ophthalmol. Vis. Sci. 59, AMD160–AMD181 (2018).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 114. Fujihara M, Cano M & Handa JT
+Mice that produce ApoB100 lipoproteins in the RPE do not develop drusen yet are still a valuable experimental system. Invest. Ophthalmol. Vis. Sci. 55, 7285–7295 (2014).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 115. Cano M, Fijalkowski N, Kondo N, Dike S & Handa J
+Advanced glycation endproduct changes to Bruch’s membrane promotes lipoprotein retention by lipoprotein lipase. Am. J. Pathol. 179, 850–859 (2011).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 116. Yamada Y
+et al. 
+Oxidized low density lipoproteins induce a pathologic response by retinal pigmented epithelial cells. J. Neurochem. 105, 1187–1197 (2008).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 117. Thompson RB
+et al. 
+Identification of hydroxyapatite spherules provides new insight into subretinal pigment epithelial deposit formation in the aging eye. Proc. Natl Acad. Sci. USA
+112, 1565–1570 (2015).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 118. Pilgrim MG
+et al. 
+Subretinal pigment epithelial deposition of drusen components including hydroxyapatite in a primary cell culture model. Invest. Ophthalmol. Vis. Sci. 58, 708–719 (2017).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 119. Rudolf M
+et al. 
+Apolipoprotein A-I mimetic peptide L-4F removes Bruch’s membrane lipids in aged nonhuman primates. Invest. Ophthalmol. Vis. Sci. 60, 461–472 (2019).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 120. Gehlbach P, Li T & Hatef E
+Statins for age-related macular degeneration. Cochrane Database Syst. Rev. 2016, Cd006927 (2016).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 121. Jabbehdari S & Handa JT
+Oxidative stress as a therapeutic target for the prevention and treatment of early age-related macular degeneration. Surv. Ophthalmol. 66, 423–440 (2021).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 122. Datta S, Cano M, Ebrahimi K, Wang L & Handa JT
+The impact of oxidative stress and inflammation on RPE degeneration in non-neovascular AMD. Prog. Retin. Eye Res. 60, 201–218 (2017).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 123. SanGiovanni JP
+et al. 
+Mitochondrial DNA variants of respiratory complex I that uniquely characterize haplogroup T2 are associated with increased risk of age-related macular degeneration. PLoS ONE
+4, e5508 (2009).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 124. SanGiovanni JP
+et al. 
+DNA sequence variants in PPARGC1A, a gene encoding a coactivator of the ω-3 LCPUFA sensing PPAR-RXR transcription complex, are associated with NV AMD and AMD-associated loci in genes of complement and VEGF signaling pathways. PLoS ONE
+8, e53155 (2013).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 125. Canter JA
+et al. 
+Mitochondrial DNA polymorphism A4917G is independently associated with age-related macular degeneration. PLoS ONE
+3, e2091 (2008).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 126. Fisher CR & Ferrington DA
+Perspective on AMD pathobiology: a bioenergetic crisis in the RPE. Invest. Ophthalmol. Vis. Sci. 59, AMD41–AMD47 (2018).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 127. Rohrer B, Bandyopadhyay M & Beeson C
+Reduced metabolic capacity in aged primary retinal pigment epithelium (RPE) is correlated with increased susceptibility to oxidative stress. Adv. Exp. Med. Biol. 854, 793–798 (2016).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 128. He Y & Tombran-Tink J
+Mitochondrial decay and impairment of antioxidant defenses in aging RPE cells. Adv. Exp. Med. Biol. 664, 165–183 (2010).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 129. García-Onrubia L
+et al. 
+Matrix metalloproteinases in age-related macular degeneration (AMD). Int. J. Mol. Sci. 21, 5934 (2020).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 130. Guymer RH
+et al. 
+Subthreshold nanosecond laser intervention in age-related macular degeneration: the LEAD randomized controlled clinical trial. Ophthalmology
+126, 829–838 (2019).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 131. Curcio CA
+Photoreceptor topography in ageing and age-related maculopathy. Eye
+15, 376–383 (2001).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 132. Mathis T
+et al. 
+Activated monocytes resist elimination by retinal pigment epithelium and downregulate their OTX2 expression via TNF-α. Aging Cell
+16, 173–182 (2017).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 133. Sene A
+et al. 
+Impaired cholesterol efflux in senescent macrophages promotes age-related macular degeneration. Cell Metab. 17, 549–561 (2013).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 134. Ma W
+et al. 
+Absence of TGFβ signaling in retinal microglia induces retinal degeneration and exacerbates choroidal neovascularization. eLife
+8, e42049 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 135. Silverman SM, Ma W, Wang X, Zhao L & Wong WT
+C3- and CR3-dependent microglial clearance protects photoreceptors in retinitis pigmentosa. J. Exp. Med. 216, 1925–1943 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 136. Edwards MM
+et al. 
+Subretinal glial membranes in eyes with geographic atrophy. Invest. Ophthalmol. Vis. Sci. 58, 1352–1367 (2017).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 137. Linsenmeier RA & Zhang HF
+Retinal oxygen: from animals to humans. Prog. Retin. Eye Res. 58, 115–151 (2017).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 138. Miller JW, Bagheri S & Vavvas DG
+Advances in age-related macular degeneration understanding and therapy. US Ophthalmic Rev. 10, 119–130 (2017).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 139. Grossniklaus HE & Green WR
+Choroidal neovascularization. Am. J. Ophthalmol. 137, 496–503 (2004).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 140. Pfau M
+et al. 
+Coexistiance of type-1 choroidal neovascularization reduces the progression of atrophy in eyes with age-related macular degeneration. Ophthalmol. Retina
+4, 238–248 (2019).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 141. Capuano V
+et al. 
+Treatment-naïve quiescent choroidal neovascularization in geographic atrophy secondary to nonexudative age-related macular degeneration. Am. J. Ophthalmol. 182, 45–55 (2017).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 142. Heiferman MJ & Fawzi AA
+Progression of subclinical choroidal neovascularization in age-related macular degeneration. PLoS ONE
+14, e0217805 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 143. Dansingani KK & Freund KB
+Optical coherence tomography angiography reveals mature, tangled vascular networks in eyes with neovascular age-related macular degeneration showing resistance to geographic atrophy. Ophthalmic Surg. Lasers Imaging Retina
+46, 907–912 (2015).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 144. Christenbury JG
+et al. 
+Progression of macular atrophy in eyes with type 1 neovascularization and age-related macular degeneration receiving long-term intravitreal anti-vascular endothelial growth factor therapy: an optical coherence tomographic angiography analysis. Retina
+38, 1276–1288 (2018).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 145. Wang H & Hartnett ME
+Regulation of signaling events involved in the pathophysiology of neovascular AMD. Mol. Vis. 22, 189–202 (2016).
+ [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 146. Amaral J, Lee JW, Chou J, Campos MM & Rodríguez IR
+7-Ketocholesterol induces inflammation and angiogenesis in vivo: a novel rat model. PLoS ONE
+8, e56099 (2013).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 147. Blaauwgeers HG
+et al. 
+Polarized vascular endothelial growth factor secretion by human retinal pigment epithelium and localization of vascular endothelial growth factor receptors on the inner choriocapillaris. Evidence for a trophic paracrine relation. Am. J. Pathol. 155, 421–428 (1999).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 148. Poltorak Z
+et al. 
+VEGF145, a secreted vascular endothelial growth factor isoform that binds to extracellular matrix. J. Biol. Chem. 272, 7151–7158 (1997).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 149. Wang H
+et al. 
+Upregulation of CCR3 by age-related stresses promotes choroidal endothelial cell migration via VEGF-dependent and -independent signaling. Invest. Ophthalmol. Vis. Sci. 52, 8271–8277 (2011).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 150. Park DY
+et al. 
+Plastic roles of pericytes in the blood-retinal barrier. Nat. Commun. 8, 15296 (2017).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 151. Ding K
+et al. 
+Generation and characterization of ABBV642, a dual variable domain immunoglobulin molecule (DVD-Ig) that potently neutralizes VEGF and PDGF-BB and is designed for the treatment of exudative age-related macular degeneration. MAbs
+9, 269–284 (2017).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 152. Askou AL
+et al. 
+Suppression of choroidal neovascularization by AAV-based dual-acting antiangiogenic gene therapy. Mol. Ther. Nucleic Acids
+16, 38–50 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 153. Cocce KJ
+et al. 
+Visual function metrics in early and intermediate dry age-related macular degeneration for use as clinical trial endpoints. Am. J. Ophthalmol. 189, 127–138 (2018).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 154. Parfitt A, Boxell E, Amoaku WM & Bradley C
+Patient-reported reasons for delay in diagnosis of age-related macular degeneration: a national survey. BMJ Open Ophthalmol. 4, e000276 (2019). [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 155. Finger RP
+et al. 
+MACUSTAR: development and clinical validation of functional, structural, and patient-reported endpoints in intermediate age-related macular degeneration. Ophthalmologica. 241, 61–72 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 156. Lamb TD & Pugh EN Jr.
+Dark adaptation and the retinoid cycle of vision. Prog. Retin. Eye Res. 23, 307–380 (2004).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 157. Pfau M
+et al. 
+Fundus-controlled perimetry (microperimetry): application as outcome measure in clinical trials. Prog. Retin Eye Res. 10.1016/j.preteyeres.2020.100907 (2020). [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 158. Mitchell P, Liew G, Gopinath B & Wong TY
+Age-related macular degeneration. Lancet
+392, 1147–1159 (2018).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 159. 
+Holz FG
+et al. 
+Imaging protocols in clinical studies in advanced age-related macular degeneration: recommendations from classification of atrophy consensus meetings. Ophthalmology
+124, 464–478 (2017).
+
+This publication substantiates and advocates a multimodal imaging approach in clinical studies for the optimal detection and measurement of atrophy and its associated features. 
+ 
+ 
+ 160. Drexler W
+et al. 
+Ultrahigh-resolution ophthalmic optical coherence tomography. Nat. Med. 7, 502–507 (2001).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 161. Huang D
+et al. 
+Optical coherence tomography. Science
+254, 1178–1181 (1991).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 162. Fleckenstein M
+et al. 
+High-resolution spectral domain-OCT imaging in geographic atrophy associated with age-related macular degeneration. Invest. Ophthalmol. Vis. Sci. 49, 4137–4144 (2008).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 163. Narita C
+et al. 
+Structural OCT signs suggestive of subclinical nonexudative macular neovascularization in eyes with large drusen. Ophthalmology
+127, 637–647 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 164. Khanifar AA, Koreishi AF, Izatt JA & Toth CA
+Drusen ultrastructure imaging with spectral domain optical coherence tomography in age-related macular degeneration. Ophthalmology
+115, 1883–1890 (2008).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 165. Oishi A
+et al. 
+Prevalence, natural course, and prognostic role of refractile drusen in age-related macular degeneration. Invest. Ophthalmol. Vis. Sci. 58, 2198–2206 (2017).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 166. Tan ACS
+et al. 
+Calcified nodules in retinal drusen are associated with disease progression in age-related macular degeneration. Sci. Transl. Med. 10, eaat4544 (2018).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 167. Fleckenstein M
+et al. 
+Tracking progression with spectral-domain optical coherence tomography in geographic atrophy caused by age-related macular degeneration. Invest. Ophthalmol. Vis. Sci. 51, 3846–3852 (2010).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 168. Dolz-Marco R
+et al. 
+The border of macular atrophy in age-related macular degeneration: a clinicopathologic correlation. Am. J. Ophthalmol. 193, 166–177 (2018).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 169. Sarks JP, Sarks SH & Killingsworth MC
+Evolution of geographic atrophy of the retinal pigment epithelium. Eye
+2, 552–577 (1988).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 170. Csaky K
+et al. 
+Report from the NEI/FDA endpoints workshop on age-related macular degeneration and inherited retinal diseases. Invest. Ophthalmol. Vis. Sci. 58, 3456–3463 (2017).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 171. Delori FC
+et al. 
+In vivo fluorescence of the ocular fundus exhibits retinal pigment epithelium lipofuscin characteristics. Invest. Ophthalmol. Vis. Sci. 36, 718–729 (1995).
+ [ PubMed ] [ Google Scholar ] 
+ 
+ 172. Feeney L
+Lipofuscin and melanin of human retinal pigment epithelium. Fluorescence, enzyme cytochemical, and ultrastructural studies. Invest. Ophthalmol. Vis. Sci. 17, 583–600 (1978).
+ [ PubMed ] [ Google Scholar ] 
+ 
+ 173. Schmitz-Valckenberg S
+et al. 
+Fundus autofluorescence imaging. Prog. Retin. Eye Res. 81, 100893 (2020).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 174. Schmitz-Valckenberg S
+et al. 
+Semiautomated image processing method for identification and quantification of geographic atrophy in age-related macular degeneration. Invest. Ophthalmol. Vis. Sci. 52, 7640–7646 (2011).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 175. Schmitz-Valckenberg S, Fleckenstein M, Gobel AP, Hohman TC & Holz FG
+Optical coherence tomography and autofluorescence findings in areas with geographic atrophy due to age-related macular degeneration. Invest. Ophthalmol. Vis. Sci. 52, 1–6 (2011).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 176. Westeneng-van Haaften SC
+et al. 
+Clinical and genetic characteristics of late-onset Stargardt’s disease. Ophthalmology
+119, 1199–1210 (2012).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 177. Fritsche LG
+et al. 
+A subgroup of age-related macular degeneration is associated with mono-allelic sequence variants in the ABCA4 gene. Invest. Ophthalmol. Vis. Sci. 53, 2112–2118 (2012).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 178. Schmitz-Valckenberg S
+et al. 
+Reticular drusen associated with geographic atrophy in age-related macular degeneration. Invest. Ophthalmol. Vis. Sci. 52, 5009–5015 (2011).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 179. No authors listed]. Subfoveal neovascular lesions in age-related macular degeneration. Guidelines for evaluation and treatment in the macular photocoagulation study. Macular Photocoagulation Study Group. Arch. Ophthalmol. 109, 1242–1257 (1991).
+ [ PubMed ] [ Google Scholar ] 
+ 
+ 180. Slakter JS, Yannuzzi LA, Guyer DR, Sorenson JA & Orlock DA
+Indocyanine-green angiography. Curr. Opin. Ophthalmol. 6, 25–32 (1995).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 181. Meira J, Marques ML, Falcão-Reis F, Rebelo Gomes E & Carneiro Â
+Immediate reactions to fluorescein and indocyanine green in retinal angiography: review of literature and proposal for patient’s evaluation. Clin. Ophthalmol. 14, 171–178 (2020).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 182. Spaide RF, Klancnik JM Jr. & Cooney MJ
+Retinal vascular layers imaged by fluorescein angiography and optical coherence tomography angiography. JAMA Ophthalmol. 133, 45–50 (2015).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 183. Fingler J, Readhead C, Schwartz DM, Fraser SE & Phase-contrast OCT
+imaging of transverse flows in the mouse retina and choroid. Invest. Ophthalmol. Vis. Sci. 49, 5055–5059 (2008).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 184. Perrott-Reynolds R
+et al. 
+The diagnostic accuracy of OCT angiography in naive and treated neovascular age-related macular degeneration: a review. Eye
+33, 274–282 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 185. Chen L
+et al. 
+Nonexudative macular neovascularization supporting outer retina in age-related macular degeneration: a clinicopathologic correlation. Ophthalmology
+127, 931–947 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 186. Laiginhas R, Yang J, Rosenfeld PJ & Falcão M
+Nonexudative macular neovascularization – a systematic review of prevalence, natural history, and recent insights from OCT angiography. Ophthalmol. Retina
+4, 651–661 (2020).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 187. Roh M
+et al. 
+Subthreshold exudative choroidal neovascularization associated with age-related macular degeneration identified by optical coherence tomography angiography. J. Vitreoretin. Dis. 4, 377–385 (2020).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 188. Lutty GA, McLeod DS, Bhutto IA, Edwards MM & Seddon JM
+Choriocapillaris dropout in early age-related macular degeneration. Exp. Eye Res. 192, 107939 (2020).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 189. Müller PL, Pfau M, Schmitz-Valckenberg S, Fleckenstein M & Holz FG
+OCT-angiography in geographic atrophy. Ophthalmologica
+244, 42–50 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 190. Nattagh K
+et al. 
+OCT angiography to predict geographic atrophy progression using choriocapillaris flow void as a biomarker. Transl. Vis. Sci. Technol. 9, 6 (2020). [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 191. Sacconi R
+et al. 
+Choriocapillaris flow impairment could predict the enlargement of geographic atrophy lesion. Br. J. Ophthalmol. 105, 97–102 (2021).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 192. Ferris FL
+et al. 
+A simplified severity scale for age-related macular degeneration: AREDS Report No. 18. Arch. Ophthalmol. 123, 1570–1574 (2005).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 193. Sadda SR
+et al. 
+Consensus definition for atrophy associated with age-related macular degeneration on OCT: Classification of Atrophy Report 3. Ophthalmology
+125, 537–548 (2018).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 194. Guymer RH
+et al. 
+Incomplete retinal pigment epithelial and outer retinal atrophy in age-related macular degeneration: Classification of Atrophy Meeting Report 4. Ophthalmology
+127, 394–409 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 195. Hartnett ME, Weiter JJ, Garsd A & Jalkh AE
+Classification of retinal pigment epithelial detachments associated with drusen. Graefes Arch. Clin. Exp. Ophthalmol. 230, 11–19 (1992).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 196. Yannuzzi LA
+et al. 
+Retinal angiomatous proliferation in age-related macular degeneration. Retina
+21, 416–434 (2001).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 197. Friedman E, Smith TR & Kuwabara T
+Senile choroidal vascular patterns and drusen. Arch. Ophthalmol. 69, 220–230 (1963).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 198. Chew EY & Schachat AP
+Should we add screening of age-related macular degeneration to current screening programs for diabetic retinopathy?
+Ophthalmology
+122, 2155–2156 (2015).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 199. 
+Age-Related Eye Disease Study Research Group. A randomized, placebo-controlled, clinical trial of high-dose supplementation with vitamins C and E, beta carotene, and zinc for age-related macular degeneration and vision loss: AREDS report no. 8. Arch Ophthalmol. 119, 1417–1436 (2001).
+
+This randomized controlled trial established secondary prevention for persons with intermediate AMD or late AMD in one eye to reduce the risk of developing late AMD by 25%. 
+ 
+ 
+ 200. Ra H, Song LD, Choi JA & Jee D
+The cost-effectiveness of systematic screening for age-related macular degeneration in South Korea. PLoS ONE
+13, e0206690 (2018).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 201. Chan CK, Gangwani RA, McGhee SM, Lian J & Wong DS
+Cost-effectiveness of screening for intermediate age-related macular degeneration during diabetic retinopathy screening. Ophthalmology
+122, 2278–2285 (2015).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 202. Balyen L & Peto T
+Promising artificial intelligence-machine learning-deep learning algorithms in ophthalmology. Asia Pac J. Ophthalmol. 8, 264–272 (2019). [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 203. Neely DC
+et al. 
+Prevalence of undiagnosed age-related macular degeneration in primary eye care. JAMA Ophthalmol. 135, 570–575 (2017).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 204. Suri R, Neupane YR, Jain GK & Kohli K
+Recent theranostic paradigms for the management of age-related macular degeneration. Eur. J. Pharm. Sci. 153, 105489 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 205. 
+De Fauw J
+et al. 
+Clinically applicable deep learning for diagnosis and referral in retinal disease. Nat. Med. 24, 1342–1350 (2018).
+
+This study employed deep learning to detect disease that needs referral based upon the use of optical coherence tomography (OCT). 
+ 
+ 
+ 206. Yim J
+et al. 
+Predicting conversion to wet age-related macular degeneration using deep learning. Nat. Med. 26, 892–899 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 207. Bhuiyan A
+et al. 
+Artificial intelligence to stratify severity of age-related macular degeneration (AMD) and predict risk of progression to late AMD. Transl. Vis. Sci. Technol. 9, 25 (2020). [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 208. Sofi F, Abbate R, Gensini GF & Casini A
+Accruing evidence on benefits of adherence to the Mediterranean diet on health: an updated systematic review and meta-analysis. Am. J. Clin. Nutr. 92, 1189–1196 (2010).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 209. Trichopoulou A, Costacou T, Bamia C & Trichopoulos D
+Adherence to a Mediterranean diet and survival in a Greek population. N. Engl. J. Med. 348, 2599–2608 (2003).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 210. Merle BMJ
+et al. 
+Mediterranean diet and incidence of advanced age-related macular degeneration: the EYE-RISK consortium. Ophthalmology
+126, 381–390 (2019).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 211. Keenan TD
+et al. 
+Adherence to the Mediterranean diet and progression to late age-related macular degeneration in the age-related eye disease studies 1 and 2. Ophthalmology
+127, 1515–1528 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 212. Hogg RE
+et al. 
+Mediterranean diet score and its association with age-related macular degeneration: the European Eye Study. Ophthalmology
+124, 82–89 (2017).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 213. Davis MD
+et al. 
+The age-related eye disease study severity scale for age-related macular degeneration: AREDS Report No. 17. Arch. Ophthalmol. 123, 1484–1498 (2005).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 214. Age-Related Eye Disease Study 2 Research Group. Lutein + zeaxanthin and omega-3 fatty acids for age-related macular degeneration: the Age-Related Eye Disease Study 2 (AREDS2) randomized clinical trial. JAMA
+309, 2005–2015 (2013).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 215. Johnson EJ
+Role of lutein and zeaxanthin in visual and cognitive function throughout the lifespan. Nutr. Rev. 72, 605–612 (2014).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 216. Obana A
+et al. 
+Effect of an antioxidant supplement containing high dose lutein and zeaxanthin on macular pigment and skin carotenoid levels. Sci. Rep. 10, 10262 (2020).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 217. Krypton laser photocoagulation for neovascular lesions of age-related macular degeneration. Results of a randomized clinical trial. Macular Photocoagulation Study Group. Arch. Ophthalmol. 108, 816–824 (1990).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 218. Photodynamic therapy of subfoveal choroidal neovascularization in age-related macular degeneration with verteporfin: one-year results of 2 randomized clinical trials–TAP report. Treatment of age-related macular degeneration with photodynamic therapy (TAP) Study Group. Arch. Ophthalmol. 117, 1329–1345 (1999).
+ [ PubMed ] [ Google Scholar ] 
+ 
+ 219. Koh A
+et al. 
+EVEREST study: efficacy and safety of verteporfin photodynamic therapy in combination with ranibizumab or alone versus ranibizumab monotherapy in patients with symptomatic macular polypoidal choroidal vasculopathy. Retina
+32, 1453–1464 (2012).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 220. Yancopoulos GD
+Clinical application of therapies targeting VEGF. Cell
+143, 13–16 (2010).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 221. Miller JW
+VEGF: from discovery to therapy: the Champalimaud Award Lecture. Transl. Vis. Sci. Technol. 5, 9 (2016). [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 222. Bloch SB, Larsen M & Munch IC
+Incidence of legal blindness from age-related macular degeneration in Denmark: year 2000 to 2010. Am. J. Ophthalmol. 153, 209–213.e2 (2012).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 223. Ammar MJ, Hsu J, Chiang A, Ho AC & Regillo CD
+Age-related macular degeneration therapy: a review. Curr. Opin. Ophthalmol. 31, 215–221 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 224. Dugel PU
+et al. 
+HAWK and HARRIER: phase 3, multicenter, randomized, double-masked trials of brolucizumab for neovascular age-related macular degeneration. Ophthalmology
+127, 72–84 (2019).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 225. Rosenfeld PJ
+et al. 
+Ranibizumab for neovascular age-related macular degeneration. N. Engl. J. Med. 355, 1419–1431 (2006).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 226. 
+Brown DM
+et al. 
+Ranibizumab versus verteporfin for neovascular age-related macular degeneration. N. Engl. J. Med. 355, 1432–1444 (2006).
+
+This is the first study to establish the efficacy of intravitreous injections of anti-VEGF therapy for exudative neovascular AMD compared with standard therapy using photodynamic therapy. 
+ 
+ 
+ 227. Heier JS
+et al. 
+Intravitreal aflibercept (VEGF trap-eye) in wet age-related macular degeneration. Ophthalmology
+119, 2537–2548 (2012).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 228. Rosenfeld PJ, Moshfeghi AA & Puliafito CA
+Optical coherence tomography findings after an intravitreal injection of bevacizumab (avastin) for neovascular age-related macular degeneration. Ophthalmic Surg. Lasers Imaging
+36, 331–335 (2005).
+ [ PubMed ] [ Google Scholar ] 
+ 
+ 229. Chakravarthy U
+et al. 
+Ranibizumab versus bevacizumab to treat neovascular age-related macular degeneration: one-year findings from the IVAN randomized trial. Ophthalmology
+119, 1399–1411 (2012).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 230. 
+Martin DF
+et al. 
+Ranibizumab and bevacizumab for neovascular age-related macular degeneration. N. Engl. J. Med. 364, 1897–1908 (2011).
+
+This comparative study of different anti-VEGF agents for exudative neovascular AMD demonstrated equivalent effects on visual acuity. 
+ 
+ 
+ 231. Rosenfeld PJ & Browning DJ
+Is this a 737 max moment for brolucizumab?
+Am. J. Ophthalmol. 216, A7–A8 (2020).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 232. Baumal CR
+et al. 
+Retinal vasculitis and intraocular inflammation after intravitreal injection of brolucizumab. Ophthalmology
+127, 1345–1359 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 233. Meredith TA
+et al. 
+Postinjection endophthalmitis in the comparison of age-related macular degeneration treatments trials (CATT). Ophthalmology
+122, 817–821 (2015).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 234. Silva R
+et al. 
+The SECURE study: long-term safety of ranibizumab 0.5 mg in neovascular age-related macular degeneration. Ophthalmology
+120, 130–139 (2013).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 235. Schmidt-Erfurth U
+et al. 
+Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six-week results of the VIEW studies. Ophthalmology
+121, 193–201 (2014).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 236. Augsburger M, Sarra GM & Imesch P
+Treat and extend versus pro re nata regimens of ranibizumab and aflibercept in neovascular age-related macular degeneration: a comparative study. Graefes Arch. Clin. Exp. Ophthalmol. 257, 1889–1895 (2019).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 237. Chin-Yee D, Eck T, Fowler S, Hardi A & Apte RS
+A systematic review of as needed versus treat and extend ranibizumab or bevacizumab treatment regimens for neovascular age-related macular degeneration. Br. J. Ophthalmol. 100, 914–917 (2016).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 238. Maguire MG
+et al. 
+Five-year outcomes with anti-vascular endothelial growth factor treatment of neovascular age-related macular degeneration: the comparison of age-related macular degeneration treatments trials. Ophthalmology
+123, 1751–1761 (2016).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 239. Liao DS
+et al. 
+Complement C3 inhibitor pegcetacoplan for geographic atrophy secondary to age-related macular degeneration: a randomized phase 2 trial. Ophthalmology
+127, 186–195 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 240. Jaffe GJ
+et al. 
+C5 inhibitor avacincaptad pegol for geographic atrophy due to age-related macular degeneration: a randomized pivotal phase 2/3 trial. Ophthalmology
+128, 576–586 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 241. Cimarolli VR
+et al. 
+Anxiety and depression in patients with advanced macular degeneration: current perspectives. Clin. Ophthalmol. 10, 55–63 (2016).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 242. Virgili G
+et al. 
+Reading aids for adults with low vision. Cochrane Database Syst. Rev. 4, CD003303 (2018).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 243. Jonas JB
+et al. 
+Visual impairment and blindness due to macular diseases globally: a systematic review and meta-analysis. Am. J. Ophthalmol. 158, 808–815 (2014).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 244. Chakravarthy U
+et al. 
+The economic impact of blindness in Europe. Ophthalmic Epidemiol. 24, 239–247 (2017).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 245. Chakravarthy U
+et al. 
+Characterizing disease burden and progression of geographic atrophy secondary to age-related macular degeneration. Ophthalmology
+125, 842–849 (2018).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 246. Shao J, Choudhary MM & Schachat AP
+Neovascular age-related macular degeneration. Dev. Ophthalmol. 55, 125–136 (2016).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 247. Chakravarthy U
+et al. 
+Direct ophthalmic healthcare resource use among patients with geographic atrophy in a large cohort from the United Kingdom. Ophthalmol. Retina
+3, 920–926 (2019).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 248. Brown MM, Brown GC, Sharma S, Kistler J & Brown H
+Utility values associated with blindness in an adult population. Br. J. Ophthalmol. 85, 327–331 (2001).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 249. Margolis MK
+et al. 
+Vision-specific instruments for the assessment of health-related quality of life and visual functioning: a literature review. Pharmacoeconomics
+20, 791–812 (2002).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 250. Skevington SM & McCrate FM
+Expecting a good quality of life in health: assessing people with diverse diseases and conditions using the WHOQOL-BREF. Health Expect
+15, 49–62 (2012).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 251. McGrail K, Zierler A & Ip I
+Getting what we pay for? The value-for-money challenge. Healthc. Pap. 9, 8–22 (2009). [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 252. McGrail K, Bryan S & Davis J
+Let’s all go to the PROM: the case for routine patient-reported outcome measurement in Canadian healthcare. Healthc. Pap. 11, 8–18 (2011). [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 253. Calvert M
+et al. 
+Guidelines for inclusion of patient-reported outcomes in clinical trial protocols: The SPIRIT-PRO extension. JAMA
+319, 483–494 (2018).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 254. Beck RW
+et al. 
+Visual acuity as an outcome measure in clinical trials of retinal diseases. Ophthalmology
+114, 1804–1809 (2007).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 255. Engel FL
+Visual conspicuity, directed attention and retinal locus. Vis. Res. 11, 563–576 (1971).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 256. Megaw ED
+Factors affecting visual inspection accuracy. Appl. Erg. 10, 27–32 (1979). [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 257. Tosh J, Brazier J, Evans P & Longworth L
+A review of generic preference-based measures of health-related quality of life in visual disorders. Value Health
+15, 118–127 (2012).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 258. Mangione CM
+et al. 
+Development of the ‘Activities of Daily Vision Scale’. A measure of visual functional status. Med. Care
+30, 1111–1126 (1992).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 259. Mangione CM
+et al. 
+Identifying the content area for the 51-item National Eye Institute Visual Function Questionnaire: results from focus groups with visually impaired persons. Arch. Ophthalmol. 116, 227–233 (1998).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 260. Hart PM, Chakravarthy U, Stevenson MR & Jamison JQ
+A vision specific functional index for use in patients with age related macular degeneration. Br. J. Ophthalmol. 83, 1115–1120 (1999).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 261. Künzel SH
+et al. 
+Determinants of quality of life in geographic atrophy secondary to age-related macular degeneration. Invest. Ophthalmol. Vis. Sci. 61, 63 (2020).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 262. McClure ME, Hart PM, Jackson AJ, Stevenson MR & Chakravarthy U
+Macular degeneration: do conventional measurements of impaired visual function equate with visual disability?
+Br. J. Ophthalmol. 84, 244–250 (2000).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 263. Chakravarthy U & Stevenson M
+Self-reported visual functioning and quality of life in age-related macular degeneration. Curr. Opin. Ophthalmol. 16, 179–183 (2005).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 264. Brown GC, Brown MM & Sharma S
+Difference between ophthalmologists’ and patients’ perceptions of quality of life associated with age-related macular degeneration. Can. J. Ophthalmol. 35, 127–133 (2000).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 265. Butt T, Dunbar HM, Morris S, Orr S & Rubin GS
+Patient and public preferences for health states associated with AMD. Optom. Vis. Sci. 90, 855–860 (2013).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 266. Wu Z & Guymer RH
+Can the onset of atrophic age-related macular degeneration be an acceptable endpoint for preventative trials?
+Ophthalmologica
+243, 399–403 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 267. Laíns I
+et al. 
+Human plasma metabolomics study across all stages of age-related macular degeneration identifies potential lipid biomarkers. Ophthalmology
+125, 245–254 (2018).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 268. Acar İE
+et al. 
+Integrating metabolomics, genomics, and disease pathways in age-related macular degeneration: The EYE-RISK consortium. Ophthalmology
+127, 1693–1709 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 269. Biarnés M
+et al. 
+Genotype- and phenotype-based subgroups in geographic atrophy secondary to age-related macular degeneration: the EYE-RISK consortium. Ophthalmol. Retina
+4, 1129–1137 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 270. Oswald J & Baranov P
+Regenerative medicine in the retina: from stem cells to cell replacement therapy. Ther. Adv. Ophthalmol. 10, 2515841418774433 (2018).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 271. Langhe R & Pearson RA
+Rebuilding the retina: prospects for Müller glial-mediated self-repair. Curr. Eye Res. 45, 349–360 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 272. Bartfeld S & Clevers H
+Stem cell-derived organoids and their application for medical research and patient treatment. J. Mol. Med. 95, 729–738 (2017).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 273. Mazerik JN, Becker S & Sieving PA
+3-D retina organoids: building platforms for therapies of the future. Cell Med. 10, 2155179018773758 (2018).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 274. Arens-Arad T
+et al. 
+Cortical interactions between prosthetic and natural vision. Curr. Biol. 30, 176–182.e2 (2020).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 275. Schmidt-Erfurth U, Sadeghipour A, Gerendas BS, Waldstein SM & Bogunovic H
+Artificial intelligence in retina. Prog. Retin. Eye Res. 67, 1–29 (2018).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 276. von der Emde L
+et al. 
+Mesopic and dark-adapted two-color fundus-controlled perimetry in choroidal neovascularization secondary to age-related macular degeneration. Transl. Vis. Sci. Technol. 8, 7 (2019). [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 277. Cooke Bailey JN
+et al. 
+The application of genetic risk scores in age-related macular degeneration: a review. J. Clin. Med. 5, 31 (2016).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 278. Ding Y
+et al. 
+Bivariate analysis of age-related macular degeneration progression using genetic risk scores. Genetics
+206, 119–133 (2017).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 279. The American Academy of Ophthalmology. Age-related macular degeneration Preferred Practice Pattern. https://www.aao.org/preferred-practice-pattern/age-related-macular-degeneration-ppp (2019). 
+ 
+ 
+ 280. National Institute for Health and Care Excellence. Age-related macular degeneration. NICE guideline [NG82]. https://www.nice.org.uk/guidance/ng82 (2018). [ PubMed ] [ Google Scholar ] 
+ Associated Data 
+ This section collects any data citations, data availability statements, or supplementary materials included in this article. 
+ Supplementary Materials 
+ Supplement 
+ 
+ NIHMS2142184-supplement-Supplement.pdf (282.2KB, pdf)

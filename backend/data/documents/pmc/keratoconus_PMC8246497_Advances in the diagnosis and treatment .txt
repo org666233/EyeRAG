@@ -1,0 +1,718 @@
+Source: PubMed Central (PMC)
+PMCID: PMC8246497
+Title: Advances in the diagnosis and treatment of keratoconus
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8246497/
+Year: 2021
+Disease: keratoconus
+Priority: 2
+============================================================
+
+Ther Adv Ophthalmol . 2021 Jun 24;13:25158414211012796. doi: 10.1177/25158414211012796 
+ 
+ 
+ Advances in the diagnosis and treatment of keratoconus 
+ Eray Atalay 
+ Eray Atalay 
+ 
+ 1 Department of Ophthalmology, Medical School, Eskişehir Osmangazi University, Meşelik Kampüsü, Odunpazarı, Eskişehir 26040, Turkey 
+ Find articles by Eray Atalay 
+ 
+ 
+ 1, ✉ , Onur Özalp 
+ Onur Özalp 
+ 
+ 2 Department of Ophthalmology, Medical School, Eskişehir Osmangazi University, Eskişehir, Turkey 
+ Find articles by Onur Özalp 
+ 
+ 
+ 2 , Nilgün Yıldırım 
+ Nilgün Yıldırım 
+ 
+ 3 Department of Ophthalmology, Medical School, Eskişehir Osmangazi University, Eskişehir, Turkey 
+ Find articles by Nilgün Yıldırım 
+ 
+ 
+ 3 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, Medical School, Eskişehir Osmangazi University, Meşelik Kampüsü, Odunpazarı, Eskişehir 26040, Turkey 
+ 
+ 2 Department of Ophthalmology, Medical School, Eskişehir Osmangazi University, Eskişehir, Turkey 
+ 
+ 3 Department of Ophthalmology, Medical School, Eskişehir Osmangazi University, Eskişehir, Turkey 
+ 
+ ✉ Email: eatalay@ogu.edu.tr 
+ 
+ 
+ Received 2020 Oct 30; Accepted 2021 Apr 7; Collection date 2021 Jan-Dec. 
+ 
+ © The Author(s), 2021 
+ This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License ( https://creativecommons.org/licenses/by-nc/4.0/ ) which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access page ( https://us.sagepub.com/en-us/nam/open-access-at-sage ). 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC8246497  PMID: 34263132 
+ 
+ Abstract 
+ Keratoconus had traditionally been considered a rare disease at a time when the imaging technology was inept in detecting subtle manifestations, resulting in more severe disease at presentation. The increased demand for refractive surgery in recent years also made it essential to more effectively detect keratoconus before attempting any ablative procedure. Consequently, the armamentarium of tools that can be used to diagnose and treat keratoconus has significantly expanded. The advances in imaging technology have allowed clinicians and researchers alike to visualize the cornea layer by layer looking for any early changes that might be indicative of keratoconus. In addition to the conventional geometrical evaluation, efforts are also underway to enable spatially resolved corneal biomechanical evaluation. Artificial intelligence has been exploited in a multitude of ways to enhance diagnostic efficiency and to guide treatment. As for treatment, corneal cross-linking treatment remains the mainstay preventive approach, yet the current main focus of research is on increasing oxygen availability and developing new strategies to improve riboflavin permeability during the procedure. Some new combined protocols are being proposed to simultaneously halt keratoconus progression and correct refractive error. Bowman layer transplantation and additive keratoplasty are newly emerging alternatives to conventional keratoplasty techniques that are used in keratoconus surgery. Advances in tissue engineering and regenerative therapy might bring new perspectives for treatment at the cellular level and hence obviate the need for invasive surgeries. In this review, we describe the advances in the diagnosis and treatment of keratoconus primarily focusing on newly emerging approaches and strategies. 
+ Keywords: advances, diagnosis, keratoconus, treatment Introduction 
+ The armamentarium of tools that can be used to diagnose keratoconus has significantly expanded in recent years ( Figure 1 ). Advances in ocular imaging technology not only allowed significant improvements in the geometrical evaluation of the cornea but also has opened new avenues for characterizing other corneal features such as the biomechanics. With these developments, a more in-depth understanding of disease pathology became possible along with the realization that the actual prevalence of keratoconus may be much higher than what was reported over three decades ago using less-sophisticated diagnostic modalities. 
+ 1 
+ Advances in treatment followed suit, providing the opportunity to avoid full-thickness keratoplasty and its associated complications with newer preventive and refractive approaches. This review will focus on the latest developments in the diagnosis and treatment of keratoconus with a primary emphasis on newly emerging approaches and strategies. Hence, approaches that are already established and in widespread clinical use will not be covered. Publications that relate to advances in diagnosis and treatment of keratoconus (indexed in PubMed) between the years 2017 and 2020 were used in this review. 
+ Figure 1. 
+ 
+ Open in a new tab 
+ A chart of advances in the diagnosis of keratoconus. Advances in diagnosis 
+ Corneal epithelial and Bowman’s layer thickness mapping 
+ The corneal epithelium is a dynamic layer that adapts to the changes in the underlying stroma either by thickening or thinning. This property has been used to diagnose keratoconus particularly in instances where epithelial remodeling masks slight changes in the corneal curvature, hampering corneal topographical evaluation. Anterior segment optical coherence tomography (AS-OCT) has shown excellent repeatability for measuring corneal epithelial thickness, and its clinical use for this purpose has become more widespread. Initially designed to characterize epithelial thickness in a 6-mm zone, a recent upgrade allows expansion up to 9 mm, equivalent to an area that is approximately two and a quarter times larger than the former. 
+ 2 
+ Using a custom-designed polarization-sensitive OCT, Pircher and colleagues 
+ 3 
+ were able to map the thickness of the Bowman’s layer in addition to the epithelium from limbus-to-limbus and noted a highly irregular “moth-like” damage pattern in the Bowman’s layer in keratoconic eyes. Another group employed a commercially available swept-source OCT and by postprocessing, delineation of the air–epithelium edge and epithelium–Bowman’s layer interface was made possible. 
+ 4 
+ This approach enabled them to quantify the curvature and aberrations in these locations, which in a subsequent study was shown to outperform conventional Scheimpflug imaging in diagnosing forme fruste keratoconus. 
+ 5 
+ Corneal biomechanics 
+ Analysis of corneal biomechanical properties brings with it the prospects of revealing the cause (biomechanical weakening) possibly much earlier than the effect (corneal tomographical changes), therefore allowing a timelier diagnosis. Moreover, a spatially resolved evaluation of corneal biomechanics has the potential to aid in localizing relatively weaker corneal areas in an individual thereby allowing a more personalized treatment. Although still in its infancy, Brillouin spectroscopy is one candidate that we will soon see transition from the research phase to widespread clinical use. In brief, this noncontact technique relies on the detection of a Brillouin frequency shift in a laser light that occurs during an interaction with the phonons in a matter. The bulk elastic modulus of the cornea is derived using the mathematical relationship between the frequency shift and the velocity of the interacting phonons, and hence the elastic modulus. 
+ 6 
+ Although with great future potential, its reported in vivo accuracy in distinguishing eyes with keratoconus from normal eyes was relatively weak. 6 , 7 As opposed to Brillouin spectroscopy, optical coherence elastography provides a depth-dependent analysis of the cornea using the ultrasound elastography principle. 
+ 8 
+ A pilot study has shown that there was selective anterior stromal weakening in eyes with keratoconus when compared with normal eyes. 
+ 9 
+ Other recently reported techniques that have been used in the biomechanical characterization of the cornea include digital image correlation, 
+ 10 
+ high-resolution shear wave imaging, 
+ 11 
+ and phase-decorrelation OCT. 
+ 12 
+ As the cornea is a multilayered tissue with different anatomical and mechanical characteristics in the x, y, and z-directions, approaches that aim for a three-dimensional (3D) biomechanical evaluation would be beneficial. Furthermore, it must be kept in mind that the cornea is an anisotropic viscoelastic material exhibiting a nonlinear stress–strain relationship; hence, it does not have a constant elastic modulus. This makes it difficult to accurately characterize the biomechanical properties of the cornea in an in vivo setting. Biomarkers 
+ The widely held belief that keratoconus is a noninflammatory condition that has been challenged in recent years by findings that point to the contributory role of inflammation in ectasia development. Earlier studies have reported an increase in tear inflammatory cytokine and matrix metalloproteinase levels along with significant reductions in tear IgA, total tear protein production, and lactoferrin. 13 – 15 Parallel to these findings, serum analysis of patients with keratoconus showed altered levels of immunoglobulins suggesting a link between atopy and keratoconus. 
+ 16 
+ Although the mechanism is still unclear, it has been found that keratoconus is associated with atopic diseases, in which serum immunoglobulin levels are detected to be high, such as asthma, allergic rhinitis, combination of allergic conjunctivitis, chronic blepharitis, and vernal keratoconjunctivitis. 
+ 17 
+ A recent comparative study by McKay and colleagues 
+ 18 
+ revealed that the distribution of tear immunoglobulin heavy and light chains is different between keratoconus and healthy controls, suggesting that a disturbance in B-cell function may also play a role in keratoconus pathogenesis. Another study found higher levels of innate biomarkers, namely toll-like receptors 2 and 4, on the ocular surface of subclinical keratoconus patients, and drawing from this finding, the authors advocated their use as a biomarker in identifying keratoconus cases. 
+ 19 
+ Interestingly, Fodor and colleagues 
+ 20 
+ demonstrated that a concomitant increase in tear nerve growth factor and interleukin (IL)-13 predicts keratoconus progression with a sensitivity and specificity of 80% and 100%, respectively. 
+ Several studies have shown altered hormone levels in the saliva, plasma, tear, hair follicles, and aqueous humor of patients with keratoconus providing evidence to hormonal regulation of cornea. 21 – 25 In a study by Sharif and colleagues, 
+ 22 
+ the diagnostic accuracy of tear, plasma, and saliva prolactin–induced protein levels ranged from 92.8% to 93.7% and was found to be independent of the severity of keratoconus. The authors postulated that this protein could serve as a low-cost biomarker in keratoconus screening. Artificial Intelligence 
+ Artificial intelligence (AI) has been exploited in a myriad of ways in keratoconus diagnosis. Two recent studies showed that deep learning can effectively distinguish keratoconus from healthy eyes and determine the stage of the disease. 26 , 27 Combining features from AS-OCT and Scheimpflug imaging was shown to enhance the discriminant ability of a neural network algorithm for subclinical keratoconus compared to single instrument–derived parameters. 
+ 28 
+ Integrating data derived from biomechanical evaluation of the cornea in such models may allow a more multifaceted approach further increasing diagnostic precision. 
+ 29 
+ Deep learning has also been employed to aid in faster and more efficient segmentation of corneal OCT images (CorneaNet) aiming to create a model that could be used for early keratoconus detection. 
+ 30 
+ With newer AI models that are based on longitudinal data sets, disease monitoring, and AI-guided therapies may also be possible. 
+ 31 
+ Advances in treatment 
+ Corneal cross-linking 
+ Corneal cross-linking (C-CXL), first described by Wollensak and colleagues 
+ 32 
+ in 2003, is the mainstay preventive approach to halt keratoconus progression. A systematic review has shown the efficacy and safety of CXL in keratoconus along with its biomechanical principles. 
+ 33 
+ Although still widely adopted and used, the initial Dresden protocol has its setbacks owing to the unique physicochemical characteristics of the C-CXL reaction. A detailed account of the specific steps of the C-CXL reaction is out of the scope of this review, yet the mostly recognized and reported challenges with C-CXL, in general, include the rapid oxygen depletion particularly with higher irradiances, 
+ 34 
+ limited riboflavin penetration through an intact epithelium, 
+ 35 
+ the depth-dependent concentration gradient of riboflavin within the cornea, 
+ 36 
+ prolonged treatment duration, and issues with potential endothelial toxicity in thin corneas. Some of the novel approaches to overcome these challenges and other emerging protocols along with alternative cross-linking methods are described below ( Figure 2 ). 
+ Figure 2. 
+ 
+ Open in a new tab 
+ A chart of advances in the treatment of keratoconus. Approaches to increase oxygen availability 
+ Oxygen plays a pivotal role in C-CXL largely because, in a low-oxygen-concentration environment, the reaction (type I reaction) not only is much less efficient with fewer cross-links being formed but also results in the generation of toxic hydrogen peroxide as the final byproduct. 37 , 38 In the presence of sufficient oxygen, type-II reaction ensues allowing a safer, more effective and controlled C-CXL. Rapid depletion of oxygen and hence related problems are even more pronounced at high irradiances in accelerated C-CXL protocols. A pulsed C-CXL approach with on and off cycles was recently conceptualized to allow recovery time for oxygen replenishment and hence increase its stromal availability. In a recent large prospective uncontrolled study conducted at the Moorfields Eye Hospital, Gore and colleagues 
+ 39 
+ have reported keratometric stabilization in 98.3% of the 870 patients with an epi-off pulsed high-fluence protocol (30 mW/cm 2 for 4 minutes with 1.5 seconds on/off cycles) after 2 years of follow-up. In keeping with this finding, studies have shown deeper demarcation lines (a contested indicator of successful cross-linking) and more resistance to enzymatic digestion with pulsed protocols compared to continuous accelerated protocols. 40 , 41 However, it should be kept in mind that oxygen consumption occurs at a much faster pace than replenishment rendering short pulse intervals ineffective at complete oxygen restoration. 
+ 42 
+ 
+ In addition to acting as a barrier for oxygen penetration, the corneal epithelium consumes much higher oxygen than the stroma further compounding oxygen availability issues in transepithelial approaches. This effect has been exemplified in a study by Sun and colleagues 
+ 43 
+ who have shown rather limited efficacy with an epi-on pulsed light protocol (45 mW/cm 2 for 5 minutes and 20 seconds with a 1 second on/off cycle). In an ex vivo model of porcine eyes, Hill and colleagues 
+ 44 
+ were able to demonstrate that aerobic conditions could be obtained by providing supplemental oxygen in an epi-on pulsed high-irradiance protocol, suggesting that optimization of oxygen may be beneficial in accelerated epi-on protocols. To test this clinically, Mazzotta and colleagues 
+ 45 
+ have used oxygen delivery goggles to provide supplemental oxygen during an accelerated epi-on protocol and have reported meaningful improvements in visual acuity and corneal curvature with no significant adverse effects after 6 months of follow-up. Approaches to increase riboflavin delivery 
+ Riboflavin’s hydrophilicity and large molecular size make its passage difficult through an intact epithelium. Furthermore, although monophosphate isomers of riboflavin found in riboflavin formulations increase the solubility and require less energy to be photoactivated than riboflavin alone, they also increase the electronegativity acting as a repellant against the negatively charged proteoglycans in the corneal stroma. 
+ 35 
+ This further decreases the penetration into the corneal stroma. To overcome this limitation, methods involving the transport of riboflavin by the use of iontophoresis had been tried over the recent years with comparable success to standard C-CXL. 46 , 47 However, these approaches were still hindered by the fact that longer exposures and hence longer treatment times were needed. Mazzotta and colleagues 
+ 48 
+ have combined the pulsed high-fluence irradiance protocol with iontophoresis and have recently published the 3-year results of a shortened iontophoresis-assisted C-CXL technique, coined as the enhanced fluence pulsed light iontophoresis (EF I-CXL). This study showed satisfactory outcomes and similar demarcation line characteristics as with standard C-CXL. Iontophoresis procedure was split into two cycles by another group allowing time for riboflavin to penetrate the deeper stromal layers. 
+ 49 
+ Iontophoresis has also been found useful in an ex vivo rabbit eye model in increasing stromal penetration depth of rose bengal, another cross-linking agent that can only diffuse through the 100 to 125 µm of the corneal stroma with conventional approaches. 
+ Other approaches to increase riboflavin delivery have primarily aimed at chemically disrupting or loosening epithelial tight junctions, thereby increasing riboflavin permeability. Some of the tried molecules include diluted ethanol, benzalkonium chloride, trometamol, ethylenediaminetetraacetic acid, and vitamin E. 
+ 37 
+ Sodium iodide is a novel excipient in the riboflavin formulation which safeguards riboflavin against UVA photodegradation into its inactive derivatives, theoretically avoiding the need for high stromal concentrations and frequent instillation. 50 – 52 It also stimulates the formation of oxygen from the byproduct of the type-I reaction (hydrogen peroxide) favoring the occurrence of type-II reaction over the former. 
+ 37 
+ More recently, Aytekin and colleagues 
+ 53 
+ harnessed nanostructured lipid carriers in designing a novel riboflavin delivery system coupled with additional molecules that either confer a positive charge (Stearylamine) or act as a permeation enhancer (Trancutol P). Another novel drug delivery method involved loading of riboflavin into a microemulsion system which showed favorable outcomes in terms of stromal diffusion and C-CXL efficiency in a rabbit eye model. 
+ 54 
+ These systems however have not passed the scrutiny of a clinical trial and hence are only experimental. 
+ Assessment of intrastromal riboflavin has also been evaluated as a means to personalize riboflavin delivery and optimize treatment outcomes. Techniques that were used in a laboratory environment included spectrophotometry, high-performance liquid chromatography, confocal fluorescence microscopy, and two-photon optical microscopy, all of which involve some degree of invasiveness and are not readily translatable into a clinical setting. 55 – 58 To fill in this lacuna, Lombardo and colleagues 
+ 59 
+ have recently developed a noninvasive optical method for real-time assessment of intrastromal riboflavin concentration which has the potential to be useful in delivering personalized C-CXL treatments. Thin corneas 
+ Thin corneas pose a significant challenge whereby endothelial damage becomes inevitable with decreasing corneal thickness. Several solutions have been postulated to address this issue which includes administering hypoosmolar riboflavin, customized pachymetry-guided epithelial debridement, contact lens–assisted cross-linking, and accelerated high-fluence C-CXL. A more recent approach involves placing a stromal lenticule harvested with femtosecond laser during small incision lenticule extraction (SMILE) surgery for myopic correction or from a donor cornea onto the apex of the cone, thereby augmenting corneal thickness in this area. 60 , 61 Customized C-CXL 
+ The co-utilization of imaging modalities with C-CXL has allowed the delivery of targeted cross-linking to specific areas of the cornea. Customized cross-linking (PiXL) has paved the way to tailor the treatment according to the individual patient’s needs by offering a dualistic action to effectively halt keratoconus progression and provide a refractive correction at the same time. This approach aims at delivering the maximum treatment at the apex of the cone, supposedly the weakest area, therefore allowing a more controlled flattening/steepening inside and outside the treatment area. This selective treatment induces refractive changes favoring normalization of corneal curvature. The precise location to treat can be determined using tomography-driven finite-element models, 
+ 62 
+ maximum tomographic posterior float, 63 – 65 and thinnest pachymetry. 45 , 66 Such approaches, however, rely on the geometric surrogates of biomechanical weakening and hence not the cause but the effect. With the advances in spatially resolved in vivo biomechanical imaging of the cornea either with Brillouin spectroscopy 
+ 7 
+ or optical coherence elastography, 
+ 67 
+ biomechanics-guided C-CXL may be possible soon. Emerging combined protocols 
+ C-CXL addresses the progression of keratoconus and even with customized C-CXL, refractive correction that can be achieved is only limited. The impetus to simultaneously improve vision and halt disease progression has driven clinicians to find ways to safely combine refractive procedures with C-CXL. This approach has been coined the term CXL Plus, denoting that C-CXL is complemented with a refractive procedure, either by photorefractive keratectomy (PRK) or intracorneal ring segment implantation (ICRS). 
+ 68 
+ The results of a recently published large-scale prospective nonrandomized study that compared C-CXL alone with simultaneous C-CXL + ICRS and simultaneous C-CXL + PRK suggests that C-CXL + ICRS may be more suited for patients with higher irregular astigmatism and worse visual acuity, whereas C-CXL + PRK may be more effective in patients who require correction of irregular astigmatism but have better visual acuity. 
+ 69 
+ 
+ As is known, performing refractive surgery in an ectatic cornea comes with a cost of further deteriorating biomechanical instability. To counter this, strategies have been developed that minimize the volume of the tissue to be ablated without compromising the refractive outcome. In a pilot study, Yang and colleagues 
+ 70 
+ have studied the effect of “minimized-volume ablation” with accelerated C-CXL on the Schwind AMARIS 750 excimer laser platform (Schwind eye-tech solutions GmbH, Kleinostheim, Germany) in patients with grade I–III keratoconus and have found favorable results both in terms of safety and efficacy in correcting mild refractive errors. Similarly, a protocol in the name of “Central Corneal Regularization (CCR)” on the iVis Suite customized excimer laser ablation treatment platform (iVis Technologies S. r. l., Taranto, Italy) was tried with keratoconus patients (Amsler-Krumeich stage I–II) and was shown to improve both uncorrected and corrected visual acuity. 71 , 72 A subsequent comparative study also showed that the combination of the CCR/PRK approach with C-CXL results in a more effective reduction in higher-order aberrations and Kmax than what can be achieved with C-CXL alone. 
+ 73 
+ Kanellopoulos AJ modified the Athens protocol by incorporating topographically guided varied pattern C-CXL into the protocol thereby reducing the amount of tissue that has to be removed by PRK. 
+ 74 
+ The main obstacle in combining PRK with C-CXL however is that the minimum corneal thickness after ablation must still fulfill the 400 µm criterion, making this approach less feasible for more advanced keratoconus cases. The Tel Aviv protocol is another protocol in which PRK and CXL are combined. 75 , 76 During this procedure, 50-µm laser ablation of the epithelium and anterior stroma is performed using the excimer laser. 75 , 76 While astigmatic correction is planned as 50% of manifest refractive astigmatism (on the same axis), spherical ablation is applied subsequently in the epithelium and anterior stroma, not exceeding a total ablation of 50 µm. 75 , 76 The Tel Aviv protocol was reportedly to halt progression of keratoconus without excessive thinning in the corneas, and improved visual acuity and astigmatism. 75 , 76 The combination of transepithelial PTK and CXL, defined as the Cretan protocol by Kymionis and colleagues, 77 , 78 yielded better visual and refractive results in keratoconus patients compared to mechanical epithelial debridement. This method is an alternative option for patients who cannot undergo PRK due to thin cornea. 
+ ICRS becomes a better option in more irregular corneas and its combination with C-CXL has been well described; however, it is still debated as to which procedure should be performed first in combined protocols. In a recent meta-analysis, Hashemi and colleagues 
+ 79 
+ reported that simultaneous ICRS with C-CXL provides the best outcomes compared to staged approaches. Triple procedures combining PRK + C-CXL and ICRS have also been described. 
+ 80 
+ New molecules and strategies 
+ Various photoactivated cross-linkers other than riboflavin include rose bengal, Eosin Y, and WST-D, all of which are excited by different spectra of light. 
+ 81 
+ Among the previously reported chemical cross-linkers genipin, 
+ 82 
+ glyceraldehyde, 
+ 83 
+ glutaraldhyde, 
+ 84 
+ Açaí Extract, 
+ 85 
+ formaldehyde releasers, 
+ 86 
+ decoron, 
+ 87 
+ and nitroalcohols 
+ 88 
+ have been explored for use in corneal or scleral cross-linking. These agents do not require exposure to irradiance to be activated, but none of them has been translated into clinical practice. More recently, newer molecules have been described one of which is the transglutaminase, an enzyme that was first isolated from Streptoverticillium sp and had found its use in the food and manufacturing industries. 
+ 89 
+ This agent does not need photoactivation and was shown to effectively increase the stiffness of the cornea without causing any damage to the endothelium or keratocytes. 
+ 89 
+ 
+ A new photoactivator system for riboflavin has been recently proposed under the name of nonlinear optical cross-linking (NLO CXL) that exploits femtosecond laser. 90 – 92 This technique has several hypothetical advantages over UVA cross-linking. In contrast to UVA cross-linking that uses a single photon, NLO CXL requires two-photons, statistically increasing the likelihood of riboflavin photoactivation and subsequent radical formation. 
+ 90 
+ Furthermore, NLO CXL offers precise x–y–z dimensional control over the volume and depth of tissue that is to be subjected to femtosecond laser and hence cross-linking. 
+ 90 
+ Femtosecond laser may also be used to micromachine channels on the epithelium which could improve stromal penetration of riboflavin. 
+ 90 
+ 
+ While there have been significant modifications and updates in the CXL procedure with newer protocols, the Dresden CXL protocol remains the standard procedure for stabilizing keratoconus. As such, it is more accepted and preferred all over the world as being a safer and more effective method in the long term. 93 , 94 New keratoplasty procedures 
+ The last two decades have seen a paradigm shift in keratoplasty moving from the insertion of full-thickness grafts to lamellar grafts. A lamellar approach not only decreases the likelihood of immune rejection but also offers less-induced astigmatism and better visual outcomes particularly in the case of endothelial transplants. Some of the novel corneal transplantation approaches in keratoconus have been detailed below. 
+ Bowman layer transplantation 
+ Keratoconus has been classically linked with Bowman membrane fragmentation early in the course of the disease. 
+ 95 
+ Owing to Bowman membrane’s essential role in providing biomechanical support to maintain corneal shape, it was theorized that replacement of this tissue could halt further deterioration and maintain vision. 96 , 97 Bowman layer transplantation (BLT) has recently been gaining interest particularly in patients with advanced keratoconus where C-CXL and ICRS may not be possible either due to corneal thickness constraints or significant steepening ( Figure 3 ). Studies have shown that not only does it halt keratoconus progression, it also provides flattening with a 5-year progression/complication-free estimated survival rate of 84%. 
+ 98 
+ No study to date has reported any immune rejection episode partly owing to the accellularity of the Bowman membrane. 
+ 97 
+ To reduce the likelihood of microperforation during manual dissection, a femtosecond laser has been used for the creation of the stromal pocket. More recently, visualization of the dissection plane could be improved with the use of an intraoperative optical coherence tomography. 
+ 99 
+ The graft localization in the classic technique is at the mid-stromal level; however, a modification that has recently been described involves the insertion of the graft as an onlay in the subepithelial area. 100 , 101 This procedure does not require pocket creation and its preliminary results are promising. 
+ Figure 3. 
+ 
+ Open in a new tab 
+ Bowman layer transplantation: (a) Bowman layer inlay: a graft is implanted intrastromally and (b) Bowman layer onlay: a graft is localized onto the Bowman layer or anterior stroma. Additive keratoplasty 
+ This newly defined approach comprises of femtosecond laser-assisted insertion of a corneal lamella (prepared from a donor cornea or harvested during a lenticule extraction procedure) into an ectatic cornea. The procedure aims to increase corneal thickness, provide flattening in the conic area, and increasing biomechanical stability. Advantages include reduced immune reaction, minimal invasiveness, and shorter surgery as opposed to DALK or full-thickness grafting. 
+ 102 
+ In a preliminary study, Mastropasqua and colleagues 
+ 103 
+ demonstrated the effect of lenticule addition keratoplasty in nonprogressive advanced stage keratoconus eyes with improvements in visual acuity, corneal curvature, and corneal thickness. Using a slightly different lenticule shape, Jin and colleagues 
+ 104 
+ compared lenticule addition keratoplasty and penetrating keratoplasty in progressing eyes and have found that lenticule addition keratoplasty enabled better visual and biomechanical outcomes. The next step in this lacuna of research is to use tissue engineering methods to decellularize stromal lenticules so as to reduce or completely eliminate the likelihood of immune rejection. Results of a phase-1 study that evaluated the safety and efficacy of decellularized stromal lenticule implantation with or without autologous adipose-tissue-derived stem cells have been recently published. Although only modest improvements were noted within the time-frame of the study, the procedure was considered generally safe with a significant potential to be explored in further clinical trials. 
+ 105 
+ Cellular therapies 
+ Keratoconus is typically associated with keratocyte apoptosis partly due to rubbing associated repeated epithelial trauma, inflammation, and upregulation of degradative enzymes. 
+ 106 
+ Restoration of the keratocyte population by means of cellular therapy is an interesting approach that has the potential to re-establish the anatomy and physiology of a keratoconic cornea. Preclinical studies have shown that human-derived mesenchymal stem cells have the potential to differentiate into adult keratocytes and also synthesize collagen when injected into the host rabbit cornea. 107 , 108 In a preliminary study, Alio and colleagues injected autologous adipose-derived adult stem cells into femtosecond laser formed corneal pockets of five patients with advanced keratoconus. Remarkably, the injected stem cells remained viable within the tissue after 6 months and acquired the ability to synthesize new collagen. 
+ 109 
+ Although cellular/regenerative therapy for corneal diseases is an exciting field of research, caution should be exercised in generalizing these findings particularly in keratoconus, a corneal disease that may require rectifying degraded mechanical properties by volume replacement in addition to cellular restoration. 
+ 110 
+ Future directions 
+ Advances in diagnosis and management of keratoconus are evolving at an unprecedented pace. We owe this rapid development primarily to the realization that keratoconus is not a rare disease as it was once thought. From the diagnostics perspective, we will soon witness the implementation of spatially resolved in vivo corneal biomechanical evaluation that will complement conventional geometrical evaluation and pave the way for personalized therapies. As with all diseases, the focus should be on preventing rather than treating before visual deterioration becomes evident. An interesting single-arm clinical trial is currently ongoing testing the efficacy of oral riboflavin followed by sunlight exposure on keratometric stabilization and visual acuity after a follow-up of 6 months. 
+ 111 
+ If this simple treatment proves effective, dietary modifications may become the first-line treatment in keratoconus. Tissue engineering and regenerative therapy in keratoconus is also an exciting field of research that offers the opportunity to address disease pathology at the cellular level. Last, but by no means least, efforts expended in patient education and in increasing public awareness is an integral part of the collective combat against this visually debilitating corneal disease. 
+ 112 
+ Footnotes 
+ 
+ Conflict of interest statement: The authors declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article. 
+ Funding: The authors received no financial support for the research, authorship, and/or publication of this article. 
+ Ethical statement: This article does not contain any studies with human participants or animals performed by any of the authors. The manuscript is limited to a review of literature about the advances in the diagnosis and treatment of keratoconus. Therefore, no approval from ethical review board is required. 
+ 
+ ORCID iDs: Eray Atalay 
+ https://orcid.org/0000-0002-2536-4279 
+ Onur Özalp 
+ https://orcid.org/0000-0002-1079-7901 
+ Nilgün Yıldırım 
+ https://orcid.org/0000-0001-6266-4951 
+ 
+ Contributor Information 
+ Eray Atalay, Department of Ophthalmology, Medical School, Eskişehir Osmangazi University, Meşelik Kampüsü, Odunpazarı, Eskişehir 26040, Turkey. 
+ Onur Özalp, Department of Ophthalmology, Medical School, Eskişehir Osmangazi University, Eskişehir, Turkey. 
+ Nilgün Yıldırım, Department of Ophthalmology, Medical School, Eskişehir Osmangazi University, Eskişehir, Turkey. References 
+ 
+ 
+ 1. 
+Kennedy RH, Bourne WM, Dyer JA. A 48-year clinical and epidemiologic study of keratoconus. Am J Ophthalmol
+1986; 101: 267–273. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. 
+Ma JX, Wang L, Weikert MP, et al. Evaluation of the repeatability and reproducibility of corneal epithelial thickness mapping for a 9-mm zone using optical coherence tomography. Cornea
+2019; 38: 67–73. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. 
+Pircher N, Beer F, Holzer S, et al. Large field of view corneal epithelium and bowman’s layer thickness maps in keratoconic and healthy eyes. Am J Ophthalmol
+2020; 209: 168–177. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. 
+Matalia H, Francis M, Gangil T, et al. Noncontact quantification of topography of anterior corneal surface and bowman’s layer with high-speed OCT. J Refract Surg
+2017; 33: 330–336. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. 
+Chandapura R, Salomão MQ, Ambrósio R, Jr, et al. Bowman’s topography for improved detection of early ectasia. J Biophotonic
+2019; 12: e201900126. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. 
+Seiler TG, Shao P, Eltony A, et al. Brillouin spectroscopy of normal and keratoconus corneas. Am J Ophthalmol
+2019; 202: 118–125. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. 
+Shao P, Eltony AM, Seiler TG, et al. Spatially-resolved Brillouin spectroscopy reveals biomechanical abnormalities in mild to advanced keratoconus in vivo. Sci Rep
+2019; 9: 7467. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. 
+De Stefano VS, Ford MR, Seven I, et al. Live human assessment of depth-dependent corneal displacements with swept-source optical coherence elastography. PLoS ONE
+2018; 13: e0209480. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. 
+De Stefano VS, Ford MR, Seven I, et al. Depth-dependent corneal biomechanical properties in normal and keratoconic subjects by optical coherence elastography. Transl Vis Sci Technol
+2020; 9: 4. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. 
+Zhang X, Wang Q, Wang L, et al. Cornea full-field displacement and strain measurement in vivo using three-dimensional digital image correlation. Optom Vis Sci
+2018; 95: 1027–1034. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. 
+Chen PY, Shih CC, Lin WC, et al. High-resolution shear wave imaging of the human cornea using a dual-element transducer. Sensors (Basel)
+2018; 18: 4244. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. 
+Blackburn BJ, Gu S, Ford MR, et al. Noninvasive assessment of corneal crosslinking with phase-decorrelation optical coherence tomography. Invest Ophthalmol Vis Sci
+2019; 60: 41–51. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. 
+Lema I, Sobrino T, Durán JA, et al. Subclinical keratoconus and inflammatory molecules from tears. Br J Ophthalmol
+2009; 93: 820–824. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. 
+Balasubramanian SA, Pye DC, Willcox MD. Levels of lactoferrin, secretory IgA and serum albumin in the tear film of people with keratoconus. Exp Eye Res
+2012; 96: 132–137. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. 
+Lema I, Durán JA. Inflammatory molecules in the tears of patients with keratoconus. Ophthalmology
+2005; 112: 654–659. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. 
+Rahi A, Davies P, Ruben M, et al. Keratoconus and coexisting atopic disease. Br J Ophthalmol
+1977; 61: 761–764. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. 
+Merdler I, Hassidim A, Sorkin N, et al. Keratoconus and allergic diseases among Israeli adolescents between 2005 and 2013. Cornea
+2015; 34: 525–529. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. 
+McKay TB, Serjersen H, Hjortdal J, et al. Characterization of tear immunoglobulins in a small-cohort of keratoconus patients. Sci Rep
+2020; 10: 9426. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. 
+Malfeito M, Regueiro U, Pérez-Mato M, et al. Innate immunity biomarkers for early detection of keratoconus. Ocul Immunol Inflamm
+2019; 27: 942–948. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. 
+Fodor M, Vitályos G, Losonczy G, et al. Tear mediators NGF along with IL-13 predict keratoconus progression. Ocul Immunol Inflamm. Epub ahead of print 4 March 2020. DOI: 10.1080/09273948.2020.1716024. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. 
+McKay TB, Hjortdal J, Sejersen H, et al. Endocrine and metabolic pathways linked to keratoconus: implications for the role of hormones in the stromal microenvironment. Sci Rep
+2016; 6: 25534. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. 
+Sharif R, Bak-Nielsen S, Sejersen H, et al. Prolactin-induced protein is a novel biomarker for keratoconus. Exp Eye Res
+2019; 179: 55–63. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. 
+Lenk J, Spoerl E, Stalder T, et al. Increased hair cortisol concentrations in patients with progressive keratoconus. J Refract Surg
+2017; 33: 383–388. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. 
+Stachon T, Stachon A, Hartmann U, et al. Urea, uric acid, prolactin and fT4 concentrations in aqueous humor of keratoconus patients. Curr Eye Res
+2017; 42: 842–846. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. 
+Kahán IL, Varsányi-Nagy M, Tóth M, et al. The possible role of tear fluid thyroxine in keratoconus development. Exp Eye Res
+1990; 50: 339–343. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. 
+Kamiya K, Ayatsuka Y, Kato Y, et al. Keratoconus detection using deep learning of colour-coded maps with anterior segment optical coherence tomography: a diagnostic accuracy study. BMJ Open
+2019; 9: e031313. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. 
+Yousefi S, Yousefi E, Takahashi H, et al. Keratoconus severity identification using unsupervised machine learning. PLoS ONE
+2018; 13: e0205998. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. 
+Shi C, Wang M, Zhu T, et al. Machine learning helps improve diagnostic ability of subclinical keratoconus using Scheimpflug and OCT imaging modalities. Eye Vis (Lond)
+2020; 7: 48. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. 
+Klyce SD. The future of keratoconus screening with artificial intelligence. Ophthalmology
+2018; 125: 1872–1873. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. 
+Dos Santos VA, Schmetterer L, Stegmann H, et al. CorneaNet: fast segmentation of cornea OCT scans of healthy and keratoconic eyes using deep learning. Biomed Opt Express
+2019; 10: 622–641. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. 
+Ahuja AS, Halperin LS. Using machine learning to monitor keratoconus progression. JAMA Ophthalmol. Epub ahead of print 31 October 2019. DOI: 10.1001/jamaophthalmol.2019.4198. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. 
+Wollensak G, Spoerl E, Seiler T. Riboflavin/ultraviolet-a-induced collagen crosslinking for the treatment of keratoconus. Am J Ophthalmol
+2003; 135: 620–627. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. 
+Sorkin N, Varssano D. Corneal collagen crosslinking: a systematic review. Ophthalmologica
+2014; 232: 10–27. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. 
+Kamaev P, Friedman MD, Sherr E, et al. Photochemical kinetics of corneal cross-linking with riboflavin. Invest Ophthalmol Vis Sci
+2012; 53: 2360–2367. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. 
+Hammer A, Rudaz S, Guinchard S, et al. Analysis of riboflavin compounds in the rabbit cornea in vivo. Curr Eye Res
+2016; 41: 1166–1172. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. 
+Seiler TG, Ehmke T, Fischinger I, et al. Two-photon fluorescence microscopy for determination of the riboflavin concentration in the anterior corneal stroma when using the Dresden protocol. Invest Ophthalmol Vis Sci
+2015; 56: 6740–6746. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. 
+Rubinfeld RS, Caruso C, Ostacolo C. Corneal cross-linking: the science beyond the myths and misconceptions. Cornea
+2019; 38: 780–790. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. 
+Richoz O, Hammer A, Tabibian D, et al. The biomechanical effect of corneal collagen cross-linking (CXL) With riboflavin and UV-A is oxygen dependent. Transl Vis Sci Technol
+2013; 2: 6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. 
+Gore DM, Leucci MT, Koay SY, et al. Accelerated pulsed high-fluence corneal cross-linking for progressive keratoconus. Am J Ophthalmol
+2020; 221: 9–16. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. 
+Aldahlawi NH, Hayes SO, ’ O’Brart DP, et al. Enzymatic resistance of corneas crosslinked using riboflavin in conjunction with low energy, high energy, and pulsed UVA irradiation modes. Invest Ophthalmol Vis Sci
+2016; 57: 1547–1552. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. 
+Mazzotta C, Traversi C, Caragiuli S, et al. Pulsed vs continuous light accelerated corneal collagen crosslinking: in vivo qualitative investigation by confocal microscopy and corneal OCT. Eye (Lond)
+2014; 28: 1179–1183. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. 
+Torres-Netto E, Kling S, Hafezi F. The role of oxygen in corneal cross-linking. In: Barbara A. (ed.) Controversies in the management of keratoconus. Cham: Springer, 2019, pp. 83–86. [ Google Scholar ] 
+ 
+ 43. 
+Sun L, Li M, Zhang X, et al. Transepithelial accelerated corneal collagen cross-linking with higher oxygen availability for keratoconus: 1-year results. Int Ophthalmol
+2018; 38: 2509–2517. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. 
+Hill J, Liu C, Deardorff P, et al. Optimization of oxygen dynamics, UV-A delivery, and drug formulation for accelerated epi-on corneal crosslinking. Curr Eye Res
+2020; 45: 450–458. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. 
+Mazzotta C, Sgheri A, Bagaglia SA, et al. Customized corneal crosslinking for treatment of progressive keratoconus: clinical and OCT outcomes using a transepithelial approach with supplemental oxygen. J Cataract Refract Surg
+2020; 46: 1582–1587. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. 
+Vinciguerra P, Rosetta P, Legrottaglie EF, et al. Iontophoresis CXL with and without epithelial debridement versus standard CXL: 2-year clinical results of a prospective clinical study. J Refract Surg
+2019; 35: 184–190. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. 
+Bilgihan K, Yesilirmak N, Altay Y, et al. Conventional corneal collagen cross-linking versus transepithelial diluted alcohol and iontophoresis-assisted corneal cross-linking in progressive keratoconus. Cornea
+2017; 36: 1492–1497. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. 
+Mazzotta C, Bagaglia SA, Sgheri A, et al. Iontophoresis corneal cross-linking with enhanced fluence and pulsed UV-A light: 3-year clinical results. J Refract Surg
+2020; 36: 286–292. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. 
+Wu H, Luo S, Fang X, et al. Transepithelial corneal cross-linking assisted by two continuous cycles of iontophoresis for progressive keratoconus in adults: retrospective 5-year analysis. Graefes Arch Clin Exp Ophthalmol
+2020; 259: 239–246. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. 
+Rubinfeld RS, Stulting RD, Gum GG, et al. Quantitative analysis of corneal stromal riboflavin concentration without epithelial removal. J Cataract Refract Surg
+2018; 44: 237–242. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. 
+Erratum. J Cataract Refract Surg
+2018; 44: 523. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. 
+Gum GG, Rubinfeld R, Parsons E. The effect of NaI on stromal loading, distribution and degradation of CXLO corneal strengthening solution after topical application and UVA exposure in New Zealand white rabbits. Invest Ophth Vis Sci
+2019; 60: 4657–4657. [ Google Scholar ] 
+ 
+ 53. 
+Aytekin E, Öztürk N, Vural İ, et al. Design of ocular drug delivery platforms and in vitro—in vivo evaluation of riboflavin to the cornea by non-interventional (epi-on) technique for keratoconus treatment. J Control Release
+2020; 324: 238–249. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. 
+Lidich N, Garti-Levy S, Aserin A, et al. Potentiality of microemulsion systems in treatment of ophthalmic disorders: keratoconus and dry eye syndrome—In vivo study. Colloids Surf B Biointerfaces
+2019; 173: 226–232. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. 
+Lombardo G, Micali NL, Villari V, et al. All-optical method to assess stromal concentration of riboflavin in conventional and accelerated UV-A irradiation of the human cornea. Invest Ophthalmol Vis Sci
+2016; 57: 476–483. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. 
+Lombardo M, Micali N, Villari V, et al. Ultraviolet A: visible spectral absorbance of the human cornea after transepithelial soaking with dextran-enriched and dextran-free riboflavin 0.1% ophthalmic solutions. J Cataract Refract Surg
+2015; 41: 2283–2290. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. 
+Mastropasqua L, Nubile M, Calienno R, et al. Corneal cross-linking: intrastromal riboflavin concentration in iontophoresis-assisted imbibition versus traditional and transepithelial techniques. Am J Ophthalmol
+2014; 157: 623–630. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. 
+Søndergaard AP, Hjortdal J, Breitenbach T, et al. Corneal distribution of riboflavin prior to collagen cross-linking. Curr Eye Res
+2010; 35: 116–121. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. 
+Lombardo G, Villari V, Micali NL, et al. Non-invasive optical method for real-time assessment of intracorneal riboflavin concentration and efficacy of corneal cross-linking. J Biophotonics
+2018; 11: e201800028. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. 
+Cagini C, Riccitelli F, Messina M, et al. Epi-off-lenticule-on corneal collagen cross-linking in thin keratoconic corneas. Int Ophthalmol
+2020; 40: 3403–3412. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. 
+Sachdev MS, Gupta D, Sachdev G, et al. Tailored stromal expansion with a refractive lenticule for crosslinking the ultrathin cornea. J Cataract Refract Surg
+2015; 41: 918–923. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. 
+Seven I, Sinha Roy A, Dupps WJ., Jr.
+Patterned corneal collagen crosslinking for astigmatism: computational modeling study. J Cataract Refract Surg
+2014; 40: 943–953. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. 
+Seiler TG, Fischinger I, Koller T, et al. Customized corneal cross-linking: one-year results. Am J Ophthalmol
+2016; 166: 14–21. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. 
+Cassagne M, Pierné K, Galiacy SD, et al. Customized topography-guided corneal collagen cross-linking for keratoconus. J Refract Surg
+2017; 33: 290–297. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. 
+Sachdev GS, Ramamurthy S, Soundariya B, et al. Comparative analysis of safety and efficacy of topography-guided customized cross-linking and standard cross-linking in the treatment of progressive keratoconus. Cornea
+2020; 40: 188–193. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. 
+Cagil N, Sarac O, Can GD, et al. Outcomes of corneal collagen crosslinking using a customized epithelial debridement technique in keratoconic eyes with thin corneas. Int Ophthalmol
+2017; 37: 103–109. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. 
+Singh M, Li J, Vantipalli S, et al. Optical coherence elastography for evaluating customized riboflavin/UV-A corneal collagen crosslinking. J Biomed Opt
+2017; 22: 91504. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. 
+Kymionis GD, Grentzelos MA, Portaliou DM, et al. Corneal collagen cross-linking (CXL) combined with refractive procedures for the treatment of corneal ectatic disorders: CXL plus. J Refract Surg
+2014; 30: 566–576. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. 
+Singal N, Ong Tone S, Stein R, et al. Comparison of accelerated CXL alone, accelerated CXL-ICRS, and accelerated CXL-TG-PRK in progressive keratoconus and other corneal ectasias. J Cataract Refract Surg
+2020; 46: 276–286. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. 
+Yang X, Liu Q, Feng Q, et al. Safety and efficacy of corneal minimized-volume ablation with accelerated cross-linking in improving visual function for keratoconus. Cornea
+2020; 39: 1485–1492. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. 
+Kaufmann C, Bochmann F, Baenninger P, et al. Central corneal regularization—optimization of uncorrected visual acuity in keratoconus patients. Klin Monbl Augenheilkd
+2013; 230: 333–336. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. 
+Mulè G, Chen S, Zhang J, et al. Central corneal regularization (CCR): an alternative approach in keratoconus treatment. Eye Vis (Lond)
+2019; 6: 40. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. 
+Iselin KC, Baenninger PB, Bachmann LM, et al. Changes in higher order aberrations after central corneal regularization—a comparative two-year analysis of a semi-automated topography-guided photorefractive keratectomy combined with corneal cross-linking. Eye Vis (Lond)
+2020; 7: 10. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. 
+Kanellopoulos AJ. Management of progressive keratoconus with partial topography—guided PRK combined with refractive, customized CXL—a novel technique: the enhanced Athens protocol. Clin Ophthalmol
+2019; 13: 581–588. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. 
+Rabina G, Mimouni M, Kaiserman I. Epithelial photorefractive keratectomy vs mechanical epithelial removal followed by corneal crosslinking for keratoconus: the Tel-Aviv Protocol. J Cataract Refract Surg
+2020; 46: 749–755. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. 
+Kaiserman I, Mimouni M, Rabina G. Epithelial photorefractive keratectomy and corneal cross-linking for keratoconus: the Tel-Aviv protocol. J Refract Surg
+2019; 35: 377–382. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. 
+Kymionis GD, Grentzelos MA, Kounis GA, et al. Combined transepithelial phototherapeutic keratectomy and corneal collagen cross-linking for progressive keratoconus. Ophthalmology
+2012; 119: 1777–1784. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. 
+Kymionis GD, Grentzelos MA, Kankariya VP, et al. Long-term results of combined transepithelial phototherapeutic keratectomy and corneal collagen crosslinking for keratoconus: Cretan protocol. J Cataract Refract Surg
+2014; 40: 1439–1445. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. 
+Hashemi H, Alvani A, Seyedian MA, et al. Appropriate sequence of combined intracorneal ring implantation and corneal collagen cross-linking in keratoconus: a systematic review and meta-analysis. Cornea
+2018; 37: 1601–1607. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. 
+Zhu AY, Jun AS, Soiberman US. Combined protocols for corneal collagen cross-linking with photorefractive surgery for refractive management of keratoconus: update on techniques and review of literature. Ophthalmol Ther
+2019; 8(Suppl. 1): 15–31. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. 
+Marcovich AL.
+Alternative corneal cross-linking agents. In: Barbara A. (ed.) Controversies in the management of keratoconus. Cham: Springer, 2019, pp. 179–183. [ Google Scholar ] 
+ 
+ 82. 
+Avila MY, Navia JL. Effect of genipin collagen crosslinking on porcine corneas. J Cataract Refract Surg
+2010; 36: 659–664. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. 
+Danilov NA, Ignatieva NY, Iomdina EN, et al. Stabilization of scleral collagen by glycerol aldehyde cross-linking. Biochim Biophys Acta
+2008; 1780: 764–772. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. 
+Wollensak G, Spoerl E. Collagen crosslinking of human and porcine sclera. J Cataract Refract Surg
+2004; 30: 689–695. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. 
+Bersanetti PA, Bueno TL, Morandim-Giannetti AA, et al. Characterization of rabbit corneas subjected to stromal stiffening by the Açaí extract (Euterpe oleracea). Curr Eye Res
+2017; 42: 528–533. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. 
+Babar N, Kim M, Cao K, et al. Cosmetic preservatives as therapeutic corneal and scleral tissue cross-linking agents. Invest Ophthalmol Vis Sci
+2015; 56: 1274–1282. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. 
+Metzler KM, Roberts CJ, Mahmoud AM, et al. Ex vivo transepithelial collagen cross-linking in porcine and human corneas using human decorin core protein. J Refract Surg
+2016; 32: 410–417. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. 
+Paik DC, Wen Q, Airiani S, et al. Aliphatic beta-nitro alcohols for non-enzymatic collagen cross-linking of scleral tissue. Exp Eye Res
+2008; 87: 279–285. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. 
+Wu Y, Song W, Tang Y, et al. Efficacy and safety of transglutaminase-induced corneal stiffening in rabbits. Transl Vis Sci Technol
+2019; 8: 27. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. 
+Bradford S, Mikula E, Juhasz T, et al. Nonlinear optical crosslinking (NLO CXL) for correcting refractive errors. Exp Eye Res
+2020; 199: 108199. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. 
+Bradford SM, Mikula ER, Chai D, et al. Custom built nonlinear optical crosslinking (NLO CXL) device capable of producing mechanical stiffening in ex vivo rabbit corneas. Biomed Optic Express
+2017; 8: 4788–4797. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. 
+Bradford S, Mikula E, Kim SW, et al. Nonlinear optical corneal crosslinking, mechanical stiffening, and corneal flattening using amplified femtosecond pulses. Transl Vis Sci Technol
+2019; 8: 35–35. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 93. 
+Iqbal M, Elmassry A, Tawfik A, et al. Standard cross-linking versus photorefractive keratectomy combined with accelerated cross-linking for keratoconus management: a comparative study. Acta Ophthalmol
+2019; 97: e623–e631. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 94. 
+Henriquez MA, Hernandez-Sahagun G, Camargo J, et al. Accelerated epi-on versus standard epi-off corneal collagen cross-linking for progressive keratoconus in pediatric patients: five years of follow-up. Cornea
+2020; 39: 1493–1498. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 95. 
+Sherwin T, Brookes NH. Morphological changes in keratoconus: pathology or pathogenesis. Clin Exp Ophthalmol
+2004; 32: 211–217. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 96. 
+Marshall J. The 2014 Bowman Lecture-Bowman’s and Bruch’s: a tale of two membranes during the laser revolution. Eye (Lond)
+2015; 29: 46–64. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 97. 
+Tong CM, van Dijk K, Melles GRJ. Update on Bowman layer transplantation. Curr Opin Ophthalmol
+2019; 30: 249–255. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 98. 
+van Dijk K, Parker JS, Baydoun L, et al. Bowman layer transplantation: 5-year results. Graefes Arch Clin Exp Ophthalmol
+2018; 256: 1151–1158. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 99. 
+Tong CM, Parker JS, Dockery PW, et al. Use of intraoperative anterior segment optical coherence tomography for Bowman layer transplantation. Acta Ophthalmol
+2019; 97: e1031–e1032. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 100. 
+Abstracts. Acta Ophthalmol
+2020; 98: 3–43.32852890 [ Google Scholar ] 
+ 
+ 101. 
+Dapena I, Parker JS, Melles GRJ. Potential benefits of modified corneal tissue grafts for keratoconus: Bowman layer “inlay” and “onlay” transplantation, and allogenic tissue ring segments. Curr Opin Ophthalmol
+2020; 31: 276–283. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 102. 
+Tan DT, Por YM. Current treatment options for corneal ectasia. Curr Opin Ophthalmol
+2007; 18: 284–289. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 103. 
+Mastropasqua L, Nubile M, Salgari N, et al. Femtosecond laser-assisted stromal lenticule addition keratoplasty for the treatment of advanced keratoconus: a preliminary study. J Refract Surg
+2018; 34: 36–44. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 104. 
+Jin H, He M, Liu H, et al. Small-incision femtosecond laser-assisted intracorneal concave lenticule implantation in patients with keratoconus. Cornea
+2019; 38: 446–453. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 105. 
+Alió Del Barrio JL, El Zarif M, Azaar A, et al. Corneal stroma enhancement with decellularized stromal laminas with or without stem cell recellularization for advanced keratoconus. Am J Ophthalmol
+2018; 186: 47–58. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 106. 
+Kim WJ, Rabinowitz YS, Meisler DM, et al. Keratocyte apoptosis associated with keratoconus. Exp Eye Res
+1999; 69: 475–481. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 107. 
+Alio del Barrio JL, De Miguel MP, Alio JL, et al. Acellular human corneal matrix sheets seeded with human adipose-derived mesenchymal stem cells integrate functionally in an experimental animal model. Invest Ophth Vis Sci
+2014; 55: 5158–5158. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 108. 
+Arnalich-Montiel F, Pastor S, Blazquez-Martinez A, et al. Adipose-derived stem cells are a source for cell therapy of the corneal stroma. Stem Cells
+2008; 26: 570–579. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 109. 
+Alió Del Barrio JL, El Zarif M, de Miguel MP, et al. Cellular therapy with human autologous adipose-derived adult stem cells for advanced keratoconus. Cornea
+2017; 36: 952–960. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 110. 
+Donthineni PR, Bagga B, Singh V, et al. Cellular therapy with human autologous adipose-derived adult stem cells for advanced keratoconus. Cornea
+2017; 36: e36–e37. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 111. 
+Dietary Riboflavin (Vitamin B-2) and cornea cross-linking, https://clinicaltrials.gov/ct2/show/NCT03095235 (accessed 10 October 2020). 
+ 
+ 
+ 112. 
+Ambrósio R, Jr. Violet June: the global keratoconus awareness campaign. Ophthalmol Ther
+2020; 9: 685–688. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

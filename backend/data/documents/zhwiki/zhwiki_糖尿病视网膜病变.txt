@@ -1,0 +1,59 @@
+---
+source: zhwiki
+title: 糖尿病视网膜病变
+url: https://zh.wikipedia.org/wiki/%E7%B3%96%E5%B0%BF%E7%97%85%E8%A7%86%E7%BD%91%E8%86%9C%E7%97%85%E5%8F%98
+disease: 糖尿病视网膜病变
+type: encyclopedia
+language: zh
+---
+
+糖尿病视网膜病变（英语：Diabetic retinopathy）是糖尿病的并发症。长期的高血糖环境会损伤视网膜血管的内皮，引起一系列的眼底病变，如微血管瘤、硬性渗出、棉絮斑、新生血管、玻璃体增殖、黄班水肿、糖尿病视网膜病变甚至视网膜脱离。一般糖尿病出现十年以上的病人开始出现眼底病变，但如果血糖控制差，或者是胰岛素依赖型糖尿病的患者则可能更早出现眼底病变，故糖尿病患者需要定期到眼科检查眼底。
+
+分级
+
+分级
+NPDR：非增殖性糖尿病视网膜病变
+PDR：增殖性糖尿病视网膜病变
+
+单纯性
+I级：有微小动脉瘤，小出血点。
+（+）：容易数；（++）：太多，数不过来
+Ⅱ级：硬性渗出，出血斑
+（+）：容易数；（++）：太多，数不过来
+Ⅲ级：软性渗出，出血斑
+（+）：容易数；（++）：太多，数不过来
+
+增殖性
+Ⅳ级：新生血管，玻璃体出血
+Ⅴ级：新生血管，纤维增生
+Ⅵ级：新生血管，纤维增生，视网膜脱离
+
+诊断
+1. 标准视网膜彩色摄影(standard retinal color photography)：可显示出1/3视网膜表面(后表面)的血管分布。
+2. 萤光血管摄影法(fluorescein angiography)：用于判断血管通透性和血管三层之结构。
+3. 超宽视野眼底摄影(ultrawide-field photography of the fundus )：可看到80%的视网膜表面，相较标准视网膜彩色摄影，能显示出更多发生病变的区域。
+4. 光学相干断层扫描(Optical coherence tomography, OCT)：非侵入式进行视网膜纵断面及横断面扫描，影像可显示黄斑中央小凹(fovea)区域是否增厚、不规则，为诊断糖尿病黄斑水肿的好工具。但因无法由OCT判断视网膜血管内部的微小变化，如血管通透性、血流渗出之强度等，因此需搭配其他血管摄影法进行检查。
+5. 自适应光学技术(adaptive optics technology)：如使用激光式眼底镜、泛光照明器。这项技术透过可塑形之镜片侦测视网膜不正常的反射光波，其解像力高，可显示视网膜上极微小的构造。
+6. 人工智能：透过深度学习，人工智能得以经由影像判读，辨识视网膜病变区域，并提供相关预后和治疗方针。
+
+治疗
+1. 脑垂腺切除术(1970年代以前)
+2. 泛视网膜激光 (1970年代至今都有使用)
+3. 抗血管内皮生长因子(VEGF)抗体：于治疗糖尿病黄斑水肿具有一定之成效，如bevacizumab、afibercept已获得FDA核可。
+
+延伸阅读
+
+Evaluation and Care of Patients with Diabetic Retinopathy
+The new England journal of medicine, April 23, 2020 Julie R. Ingelfinger, M.D., Editor 
+https://www.nejm.org/doi/full/10.1056/NEJMra1909637 （页面存档备份，存于互联网档案馆）
+
+Diabetic Retinopathy
+The new England journal of medicine, March 29, 2012 David A. Antonetti, Ph.D., Ronald Klein, M.D., M.P.H., and Thomas W. Gardner, M.D.
+https://www.nejm.org/doi/full/10.1056/NEJMra1005073 （页面存档备份，存于互联网档案馆）
+
+外部链接
+
+Diabetic Retinopathy Resource Guide from the National Eye Institute (NEI).
+National Diabetes Information Clearinghouse （页面存档备份，存于互联网档案馆）
+NHS Diabetic Eye Screening Programme （页面存档备份，存于互联网档案馆）
+English National Screening Programme for Diabetic Retinopathy

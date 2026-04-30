@@ -1,0 +1,533 @@
+Source: PubMed Central (PMC)
+PMCID: PMC7465046
+Title: The Combined Effect of Low-dose Atropine with Orthokeratology in Pediatric Myopia Control
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7465046/
+Year: 2020
+Disease: myopia_control
+Priority: 3
+============================================================
+
+J Clin Med . 2020 Jul 24;9(8):2371. doi: 10.3390/jcm9082371 
+ 
+ 
+ The Combined Effect of Low-dose Atropine with Orthokeratology in Pediatric Myopia Control: Review of the Current Treatment Status for Myopia 
+ José-María Sánchez-González 
+ José-María Sánchez-González 
+ 
+ 1 Department of Physics of Condensed Matter, Optics Area, University of Seville, 41012 Seville, Spain; mhita@us.es (C.D.-H.-C.); mbautista5@us.es (M.-J.B.-L.); msanchez77@us.es (M.C.S.-G.); rcapote1@us.es (R.C.-P.) 
+ 
+ 2 Department of Ophthalmology & Optometry, Tecnolaser Clinic Vision, 41018 Seville, Spain 
+ Find articles by José-María Sánchez-González 
+ 
+ 
+ 1, 2, * , Concepción De-Hita-Cantalejo 
+ Concepción De-Hita-Cantalejo 
+ 
+ 1 Department of Physics of Condensed Matter, Optics Area, University of Seville, 41012 Seville, Spain; mhita@us.es (C.D.-H.-C.); mbautista5@us.es (M.-J.B.-L.); msanchez77@us.es (M.C.S.-G.); rcapote1@us.es (R.C.-P.) 
+ Find articles by Concepción De-Hita-Cantalejo 
+ 
+ 
+ 1 , María-José Baustita-Llamas 
+ María-José Baustita-Llamas 
+ 
+ 1 Department of Physics of Condensed Matter, Optics Area, University of Seville, 41012 Seville, Spain; mhita@us.es (C.D.-H.-C.); mbautista5@us.es (M.-J.B.-L.); msanchez77@us.es (M.C.S.-G.); rcapote1@us.es (R.C.-P.) 
+ Find articles by María-José Baustita-Llamas 
+ 
+ 
+ 1 , María Carmen Sánchez-González 
+ María Carmen Sánchez-González 
+ 
+ 1 Department of Physics of Condensed Matter, Optics Area, University of Seville, 41012 Seville, Spain; mhita@us.es (C.D.-H.-C.); mbautista5@us.es (M.-J.B.-L.); msanchez77@us.es (M.C.S.-G.); rcapote1@us.es (R.C.-P.) 
+ Find articles by María Carmen Sánchez-González 
+ 
+ 
+ 1 , Raúl Capote-Puente 
+ Raúl Capote-Puente 
+ 
+ 1 Department of Physics of Condensed Matter, Optics Area, University of Seville, 41012 Seville, Spain; mhita@us.es (C.D.-H.-C.); mbautista5@us.es (M.-J.B.-L.); msanchez77@us.es (M.C.S.-G.); rcapote1@us.es (R.C.-P.) 
+ Find articles by Raúl Capote-Puente 
+ 
+ 
+ 1 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Physics of Condensed Matter, Optics Area, University of Seville, 41012 Seville, Spain; mhita@us.es (C.D.-H.-C.); mbautista5@us.es (M.-J.B.-L.); msanchez77@us.es (M.C.S.-G.); rcapote1@us.es (R.C.-P.) 
+ 
+ 2 Department of Ophthalmology & Optometry, Tecnolaser Clinic Vision, 41018 Seville, Spain 
+ 
+ * Correspondence: jsanchez80@us.es 
+ 
+ 
+ Received 2020 May 25; Accepted 2020 Jul 23; Collection date 2020 Aug. 
+ 
+ © 2020 by the authors. 
+ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( http://creativecommons.org/licenses/by/4.0/ ). 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC7465046  PMID: 32722266 
+ 
+ Abstract 
+ Pediatric myopia has become a major international public health concern. The prevalence of myopia has undergone a significant increase worldwide. The purpose of this review of the current literature was to evaluate the peer-reviewed scientific literature on the efficacy and safety of low-dose atropine treatment combined with overnight orthokeratology for myopia control. A search was conducted in Pubmed and Web of Science with the following search strategy: (atropine OR low-dose atropine OR 0.01% atropine) AND (orthokeratology OR ortho-k) AND (myopia control OR myopia progression). All included studies improved myopia control by the synergistic effect of orthokeratology with low-dose atropine, compared with orthokeratology treatment alone. All studies included a short or medium follow-up period; therefore longer-term studies are necessary to validate these results. 
+ Keywords: atropine, orthokeratology, myopia control, refractive errors, peripheral refraction, myopia progression 1. Introduction 
+ Pediatric myopia has become a major international public health concern [ 1 ]. The prevalence of myopia has increased significantly worldwide [ 2 ]. Accordingly, prevention and visual care need to increase in order to control the risk of developing eye diseases such as retinal detachment, glaucoma, cataracts, and myopic macular degeneration, which may lead to irreversible vision loss [ 3 ]. 
+ Juvenile-onset myopia is the most common variety [ 4 ], with its peak incidence during elementary school and progression through the teenage years [ 5 ]. Thus, it is crucial to make a myopia onset prediction between the ages of 8 and 9 years old [ 6 , 7 ]. Myopia has been described as the sixth most common vision loss cause [ 8 ], after ocular pathologies such as age-related macular degeneration, glaucoma, cataracts, and diabetic retinopathy. For this reason, treatments to slow the progression of myopia have become an essential area of research. Among the myopia control options are progressive ophthalmic lenses, different dose topical atropine, overnight orthokeratology lenses, and soft multifocal contact lenses [ 9 , 10 ]. The primary goal of these treatments is to reduce myopia progression in order to decrease the high myopia blindness rate. Recently, synergistic combined treatments have been investigated as new research lines. The success rates of both orthokeratology and low-dose atropine treatments are less than 100%; therefore, because the mechanisms of these two treatments are almost certainly different, it is possible that the efficacy of these treatments in combination might be greater than that of either one alone. To the best of our knowledge, our review is the first to evaluate the peer-reviewed scientific literature on the efficacy and safety of low-dose atropine treatment combined with overnight orthokeratology for myopia control. 2. Mechanism of Action 
+ 2.1. Atropine 
+ Recent studies provide clinical and experimental evidence that inflammation plays a crucial role in the development of myopia [ 11 ]. The relationship between myopia and axial length has been widely studied [ 12 ]. Homeostatic eyeball growth control occurs through chemical signals, which shape and mold the sclera and choroid. Vision is the main input and causes a chemical signaling cascade from the retina to the retinal pigment epithelium to the choroid to the sclera, which regulates ocular growth [ 13 , 14 , 15 ]. Structurally, the sclera is made up of collagen, elastic fibers and fibroblasts. Fibroblasts synthesize type I collagen, the main component of the sclera [ 6 ]. A decrease in the amount of collagen causes a thinning and lengthening of the sclera. There are studies that reveal the presence of muscarinic receptors in the sclera. Atropine is a non-selective antagonist of the muscarinic acetylcholine receptor (mAChR). From the pharmacological point of view, the receptor blockade stops the proliferation of scleral fibroblasts and the consequent axial lengthening of the eye [ 16 ]. 
+ The effects of atropine on the choroid and retinal pigment epithelium have also been reported [ 17 , 18 ]. Myopia associates with chronic inflammation of the eye and could be controlled by atropine or with biochemical changes at the sclera level that interfere with ocular development [ 11 , 19 ]. Several articles agree that certain molecular and biochemical events take place in the sclera during the remodeling process, causing structural and biomechanical changes in the tissue and significant thinning of scleral tissue [ 15 , 20 ]. 
+ Atropine is used topically, administered as drops in different concentrations for myopia control, as follows: low dose—0.01%, moderate dose—between 0.01% and 0.5%, and high dose—between 0.5% and 1.0% [ 21 ]. The 0.01% atropine formulation is marketed under the name Myopine ™ [ 22 ]. This product is currently available in Singapore, Malaysia and has been licensed in Asia and in 15 countries in Europe. 2.2. Orthokeratology 
+ The overnight orthokeratology lenses treatment (OK) has an inverse geometry design, in which the base curve or treatment area is flatter than the corneal apex. This design allows the corneal central zone to flatten due to the positive pressure exerted on the corneal apex, while the medial corneal periphery remains more pronounced. In this way, the normally prolate corneal profile becomes a spherical and even oblate shape. Thus, peripheral hypermetropy blurring is achieved [ 23 ]. The OK standard design is three curves from the center to the periphery. OK results in a temporary flattening of the central cornea, which corrects the central myopic refraction but also shifts the peripheral refractive status from hyperopic defocus to relative myopic defocus. Peripheral refractions achieved in children wearing OK have been verified, as well as a reduction in central myopic refraction [ 24 ]. In order to improve lens centration, the lens design can be modified by introducing an alignment curve between the reverse curve and the peripheral curve. This alignment curve may also be divided into two curves to form a five-zone lens [ 25 ]. Regarding the material, higher oxygen transmissibility improves the effectiveness of OK [ 26 ]. It increases epithelial cell metabolism by receiving more oxygen, and faster epithelial thinning occurs. However, this effect disappears after two weeks of treatment, making it unlikely that the lens material affects changes in the corneal shape [ 23 ]. Most OK designs are spherical. In recent years, the toric OK design has emerged. These lenses achieve slower myopia progression among users with moderate to high astigmatism [ 27 ] and also improves the OK centration during treatment [ 28 ]. 3. Low-Dose Atropine Efficacy 
+ Table 1 details data from three articles that studied the atropine efficacy in decreasing axial length in a treatment group vs. a control group. Yam et al. [ 29 ] evaluate the efficacy and safety of low-concentration atropine eye drops at 0.05%, 0.025%, and 0.01% compared with placebo over a 1-year period. Of the three concentrations used, 0.05% atropine was the most effective in controlling SE progression and AL elongation over a period of 1 year. However, the cessation of atropine doses of 0.1% and 0.5% were related to the greater myopia rebound and an increase in the axial length values. There is evidence of the ability of atropine to slow down axial lengthening and childhood myopia progression. Higher concentrations have been shown to be more effective but also have a greater rebound effect after stopping treatment [ 30 ]. Furthermore, in these studies, the age of children varies as well as the myopia and astigmatism values [ 29 , 31 , 32 ]. However, after the review, we can affirm that in terms of refraction orthokeratology and in terms of axial length, atropine is the most effective in all populations. 
+ Table 1. 
+ Study characteristics and results summary of low-dose atropine studies. 
+ 
+ 
+ 
+ Author (Year) 
+ Patients 
+ Follow-up (Months) 
+ Treatment 
+ Control 
+ 
+ 
+ Atropine 
+ Δ AXL (mm) 
+ Group 
+ Δ AXL (mm) 
+ 
+ 
+ 
+ 
+ Fu et al. [ 35 ] 2020 
+ 142 
+ 12 
+ 0.01% 
+ 0.37 ± 0.22 * 
+ SVG 
+ 0.46 ± 0.35 * 
+ 
+ 
+ Azuara-Blanco et al. [ 33 ] 2019 
+ 289 
+ 24 
+ 0.01% 
+ NR 
+ Placebo 
+ NR 
+ 
+ 
+ Yam et al. [ 29 ] 2019 
+ 438 
+ 12 
+ 0.01% 
+ 0.36 ± 0.29 * 
+ Placebo 
+ 0.41 ± 0.22 * 
+ 
+ 
+ 
+ Open in a new tab 
+ AXL: Axial length; mm: millimeters; SVG: single vision glasses; NR: not reported; OK: orthokeratology; AT: atropine * statistically significant difference p < 0.05. Chia et al. [ 30 , 36 ] reported intermittent atropine treatments. Efficacy in terms of axial length changes is presented in Table 1 . Almost all studies studied Asian populations and therefore evidence on European and other ethnicities is limited [ 33 , 34 ] although there appears to be a difference in efficacy between white and Asian children [ 34 ] that may be justified by the greater progression of myopia in Asian children and not by the efficacy of the drug. However, dosing guidelines and populations have not been well established in some of the studies consulted; therefore, further investigation is required. Additionally, the treatment should be adapted to each patient. Investigation of the long-term efficacy and safety through randomized clinical trials might be necessary to confirm these results. 4. Overnight Orthokeratology Efficacy 
+ OK control myopia efficacy has been discussed in this last decade by several articles that generally showed a decrease in axial length in a treatment group versus a control group [ 37 , 38 , 39 , 40 ] ( Table 2 ). Recently, a Chinese study reported the control of myopia progression, particularly in cases with high myopia and axial length elongation. After one year, the average axial elongation was 0.27 ± 0.17 mm in the ortho-k lens group and 0.38 ± 0.13 mm in the control group, so the axial elongation in the ortho-k group was 57.1% slower than that in the control group [ 41 ]. Sun et al. [ 42 ] published a meta-analysis in which they evaluated the effectiveness of OK and assessed its effects in slowing myopia progression. Their results found a 0.14 mm/year deceleration in axial length in the OK group compared with the control group with a decrease in the progression of myopic error of approximately 45%. Zhou et al. [ 43 ], Lee et al. [ 44 ], and Hiraoka et al. [ 45 ] analyzed longer periods of 6, 7, and 10 years, respectively. They observed the changes generated by OK in young patients and concluded that the refractive myopic error decreased significantly. Hiraoka et al. [ 45 ] found a rebound phenomenon after 10 years of OK treatment. 
+ Table 2. 
+ Study characteristics and results summary of orthokeratology myopia control. 
+ 
+ 
+ 
+ Author (Year) 
+ Patients 
+ Follow-up (Months) 
+ Treatment Group (OK) 
+ Control 
+ 
+ 
+ Δ SE (D) 
+ Δ AXL (mm) 
+ Group 
+ Δ SE (D) 
+ Δ AXL (mm) 
+ 
+ 
+ 
+ 
+ Santodomingo-Rubido et al. [ 46 ] 2017 
+ 30 
+ 84 
+ 0.29 ± 0.10 * 
+ 0.91 ± 0.27 * 
+ SVG 
+ −5.00 ± 0.43 * 
+ 1.35 ± 0.27 * 
+ 
+ 
+ Lee et al. [ 44 ] 2017 
+ 102 
+ 24 
+ 0.17 ± 0.02 * 
+ NR 
+ SVG 
+ −0.52 ± 0.03 * 
+ NR 
+ 
+ 
+ Hiraoka et al. [ 45 ] 2018 
+ 92 
+ 120 
+ −1.,26 ± 0.98 * 
+ NR 
+ SCL 
+ −1.79 ± 1.24 * 
+ NR 
+ 
+ 
+ Lyu et al. [ 50 ] 2020 
+ 247 
+ 24 
+ NR 
+ 0.58 ± 0.35 
+ AT 
+ NR 
+ 0.36 ± 0.30 * 
+ 
+ 
+ 
+ Open in a new tab 
+ OK: Orthokeratology; SE: Spherical equivalent; AXL: Axial length; mm: millimeters; SVG: single vision glasses; SCL: single contact lens; NR: Not reported. * Statistically significant difference p < 0.05. Similarly, a study with a Caucasian population [ 46 ] compared OK axial length growth against a control group for seven years, finding a tendency for the axial lengthening to decrease in the order of 33% in the OK group in comparison with the control group. In the last year [ 47 , 48 ], several literature reviews have shown that OK is effective for myopia control. Moreover, the overnight wear mode could create comfort for those who do not like wearing glasses or carrying contact lenses during the day. This also provides freedom for participation in sports activities. A new study [ 49 ] reviewed different works on the effects of OK, reporting a better quality of life and satisfaction with vision by patients who completed a visual scale. Findings have shown orthokeratology to be effective in slowing axial elongation. It is a more well-accepted treatment than the use of single vision glasses. 5. Efficacy of Low-Dose Atropine Combined with Orthokeratology 
+ Since OK and atropine both slow down the progression of myopia, there could be a synergic therapeutic effect when applied in combination. A search was conducted in PubMed and Web of Science with the following search strategy: (atropine OR low-dose atropine OR 0.01% atropine) AND (orthokeratology OR ortho-k) AND (myopia control OR myopia progression). This search achieved forty-two results. Thirty-nine of them were studies conducted in the last decade and twenty-nine were conducted in the last three years. After analyzing the abstracts and titles, only four articles [ 51 , 52 , 53 , 54 ] were clinical studies on the AT and OK combination. A fifth Russian article [ 55 ] was found and was not included for language reasons. Despite there being a limited number of studies, these four studies have been published in the last twenty-four months, showing the current scientific interest in using combination therapies to slow myopia progression. 
+ Regarding reviewed articles, after three months of OK treatment stabilization, Kinoshita et al. [ 51 ] randomly allocated children to an AT + OK group or an OK alone group. Low-dose atropine was applied once daily at night. In the study, the corneal endothelial cell density (CECD), intraocular pressure (IOP), and uncorrected distance and near-visual acuity (UDVA and UNVA) were controlled. The authors did not find significant differences in CECD or IOP between individuals treated with AT and OK vs. those in the OK group alone. They also reported a non-significant correlation between AXL and age but a strong correlation between AXL and spherical equivalent refraction (SER) (r = 0.805, p < 0.01). A few months later, Wan et al. [ 52 ] described four sub-section studies. They split the sample into patients under and above six diopters (D) and also allocated individuals to treatment with 0.125% AT with OK and 0.025% AT with OK. All groups were compared with a control OK-alone group. Children were given one AT drop daily, and OK lenses were worn before sleep. No significant differences in accommodation, photopic pupil diameter, or mesopic pupil diameter were found at baseline. In addition to the two studies discussed above, Chen et al. [ 54 ] divided their study into two phases. In the first one, participants underwent OK treatment only and, after twelve months, 0.01% AT was added. They concluded that patients with higher myopia changes could be benefit from a low dose of AT. The most recent study was published by Tan et al. [ 53 ] This only provided premilitary results and the follow-up period was only one month; however, they found statistically significant differences in AXL between a group given AT with OK against a group given OK alone. 
+ The methodological characteristics of the four studies and their main results are presented in summary form in Table 3 . Patients were aged between 8.3 and 10.9 years old. The mean patient age was 10 years old. Before treatment, the range of refraction was from −2.65 D to −6.75 D. The mean pre-treatment refraction was −4.34 D. The follow-up period ranged from only one month to twenty-four months, and the mean follow-up period was 19 months. For the treatment group, all studies used low-dose atropine (0.01%, 0.025%, or 0.125% concentration) with simultaneous OK treatment, while the control group received OK alone in all cases. The number of children included in the treatment group ranged from 20 to 60 with a mean of 31. The number of patients in the control group ranged from 20 to 35 with a mean of 25.5 children. The mean refraction increase in the treatment group was 0.38 D, while the control group who only received OK achieved near to double this increase with 0.62 D. In terms of uncorrected distance visual acuity (UDVA), the treatment and control groups obtained excellent results, and a non-significant difference was found for this issue. Finally, for the axial length, as the most important concern in myopia control assessment, it was revealed that the group that received low-dose AT with OK only had an AXL increase of 0.37 mm, while an increase of 0.41 mm was reported for the OK-alone group. Statistically significant differences ( p < 0.05) were found in all clinical studies [ 51 , 52 , 53 , 54 ]. 
+ Table 3. 
+ Study characteristics and results summary of the four articles included in the low-dose and orthokeratology section. 
+ 
+ 
+ 
+ Author (Year) 
+ Age (Years) 
+ Rx (D) 
+ Follow-up (Months) 
+ Treatment Group 
+ 
+ 
+ Control Group 
+ 
+ 
+ Combination (n) 
+ ∆ Rx (D) 
+ Post VA (LogMAR) 
+ ∆ AXL (mm) 
+ ∆ AXL (mm) 
+ Therapy Alone (n) 
+ ∆ Rx (D) 
+ Post VA (LogMAR) 
+ 
+ 
+ 
+ 
+ Kinoshita et al. [ 51 ] 2018 
+ 10.6 
+ −2.88 
+ 12 
+ 0.01% AT + OK (20) 
+ NR 
+ NR 
+ 0.09 ± 0.12 * 
+ 0.19 ± 0.15 * 
+ OK (20) 
+ NR 
+ NR 
+ 
+ 
+ Wan et al. [ 52 ] 2018 
+ 10.4 
+ −4.25 
+ 24 
+ 0.125% AT + OK (20) 
+ ↑ 0.50 D 
+ 0.01 ± 0.01 
+ 0.55 ± 0.12 * 
+ 0.58 ± 0.09 * 
+ OK (26) 
+ ↑ 0.55 D 
+ 0.01 ± 0.01 
+ 
+ 
+ Wan et al. [ 52 ] 2018 
+ 10.3 
+ −4.58 
+ 24 
+ 0.025% AT + OK (20) 
+ ↑ 0.30 D 
+ 0.01 ± 0.01 
+ 0.65 ± 0.18 * 
+ 0.83 ± 0.16 * 
+ OK (20) 
+ ↑ 0.83 D 
+ 0.01 ± 0.01 
+ 
+ 
+ Wan et al. [ 52 ] 2018 
+ 10.9 
+ −6.75 
+ 24 
+ 0.125% AT + OK (24) 
+ ↑ 0.25 D 
+ 0.01 ± 0.01 
+ 0.57 ± 0.17 * 
+ 0.64 ± 0.14 * 
+ OK (29) 
+ ↑ 0.45 D 
+ 0.01 ± 0.01 
+ 
+ 
+ Wan et al. [ 52 ] 2018 
+ 10.8 
+ −6.48 
+ 24 
+ 0.025% AT + OK (20) 
+ ↑ 0.49 D 
+ 0.01 ± 0.00 
+ 0.58 ± 0.08 * 
+ 0.40 ± 0.15 * 
+ OK (20) 
+ ↑ 0.65 D 
+ 0.01 ± 0.00 
+ 
+ 
+ Chen et al. [ 54 ] 2018 
+ 8.3 
+ −2.65 
+ 24 
+ 0.01% AT + OK (60) 
+ NR 
+ NR 
+ 0.14 ± 0.14 * 
+ 0.25 ± 0.08 * 
+ OK (29) 
+ NR 
+ NR 
+ 
+ 
+ Tan et al. [ 53 ] 2019 
+ 9.0 
+ −2.79 
+ 1 
+ 0.01% AT + OK (33) 
+ NR 
+ −0.04 ± 0.07 
+ −0.05 ± 0.05 * 
+ −0.02 ± 0.03 * 
+ OK (35) 
+ NR 
+ −0.03 ± 0.07 
+ 
+ 
+ 
+ Open in a new tab 
+ Rx: Refraction; D: Diopters; VA: Visual acuity; LogMAR: Logarithm minimal angle resolution; AXL: Axial length; mm: millimeters; AT: Atropine; OK: Orthokeratology; NR: Not reported. * Statistically significant difference p < 0.05; ↑ = increased. The work by Wan et al. [ 52 ] 2018 was split into four because they studied two populations, under 6 diopters and above 6 diopters, and two atropine concentrations, 0.125% and 0.025%. All studies showed improved myopia control by the synergistic effect of OK with low-dose AT concentration, compared with OK therapy alone. The potential mechanism combination was based on pupil mydriasis by increased retinal illumination due to AT, which would induce a shorter myopic change in the peripheral retina and upgrade the effectiveness of OK treatment [ 52 ]. Previous authors proved that the light cycle is related to AXL growth and maturation [ 56 ]. The results obtained by all studies for combined treatment demonstrated better efficacy in patients with low myopia. Although Tan et al. [ 53 ] found clinically insignificant AXL changes, finding statistically significant differences in the AXL elongation in just one month can give us an idea of the effects that this combination could have in the long term. Recently, Zhao et al. [ 57 ] studied the one-month change in subfoveal choroidal thickness of myopic children treated with 0.01 atropine and OK and they found that the combination of atropine and OK revealed a greater increased in subfoveal choroidal thickness than monotherapy of atropine alone, which indicates a better myopia control treatment option. All studies included a short or medium follow-up period, so longer-term studies are needed to validate these results. 6. Safety and Complications 
+ 6.1. Atropine 
+ Treatment with atropine and treatment with orthokeratology have been associated with complications. The main reported atropine complications in myopia control are photophobia and near vision blur, as a result of increased pupil size and decreased accommodative amplitude. This effect is directly proportional to the atropine concentration used. In a 0.01% atropine concentration study, Wu et al. [ 58 ] found that only 7% of the participants presented photophobia. Pupil dilation, accommodation amplitude (0.05% eyes (13.24 ± 2.72 D)), and near vision loss [ 30 ] were minimal with 0.01% atropine, but they were significant compared to patients who did not have this treatment [ 35 ]. This impact returned to untreated levels two months after treatment interruption [ 59 ]. No severe side effects with long-term atropine use have been found in addition to those described. Allergic conjunctivitis and contact lenses management difficulties have very low incidence rates [ 51 , 60 ]. An increase in pupil size with atropine could cause increased aberrations and a decrease in visual quality; however, children with larger pupil sizes would receive a greater proportion of peripheral myopic defocus associated with OK [ 52 , 54 , 61 ]. As for the rebound effect when the treatment is discontinued [ 30 , 62 ], Lixia et al. [ 63 ] found −0.72 ± 0.75 D after 36 months. 
+ The side effects of the use of a low dose of atropine (0.01%) that have been observed so far occur in a small percentage of patients and do not generally require withdrawal of treatment. 6.2. Orthokeratology 
+ Regarding OK, the change in corneal geometry causes an increase in ocular aberrations [ 64 , 65 ]. Chen et al. [ 61 ] described a statistically significant rise in spherical aberrations (0.05 ± 0.6 to 0.19 ± 0.13 µm) and coma aberrations (0.12 ± 0.19 to 0.36 ± 0.23 µm). Other authors found similar results and conclusions [ 49 , 66 , 67 , 68 , 69 ]. Some authors related this increase in aberrations with the decrease in the corneal thickness [ 70 ] with contact lens use of approximately 20 µm [ 61 ], although Guo et al. [ 71 ] did not consider these significant changes after seven years of follow-up, coinciding with other studies that did not find changes in the endothelial cell density [ 72 , 73 ]. 
+ The increase in aberrations described in OK users does not seem to have a major impact on subjective vision, suggesting that neural adaptation is sufficient to overcome optical quality degradation [ 74 ], [ 66 ] and, furthermore, this change in aberrations, particularly in spherical aberrations, induces a greater accommodative response that would help to compensate for them [ 69 ]. This adaptation is faster in children than in the adult population [ 74 ]. 
+ The most severe OK complication is microbial keratitis, although it does not present a pattern of clear onset; rather, it occurs sporadically, related to poor contact lense hygiene [ 75 ]. Acanthamoeba and Gram-negative bacilli, especially Pseudomonas aeruginosa , are the most common pathogens [ 76 ], although most cases are not resolved satisfactorily. Complications include corneal opacity in all eyes, glaucoma in one eye, and cataract in one eye. 
+ Bullimore et al. [ 48 ] recently concluded that microbial keratitis could occur in Asian children who wear contact lenses, and it was not possible to estimate the frequency or incidence of these events in other countries because the majority of papers on the matter refer to these populations. Moreover, no microbial keratitis incidence differences versus soft contact lenses have been reported [ 77 , 78 , 79 ]. Other complications present in OK users are epithelial iron deposit, white lesions, and fibrillary lines, which are associated with the duration of the treatment [ 80 ]. 
+ Moreover, corneal staining, a steep fitting lens, and tear film stability are related to nightly use [ 80 ]. OK is highly likely to also have a rebound effect after discontinuation [ 47 , 81 ]; however, this has not yet been investigated in combination with AT. The combination of orthokeratology and atropine in low concentrations does not have a greater impact on complications than those presented separately [ 53 ]. Studies indicate that orthokeratology lenses are safe and have no adverse physiological effects on the cornea and vision. In case of adverse effects, interruption of the use of the lenses can return the cornea to its original shape. 7. Future Research 
+ 7.1. When to Interrupt Treatment for Myopia Control? 
+ The increased incidence of myopia has led to advances in the search for lens and instrument design for myopia control. This is expanding the possibility of correcting more cases of astigmatism and myopia [ 82 ]. Regarding treatment efficacy, the actual control mechanism and knowledge of the rebound effect are possible future lines of research. Cho and Cheung [ 81 ] compared the changes in axial length in different subjects after OK discontinuation and subsequent resumption compared to patients who continued to wear OK. They reported doubts about the benefits over time and questioned whether discontinuation is associated with myopic acceleration following OK therapy. However, new research is needed related to the timing or line of treatment discontinuation on myopia control. 7.2. New Spectacles Design 
+ Research interest in the past decade has focused on the use of different treatments to potentially slow the progression of myopia. The use of glasses to delay the progression of myopia is another form of management, but despite its high tolerance and easy adaptation, the results currently obtained are not statistically significant [ 83 ]. A three-year clinical trial reported the effects on myopia progression deceleration with bifocal lens use with a base-in prism and its efficacy in children with accommodative lag depending on the phoria state function [ 84 ]. Animal studies have provided solid evidence that imposed myopic defocus (MD) inhibits eye growth. A spectacle lens based on the MD mechanism for myopia control has been designed, and it is named the Defocus Incorporated Multiple Segments (DIMS) spectacle lens. It imposes MD on both the central and peripheral retinas. Recently, Lam et al. [ 85 ] used lenses (DIMS) based on the constant myopic blur principle for myopia control, demonstrating a 52% reduction in myopic evolution and a 62% reduction in axial length in the DIMS lens group. 7.3. Daily Soft Contact Lenses 
+ In children and adolescents, to control myopia, the use of daily contact lenses is recommended for their safety [ 86 ] and easy handling. A recent study [ 87 ] involved a clinical trial of 74 children—41 in the daily soft lens group and 33 in the single-vision group. The results showed slower progression in the double-focus lens group (axial length change of 0.28 mm) compared with the control group (axial length change of 0.44 mm). In addition, Chamberlain et al. [ 88 ] showed, after a three-year follow-up period, similar efficacy in slowing down myopia progression with daily use of soft contact lenses. 7.4. Outdoors Activities and Sunlight Exposition 
+ Increased outdoor time has been shown to have a positive influence on myopia progression, although it is not entirely effective in eyes that are already nearsighted [ 89 ]. 
+ The mechanism by which outdoor activity could help to prevent the development of myopia remains unclear. A meta-analysis showed that a greater amount of time spent outdoors is associated with a lower myopia increase. They reported a decrease of 2% for each additional hour spent outdoors per week [ 90 ]. An increase in daily outdoor activity with strong sunlight exposure may not necessarily be a prevention factor in myopia control. 8. Conclusions 
+ The available scientific literature demonstrates that combined treatment of low-dose atropine with simultaneous overnight orthokeratology is effective and safe for myopia control. However, since efficacy has a synergistic effect, complications and management are also additive when both treatments are used; therefore, more long-term studies with a multidisciplinary analysis are needed to investigate myopia control behavior in populations other than just Asian populations. Currently, available evidence demonstrates that this is a promising research line that needs longer-term randomized clinical trials to confirm the outcomes shown. Acknowledgments 
+ The authors appreciate the administrative help provided by the Faculty of Pharmacy and the Faculty of Physics of the University of Seville. In the same way, they want to thank the technical support offered by Javier Romero-Landa and María Álvarez-De-Sotomayor. Author Contributions 
+ Conceptualization, J.-M.S.-G.; methodology, R.-C.P.; software, J.-M.S.-G.; validation, J.-M.S.-G. and C.D.-H.-C.; formal analysis, J.-M.S.-G.; investigation, M.-J.B.-L. and M.-C.S.-G.; resources, R.-C.P.; data curation, C.D.-H.-C. and M.C.S.-G.; writing—original draft preparation, J.-M.S.-G., C.D.-H.-C., M.-J.B.-L., M.C.S.-G. and R.-C.P.; writing—review and editing, J.-M.S.-G.; visualization, J.-M.S.-G.; supervision, R.-C.P.; project administration, N/A (Not Applicable); funding acquisition, N/A. All authors have read and agreed to the published version of the manuscript. Funding 
+ This research received no external funding. Conflicts of Interest 
+ The authors declare no conflict of interest. References 
+ 
+ 
+ 1. Morgan I.G., Ohno-Matsui K., Saw S.M. Myopia. Lancet. 2012;379:1739–1748. doi: 10.1016/S0140-6736(12)60272-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Pan C.W., Ramamurthy D., Saw S.M. Worldwide prevalence and risk factors for myopia. Ophthalmic Physiol. Opt. 2012 doi: 10.1111/j.1475-1313.2011.00884.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Wong T.Y., Ferreira A., Hughes R., Carter G., Mitchell P. Epidemiology and disease burden of pathologic myopia and myopic choroidal neovascularization: An evidence-based systematic review. Am. J. Ophthalmol. 2014;157 doi: 10.1016/j.ajo.2013.08.010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Zadnik K., Sinnott L.T., Cotter S.A., Jones-Jordan L.A., Kleinstein R.N., Manny R.E., Mutti D.O., Hullett S., Sims J., Weeks R., et al. Prediction of juvenile-onset myopia. JAMA Ophthalmol. 2015;133:683–689. doi: 10.1001/jamaophthalmol.2015.0471. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Grzybowski A., Kanclerz P., Tsubota K., Lanca C., Saw S.M. A review on the epidemiology of myopia in school children worldwide. BMC Ophthalmol. 2020;20:27. doi: 10.1186/s12886-019-1220-0. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Lin H., Long E., Ding X., Diao H., Chen Z., Liu R., Huang J., Cai J., Xu S., Zhang X., et al. Prediction of myopia development among Chinese school-aged children using refraction data from electronic medical records: A retrospective, multicentre machine learning study. PLoS Med. 2018;15 doi: 10.1371/journal.pmed.1002674. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Medina A. The progression of corrected myopia. Graefe’s Arch. Clin. Exp. Ophthalmol. 2015;253:1273–1277. doi: 10.1007/s00417-015-2991-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Morgan I.G., He M., Rose K.A. Epidemic of pathologic myopia: What can laboratory studies and epidemiology tell us? Retina. 2017;37:989–997. doi: 10.1097/IAE.0000000000001272. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Walline J.J. Myopia control: A review. Eye Contact Lens. 2016;42:3–8. doi: 10.1097/ICL.0000000000000207. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Leo S.W., Adio A., Fernandez A., Godts D., Mojon D., Salchow D.J., Granet D.B., Bremond-Gignac D., Li J., Nischal K.K., et al. Current approaches to myopia control. Curr. Opin. Ophthalmol. 2017;28:267–275. doi: 10.1097/ICU.0000000000000367. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Lin H.J., Wei C.C., Chang C.Y., Chen T.H., Hsu Y.A., Hsieh Y.C., Chen H.J., Wan L. Role of Chronic Inflammation in Myopia Progression: Clinical Evidence and Experimental Validation. EBioMedicine. 2016;10:269–281. doi: 10.1016/j.ebiom.2016.07.021. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Pugazhendhi S., Ambati B., Hunter A.A. Pathogenesis and prevention of worsening axial elongation in pathological myopia. Clin. Ophthalmol. 2020;14:853–873. doi: 10.2147/OPTH.S241435. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Tkatchenko T.V., Troilo D., Benavente-Perez A., Tkatchenko A.V. Gene expression in response to optical defocus of opposite signs reveals bidirectional mechanism of visually guided eye growth. PLoS Biol. 2018;16 doi: 10.1371/journal.pbio.2006021. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Read S.A., Fuss J.A., Vincent S.J., Collins M.J., Alonso-Caneiro D. Choroidal changes in human myopia: Insights from optical coherence tomography imaging. Clin. Exp. Optom. 2019;102:270–285. doi: 10.1111/cxo.12862. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Upadhyay A., Beuerman R.W. Biological Mechanisms of Atropine Control of Myopia. Eye Contact Lens. 2020;46:129–135. doi: 10.1097/ICL.0000000000000677. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Matthijs Blankesteijn W. Has the search for a marker of activated fibroblasts finally come to an end? J. Mol. Cell. Cardiol. 2015;88:120–123. doi: 10.1016/j.yjmcc.2015.10.005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Nickla D.L., Zhu X., Wallman J. Effects of muscarinic agents on chick choroids in intact eyes and eyecups: Evidence for a muscarinic mechanism in choroidal thinning. Ophthalmic Physiol. Opt. 2013;33:245–256. doi: 10.1111/opo.12054. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Chiang S.T.H., Phillips J.R. Effect of Atropine Eye Drops on Choroidal Thinning Induced by Hyperopic Retinal Defocus. J. Ophthalmol. 2018;2018:1–6. doi: 10.1155/2018/8528315. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Prepas S.B. Light, literacy and the absence of ultraviolet radiation in the development of myopia. Med. Hypotheses. 2008;70:635–637. doi: 10.1016/j.mehy.2007.07.023. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Metlapally R., Wildsoet C.F. Progress in Molecular Biology and Translational Science. Volume 134. Elsevier B.V.; Berkeley, CA, USA: 2015. Scleral Mechanisms Underlying Ocular Growth and Myopia; pp. 241–248. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Gong Q., Janowski M., Luo M., Wei H., Chen B., Yang G., Liu L. Efficacy and adverse effects of atropine in childhood myopia a meta-analysis. JAMA Ophthalmol. 2017;135:624–630. doi: 10.1001/jamaophthalmol.2017.1091. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Tan D.T.H. Author’s reply. Singap. Med. J. 2018;59:507. doi: 10.11622/smedj.2018112. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Chen R., Yu J., Lipson M., Cheema A.A., Chen Y., Lian H., Huang J., McAlinden C. Comparison of four different orthokeratology lenses in controlling myopia progression. Contact Lens Anterior Eye. 2019;43 doi: 10.1016/j.clae.2019.11.012. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Smith E.L., Hung L.F., Huang J., Arumugam B. Effects of local myopic defocus on refractive development in monkeys. Optom. Vis. Sci. 2013;90:1176–1186. doi: 10.1097/OPX.0000000000000038. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Charm J. Orthokeratology: Clinical utility and patient perspectives. Clin. Optom. 2017;9:33–40. doi: 10.2147/OPTO.S104507. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Lum E., Swarbrick H.A. Lens Dk/t influences the clinical response in overnight orthokeratology. Optom. Vis. Sci. 2011;88:469–475. doi: 10.1097/OPX.0b013e31820bb0db. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Zhang Y., Chen Y.G. Comparison of myopia control between toric and spherical periphery design orthokeratology in myopic children with moderate-to-high corneal astigmatism. Int. J. Ophthalmol. 2018;11:650–655. doi: 10.18240/ijo.2018.04.19. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Jiang J., Lian L., Wang F., Zhou L., Zhang X., Song E. Comparison of Toric and Spherical Orthokeratology Lenses in Patients with Astigmatism. J. Ophthalmol. 2019;2019 doi: 10.1155/2019/4275269. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Yam J.C., Jiang Y., Tang S.M., Law A.K.P., Chan J.J., Wong E., Ko S.T., Young A.L., Tham C.C., Chen L.J., et al. Low-Concentration Atropine for Myopia Progression (LAMP) Study: A Randomized, Double-Blinded, Placebo-Controlled Trial of 0.05%, 0.025%, and 0.01% Atropine Eye Drops in Myopia Control. Ophthalmology. 2019;126:11–124. doi: 10.1016/j.ophtha.2018.05.029. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Chia A., Chua W.H., Wen L., Fong A., Goon Y.Y., Tan D. Atropine for the treatment of childhood myopia: Changes after stopping atropine 0.01%, 0.1% and 0.5% Am. J. Ophthalmol. 2014;157:451–457. doi: 10.1016/j.ajo.2013.09.020. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Huang J., Wen D., Wang Q., McAlinden C., Flitcroft I., Chen H., Saw S.M., Chen H., Bao F., Zhao Y., et al. Efficacy comparison of 16 interventions for myopia control in children: A network meta-analysis. Ophthalmology. 2016;123:697–708. doi: 10.1016/j.ophtha.2015.11.010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Chia A., Chua W.H., Cheung Y.B., Wong W.L., Lingham A., Fong A., Tan D. Atropine for the treatment of childhood Myopia: Safety and efficacy of 0.5%, 0.1%, and 0.01% doses (Atropine for the Treatment of Myopia 2) Ophthalmology. 2012;119:347–354. doi: 10.1016/j.ophtha.2011.07.031. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Azuara-Blanco A., Logan N., Strang N., Saunders K., Allen P.M., Weir R., Doherty P., Adams C., Gardner E., Hogg R., et al. Low-dose (0.01%) atropine eye-drops to reduce progression of myopia in children: A multicentre placebo-controlled randomised trial in the UK (CHAMP-UK)—Study protocol. Br. J. Ophthalmol. 2019 doi: 10.1136/bjophthalmol-2019-314819. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Li S.M., Wu S.S., Kang M.T., Liu Y., Jia S.M., Li S.Y., Zhan S.Y., Liu L.R., Li H., Chen W., et al. Atropine slows myopia progression more in asian than white children by meta-analysis. Optom. Vis. Sci. 2014;91:342–350. doi: 10.1097/OPX.0000000000000178. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Fu A., Stapleton F., Wei L., Wang W., Zhao B., Watt K., Ji N., Lyu Y. Effect of low-dose atropine on myopia progression, pupil diameter and accommodative amplitude: Low-dose atropine and myopia progression. Br. J. Ophthalmol. 2020 doi: 10.1136/bjophthalmol-2019-315440. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Chia A., Lu Q.S., Tan D. Five-Year Clinical Trial on Atropine for the Treatment of Myopia 2 Myopia Control with Atropine 0.01% Eyedrops. Ophthalmology. 2016;123:391–399. doi: 10.1016/j.ophtha.2015.07.004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Charm J., Cho P. High myopia-partial reduction ortho-k: A 2-year randomized study. Optom. Vis. Sci. 2013;90:530–539. doi: 10.1097/OPX.0b013e318293657d. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Santodomingo-Rubido J., Villa-Collar C., Gilmartin B., Gutiérrez-Ortega R. Myopia control with orthokeratology contact lenses in Spain: Refractive and biometric changes. Investig. Ophthalmol. Vis. Sci. 2012;53:5060–5065. doi: 10.1167/iovs.11-8005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Chan K.Y., Cheung S.W., Cho P. Orthokeratology for slowing myopic progression in a pair of identical twins. Contact Lens Anterior Eye. 2014;37:116–119. doi: 10.1016/j.clae.2013.09.007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Pauné J., Morales H., Armengol J., Quevedo L., Faria-Ribeiro M., González-Méijome J.M. Myopia Control with a Novel Peripheral Gradient Soft Lens and Orthokeratology: A 2-Year Clinical Trial. Biomed Res. Int. 2015;2015 doi: 10.1155/2015/507572. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. He M., Du Y., Liu Q., Ren C., Liu J., Wang Q., Li L., Yu J. Effects of orthokeratology on the progression of low to moderate myopia in Chinese children. BMC Ophthalmol. 2016;16 doi: 10.1186/s12886-016-0302-5. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Sun Y., Xu F., Zhang T., Liu M., Wang D., Chen Y., Liu Q. Orthokeratology to control myopia progression: A meta-analysis. PLoS ONE. 2015;10:e0124535. doi: 10.1371/journal.pone.0124535. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Zhou J., Xie P., Wang D., Guo X., Yang L. The long-term clinical effects of orthokeratology in high myopia children. Chin. J. Ophthalmol. 2015;51:515–519. doi: 10.3760/cma.j.issn.0412-4081.2015.07.009. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Lee Y.C., Wang J.H., Chiu C.J. Effect of Orthokeratology on myopia progression: Twelve-year results of a retrospective cohort study. BMC Ophthalmol. 2017;17:243. doi: 10.1186/s12886-017-0639-4. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Hiraoka T., Sekine Y., Okamoto F., Mihashi T., Oshika T. Safety and efficacy following 10-years of overnight orthokeratology for myopia control. Ophthalmic Physiol. Opt. 2018;38:281–289. doi: 10.1111/opo.12460. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Santodomingo-Rubido J., Villa-Collar C., Gilmartin B., Gutiérrez-Ortega R., Sugimoto K. Long-term Efficacy of Orthokeratology Contact Lens Wear in Controlling the Progression of Childhood Myopia. Curr. Eye Res. 2017;42:713–720. doi: 10.1080/02713683.2016.1221979. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Cho P., Tan Q. Myopia and orthokeratology for myopia control. Clin. Exp. Optom. 2019;102:364–377. doi: 10.1111/cxo.12839. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Bullimore M.A., Johnson L.A. Overnight orthokeratology. Contact Lens Anterior Eye. 2020 doi: 10.1016/j.clae.2020.03.018. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Nti A.N., Berntsen D.A. Optical changes and visual performance with orthokeratology. Clin. Exp. Optom. 2020;103:44–54. doi: 10.1111/cxo.12947. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Lyu Y., Ji N., Fu A.-C., Wang W.-Q., Wei L., Qin J., Zhao B.-X. Comparison of Administration of 0.02% Atropine and Orthokeratology for Myopia Control. Eye Contact Lens Sci. Clin. Pract. 2020 doi: 10.1097/ICL.0000000000000699. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Kinoshita N., Konno Y., Hamada N., Kanda Y., Shimmura-Tomita M., Kakehashi A. Additive effects of orthokeratology and atropine 0.01% ophthalmic solution in slowing axial elongation in children with myopia: First year results. Jpn. J. Ophthalmol. 2018;62:544–553. doi: 10.1007/s10384-018-0608-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Wan L., Wei C.-C., Chen C., Chang C.-Y., Lin C.-J., Chen J., Tien P.-T., Lin H.-J. The Synergistic Effects of Orthokeratology and Atropine in Slowing the Progression of Myopia. J. Clin. Med. 2018;7:259. doi: 10.3390/jcm7090259. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Tan Q., Ng A.L.K., Cheng G.P.M., Woo V.C.P., Cho P. Combined Atropine with Orthokeratology for Myopia Control: Study Design and Preliminary Results. Curr. Eye Res. 2019;44:671–678. doi: 10.1080/02713683.2019.1568501. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Chen Z., Huang S., Zhou J., Xiaomei Q., Zhou X., Xue F. Adjunctive effect of orthokeratology and low dose atropine on axial elongation in fast-progressing myopic children—A preliminary retrospective study. Contact Lens Anterior Eye. 2019;42:439–442. doi: 10.1016/j.clae.2018.10.026. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Verzhanskaya T.Y., Tarutta E.P. Stabilizing effectiveness of orthokeratology and long-term minute-concentration atropine therapy in myopia (draft report) Vestn. Oftalmol. 2017;133:43–48. doi: 10.17116/oftalma2017133543-48. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Ip J.M., Rose K.A., Morgan I.G., Burlutsky G., Mitchell P. Myopia and the urban environment: Findings in a sample of 12-year-old Australian school children. Investig. Ophthalmol. Vis. Sci. 2008;49:3858–3863. doi: 10.1167/iovs.07-1451. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Zhao W., Li Z., Hu Y., Jiang J., Long W., Cui D., Chen W., Yang X. Short-term effects of atropine combined with orthokeratology (ACO) on choroidal thickness. Contact Lens Anterior Eye. 2020 doi: 10.1016/j.clae.2020.06.006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Wu P.C., Chuang M.N., Choi J., Chen H., Wu G., Ohno-Matsui K., Jonas J.B., Cheung C.M.G. Update in myopia and treatment strategy of atropine use in myopia control. Eye. 2019;33:3–13. doi: 10.1038/s41433-018-0139-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Tan D., Tay S.A., Loh K.L., Chia A. Topical atropine in the control of myopia. Asia-Pac. J. Ophthalmol. 2016;5:424–428. doi: 10.1097/APO.0000000000000232. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Pineles S.L., Kraker R.T., VanderVeen D.K., Hutchinson A.K., Galvin J.A., Wilson L.B., Lambert S.R. Atropine for the Prevention of Myopia Progression in Children: A Report by the American Academy of Ophthalmology. Ophthalmology. 2017;124:1857–1866. doi: 10.1016/j.ophtha.2017.05.032. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Chen Q., Li M., Yuan Y., Me R., Yu Y., Shi G., Ke B. Interaction between Corneal and Internal Ocular Aberrations Induced by Orthokeratology and Its Influential Factors. Biomed Res. Int. 2017 doi: 10.1155/2017/3703854. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Tong L., Huang X.L., Koh A.L.T., Zhang X., Tan D.T.H., Chua W.H. Atropine for the Treatment of Childhood Myopia: Effect on Myopia Progression after Cessation of Atropine. Ophthalmology. 2009;116:572–579. doi: 10.1016/j.ophtha.2008.10.020. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Lixia L., Weizhong L., Yunru L., Feng Z., Can C., Zhikuan Y. Treatment outcomes of myopic anisometropia with 1% atropine: A pilot study. Optom. Vis. Sci. 2013;90:1486–1492. doi: 10.1097/OPX.0000000000000097. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Sun Y., Wang L., Gao J., Yang M., Zhao Q. Influence of Overnight Orthokeratology on Corneal Surface Shape and Optical Quality. J. Ophthalmol. 2017;2017 doi: 10.1155/2017/3279821. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Gifford P., Li M., Lu H., Miu J., Panjaya M., Swarbrick H.A. Corneal versus ocular aberrations after overnight orthokeratology. Optom. Vis. Sci. 2013;90:439–447. doi: 10.1097/OPX.0b013e31828ec594. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Chang C.-F., Cheng H.-C. Effect of Orthokeratology Lens on Contrast Sensitivity Function and High-Order Aberrations in Children and Adults. Eye Contact Lens Sci. Clin. Pract. 2019 doi: 10.1097/ICL.0000000000000667. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Santolaria-Sanz E., Cerviño A., González-Méijome J.M. Corneal Aberrations, Contrast Sensitivity, and Light Distortion in Orthokeratology Patients: 1-Year Results. J. Ophthalmol. 2016 doi: 10.1155/2016/8453462. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Santodomingo-Rubido J., Villa-Collar C., Gilmartin B., Gutiérrez-Ortega R., Suzaki A. Short- and long-term changes in corneal aberrations and axial length induced by orthokeratology in children are not correlated. Eye Contact Lens. 2017;43:358–363. doi: 10.1097/ICL.0000000000000290. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Yoo Y.S., Kim D.Y., Byun Y.S., Ji Q., Chung I.K., Whang W.J., Park M.R., Kim H.S., Na K.S., Joo C.K., et al. Impact of peripheral optical properties induced by orthokeratology lens use on myopia progression. Heliyon. 2020;6 doi: 10.1016/j.heliyon.2020.e03642. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Lian Y., Shen M., Huang S., Yuan Y., Wang Y., Zhu D., Jiang J., Mao X., Wang J., Lu F. Corneal reshaping and wavefront aberrations during overnight orthokeratology. Eye Contact Lens. 2014;40:161–168. doi: 10.1097/ICL.0000000000000031. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Guo X., Xie P. Corneal thickness and endothelial observation for youth myopia patients fitted with Ortho-K lens for seven years. Chin. J. Ophthalmol. 2014;50:9–13. doi: 10.3760/cma.j.issn.0412-4081.2014.01.004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Yeh T.N., Green H.M., Zhou Y., Pitts J., Kitamata-Wong B., Lee S., Wang S.L., Lin M.C. Short-term effects of overnight orthokeratology on corneal epithelial permeability and biomechanical properties. Investig. Ophthalmol. Vis. Sci. 2013;54:3902–3911. doi: 10.1167/iovs.13-11874. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Miao C., Xu X., Zhang H. Analysis of corneal complications in children wearing orthokeratology lenses at night. Chin. J. Ophthalmol. 2017;53:198–202. doi: 10.3760/cma.j.issn.0412-4081.2017.03.010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Santolaria Sanz E., Cerviño A., Queiros A., Villa-Collar C., Lopes-Ferreira D., González-Méijome J.M. anue. Short-term changes in light distortion in orthokeratology subjects. Biomed Res. Int. 2015;2015:278425. doi: 10.1155/2015/278425. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Watt K., Swarbrick H.A. Microbial keratitis in overnight orthokeratology: Review of the first 50 cases. Eye Contact Lens. 2005;31:201–208. doi: 10.1097/01.icl.0000179705.23313.7e. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Tseng C.H., Fong C.F., Chen W.L., Hou Y.C., Wang I.J., Hu F.R. Overnight orthokeratology-associated microbial keratitis. Cornea. 2005;24:778–782. doi: 10.1097/01.ico.0000153101.81657.0b. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Stapleton F., Edwards K., Keay L., Naduvilath T., Dart J.K.G., Brian G., Holden B. Risk factors for moderate and severe microbial keratitis in daily wear contact lens users. Ophthalmology. 2012;119:1516–1521. doi: 10.1016/j.ophtha.2012.01.052. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Dart J.K.G., Radford C.F., Minassian D., Verma S., Stapleton F. Risk Factors for Microbial Keratitis with Contemporary Contact Lenses. A Case-Control Study. Ophthalmology. 2008;115 doi: 10.1016/j.ophtha.2008.05.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Khor W.B., Prajna V.N., Garg P., Mehta J.S., Xie L., Liu Z., Padilla M.D.B., Joo C.K., Inoue Y., Goseyarakwong P., et al. The Asia Cornea Society Infectious Keratitis Study: A Prospective Multicenter Study of Infectious Keratitis in Asia. Am. J. Ophthalmol. 2018;195:161–170. doi: 10.1016/j.ajo.2018.07.040. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Liu Y.M., Xie P. The safety of orthokeratology—A systematic review. Eye Contact Lens. 2016;42:35–42. doi: 10.1097/ICL.0000000000000219. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Cho P., Cheung S.W. Discontinuation of orthokeratology on eyeball elongation (DOEE) Contact Lens Anterior Eye. 2017;40:82–87. doi: 10.1016/j.clae.2016.12.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Kang P. Optical and pharmacological strategies of myopia control. Clin. Exp. Optom. 2018;101:321–332. doi: 10.1111/cxo.12666. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Kanda H., Oshika T., Hiraoka T., Hasebe S., Ohno-Matsui K., Ishiko S., Hieda O., Torii H., Varnas S.R., Fujikado T. Effect of spectacle lenses designed to reduce relative peripheral hyperopia on myopia progression in Japanese children: A 2-year multicenter randomized controlled trial. Jpn. J. Ophthalmol. 2018;62:537–543. doi: 10.1007/s10384-018-0616-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Cheng D., Woo G.C., Drobe B., Schmid K.L. Effect of bifocal and prismatic bifocal spectacles on myopia progression in children: Three-year results of a randomized clinical trial. Jama Ophthalmol. 2014;132:258–264. doi: 10.1001/jamaophthalmol.2013.7623. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Lam C.S.Y., Tang W.C., Tse D.Y.Y., Lee R.P.K., Chun R.K.M., Hasegawa K., Qi H., Hatanaka T., To C.H. Defocus incorporated multiple segments (DIMS) spectacle lenses slow myopia progression: A 2-year randomised clinical trial. Br. J. Ophthalmol. 2020;104:363–368. doi: 10.1136/bjophthalmol-2018-313739. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Cheng X., Brennan N.A., Toubouti Y., Greenaway N.L. Safety of soft contact lenses in children: Retrospective review of six randomized controlled trials of myopia control. Acta Ophthalmol. 2020;98:e346–e351. doi: 10.1111/aos.14283. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Ruiz-Pomeda A., Pérez-Sánchez B., Valls I., Prieto-Garrido F.L., Gutiérrez-Ortega R., Villa-Collar C. MiSight Assessment Study Spain (MASS). A 2-year randomized clinical trial. Graefe’s Arch. Clin. Exp. Ophthalmol. 2018;256:1011–1021. doi: 10.1007/s00417-018-3906-z. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Chamberlain P., Peixoto-De-Matos S.C., Logan N.S., Ngo C., Jones D., Young G. A 3-year Randomized Clinical Trial of MiSight Lenses for Myopia Control. Optom. Vis. Sci. 2019;96:556–567. doi: 10.1097/OPX.0000000000001410. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Xiong S., Sankaridurg P., Naduvilath T., Zang J., Zou H., Zhu J., Lv M., He X., Xu X. Time spent in outdoor activities in relation to myopia prevention and control: A meta-analysis and systematic review. Acta Ophthalmol. 2017;95:551–566. doi: 10.1111/aos.13403. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Sherwin J.C., Reacher M.H., Keogh R.H., Khawaja A.P., MacKey D.A., Foster P.J. The association between time spent outdoors and myopia in children and adolescents: A systematic review and meta-analysis. Ophthalmology. 2012;119:2141–2151. doi: 10.1016/j.ophtha.2012.04.020. [ DOI ] [ PubMed ] [ Google Scholar ]

@@ -1,0 +1,491 @@
+Source: PubMed Central (PMC)
+PMCID: PMC10443347
+Title: Minimally Invasive Glaucoma Surgery: A Review of the Literature
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10443347/
+Year: 2023
+Disease: glaucoma_surgery
+Priority: 3
+============================================================
+
+Vision (Basel) . 2023 Aug 21;7(3):54. doi: 10.3390/vision7030054 
+ 
+ 
+ Minimally Invasive Glaucoma Surgery: A Review of the Literature 
+ Michael Balas 
+ Michael Balas 
+ 
+ 1 Temerty Faculty of Medicine, University of Toronto, Toronto, ON M5S 1A8, Canada; michael.balas@mail.utoronto.ca 
+ Find articles by Michael Balas 
+ 
+ 
+ 1 , David J Mathew 
+ David J Mathew 
+ 
+ 2 Donald K. Johnson Eye Institute, Krembil Research Institute, University Health Network, Toronto, ON M5T 0S8, Canada 
+ 
+ 3 Department of Ophthalmology and Vision Sciences, University of Toronto, Toronto, ON M5T 2S8, Canada 
+ 
+ 4 Department of Laboratory Medicine and Pathobiology, University of Toronto, Toronto, ON M5S 1A8, Canada 
+ Find articles by David J Mathew 
+ 
+ 
+ 2, 3, 4, * 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Temerty Faculty of Medicine, University of Toronto, Toronto, ON M5S 1A8, Canada; michael.balas@mail.utoronto.ca 
+ 
+ 2 Donald K. Johnson Eye Institute, Krembil Research Institute, University Health Network, Toronto, ON M5T 0S8, Canada 
+ 
+ 3 Department of Ophthalmology and Vision Sciences, University of Toronto, Toronto, ON M5T 2S8, Canada 
+ 
+ 4 Department of Laboratory Medicine and Pathobiology, University of Toronto, Toronto, ON M5S 1A8, Canada 
+ 
+ * Correspondence: david.mathew@mail.utoronto.ca ; Tel.: +1-416-603-5727 
+ 
+ 
+ Received 2023 Jun 21; Revised 2023 Jul 24; Accepted 2023 Aug 17; Collection date 2023 Sep. 
+ 
+ © 2023 by the authors. 
+ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ ). 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC10443347  PMID: 37606500 
+ 
+ Abstract 
+ Minimally invasive glaucoma surgery (MIGS) has emerged as a novel approach in the glaucoma treatment spectrum, offering a range of diverse procedures and devices aimed at reducing intraocular pressure (IOP). MIGS can be broadly classified into several categories: those that enhance trabecular outflow (Trabectome, iStent, Hydrus Microstent, Kahook Dual Blade, high frequency deep sclerotomy, and gonioscopy-assisted transluminal trabeculotomy), those that augment suprachoroidal outflow (CyPass Microstent and iStent Supra), those that target Schlemm’s canal (TRAB360 and the OMNI Surgical System, Streamline, and Ab Interno Canaloplasty), and conjunctival bleb-forming procedures (EX-PRESS Glaucoma Filtration Device, Xen Gel Stent and PreserFlo MicroShunt). MIGS is considered to have a shorter surgical time and fewer severe complications when compared to traditional glaucoma surgeries such as trabeculectomy and glaucoma drainage device implantation (Ahmed, Baerveldt, and Molteno valves). This literature review comprehensively examines the distinct MIGS devices and procedures, their underlying mechanisms, and clinical outcomes, emphasizing the importance of evaluating the efficacy and complications of each approach individually. As the field of MIGS continues to evolve, it is crucial to prioritize high-quality, long-term studies to better understand the safety and effectiveness of these innovative interventions in glaucoma management. 
+ Keywords: minimally invasive glaucoma surgery, MIGS, glaucoma, intraocular pressure, trabecular outflow, suprachoroidal outflow, conjunctival bleb-forming procedures, surgical advances, literature review 1. Introduction 
+ Minimally invasive glaucoma surgery (MIGS) has emerged in the past two decades as a promising approach to address many unmet needs in glaucoma management [ 1 , 2 , 3 ]. MIGS encompasses a broad range of surgical techniques and devices which aim to lower IOP with a more favorable safety profile compared to traditional glaucoma surgeries [ 4 ]. These procedures are typically characterized by their ab interno approach, rapid recovery time, and preservation of the conjunctiva for potential future glaucoma surgeries. MIGS has been designed to target different aqueous humor outflow pathways, including Schlemm’s canal, the suprachoroidal space, and the subconjunctival space. 
+ 1.1. Terminology 
+ As the field of MIGS continues to evolve, it is essential to understand the terminology associated with these procedures and devices to facilitate clear communication among researchers, clinicians, and patients. MIGS can be broadly classified based on itstarget anatomical site, approach, and mechanism of action [ 5 ]. 
+ The term “ab interno” refers to MIGS procedures that are performed through an internal approach, typically via a clear corneal incision. In contrast, “ab externo” procedures involve an external approach, usually requiring a scleral or conjunctival incision. Ab interno MIGS is generally considered less invasive and have a more favorable safety profile due to their conjunctiva-sparing nature, which reduces the risk of complications such as infection, scarring, and hypotony [ 2 , 6 ]. 
+ MIGS devices can be categorized based on the primary anatomical site they target to enhance aqueous humor outflow and reduce intraocular pressure (IOP). These categories include trabecular meshwork bypass, supraciliary shunts, and subconjunctival filtration devices. Trabecular meshwork bypass devices, such as iStent and Hydrus Microstent, aim to improve the outflow of aqueous humor by bypassing the trabecular meshwork, the primary site of resistance in the conventional outflow pathway. Suprachoroidal shunts, like CyPass Micro-Stent and iStent Supra, target the supraciliary space, creating an alternative pathway for aqueous humor to exit the eye. Subconjunctival filtration devices, including XEN Gel Stent and PreserFlo MicroShunt, facilitate the creation of a drainage pathway from the anterior chamber to the subconjunctival space, allowing aqueous humor to exit the eye and be absorbed by the conjunctiva and episcleral vasculature [ 1 ]. 1.2. Advantages and Limitations 
+ The benefits and drawbacks of MIGS are often evaluated in comparison to traditional glaucoma surgeries, such as trabeculectomy and glaucoma drainage devices. These advantages and limitations play a crucial role in determining the position of MIGS within the glaucoma treatment paradigm. 
+ Initial management of glaucoma typically involves pharmacotherapy and laser therapy, which are associated with fewer risks compared to traditional glaucoma surgeries [ 4 ]. Conventional glaucoma surgeries carry the potential for vision-threatening intraoperative and postoperative complications, including hypotony, infection, suprachoroidal hemorrhage, cataract formation, and the need for additional surgeries [ 7 ]. The Primary Tube Versus Trabeculectomy study reported postoperative complications in 29% and 41% of patients in the tube and trabeculectomy groups, respectively, after one year of follow-up. Serious complications that led to the loss of two or more Snellen lines or required repeat surgery occurred in 1% and 7% of patients, respectively [ 8 ]. In terms of complication risk, MIGS occupies an intermediate position between pharmacotherapy and laser therapy, which have lower risks, and traditional glaucoma surgeries, which have higher risks [ 4 , 9 ]. 
+ MIGS offers several advantages compared to traditional glaucoma surgeries, including a better safety profile and faster recovery time. It is generally indicated for the treatment of mild to moderate glaucoma, as the IOP-lowering effect of MIGS is less pronounced than that of traditional glaucoma surgeries [ 1 , 2 , 3 , 6 ]. However, the limitations of MIGS should also be considered. These procedures may not achieve the same degree of IOP reduction as traditional surgeries, potentially limiting their efficacy in cases of advanced glaucoma or in patients with a low target IOP. 
+ Moreover, while MIGS has demonstrated promising results in the short to medium term, long-term outcomes and comparative effectiveness among different MIGS techniques are still under investigation [ 10 ]. The cost-effectiveness of MIGS compared to traditional glaucoma surgeries has also yet to be definitively established [ 11 ]. 
+ In summary, MIGS offers several advantages over traditional glaucoma surgeries, such as an improved safety profile and faster recovery. However, limitations, including potentially inferior IOP-lowering effects and uncertainty regarding long-term outcomes and cost-effectiveness, should be carefully considered when determining the role of MIGS in the glaucoma treatment paradigm. 
+ The primary objective of this literature review is to provide an up-to-date, comprehensive summary of the current evidence on MIGS, focusing on their safety, efficacy, and the specific patient populations that may benefit the most from these procedures. We will explore the various MIGS devices and techniques, including trabecular micro-bypass stents, Schlemm’s canal scaffolding, suprachoroidal shunts, and subconjunctival filtration devices. Furthermore, we will discuss the advantages and limitations of each MIGS approach, the impact of MIGS on the glaucoma treatment paradigm, and the future directions of research in this rapidly evolving field. Given the rapidly evolving nature of this field and the growing number of approved MIGS devices, it is crucial to regularly assess and synthesize the available evidence to guide clinicians, researchers, and healthcare policymakers in making informed decisions about the use of MIGS in glaucoma treatment. 2. Literature Search Details 
+ A comprehensive literature search was conducted using the PubMed database to identify relevant MIGS studies published in English. The search strategy involved the utilization of the following keywords and terms: Trabectome , iStent , Hydrus , trabecular stent , sclerotomy , gonioscopy-assisted transluminal trabeculotomy , Kahook Dual Blade , Schlemm’s canal cannulation , Schlemm’s canal dilation , Ab Interno Canaloplasty , CyPass , suprachoroidal shunt , suprachoroidal stent , EX-PRESS , XEN , gel stent , InnFocus , and poly(styrene-block-isobutylene-block-styrene) . To enhance the search sensitivity and ensure the inclusion of all relevant publications, both Medical Subject Headings (MeSH) terms and free-text keywords were used in various combinations. 
+ In addition to the primary search, the reference lists of the identified MIGS studies were thoroughly examined to uncover any additional eligible studies that might have been missed during the initial search. The search period was set from 1 January 2000 to 1 March 2023 to capture the most up-to-date evidence in the rapidly evolving field of MIGS. Conference abstracts were not included in the search to maintain a focus on peer-reviewed, full-length publications that provide more extensive data and methodological details. 
+ Indications and Contraindications 
+ MIGS is generally indicated for the treatment of mild to moderate open-angle glaucoma (OAG) in patients who have failed to achieve adequate IOP control through conservative management approaches, such as pharmacotherapy and laser therapy [ 1 , 2 , 3 , 6 ]. These procedures may also be considered for patients with uncontrolled IOP who are intolerant or non-adherent to their glaucoma medications due to side effects or complex dosing regimens. In some cases, MIGS may be performed in conjunction with cataract surgery, offering a combined approach to address both glaucoma and cataracts in a single surgical intervention. This approach can streamline patient care, reduce the overall number of surgeries, and potentially improve patient satisfaction and quality of life [ 12 , 13 ]. 
+ The contraindications for MIGS are largely dependent on the specific procedure or device being utilized and the patient’s clinical characteristics [ 14 ]. However, some general contraindications for MIGS include advanced glaucoma with severe visual field loss, uncontrolled uveitic glaucoma, neovascular glaucoma, and angle-closure glaucoma (ACG) without prior laser peripheral iridotomy (LPI) or in cases where the angle remains closed after LPI. MIGS targeting the trabecular meshwork, such as iStent and Trabectome, may be contraindicated in patients with significant peripheral anterior synechiae or an occludable angle due to the potential risk of angle closure or progressive synechial closure postoperatively. Similarly, MIGS targeting the supraciliary or suprachoroidal space, such as CyPass and iStent Supra, may be contraindicated in patients with a history of uveitis, scleritis, or other inflammatory ocular conditions that could compromise the surgical outcome. 3. Devices, Procedures, and Surgical Techniques 
+ In the realm of glaucoma management, a diverse array of devices, procedures, and surgical techniques have emerged to address the need for effective IOP reduction and preservation of visual function. This section provides an overview of some of the most promising and widely used approaches in the field of surgical glaucoma treatment, offering a deeper understanding of their mechanisms, benefits, and potential applications for various patient populations ( Table 1 ). Figure 1 highlights the anatomical location of each device and device category. 
+ Table 1. 
+ Summary of MIGS devices and techniques. 
+ 
+ 
+ Device Category 
+ Device(s) (Manufacturer(s)) 
+ FDA Approval Year 
+ Brief Description 
+ Mechanism of Action 
+ Indication 
+ 
+ 
+ 
+ Trabecular Outflow 
+ Trabectome (NeoMedix Corporation) 
+ 2004 
+ A microelectrocautery device that ablates and removes a portion of the trabecular meshwork and the inner wall of Schlemm’s canal. 
+ Trabecular Meshwork Removal 
+ Moderate-to-severe glaucoma 
+ 
+ 
+ Kahook Dual Blade (New World Medical) 
+ 2015 
+ An instrument with a dual-sided tip for precise incisions to create a trabecular meshwork window. 
+ Trabecular Meshwork Removal 
+ Moderate-to-severe glaucoma 
+ 
+ 
+ iStent (Glaukos Corporation) 
+ 2012 
+ The first trabecular micro-bypass stent implanted to enhance aqueous humor outflow. 
+ Trabecular Bypass 
+ Mild-to-moderate OAG 
+ 
+ 
+ iStent Inject (Glaukos Corporation) 
+ 2018 
+ A preloaded injector system that implants two stents to enhance IOP reduction. 
+ Trabecular Bypass 
+ Mild-to-moderate OAG 
+ 
+ 
+ HFDS (Oertli Instrumente) 
+ NA 
+ Creates six pockets penetrating 1 mm deep into the trabecular meshwork and Schlemm’s canal. 
+ Deep Sclerotomy 
+ Moderate-to-severe OAG 
+ 
+ 
+ Schlemm’s Canal Targeted 
+ TRAB360 (Sight Sciences) 
+ 2013 
+ A device utilizing a flexible microcatheter to cannulate and viscodilate Schlemm’s canal. 
+ Trabecular Bypass 
+ Mild-to-moderate OAG 
+ 
+ 
+ OMNI Surgical System (Sight Sciences) 
+ 2017 
+ A two-step device that combines viscodilation of Schlemm’s canal and trabeculotomy to enhance aqueous humor outflow. 
+ Viscodilation and Trabeculotomy 
+ Mild-to-moderate OAG 
+ 
+ 
+ Streamline (New World Medical) 
+ 2021 
+ A single-use device that creates a goniotomy and delivers viscoelastic material to dilate Schlemm’s canal. 
+ Goniotomy and Canal Dilation 
+ Mild-to-moderate OAG 
+ 
+ 
+ ABiC (Ellex iScience) 
+ NA 
+ Uses a microcatheter system to cannulate and dilate Schlemm’s canal and distal outflow channels with viscoelastic material. 
+ Canal Dilation 
+ Mild-to-moderate primary OAG 
+ 
+ 
+ Schlemm’s Canal and Trabecular Outflow 
+ Hydrus Microstent (Ivantis Inc.,) 
+ 2018 
+ A flexible, biocompatible nitinol stent implanted via a clear corneal incision. 
+ Canal Dilation and Trabecular Bypass 
+ Mild-to-moderate OAG 
+ 
+ 
+ Gonioscopy-Assisted Procedures 
+ GATT 
+ Not Device-Dependent 
+ A procedure that utilizes a microcatheter and flexible suture for a 360-degree trabeculotomy. 
+ 360-degree Trabeculotomy 
+ Moderate-to-severe glaucoma 
+ 
+ 
+ Suprachoroidal Outflow 
+ iStent Supra (Glaukos Corporation) 
+ NA 
+ A PES device with a porous titanium coating implanted to facilitate aqueous humor drainage into the suprachoroidal space. 
+ Suprachoroidal Bypass 
+ Moderate-to-severe glaucoma 
+ 
+ 
+ Subconjunctival Shunts 
+ EX-PRESS Glaucoma Filtration Device (Alcon Laboratories) 
+ 2002 
+ Small, stainless-steel shunt that is available in two sizes: P-50 (50 microns) and P-200 (200 microns). 
+ Bypasses the Trabecular Meshwork 
+ Moderate-to-severe glaucoma 
+ 
+ 
+ Xen Gel Stent (Allergan) 
+ 2016 
+ Hydrophilic, porcine-derived gelatin material, implanted to create a new drainage pathway that bypasses the trabecular meshwork. 
+ New Drainage Pathway 
+ Moderate-to-severe glaucoma 
+ 
+ 
+ PreserFlo MicroShunt (Santen) 
+ 2021 
+ A small, flexible SIBS tube diverting aqueous humor from the anterior chamber to the subconjunctival space. 
+ Diverts Aqueous Humor 
+ Moderate-to-severe glaucoma 
+ 
+ 
+ 
+ Open in a new tab 
+ ABiC = Ab Interno Canaloplasty; GATT = gonioscopy-assisted transluminal trabeculotomy; HDFS = high-frequency deep sclerotomy; OAG = open-angle glaucoma; PES = polyethersulfone; NA = not applicable; SIBS = poly(styrene-block-isobutylene-block-styrene). Figure 1. 
+ 
+ Open in a new tab 
+ Illustration depicting the coronal cross-section of the anterior segment of the eye, highlighting the anatomic localization of each minimally invasive glaucoma surgery (MIGS) device category, including subconjunctival shunts, suprachoroidal outflow, as well as Schlemm’s canal targeted and trabecular outflow devices. ABiC: Ab Interno Canaloplasty; GATT: gonioscopy-assisted transluminal trabeculotomy; HDFS: high-frequency deep sclerotomy. 3.1. Trabectome and Kahook Dual Blade 
+ The Trabectome, developed by NeoMedix Corporation, and the Kahook Dual Blade (KDB), developed by New World Medical, have emerged as valuable tools in the management of glaucoma, specifically targeting the trabecular meshwork to improve aqueous humor outflow and consequently reduce IOP [ 15 , 16 , 17 ]. Although both devices share the same goal of enhancing outflow, they employ distinct mechanisms and techniques to achieve this outcome. 
+ The Trabectome, a microelectrocautery device, utilizes high-frequency electrical energy to ablate and remove a strip of the trabecular meshwork and the inner wall of Schlemm’s canal, thereby facilitating aqueous humor outflow directly into the canal [ 15 , 18 ]. This approach minimizes tissue trauma, leading to reduced inflammation and scarring postoperatively. However, compared to other approaches, there is an increased risk of intraoperative blood reflux, which occurs due to the high-frequency ablation and direct communication with the blood-filled Schlemm’s canal. While this reflux often clears spontaneously and does not necessarily affect the postoperative outcome, it may increase the complexity of the intraoperative visual field, potentially influencing surgical ease and duration [ 19 ]. Despite this, studies have reported favorable outcomes with the Trabectome, demonstrating significant IOP reduction and a decrease in the number of glaucoma medications required by patients [ 15 ]. Approved by the FDA in 2004, the Trabectome continues to offer a promising approach for facilitating enhanced aqueous humor outflow in glaucoma patients while simultaneously striving to minimize tissue damage and subsequent inflammatory responses. 
+ The Kahook Dual Blade (KDB), approved in 2015, features a novel dual-sided, pointed tip that enables precise incisions to create a trabecular meshwork window. This surgical instrument lifts and excises a strip of the trabecular meshwork, resulting in an unobstructed flow of aqueous humor into Schlemm’s canal [ 20 ]. The KDB’s unique design allows for minimal collateral damage to surrounding tissues, contributing to faster recovery times and fewer complications. Clinical studies have shown that the KDB not only reduces IOP effectively but also maintains this reduction over time [ 16 , 21 ]. Moreover, the KDB has been found to be safe, with minimal adverse events such as transient hyphema or IOP spikes [ 22 ]. 
+ Both the Trabectome and KDB can be utilized as standalone procedures or in conjunction with phacoemulsification cataract surgery, providing a versatile treatment strategy for patients with mild to moderate glaucoma [ 23 ]. Combining these MIGS techniques with cataract surgery has been reported to yield even greater IOP reduction and a decrease in glaucoma medication dependence, further solidifying the role of these devices in comprehensive glaucoma management [ 24 , 25 ]. 3.2. iStent and iStent Inject 
+ The iStent and iStent Inject, developed by Glaukos Corporation, are MIGS devices designed to enhance aqueous humor outflow and reduce IOP in patients with mild to moderate open-angle glaucoma by bypassing the trabecular meshwork [ 26 , 27 ]. These heparin-coated, L-shaped titanium stents are biocompatible and exhibit excellent long-term stability, minimizing the risk of complications and enhancing patient outcomes. 
+ The iStent, approved by the FDA in 2012, marked the introduction of the first trabecular micro-bypass stent. Implanted through a clear corneal incision during a minimally invasive procedure, the iStent is inserted into Schlemm’s canal to bypass the trabecular meshwork and directly enhance aqueous humor outflow [ 26 ]. Studies have shown that the iStent, whether combined with cataract surgery or not, results in a significant reduction in IOP and the need for ocular hypotensive medications [ 28 , 29 ]. 
+ In response to the success of the iStent, the iStent Inject was developed and approved by the FDA in 2018. This device features a preloaded injector system that allows for the implantation of two stents, providing an increased surface area for aqueous humor outflow and further enhancing IOP reduction [ 27 ]. The iStent Inject, like its predecessor, can be performed as a standalone procedure or in conjunction with cataract surgery. Various studies have shown that the iStent Inject is preferred in terms of safety and efficacy overall, especially with respect to the benefits of the dual-stent approach [ 27 , 30 ]. 
+ Compared to other techniques, both the iStent and iStent Inject have the potential difficulty in implantation due to the small size of the devices. Misplacement or malposition of the stents can lead to suboptimal IOP control [ 31 ]. This necessitates careful and precise surgical technique and experience to ensure correct placement within Schlemm’s canal for optimal performance and patient outcomes. Despite this challenge, when implanted correctly, these devices have proven to be effective and safe options in the management of mild to moderate open-angle glaucoma. 3.3. High-Frequency Deep Sclerotomy 
+ High-frequency deep sclerotomy (HFDS), originally known as sclerothalamotomy ab interno (STT ab interno), aims to reduce IOP by creating microincisions in the sclera using high-frequency electric current, thereby enhancing uveoscleral outflow [ 32 , 33 ]. The HFDS procedure involves the placement of a specialized diathermic probe (Oertli Instrumente) equipped with a high-frequency generator into the suprachoroidal space, creating multiple small incisions in the sclera. These microincisions facilitate the flow of aqueous humor from the anterior chamber to the suprachoroidal space, thereby bypassing the conventional outflow pathways and effectively lowering IOP. The current delivered by the HFDS probe creates microperforations in the sclera without causing any collateral damage to the surrounding tissues, ensuring a minimally invasive and tissue-sparing approach [ 33 , 34 ]. 
+ Initial studies investigating the use of HFDS in glaucoma management have shown encouraging results, with significant reductions in IOP and a favorable safety profile [ 32 , 33 , 35 ]. In addition, HDFS can be combined with cataract surgery while avoiding the risk of implant-related complications and has a relatively short learning curve for surgeons already experienced in glaucoma surgery. However, despite the promising initial results, further large-scale, randomized, controlled trials are necessary to evaluate the long-term safety and efficacy of HFDS. Future research should also focus on identifying the optimal patient population for HFDS and on comparing the performance of HFDS with other established MIGS procedures. 3.4. TRAB360, OMNI, Streamline, and ABiC 
+ Schlemm’s canal targeted procedures have emerged as another category of MIGS, aiming to improve trabecular outflow and decrease IOP by directly targeting and enhancing the function of Schlemm’s canal. These procedures include the TRAB360, OMNI, Streamline, and Ab Interno Canaloplasty (ABiC). 
+ The TRAB360 (Sight Sciences) is an advanced trabeculotomy procedure that offers a minimally invasive approach to enhance aqueous humor outflow by directly targeting Schlemm’s canal. Utilizing a flexible microcatheter, the TRAB360 cannulates and viscodilates Schlemm’s canal, subsequently bypassing the trabecular meshwork. The device, inserted through a clear corneal incision, is carefully advanced to create a 360-degree trabeculotomy. FDA-approved in 2013, TRAB360 has demonstrated promising results in both adult and pediatric OAG by lowering IOP and reducing the need for additional glaucoma medications [ 36 , 37 ]. Its unique design features a highly flexible and maneuverable catheter that enables precise control and access to Schlemm’s canal, translating to reduced surgical time and faster patient recovery. However, the TRAB360 procedure is associated with an increased risk of hyphema due to the circumferential trabeculotomy [ 36 ]. This risk arises from the disruption of collector channels and the potential for blood reflux into the anterior chamber during the procedure. While generally self-limiting, this hyphema may contribute to transient IOP spikes in the immediate postoperative period. Despite this, the TRAB360 has been a valuable tool in the management of glaucoma and has since been replaced in the market by its cousin, the OMNI Surgical System (Sight Sciences). 
+ The OMNI Surgical System (Sight Sciences) is a comprehensive two-step MIGS procedure that effectively combines viscodilation (VISCO360) of Schlemm’s canal and trabeculotomy (TRAB360) to enhance aqueous humor outflow and lower intraocular pressure. The first step involves utilizing a specialized microcatheter to deliver a viscoelastic material into Schlemm’s canal, effectively dilating the canal and the collector channels. Following the viscodilation process, the OMNI device performs a 360-degree trabeculotomy, further enhancing aqueous humor outflow. This integrated handheld system offers a solution that addresses multiple points of outflow resistance in the conventional outflow pathway, resulting in improved surgical outcomes and better management of intraocular pressure. FDA-approved in 2017, the OMNI Surgical System has demonstrated its effectiveness in reducing IOP and minimizing the reliance on glaucoma medications in patients with mild-to-moderate OAG, along with a favorable safety profile and low incidence of complications [ 38 , 39 ]. 
+ Streamline (New World Medical) is a MIGS procedure designed to enhance aqueous humor outflow by targeting Schlemm’s canal through canaloplasty, which involves the cannulation and viscodilation of Schlemm’s canal without performing a trabeculotomy. The device consists of a single-use and disposable stainless-steel cutting inner cannula with a polymer outer sleeve, inserted via a clear corneal incision. As the outer cannula retracts, it creates a 150 μm diameter goniotomy while simultaneously delivering approximately 7 μL of viscoelastic material into Schlemm’s canal, effectively dilating the canal and connected collector channels. This dilation facilitates improved aqueous humor outflow and helps lower IOP in patients with glaucoma. The Streamline device, composed of biocompatible materials, ensures optimal safety and performance during the procedure and allows for extended goniotomies over multiple clock hours as needed. It received FDA approval in 2021, with various clinical trials underway. An interim analysis of a prospective non-randomized trial revealed a significant reduction in mean IOP and number of medications at the 6-month follow-up [ 40 ]. It is suitable for both phakic and pseudophakic eyes. Further research is warranted to evaluate the long-term efficacy, safety, and potential complications associated with the Streamline Surgical System, as well as to compare its outcomes to other MIGS procedures. 
+ Ab Interno Canaloplasty (ABiC, Ellex iScience) aims to enhance aqueous humor outflow and reduce IOP by targeting and viscodilating Schlemm’s canal, the trabecular meshwork, and the distal outflow system, thereby restoring the natural outflow pathways. The ABiC procedure employs a flexible 250 µm fiber optic microcatheter, the iTrack microcatheter system (Ellex iScience), inserted through a clear corneal incision to cannulate dilate the Schlemm’s canal and distal outflow channels with viscoelastic material. This results in improved IOP control with minimal tissue disruption, showing promise as an effective treatment option for mild-to-moderate primary OAG that is relatively low-risk and easy to use [ 41 ]. Numerous early studies have shown favorable reductions in IOP and medications, although additional, large-scale, and long-term research will be necessary to further characterize its efficacy and risk of adverse events [ 42 , 43 ]. 3.5. Hydrus Microstent 
+ The Hydrus Microstent, developed by Ivantis Inc., is a MIGS device designed to improve aqueous humor outflow and reduce IOP by dilating Schlemm’s canal and bypassing the trabecular meshwork [ 44 ]. Approved by the FDA in 2018, the Hydrus Microstent is a flexible, biocompatible nitinol stent that spans approximately 90 degrees of the canal. Implantation of the Hydrus Microstent is performed through a clear corneal incision, typically in conjunction with cataract surgery, which allows for a more efficient and streamlined surgical experience. The device is inserted into Schlemm’s canal using a preloaded, specially designed injector, ensuring precise and accurate placement [ 45 ]. However, there still exists the potential for malposition or migration of the stent, which can occur due to incorrect placement or unexpected postoperative shifts [ 44 ]. While a careful surgical technique can mitigate this risk, it nevertheless represents a specific consideration for surgeons employing this device. 
+ The efficacy and safety of the Hydrus Microstent have been evaluated through numerous clinical trials, including the HORIZON study, a multicenter, randomized controlled trial comparing the outcomes of combined cataract surgery with Hydrus Microstent implantation versus cataract surgery alone [ 46 , 47 ]. The results of the HORIZON study demonstrated that patients in the Hydrus Microstent group achieved durable IOP-lowering effects and reduced medication burden, in addition to lowering the risk of future glaucoma surgeries without increasing the risk of adverse events [ 46 , 47 ]. 
+ While the Hydrus Microstent has shown promising results in terms of IOP reduction and safety profile, it is important to acknowledge the need for long-term follow-up studies to assess the durability of its effects. At five years, however, the implant appears to maintain its IOP-lowering effects without adversely affecting the corneal endothelium or resulting in other complications [ 46 ]. These findings are further supported by observational studies as well [ 48 , 49 ]. Furthermore, the optimal patient population and the role of the Hydrus Microstent in various glaucoma subtypes require further investigation [ 45 , 50 ]. 3.6. Gonioscopy-Assisted Transluminal Trabeculotomy (GATT) 
+ GATT is a MIGS technique that improves aqueous humor outflow by creating a 360-degree or smaller trabeculotomy through an ab interno approach [ 51 ]. This procedure offers a unique advantage over other MIGS techniques, as it does not rely on a specific device or manufacturer. Instead, GATT utilizes a microcatheter and a flexible suture, such as a 5-0 or 6-0 polypropylene monofilament, to facilitate the circumferential unroofing of Schlemm’s canal. The GATT procedure is initiated by creating a clear corneal incision, followed by the introduction of a microcatheter into the anterior chamber. The microcatheter is then inserted into Schlemm’s canal under gonioscopic guidance and carefully threaded circumferentially around the canal. Once the microcatheter tip is visualized in the opposite side of the anterior chamber angle, the suture is tied to the microcatheter and subsequently drawn through the entire length of Schlemm’s canal. The suture is then gently pulled, effectively unroofing the trabecular meshwork and creating up to a 360-degree trabeculotomy [ 51 ]. 
+ GATT has been shown to be a versatile and effective option for managing mild to moderate open-angle glaucoma, including primary OAG, juvenile OAG, and pseudoexfoliative glaucoma [ 52 ]. The procedure can be performed as a standalone intervention or combined with cataract surgery, allowing for a more comprehensive and individualized treatment strategy. Studies have demonstrated significant IOP reduction and reduced reliance on anti-glaucoma medications following GATT, with a favorable safety profile and minimal adverse events such as transient hyphema and IOP spikes [ 53 , 54 ]. While GATT is effective and adaptable, it carries unique complications such as an increased risk of hyphema from the extensive unroofing of Schlemm’s canal [ 55 ]. Typically, these transient events resolve spontaneously or with conservative management, and postoperative IOP spikes are generally well controlled with medication. 
+ Recent advancements in the GATT technique involve modifications to further enhance the procedure’s safety and efficacy. One such innovation is the development of microsurgical instruments specifically designed for GATT, such as illuminated or thermally marked microcatheters, which have the potential to improve procedural outcomes and ease the learning curve for surgeons [ 56 ]. 3.7. iStent Supra and CyPass 
+ The iStent Suprachoroidal Bypass System (iStent Supra) is a MIGS device engineered to harness the suprachoroidal outflow pathway for lowering IOP. This device utilizes the eye’s natural suprachoroidal space as a conduit for aqueous humor drainage, bypassing the conventional trabecular meshwork, which is often the site of increased resistance in glaucomatous eyes. This particular outflow route takes advantage of the pressure gradient between the anterior chamber and the suprachoroidal space, ensuring effective drainage and consequent IOP reduction. 
+ The iStent Supra, developed by Glaukos Corporation, is constructed from biocompatible polyethersulfone (PES) material with a porous titanium coating. It is implanted ab interno through a clear corneal incision and facilitates aqueous humor drainage into the suprachoroidal space. The device’s design and material choice aim to improve biocompatibility, reduce fibrosis, and promote stable implantation [ 57 ]. The iStent Supra has received CE Mark approval in Europe and has shown significant IOP reductions in the majority of patients with OAG [ 58 , 59 ]. Due to its position in the suprachoroidal space, a unique complication could arise in the form of implant obstruction. The suprachoroidal space is a potential space with variable thickness that can be affected by changes in choroidal volume or IOP, which might, in some cases, lead to obstruction of the iStent Supra [ 60 ]. This potential risk should be considered during patient selection, and meticulous surgical technique should be employed to ensure accurate placement of the device. Ongoing clinical trials in the US are underway to further evaluate the device’s efficacy, safety, and potential role in glaucoma management. 
+ Previously, another device, the CyPass, used a similar approach. Developed by Alcon Laboratories, the CyPass was approved by the FDA in 2016 after demonstrating promising IOP reduction and safety profile in initial studies [ 60 , 61 ]. It utilized a polyimide material for its construction. This flexible, tube-like device is designed to be implanted ab interno through a clear corneal incision and placed into the supraciliary space, creating a direct conduit for aqueous humor to bypass the trabecular meshwork and flow into the suprachoroidal space. However, in 2018, the COMPASS-XT study revealed a higher rate of corneal endothelial cell loss in patients with the CyPass compared to those who underwent cataract surgery alone [ 62 , 63 ]. Consequently, Alcon Laboratories voluntarily withdrew the device from the market to further investigate these concerns and refine the device’s design to mitigate potential long-term risks. 
+ The incident involving CyPass emphasizes the critical role that long-term safety and efficacy data play in the development, approval, and post-market surveillance of MIGS devices. It is a reminder that while initial studies can show promise, a complete and accurate understanding of a device’s safety profile and therapeutic potential only emerges over time and with large-scale, diverse use. It also serves as a clear example of the impact that robust post-market surveillance and continuous reassessment can have on patient safety. Alcon’s decision to voluntarily withdraw CyPass from the market in light of new safety concerns sets a precedent for responsiveness and responsibility, which should be the standard across the medical device industry. The comparison between the CyPass and the iStent Supra further highlights the importance of device-specific design and material properties in influencing therapeutic performance and safety profiles. It underscores the need for individualized assessment of each MIGS device and an understanding that while they may share similar mechanisms of action, their distinct attributes can result in differing patient outcomes. 3.8. EX-PRESS Glaucoma Filtration Device, Xen Gel Stent, and PreserFlo MicroShunt 
+ The EX-PRESS Glaucoma Filtration Device, Xen Gel Stent, and the PreserFlo MicroShunt (previously InnFocus MicroShunt) are all minimally invasive devices designed to create subconjunctival drainage pathways for aqueous humor, effectively reducing IOP in patients with glaucoma [ 64 , 65 ]. 
+ The EX-PRESS Glaucoma Filtration Device, developed by Alcon, has been on the market since 2002 and offers a reliable and less invasive alternative to trabeculectomy for the treatment of glaucoma. This device consists of a stainless-steel tube measuring 2.64 mm in length and 400 microns in external diameter [ 65 , 66 ]. There are two models, the P-50 (50 micron lumen) and the P-200 (200 micron lumen). The smaller lumen of the P-50 is designed to provide a more controlled, slower rate of aqueous humor outflow, which may reduce the risk of hypotony. The EX-PRESS device is inserted under a partial-thickness scleral flap, much like in traditional trabeculectomy, to divert aqueous humor from the anterior chamber into the subconjunctival space. After performing a corneal paracentesis, a small partial-thickness scleral flap is created, and the device is inserted into the anterior chamber through the sclera, creating a fistula that allows the aqueous humor to bypass the trabecular meshwork. The scleral flap is then closed with sutures, which can be titrated postoperatively to control the flow of fluid and maintain an optimal IOP [ 65 , 66 ]. 
+ Studies have shown that the EX-PRESS device provides comparable IOP reduction to trabeculectomy but with fewer complications and a more predictable postoperative course [ 67 , 68 , 69 , 70 ]. Specifically, the EX-PRESS device has been associated with less hypotony, choroidal effusion, and hyphema, as well as faster visual recovery. However, it is important to note that long-term success with the EX-PRESS device still requires careful postoperative management, including frequent follow-up visits and potential suture adjustments. Moreover, compared to other devices, its larger size may lead to potential issues with device malposition or extrusion. In cases of malposition, the tube may not correctly divert aqueous humor, which could lead to suboptimal IOP control [ 71 ]. In rare instances, the device can extrude, which necessitates additional surgical intervention [ 72 , 73 , 74 ]. Proper surgical technique and postoperative management can greatly reduce the likelihood of these complications [ 75 ]. 
+ The Xen Gel Stent, manufactured by Allergan, is composed of a hydrophilic, porcine-derived gelatin material that is biocompatible and flexible, with a length of 6 mm and diameters of 45, 63, and 140 microns (Xen 45 is the only version that is currently commercially available) [ 76 ]. The ab interno procedure involves inserting the Xen Gel Stent through a clear corneal incision, positioning it within the trabecular meshwork and extending it into the subconjunctival space. By creating a new drainage pathway that bypasses the trabecular meshwork, the Xen implant facilitates aqueous humor outflow from the anterior chamber to the subconjunctival space, where it is absorbed by the surrounding tissue [ 76 , 77 ]. Approved by the FDA in 2016, the Xen Gel Stent is well suited for patients with moderate to severe glaucoma who may require greater IOP reduction than other MIGS procedures can provide. It can be performed as a standalone procedure or in combination with cataract surgery. Studies with the currently available Xen 45 have shown that it leads to significant reductions in IOP and medication use, both as a solo procedure or in combination with cataract surgery [ 78 , 79 , 80 , 81 , 82 ]. 
+ Intraoperatively, issues such as bleeding or the need for device repositioning may occur. Postoperative complications can include transient hypotony, temporary IOP spikes, or, more rarely, severe outcomes such as endophthalmitis, blebitis, or avascular filtering bleb [ 76 , 83 , 84 ]. In a minority of cases, complications such as implant migration, stent–iris touch, endothelial cell loss, and late wound leak have been reported [ 76 , 85 , 86 , 87 ]. Furthermore, postoperative needling might be required in a significant number of cases, with rates ranging from 30 to 50% [ 76 , 88 , 89 ]. By understanding these potential risks, clinicians can better tailor the management strategies, optimizing the beneficial impact of the Xen Gel Stent in glaucoma treatment. 
+ The PreserFlo MicroShunt, developed by Santen Pharmaceutical Co., Ltd., is a small, flexible tube made of a biocompatible material known as poly(styrene-block-isobutylene-block-styrene), or SIBS, which is designed to minimize inflammation, scarring, and fibrosis [ 90 ]. Measuring 8.5 mm in length with a 70 µm lumen and 350 µm outer diameter, the PreserFlo MicroShunt works by diverting aqueous humor from the anterior chamber to the subconjunctival space, creating a filtration bleb and effectively lowering IOP. The ab externo surgical approach involves a small conjunctival incision and a scleral flap to create a pocket for the device. Once implanted, the device’s distal end is tucked under the conjunctiva and Tenon’s capsule, allowing aqueous humor to flow into the subconjunctival space [ 90 , 91 ]. It also features a 1.1 mm wide fin located 4.5 mm from the anterior tip, ensuring the device remains positioned appropriately and in the proper orientation within the anterior chamber. The PreserFlo MicroShunt received CE Mark approval in Europe in 2012 and was approved by the US FDA in 2021, expanding the array of MIGS options available for glaucoma management. Similar to the Xel Gel Stent, the PreserFlo MicroShunt is particularly suited for patients with moderate to advanced glaucoma who require a more significant IOP reduction than can be achieved with other MIGS procedures. Multiple studies on the PreserFlo Ab-Externo MicroShunt demonstrate its effectiveness in reducing IOP and medication usage in patients with primary OAG [ 91 ]. Surgical success rates have ranged from 70 to 95% at 1 to 3 years postoperatively, with transient complications such as hypotony and choroidal detachments being reported but generally resolving spontaneously [ 92 , 93 , 94 , 95 ]. Lower doses of mitomycin-C (MMC) and a diagnosis of secondary OAG have been associated with higher surgical failure rates. 
+ A comparative study between the Xen and MicroShunt implants augmented with MMC in patients with primary OAG found that both implants effectively lowered IOP and reduced the need for postoperative IOP-lowering medications [ 96 ]. After 24 months of follow-up, qualified success rates were 73% for Xen implantation and 79% for MicroShunt implantation, with mean IOP dropping to the low teens in both groups. The incidence of hypotony and hypotony-related complications was low in both groups [ 96 ]. Another study using anterior segment optical coherence tomography (AS-OCT) revealed that XEN implantation resulted in a higher proportion of subconjunctival separation type blebs initially, which transitioned to a uniform pattern over time, while the PreserFlo MicroShunt had a higher prevalence of multiple internal layer blebs, which became microcystic multiform blebs over time [ 97 ]. These differences in bleb morphology may have implications for the long-term success and need for revisions. Further research is needed to determine the optimal concentration of MMC and to establish the long-term effects of the implant materials, in addition to investigating the clinical significance of these variations in bleb characteristics. 
+ The EX-PRESS Glaucoma Filtration Device, Xen Gel Stent, and PreserFlo MicroShunt all represent subconjunctival shunts that create a new outflow pathway for aqueous humor, hence decreasing IOP. However, their design, implantation procedure, and resulting bleb morphology are different. The choice between these devices should be guided by individual patient needs and the surgeon’s familiarity with the device and technique. Patients with moderate to advanced glaucoma who have failed medical or laser treatment are generally considered for these procedures, with particular consideration for the risk-benefit ratio of each device. The EX-PRESS device may be a good option for patients with a higher risk of hypotony or who require a rapid recovery of visual acuity. The Xen Gel Stent may be considered in combination with cataract surgery or for patients with less severe glaucoma. The PreserFlo MicroShunt may be favored in patients who are at high risk for filtration surgery failure or who have shown intolerance to anti-metabolites. 
+ As the landscape of glaucoma treatment continues to evolve, a thoughtful and patient-centered approach will remain at the heart of successful disease management. This ongoing journey toward refining our surgical armamentarium not only emphasizes the importance of continued innovation in glaucoma care but also underscores the need for robust, long-term clinical trials to inform future practice. 4. Postoperative Course and Outcomes 
+ MIGS procedures generally have a favorable postoperative course, with most patients experiencing rapid recovery and minimal discomfort compared to traditional glaucoma surgeries [ 1 , 2 , 6 ]. The minimally invasive nature of these procedures, combined with the preservation of conjunctival and scleral tissue, contributes to a reduced risk of complications and a shorter healing period. 
+ Following MIGS, patients can usually resume their normal activities within a few days to a week, although they may be advised to avoid strenuous activities, swimming, or exposure to dust and debris for a short period. Postoperative care typically includes a regimen of topical antibiotics and anti-inflammatory medications, as well as regular follow-up visits to monitor IOP and assess the surgical outcome [ 98 ]. 
+ The primary outcome of MIGS is the reduction in IOP, which is essential for halting or slowing the progression of glaucomatous optic neuropathy. While MIGS has demonstrated moderate IOP-lowering efficacy, it may not achieve the same magnitude of IOP reduction as traditional glaucoma surgeries, such as trabeculectomy and glaucoma drainage devices [ 1 , 2 , 6 ]. However, the IOP reduction achieved with MIGS is often sufficient for the management of mild to moderate OAG [ 11 , 60 ]. 
+ Another critical outcome of MIGS is its safety profile. MIGS is generally associated with fewer complications and a lower risk of vision-threatening events compared to traditional glaucoma surgeries [ 1 , 2 , 6 ]. Common complications of MIGS include transient hyphema, IOP spikes, and device-related issues, such as malposition or migration. Serious complications, such as hypotony, infection, or suprachoroidal hemorrhage, are relatively rare [ 9 ]. 
+ Lastly, MIGS can have a positive impact on patients’ quality of life. By achieving IOP control and reducing the need for multiple glaucoma medications, MIGS can alleviate the burden of complex medication regimens and their associated side effects, leading to improved treatment adherence and patient satisfaction [ 99 , 100 , 101 ]. 5. Complications 
+ As MIGS has become an increasingly popular treatment option, particularly for patients with mild-to-moderate OAG, it is essential to discuss potential complications associated with these procedures. Although MIGS is generally considered to have a favorable safety profile compared to traditional glaucoma surgeries, complications can still occur [ 102 ]. This section will explore the various complications that may arise following MIGS, their prevalence, and management strategies to mitigate potential risks. 
+ One of the most frequently encountered complications following MIGS is transient hyphema, which is typically self-limited and resolves spontaneously within one to two weeks [ 1 , 2 , 6 , 103 ]. Patients may be advised to use a topical steroid to reduce inflammation and speed up the resolution of the hyphema. In rare cases, persistent or recurrent hyphema may require additional intervention, such as anterior chamber washout. 
+ Another common complication is an early postoperative IOP spike, which may occur due to inflammation, retained viscoelastic material, or device obstruction [ 102 , 103 , 104 ]. These IOP spikes are generally transient and can be managed with topical IOP-lowering medications or, in some cases, oral carbonic anhydrase inhibitors [ 9 ]. If the IOP spike persists or is severe, further surgical intervention may be necessary. 
+ Device-related complications can vary depending on the specific MIGS procedure performed. These complications may include malposition, migration, or obstruction of the device [ 1 , 2 , 6 , 102 ]. In some cases, a malpositioned or migrated device may require repositioning or removal, while device obstruction may be managed by flushing the device or administering IOP-lowering medications. 
+ Although less common, serious complications can also occur following MIGS. Hypotony, characterized by a significant reduction in IOP, may lead to choroidal detachment, maculopathy, or optic disc swelling [ 103 , 104 ]. Management of hypotony may involve observation, adjustment of anti-inflammatory medications, or, in severe cases, surgical intervention to address the underlying cause. Infections, such as endophthalmitis, are rare but potentially vision-threatening complications following MIGS [ 9 , 105 ]. Prompt diagnosis and treatment with intravitreal antibiotics and possible surgical intervention are crucial to prevent permanent vision loss. Suprachoroidal hemorrhage is another rare complication that may result from excessive intraoperative bleeding [ 106 ]. In most cases, the hemorrhage is self-limiting and can be managed conservatively. However, in cases of significant or persistent bleeding, surgical intervention may be required [ 9 ]. 
+ While MIGS has a relatively favorable safety profile compared to traditional glaucoma surgeries, complications can still occur [ 107 ]. Clinicians must be aware of the potential complications and their appropriate management strategies to ensure optimal patient outcomes. Moreover, patient selection and proper surgical technique play vital roles in minimizing the risk of complications and maximizing the benefits of MIGS for patients with glaucoma. 6. Conclusions 
+ MIGS has transformed the landscape of glaucoma management by providing a safer and less invasive alternative to traditional glaucoma surgeries. These innovative devices and procedures target various anatomical pathways to enhance aqueous humor outflow and effectively reduce IOP. The array of MIGS options, ranging from trabecular meshwork bypass stents to subconjunctival and suprachoroidal shunts, allows for tailored treatment strategies based on the specific needs and disease severity of each patient [ 108 ]. 
+ While MIGS has demonstrated promising results, it is essential to recognize that long-term outcomes and the sustainability of IOP control require further investigation. Comparative studies and randomized controlled trials will be crucial in establishing the relative efficacy and safety of MIGS devices and techniques compared to traditional glaucoma surgeries and medical management. Moreover, future research should focus on refining existing technologies and exploring new mechanisms of action to address the diverse etiologies of glaucoma and cater to the specific needs of patients who may not benefit from current MIGS options. 
+ Ultimately, the growing field of MIGS signifies a paradigm shift in glaucoma management, offering hope for improved quality of life and visual outcomes for patients with this potentially blinding condition [ 109 , 110 ]. By continuing to expand our understanding of these devices, procedures, and surgical techniques, clinicians and researchers can further enhance patient care and strive towards the ultimate goal of preserving vision in those affected by glaucoma. Author Contributions 
+ Conceptualization, D.J.M.; methodology, M.B. and D.J.M.; data curation, M.B. and D.J.M.; writing—original draft preparation, M.B.; writing—review and editing, M.B. and D.J.M.; supervision, D.J.M. All authors have read and agreed to the published version of the manuscript. Institutional Review Board Statement 
+ The study was conducted in accordance with the Declaration of Helsinki. Ethical review and approval were waived for this study due to its design as a literature review. Informed Consent Statement 
+ Not applicable. Data Availability Statement 
+ No new data were created or analyzed in this study. Data sharing is not applicable to this article. Conflicts of Interest 
+ The authors declare no conflict of interest. Funding Statement 
+ This research received no external funding. Footnotes 
+ Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content. References 
+ 
+ 
+ 1. Lavia C., Dallorto L., Maule M., Ceccarelli M., Fea A.M. Minimally-invasive glaucoma surgeries (MIGS) for open angle glaucoma: A systematic review and meta-analysis. PLoS ONE. 2017;12:e0183142. doi: 10.1371/journal.pone.0183142. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. SooHoo J.R., Seibold L.K., Radcliffe N.M., Kahook M.Y. Minimally invasive glaucoma surgery: Current implants and future innovations. Can. J. Ophthalmol. 2014;49:528–533. doi: 10.1016/j.jcjo.2014.09.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Mathew D.J., Buys Y.M. Minimally invasive glaucoma surgery: A critical appraisal of the literature. Annu. Rev. Vis. Sci. 2020;6:47–89. doi: 10.1146/annurev-vision-121219-081737. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Conlon R., Saheb H., Ahmed I.I.K. Glaucoma treatment trends: A review. Can. J. Ophthalmol. 2017;52:114–124. doi: 10.1016/j.jcjo.2016.07.013. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Ahmed I.I.K. MIGS and the FDA: What’s in a Name? Ophthalmology. 2015;122:1737–1739. doi: 10.1016/j.ophtha.2015.06.022. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Bloom P., Au L. “Minimally Invasive Glaucoma Surgery (MIGS) Is a Poor Substitute for Trabeculectomy”—The Great Debate. Ophthalmol. Ther. 2018;7:203–210. doi: 10.1007/s40123-018-0135-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Vijaya L., Manish P., Ronnie G., Shantha B. Management of complications in glaucoma surgery. Indian J. Ophthalmol. 2011;59:S131–S140. doi: 10.4103/0301-4738.73689. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Gedde S.J., Chen P.P., Heuer D.K., Singh K., Wright M.M., Feuer W.J., Schiffman J.C., Shi W., Group P.T.V.T.S. The primary tube versus trabeculectomy study: Methodology of a multicenter randomized clinical trial comparing tube shunt surgery and trabeculectomy with mitomycin C. Ophthalmology. 2018;125:774–781. doi: 10.1016/j.ophtha.2017.10.037. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Yook E., Vinod K., Panarelli J.F. Complications of micro-invasive glaucoma surgery. Curr. Opin. Ophthalmol. 2018;29:147–154. doi: 10.1097/ICU.0000000000000457. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Bicket A.K., Le J.T., Azuara-Blanco A., Gazzard G., Wormald R., Bunce C., Hu K., Jayaram H., King A., Otárola F. Minimally invasive glaucoma surgical techniques for open-angle glaucoma: An overview of cochrane systematic reviews and network meta-analysis. JAMA Ophthalmol. 2021;139:983–989. doi: 10.1001/jamaophthalmol.2021.2351. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Agrawal P., Bradshaw S.E. Systematic literature review of clinical and economic outcomes of micro-invasive glaucoma surgery (MIGS) in primary open-angle glaucoma. Ophthalmol. Ther. 2018;7:49–73. doi: 10.1007/s40123-018-0131-0. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Lee G.A., Porter A.J., Vincent R.A., Makk J., Vincent S.J. Combined phacoemulsification and microinvasive glaucoma surgery in comparison to phacoemulsification alone for open angle glaucoma. Eye. 2020;34:312–318. doi: 10.1038/s41433-019-0459-2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Chang E.K., Gupta S., Chachanidze M., Hall N., Chang T.C., Valle S.-D. Safety and efficacy of microinvasive glaucoma surgery with cataract extraction in patients with normal-tension glaucoma. Sci. Rep. 2021;11:8910. doi: 10.1038/s41598-021-88358-6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Young C.E.C., Seibold L.K., SooHoo J.R., Kahook M.Y. Microinvasive Glaucoma Surgeries and When to Use Them. Adv. Ophthalmol. Optom. 2019;4:223–243. doi: 10.1016/j.yaoo.2019.04.018. [ DOI ] [ Google Scholar ] 
+ 
+ 15. Minckler D.S., Baerveldt G., Alfaro M.R., Francis B.A. Clinical results with the Trabectome for treatment of open-angle glaucoma. Ophthalmology. 2005;112:962–967. doi: 10.1016/j.ophtha.2004.12.043. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Dorairaj S.K., Seibold L.K., Radcliffe N.M., Aref A.A., Jimenez-Román J., Lazcano-Gomez G.S., Darlington J.K., Mansouri K., Berdahl J.P. 12-month outcomes of goniotomy performed using the kahook dual blade combined with cataract surgery in eyes with medically treated glaucoma. Adv. Ther. 2018;35:1460–1469. doi: 10.1007/s12325-018-0755-4. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Francis B.A., See R.F., Rao N.A., Minckler D.S., Baerveldt G. Ab interno trabeculectomy: Development of a novel device (Trabectome™) and surgery for open-angle glaucoma. J. Glaucoma. 2006;15:68–73. doi: 10.1097/01.ijg.0000196653.77836.af. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Jordan J.F., Wecker T., van Oterendorp C., Anton A., Reinhard T., Boehringer D., Neuburger M. Trabectome surgery for primary and secondary open angle glaucomas. Graefe’s Arch. Clin. Exp. Ophthalmol. 2013;251:2753–2760. doi: 10.1007/s00417-013-2500-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Maeda M., Watanabe M., Ichikawa K. Evaluation of trabectome in open-angle glaucoma. J. Glaucoma. 2013;22:205–208. doi: 10.1097/IJG.0b013e3182311b92. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Seibold L.K., SooHoo J.R., Ammar D.A., Kahook M.Y. Preclinical investigation of ab interno trabeculectomy using a novel dual-blade device. Am. J. Ophthalmol. 2013;155:524–529.e2. doi: 10.1016/j.ajo.2012.09.023. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Berdahl J.P., Gallardo M.J., ElMallah M.K., Williamson B.K., Kahook M.Y., Mahootchi A., Rappaport L.A., Lazcano-Gomez G.S., Díaz-Robles D., Dorairaj S.K. Six-month outcomes of goniotomy performed with the Kahook dual blade as a stand-alone glaucoma procedure. Adv. Ther. 2018;35:2093–2102. doi: 10.1007/s12325-018-0803-0. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Barry M., Alahmadi M.W., Alahmadi M., AlMuzaini A., AlMohammadi M. The safety of the Kahook dual blade in the surgical treatment of glaucoma. Cureus. 2020;12:e6682. doi: 10.7759/cureus.6682. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Fliney G.D., Kim E., Sarwana M., Wong S., Tai T.Y.T., Liu J., Sarrafpour S., Chadha N., Teng C.C. Kahook Dual Blade versus Trabectome (KVT): Comparing Outcomes in Combination with Cataract Surgery. Clin. Ophthalmol. 2023;17:145–154. doi: 10.2147/OPTH.S391527. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Okeke C.O., Miller-Ellis E., Rojas M. Trabectome success factors. Medicine. 2017;96:e7061. doi: 10.1097/MD.0000000000007061. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Iwasaki K., Kakimoto H., Orii Y., Arimura S., Takamura Y., Inatani M. Long-term outcomes of a Kahook Dual Blade procedure combined with phacoemulsification in Japanese patients with open-angle glaucoma. J. Clin. Med. 2022;11:1354. doi: 10.3390/jcm11051354. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Nichamin L.D. Glaukos iStent® trabecular micro-bypass. Middle East Afr. J. Ophthalmol. 2009;16:138. doi: 10.4103/0974-9233.56227. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Shalaby W.S., Jia J., Katz L.J., Lee D. iStent inject: Comprehensive review. J. Cataract Refract. Surg. 2021;47:385–399. doi: 10.1097/j.jcrs.0000000000000325. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Malvankar-Mehta M.S., Chen Y.N., Iordanous Y., Wang W.W., Costella J., Hutnik C.M. iStent as a solo procedure for glaucoma patients: A systematic review and meta-analysis. PLoS ONE. 2015;10:e0128146. doi: 10.1371/journal.pone.0128146. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Arriola-Villalobos P., Martínez-de-la-Casa J.M., Díaz-Valle D., Fernández-Pérez C., García-Sánchez J., García-Feijoó J. Combined iStent trabecular micro-bypass stent implantation and phacoemulsification for coexistent open-angle glaucoma and cataract: A long-term study. Br. J. Ophthalmol. 2012;96:645–649. doi: 10.1136/bjophthalmol-2011-300218. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Hooshmand J., Rothschild P., Allen P., Kerr N.M., Vote B.J., Toh T.Y. Minimally invasive glaucoma surgery: Comparison of iStent with iStent inject in primary open angle glaucoma. Clin. Exp. Ophthalmol. 2019;47:898–903. doi: 10.1111/ceo.13526. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Shalaby W.S., Lam S.S., Arbabi A., Myers J.S., Moster M.R., Kolomeyer N.N., Razeghinejad R., Shukla A.G., Hussein T.R., Eid T.M. iStent versus iStent inject implantation combined with phacoemulsification in open angle glaucoma. Indian J. Ophthalmol. 2021;69:2488. doi: 10.4103/ijo.IJO_308_21. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Abushanab M.M.I., El-Shiaty A., El-Beltagi T., Hassan Salah S. The efficacy and safety of high-frequency deep sclerotomy in treatment of chronic open-angle glaucoma patients. BioMed Res. Int. 2019;2019:1850141. doi: 10.1155/2019/1850141. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Pajic B., Cvejic Z., Mansouri K., Resan M., Allemann R. High-frequency deep sclerotomy, a minimal invasive Ab interno glaucoma procedure combined with cataract surgery: Physical properties and clinical outcome. Appl. Sci. 2019;10:218. doi: 10.3390/app10010218. [ DOI ] [ Google Scholar ] 
+ 
+ 34. Pajic B., Pallas G., Heinrich G., Böhnke M. A novel technique of ab interno glaucoma surgery: Follow-up results after 24 months. Graefe’s Arch. Clin. Exp. Ophthalmol. 2006;244:22–27. doi: 10.1007/s00417-005-0041-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Kontic M., Todorovic D., Zecevic R., Vulovic T.S. High-Frequency Deep Sclerotomy as Adjunctive Therapy in Open-Angle Glaucoma Patients. Ophthalmic Res. 2023;66:339–344. doi: 10.1159/000527677. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Sarkisian S.R., Mathews B., Ding K., Patel A., Nicek Z. 360 ab-interno trabeculotomy in refractory primary open-angle glaucoma. Clin. Ophthalmol. 2019;13:161. doi: 10.2147/OPTH.S189260. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Areaux R.G., Jr., Grajewski A.L., Balasubramaniam S., Brandt J.D., Jun A., Edmunds B., Shyne M.T., Bitrian E. Trabeculotomy ab interno with the Trab360 device for childhood glaucomas. Am. J. Ophthalmol. 2020;209:178–186. doi: 10.1016/j.ajo.2019.10.014. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Vold S.D., Williamson B.K., Hirsch L., Aminlari A.E., Cho A.S., Nelson C., Dickerson J.E., Jr. Canaloplasty and trabeculotomy with the OMNI system in pseudophakic patients with open-angle glaucoma: The ROMEO study. Ophthalmol. Glaucoma. 2021;4:173–181. doi: 10.1016/j.ogla.2020.10.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Klabe K., Kaymak H. Standalone trabeculotomy and viscodilation of Schlemm’s canal and collector channels in open-angle glaucoma using the OMNI surgical system: 24-month outcomes. Clin. Ophthalmol. 2021;15:3121–3129. doi: 10.2147/OPTH.S325394. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Lazcano-Gomez G., Garg S.J., Yeu E., Kahook M.Y. Interim analysis of STREAMLINE® surgical system clinical outcomes in eyes with glaucoma. Clin. Ophthalmol. 2022;16:1313–1320. doi: 10.2147/OPTH.S358871. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Körber N. Ab interno canaloplasty for the treatment of glaucoma: A case series study. Spektrum Der Augenheilkd. 2018;32:223. doi: 10.1007/s00717-018-0416-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Gallardo M.J., Supnet R.A., Ahmed I.I.K. Viscodilation of Schlemm’s canal for the reduction of IOP via an ab-interno approach. Clin. Ophthalmol. 2018;12:2149–2155. doi: 10.2147/OPTH.S177597. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Davids A.-M., Pahlitzsch M., Boeker A., Winterhalter S., Maier-Wenzel A.-K., Klamann M. Ab interno canaloplasty (ABiC)—12-month results of a new minimally invasive glaucoma surgery (MIGS) Graefe’s Arch. Clin. Exp. Ophthalmol. 2019;257:1947–1953. doi: 10.1007/s00417-019-04366-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Laspas P., Pfeiffer N. Minimally Invasive Glaucoma Surgery. Springer; Singapore: 2021. Hydrus Microstent; pp. 59–71. [ Google Scholar ] 
+ 
+ 45. Samet S., Ong J.A., Ahmed I.I.K. Hydrus microstent implantation for surgical management of glaucoma: A review of design, efficacy and safety. Eye Vis. 2019;6:32. doi: 10.1186/s40662-019-0157-y. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Ahmed I.I.K., De Francesco T., Rhee D., McCabe C., Flowers B., Gazzard G., Samuelson T.W., Singh K., HORIZON Investigators Long-term outcomes from the HORIZON randomized trial for a Schlemm’s canal microstent in combination cataract and glaucoma surgery. Ophthalmology. 2022;129:742–751. doi: 10.1016/j.ophtha.2022.02.021. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Ahmed I.I.K., Rhee D.J., Jones J., Singh I.P., Radcliffe N., Gazzard G., Samuelson T.W., Ong J., Singh K., HORIZON Investigators Three-year findings of the HORIZON trial: A Schlemm canal microstent for pressure reduction in primary open-angle glaucoma and cataract. Ophthalmology. 2021;128:857–865. doi: 10.1016/j.ophtha.2020.11.004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Salimi A., Kassem R., Santhakumaran S., Harasymowycz P. Three-Year Outcomes of a Schlemm Canal Microstent (Hydrus Microstent) with Concomitant Phacoemulsification in Open-Angle Glaucoma. Ophthalmol. Glaucoma. 2023;6:137–146. doi: 10.1016/j.ogla.2022.08.012. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Holmes D.P., Clement C.I., Nguyen V., Healey P.R., Lim R., White A., Yuen J., Lawlor M. Comparative study of 2-year outcomes for Hydrus or iStent inject microinvasive glaucoma surgery implants with cataract surgery. Clin. Exp. Ophthalmol. 2022;50:303–311. doi: 10.1111/ceo.14048. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Coventon J., Cronin B. The Hydrus Microstent in Pseudophakic Patients With Medically Refractory Open-angle Glaucoma. J. Glaucoma. 2021;30:192–194. doi: 10.1097/IJG.0000000000001694. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Grover D.S., Godfrey D.G., Smith O., Feuer W.J., de Oca I.M., Fellman R.L. Gonioscopy-assisted transluminal trabeculotomy, ab interno trabeculotomy: Technique report and preliminary results. Ophthalmology. 2014;121:855–861. doi: 10.1016/j.ophtha.2013.11.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Aboalazayem F., Elhusseiny A.M., El Sayed Y.M. Gonioscopy-Assisted Transluminal Trabeculotomy: A Review. Curr. Eye Res. 2023;48:329–338. doi: 10.1080/02713683.2022.2084113. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Guo C.-Y., Qi X.-H., Qi J.-M. Systematic review and meta-analysis of treating open angle glaucoma with gonioscopy-assisted transluminal trabeculotomy. Int. J. Ophthalmol. 2020;13:317. doi: 10.18240/ijo.2020.02.17. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Sharkawi E., Lindegger D.J., Artes P.H., Lehmann-Clarke L., El Wardani M., Misteli M., Pasquier J., Guarnieri A. Outcomes of gonioscopy-assisted transluminal trabeculotomy in pseudoexfoliative glaucoma: 24-month follow-up. Br. J. Ophthalmol. 2021;105:977–982. doi: 10.1136/bjophthalmol-2020-315954. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Ćwiklińska-Haszcz A., Żarnowski T., Wróbel-Dudzińska D., Kosior-Jarecka E. The Efficacy and Safety of the GATT Procedure in Open-Angle Glaucoma—6-Month Results. Int. J. Environ. Res. Public Health. 2023;20:2759. doi: 10.3390/ijerph20032759. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Grover D.S., Fellman R.L. Gonioscopy-assisted transluminal trabeculotomy (GATT): Thermal suture modification with a dye-stained rounded tip. J. Glaucoma. 2016;25:501–504. doi: 10.1097/IJG.0000000000000325. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Hill R.A., Haffner D., Voskanyan L. Surgical Innovations in Glaucoma. Springer; New York, NY, USA: 2014. The iStent® MIGS Family: iStent®, iStent Inject®, and iStent Supra®; pp. 147–156. [ Google Scholar ] 
+ 
+ 58. Junemann A. Twelve-month outcomes following ab interno implantation of suprachoroidal stent and postoperative administration of travoprost to treat open angle glaucoma; Proceedings of the 31st Congress of the European Society of Cataract and Refractive Surgeons; Amsterdam, The Netherlands. 5 October 2013. [ Google Scholar ] 
+ 
+ 59. Meyers J., Katz L. Open angle glaucoma treated with a suprachoroidal stent and topical travoprost; Proceedings of the 23rd Annual American Glaucoma Society Meeting; San Francisco, CA, USA. 28 February–3 March 2013. [ Google Scholar ] 
+ 
+ 60. Saheb H., Ahmed I.I.K. Micro-invasive glaucoma surgery: Current perspectives and future directions. Curr. Opin. Ophthalmol. 2012;23:96–104. doi: 10.1097/ICU.0b013e32834ff1e7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Hoeh H., Vold S.D., Ahmed I.K., Anton A., Rau M., Singh K., Chang D.F., Shingleton B.J., Ianchulev T. Initial clinical experience with the CyPass micro-stent: Safety and surgical outcomes of a novel supraciliary microstent. J. Glaucoma. 2016;25:106–112. doi: 10.1097/IJG.0000000000000134. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Reiss G., Clifford B., Vold S., He J., Hamilton C., Dickerson J., Lane S. Safety and effectiveness of CyPass supraciliary micro-stent in primary open-angle glaucoma: 5-year results from the COMPASS XT study. Am. J. Ophthalmol. 2019;208:219–225. doi: 10.1016/j.ajo.2019.07.015. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Lass J.H., Benetz B.A., He J., Hamilton C., Von Tress M., Dickerson J., Lane S. Corneal endothelial cell loss and morphometric changes 5 years after phacoemulsification with or without CyPass Micro-Stent. Am. J. Ophthalmol. 2019;208:211–218. doi: 10.1016/j.ajo.2019.07.016. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Green W., Lind J.T., Sheybani A. Review of the Xen gel stent and InnFocus MicroShunt. Curr. Opin. Ophthalmol. 2018;29:162–170. doi: 10.1097/ICU.0000000000000462. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Salim S. Ex-PRESS glaucoma filtration device—Surgical technique and outcomes. Int. Ophthalmol. Clin. 2011;51:83–94. doi: 10.1097/IIO.0b013e31821e5b82. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Salim S. The role of the Ex-PRESS glaucoma filtration device in glaucoma surgery. Semin. Ophthalmol. 2013;28:180–184. doi: 10.3109/08820538.2013.771197. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Chan J.E., Netland P.A. EX-PRESS Glaucoma Filtration Device: Efficacy, safety, and predictability. Med. Devices Evid. Res. 2015;8:381–388. doi: 10.2147/MDER.S63350. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Netland P.A., Sarkisian S.R., Jr., Moster M.R., Ahmed I.I.K., Condon G., Salim S., Sherwood M.B., Siegfried C.J. Randomized, prospective, comparative trial of EX-PRESS glaucoma filtration device versus trabeculectomy (XVT study) Am. J. Ophthalmol. 2014;157:433–440.e3. doi: 10.1016/j.ajo.2013.09.014. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. de Jong L., Lafuma A., Aguadé A.-S., Berdeaux G. Five-year extension of a clinical trial comparing the EX-PRESS glaucoma filtration device and trabeculectomy in primary open-angle glaucoma. Clin. Ophthalmol. 2011;5:527–533. doi: 10.2147/OPTH.S18565. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Dahan E., Ben Simon G., Lafuma A. Comparison of trabeculectomy and Ex-PRESS implantation in fellow eyes of the same patient: A prospective, randomised study. Eye. 2012;26:703–710. doi: 10.1038/eye.2012.13. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Khouri A.S., Khan M.N., Fechtner R.D., Vold S.D. Technique for removal of malpositioned Ex-PRESS glaucoma device. J. Glaucoma. 2014;23:435–436. doi: 10.1097/IJG.0b013e31827b1540. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Tavolato M., Babighian S., Galan A. Spontaneous Extrusion of a Stainless Steel Glaucoma Drainage Implant (Ex-PRESS) SAGE Publications Sage UK; London, UK: 2006. [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Song Y.J., Kim S., Yoon G.J. Impending extrusion of Ex-PRESS shunt treated by shunt-position adjustment: A case report. BMC Ophthalmol. 2018;18:4. doi: 10.1186/s12886-017-0665-2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Garg S.J., Kanitkar K., Weichel E., Fischer D. Trauma-induced extrusion of an Ex-PRESS glaucoma shunt presenting as an intraocular foreign body. Arch. Ophthalmol. 2005;123:1270–1272. doi: 10.1001/archopht.123.9.1270. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Nicolai M., Franceschi A., Pelliccioni P., Pirani V., Mariotti C. EX-PRESS glaucoma filtration device: Management of complications. Vision. 2020;4:39. doi: 10.3390/vision4030039. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Fea A.M., Durr G.M., Marolo P., Malinverni L., Economou M.A., Ahmed I. XEN® gel stent: A comprehensive review on its use as a treatment option for refractory glaucoma. Clin. Ophthalmol. 2020;14:1805–1832. doi: 10.2147/OPTH.S178348. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Vera V.I., Horvath C. Surgical Innovations in Glaucoma. Springer; Berlin/Heidelberg, Germany: 2014. XEN gel stent: The solution designed by AqueSys®; pp. 189–198. [ DOI ] [ Google Scholar ] 
+ 
+ 78. Tan S., Walkden A., Au L. One-year result of XEN45 implant for glaucoma: Efficacy, safety, and postoperative management. Eye. 2018;32:324–332. doi: 10.1038/eye.2017.162. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Grover D.S., Flynn W.J., Bashford K.P., Lewis R.A., Duh Y.-J., Nangia R.S., Niksch B. Performance and safety of a new ab interno gelatin stent in refractory glaucoma at 12 months. Am. J. Ophthalmol. 2017;183:25–36. doi: 10.1016/j.ajo.2017.07.023. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. De Gregorio A., Pedrotti E., Russo L., Morselli S. Minimally invasive combined glaucoma and cataract surgery: Clinical results of the smallest ab interno gel stent. Int. Ophthalmol. 2018;38:1129–1134. doi: 10.1007/s10792-017-0571-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Hengerer F.H., Kohnen T., Mueller M., Conrad-Hengerer I. Ab interno gel implant for the treatment of glaucoma patients with or without prior glaucoma surgery: 1-year results. J. Glaucoma. 2017;26:1130–1136. doi: 10.1097/IJG.0000000000000803. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Widder R.A., Dietlein T.S., Dinslage S., Kühnrich P., Rennings C., Rössler G. The XEN45 Gel Stent as a minimally invasive procedure in glaucoma surgery: Success rates, risk profile, and rates of re-surgery after 261 surgeries. Graefe’s Arch. Clin. Exp. Ophthalmol. 2018;256:765–771. doi: 10.1007/s00417-018-3899-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Sng C.C., Wang J., Hau S., Htoon H.M., Barton K. XEN-45 collagen implant for the treatment of uveitic glaucoma. Clin. Exp. Ophthalmol. 2018;46:339–345. doi: 10.1111/ceo.13087. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Olgun A., Imamoglu S., Karapapak M., Düzgün E., Kaçar H. Endophthalmitis after XEN gel stent implantation: 2 cases. J. Glaucoma. 2018;27:e191–e194. doi: 10.1097/IJG.0000000000001076. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Dervenis N., Mikropoulou A.M., Dervenis P., Lewis A. Dislocation of a previously successful XEN glaucoma implant into the anterior chamber: A case report. BMC Ophthalmol. 2017;17:148. doi: 10.1186/s12886-017-0540-1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Fea A.M., Spinetta R., Cannizzo P.M.L., Consolandi G., Lavia C., Aragno V., Germinetti F., Rolle T. Evaluation of bleb morphology and reduction in IOP and glaucoma medication following implantation of a novel gel stent. J. Ophthalmol. 2017;2017:9364910. doi: 10.1155/2017/9364910. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Karimi A., Lindfield D., Turnbull A., Dimitriou C., Bhatia B., Radwan M., Gouws P., Hanifudin A., Amerasinghe N., Jacob A. A multi-centre interventional case series of 259 ab-interno Xen gel implants for glaucoma, with and without combined cataract surgery. Eye. 2019;33:469–477. doi: 10.1038/s41433-018-0243-8. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Midha N., Rao H.L., Mermoud A., Mansouri K. Identifying the predictors of needling after XEN gel implant. Eye. 2019;33:353–357. doi: 10.1038/s41433-018-0206-0. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Midha N., Gillmann K., Chaudhary A., Mermoud A., Mansouri K. Efficacy of needling revision after XEN gel stent implantation: A prospective study. J. Glaucoma. 2020;29:11–14. doi: 10.1097/IJG.0000000000001394. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Gambini G., Carlà M.M., Giannuzzi F., Caporossi T., De Vico U., Savastano A., Baldascino A., Rizzo C., Kilian R., Caporossi A. PreserFlo® MicroShunt: An overview of this minimally invasive device for open-angle glaucoma. Vision. 2022;6:12. doi: 10.3390/vision6010012. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. Saeed E., Gołaszewska K., Dmuchowska D.A., Zalewska R., Konopińska J. The PreserFlo MicroShunt in the Context of Minimally Invasive Glaucoma Surgery: A Narrative Review. Int. J. Environ. Res. Public Health. 2023;20:2904. doi: 10.3390/ijerph20042904. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. Barberá M.I., Martínez-Galdón F., Caballero-Magro E., Rodríguez-Piñero M., Tañá-Rivero P. Efficacy and Safety of the Preserflo Microshunt With Mitomycin C for the Treatment of Open Angle Glaucoma. J. Glaucoma. 2022;31:557. doi: 10.1097/IJG.0000000000002052. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 93. Batlle J.F., Fantes F., Riss I., Pinchuk L., Alburquerque R., Kato Y.P., Arrieta E., Peralta A.C., Palmberg P., Parrish R.K. Three-year follow-up of a novel aqueous humor microshunt. J. Glaucoma. 2016;25:e58–e65. doi: 10.1097/IJG.0000000000000368. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 94. Schlenker M.B., Durr G.M., Michaelov E., Ahmed I.I.K. Intermediate outcomes of a novel standalone ab externo SIBS microshunt with mitomycin C. Am. J. Ophthalmol. 2020;215:141–153. doi: 10.1016/j.ajo.2020.02.020. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 95. Beckers H.J., Aptel F., Webers C.A., Bluwol E., Martínez-de-la-Casa J.M., García-Feijoó J., Lachkar Y., Méndez-Hernández C.D., Riss I., Shao H. Safety and effectiveness of the PRESERFLO® MicroShunt in primary open-angle glaucoma: Results from a 2-year multicenter study. Ophthalmol. Glaucoma. 2022;5:195–209. doi: 10.1016/j.ogla.2021.07.008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 96. Scheres L.M., Kujovic-Aleksov S., Ramdas W.D., de Crom R.M., Roelofs L.C., Berendschot T.T., Webers C.A., Beckers H.J. XEN® Gel Stent compared to PRESERFLO™ MicroShunt implantation for primary open-angle glaucoma: Two-year results. Acta Ophthalmol. 2021;99:e433–e440. doi: 10.1111/aos.14602. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 97. Gambini G., Carlà M.M., Giannuzzi F., Boselli F., Grieco G., Caporossi T., De Vico U., Savastano A., Baldascino A., Rizzo C. Anterior Segment-Optical Coherence Tomography Bleb Morphology Comparison in Minimally Invasive Glaucoma Surgery: XEN Gel Stent vs. PreserFlo MicroShunt. Diagnostics. 2022;12:1250. doi: 10.3390/diagnostics12051250. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 98. Kyari F., Abdull M.M. The basics of good postoperative care after glaucoma surgery. Community Eye Health. 2016;29:29. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 99. Radcliffe N. The case for standalone micro-invasive glaucoma surgery: Rethinking the role of surgery in the glaucoma treatment paradigm. Curr. Opin. Ophthalmol. 2022;34:138–145. doi: 10.1097/ICU.0000000000000927. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 100. Al Habash A., Nagshbandi A.A. Quality of life after combined cataract and minimally invasive glaucoma surgery in glaucoma patients. Clin. Ophthalmol. 2020;14:3049–3056. doi: 10.2147/OPTH.S276124. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 101. Samuelson T.W., Singh I.P., Williamson B.K., Falvey H., Lee W.C., Odom D., McSorley D., Katz L.J. Quality of life in primary open-angle glaucoma and cataract: An analysis of VFQ-25 and OSDI from the iStent inject® pivotal trial. Am. J. Ophthalmol. 2021;229:220–229. doi: 10.1016/j.ajo.2021.03.007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 102. Durr G.M., Samet S., Marolo P., Ahmed I.I.K. Albert and Jakobiec’s Principles and Practice of Ophthalmology. Springer; Berlin/Heidelberg, Germany: 2020. Minimally Invasive Glaucoma Surgery (MIGS) pp. 1–67. [ DOI ] [ Google Scholar ] 
+ 
+ 103. Nichani P., Popovic M.M., Schlenker M.B., Park J., Ahmed I.I.K. Microinvasive glaucoma surgery: A review of 3476 eyes. Surv. Ophthalmol. 2021;66:714–742. doi: 10.1016/j.survophthal.2020.09.005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 104. Chen D.Z., Sng C.C. Safety and efficacy of microinvasive glaucoma surgery. J. Ophthalmol. 2017;2017:3182935. doi: 10.1155/2017/3182935. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 105. de Las Matas R.B.-S., Such-Irusta L., Alfonso-Muñoz E.A., Mascarós-Mena H., Lanzagorta-Aresti A., Mataix-Boronat J., Font-Julià C. Late-onset Endophthalmitis after XEN45® Implantation: A retrospective case series and literature review. J. Curr. Glaucoma Pract. 2021;15:153. doi: 10.5005/jp-journals-10078-1316. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 106. Prokosch-Willing V., Vossmerbaeumer U., Hoffmann E., Pfeiffer N. Suprachoroidal bleeding after XEN gel implantation. J. Glaucoma. 2017;26:e261–e263. doi: 10.1097/IJG.0000000000000795. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 107. Vinod K., Gedde S.J. Safety profile of minimally invasive glaucoma surgery. Curr. Opin. Ophthalmol. 2021;32:160–168. doi: 10.1097/ICU.0000000000000731. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 108. Dhingra D., Bhartiya S. Evaluating glaucoma surgeries in the MIGS context. Rom. J. Ophthalmol. 2020;64:85. doi: 10.22336/rjo.2020.18. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 109. Carter L., Herndon L.W. Minimally Invasive Glaucoma Surgery: Past, Present, and Future. Adv. Ophthalmol. Optom. 2023;8:239–248. doi: 10.1016/j.yaoo.2023.03.005. [ DOI ] [ Google Scholar ] 
+ 
+ 110. Pereira I.C., van de Wijdeven R., Wyss H.M., Beckers H.J., den Toonder J.M. Conventional glaucoma implants and the new MIGS devices: A comprehensive review of current options and future directions. Eye. 2021;35:3202–3221. doi: 10.1038/s41433-021-01595-x. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ Associated Data 
+ This section collects any data citations, data availability statements, or supplementary materials included in this article. 
+ Data Availability Statement 
+ No new data were created or analyzed in this study. Data sharing is not applicable to this article.

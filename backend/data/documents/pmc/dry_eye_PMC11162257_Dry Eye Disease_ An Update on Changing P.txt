@@ -1,0 +1,412 @@
+Source: PubMed Central (PMC)
+PMCID: PMC11162257
+Title: Dry Eye Disease: An Update on Changing Perspectives
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11162257/
+Year: 2024
+Disease: dry_eye
+Priority: 1
+============================================================
+
+Cureus . 2024 May 9;16(5):e59985. doi: 10.7759/cureus.59985 
+ 
+ 
+ Dry Eye Disease: An Update on Changing Perspectives on Causes, Diagnosis, and Management 
+ Nikita Dash 
+ Nikita Dash 
+ 
+ 1 
+Ophthalmology, Sir Ganga Ram Hospital, New Delhi, IND 
+ Find articles by Nikita Dash 
+ 
+ 
+ 1, ✉ , Deepak Choudhury 
+ Deepak Choudhury 
+ 
+ 2 
+Ophthalmology, Maharaja Krishna Chandra Gajapati (MKCG) Medical College, Berhampur, IND 
+ Find articles by Deepak Choudhury 
+ 
+ 
+ 2 
+ 
+ Editors: Alexander Muacevic , John R Adler 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 
+Ophthalmology, Sir Ganga Ram Hospital, New Delhi, IND 
+ 
+ 2 
+Ophthalmology, Maharaja Krishna Chandra Gajapati (MKCG) Medical College, Berhampur, IND 
+ 
+ 
+ ✉ 
+Nikita Dash ndash18@gmail.com 
+ 
+ 
+ 
+ ✉ Corresponding author. 
+ 
+ 
+ 
+ Accepted 2024 May 8; Collection date 2024 May. 
+ 
+ Copyright © 2024, Dash et al. 
+ This is an open access article distributed under the terms of the Creative Commons Attribution License CC-BY 4.0., which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC11162257  PMID: 38854318 
+ 
+ Abstract 
+ Dry eye disease is a common clinical problem encountered by ophthalmologists worldwide. Interest in this entity has increased in recent years due to the consequences it has on the ocular surface after any surface procedure. With changing times, several new factors have come to light that can influence this disease. The effect of the COVID-19 pandemic has also been greatly felt, with a range of causes, starting from increased screen work to inflammatory processes, exacerbating the condition in many. With changes in the concepts of the etiopathogenesis of the disease, a paradigm shift has taken place in the approaches to treatment. More researchers are in favor of a new tear film-oriented approach that tries to localize the disease to a single component in the tear film. Innovation of newer techniques for the treatment of meibomian gland disease has also made its foray into clinical ophthalmology. Newer drug formulations and molecules are underway to better treat the inflammatory component of the disease. Many other receptors and targets for the treatment of dry eyes are being researched. This review hopes to provide a succinct, narrative summary of the relevant research on dry eye disease to date to increase awareness about the nature and future course of this disease and its management. 
+ Keywords: clinical update, ocular surface, meibomian gland disease, tear film, dry eye Introduction and background 
+ Dry eye disease (DED) is commonly encountered by ophthalmologists worldwide. In 2017, the Tear Film and Ocular Surface Society International Dry Eye Workshop II (TFOS DEWS II) defined dry eye as “a multi- factorial disease of the ocular surface characterized by a loss of homeostasis of the tear film, and accompanied by ocular symptoms, in which tear-film instability and hyperosmolarity, ocular surface inflammation and damage, and neurosensory abnormalities play etiological roles” [ 1 ]. While there has been extensive discussion about the etiopathogenesis of DED, recent consensus in Japan and Asia has attributed tear film instability as the core mechanism behind the disease. The concept of clarifying each cause by focusing on every layer of the tear film is referred to as a tear film-oriented diagnosis [ 2 ]. Treatment based on such a diagnosis is referred to as tear film-oriented therapy [ 3 , 4 ]. Recent research has changed the understanding of DED; thus, this review attempts to shed light on newer concepts related to its risk factors and diagnosis as well as changing perspectives on the management of DED. Review 
+ Risk factors and their role in disease development 
+ Tear film hyperosmolarity and subsequent inflammatory changes remain the core mechanisms of DED; thus, factors affecting these play an important role in the development of the disease [ 1 ]. A recent literature review confirmed the role of increased tear film osmolarity in the pathogenesis of DED and outlined various causes behind it [ 5 ]. 
+ Environment and Its Contribution 
+ Although the role of environmental factors (e.g. humidity) in DED is often debated, exposure to certain pollutants is known to exacerbate the disease [ 5 , 6 ]. Pollutants such as nitrogen dioxide (NO 2 ), sulfur dioxide (SO 2 ), ozone (O 3 ), and particulate matter (PM) can cause ocular surface symptoms [ 6 ]. Both outdoor and indoor pollutants have been found to be associated with the symptoms of DED. The effect of reactive gases on DED has not been studied in detail [ 7 ]. 
+ In general, high outdoor humidity has been shown to be protective against dry eye symptoms [ 8 ]. However, exposure to sunlight, windy conditions, and high altitude can negatively impact the ocular surface [ 9 , 10 ]. 
+ Various ocular conditions have been known to cause or aggravate dry eye due to their effect on tear film osmolarity. Sjogren’s syndrome is an autoimmune disease that is largely associated with aqueous-deficient dry eye. The involvement of the lacrimal gland and underlying meibomian gland dysfunction (MGD) play major roles in its pathogenesis. Increased inflammatory markers, such as interleukins and changes in tear film glycoproteins, have also been noted [ 11 - 13 ]. 
+ MGD is a type of posterior blepharitis that results in unbalanced lipid secretion, which leads to tear film instability and evaporative dry eye. Many factors, including age, sex, microbial infections, parasitic infestations, and topical medications, are known to influence MGD [ 14 , 15 ]. Ocular surface disorders, such as pterygium and graft-versus-host disease (GVHD), can cause changes in tear composition. A recent proteomic analysis found higher levels of increased expression of keratin proteins in pterygium and GVHD tears, which may be related to increased epithelial keratinization. Similarly, tears from keratoconus-affected eyes showed increased expression of proteins related to immune responses [ 16 ]. Pseudoexfoliation syndrome can alter goblet cell activity and mucin production, leading to increased tear osmolarity [ 17 ]. 
+ Systemic Diseases and Dry Eye 
+ Diabetes is commonly associated with DED, and the prevalence of DED in diabetics may be underestimated. Pathogenesis can be attributed to several factors. Injury to the lacrimal gland, its blood vessels, and/or the corneal nerve following prolonged hyperglycemia can lead to a decrease in aqueous production [ 18 , 19 ], resulting in increased tear osmolarity and blinking abnormalities. The severity of dry eye is often related to the duration of diabetes. Studies have also found that dry eye is more prevalent in patients with diabetic retinopathy and that the severity of DED has a positive correlation with retinopathy [ 20 - 22 ]. 
+ Thyroid dysfunction is another cause of dry eye. A mixed mechanism of evaporation and aqueous deficiency has been proposed. Palpebral fissure widening, eyelid retraction, and incomplete blinking lead to inadequate tear distribution and excess tear evaporation [ 23 ]. In addition, a wider palpebral fissure results in a shorter tear film break-up time (TBUT), leading to an unstable tear film [ 24 ]. Autoimmune mechanisms cause decreased tear production. Autoantibodies against thyroid-stimulating hormone receptors bind to similar receptors on the lacrimal gland, leading to its impairment and aqueous deficiency [ 25 ]. 
+ Recent studies have found decreased tear volumes in patients suffering from metabolic syndrome. Metabolic syndrome encompasses a group of risk factors for diabetes, hypertension, hyperlipidemia, and other lifestyle diseases. Increased oxidative stress remains the major underlying mechanism of metabolic syndrome [ 26 , 27 ]. 
+ Apart from Sjogren’s syndrome, other connective tissue and immune-mediated diseases such as rheumatoid arthritis, systemic sclerosis, systemic lupus erythematosus, and fibromyalgia can present with dry eye [ 28 , 29 ]. Autonomic dysfunction in patients with Parkinson’s disease can also cause dry eye [ 30 ]. 
+ Lifestyle and Mental Health 
+ Recent studies have found a significant association between TBUT and a sedentary lifestyle, reinforcing the idea that DED is more prevalent among those who exercise less. Prolonged periods of inactivity can predispose individuals to other risk factors and systemic diseases associated with DED [ 31 , 32 ]. In addition, office workers often spend the majority of their time in front of visual display terminals, which results in sympathetic dominance and decreased tear production [ 33 , 34 ], and prolonged visual tasks can result in incomplete or decreased blinks, thereby causing tear film instability and DED [ 35 ]. 
+ Several studies have found an association between sleep disorders and DED. It is thought that ocular discomfort and inflammatory processes may lead to pain, causing sleep disruption that aggravates symptoms [ 36 , 37 ]. However, it has yet to be established whether poor sleep leads to DED or vice versa. In addition to decreased sleep duration (less than or equal to five hours/night), symptomatic DED patients are more likely to experience psychological stress and have a history of depressed mood [ 37 ]. Galor et al. proposed a mechanism of central sensitization in patients with depression and anxiety that may affect how pain is perceived [ 37 ]; these patients may react more sensitively to ocular sensations as compared to the control group [ 38 , 39 ]. Subjective happiness has also been found to be positively correlated with dry eye symptoms [ 40 ]. 
+ Ocular Surgeries 
+ Cataract surgeries have long been considered to aggravate dry eye symptoms. It is believed that corneal incisions made during cataract surgery can release inflammatory mediators (HLA-DR and CD3), similar to the inflammatory process in a dry eye subject [ 41 ]. While phacoemulsification cataract surgery does not induce or exacerbate DED in the general population, it can transect the corneal nerves, which may lead to reduced reflex tearing [ 42 ]. Preexisting comorbidities, such as MGD and diabetes, play a major role in increased dry eye symptoms following cataract surgery [ 42 ]. Manual small-incision cataract surgery results in more symptoms due to the size of the incision involved, which results in the denervation of a greater part of the cornea [ 43 ]. 
+ Recently, Ju et al. have demonstrated that femtosecond laser-assisted cataract surgery (FLACS) can lead to tear film instability by changing the corneal curvature prior to surgery, which can damage the limbal stem cells and conjunctival goblet cells [ 43 ]. Photorefractive surgeries often lead to iatrogenic corneal nerve damage, changes in corneal shape, and damage to conjunctival goblet cells, all of which cause decreased tear production, impaired wettability, and increased tear osmolarity, thus resulting in dry eye symptoms [ 44 , 45 ]. Although dry eye symptoms have been reported with the implantable collamer lens technique, it is moderate compared to laser vision correction [ 46 ]. Small incision lenticule extraction (SMILE) reported better TBUT and Ocular Surface Disease Index (OSDI) scores as compared to laser-assisted in situ keratomileusis (LASIK). Significant differences in neuromediators and proteomics of the tear film have been observed between the two groups even when ocular surface signs are comparable [ 47 , 48 ]. 
+ Changes in corneal sensitivity, tear film instability, and goblet cell loss have been attributed to the DED symptoms in strabismus patients post-surgery. Exposure to a larger area of bulbar conjunctiva opposite the side of deviation and distortion of the normal relationship between the lids and the globe leads to microtrauma, which can cause symptoms prior to surgery [ 49 ]. A recent study showed an increased concentration of inflammatory tear mediators (IL-6 and TNF-α) in concomitant exotropia, which explains the prevalence of dry eyes and tear film instability in squint patients before surgery [ 50 ]. 
+ Effect of COVID-19 
+ The COVID-19 pandemic heralded a new era of DED, primarily due to increased screen usage and lifestyle changes. Napoli et al. coined the term “quarantine dry eye” while discussing lifestyle factors such as diet, hydration, sleep deprivation, and other psychological aspects pertaining to restrictions imposed by the pandemic [ 51 ]. Besides, the use of screens doubled, leading to increased eye strain and dry eye symptoms [ 52 ]. Moreover, the mandatory usage of masks contributed to worsening dry eye symptoms, especially in females and subjects with prior DED [ 53 ]. 
+ Changes to the ocular surface after a COVID-19 infection can also cause DED. Compared to healthy eyes, in vivo confocal microscopy (IVCM) in COVID-19 survivors has established the loss of small corneal nerve fiber and increased dendritic cell density at a mean of 3.7 months after diagnosis [ 54 ]. Moreover, the ocular surface also serves as an entry point for SARS-CoV-2, since angiotensin-converting enzyme 2 and transmembrane protease serine 2 were detected in conjunctiva and cornea, probably upregulated by the inflammatory process [ 55 ]. Patients with long COVID may also present with worsening MGD and ocular surface staining scores, with higher viral loads and supplementary oxygen use being major risk factors in them. Bilateral dacryoadenitis, wherein fibrosis and obliteration of lacrimal gland ducts have been observed, has been reported as a post-COVID complication [ 56 ]. This may play a role in the pathogenesis of DED in COVID-19 survivors. 
+ Other Causes of DED 
+ While advancing age is a well-known risk factor for DED, sex and hormones also play important roles [ 57 , 58 ]. The recent TFOS DWES II report not only agrees with the fact that females are more affected than males but also establishes that DED is more likely to affect women at a younger age than men. Several anatomical and psychological factors, such as pain perception and mental health, are culpable [ 58 ].The report also acknowledges the role of hormones in the development of DED. Androgens are an important regulator of the ocular surface and adnexa, especially the meibomian gland; thus, their deficiency may trigger a non-autoimmune type of DED known as primary lacrimal gland deficiency, with associated MGD [ 58 ]. Other hormones, such as thyroid hormones, hormones of hypothalamic pituitary axis, and steroid hormones, have also been shown to influence the ocular surface and adnexa, although a clear mechanism is yet to be established [ 58 ]. 
+ The use of contact lens and topical medications with preservatives can also prove detrimental to the ocular surface, leading to increased tear osmolarity and subsequent dry eye symptoms [ 5 , 59 ]. Other risk factors include Asian race, allergies, vitamin A deficiency, and essential fatty acid deficiency [ 60 ]. 
+ Changing concepts in diagnosis and advancements in diagnostics 
+ Traditionally, dry eye has been diagnosed based on clinical findings from Schirmer’s test, TBUT, staining of cornea and conjunctiva, and standardized scoring systems. However, recent research on tear film break-up analysis patterns, tear film osmolarity, and biomarkers has provided deeper insights into the diagnosis of DED. 
+ Tear-Film-Oriented Diagnosis and Fluorescein Break-Up Patterns 
+ The Japanese and Asian dry eye societies consider an unstable tear film at the core of dry eye mechanisms; thus, the concept of tear-film-oriented diagnosis was introduced to clarify the cause by focusing on each layer of the tear film. Yokoi et al. have described fluorescein break-up patterns that not only aid in diagnosis but also detect which tear film layer is responsible for DED. The break up patterns judge the abnormalities in the tear film using a physical theory [ 3 , 4 ]. When there is upward movement of the eyelid during eye opening, capillary suction from the upper tear meniscus sucks the aqueous tears up leading to the spread of aqueous layer on the cornea. However, the surface pressure gradient on the tear-film lipid layer pulls the aqueous tear layer resulting in the formation of the precorneal tear film. The various tear-film break-up patterns are area break, spot break, line break, dimple break, and random break, which are described in Table 1 [ 3 ]. 
+ Table 1. A summary of different patterns of tear-film break-up and their mechanisms as described by Yokoi et al. 
+ 
+ 
+ Type of break 
+ Description 
+ 
+ 
+ Area break 
+ Fluorescein break-up is observed during eye opening when aqueous tear volume is severely reduced 
+ 
+ 
+ Spot break 
+ Characteristic spot-like shape noted immediately after eye opening. This is a result of impaired wettability due to mucin deficiency 
+ 
+ 
+ Line break 
+ It occurs after eye opening due to drag and suction mechanisms. It is characterized by a linear break in the lower part of the cornea in mild-to-moderate aqueous deficiency 
+ 
+ 
+ Dimple break 
+ A vertical line-like break in the tear film towards the end of the upward movement of fluorescein-stained tears. It is caused by a mild-to-moderate impairment of wettability due to mucin deficiency 
+ 
+ 
+ Random break 
+ It is caused by the increased evaporation of tears. This results in the thinning of the aqueous layer that causes a random break after the movement of the fluorescein-stained tear film is complete. 
+ 
+ 
+ Open in a new tab This is a very basic interpretation of DED types based on fluorescein break-up patterns. Yokoi et al. described more complex and modified forms based on physical theory and the forces involved [ 61 ]. It is believed that the practical use of such a classification might make it popular in the years to come. 
+ Tear Film Osmolarity and Its Measurements 
+ The osmolarity of the tear film explains homeostasis involving tear production, drainage, absorption, and evaporation. Presently, a threshold of 316 mOsm/L is used to differentiate between mild and moderate/severe dry eye, whereas a threshold of 308 mOsm/L is considered sensitive enough to distinguish normal eyes from those with DED [ 62 ]. The tear film osmolarity measurements show great variability in patients with DED. Therefore, an average reading is considered more reliable than a single measurement [ 63 ]. 
+ There are three primary techniques for the measurement of tear film osmolarity: electrical impedance, vapor pressure, and freezing pressure osmometry [ 64 ]. Devices such as the TearLab osmometer and I-Pen® use the electrical impedance technique, which measures tear film osmolarity based on the number of charged particles therein. The Wescor 5520 Model follows the concept of vapor pressure; an advantage is the ability to measure osmolarity in small tear film samples. Freezing pressure osmometers are the gold standard, as they can accurately measure osmolarity in very small tear volumes. However, they are highly operator-dependent and require extensive apparatus, and a single measurement takes about 15 minutes [ 64 ]. 
+ Concept of Functional Visual Acuity 
+ Dry eye patients usually complain of visualization difficulties despite good visual acuity. This has led to the idea of dynamic measurement of visual acuity in such patients. Goto et al. first proposed the measurement of visual acuity by forced eye opening under topical anesthesia and termed it “functional visual acuity” (FVA) [ 65 ]. They concluded that FVA decreased despite good conventional visual acuity. Manual measurements, however, resulted in inter-test variations and drawbacks associated with the timing of measurements [ 64 ]. 
+ Presently, the FVA measurement system provides a non-invasive alternative to continuous visual acuity monitoring under natural blinks without the use of topical anesthesia. In addition to its use in the diagnosis and screening of DED, it has been of great help in judging the effect of dry eye treatments, as improved FVA has been noticed in those undergoing treatment [ 66 ]. However, numerous factors can influence FVA assessment, and future research in this matter is required to explain abnormal FVA measurements [ 66 ]. 
+ Non-invasive Imaging Modalities 
+ To avoid disturbances caused by fluorescein instillation, lipid layer interferometry, a grid xeroscope, and a tear film stability analysis system have been used to study tear film stability. The tear film stability analysis system uses corneal topography. Goto et al. proposed capturing images immediately and 10 seconds after eye opening to study the changes in surface regularity and asymmetry. Later, analysis using aberrometry was introduced to detect higher-order aberrations in DED [ 65 , 66 ]. Newer instruments, such as the Oculus Keratograph 5M, not only measure TBUT but can also evaluate meibomian glands and measure tear meniscus height (TMH) [ 67 ]. 
+ Anterior segment-optical coherence tomography (AS-OCT) has also emerged as a valuable tool for measuring TMH and assessing tear volume. A dry eye diagnosis is made with a sensitivity of 67% and a specificity of 81% when 0.3 mm of the inferior AS-OCT meniscus height is the cut-off. Its use in the assessment of TMH following therapeutic procedures has also been described [ 68 , 69 ]. 
+ Another instrument that has been developed for the measurement of tears is the strip meniscometry tube. The commercially available Strip meniscometry tube (SMTube, Echo Electricity, Fukushima, Japan) uses a non-woven rayon and pulp material sandwiched between polyethylene material as the absorber. It can measure the retained tear volume in the tear meniscus in five seconds. Its cut-off value for diagnosing dry eye is considered as 4 mm, with 93% sensitivity and 73% specificity. The validity of the measurements has been correlated alongside AS-OCT values [ 66 , 70 ]. 
+ While impression cytology has been used to study the cellular morphology of the ocular surface in the past, today, IVCM provides a non-invasive alternative. The histological trademark of DED in a typical conjunctival epithelium is squamous metaplasia, which has been detected by both impression cytology and IVCM without any significant differences. Although a morphological study of goblet cells did not yield consistent results, certain parameters related to MGD that could aid in the diagnosis and study of the disease have been detected with greater sensitivity and specificity with ICVM [ 66 ]. 
+ Advances in MGD Diagnosis 
+ In addition to meibography and confocal microscopy for MGD diagnosis, recent developments in lipid layer interferometry have further expanded the armamentarium for MGD diagnosis. These include the LipiView® (TearScience Inc., Morrisville, NC, USA) and DR-1α® (Kowa, Nagoya, Japan). LipiView quantifies lipid layer thickness in the lower one-third of cornea, while the DR-1α assesses the lipid layer and evaluates the entire cornea, including the central region and tear film dynamics. In addition to facilitating MGD diagnosis, these devices help assess disease severity and create treatment plans for subjects with MGD [ 66 ]. 
+ Tear 
+ Film Biomarkers 
+ Because inflammation lies at the root of DED pathogenesis, several studies have attempted to find a suitable biological marker that can be measured and quantified to aid in the diagnosis and/or prognosis of the disease. Proteins such as S100A8, S100A9, lipocalin, and α-1 antitrypsin have been observed in greater quantities in the tears of dry eye patients than those of controls. Increased expression of interleukins, protease inhibitors, and tumor necrosis factor-α has also been detected. It has also been found that matrix metalloproteinase-9 (MMP-9) found in ocular inflammation can cause DED. One study has established that certain chemokine levels are positively correlated with TBUT, basal tear secretion, goblet cell density, tear clearance rate, and keratoepitheliopathy score [ 64 ]. However, no consensus on the ideal biomarker has been reached. 
+ Advances in dry eye treatment 
+ Following a tear-film-oriented diagnosis, therapy to treat DED caters to the patient needs and is tear-film-oriented. The therapeutics already in use is outlined in Table 2 . 
+ Table 2. Treatment options in use for DED. 
+ 
+ DED: dry eye disease; MGD: meibomian gland dysfunction. 
+ Table credit: Author Nikita Dash. 
+ 
+ 
+ 
+ Aqueous layer treatment 
+ Mucin layer treatment 
+ Anti-inflammatory 
+ 
+ 
+ CMC 0.5% or 1% 
+ Rebamipide 
+ Cyclosporine A 0.05% 
+ 
+ 
+ Sodium hyaluronate 0.1 or 0.3% 
+ Diquafosol sodium 3% 
+ Autologous serum drops 
+ 
+ 
+ Diquafosol sodium 3% 
+ ----- 
+ Preservative-free corticosteroids 
+ 
+ 
+ Polyvinyl alcohol 
+ ----- 
+ MGD treatment 
+ 
+ 
+ Punctum plugs 
+ ----- 
+ Omega-3 fatty acids 
+ 
+ 
+ Open in a new tab Progress in research and development of new drugs has added to the arsenal against DED. 
+ Advances in Therapeutics Targeting Meibomian Gland 
+ Devices for warm compresses: While conventional warm compresses have been proven to be effective for the treatment of MGD by liquefying meibum and changing lipid layer composition, several modifications have been attempted. Some studies have suggested the addition of menthol to improve TBUT; however, the amount of improvement could not be clearly attributed to menthol. The wetness of warm compresses has also been debated, with Arita et al. theorizing that increased wetness leads to a cooling effect that can undermine the benefits of warm compresses. Other devices, such as MGDRx eye bags, EyeGenie masks, and Blephasteam, have also shown better results compared to conventional towel compresses. Their success has been attributed to their ability to maintain an appropriate warm temperature of the eyelids for a longer duration [ 71 ]. 
+ Thermal pulsation technique: LipiFlowTM (TearScience Inc., Morrisville, NC, USA) is a device that combines meibomian gland expression with heat in an in-office MGD treatment technique known as vector thermal pulse therapy. The device applies heat to the palpebral conjunctiva of the upper and lower eyelids, while providing pulsatile external pressure. Studies have shown that this device can alleviate symptoms for up to three years [ 66 , 71 ]. The MiBo Thermoflo (MiBo Medical Group, Dallas, TX, USA) also uses the same principle, but ultrasound energy is used for massaging. However, it does not raise the temperature to more than 40°, which is optimum for meibum liquefaction. Randomized trials are awaited in this regard [ 72 , 73 ]. 
+ Probing of meibomian gland: A novel technique of meibomian gland probing using a bevelled, 2 mm stainless steel probe into meibomian orifices was first described by Maskin in 2010. Patients reported immediate relief that lasted for four weeks. In 2018, post-probing meibography revealed the lengthening of shortened glands and the partial restoration of faded glands with the possibility of new gland growth [ 74 , 75 ]. Syed and Sutula described a new method using an operating microscope [ 76 ]. While the symptoms of MGD have been found to be relieved by both methods, they tend to reappear after an average of 38.2 weeks after initial treatment. Therefore, multiple sessions of probing are necessary for long-term success [ 71 ]. 
+ Intense pulsed light therapy: It helps to liquefy the meibum for easy expression, retard bacterial and parasitic growth on eyelids, induce thermolysis of telangiectatic vessels around the gland, and stimulate cell activity in meibomian glands that promotes wound healing [ 71 ]. Studies have shown that IPL treatment is effective against MGD-associated dry eye of varying severity, although at least three treatment sessions two to four weeks apart are required for desired results. It has recently been approved by the United States Food and Drug Administration for dry eye treatment. 
+ Topical and oral medications: Topical and oral azithromycin formulations have been effectively in use for the treatment of bacterial colonization and inflammatory processes associated with MGD. Research has shown that the differentiation of human meibomian gland epithelial cells (HMGECs) is induced by the cationic amphiphilic nature of azithromycin. Similarly, solithromycin, a newer macrolide, has been found to be more potent in stimulating HMGECs; however, clinical trials are pending. Oral tetracyclines also show anti-inflammatory property owing to their bacteriostatic nature and ability to reduce MMP-9 on the corneal surface [ 71 ].Other topical medications that have been studied include Manuka honey, lipid-containing eye drops, and perfluorohexyloctane eye drops, all of which have been shown to be effective as adjunctive therapy for MGD-related dry eye with few local side effects [ 71 ]. They act by improving meibum quality, gland expressivity, and alleviating the symptoms of blepharitis [ 71 ]. 
+ Other devices treating MGD: BlephExTM and TearCare® System (Sight Sciences, Menlo Park, CA, USA) are two recently developed in-office treatment devices that aim to provide symptomatic relief against MGD. The BlephExTM is a handheld device that spins a disposable, single-use medical-grade microsponge to remove debris from lashes and lids and helps in the treatment of blepharitis. Although Connor et al. demonstrated improvement in symptoms four weeks after treatment, a trial is yet to be conducted [ 77 , 78 ]. The TearCare® System (Sight Sciences, Menlo Park, CA, USA) places single-use, flexible iLidTM applicators over each tarsal plate, which deliver constant, regulated heat at 41-45°C over a 12-minute treatment time. This helps in meibum liquefaction and effective expression. A randomized controlled trial is awaited; however, manufacturer-sponsored trials have shown improvement in symptoms [ 78 ]. 
+ Newer Drugs and Potential Therapeutics 
+ Lifitegrast: In July 2016, lifitegrast 5% became the second FDA-approved topical ocular anti-inflammatory medication for the treatment of DED. It blocks interactions between intercellular adhesion molecule-1 (ICAM-1) and lymphocyte function-associated antigen-1 (LFA-1), which are instrumental in T-cell activation and migration. The results of phase III clinical trials (OPUS 1-3) demonstrated improvement in both signs and symptoms of DED. Improved primary symptom outcome of change from baseline eye dryness score (EDS) within 14 days and effect sustained till study endpoint of 84 days. Further study is needed to determine which patients respond best to lifitegrast and whether concomitant use of lifitegrast with topical corticosteroids or cyclosporine can result in faster symptomatic relief [ 78 , 79 ]. 
+ Lacritin: Ocular-specific glycoproteins secreted primarily by acinar cells of the lacrimal gland increase basal tear secretion. Studies have shown that lacritin levels are significantly decreased in patients with Sjogren’s syndrome as compared to healthy controls [ 80 ]. The efficacy of lacritin in humans was established in 2021, although dosing and duration of administration have yet to be finalized. 
+ Lubricin: Lubricin (PRG4) is a mucin-like glycoprotein that is expressed by the normal ocular surface and suppressed by inflammatory cytokines. It reduces friction between the cornea and the conjunctiva and eyelid. With regard to symptomatic relief, research has shown that lubricin (150 mcg/mL) significantly outperformed sodium hyaluronate (0.18%) in moderately DEDs [ 81 ]. A phase-II trial was completed in the United States by Novartis. 
+ Thymosin ß4: Thymosin ß4 is a G-actin-binding protein that improves epithelial healing and downregulates pro-inflammatory cytokines. Sosne et al. first reported the use of topical thymosin ß4 (RGN-259) for the treatment of DED [ 82 ]. In 2018, a head-to-head comparison of RGN-259 versus prescription agents including cyclosporine, lifitegrast, and diquafosol was done in a murine model. The RGN-259 drops performed comparably or better [ 83 ]. RGN-259 is currently the subject of a 700-patient phase 3 clinical trial in the United States and has demonstrated safety in the treatment of DED consistent with previous clinical trials [ 84 ]. 
+ Higher concentration cyclosporine: Eye drops with a higher concentration of cyclosporine (CsA) than Restasis® have been approved in Europe, Japan, and other countries. Phase II/III results, reported by Tauber et al., demonstrate an earlier onset of action in the 0.09% formulation with similar safety and tolerability profiles. A phase III clinical trial is currently underway for SecieraTM (Sun Pharma, Mumbai, India), which has a CsA concentration almost twice that of Restasis® (0.09% vs. 0.05%) [ 78 , 85 ]. 
+ Amniotic membrane extract eye drops: Amniotic membrane extract eye drops (AMEED) are proposed to have growth factors, cytokines, and collagens that promote corneal wound healing, inhibit fibroblast activity, and decrease inflammation on and within the ocular surface. A variety of products that are marketed for the treatment of DED are available without FDA regulations, and clinical trials are ongoing for use in patients with GVHD and post-PRK dry eye [ 86 ]. 
+ New Devices for DED 
+ Thermosensitive collagen plugs: The thermosensitive atelocollagen punctal plug is initially liquid; when inserted from the punctum, it solidifies with the body temperature and the punctum is occluded. In order to maximize the effect of this thermosensitive atelocollagen punctal plug, a pre-heating method has been described where the plug is preheated to 41°C and injected in a somewhat stiffened state [ 87 ]. 
+ Modified moisture chamber spectacles: Modified moisture chamber spectacles have a cover integrated with the frame of the glasses and a tank for containing water to increase humidity around the eyes. Furthermore, ultrasonic moisture glasses can be used to actively control humidity [ 88 , 89 ]. 
+ Scleral lenses: The most well-known scleral lens used to treat ocular surface disease is the BostonSight® PROSE (Prosthetic Replacement of the Ocular Surface Ecosystem) lens (Boston Foundation for Sight, Needham, MA, USA), which can significantly improve dry eye signs and symptoms due to Stevens-Johnson syndrome, chronic GVHD, and even neurotrophic keratopathy following skull base tumor resection. Other innovations include the EyePrintProTM lens, which converts an imprint of the ocular surface into a 3D digital model [ 78 , 90 ]. 
+ Tear neurostimulation: TrueTear® stimulates the intranasal nerve endings of the afferent nasolacrimal reflex pathway in the nasal mucosa with small electric currents to increase tear production. Improvements in Schirmer scores were observed after using the device four times a day for 180 days. Common side effects include nasal discomfort, burning, pain, nosebleeds, transient electrical discomfort, nasal congestion, facial pain, and headaches. They are contraindicated in patients with implantable metallic or electronic devices and in those with a hypersensitivity to hydrogel that coats the device probes [ 91 ]. 
+ Antioxidants and Probiotics 
+ Anthocyanin-rich berries and berry extracts are food supplements that have been used for the treatment of eye diseases based on the findings of animal and human studies. A recent trial concluded that the maqui berry has the maximum effect against reactive oxygen species in the lacrimal gland. Similarly, probiotics like Enterococcus faecium WB2000 have reportedly improved dry eye symptoms in human subjects and murine dry eye models [ 66 ]. 
+ Future Research 
+ The potential for future research remains targeted at anti-inflammatory mechanisms for the treatment of DED. Proposed therapeutic targets include interleukin-20, corneal lymphangiogenesis, the PI3K/AKT signaling pathway, and microRNA-328 [ 92 - 95 ]. Newer drugs, such as IL-1 receptor antagonists, serine protease inhibitors, resolvin analogues, and integrin antagonists, are under research [ 96 ]. The therapeutic role of pituitary adenylate cyclase-activating polypeptide is also being explored, and drug delivery systems, such as liposomal rebamipide, are being considered [ 97 , 98 ]. Conclusions 
+ Despite being a very common clinical problem, several aspects of DED are poorly understood and require further research. The role of environmental conditions needs to be studied in depth for a better understanding of the disease pathophysiology and its significance in inciting the inflammatory processes that result in dry eye. Future research could also include the role of the genetic profile of an individual in the causation of DED. With the advent of artificial intelligence, there is a probability to screen DED using algorithms in the future. With newer imaging modalities and interesting research in the pipeline, it remains to be seen what more can be done for DED patients. The authors have declared that no competing interests exist. Author Contributions 
+ 
+ Concept and design:   Nikita Dash 
+ Drafting of the manuscript:   Nikita Dash 
+ Acquisition, analysis, or interpretation of data:   Deepak Choudhury 
+ Critical review of the manuscript for important intellectual content:   Deepak Choudhury 
+ Supervision:   Deepak Choudhury 
+ References 
+ 
+ 
+ 1. TFOS DEWS II definition and classification report. Craig JP, Nichols KK, Akpek EK, et al. Ocul Surf. 2017;15:276–283. doi: 10.1016/j.jtos.2017.05.008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Definition and diagnostic criteria of dry eye disease: historical overview and future directions. Shimazaki J. Invest Ophthalmol Vis Sci. 2018;59:0. doi: 10.1167/iovs.17-23475. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. New perspectives on dry eye definition and diagnosis: a consensus report by the Asia Dry Eye Society. Tsubota K, Yokoi N, Shimazaki J, et al. Ocul Surf. 2017;15:65–76. doi: 10.1016/j.jtos.2016.09.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Classification of fluorescein breakup patterns: a novel method of differential diagnosis for dry eye. Yokoi N, Georgiev GA, Kato H, et al. Am J Ophthalmol. 2017;180:72–85. doi: 10.1016/j.ajo.2017.05.022. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Tear film osmolarity and dry eye disease: a review of the literature. Potvin R, Makari S, Rapuano CJ. Clin Ophthalmol. 2015;9:2039–2047. doi: 10.2147/OPTH.S95242. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Impact of air pollution and weather on dry eye. Mandell JT, Idarraga M, Kumar N, Galor A. https://doi.org/10.3390/jcm9113740 . J Clin Med. 2020;9:3740. doi: 10.3390/jcm9113740. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Spatial epidemiology of dry eye disease: findings from South Korea. Um SB, Kim NH, Lee HK, Song JS, Kim HC. Int J Health Geogr. 2014;13:31. doi: 10.1186/1476-072X-13-31. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Dry eye: prevalence and attributable risk factors in a hospital-based population. Sahai A, Malik P. Indian J Ophthalmol. 2005;53:87–91. doi: 10.4103/0301-4738.16170. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Prevalence of dry eye at high altitude: a case controlled comparative study. Gupta N, Prasad I, Himashree G, D'Souza P. High Alt Med Biol. 2008;9:327–334. doi: 10.1089/ham.2007.1055. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Pro- and anti-inflammatory forms of interleukin-1 in the tear fluid and conjunctiva of patients with dry-eye disease. Solomon A, Dursun D, Liu Z, et al. https://iovs.arvojournals.org/article.aspx?articleid=2200046 . Invest Ophthalmol Vis Sci. 2001;42:2283–2292. [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Elevated tear interleukin-6 levels in patients with Sjögren syndrome. Tishler M, Yaron I, Geyer O, et al. Ophthalmology. 1998;105:2327–2329. doi: 10.1016/S0161-6420(98)91236-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Sjögren’s syndrome: cytokine and Epstein-Barr viral gene expression within the conjunctival epithelium. Jones DT, Monroy D, Ji Z, et al. https://iovs.arvojournals.org/article.aspx?articleid=2179789 . Invest Ophthalmol Vis Sci. 1994;35:3493–3504. [ PubMed ] [ Google Scholar ] 
+ 
+ 13. The international workshop on meibomian gland dysfunction: report of the definition and classification subcommittee. Nelson JD, Shimazaki J, Benitez-del-Castillo JM, Craig JP, McCulley JP, Den S, Foulks GN. Invest Ophthalmol Vis Sci. 2011;52:1930–1937. doi: 10.1167/iovs.10-6997b. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. The international workshop on meibomian gland dysfunction: executive summary. Nichols KK, Foulks GN, Bron AJ, et al. Invest Ophthalmol Vis Sci. 2011;52:1922–1929. doi: 10.1167/iovs.10-6997a. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Tear proteomic profile in three distinct ocular surface diseases: keratoconus, pterygium, and dry eye related to graft-versus-host disease. de Almeida Borges D, Alborghetti MR, Franco Paes Leme A, et al. Clin Proteomics. 2020;17:42. doi: 10.1186/s12014-020-09307-5. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Tear osmolarity in unilateral pseudoexfoliation syndrome. Öncel BA, Pinarci E, Akova YA. Clin Exp Optom. 2012;95:506–509. doi: 10.1111/j.1444-0938.2011.00683.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Comparison of diagnostic tests in distinct well-defined conditions related to dry eye disease. Alves M, Reinach PS, Paula JS, et al. PLoS One. 2014;9:0. doi: 10.1371/journal.pone.0097921. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Tear film osmolarity in patients with diabetes mellitus. Sağdık HM, Ugurbas SH, Can M, et al. Ophthalmic Res. 2013;50:1–5. doi: 10.1159/000345770. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Dry eye syndrome in patients with diabetes mellitus: prevalence, etiology, and clinical characteristics. Zhang X, Zhao L, Deng S, Sun X, Wang N. J Ophthalmol. 2016;2016:8201053. doi: 10.1155/2016/8201053. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Prevalence of dry eye syndrome and diabetic retinopathy in type 2 diabetic patients. Manaviat MR, Rashidi M, Afkhami-Ardekani M, Shoja MR. BMC Ophthalmol. 2008;8:10. doi: 10.1186/1471-2415-8-10. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Is there a correlation between the severity of diabetic retinopathy and keratoconjunctivitis sicca? Nepp J, Abela C, Polzer I, Derbolav A, Wedrich A. Cornea. 2000;19:487–491. doi: 10.1097/00003226-200007000-00017. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Tear film osmolarity in patients with thyroid ophthalmopathy. Iskeleli G, Karakoc Y, Abdula A. Jpn J Ophthalmol. 2008;52:323–326. doi: 10.1007/s10384-008-0545-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Tear film analysis and its relation with palpebral fissure height and exophthalmos in Graves' ophthalmopathy (Article in Japanese) Brasil MV, Brasil OF, Vieira RP, Vaisman M, Amaral Filho OM. Arq Bras Oftalmol. 2005;68:615–618. doi: 10.1590/s0004-27492005000500007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Dry eye syndrome in thyroid-associated ophthalmopathy: lacrimal expression of TSH receptor suggests involvement of TSHR-specific autoantibodies. Eckstein AK, Finkenrath A, Heiligenhaus A, et al. Acta Ophthalmol Scand. 2004;82:291–297. doi: 10.1111/j.1395-3907.2004.00268.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Decreased tear volume in patients with metabolic syndrome: the Osaka study. Kawashima M, Uchino M, Yokoi N, et al. Br J Ophthalmol. 2014;98:418–420. doi: 10.1136/bjophthalmol-2013-303953. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. The relationship between metabolic syndrome, its components, and dry eye: a cross-sectional study. Erdur SK, Aydin R, Ozsutcu M, Olmuscelik O, Eliacik M, Demirci G, Kocabora MS. Curr Eye Res. 2017;42:1115–1117. doi: 10.1080/02713683.2017.1280511. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Ocular manifestations in rheumatoid arthritis, connective tissue disease, and vasculitis: a systematic review and meta-analysis. Turk MA, Hayworth JL, Nevskaya T, Pope JE. J Rheumatol. 2021;48:25–34. doi: 10.3899/jrheum.190768. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Fibromyalgia syndrome and the eye-a review. Zdebik N, Zdebik A, Bogusławska J, Przeździecka-Dołyk J, Turno-Kręcicka A. Surv Ophthalmol. 2021;66:132–137. doi: 10.1016/j.survophthal.2020.05.006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Ophthalmological features of Parkinson disease. Nowacka B, Lubinski W, Honczarenko K, Potemkowski A, Safranow K. Med Sci Monit. 2014;20:2243–2249. doi: 10.12659/MSM.890861. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. The association between dry eye disease and physical activity as well as sedentary behavior: results from the Osaka Study. Kawashima M, Uchino M, Yokoi N, et al. J Ophthalmol. 2014;2014:943786. doi: 10.1155/2014/943786. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Breaks in sedentary time: beneficial associations with metabolic risk. Healy GN, Dunstan DW, Salmon J, Cerin E, Shaw JE, Zimmet PZ, Owen N. Diabetes Care. 2008;31:661–666. doi: 10.2337/dc07-2046. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. The effects of VDT work on the regulation of hemodynamics compared with aging. Tanaka T, Yamamoto S, Noro K, Fukumoto T, Kuroiwa A. Ergonomics. 1989;32:1595–1605. doi: 10.1080/00140138908966928. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Neural regulation of lacrimal gland secretory processes: relevance in dry eye diseases. Dartt DA. Prog Retin Eye Res. 2009;28:155–177. doi: 10.1016/j.preteyeres.2009.04.003. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Blink rate, blink amplitude, and tear film integrity during dynamic visual display terminal tasks. Cardona G, García C, Serés C, Vilaseca M, Gispets J. Curr Eye Res. 2011;36:190–197. doi: 10.3109/02713683.2010.544442. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. The association between sleep duration and dry eye syndrome among Korean adults. Lee W, Lim SS, Won JU, Roh J, Lee JH, Seok H, Yoon JH. Sleep Med. 2015;16:1327–1331. doi: 10.1016/j.sleep.2015.06.021. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Sleep disorders, mental health, and dry eye disease in South Korea. An Y, Kim H. Sci Rep. 2022;12:11046. doi: 10.1038/s41598-022-14167-0. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Dry eye symptoms align more closely to non-ocular conditions than to tear film parameters. Galor A, Felix ER, Feuer W, et al. Br J Ophthalmol. 2015;99:1126–1129. doi: 10.1136/bjophthalmol-2014-306481. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Depression and anxiety in dry eye disease: a systematic review and meta-analysis. Wan KH, Chen LJ, Young AL. Eye (Lond) 2016;30:1558–1567. doi: 10.1038/eye.2016.186. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Associations between subjective happiness and dry eye disease: a new perspective from the Osaka study. Kawashima M, Uchino M, Yokoi N, et al. PLoS One. 2015;10:0. doi: 10.1371/journal.pone.0123299. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. The Italian version of the 25-item National Eye Institute Visual Function Questionnaire: translation, validity, and reliability. Rossi GC, Milano G, Tinelli C. J Glaucoma. 2003;12:213–220. doi: 10.1097/00061198-200306000-00006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Dry eye and phacoemulsification cataract surgery: a systematic review and meta-analysis. Lu Q, Lu Y, Zhu X. Front Med (Lausanne) 2021;8:649030. doi: 10.3389/fmed.2021.649030. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Incidence and pattern of dry eye after cataract surgery. Ishrat S, Nema N, Chandravanshi SC. Saudi J Ophthalmol. 2019;33:34–40. doi: 10.1016/j.sjopt.2018.10.009. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Changes in ocular surface status and dry eye symptoms following femtosecond laser-assisted cataract surgery. Ju RH, Chen Y, Chen HS, Zhou WJ, Yang W, Lin ZD, Wu ZM. Int J Ophthalmol. 2019;12:1122–1126. doi: 10.18240/ijo.2019.07.11. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Risk factors for dry eye after refractive surgery. Shehadeh-Mashor R, Mimouni M, Shapira Y, Sela T, Munzer G, Kaiserman I. Cornea. 2019;38:1495–1499. doi: 10.1097/ICO.0000000000002152. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Refractive outcomes and safety of the implantable collamer lens in young low-to-moderate myopes. Dougherty PJ, Priver T. Clin Ophthalmol. 2017;11:273–277. doi: 10.2147/OPTH.S120427. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Prevalence of signs and symptoms of dry eye disease 5 to 15 after refractive surgery. Gjerdrum B, Gundersen KG, Lundmark PO, Potvin R, Aakre BM. Clin Ophthalmol. 2020;14:269–279. doi: 10.2147/OPTH.S236749. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Dry eye after small incision lenticule extraction and femtosecond laser-assisted LASIK: Meta-analysis. Kobashi H, Kamiya K, Shimizu K. Cornea. 2017;36:85–91. doi: 10.1097/ICO.0000000000000999. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Comparison of tear proteomic and neuromediator profiles changes between small incision lenticule extraction (SMILE) and femtosecond laser-assisted in-situ keratomileusis (LASIK) Liu YC, Yam GH, Lin MT, et al. J Adv Res. 2021;29:67–81. doi: 10.1016/j.jare.2020.11.001. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Dry eye disease in strabismus patients: does eye deviation harm ocular surface? Giannaccare G, Versura P, Sebastiani S, Fariselli C, Pellegrini M, Campos E. Med Hypotheses. 2018;111:15–18. doi: 10.1016/j.mehy.2017.12.022. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. High level of inflammatory cytokines in the tears: a bridge of patients with concomitant exotropia and dry eye. Gao F, Hong X, Ding F, et al. Oxid Med Cell Longev. 2021;2021:5662550. doi: 10.1155/2021/5662550. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. The "Quarantine Dry Eye": the lockdown for coronavirus disease 2019 and its implications for ocular surface health. Napoli PE, Nioi M, Fossarello M. Risk Manag Healthc Policy. 2021;14:1629–1636. doi: 10.2147/RMHP.S277067. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Impact of the COVID-19 pandemic on eye strain and dry eye symptoms. Saldanha IJ, Petris R, Makara M, Channa P, Akpek EK. Ocul Surf. 2021;22:38–46. doi: 10.1016/j.jtos.2021.06.004. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Mask-associated dry eye during COVID-19 pandemic-how face masks contribute to dry eye disease symptoms. Krolo I, Blazeka M, Merdzo I, Vrtar I, Sabol I, Petric-Vickovic I. Med Arch. 2021;75:144–148. doi: 10.5455/medarh.2021.75.144-148. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Corneal confocal microscopy identifies corneal nerve fibre loss and increased dendritic cells in patients with long COVID. Bitirgen G, Korkmaz C, Zamani A, Ozkagnici A, Zengin N, Ponirakis G, Malik RA. Br J Ophthalmol. 2022;106:1635–1641. doi: 10.1136/bjophthalmol-2021-319450. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. ACE2 and TMPRSS2 are expressed on the human ocular surface, suggesting susceptibility to SARS-CoV-2 infection. Zhou L, Xu Z, Castiglione GM, Soiberman US, Eberhart CG, Duh EJ. Ocul Surf. 2020;18:537–544. doi: 10.1016/j.jtos.2020.06.007. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. COVID-19-related chronic bilateral dacryoadenitis: a clinicopathological study. Kase S, Ishida S. JAMA Ophthalmol. 2022;140:312–318. doi: 10.1001/jamaophthalmol.2021.6364. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Human meibum age, lipid-lipid interactions and lipid saturation in meibum from infants. Sledge S, Henry C, Borchman D, et al. Int J Mol Sci. 2017;18:1862. doi: 10.3390/ijms18091862. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. TFOS DEWS II sex, gender, and hormones report. Sullivan DA, Rocha EM, Aragona P, et al. Ocul Surf. 2017;15:284–333. doi: 10.1016/j.jtos.2017.04.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Non-invasive objective and contemporary methods for measuring ocular surface inflammation in soft contact lens wearers - a review. Chao C, Richdale K, Jalbert I, Doung K, Gokhale M. Cont Lens Anterior Eye. 2017;40:273–282. doi: 10.1016/j.clae.2017.05.008. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. TFOS DEWS II epidemiology report. Stapleton F, Alves M, Bunya VY, et al. Ocul Surf. 2017;15:334–365. doi: 10.1016/j.jtos.2017.05.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Tear-film-oriented diagnosis for dry eye. Yokoi N, Georgiev GA. Jpn J Ophthalmol. 2019;63:127–136. doi: 10.1007/s10384-018-00645-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Tear osmolarity in the diagnosis and management of dry eye disease. Lemp MA, Bron AJ, Baudouin C, et al. Am J Ophthalmol. 2011;151:792–798. doi: 10.1016/j.ajo.2010.10.032. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Update in current diagnostics and therapeutics of dry eye disease. Thulasi P, Djalilian AR. Ophthalmology. 2017;124:0–33. doi: 10.1016/j.ophtha.2017.07.022. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. New approaches for diagnosis of dry eye disease. Elhusseiny AM, Khalil AA, El Sheikh RH, Bakr MA, Eissa MG, El Sayed YM. Int J Ophthalmol. 2019;12:1618–1628. doi: 10.18240/ijo.2019.10.15. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Impaired functional visual acuity of dry eye patients. Goto E, Yagi Y, Matsumoto Y, et al. Am J Ophthalmol. 2002;133:181–186. doi: 10.1016/s0002-9394(01)01365-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Advances in the diagnosis and treatment of dry eye. Kojima T, Dogru M, Kawashima M, Nakamura S, Tsubota K. Prog Retin Eye Res. 2020;78:100842. doi: 10.1016/j.preteyeres.2020.100842. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Diagnostic tools for dry eye disease. Dougherty Wood S, Mian SI. https://www.touchophthalmology.com/wp-content/uploads/sites/16/2017/01/Diagnostic-Tools-for-Dry-Eye-Disease_1.pdf Eur Ophthalmic Rev. 2016;10:101. [ Google Scholar ] 
+ 
+ 68. Application of visante optical coherence tomography tear meniscus height measurement in the diagnosis of dry eye disease. Ibrahim OM, Dogru M, Takano Y, et al. Ophthalmology. 2010;117:1923–1929. doi: 10.1016/j.ophtha.2010.01.057. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. OCT assessment of tear meniscus after punctal occlusion in dry eye disease. Ibrahim OM, Dogru M, Kojima T, Matsumoto Y, Wakamatsu TH, Tsubota K, Fujishima H. Optom Vis Sci. 2012;89:0–6. doi: 10.1097/OPX.0b013e31824eeb07. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Application of CASIA SS-1000 optical coherence tomography tear meniscus imaging in testing the efficacy of new strip meniscometry in dry eye diagnosis. Shinzawa M, Dogru M, Miyasaka K, Shimazaki J, Sekiryu T. Eye Contact Lens. 2018;44 Suppl 1:0–9. doi: 10.1097/ICL.0000000000000312. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. A review on evidence-based treatments for meibomian gland dysfunction. Lam PY, Shih KC, Fong PY, Chan TC, Ng AL, Jhanji V, Tong L. Eye Contact Lens. 2020;46:3–16. doi: 10.1097/ICL.0000000000000680. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Kislan T. Mibo Medical Group. Kislan T, Mibo Medical Group. New, Targeted Technology for Treating the Root Cause of Dry Eye Disease (DED) 2018. https://mibomedicalgroup.com/articles/ https://mibomedicalgroup.com/articles/ 
+ 
+ 
+ 73. The limitation of applying heat to the external lid surface: a case of recalcitrant meibomian gland dysfunction. Kenrick CJ, Alloo SS. Case Rep Ophthalmol. 2017;8:7–12. doi: 10.1159/000455087. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Intraductal meibomian gland probing relieves symptoms of obstructive meibomian gland dysfunction. Maskin SL. Cornea. 2010;29:1145–1152. doi: 10.1097/ICO.0b013e3181d836f3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Growth of meibomian gland tissue after intraductal meibomian gland probing in patients with obstructive meibomian gland dysfunction. Maskin SL, Testa WR. Br J Ophthalmol. 2018;102:59–68. doi: 10.1136/bjophthalmol-2016-310097. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Dynamic intraductal meibomian probing: a modified approach to the treatment of obstructive meibomian gland dysfunction. Syed ZA, Sutula FC. Ophthalmic Plast Reconstr Surg. 2017;33:307–309. doi: 10.1097/IOP.0000000000000876. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Clinical effectiveness of lid debridement with BlephEx treatment. Connor CG, Choat C, Narayanan S, et al. Invest Ophthalmol Vis Sci. 2015;56:4440. [ Google Scholar ] 
+ 
+ 78. Advances in dry eye disease treatment. O'Neil EC, Henderson M, Massaro-Giordano M, Bunya VY. Curr Opin Ophthalmol. 2019;30:166–178. doi: 10.1097/ICU.0000000000000569. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Lifitegrast for the treatment of dry eye disease in adults. Donnenfeld ED, Perry HD, Nattis AS, Rosenberg ED. Expert Opin Pharmacother. 2017;18:1517–1524. doi: 10.1080/14656566.2017.1372748. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Reduced levels of tear lacritin are associated with corneal neuropathy in patients with the ocular component of Sjögren's syndrome. McNamara NA, Ge S, Lee SM, et al. Invest Ophthalmol Vis Sci. 2016;57:5237–5243. doi: 10.1167/iovs.16-19309. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. A two-week, randomized, double-masked study to evaluate safety and efficacy of lubricin (150 μg/mL) eye drops versus sodium hyaluronate (HA) 0.18% eye drops (Vismed®) in patients with moderate dry eye disease. Lambiase A, Sullivan BD, Schmidt TA, et al. Ocul Surf. 2017;15:77–87. doi: 10.1016/j.jtos.2016.08.004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Thymosin β4 significantly improves signs and symptoms of severe dry eye in a phase 2 randomized trial. Sosne G, Dunn SP, Kim C. Cornea. 2015;34:491–496. doi: 10.1097/ICO.0000000000000379. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. RGN-259 (thymosin β4) improves clinically important dry eye efficacies in comparison with prescription drugs in a dry eye model. Kim CE, Kleinman HK, Sosne G, Ousler GW, Kim K, Kang S, Yang J. Sci Rep. 2018;8:10500. doi: 10.1038/s41598-018-28861-5. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. ClinicalTrials.gov [Internet]. Assessment of the Safety and Efficacy of RGN-259 Ophthalmic Solutions for Dry Eye Syndrome: ARISE-3. https://ClinicalTrials.gov/show/NCT03937882 2019;6:3937882. [ Google Scholar ] 
+ 
+ 85. A phase II/III, randomized, double-masked, vehicle-controlled, dose-ranging study of the safety and efficacy of OTX-101 in the treatment of dry eye disease. Tauber J, Schechter BA, Bacharach J, Toyos MM, Smyth-Medina R, Weiss SL, Luchs JI. Clin Ophthalmol. 2018;12:1921–1929. doi: 10.2147/OPTH.S175065. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Amniotic membrane extract and eye drops: a review of literature and clinical application. Murri MS, Moshirfar M, Birdsong OC, Ronquillo YC, Ding Y, Hoopes PC. Clin Ophthalmol. 2018;12:1105–1112. doi: 10.2147/OPTH.S165553. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Evaluation of a thermosensitive atelocollagen punctal plug treatment for dry eye disease. Kojima T, Matsumoto Y, Ibrahim OM, Wakamatsu TH, Dogru M, Tsubota K. Am J Ophthalmol. 2014;157:311–317. doi: 10.1016/j.ajo.2013.10.019. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Evaluation of the effect of moist chamber spectacles in patients with dry eye exposed to adverse environment conditions. Ogawa M, Dogru M, Toriyama N, Yamaguchi T, Shimazaki J, Tsubota K. Eye Contact Lens. 2018;44:379–383. doi: 10.1097/ICL.0000000000000431. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Effect of ultrasonic moisture glasses on dry eye signs and symptoms. Onomura S, Kawashima M, Aketa N, Kondo S, Tsubota K. Transl Vis Sci Technol. 2018;7:18. doi: 10.1167/tvst.7.5.18. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. EyePrintPRO therapeutic scleral contact lens: indications and outcomes. Nguyen MT, Thakrar V, Chan CC. Can J Ophthalmol. 2018;53:66–70. doi: 10.1016/j.jcjo.2017.07.026. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. Characterization of tear production in subjects with dry eye disease during intranasal tear neurostimulation: results from two pivotal clinical trials. Sheppard JD, Torkildsen GL, Geffin JA, et al. Ocul Surf. 2019;17:142–150. doi: 10.1016/j.jtos.2018.11.009. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. Interleukin-20 is involved in dry eye disease and is a potential therapeutic target. Wang HH, Chen WY, Huang YH, Hsu SM, Tsao YP, Hsu YH, Chang MS. J Biomed Sci. 2022;29:36. doi: 10.1186/s12929-022-00821-2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 93. Corneal lymphangiogenesis as a potential target in dry eye disease - a systematic review. Chennakesavalu M, Somala SR, Dommaraju SR, et al. Surv Ophthalmol. 2021;66:960–976. doi: 10.1016/j.survophthal.2021.03.007. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 94. MicroRNA therapy for dry eye disease. Liao CH, Tseng CL, Lin SL, Liang CL, Juo SH. J Ocul Pharmacol Ther. 2022;38:125–132. doi: 10.1089/jop.2021.0044. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 95. The role of the PI3K/AKT signalling pathway in the corneal epithelium: recent updates. Chen K, Li Y, Zhang X, Ullah R, Tong J, Shen Y. Cell Death Dis. 2022;13:513. doi: 10.1038/s41419-022-04963-x. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 96. Experimental pharmacotherapy for dry eye disease: a review. Baiula M, Spampinato S. J Exp Pharmacol. 2021;13:345–358. doi: 10.2147/JEP.S237487. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 97. Potential therapeutic role of pituitary adenylate cyclase-activating polypeptide for dry eye disease. Hirabayashi T, Shibato J, Kimura A, Yamashita M, Takenoya F, Shioda S. Int J Mol Sci. 2022;23 doi: 10.3390/ijms23020664. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 98. Rebamipide liposome as an effective ocular delivery system for the management of dry eye disease. Qiao H, Xu Z, Sun M, et al. Journal of Drug Delivery Science and Technology. 2022;1:103654. [ Google Scholar ]

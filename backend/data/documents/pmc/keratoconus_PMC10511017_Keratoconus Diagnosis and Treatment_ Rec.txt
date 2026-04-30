@@ -1,0 +1,356 @@
+Source: PubMed Central (PMC)
+PMCID: PMC10511017
+Title: Keratoconus Diagnosis and Treatment: Recent Advances
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10511017/
+Year: 2024
+Disease: keratoconus
+Priority: 2
+============================================================
+
+Clin Ophthalmol . 2023 Sep 16;17:2705–2718. doi: 10.2147/OPTH.S392665 
+ 
+ 
+ Keratoconus Diagnosis and Treatment: Recent Advances and Future Directions 
+ Anh D Bui 
+ Anh D Bui 
+ 
+ 1 Department of Ophthalmology, University of California San Francisco, San Francisco, CA, USA 
+ Find articles by Anh D Bui 
+ 
+ 
+ 1 , Angeline Truong 
+ Angeline Truong 
+ 
+ 2 School of Medicine, University of California San Francisco, San Francisco, CA, USA 
+ Find articles by Angeline Truong 
+ 
+ 
+ 2 , Neel D Pasricha 
+ Neel D Pasricha 
+ 
+ 1 Department of Ophthalmology, University of California San Francisco, San Francisco, CA, USA 
+ 
+ 3 Francis I. Proctor Foundation, University of California San Francisco, San Francisco, CA, USA 
+ Find articles by Neel D Pasricha 
+ 
+ 
+ 1, 3 , Maanasa Indaram 
+ Maanasa Indaram 
+ 
+ 1 Department of Ophthalmology, University of California San Francisco, San Francisco, CA, USA 
+ Find articles by Maanasa Indaram 
+ 
+ 
+ 1, ✉ 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, University of California San Francisco, San Francisco, CA, USA 
+ 
+ 2 School of Medicine, University of California San Francisco, San Francisco, CA, USA 
+ 
+ 3 Francis I. Proctor Foundation, University of California San Francisco, San Francisco, CA, USA 
+ 
+ ✉ Correspondence: Maanasa Indaram, Wayne and Gladys Valley Center for Vision, UCSF Department of Ophthalmology, 490 Illinois Street, San Francisco, CA, 94158, Tel +1 415 476-2896, Email Maanasa.Indaram@ucsf.edu 
+ 
+ 
+ Received 2023 Jun 6; Accepted 2023 Sep 7; Collection date 2023. 
+ 
+ © 2023 Bui et al. 
+ This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License ( http://creativecommons.org/licenses/by-nc/3.0/ ). By accessing the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms ( https://www.dovepress.com/terms.php ). 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC10511017  PMID: 37736107 
+ 
+ Abstract 
+ Keratoconus is a disorder characterized by progressive corneal thinning and steepening that may result in significant visual impairment secondary to high astigmatism, corneal scarring, or even corneal perforation. Early detection and screening of keratoconus are essential for effective management and treatment. Several screening methods, such as corneal topography and tomography, corneal biomechanics, and genetic testing, are being developed to detect keratoconus at an early stage. Once detected, prevention of progression is the mainstay of keratoconus management. Corneal collagen cross-linking is a minimally invasive treatment option that can slow or halt the progression of keratoconus. Additionally, recent studies have investigated the potential use of copper sulfate eye drops (IVMED-80) and extracellular vesicles to prevent the progression of keratoconus as non-invasive treatment options. For visual rehabilitation, currently available treatments include scleral lenses, intracorneal ring segments, corneal allogenic intrastromal ring segments, and deep anterior lamellar keratoplasty. The safety and efficacy of these emerging treatment options for keratoconus are currently being investigated. 
+ Keywords: keratoconus, corneal cross-linking, intracorneal ring segments, deep anterior lamellar keratoplasty, IVMED-80, extracellular vesicles Introduction 
+ Keratoconus is a bilateral but often asymmetric disease of the cornea, in which progressive corneal thinning and steepening lead to irregular astigmatism and vision loss. 1 The prevalence of keratoconus has been estimated to be between 0.2 and 4790 per 100,000 persons, with individuals of Middle Eastern and Asian ethnicities being most affected. 1 
+ Keratoconus typically presents in early adolescence and progresses into the second or third decades of life. However, it may present earlier in childhood or continue to progress beyond the third decade. 2 The major risk factors for keratoconus include eye rubbing, history of atopy (allergy, asthma, and eczema), and family history of keratoconus. 3 Debate remains as to whether keratoconus is associated with inflammation; though typically not considered an inflammatory disease, some recent research has demonstrated increased levels of inflammatory cytokines and free radicals in the tears of patients with keratoconus. 4 
+ Early detection of keratoconus is tantamount to its proper treatment as timely intervention with progression prevention strategies, such as corneal collagen cross-linking (CXL), may help avoid more invasive treatments, such as full or partial thickness corneal transplantation. Though the prevalence of keratoconus in the overall population is low, screening for keratoconus within high-risk populations may be helpful. 5 However, early diagnosis can be challenging using corneal topography as multiple parameters for diagnosis are often required. 6 In this review, we discuss emerging innovations and needs surrounding keratoconus screening, prevention of disease progression, and treatment. Screening for Keratoconus 
+ Corneal Tomography 
+ Corneal tomography is a technique that allows for three-dimensional visualization of the anterior and posterior corneal surfaces, along with assessment of corneal thickness ( Figure 1 ). 7 , 8 It has emerged as a promising screening tool in the identification of candidates for early corneal collagen cross-linking to prevent disease progression and more invasive surgical interventions. A recent study by Kong et al reported that while nearly 50% of patients receive corneal topography at their initial visit, the use of corneal tomography at a patient’s first visit has increased significantly since 2015, with pediatric patients more likely to receive corneal tomography compared to adult patients. Furthermore, patients who received corneal tomography were more likely to undergo CXL over more invasive corneal surgeries. 9 
+ 
+ Figure 1. 
+ 
+ Open in a new tab 
+ ( A ) Scheimpflug image in a keratoconus patient. ( B ) Axial (power) map, anterior and posterior elevation maps, and global pachymetry map in a keratoconus patient. 
+ Notes : Reprinted from Ortiz-Toquero S, Martin R. Keratoconus Screening in Primary Eye Care – A General Overview. Eur Ophthalmic Rev . 2016;10(02):80. Creative Commons. 8 While significant correlations between average keratometry measures taken by corneal topography versus tomography were shown in the aforementioned study, others have found discrepancies in steep keratometry, flat keratometry, and average keratometry measurements between topography versus tomography in eyes with keratoconus. 7 , 10 Further research is needed to explain the utility of corneal tomography over topography for earlier detection of keratoconus. Tunç et al found excellent reliability using the Sirius device, which includes Scheimpflug tomography and Placido-disc topography, for most keratoconus screening indices except keratoconus vertex back. 11 Using spectral-domain optical coherence tomography (OCT) to detect keratoconus, Yang et al reported 100% specificity and variable sensitivities depending on keratoconus stage: 97.8% for manifest keratoconus, 100% for subclinical keratoconus, and 73.7% for forme fruste keratoconic eyes. 12 Furthermore, Kim et al found that anterior segment swept-source OCT could effectively differentiate keratoconus from normal corneas and suspected keratoconus using indices such as posterior and anterior elevations. 13 In patients with highly asymmetric keratoconus, researchers have found that individual metrics from combined Dual Scheimpflug/Placido imaging performed poorly in distinguishing normal corneas from clinically normal eyes of patients with asymmetric keratoconus, though combinations of metrics (particularly pachymetry values) were more useful. 14 Thus, although the Amsler-Krumeich keratoconus classification system traditionally relies on anterior surface topography, further research is warranted to explore the use of a classification system that may rely on aspects of both corneal topography and tomography. 15 Finally, the new Belin ABCD keratoconus staging system was also recently introduced and defined keratoconus according to (A) anterior curvature 3 mm from the thinnest corneal pachymetry, (B) posterior curvature 3 mm from the thinnest corneal pachymetry, (C) thinnest corneal pachymetry, (D) best corrected distance visual acuity. 16 Each of these four items is scored on a scale of 0–4, where 4 represents the highest deviation from normal. 16 This system’s advantages include its ability to independently describe each corneal layer and its utilization of thinnest corneal pachymetry rather than central apical readings. 16 
+ Finally, recent studies have also explored the role of corneal epithelial thickness mapping to evaluate keratoconus progression. One study used Fourier-domain optical coherence tomography and determined that it was effective in mapping corneal and sublayer thickness changes in subclinical keratoconus. 17 Another study investigated corneal and epithelial thickness profiles in patients diagnosed with stable or progressive keratoconus, but found no significant differences in full corneal mapping between stable and progressive keratoconus, other than thinning of the inferior paracentral region of the corneal epithelium amongst progressive keratoconus compared to stable keratoconus. 18 Corneal Biomechanics 
+ Minute changes in corneal shape can lead to clinically significant differences in optical measures of the eye. Corneal biomechanics attempts to characterize and predict changes in the corneal structure over time, and how these changes may impact vision. Corneal biomechanics has been important in understanding how surgery and other interventions impact the cornea and also may prove to be critical in improving screening and diagnosis of keratoconus. 19 Tian et al found that corneal elastic modulus calculated from corneal visualization on Scheimpflug imaging was able to distinguish forme fruste keratoconus patients from healthy participants. 20 Another study found that Scheimpflug-derived biomechanical parameters were able to differentiate between clinically frank keratoconus and normal corneas, and recent research has emerged to suggest that corneal biomechanical indices may be able to help detect keratoconus before topographical changes occur. 21 , 22 Genetic Screening 
+ There have been recent advances in genetic testing that determines an individual’s risk of keratoconus. AvaGen TM (Avellino Lab USA Inc., Menlo Park, CA) uses a buccal swab to evaluate a panel of 75 genes associated with keratoconus and several thousand of their variants to calculate a keratoconus risk score. 23 There are several ongoing studies evaluating the role of individual gene variants in the development of keratoconus. In evaluating Chinese and Greek families with keratoconus, Chen et al identified five variants in VSX1 and TGFBI that are associated with the development of keratoconus through an autosomal dominant pattern of inheritance. Furthermore, they found that asymptomatic relatives also presented with findings consistent with forme fruste keratoconus on the Belin/Ambrosio Enhanced Ectasia Displays of Pentacam corneal tomography, suggesting that genetic testing may be used to identify family members with forme fruste disease. 24 Chakravarty et al found novel variants in the LOX gene in keratoconus patients from Assam, India, while Li et al found two single nucleotide polymorphisms located near the COL5A1 gene linked to the central corneal thinning associated with keratoconus. 19 , 20 On the other hand, a study of Brazilian patients with keratoconus found no pathogenic variants in VSX1, SOD1, TIMP3 , or LOX and another study of Polish patients found a large degree of genetic heterogeneity when investigating keratoconus-related sequence variants of VSX1, TGFBI, and other gene candidates. 22 , 25 Thus, further research is needed to identify which gene variants should be included in keratoconus gene panels and to determine which patients would be the best candidates for genetic screening for keratoconus. Keratoconus Screening for Pediatric and Developmentally Delayed Patients 
+ There is a pressing need for improved screening of pediatric and developmentally delayed patients for keratoconus. CXL under general anesthesia has been found to be efficacious and safe for developmentally delayed pediatric patients with keratoconus who could not tolerate the procedure with topical anesthesia. 26 However, this study also found that compared to patients without developmental delay, developmentally delayed patients were diagnosed and treated for keratoconus at a later age, waited longer between diagnosis and surgery, and had a higher incidence of corneal scarring and vision loss at the time of surgery, suggesting a disparity in keratoconus screening and management that must be addressed for this particular patient population. 26 
+ One may consider the use of portable corneal topography, such as the EyeSys Vista (EyeSys Vision LLC, Houston, TX) as a potential means to expand screening to all populations. Using this system, ALGarzaie et al reported significant differences in astigmatism between children with autism spectrum disorder and age-matched neurotypical participants, suggesting that patients with autism may be at a higher risk of developing keratoconus. 27 
+ In evaluating socioeconomic disparities in the care of pediatric keratoconus patients, Ahmad et al found that parents with a high-school education, limited English proficiency, lower income level, and Medicaid insurance had a poorer understanding of keratoconus. In addition, lower levels of education amongst parents were significantly correlated with steeper keratometry readings. 28 Likewise, a French study conducted between 2004 and 2015 found regional disparities in indications, techniques, and waiting periods for corneal transplantation, largely attributable to variability between transplant centers and eye banks. 29 Preventing Progression of Disease 
+ As the choice between the various treatment modalities for keratoconus largely depends on the level of disease severity, preventing keratoconus progression is the preferred management strategy. 
+ Epithelium-off and Epithelium-on Corneal Cross-Linking 
+ CXL is a minimally invasive procedure in which riboflavin, a photosensitizer, and ultraviolet-A light are used to induce the formation of strong chemical bonds between collagen fibrils in the cornea, thereby rendering it to be stiffer and less susceptible to ectatic changes. Originally developed in the 1990 as the “Dresden protocol”, in this procedure, riboflavin solution is placed on the cornea after the central epithelium (7–9 mm diameter) is removed. The cornea is then irradiated with ultraviolet A light for 30 minutes, from a distance of 1 cm ( Figure 2 ). 30 In 2003, Wollensak et al demonstrated that keratoconus progression could be slowed with this procedure, namely with a reduction in steep keratometry and astigmatism measures. 31–33 As such, this original “epithelium-off” (epi-off) procedure has become established as a mainstay of keratoconus treatment.
+ 
+ Figure 2. 
+ 
+ Open in a new tab 
+ Schematic depiction of the Dresden protocol: removal of corneal epithelium, instillation of riboflavin solution, and application of a UV-A beam of 370 nm wavelength. 
+ Notes : Reprinted from J Drug Deliv Sci Technol , 63, Aytekin E, Pehlivan SB. Corneal cross-linking approaches on keratoconus treatment. 102524, Copyright 2021, with permission from Elsevier. 30 Since its inception, further innovations on epi-off corneal cross-linking have been developed, including an accelerated corneal cross-linking protocol, in which a higher-intensity light is used to reduce procedure times. While the traditional Dresden protocol calls for a UV-A irradiance of 3 mW/cm 2 for 30 minutes, studies on porcine corneas have suggested that a higher-intensity light of 10 mW/cm 2 for 9 minutes could have similar outcomes in terms of corneal rigidity. 34–36 ex vivo studies on human eyes showed that the accelerated protocol (10 mW/cm 2 for 9 minutes) had no statistically significant differences in post-op corneal stiffness compared to the standard protocol (3 mW/cm 2 for 30 minutes). 34 A study of 21 patients treated with accelerated corneal-cross linking also showed improvements in visual acuity and keratoconus progression. 34 , 37 However, there are mixed results regarding sequelae to the corneal endothelium with the accelerated protocol. 34 , 38 , 39 Xing and Oyang et al found an increase in the number of apoptotic endothelial cells after accelerated collagen cross-linking in i n vivo rabbit studies. 39 In a study where 36 patients with keratoconus underwent the accelerated cross-linking protocol, Cingu et al found significant differences in endothelial cell density and percentages of hexagonality up to 1 month after the procedure, although these changes returned to preoperative values 3–6 months after cross-linking. 38 Thus, although there is evidence that accelerated corneal cross-linking is safe and effective in human eyes, there may be changes to the endothelial cells immediately after the procedure and further research is warranted to better understand the long-term effects of these changes. Furthermore, knowledge about accelerated corneal cross-linking is limited by the use of differing protocols across medical centers, as well as the relative paucity of large, randomized clinical trials investigating this technique. 34 
+ Despite the widely reported efficacy of the procedure, epi-off corneal cross-linking has also been associated with various side effects, including ocular pain, risk of viral keratitis reactivation, corneal melting, corneal haze, infectious ulcers, and stromal scarring – all presumably secondary to corneal epithelial removal. 32 , 40 Thus, attempts have been made to reduce some of these side effects by eliminating the epithelium debridement portion of the procedure. This newer protocol, dubbed the “epithelial-on” (epi-on) CXL technique is a variation of the Dresden protocol which leaves the corneal epithelium entirely intact in order to reduce pain and complications of surgery. However, due to the hydrophilicity of the riboflavin molecule, various approaches have been developed to increase the penetration of riboflavin into the stroma in order to perform corneal cross-linking through a trans-epithelial approach. 32 
+ One such approach is iontophoresis-assisted transepithelial CXL, in which a small electrical current is used to increase riboflavin absorption into the corneal stroma. In a study comparing iontophoresis-assisted epi-on versus iontophoresis-assisted epi-off CXL, there were no significant differences in maximum keratometry, mean keratometry, flat keratometry, or steep keratometry values. 41 Furthermore, iontophoresis-assisted epi-off techniques were associated with reduced surgical times and fewer complications. 41 
+ In a systematic review of 15 randomized controlled trials comparing epi-on to epi-off CXL, the authors concluded that there were no significant differences in uncorrected distance visual acuity, maximum keratometry, central corneal thickness, or endothelial cell density between the two procedures. 32 They did find, however, improved postoperative corrected distance visual acuity, increased patient comfort, faster epithelial healing, and a decreased risk of persistent stromal haze in those who underwent epi-on protocols. 32 On the other hand, others have found that post-operative pain scores between the two were not significantly different after a few days post-operation. 40 In terms of clinical efficacy, other studies evaluating postoperative outcomes after epi-on corneal CXL demonstrated that progression of keratoconus in a pediatric population was halted at five years of follow-up for 90% of patients. 42 
+ It is important to note that protocols for the epi-on corneal CXL technique have varied considerably between medical centers and research trials. Various techniques have been used to induce epithelial permeability, including the use of benzalkonium chloride with tetracaine, benzalkonium chloride and hydroxypropyl methylcellulose, 0.1% riboflavin in 20% dextran, riboflavin soaking with iontophoresis, and iontophoresis device alone. 32 , 43 Thus, although there are several randomized controlled trials investigating the “epi-on” procedure, comparing the outcomes of these trials remains difficult due to high variability in protocols between medical centers. 
+ However, recent randomized controlled trials suggest the superiority of standard cross-linking for pediatric keratoconus. A multicenter randomized controlled trial in Egypt compared long-term outcomes of standard cross-linking, accelerated cross-linking, and transepithelial cross-linking in 97 pediatric patients. This trial reported that standard cross-linking and accelerated cross-linking were both superior to transepithelial cross-linking, with standard cross-linking being the most efficient method and resulting in smoother corneal remodeling. 44 The same conclusions were reported by a two-year randomized controlled trial of 136 children. 45 IVMED-80 Cross-Linking 
+ In addition to the light-induced CXL therapies, a new avenue for halting keratoconus progression is based on the idea of leveraging the cornea’s self-repair abilities. In this therapeutic approach, eyedrops containing synthetic biomolecules that activate physiological pathways involved in corneal integrity and healing are applied to the cornea. One promising therapy making use of this idea is IVMED-80 (iVeena Delivery Systems, Inc., Salt Lake City, UT), a drug whose active component is copper sulfate which is a necessary cofactor for lysyl oxidase. Lysyl oxidase is an important enzyme for extracellular matrix epistasis, which converts lysine into reactive aldehydes. Reactive aldehydes in turn cause the formation of crosslinks between extracellular proteins such as collagen or elastin. 
+ Although the mechanistic details are not fully understood, evidence suggests that the loss of corneal integrity and abnormal stromal collagen structures observed in keratoconus may be caused by dysregulation of pathways involved in the maturation of corneal collagen. 46 For example, mRNA levels of lysyl oxidase as well as those of several collagen genes (collagen I and IV) are reduced in the corneal epithelium of patients with keratoconus. 47–51 Furthermore, the activity of lysyl oxidase, as measured directly by fluorometric assays from tear samples, has been found to inversely correlate with disease severity in patients with keratoconus. 52 Thus, upregulation of lysyl oxidase can potentially trigger natural cross-linking of corneal collagen fibers and improve corneal integrity. 
+ Initial studies of IVMED-80 have yielded promising results. In vivo studies in rabbits showed that 7 weeks of twice-daily dosing of IVMED-80 induced central keratometric flattening and increased corneal cross-linking, as evidenced by higher levels of lysylnorleucine, a biomarker of lysyl oxidase activity. 53 Ex vivo human cadaveric cornea studies showed that application of IVMED-80 increased lysyl oxidase activity and corneal stiffness. 54 Following these studies, IVMED-80 went on to human clinical trials, completing a Phase 1/2a trial. 55 It was found to be safe and well tolerated by patients with no serious ocular adverse events, including changes in intraocular pressure, inflammation, or corneal scarring. Initial results from this trial showed that compared to the placebo group, twice-daily dosing with IVMED-80 in the keratoconus group significantly reduced the baseline-adjusted mean maximum central keratometry. IVMED-80 is a relatively new treatment for keratoconus, and further research is needed to fully understand its long-term effects and safety. However, the current evidence suggests that it may be a promising non-surgical option for patients with keratoconus and an alternative to epi-off and epi-on light-induced CXL with better tolerance and fewer side effects. Extracellular Vesicles in Corneal Reconstruction 
+ Another promising technology for corneal tissue reconstruction in keratoconus involves the use of extracellular vesicles (EVs). EVs are naturally secreted small membrane-bound structures containing a cargo of proteins, lipids, and nucleic acids that are released by cells and are playing increasingly recognized roles in cell-to-cell communication, inflammation, tissue repair, and homeostasis. 56 Among the different subtypes of EVs, exosomes are a subtype with sizes ranging from 50 to 150 nm, which are most often considered for therapeutic applications. 57 Exosomes gained traction as a therapeutic platform when it was realized that they have similar therapeutic properties as stem cell-based therapies in a variety of disease models. The current paradigm is that the “secretome” of specific cell types could potentially serve as a cell-free-based regenerative therapy for human tissues. 
+ In the context of corneal diseases, the exosomes from corneal stromal mesenchymal stem cells (MSCs) are of particular interest. MSCs are a population of non-hematopoietic stem cells distributed in the anterior part of the corneal stroma near the limbal stem cells. These cells are important for tissue regeneration due to their self-renewal and ability to differentiate into keratocytes. 58 , 59 In an in vitro scratch assay using cultured human corneal epithelial cells and in a mouse epithelial mechanical injury model, Samaeekia et al found that corneal stromal MSC-derived exosomes were taken up by corneal epithelial cells and promoted epithelial wound healing. 60 
+ Exosomes from other cell types, such as corneal epithelial cells, have also been studied. In a study using a mouse model of corneal epithelium debridement, Han et al found that exosomes were released by corneal epithelial cells and could induce proliferation and activation of keratocytes into myofibroblasts. 61 This activation is thought to be an important part of the injury repair process as myofibroblasts are responsible for extracellular matrix reorganization and wound healing. 
+ While the number of studies on EVs and exosomes in keratoconus remains limited, there is evidence that EVs and exosomes may have therapeutic potential for keratoconus. Hefley et al compared the composition of exosomes of keratoconus and healthy patients and found specific differences in the expression of tetraspanins, 62 which are scaffold proteins found on the cell membrane. 63 , 64 
+ Overall, EVs represent a promising approach for the treatment of keratoconus and other corneal diseases. However, further studies are needed to elucidate the underlying mechanisms and evaluate the safety and efficacy of EVs in human subjects. Methods of Visual Rehabilitation 
+ Visual rehabilitation and improvement in patients with keratoconus varies depending on the severity of the disease. These strategies include refractive correction with glasses and contact lenses and surgical options including intracorneal ring segments, corneal allogenic intrastromal ring segments (CAIRS), and deep anterior lamellar keratoplasty (DALK). 
+ Scleral Contact Lenses 
+ Among the type of contact lenses available, scleral lenses are rigid, large-diameter contact lenses that rest on the conjunctiva overlying the sclera, vaulting over the cornea. 65 They are particularly effective for patients with advanced keratoconus who have failed to achieve satisfactory visual outcomes with glasses or traditional contact lenses. 
+ There are several advantages of scleral lenses over soft contact lenses, including the improvement of visual acuity by correcting higher-order aberrations which cause visual distortions in patients with keratoconus. 66–68 Scleral lenses also create a tear-filled reservoir between the scleral lens and the cornea, which provides protection of the ocular surface. Furthermore, they provide a more stable fit compared to traditional contact lenses, which are more prone to movement on an irregularly shaped cornea of a patient with keratoconus. A prospective study examining the effects of mini-scleral lenses on the vision of 50 patients with keratoconus found that mini-scleral lenses significantly improve the visual acuity and vision-related quality of life as assessed with the National Eye Institute Visual Functioning Questionnaire. 69 
+ Despite the advantages of increased comfort and improved visual acuity, scleral lenses involve a higher level of maintenance and care by the patient, more time and skill to insert and remove, as well as more expertise by the practitioner for proper fitting. 70 , 71 Approximately 30% of scleral lens users also experience fogging due to the accumulation of particulates in the tear reservoir between the lens and the ocular surface. 70 , 72 Intracorneal Ring Segments 
+ Placement of intracorneal ring segments is a surgical option to reshape the corneal morphology and thus improve visual acuity in patient with mild-to-moderate keratoconus. The procedure involves the implantation of one or two curved segments of polymethacrylate material into the corneal stroma to reshape its curvature ( Figure 3 ). 73 They are appropriate in cases with transparent corneas with a thickness greater than 450 mm at the site of insertion. 74 , 75 
+ 
+ Figure 3. 
+ 
+ Open in a new tab 
+ Intracorneal ring segments implanted within the cornea. 
+ Notes : Reprinted from Vega-Estrada A, Alio JL. The use of intracorneal ring segments in keratoconus. Eye Vis (London, England) . 2016;3:8. Creative Commons. 73 Intracorneal ring segment implantation offers several benefits. It is a minimally invasive surgery which does not require removal of corneal tissue, is reversible, and may prevent or delay the need for corneal transplantation. Studies have shown that intracorneal ring segments can improve visual acuity, reduce the level of astigmatism, and reduce refractive aberrations, improving the quality of life in patients with keratoconus. 75–78 Implantation of intracorneal ring segments may also restore contact lens tolerance by creating a more regular corneal shape. 77 
+ The correction effect of the intracorneal ring segments depends partially on the corneal axis of the implantation. Several authors consider the steepest keratometric axis as the best location to place the vertical incision to implant the segments. 79 However, keratoconus frequently induces significant coma-like aberrations, and other studies have reported good outcomes when intracorneal ring segment implantation is guided by the comatic axis. 80 , 81 In cases where the keratometric and comatic axes coincide, the implantation approach can address both astigmatism and comatic aberration. 82 However, if the axes do not align, it becomes challenging to decide on the optimal approach. 
+ Intracorneal ring segment complications include infection, corneal melting, and segment extrusion or exposure. 76 Unfortunately, while intracorneal ring segments have been found to be effective in mild-to-moderate cases of keratoconus, this treatment does not halt disease progression, especially in more aggressive cases. 83 Corneal Allogenic Intrastromal Ring Segments 
+ A relatively new procedure, called corneal allogenic intrastromal ring segments (CAIRS), was developed by Jacob et al, which is based on the concept of intrastromal corneal ring segments in combination with UV crosslinking, but which replaces synthetic implants with allogenic corneal grafts ( Figure 4 ). 84 , 85 In this procedure, donor corneal buttons are prepared into two semicircular ring segments and smeared with 0.1% riboflavin in 20% dextran. The ring segments are then implanted into the recipient channels created using a femtosecond laser at mid-stromal depth in the 6.5 mm optic zones. The success of CAIRS depends on proper segment placement. To facilitate the visualization of the donor segments within the recipient stroma, the segments can be prestained with trypan blue. 86 Following implantation, conventional accelerated light-induced corneal CXL can be performed to introduce chemical bonding between the segments and the corneal collagen fibers.
+ 
+ Figure 4. 
+ 
+ Open in a new tab 
+ ( A and B ) Introduction of a CAIRS into an intrastromal channel. The arrows highlight the CAIRS it is being inserted ( C and D ) Two CAIRS within the intrastromal channel. 
+ Notes : Reprinted from Jacob S, Agarwal A. CAIRS a reversible, stand-alone option for keratoconus treatment. Published 2020. Available from: https://www.healio.com/news/ophthalmology/20200916/cairs-a-reversible-standalone-option-for-keratoconus-treatment . Reprinted with permission from SLACK Incorporated. 85 In their pilot study, Jacob et al performed CAIRS in combination with CXL on 24 eyes with keratoconus and reported significant improvement in uncorrected and corrected distance visual acuity at median one year post treatment, and no evidence of keratoconus progression. 84 Seventy percent of patients improved by at least one line in uncorrected distance visual acuity and anterior segment optical coherence tomography indicated that all segments were well-placed segments at mid-stromal depth without evidence of corneal melt or necrosis. They also reported no intra- or post-operative complications. While this study indicates that CAIRS may be a safe and effective treatment option for keratoconus to reduce the risk of keratonic progression and the complications associated with the use of synthetic intrastromal material, further studies are needed to better characterize the long-term outcomes and overall benefits of this technique. Toric Intraocular Collamer Lens 
+ The use of anterior chamber phakic intraocular lenses to correct refractive errors associated with keratoconus has also been explored. Alfonso et al carried out a prospective study where toric intraocular collamer lenses were implanted in 30 keratoconic eyes (21 patients). 87 Preoperatively, the mean spherical equivalent for all eyes was −5.38 ± 3.26 D, and the mean cylinder was −3.48 ± 1.24 D. The authors found that 12 months postoperatively, 86.7% of the eyes were within ±0.50 diopters (D) of the attempted refraction, and all eyes were within ±1.00 D. The mean cylinder 12 months postoperatively was 0.41 ± 0.61 D, and the mean reduction in refractive cylinder from preoperatively to 12 months postoperatively was 88%. The authors reported no complications or adverse events. Deep Anterior Lamellar Keratoplasty 
+ For the most severe cases, DALK is another surgical procedure for visual rehabilitation. The procedure involves the replacement of the anterior portion of the cornea, leaving the patient’s Descemet membrane and corneal endothelium as well as oftentimes, the pre-Descemet’s layer, intact ( Figure 5 ). 88–90 It is an alternative to full-thickness penetrating keratoplasty for the treatment of keratoconus, and it has several advantages over penetrating keratoplasty, such as a lower risk of graft rejection and secondary endophthalmitis as well as preservation of endothelial cell density. 91–95 This technique has been shown to significantly improve vision-related quality of life in patients with keratoconus. 96 Some studies have reported superior visual outcomes compared to penetrating keratoplasty, while others have shown similar results. 91 , 94 , 95 , 97–99 Overall, however, DALK is a more technically challenging procedure to perform compared to penetrating keratoplasty and requires a higher level of surgical expertise. 100 DALK can also be more time-consuming and may result in longer surgical times compared to penetrating keratoplasty.
+ 
+ Figure 5. 
+ 
+ Open in a new tab 
+ Schematic representation of the anterior lamellar keratoplasty technique with varying depths of recipient cornea removal and donor corneal transplantation. ( a and b ) One-third of the anterior cornea is removed and replaced with a similarly sized donor cornea. ( c and d ) Larger amount of anterior cornea is removed and replaced. ( e and f ) Deep anterior lamellar keratoplasty where corneal tissue is removed up to the bare Descemet membrane and donor cornea without Descemet membrane is transplanted. 
+ Notes : Reprinted from Reddy JC, Modiwala Z, Mathew M. Lamellar Keratoplasty in Keratoconus. In: Keratoconus . Springer Nature Singapore; 2022:205–220. Reproduced with permission from SNCSC. 90 Laser-Based Treatments 
+ Laser-based treatments for visual rehabilitation have been recently explored. A one-year study of topography-guided photorefractive keratectomy and topography-assisted photo therapeutic keratectomy with corneal cross-linking has been studied and determined that both methods had similar improvement in visual acuity amongst keratoconic patients. However, topography-guided photorefractive keratectomy led to greater decreases in keratometry, spherical aberration, and anterior defocus while also leading to more tissue ablation. 101 Conclusion 
+ Keratoconus is a challenging disease to manage, and its progression can result in significant visual impairment and reduced quality of life for affected individuals. Early detection and screening allow for timely intervention and management to prevent disease progression. Advances in screening methods such as corneal topography and tomography and the development of corneal biomechanics and genetic screening are continuing to significantly improve our ability to diagnose keratoconus. While CXL has become the gold standard for slowing or halting the progression of keratoconus, alternative approaches have emerged, including copper sulfate eye drops (IVMED-80), a novel medication with the potential to induce physiologic corneal cross-linking, and EVs, which have shown promising results in preliminary studies. For visual rehabilitation of patients with vision loss secondary to keratoconus, scleral lenses have demonstrated significant improvements in visual acuity and quality of life in patients. Intracorneal ring segments as well as CAIRS, which is a relatively new procedure developed as an alternative to synthetic intracorneal ring segments, have also been found to be very effective in improving vision in patients with mild-to-moderate keratoconus and improving the corneal curvature in patients. In cases of advanced keratoconus, DALK is a surgical option to improve vision. Despite these promising treatments, continued research and development are essential to improving our understanding of keratoconus and developing more effective screening and treatments to continue improving the lives of patients with keratoconus. Disclosure 
+ Dr Neel Pasricha reports personal fees from Iota Biosciences, Vanda Pharmaceuticals and Zeiss, outside the submitted work. The authors report no other conflicts of interest in this work. References 
+ 
+ 
+ 1. Santodomingo-Rubido J, Carracedo G, Suzaki A, Villa-Collar C, Vincent SJ, Wolffsohn JS. Keratoconus: an updated review. Cont Lens Anterior Eye . 2022;45(3):101559. doi: 10.1016/j.clae.2021.101559 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Naderan M, Shoar S, Rezagholizadeh F, Zolfaghari M, Naderan M. Characteristics and associations of keratoconus patients. Cont Lens Anterior Eye . 2015;38(3):199–205. doi: 10.1016/j.clae.2015.01.008 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Hashemi H, Heydarian S, Hooshmand E, et al. The prevalence and risk factors for keratoconus: a systematic review and meta-analysis. Cornea . 2020;39(2):263–270. doi: 10.1097/ICO.0000000000002150 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Galvis V, Sherwin T, Tello A, Merayo J, Barrera R, Acera A. Keratoconus: an inflammatory disorder?
+ Eye . 2015;29(7):843–859. doi: 10.1038/eye.2015.63 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Armstrong BK, Smith SD, Romac Coc I, Agarwal P, Mustapha N, Navon S. Screening for keratoconus in a high-risk adolescent population. Ophthalmic Epidemiol . 2021;28(3):191–197. doi: 10.1080/09286586.2020.1804593 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Shi Y. Strategies for improving the early diagnosis of keratoconus. Clin Optom . 2016;8:13–21. doi: 10.2147/OPTO.S63486 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Kanclerz P, Khoramnia R, Wang X. Current developments in corneal topography and tomography. Diagnostics . 2021;11(8):1466. doi: 10.3390/diagnostics11081466 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Ortiz-Toquero S, Martin R. Keratoconus screening in primary eye care – a general overview. Eur Ophthalmic Rev . 2016;10(2):80. doi: 10.17925/EOR.2016.10.02.80 [ DOI ] [ Google Scholar ] 
+ 
+ 9. Kong AW, Ahmad TR, Turner ML, et al. Trends in Corneal Topography and Tomography Imaging for Keratoconus Management. Clin Ophthalmol . 2022;16:1357–1363. doi: 10.2147/OPTH.S361352 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Penna RR, de Sanctis U, Catalano M, Brusasco L, Grignolo FM. Placido disk-based topography versus high-resolution rotating Scheimpflug camera for corneal power measurements in keratoconic and post-LASIK eyes: reliability and agreement. Int J Ophthalmol . 2017;10(3):453–460. doi: 10.18240/ijo.2017.03.20 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Tunç U, Akbaş YB, Yıldırım Y, Kepez Yıldız B, Kırgız A, Demirok A. Repeatability and reliability of measurements obtained by the combined Scheimpflug and Placido-disk tomography in different stages of keratoconus. Eye . 2021;35(8):2213–2220. doi: 10.1038/s41433-020-01238-7 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Yang Y, Pavlatos E, Chamberlain W, Huang D, Li Y. Keratoconus detection using OCT corneal and epithelial thickness map parameters and patterns. J Cataract Refract Surg . 2021;47(6):759–766. doi: 10.1097/j.jcrs.0000000000000498 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Kim KY, Lee S, Jeon YJ, Min JS. Anterior segment characteristics in normal and keratoconus eyes evaluated with a new type of swept-source optical coherence tomography. PLoS One . 2022;17(9):e0274071. doi: 10.1371/journal.pone.0274071 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Golan O, Piccinini AL, Hwang ES, et al. Distinguishing highly asymmetric keratoconus eyes using dual Scheimpflug/Placido analysis. Am J Ophthalmol . 2019;201:46–53. doi: 10.1016/j.ajo.2019.01.023 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Fan R, Chan TC, Prakash G, Jhanji V. Applications of corneal topography and tomography: a review. Clin Experiment Ophthalmol . 2018;46(2):133–146. doi: 10.1111/ceo.13136 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Belin MW, Kundu G, Shetty N, Gupta K, Mullick R, Thakur P. ABCD: a new classification for keratoconus. Indian J Ophthalmol . 2020;68(12):2831–2834. doi: 10.4103/ijo.IJO_2078_20 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Li Y, Chamberlain W, Tan O, Brass R, Weiss JL, Huang D. Subclinical keratoconus detection by pattern analysis of corneal and epithelial thickness maps with optical coherence tomography. J Cataract Refract Surg . 2016;42(2):284–295. doi: 10.1016/j.jcrs.2015.09.021 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Serrao S, Lombardo G, Calì C, Lombardo M. Role of corneal epithelial thickness mapping in the evaluation of keratoconus. Cont Lens Anterior Eye . 2019;42(6):662–665. doi: 10.1016/j.clae.2019.04.019 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Piñero DP, Alcón N. Corneal biomechanics: a review. Clin Exp Optom . 2015;98(2):107–116. doi: 10.1111/cxo.12230 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Tian L, Qin X, Zhang H, et al. A potential screening index of corneal biomechanics in healthy subjects, forme fruste keratoconus patients and clinical keratoconus patients. Front Bioeng Biotechnol . 2021;9:766605. doi: 10.3389/fbioe.2021.766605 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Sedaghat M-R, Momeni-Moghaddam H, Roberts CJ, Maddah N, Ambrósio R, Hosseini SR. Corneal biomechanical parameters in keratoconus eyes with abnormal elevation on the back corneal surface only versus both back and front surfaces. Sci Rep . 2021;11(1):11971. doi: 10.1038/s41598-021-91263-7 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Sedaghat M-R, Momeni-Moghaddam H, Ambrósio R, et al. Diagnostic ability of corneal shape and biomechanical parameters for detecting frank keratoconus. Cornea . 2018;37(8):1025–1034. doi: 10.1097/ICO.0000000000001639 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Kramer E
+AvaGen genetic testing: the latest tool in early detection for keratoconus; 2021. Available from: https://www.westoncontactlens.com/avagen-genetic-testing-the-latest-tool-in-early-detection-for-keratoconus/ . Accessed August
+4, 2023. 
+ 
+ 
+ 24. Chen S, X-Y L, Jin -J-J, et al. Genetic screening revealed latent keratoconus in asymptomatic individuals. Front Cell Dev Biol . 2021;9:650344. doi: 10.3389/fcell.2021.650344 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Li X, Bykhovskaya Y, Canedo ALC, et al. Genetic association of COL5A1 variants in keratoconus patients suggests a complex connection between corneal thinning and keratoconus. Invest Ophthalmol Vis Sci . 2013;54(4):2696–2704. doi: 10.1167/iovs.13-11601 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Ahmad TR, Pasricha ND, Rose-Nussbaumer J, Oatts J, Schallhorn J, Indaram M. Corneal collagen cross-linking under general anesthesia for pediatric patients with keratoconus and developmental delay. Cornea . 2020;39(5):546–551. doi: 10.1097/ICO.0000000000002197 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. ALGarzaie MA, Alsaqr AM. A comparative study of corneal topography in children with autism spectrum disorder: a cross-sectional study. Vision . 2021;5(1). doi: 10.3390/vision5010004 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Ahmad TR, Turner ML, Hoppe C, et al. Parental keratoconus literacy: a socioeconomic perspective. Clin Ophthalmol . 2022;16:2505–2511. doi: 10.2147/OPTH.S375405 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Ricouard F, Puyraveau M, Gain P, Martinache I, Delbosc B, Gauthier AS. Regional trends in corneal transplantation from 2004 to 2015 in France: a 12-year review on indications, technique and waiting period. Cell Tissue Bank . 2020;21(1):65–76. doi: 10.1007/s10561-019-09798-z [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Aytekin E, Pehlivan SB. Corneal cross-linking approaches on keratoconus treatment. J Drug Deliv Sci Technol . 2021;63:102524. doi: 10.1016/j.jddst.2021.102524 [ DOI ] [ Google Scholar ] 
+ 
+ 31. Wollensak G, Spörl E, Seiler T. Treatment of keratoconus by collagen cross linking. Ophthalmologe . 2003;100(1):44–49. doi: 10.1007/s00347-002-0700-3 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. D’Oria F, Palazón A, Alio JL. Corneal collagen cross-linking epithelium-on vs. epithelium-off: a systematic review and meta-analysis. Eye Vis . 2021;8(1):34. doi: 10.1186/s40662-021-00256-0 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Wollensak G, Spoerl E, Seiler T. Riboflavin/ultraviolet-a-induced collagen crosslinking for the treatment of keratoconus. Am J Ophthalmol . 2003;135(5):620–627. doi: 10.1016/s0002-9394(02)02220-1 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Sorkin N, Varssano D. Corneal collagen crosslinking: a systematic review. Ophthalmologica . 2014;232(1):10–27. doi: 10.1159/000357979 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Schumacher S, Oeftiger L, Mrochen M. Equivalence of biomechanical changes induced by rapid and standard corneal cross-linking, using riboflavin and ultraviolet radiation. Invest Ophthalmol Vis Sci . 2011;52(12):9048–9052. doi: 10.1167/iovs.11-7818 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Boschetti F, Conti D, Soriano EM, Mazzotta C, Pandolfi A. Experimental in-vitro investigation on Epi-Off-Crosslinking on porcine corneas. PLoS One . 2021;16(4):e0249949. doi: 10.1371/journal.pone.0249949 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Kanellopoulos AJ. Long term results of a prospective randomized bilateral eye comparison trial of higher fluence, shorter duration ultraviolet A radiation, and riboflavin collagen cross linking for progressive keratoconus. Clin Ophthalmol . 2012;6:97–101. doi: 10.2147/OPTH.S27170 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Cingü AK, Sogutlu-Sari E, Cınar Y, et al. Transient corneal endothelial changes following accelerated collagen cross-linking for the treatment of progressive keratoconus. Cutan Ocul Toxicol . 2014;33(2):127–131. doi: 10.3109/15569527.2013.812107 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Xing H, Oyang H. Evaluation of corneal tissue changes after collagen cross-linking with ultraviolet and riboflavin A. Cell Mol Biol . 2022;68(5):72–76. doi: 10.14715/cmb/2022.68.5.9 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. van der Valk Bouman ES, Pump H, Borsook D, et al. Pain mechanisms and management in corneal cross-linking: a review. BMJ Open Ophthalmol . 2021;6(1):e000878. doi: 10.1136/bmjophth-2021-000878 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Napolitano P, Tranfa F, D’Andrea L, et al. Topographic outcomes in keratoconus surgery: Epi-on versus Epi-off iontophoresis corneal collagen cross-linking. J Clin Med . 2022;11(7):1785. doi: 10.3390/jcm11071785 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Henriquez MA, Rodríguez AM, Izquierdo L. Accelerated Epi-on versus standard Epi-off corneal collagen cross-linking for progressive keratoconus in pediatric patients. Cornea . 2017;36(12):1503–1508. doi: 10.1097/ICO.0000000000001366 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Nicula CA, Nicula D, Rednik AM, Bulboacă AE. Comparative results of “Epi-Off” conventional versus “Epi-Off” accelerated cross-linking procedure at 5-year follow-up. J Ophthalmol . 2020;2020:4745101. doi: 10.1155/2020/4745101 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Iqbal M, Gad A, Kotb A, Abdelhalim M. Analysis of the outcomes of three different cross-linking protocols for treatment of paediatric keratoconus: a multicentre randomized controlled trial. Acta Ophthalmol . 2023;2023:1. doi: 10.1111/aos.15686 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Iqbal M, Elmassry A, Saad H, et al. Standard cross-linking protocol versus accelerated and transepithelial cross-linking protocols for treatment of paediatric keratoconus: a 2-year comparative study. Acta Ophthalmol . 2020;98(3):e352–e362. doi: 10.1111/aos.14275 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Zhang J, Zhang L, Hong J, Wu D, Xu J. Association of common variants in LOX with keratoconus: a meta-analysis. PLoS One . 2015;10(12):e0145815. doi: 10.1371/journal.pone.0145815 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Balasubramanian SA, Mohan S, Pye DC, Willcox MDP. Proteases, proteolysis and inflammatory molecules in the tears of people with keratoconus. Acta Ophthalmol . 2012;90(4):e303–9. doi: 10.1111/j.1755-3768.2011.02369.x [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Dudakova L, Sasaki T, Liskova P, Palos M, Jirsova K. The presence of lysyl oxidase-like enzymes in human control and keratoconic corneas. Histol Histopathol . 2016;31(1):63–71. doi: 10.14670/HH-11-649 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Dudakova L, Jirsova K. The impairment of lysyl oxidase in keratoconus and in keratoconus-associated disorders. J Neural Transm . 2013;120(6):977–982. doi: 10.1007/s00702-013-0993-1 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Dudakova L, Liskova P, Trojek T, Palos M, Kalasova S, Jirsova K. Changes in lysyl oxidase (LOX) distribution and its decreased activity in keratoconus corneas. Exp Eye Res . 2012;104:74–81. doi: 10.1016/j.exer.2012.09.005 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Pahuja N, Kumar NR, Shroff R, et al. Differential molecular expression of extracellular matrix and inflammatory genes at the corneal cone apex drives focal weakening in Keratoconus. Invest Ophthalmol Vis Sci . 2016;57(13):5372–5382. doi: 10.1167/iovs.16-19677 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Shetty R, Sathyanarayanamoorthy A, Ramachandra RA, et al. Attenuation of lysyl oxidase and collagen gene expression in Keratoconus patient corneal epithelium corresponds to disease severity. Mol Vis . 2015;21:12–25. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Muddana SK, Hauritz H, Burr M, Ambati B, Molokhia S. The effect of IVMED-80 eye drops on lysinonorleucine (LNL) amounts in vivo for treatment of keratoconus. ARVO Annu Meet Abstr . 2019;60(9):1. [ Google Scholar ] 
+ 
+ 54. Muddana SK, Ambati BK, Uehara H, Burr M, Molokhia S. Effect of IVMED-80 on human cadaver cornea crosslinking. ARVO Annu Meet Abstr . 2018;59(9):1. [ Google Scholar ] 
+ 
+ 55. Molokhia S, Muddana SK, Hauritz H, et al. IVMED 80 eye drops for treatment of keratoconus in patients—phase 1/2a. Invest Ophthalmol Vis Sci . 2020;2020:2587. [ Google Scholar ] 
+ 
+ 56. Di Bella MA. Overview and update on extracellular vesicles: considerations on exosomes and their application in modern medicine. Biology . 2022;11(6):804. doi: 10.3390/biology11060804 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Zhang L, Yu D. Exosomes in cancer development, metastasis, and immunity. Biochim Biophys Acta Rev Cancer . 2019;1871(2):455–468. doi: 10.1016/j.bbcan.2019.04.004 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Mansoor H, Ong HS, Riau AK, Stanzel TP, Mehta JS, Yam GH-F. Current trends and future perspective of mesenchymal stem cells and exosomes in corneal diseases. Int J Mol Sci . 2019;20(12):2853. doi: 10.3390/ijms20122853 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Liu X-N, S-L M, Chen Y, Wang Y. Corneal stromal mesenchymal stem cells: reconstructing a bioactive cornea and repairing the corneal limbus and stromal microenvironment. Int J Ophthalmol . 2021;14(3):448–455. doi: 10.18240/ijo.2021.03.19 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Samaeekia R, Rabiee B, Putra I, et al. Effect of human corneal mesenchymal stromal cell-derived exosomes on corneal epithelial wound healing. Invest Ophthalmol Vis Sci . 2018;59(12):5194–5200. doi: 10.1167/iovs.18-24803 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Han K-Y, Tran JA, Chang J-H, Azar DT, Zieske JD. Potential role of corneal epithelial cell-derived exosomes in corneal wound healing and neovascularization. Sci Rep . 2017;7:40548. doi: 10.1038/srep40548 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Hefley BS, Deighan C, Vasini B, et al. Revealing the presence of tear extracellular vesicles in Keratoconus. Exp Eye Res . 2022;224:109242. doi: 10.1016/j.exer.2022.109242 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Mathieu M, Névo N, Jouve M, et al. Specificities of exosome versus small ectosome secretion revealed by live intracellular tracking of CD63 and CD9. Nat Commun . 2021;12(1):4389. doi: 10.1038/s41467-021-24384-2 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Huang Y, Zucker B, Zhang S, et al. Migrasome formation is mediated by assembly of micron-scale tetraspanin macrodomains. Nat Cell Biol . 2019;21(8):991–1002. doi: 10.1038/s41556-019-0367-5 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Michaud L, Lipson M, Kramer E, Walker M. The official guide to scleral lens terminology. Cont Lens Anterior Eye . 2020;43(6):529–534. doi: 10.1016/j.clae.2019.09.006 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Bergmanson JPG, Walker MK, Johnson LA. Assessing scleral contact lens satisfaction in a Keratoconus population. Optom Vis Sci . 2016;93(8):855–860. doi: 10.1097/OPX.0000000000000882 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Kumar P, Bandela PK, Bharadwaj SR. Do visual performance and optical quality vary across different contact lens correction modalities in keratoconus?
+ Cont Lens Anterior Eye . 2020;43(6):568–576. doi: 10.1016/j.clae.2020.03.009 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Visser E-S, Visser R, van Lier HJJ, Otten HM. Modern scleral lenses part I: clinical features. Eye Contact Lens . 2007;33(1):13–20. doi: 10.1097/01.icl.0000233217.68379.d5 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Kreps EO, Pesudovs K, Claerhout I, Koppen C. Mini-scleral lenses improve vision-related quality of life in Keratoconus. Cornea . 2021;40(7):859–864. doi: 10.1097/ICO.0000000000002518 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Walker MK, Bergmanson JP, Miller WL, Marsack JD, Johnson LA. Complications and fitting challenges associated with scleral contact lenses: a review. Cont Lens Anterior Eye . 2016;39(2):88–96. doi: 10.1016/j.clae.2015.08.003 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Macedo-de-Araújo RJ, van der Worp E, González-Méijome JM. A one-year prospective study on scleral lens wear success. Cont Lens Anterior Eye . 2020;43(6):553–561. doi: 10.1016/j.clae.2019.10.140 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Schornack MM, Fogt J, Harthan J, et al. Factors associated with patient-reported midday fogging in established scleral lens wearers. Cont Lens Anterior Eye . 2020;43(6):602–608. doi: 10.1016/j.clae.2020.03.005 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Vega-Estrada A, Alio JL. The use of intracorneal ring segments in keratoconus. Eye Vis . 2016;3:8. doi: 10.1186/s40662-016-0040-z [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Colin J, Cochener B, Savary G, Malet F. Correcting keratoconus with intracorneal rings. J Cataract Refract Surg . 2000;26(8):1117–1122. doi: 10.1016/s0886-3350(00)00451-x [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Coskunseven E, Kymionis GD, Tsiklis NS, et al. One-year results of intrastromal corneal ring segment implantation (KeraRing) using femtosecond laser in patients with keratoconus. Am J Ophthalmol . 2008;145(5):775–779. doi: 10.1016/j.ajo.2007.12.022 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Zare MA, Hashemi H, Salari MR. Intracorneal ring segment implantation for the management of keratoconus: safety and efficacy. J Cataract Refract Surg . 2007;33(11):1886–1891. doi: 10.1016/j.jcrs.2007.06.055 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Colin J, Malet FJ. Intacs for the correction of keratoconus: two-year follow-up. J Cataract Refract Surg . 2007;33(1):69–74. doi: 10.1016/j.jcrs.2006.08.057 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Park SE, Tseng M, Lee JK. Effectiveness of intracorneal ring segments for keratoconus. Curr Opin Ophthalmol . 2019;30(4):220–228. doi: 10.1097/ICU.0000000000000582 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Alió JL, Shabayek MH, Artola A. Intracorneal ring segments for keratoconus correction: long-term follow-up. J Cataract Refract Surg . 2006;32(6):978–985. doi: 10.1016/j.jcrs.2006.02.044 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Alfonso JF, Lisa C, Merayo-Lloves J, Cueto LF-V, Montés-Micó R. Intrastromal corneal ring segment implantation in paracentral keratoconus with coincident topographic and coma axis. J Cataract Refract Surg . 2012;38(9):1576–1582. doi: 10.1016/j.jcrs.2012.05.031 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Fernández-Vega-Cueto L, Lisa C, Alfonso-Bartolozzi B, Madrid-Costa D, Alfonso JF. Intrastromal corneal ring segment implantation in paracentral keratoconus with perpendicular topographic astigmatism and comatic axis. Eur J Ophthalmol . 2021;31(4):1540–1545. doi: 10.1177/1120672120952346 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Fernández-Vega Cueto L, Lisa C, Madrid-Costa D, Merayo-Lloves J, Alfonso JF. Long-term follow-up of intrastromal corneal ring segments in paracentral Keratoconus with coincident corneal keratometric, comatic, and refractive axes: stability of the procedure. J Ophthalmol . 2017;2017(3):4058026. doi: 10.1155/2017/4058026 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Piñero DP, Alio JL. Intracorneal ring segments in ectatic corneal disease - a review. Clin Experiment Ophthalmol . 2010;38(2):154–167. doi: 10.1111/j.1442-9071.2010.02197.x [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Jacob S, Patel SR, Agarwal A, Ramalingam A, Saijimol AI, Raj JM. Corneal Allogenic Intrastromal Ring Segments (CAIRS) combined with corneal cross-linking for Keratoconus. J Refract Surg . 2018;34(5):296–303. doi: 10.3928/1081597X-20180223-01 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Jacob S, Agarwal A
+CAIRS a reversible, stand-alone option for keratoconus treatment. 2020. Available from: https://www.healio.com/news/ophthalmology/20200916/cairs-a-reversible-standalone-option-for-keratoconus-treatment . Accessed September
+8, 2023. 
+ 
+ 
+ 86. Parker JS, Dockery PW, Parker JS. Trypan blue-assisted corneal allogenic intrastromal ring segment implantation. J Cataract Refract Surg . 2021;47(1):127. doi: 10.1097/j.jcrs.0000000000000316 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Alfonso JF, Fernández-Vega L, Lisa C, Fernandes P, González-Méijome JM, Montés-Micó R. Collagen copolymer toric posterior chamber phakic intraocular lens in eyes with keratoconus. J Cataract Refract Surg . 2010;36(6):906–916. doi: 10.1016/j.jcrs.2009.11.032 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Melles GR, Lander F, Rietveld FJ, Remeijer L, Beekhuis WH, Binder PS. A new surgical technique for deep stromal, anterior lamellar keratoplasty. Br J Ophthalmol . 1999;83(3):327–333. doi: 10.1136/bjo.83.3.327 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Coombes AG, Kirwan JF, Rostron CK. Deep lamellar keratoplasty with lyophilised tissue in the management of keratoconus. Br J Ophthalmol . 2001;85(7):788–791. doi: 10.1136/bjo.85.7.788 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Reddy JC, Modiwala Z, Mathew M. Lamellar Keratoplasty in Keratoconus. In: Keratoconus . Springer Nature Singapore; 2022:205–220. [ Google Scholar ] 
+ 
+ 91. Keane M, Coster D, Ziaei M, Williams K. Deep anterior lamellar keratoplasty versus penetrating keratoplasty for treating keratoconus. Cochrane Database Syst Rev . 2014;(7):CD009700. doi: 10.1002/14651858.CD009700.pub2 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. Chen G, Tzekov R, Li W, Jiang F, Mao S, Tong Y. Deep anterior lamellar keratoplasty versus penetrating keratoplasty: a meta-analysis of randomized controlled trials. Cornea . 2016;35(2):169–174. doi: 10.1097/ICO.0000000000000691 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 93. Ang M, Mehta JS. Deep anterior lamellar keratoplasty as an alternative to penetrating keratoplasty. Ophthalmology . 2011;118(11):2306–2307. doi: 10.1016/j.ophtha.2011.07.025 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 94. Watson SL, Ramsay A, Dart JKG, Bunce C, Craig E. Comparison of deep lamellar keratoplasty and penetrating keratoplasty in patients with keratoconus. Ophthalmology . 2004;111(9):1676–1682. doi: 10.1016/j.ophtha.2004.02.010 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 95. Reinhart WJ, Musch DC, Jacobs DS, Lee WB, Kaufman SC, Shtein RM. Deep anterior lamellar keratoplasty as an alternative to penetrating keratoplasty a report by the American Academy of Ophthalmology. Ophthalmology . 2011;118(1):209–218. doi: 10.1016/j.ophtha.2010.11.002 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 96. Yildiz E, Toklu M, Turan Vural E. Vision-related quality of life before and after deep anterior lamellar keratoplasty. Eye Contact Lens . 2018;44(3):144–148. doi: 10.1097/ICL.0000000000000359 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 97. Anwar M, Teichmann KD. Deep lamellar keratoplasty: surgical techniques for anterior lamellar keratoplasty with and without baring of Descemet’s membrane. Cornea . 2002;21(4):374–383. doi: 10.1097/00003226-200205000-00009 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 98. Funnell CL, Ball J, Noble BA. Comparative cohort study of the outcomes of deep lamellar keratoplasty and penetrating keratoplasty for keratoconus. Eye . 2006;20(5):527–532. doi: 10.1038/sj.eye.6701903 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 99. Jones MNA, Armitage WJ, Ayliffe W, Larkin DF, Kaye SB, NHSBT Ocular Tissue Advisory Group and Contributing Ophthalmologists (OTAG Audit Study 5). Penetrating and deep anterior lamellar keratoplasty for keratoconus: a comparison of graft outcomes in the United Kingdom. Invest Ophthalmol Vis Sci . 2009;50(12):5625–5629. doi: 10.1167/iovs.09-3994 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 100. Nanavaty MA, Vijjan KS, Yvon C. Deep anterior lamellar keratoplasty: a surgeon’s guide. J Curr Ophthalmol . 2018;30(4):297–310. doi: 10.1016/j.joco.2018.06.004 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 101. Shetty R, Ahuja P, D’Souza S, et al. Simultaneous topography-guided PRK/CXL versus topography-assisted PTK/CXL: 1-year prospective outcomes in keratoconic eyes. J Refract Surg . 2021;37(8):562–569. doi: 10.3928/1081597X-20210609-01 [ DOI ] [ PubMed ] [ Google Scholar ]

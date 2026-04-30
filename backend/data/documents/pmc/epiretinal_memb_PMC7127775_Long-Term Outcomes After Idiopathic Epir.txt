@@ -1,0 +1,462 @@
+Source: PubMed Central (PMC)
+PMCID: PMC7127775
+Title: Long-Term Outcomes After Idiopathic Epiretinal Membrane Surgery
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7127775/
+Year: 2020
+Disease: epiretinal_membrane
+Priority: 2
+============================================================
+
+Clin Ophthalmol . 2020 Mar 31;14:995–1002. doi: 10.2147/OPTH.S242681 
+ 
+ 
+ Long-Term Outcomes After Idiopathic Epiretinal Membrane Surgery 
+ Abdelrahman M Elhusseiny 
+ Abdelrahman M Elhusseiny 
+ 
+ 1 Department of Ophthalmology, Bascom Palmer Eye Institute, University of Miami Miller School of Medicine, Miami, FL, USA 
+ 
+ 2 Department of Ophthalmology, Kasr Al-Ainy School of Medicine, Cairo University, Cairo, Egypt 
+ Find articles by Abdelrahman M Elhusseiny 
+ 
+ 
+ 1, 2 , Harry W Flynn Jr 
+ Harry W Flynn Jr 
+ 
+ 1 Department of Ophthalmology, Bascom Palmer Eye Institute, University of Miami Miller School of Medicine, Miami, FL, USA 
+ Find articles by Harry W Flynn Jr 
+ 
+ 
+ 1 , William E Smiddy 
+ William E Smiddy 
+ 
+ 1 Department of Ophthalmology, Bascom Palmer Eye Institute, University of Miami Miller School of Medicine, Miami, FL, USA 
+ Find articles by William E Smiddy 
+ 
+ 
+ 1, ✉ 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, Bascom Palmer Eye Institute, University of Miami Miller School of Medicine, Miami, FL, USA 
+ 
+ 2 Department of Ophthalmology, Kasr Al-Ainy School of Medicine, Cairo University, Cairo, Egypt 
+ 
+ ✉ Correspondence: William E Smiddy Department of Ophthalmology, Bascom Palmer Eye Institute, University of Miami Miller School of Medicine, 900 NW 17 Street, Miami, FL, 33136, USA Email wsmiddy@med.miami.edu 
+ 
+ 
+ Received 2019 Dec 17; Accepted 2020 Feb 21; Collection date 2020. 
+ 
+ © 2020 Elhusseiny et al. 
+ This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License ( http://creativecommons.org/licenses/by-nc/3.0/ ). By accessing the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms ( https://www.dovepress.com/terms.php ). 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC7127775  PMID: 32280194 
+ 
+ Abstract 
+ Purpose 
+ To report anatomic and logMAR best-corrected visual acuity (BCVA) outcomes with long-term follow-up after pars-plana vitrectomy and epiretinal membrane peeling (PPV-MP). Design 
+ A retrospective case-series. Participants 
+ Patients with epiretinal membrane (ERM) who underwent PPV-MP performed by one surgeon. Methods 
+ Best-corrected visual acuity (BCVA) was recorded as a logMAR preoperatively and, when available, at 1, 2, 3, 5, 8, 10 years after surgery. The integrity of outer retinal layers was evaluated using spectral domain optical coherence tomography (SD-OCT). Main Outcome Measures 
+ Postoperative BCVA at different follow-up visits and its correlation with different OCT parameters. Results 
+ Fifty-five eyes of 49 patients were followed postoperatively with a mean of 8.6± 2.6 years (median: 9 years, range 5–16 years). The mean BCVA improved from 0.56±0.29 (20/72) preoperatively to 0.33±0.25 (20/42) at 1 year, 0.29±0.27 (20/38) at 2 years, 0.25±0.28 (20/35) at 3 years, 0.29±0.32 (20/38) at 5 years, 0.28±0.31 (20/38) at 8 years, and 0.28±0.25 (20/38) at 10 years (p<0.001). The BCVA improved at each of the first 3 years postoperatively and remained stable at 5, 8, and 10 years. Postoperative improvement in the integrity of ELM, and EZ, on SD-OCT correlated with improved BCVA. Conclusion 
+ BCVA continues to improve after PPV-MP during the first 3 years postoperatively and remains stable. Improved anatomic integrity of outer retinal layers correlated with improved BCVA. Keywords: idiopathic epiretinal membrane, outer retinal layer integrity, optical coherence tomography, visual outcomes Introduction 
+ Idiopathic epiretinal membrane (iERM) is a common cause of visual disturbance. 1 The pathogenesis is not fully understood, but is likely initiated during posterior vitreous detachment (PVD), 2 but some occur without PVD. 3 – 6 Various component cell types have been identified by histopathological analysis suggesting the potential of multiple pathogenetic mechanisms. 7 Causes of visual loss include varied degree of cell layer disruption/dysfunction and cystoid macular edema (CME). 8 – 10 Spectral domain optical coherence tomography (SD-OCT) has made these findings more discernable in vivo, but apparent paradoxes have been observed. 11 For example, marked inner retinal abnormalities have less visual impact than outer retinal layers despite looking more abnormal. 
+ Idiopathic ERMs are usually non-progressive, cause few or no visual symptoms, and are usually managed by observation. 12 However with moderate or severe visual loss, timely pars-plana vitrectomy with epiretinal membrane peeling (PPV-MP) restores much of the visual loss in a majority of eyes. 13 , 14 Several studies report a mean of 2 or 3 lines improvement, but most include follow-up information for 1–3 years postoperatively 13 , 15 - 18 The two studies reporting the longest follow-up information are Bouwens (5 years in 57 of 107 enrolled in a prospective study) and Pesin (3–5 years in 81 of 270 retrospectively studied) who evaluated visual improvement postoperatively of ERMs from a wide variety of diagnostic subsets. 15 , 17 Published follow-up Information beyond 5 years is lacking, hence the long-term surgical outcome has not been extensively studied. Moreover, while there have been several studies correlating BCVA and its improvement to anatomic features, as defined by SD-OCT, these studies also have predominantly been confined to short-term visual results, which might underlie why there are inconsistent findings between some studies. 19 – 22 
+ The purpose of the current study is to report the long-term anatomic and visual outcomes of PPV-MP. Methods 
+ The institutional review board of the University of Miami, Miller School of Medicine approved the study protocol. The study and data collection were compliant with the principles of the Declaration of Helsinki. Written informed surgical consents were signed by all patients included in the study, but informed consent for inclusion in the current study was waived. 
+ A retrospective chart review of patients who underwent PPV-MP for iERM by one surgeon (WES) at Bascom Palmer Eye Institute was conducted. Patients were identified by searching the electronic medical record (in use since May 2014) for follow-up examinations on eyes that appeared on the surgical logs for one surgeon (WES) from 2003 until April 2014. In this way patients with a minimum of 5 years follow-up information were identified (defined as “long term” follow-up). Visits within 1 year of the anniversary of the surgical date were tabulated as the whole number follow-up year (e.g. 8± 1 years was tabulated as 8 years) for the 5-year visits and after, and within 6 months for the 1-,2-, and 3-year visits. BCVA on a standard Snellen chart was recorded preoperatively and, when available, at 1, 2, 3, 5, 8, 10 years after surgery, but converted to log MAR for analyses. Patients with history of retinal detachment, retinal break, proliferative diabetic retinopathy, or any other cause of secondary ERM were excluded. 
+ There were two sub-analyses performed. Patients were sub-stratified into 2 groups according to their preoperative BCVA (group 1 had better than 20/60 [0.47 log MAR]; group 2 had worse) to compare the postoperative BCVA improvement between groups. The pseudophakic subset was also analyzed separately to exclude the confounding effect of cataract formation. 
+ The surgical procedure included a 3-port PPV with core vitrectomy, removal of posterior hyaloid (if not separated), and peeling of the ERM usually with the intent of peeling internal limiting membrane (ILM). Chromovitrectomy was not used. 
+ Patient Characteristics 
+ Data obtained included age, gender, duration of follow-up, preoperative lens status ((phakic or pseudophakic), past ocular history, preoperative BCVA), preoperative glaucoma drop regimen, any complications such as retinal detachment, and BCVA at various follow-up examination time points (1, 2, 3, 5, 8, and 10 years). SD-OCT Parameters 
+ There was not a standardized protocol for imaging, but preoperative OCT was usually performed, although in some earlier cases, it entailed time-domain OCT, so could not be correlated. Some patients brought a recent OCT study from elsewhere and, therefore, it was not repeated preoperatively. Moreover, some of the earlier preoperative SD-OCTs were not digitally retrievable due to the evolution of the storage systems in our institution. Postoperative OCT data for correlation with BCVA were collected from the latest postoperative time point available. Preoperative central foveal thickness (CFT), external limiting membrane (ELM) integrity, ellipsoid zone (EZ) integrity, foveal contour, and presence of cystoid spaces were evaluated and compared. ELM and EZ integrity were defined and graded by two of the authors as either intact (presence of a continuous hyperreflective line) or disrupted on SD-OCT corresponding to ELM or EZ, respectively. Cystoid spaces were graded either absent (grade 0), barely present (grade 1), mild to moderate (grade 2), severe (grade 3). The SD-OCT graders were masked to the BCVA. Statistical analysis 
+ Data were coded and entered using SPSS (Statistical Package for the Social Science) (SPSS Inc, Chicago, IL, USA) version 24. Quantitative data were summarized using minimum, maximum, mean, median and standard deviation. Categorical data were summarized using frequency (count) and relative frequency (percentage). Comparisons between quantitative variables were done using the student t test for 2 variables, ANOVA for more than 2 variables, and paired t test for comparing pre and post BCVA during follow-up examinations. Bonferroni post hoc test was used if ANOVA result was statistically significant. While comparisons between qualitative variables were done using the McNemar test. All tests were two-tailed, and results were considered statistically significant when p-value is less than 0.05, and highly statistically significant when p-value is less than 0.01. Pearson correlation was used to evaluate the relationship between variables. Correlation is considered of high value if r is more than or equal to ± 0.65 with p-value < 0.05, of moderate level if ±0.2 ≤ r ≤±0.65 with p-value <0.05, and of low-level correlation if r<±0.2 and p-value<0.05. Results 
+ The study cohort consisted of 55 eyes of 49 patients. The mean postoperative follow-up duration was 8.6± 2.6 years (median: 9 years, range: 5–16 years). During the study period from 2003 until May 2014, a total number of 497 ERM surgeries were performed by one surgeon (WES); 301 of these eyes were not idiopathic in etiology; 141 were excluded since they were not seen during the acquisition interval (that is, they did not have at least 5 years of follow-up information). 
+ Patient demographics are listed in Table 1 . Primary open-angle glaucoma (POAG) preexisted in 6 eyes (2 had a trabeculectomy and one a tube shunt; 2 POAG patients underwent trabeculectomy 10 months and 7 years after PPV-MP) and developed in 1 eye postoperatively. There was no change in the number of drops (although there were substitutions and temporary increases) used after PPV-MP. Dry age-related macular degeneration (AMD) and wet AMD had been developed by last examination in 6 and 2 eyes, respectively.
+ 
+ Table 1. 
+ Baseline Characteristics of Epiretinal Membrane (ERM) Patients Who Underwent Pars-Plana Vitrectomy and Membrane Peeling (PPV-MP) 
+ 
+ 
+ Age (Years)(SD) 
+ 70.2±6.8 years 
+ 
+ Range 55–84 years 
+ 
+ Gender 
+ 
+ 
+ 
+  Male 
+ 30 eyes (54.5%) 
+ 
+ 
+  Female 
+ 25 eyes (45.5%) 
+ 
+ 
+ Side 
+ 
+ 
+ 
+  Right 
+ 27 eyes (49.1%) 
+ 
+ 
+  Left 
+ 28 eyes (50.9%) 
+ 
+ 
+ Preoperative Lens status 
+ 
+ 
+ 
+  Phakic 
+ 29 eyes (53%) 
+ 
+ 
+  Pseudophakic 
+ 26 eyes (47%) 
+ 
+ 
+ Preoperative logMAR mean best corrected visual acuity (±SD) 
+ 0.56 (±0.29) 
+ 
+ 
+ Mean follow-up duration (±SD) 
+ 8.6 (± 2.6) years 
+ 
+ 
+ Open in a new tab 
+ Abbreviation: SD, Standard deviation. The mean BCVA improved from 0.56±0.29 (20/72) preoperatively to 0.33±0.25 (20/42) at 1 year, 0.29±0.27 (20/38) at 2 years, 0.25±0.28 (20/35) at 3 years, 0.29±0.32 (20/38) at 5 years, 0.28±0.31 (20/38) at 8 years, 0.28±0.25 (20/38) at 10 years and 0.33±0.31 (20/42) at the latest follow-up examination (p<0.001) ( Figure 1 ). There was a statistically significant difference when comparing BCVA at 1 year to 2 years (p=0.046) and 2 years to 3 years (p<0.001), but remained stable at 5, 8, and 10 years. 
+ Figure 1. 
+ 
+ Open in a new tab 
+ Best-corrected visual acuity (BCVA) of the whole cohort (interrupted black line) up to 10 years postoperatively and the pseudophakic cohort (solid black line) up to 3 years postoperatively. LogMAR: Logarithm of the Minimum Angle of Resolution. There was no statistically significant difference in the mean postoperative BCVA between preoperatively phakic patients compared to pseudophakic patients at 1, 2, 3, 5, 8, and 10 years follow-up visits. Twenty-eight (97% of the initially 29 phakic eyes) eyes underwent cataract extraction with intraocular lens implantation (CE/IOL); these were operated in the first year in 11 (39%) eyes, in the second year in 13 (46%) eyes, in the third year in 4 (14%) eyes after PPV-MP; one (3.4%) eye remained phakic despite having a visually significant cataract because the patient declined CE/IOL. The mean duration from PPV-MP to CE/IOL was 12.6±7.4 months (median: 12 months, range: 2–31 months). 
+ In the subgroup of baseline pseudophakic patients, BCVA was improved from the baseline to the 1-year follow-up examination (p=0.016), remained stable from year 1 to year 2 (p =0.217), and improved further from year 2 to year 3 postoperatively (p =0.007). ( Table 2 ) ( Figure 1 ). A representative case is depicted in Figure 2 .
+ 
+ Table 2. 
+ Comparison Between Best-Corrected Visual Acuity (BCVA) in logMAR at the First 3 Years in Pseudophakic Patients 
+ 
+ 
+ Best Corrected Visual Acuity (BCVA) 
+ Mean ±SD 
+ p-value 
+ 
+ 
+ BCVA in preoperatively pseudophakic patients compared to that at 1, 2 and 3 years. (N=19) 
+ 
+ Preoperative BCVA 
+ 0.55±0.26 
+ 0.016 
+ 
+ 
+ BCVA at 1 year 
+ 0.35±0.30 
+ 
+ 
+ BCVA at 1 year 
+ 0.34±0.30 
+ 0.217 
+ 
+ 
+ BCVA at 2 years 
+ 0.31±0.29 
+ 
+ 
+ BCVA at 2 years 
+ 0.31±0.29 
+ 0.007 
+ 
+ 
+ BCVA at 3 years 
+ 0.27±0.30 
+ 
+ BCVA in patients who were pseudophakic at 1 year time point compared to 2 and 3 years (N=29) 
+ 
+ BCVA at 1 year 
+ 0.33±0.26 
+ 0.041 
+ 
+ 
+ BCVA at 2 years 
+ 0.30±0.25 
+ 
+ 
+ BCVA at 2 years 
+ 0.30±0.25 
+ 0.006 
+ 
+ 
+ BCVA at 3 years 
+ 0.26±0.26 
+ 
+ 
+ BCVA at 1 year 
+ 0.33±0.26 
+ 0.006 
+ 
+ 
+ BCVA at 3 years 
+ 0.26±0.26 
+ 
+ BCVA in patients who were pseudophakic at the 2 year time point compared to that at 3 years (N=40) 
+ 
+ BCVA at 2 years 
+ 0.28±0.25 
+ <0.001 
+ 
+ 
+ BCVA at 3 years 
+ 0.23±0.26 
+ 
+ 
+ 
+ Open in a new tab 
+ Abbreviations: N, Number of eyes; SD, standard deviation. Figure 2. 
+ 
+ Open in a new tab 
+ ( A ) A 76-year-old female had loss of vision to 20/80 due to an epiretinal membrane, left eye. There was only mild, central attenuation of the ellipsoid zone (blue arrow) and a discontinuity of the external limiting membrane (red arrow). ( B ) The visual acuity improved to 20/40 at 1 year and 20/30 by 3 years postoperatively, and at 6.3 years postoperatively has remained stable at 20/30 with improvement in the ellipsoid (blue arrow) and external limiting membrane contours (red arrow). The subgroup of patients with poorer preoperative BCVA (group 2) yielded a larger magnitude (percentage) of BCVA improvement from the baseline to 1 year than for patients with better preoperative BCVA (group 1) (p=0.013). In group 2, the mean BCVA was improved from 0.24±0.09 preoperatively to 0.53±0.25 at 1 year, while in group 1, the mean BCVA was improved from 0.5±0.13 preoperatively to 0.55±0.25 at 1 year. However, there was no difference in the magnitude (percentage) of visual improvement during the rest of the follow-up visits. The absolute, mean postoperative BCVA, was the same for both preoperative BCVA groups at 1, 2, 3, 5, 8 and 10 years. 
+ Postoperative OCT data were collected from the longest postoperative time point available (mean 6.2±3.4 years postoperatively). ELM disruption preoperatively in 20 (36%) eyes; improved in 11 (55%) eyes postoperatively ( Table 3 ). EZ disruption preoperatively in 19 (35%) eyes improved in 11 (58%) eyes postoperatively ( Table 4 ). The normal, foveal contour, absent preoperatively in 53 (96%) eyes was partially restored in only 5 (9.4%) postoperatively. Severe cystoid spaces (grade 3) pin 24 eyes (44%), improved at least 2 grades in 22 (92%) postoperatively, but the pattern of improvement could be identified to correlate with improved BCVA.
+
+ 
+ Table 3. 
+ Best Corrected Visual Acuity (BCVA) in Patients with Improved Postoperative External Limiting Membrane (ELM) Integrity Compared to Those with Persistent Disruption of ELM 
+ 
+ 
+ Different Follow-Up Time Points 
+ ELM Integrity 
+ Mean Best Corrected Visual Acuity a ±SD 
+ p-value 
+ 
+ 
+ 
+ At 1 year 
+ Improved (N=9) 
+ 0.23±0.18 
+ 0.005 
+ 
+ 
+ Not Improved (N=7) 
+ 0.67±0.34 
+ 
+ 
+ At 2 years 
+ Improved (N=9) 
+ 0.24±0.30 
+ 0.043 
+ 
+ 
+ Not improved (N=7) 
+ 0.62±0.39 
+ 
+ 
+ At 3 years 
+ Improved (N=9) 
+ 0.18±0.32 
+ 0.038 
+ 
+ 
+ Not Improved (N=7) 
+ 0.59±0.38 
+ 
+ 
+ At 5 years 
+ Improved (N=11) 
+ 0.23±0.28 
+ 0.004 
+ 
+ 
+ Not Improved (N=9) 
+ 0.71±0.36 
+ 
+ 
+ At 8 years 
+ Improved (N=10) 
+ 0.26±0.31 
+ 0.074 
+ 
+ 
+ Not Improved (N=7) 
+ 0.61±0.44 
+ 
+ 
+ 
+ Open in a new tab 
+ 
+ Note: 
+ a Postoperative best-corrected visual acuity (BCVA) was measured in LogMAR at different follow-up time points. 
+ Abbreviations: N, Number of eyes; SD, Standard deviation. 
+ Table 4. 
+ Best Corrected Visual Acuity (BCVA) in Patients with Improved Postoperative Ellipsoid Zone (EZ) Integrity Compared with BCVA in Patients with Persistent Postoperative Disruption of EZ 
+ 
+ 
+ Different Follow-Up Time Points 
+ EZ Integrity 
+ Mean Best Corrected Visual Acuity a ±SD 
+ p-value 
+ 
+ 
+ 
+ At 1 year 
+ Improved (N=9) 
+ 0.17±0.14 
+ <0.001 
+ 
+ 
+ Not Improved (N=6) 
+ 0.74±0.30 
+ 
+ 
+ At 2 year 
+ Improved (N=9) 
+ 0.17±0.11 
+ 0.001 
+ 
+ 
+ Not Improved (N=6) 
+ 0.70±0.37 
+ 
+ 
+ At 3 years 
+ Improved (N=9) 
+ 0.11±0.12 
+ 0.001 
+ 
+ 
+ Not Improved (N=6) 
+ 0.66±0.37 
+ 
+ 
+ At 5 years 
+ Improved (N=11) 
+ 0.15±0.13 
+ <0.001 
+ 
+ 
+ Not Improved (N=8) 
+ 0.78±0.30 
+ 
+ 
+ At 8 years 
+ Improved (N=11) 
+ 0.18±0.18 
+ 0.002 
+ 
+ 
+ Not Improved (N=6) 
+ 0.7±0.41 
+ 
+ 
+ 
+ Open in a new tab 
+ 
+ Note: 
+ a Postoperative best-corrected visual acuity (BCVA) was measured in LogMAR at different follow-up time points. 
+ Abbreviation: N, Number of eyes; SD, standard deviation. 
+ Postoperative BCVA in eyes with improved ELM and EZ integrity was greater than for those with persistent disruption at almost all postoperative time points ( Tables 3 and 4 ). The CFT was reduced from 453±109 μm (range: 252–686 μm) preoperatively to 318±65 μm (range: 156–478 μm) at a mean of 6±3.4 years postoperatively (p <0.001). However, CFT reduction was only associated with improvement in BCVA at 8 years (p=0.04). 
+ Three eyes (5.5%) had recurrent, visually significant ERM after PPV-MP and underwent reoperation 5, 7, and 8 years after the first ERM surgery. Each patient had initial BCVA improvement, but loss commensurate with the recurrence, which occurred 5–8 years after initial surgery. BVCA improved to the same initially improved level after reoperation in all 3 eyes. 
+ Two eyes developed full-thickness macular hole (FTMH) during the postoperative course: One developed 2 years after PPV-MP; the BCVA 5 years after macular hole surgery (MHS), was 20/30 (0.17 log MAR). In the other patient, the FTMH developed 6 months after PPV-MP; the BCVA 12 years after MHS was 20/100 (0.69 log MAR). 
+ Two eyes developed wet AMD, 7 and 11 years after PPV-MP, and received multiple intravitreal anti–vascular endothelial growth factors (anti-VEGF) injections with decreased CFT and resolution of intraretinal cystic spaces. The BCVA at latest follow-up visit was 20/80 (0.6 log MAR) and 20/40 (0.3 log MAR), 5 years and 1 year, respectively. 
+ Intraoperative retinal breaks were identified in 2 eyes and cryotherapy was applied. No patients in this cohort developed postoperative retinal detachment. Discussion 
+ The current study included a cohort of patients operated for idiopathic ERM and followed for a minimum of 5 years postoperatively. This study cohort represents the longest follow-up reported in the literature and is the only study with long-term follow-up correlated to OCT features. One principal finding was that BCVA continued to improve up to 3 years after PPV-MP and stabilized thereafter. No other reports have identified such continued improvements over that longer period of time, possibly due to the difficulties in assembling a large enough cohort with longer follow-up durations. This result was independent of the preoperative lens status and was not fully attributable to the timing of cataract surgery. The second principal finding was that improvement in ELM, EZ integrity, and CFT was associated with improved BCVA, but improvement in foveal contour and CME resolution was not. This suggests the outer retina that is more important in determining postoperative (and likely preoperative) BCVA. While the final BCVA was not related to preoperative BCVA, the proportional magnitude (percent) was greater for the group with poorer BCVA in the first year, but not continue thereafter. 
+ Most reports improved BCVA in 66–90% of cases but have been limited to a year of follow-up information. 13 , 23 - 25 PPV-MP may improve metamorphopsia even if BCVA is not improved, an important subjective symptom factoring into a surgical decision particularly if the BCVA is relatively good. 15 , 25 Very few reports 5-year postoperative information in even a small proportion of cases and, as in this study, are compromised from low retention rates, a problem that inherent to long follow-up. Bouwens reported improved BCVA in 57 eyes from the 1- to 5-year time point postoperatively of 0.96±2.37 lines. 15 This was a prospective study, yet still only 57 of 107 incident patients returned for the 5-year follow-up examination, no information between 1 and 5 years was collected, and OCT data were not available. The authors hypothesized that the 47% rate of loss to follow-up was largely due to disappointment in the postoperative BCVA since it was lower at 1 year than in patients who ultimately returned at 5 years. Pesin reported 3–5-year follow-up information in 81 (30%) of 270 patients with either iERM (68%) or secondary ERM, finding no statistically significant difference in the postoperative visual outcomes between both groups (idiopathic vs secondary) with ≥ 2 lines improvement in 58% of patients at 3–5 years. The mean time to achieve BCVA postoperatively was 0.8–0.9 years except in the group which underwent CE/IOL (1.9 years). 17 No OCT data were presented. Thus, our 28% retention rate with an average of almost 10 years follow-up duration is at least as high as previous studies. 
+ Several studies have demonstrated a correlation between preoperative and postoperative BCVA, 26 , 27 but Koutsandrea did not. 28 The current authors were surprised not to better preoperative BCVA as a prognostic factor, but eyes with poorer preoperative vision gained a larger proportional magnitude, but only within the first year postoperatively. 
+ The recurrence rate after ERM surgery varies broadly among different studies (1–21%), perhaps due to variable or short follow-up information. 25 , 29 - 31 In the current study, recurrent ERM sufficient to prompt repeat PPV-MP occurred in 5.5%, and all recurrences were at least 5 years after the initial surgery. ILM peeling has been reported to reduce the risk of ERM recurrence, 30 , 31 but was not systematically evaluated. 
+ Prognostic SD-OCT factors reported include EZ integrity, 19 , 32 , 33 cone outer segment integrity, 34 degree of metamorphopsia 35 and foveal autofluorescence. 36 However, EZ integrity 37 and ELM integrity 36 were not correlated to BVCA in other reports. The current study confirms the general principle that the outer retinal layers are more visually important than inner layers despite the more deranged appearance caused by inner retinal features. Hence, the morphology of the inner retina may be deceivingly worse than the effect on BCVA. This apparently counterintuitive observation may be important when evaluating a patient for surgery (ie, in attributing visual loss to the ERM). More rigorous, quantitative OCT studies have identified a possible role for some inner retinal layers (e.g. macular GC-IPL thinning) in limiting visual recovery. 38 – 40 which might reflect glaucomatous damage since decreased visual field mean deviation has also been reported. 22 The current study did not find a tendency for worsening or new-onset glaucoma. 
+ The current study is inherently limited by its retrospective nature, as have all studies seeking long-term follow-up information; concern for a bias in favor of patients with good results continuing in longer follow-up has been reported. 41 Data regarding other factors that may improve after PPV-MP such as metamorphopsia are lacking. 
+ In conclusion, the current study demonstrates progressive visual improvement during the first 3 years after PPV-MP and stable vision thereafter with very long-term monitoring. While this finding could reflect a bias towards longer follow-up in patients satisfied by better visual results, 41 this information could be useful to counsel patients considering PPV-MP as well as during their preoperative and postoperative course. While other conditions such as recurrent ERM, MH formation, AMD development, and glaucoma may occur in the postoperative course, the frequency of these events was relatively low. Improvement in outer retinal OCT parameters postoperatively was correlated with better visual outcome of patients after PPV-MP, seeming to reflect the importance of the outer retinal layers in determining the degree of visual improvement following PPV-ERM. Funding Statement 
+ Partially supported by NIH Center Core Grand P30EY014801 and by an unrestricted grant from research to prevent blindness to the University of Miami. The sponsor or funding organization had no role in the design or conduct of this research. Disclosure 
+ Dr Harry W Flynn Jr reports grants from National Institutes of Health (NIH), Bethesda, Maryland, during the conduct of the study. The study was supported in part by NIH Center Core Grant P30EY014801 (Bethesda, Maryland) and Research to Prevent Blindness Unrestricted Grant to UM. The Department of Ophthalmology receives grant support from Research to Prevent Blindness and the National Institutes of Health. However, Dr. Flynn has not directly received grant support or research funding for this manuscript. No financial disclosures conflicting relationship exist for any author. References 
+ 
+ 
+ 1. Folk JC, Adelman RA, Flaxel CJ, et al. Idiopathic epiretinal membrane and vitreomacular traction preferred practice pattern((R)) guidelines. Ophthalmology . 2016;123(1):P152–81. doi: 10.1016/j.ophtha.2015.10.048 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Roth AMFR. Surface wrinkling retinopathy in eyes enucleated at autopsy. Trans Am Acad Ophthalmol Otolaryngol . 1971;75:1047–1058. [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Chung SE, Kim KH, Kang SW. Retinal breaks associated with the induction of posterior vitreous detachment. Am J Ophthalmol . 2009;147(6):1012–1016. doi: 10.1016/j.ajo.2009.01.013 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Hirokawa H, Jalkh AE, Takahashi M, et al. Role of the vitreous in idiopathic preretinal macular fibrosis. Am J Ophthalmol . 1986;101(2):166–169. doi: 10.1016/0002-9394(86)90589-1 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Sidd RJ, Fine SL, Owens SL, Patz A. Idiopathic preretinal gliosis. Am J Ophthalmol . 1982;94(1):44–48. doi: 10.1016/0002-9394(82)90189-1 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Chung SE, Lee JH, Kang SW, et al. Characteristics of epiretinal membranes according to the presence or absence of posterior vitreous detachment. Eye (Lond) . 2011;25(10):1341–1346. doi: 10.1038/eye.2011.171 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Smiddy WE, Michels RG, Green WR. Morphology, pathology, and surgery of idiopathic vitreoretinal macular disorders: a Review. Retina . 1990;10(4):288–296. doi: 10.1097/00006982-199010000-00012 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Niwa T, Terasaki H, Kondo M, et al. Function and morphology of macula before and after removal of idiopathic epiretinal membrane. Invest Ophthalmol Vis Sci . 2003;44(4):1652–1656. doi: 10.1167/iovs.02-0404 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Hamza HS, Elhusseiny AM. Submacular sclerosing capillary hemangioblastoma. Am J Ophthalmol Case Rep . 2018;11:61–63. doi: 10.1016/j.ajoc.2018.05.010 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Michalewski J, Michalewska Z, Cisiecki S, Nawrocki J. Morphologically functional correlations of macular pathology connected with epiretinal membrane formation in spectral optical coherence tomography (SOCT). Graefes Arch Clin Exp Ophthalmol . 2007;245(11):1623–1631. doi: 10.1007/s00417-007-0579-4 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Sun P, Tandias RM, Yu G, Arroyo JG. Spectral domain optical coherence tomography findings and visual outcome after treatment for vitreomacular traction. Retina . 2019;39(6):1054–1060. doi: 10.1097/IAE.0000000000002116 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Fraser-bell S, Guzowski M, Rochtchina E, et al. Five-year cumulative incidence and progression of epiretinal membranes: the Blue Mountains Eye Study. Ophthalmology . 2003;110(1):34–40. doi: 10.1016/S0161-6420(02)01443-4 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Michels RG. Vitrectomy for macular pucker. Ophthalmology . 1984;91(11):1384–1388. doi: 10.1016/S0161-6420(84)34136-7 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Charles S. Techniques and tools for dissection of epiretinal membranes. Graefes Arch Clin Exp Ophthalmol . 2003;241(5):347–352. doi: 10.1007/s00417-003-0624-x [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Bouwens MD, de Jong F, Mulder P, van Meurs JC. Results of macular pucker surgery: 1- and 5-year follow-up. Graefes Arch Clin Exp Ophthalmol . 2008;246(12):1693–1697. doi: 10.1007/s00417-008-0909-1 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Lee EK, Lee SY, Yu HG. Epiretinal membrane in nonexudative age-related macular degeneration: anatomical features, visual outcomes and prognostic factors. Retina . 2016;36(8):1557–1565. doi: 10.1097/IAE.0000000000000953 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Pesin SR, Olk RJ, Grand MG, et al. Vitrectomy for premacular fibroplasia. Prognostic factors, long-term follow-up, and time course of visual improvement. Ophthalmology . 1991;98(7):1109–1114. doi: 10.1016/S0161-6420(91)32169-9 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Wong JG, Sachdev N, Beaumont PE, Chang AA. Visual outcomes following vitrectomy and peeling of epiretinal membrane. Clin Exp Ophthalmol . 2005;33(4):373–378. doi: 10.1111/ceo.2005.33.issue-4 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Scheerlinck LM, van der Valk R, van Leeuwen R. Predictive factors for postoperative visual acuity in idiopathic epiretinal membrane: a systematic review. Acta Ophthalmol . 2015;93(3):203–212. doi: 10.1111/aos.12537 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Mayer WJ, Vogel M, Neubauer A, et al. Pars plana vitrectomy and internal limiting membrane peeling in epimacular membranes: correlation of function and morphology across the macula. Ophthalmologica . 2013;230(1):9–17. doi: 10.1159/000350233 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Cobos E, Arias L, Ruiz-moreno J, et al. Preoperative study of the inner segment/outer segment junction of photoreceptors by spectral-domain optical coherence tomography as a prognostic factor in patients with epiretinal membranes. Clin Ophthalmol . 2013;7:1467–1470. doi: 10.2147/OPTH.S44837 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Jonna G, Thompson IA, Mendel TA, Kim SJ. Five-year functional outcomes after epiretinal membrane surgery: a prospective, controlled study. Retina . 2018;39(12):2326–2331. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Poliner LS, Olk RJ, Grand MG, et al. Surgical management of premacular fibroplasia. Arch Ophthalmol . 1988;106(6):761–764. doi: 10.1001/archopht.1988.01060130831033 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Rice TA, De Bustros S, Michels RG, et al. Prognostic factors in vitrectomy for epiretinal membranes of the macula. Ophthalmology . 1986;93(5):602–610. doi: 10.1016/S0161-6420(86)33689-3 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Ghazi-nouri SM, Tranos PG, Rubin GS, et al. Visual function and quality of life following vitrectomy and epiretinal membrane peel surgery. Br J Ophthalmol . 2006;90(5):559–562. doi: 10.1136/bjo.2005.085142 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Kunikata H, Abe T, Kinukawa J, Nishida K. Preoperative factors predictive of postoperative decimal visual acuity ≥ 1.0 following surgical treatment for idiopathic epiretinal membrane. Clin Ophthalmol . 2011;5:147–154. doi: 10.2147/OPTH.S15848 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Nitta E, Shiraga F, Shiragami C, et al. Displacement of the retina and its recovery after vitrectomy in idiopathic epiretinal membrane. Am J Ophthalmol . 2013;155(6):1014–20.e1. doi: 10.1016/j.ajo.2013.01.021 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Koutsandrea CN, Apostolopoulos MN, Alonistiotis DA, et al. Indocyanine green-assisted epiretinal membrane peeling evaluated by optical coherence tomography and multifocal electroretinography. Clin Ophthalmol . 2007;1(4):535–544. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Sandali O, El Sanharawi M, Basli E, et al. Epiretinal membrane recurrence: incidence, characteristics, evolution, and preventive and risk factors. Retina . 2013;33(10):2032–2038. doi: 10.1097/IAE.0b013e31828d2fd6 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Kwok A, Lai TY, Yuen KS. Epiretinal membrane surgery with or without internal limiting membrane peeling. Clin Exp Ophthalmol . 2005;33(4):379–385. doi: 10.1111/ceo.2005.33.issue-4 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. De Novelli FJ, Goldbaum M, Monteiro MLR, et al. Recurrence rate and need for reoperation after surgery with or without internal limiting membrane removal for the treatment of the epiretinal membrane. Int J Retina Vitreous . 2017;3:48. doi: 10.1186/s40942-017-0101-z [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Kim JH, Kim YM, Chung EJ, et al. Structural and functional predictors of visual outcome of epiretinal membrane surgery. Am J Ophthalmol . 2012;153(1):103–10.e1. doi: 10.1016/j.ajo.2011.06.021 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Mitamura Y, Hirano K, Baba T, Yamamoto S. Correlation of visual recovery with presence of photoreceptor inner/outer segment junction in optical coherence images after epiretinal membrane surgery. Br J Ophthalmol . 2009;93(2):171–175. doi: 10.1136/bjo.2008.146381 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Itoh Y, Inoue M, Rii T, et al. Correlation between foveal cone outer segment tips line and visual recovery after epiretinal membrane surgery. Invest Ophthalmol Vis Sci . 2013;54(12):7302–7308. doi: 10.1167/iovs.13-12702 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Kinoshita T, Imaizumi H, Okushiba U, et al. Time course of changes in metamorphopsia, visual acuity, and OCT parameters after successful epiretinal membrane surgery. Invest Ophthalmol Vis Sci . 2012;53(7):3592–3597. doi: 10.1167/iovs.12-9493 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Brito PN, Gomes NL, Vieira MP, et al. Possible role for fundus autofluorescence as a predictive factor for visual acuity recovery after epiretinal membrane surgery. Retina . 2014;34(2):273–280. doi: 10.1097/IAE.0b013e3182999a02 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Kim JH, Kang SW, Kong MG, Ha HS. Assessment of retinal layers and visual rehabilitation after epiretinal membrane removal. Graefes Arch Clin Exp Ophthalmol . 2013;251(4):1055–1064. doi: 10.1007/s00417-012-2120-7 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Kuriyan AE, DeBuc DC, Smiddy WE. Reflectivity and thickness analysis of epiretinal membranes using spectral-domain optical coherence tomography. Int J Ophthalmol . 2016;9(1):93–98. doi: 10.18240/ijo.2016.01.16 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Song SJ, Lee MY, Smiddy WE. Ganglion cell layer thickness and visual improvement after epiretinal membrane surgery. Retina . 2016;36(2):305–310. doi: 10.1097/IAE.0000000000000705 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Lee EK, Yu HG. Ganglion cell-inner plexiform layer thickness after epiretinal membrane surgery: a spectral-domain optical coherence tomography study. Ophthalmology . 2014;121(8):1579–1587. doi: 10.1016/j.ophtha.2014.02.010 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Jabs DA. Improving the reporting of clinical case series. Am J Ophthalmol . 2005;139(5):900–905. doi: 10.1016/j.ajo.2004.12.009 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

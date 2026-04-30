@@ -1,0 +1,771 @@
+Source: PubMed Central (PMC)
+PMCID: PMC11109072
+Title: Myopia Control: Are We Ready for an Evidence Based Approach?
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11109072/
+Year: 2024
+Disease: myopia
+Priority: 2
+============================================================
+
+Ophthalmol Ther . 2024 May 7;13(6):1453–1477. doi: 10.1007/s40123-024-00951-w 
+ 
+ 
+ Myopia Control: Are We Ready for an Evidence Based Approach? 
+ Leila Sara Eppenberger 
+ Leila Sara Eppenberger 
+ 
+ 1 Singapore Eye Research Institute, Singapore National Eye Centre, Singapore, Singapore 
+ 
+ 2 Health Sciences and Technology, ETH Zurich, Zurich, Switzerland 
+ Find articles by Leila Sara Eppenberger 
+ 
+ 
+ 1, 2 , Andrzej Grzybowski 
+ Andrzej Grzybowski 
+ 
+ 3 University of Warmia and Mazury, Olsztyn, Poland 
+ 
+ 4 Institute for Research in Ophthalmology, Poznan, Poland 
+ Find articles by Andrzej Grzybowski 
+ 
+ 
+ 3, 4 , Leopold Schmetterer 
+ Leopold Schmetterer 
+ 
+ 1 Singapore Eye Research Institute, Singapore National Eye Centre, Singapore, Singapore 
+ 
+ 5 Ophthalmology and Visual Sciences Department, Duke-NUS Medical School, Singapore, Singapore 
+ 
+ 6 SERI-NTU Advanced Ocular Engineering (STANCE), Singapore, Singapore 
+ 
+ 7 School of Chemical and Biological Engineering, Nanyang Technological University, Singapore, Singapore 
+ 
+ 8 Department of Clinical Pharmacology, Medical University Vienna, Vienna, Austria 
+ 
+ 9 Center for Medical Physics and Biomedical Engineering, Medical University Vienna, Vienna, Austria 
+ 
+ 10 Institute of Molecular and Clinical Ophthalmology, Basel, Switzerland 
+ Find articles by Leopold Schmetterer 
+ 
+ 
+ 1, 5, 6, 7, 8, 9, 10 , Marcus Ang 
+ Marcus Ang 
+ 
+ 1 Singapore Eye Research Institute, Singapore National Eye Centre, Singapore, Singapore 
+ 
+ 5 Ophthalmology and Visual Sciences Department, Duke-NUS Medical School, Singapore, Singapore 
+ Find articles by Marcus Ang 
+ 
+ 
+ 1, 5, ✉ 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Singapore Eye Research Institute, Singapore National Eye Centre, Singapore, Singapore 
+ 
+ 2 Health Sciences and Technology, ETH Zurich, Zurich, Switzerland 
+ 
+ 3 University of Warmia and Mazury, Olsztyn, Poland 
+ 
+ 4 Institute for Research in Ophthalmology, Poznan, Poland 
+ 
+ 5 Ophthalmology and Visual Sciences Department, Duke-NUS Medical School, Singapore, Singapore 
+ 
+ 6 SERI-NTU Advanced Ocular Engineering (STANCE), Singapore, Singapore 
+ 
+ 7 School of Chemical and Biological Engineering, Nanyang Technological University, Singapore, Singapore 
+ 
+ 8 Department of Clinical Pharmacology, Medical University Vienna, Vienna, Austria 
+ 
+ 9 Center for Medical Physics and Biomedical Engineering, Medical University Vienna, Vienna, Austria 
+ 
+ 10 Institute of Molecular and Clinical Ophthalmology, Basel, Switzerland 
+ 
+ ✉ Corresponding author. 
+ 
+ 
+ Received 2024 Feb 19; Accepted 2024 Apr 11; Issue date 2024 Jun. 
+ 
+ © The Author(s) 2024 
+ Open Access This article is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License, which permits any non-commercial use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by-nc/4.0/ . 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC11109072  PMID: 38710983 
+ 
+ Abstract 
+ Introduction 
+ Myopia and its vision-threatening complications present a significant public health problem. This review aims to provide an updated overview of the multitude of known and emerging interventions to control myopia, including their potential effect, safety, and costs. Methods 
+ A systematic literature search of three databases was conducted. Interventions were grouped into four categories: environmental/behavioral (outdoor time, near work), pharmacological (e.g., atropine), optical interventions (spectacles and contact lenses), and novel approaches such as red-light (RLRL) therapies. Review articles and original articles on randomized controlled trials (RCT) were selected. Results 
+ From the initial 3224 retrieved records, 18 reviews and 41 original articles reporting results from RCTs were included. While there is more evidence supporting the efficacy of low-dose atropine and certain myopia-controlling contact lenses in slowing myopia progression, the evidence about the efficacy of the newer interventions, such as spectacle lenses (e.g., defocus incorporated multiple segments and highly aspheric lenslets) is more limited. Behavioral interventions, i.e., increased outdoor time, seem effective for preventing the onset of myopia if implemented successfully in schools and homes. While environmental interventions and spectacles are regarded as generally safe, pharmacological interventions, contact lenses, and RLRL may be associated with adverse effects. All interventions, except for behavioral change, are tied to moderate to high expenditures. Conclusion 
+ Our review suggests that myopia control interventions are recommended and prescribed on the basis of accessibility and clinical practice patterns, which vary widely around the world. Clinical trials indicate short- to medium-term efficacy in reducing myopia progression for various interventions, but none have demonstrated long-term effectiveness in preventing high myopia and potential complications in adulthood. There is an unmet need for a unified consensus for strategies that balance risk and effectiveness for these methods for personalized myopia management. Supplementary Information 
+ The online version contains supplementary material available at 10.1007/s40123-024-00951-w. Keywords: Myopia control, Myopia management, Intervention, Safety, Effect, Cost, RCTs Key Summary Points 
+ 
+ This review provides an updated overview of the various methods of myopia control. 
+ The amount of evidence varies substantially between the different interventions, and there are also major differences in terms of their effect, safety, and costs. 
+ There is a lack of data regarding long-term effectiveness and long-term safety of these interventions. 
+ A unified consensus is needed for a balance of risk and effectiveness of these methods to allow for individual myopia management. 
+ 
+ Open in a new tab Introduction 
+ Myopia is a refractive error that results from irreversible axial elongation [ 1 , 2 ], which subsequently can be associated with a higher risk of complications in adulthood, including retinal detachment, glaucoma, cataract, and myopic macular degeneration (MMD) [ 3 – 5 ]. The severity of complications related to myopia increases almost exponentially with higher degrees; therefore, a distinction between myopia, i.e., spherical equivalent refractive error (SER) ≤ − 0.50 diopters (D), and high myopia, SER of ≤ − 6.00 D, is necessary [ 1 ]. High myopia is associated with pathologic myopia, which can lead to irreversible vision impairment or even blindness [ 6 – 9 ]. Worryingly, the onset of myopia is increasingly seen in younger children in East Asia [ 2 , 10 ], with Asians having earlier onset, faster progression, and longer duration than other ethnic groups [ 11 , 12 ]. 
+ Over the last decades, the rise in myopia prevalence coincided with urbanization, an intensified focus on education, and reduced time outdoors [ 13 , 14 ]. As a consequence, the prevalence of myopia varies depending on geographical and ethnic factors, with rates reaching as high as 90% for myopia and up to 30% for high myopia in schoolchildren from East and Southeast Asia [ 15 – 19 ]. Population studies in 12-year-old children employing cycloplegic refraction report myopia rates that range from 6.0% in Cambodia, to 7.4% in New Delhi, to 17.7% in Northern Ireland, and 20.0% in the USA. In East Asian countries, specifically China and Hong Kong, the rates are 49.7% and 53.1%, respectively [ 20 – 26 ]. Remarkably, Singapore and Japan record an even higher prevalence of myopia in school children at 62.0% [ 10 , 27 ]. Despite the elevated myopia rates in some urbanized areas of East Asian countries, there exists variability—likely due to ethnic disparities and divergent behavioral [ 28 – 34 ]. Because of changing behaviors, myopia prevalence is also increasing in other geographical regions [ 35 – 37 ]. 
+ Fortunately, myopia control interventions have evolved tremendously over the past few decades. Forty years ago, the belief in an association between myopia and near work led to interventions, such as bifocal glasses and topical atropine, which focused on accommodation [ 38 , 39 ]. Twenty years later, the discovery of the importance of how peripheral hyperopic defocus may contribute to eye growth led to the exploration of interventions like peripheral defocus glasses and contact lenses [ 40 ]. Based on the advancements in understanding processes involved in eye growth, ever more interventions and treatments are being developed. Our objective is to provide a comprehensive overview of various myopia control measures, offering a useful evidence-based summary for practitioners. Methods 
+ We have categorized myopia control interventions into four main categories [ 41 – 47 ]: First, behavioral and environmental considerations, such as increased exposure to sunlight and outdoor activities [ 15 , 33 ], along with adjustments of reading distance and near work practices. Second, a pharmaceutical approach with atropine [ 48 ] and other drugs, e.g., pirenzepine and 7-methylxanthine (7-MX). Third, optical interventions [ 12 , 49 , 50 ] including a variety of contact lenses (myopia control soft contact lenses (SCL), and orthokeratology (OK) lenses), or spectacles with technologies such as defocus incorporated multiple segments (DIMS), highly aspherical lenslets target (HAL), diffusion optics technology (DOT), and others more. Additionally, newer approaches such low-intensity red-light (RLRL) [ 51 ] and violet-light (VL) therapies are introduced. Correspondingly, the literature search was conducted for each specific intervention separately. The following three questions guided the literature search and selection of articles: “How safe is the intervention?”, “How effective is it?”, and “What are the associated costs?” MEDLINE via PubMed, Cochrane Central Register of Controlled Trials (CENTRAL), and Web of Science were searched. The keywords used consisted of a combination of “myopia control” and one specific intervention, e.g., AND “atropine” AND “safety” OR “efficacy” OR “cost”. Searches were conducted according to a predefined protocol and carefully documented (Supplementary Table  1 ). Initially, articles published between January 2014 and December 2023 were searched for. Thereafter, the identified articles were stored in Zotero ® [ 52 ]. Following the removal of duplicate entries per group, titles and abstracts of the remaining articles were assessed. For each of the main intervention groups publications were separately checked and considered if they provided any information on the intervention’s safety, effect, or cost. According to predefined inclusion criteria (Table  1 ) only original articles reporting the results of randomized controlled trials (RCTs) were included. Also, they had to report the effect of a specific intervention for myopia control in children aged 4–18 years. In the case of multiple publications from the same research group, i.e., same authors, only the most recent or most comprehensive was selected. If more than ten original articles of RCTs were identified for a specific intervention, only the most recent were considered. Furthermore, the content of these included publications on RCTs was extracted and summarized in tabular format (Supplementary Tables  2 – 7 ) following the PRISMA checklist [ 53 ]. A manual search supplemented the process; it was conducted by reviewing the reference lists of the included papers to ensure a comprehensive coverage of relevant literature. Finally, we provide a qualitative summary in the form of a figure with four panels: the first panel depicts the amount of evidence retrieved and included, panels 2–4 give estimations of the effect, risks, and costs related to the main and currently most frequently applied myopia control methods. The graphs are based on approximations of the summarized data (Supplementary Table  8 ); the relationship of the different methods to the timeline from premyopia to high myopia is approximate and not based on citable, concrete numbers. 
+ Table 1. 
+ Selection criteria of articles 
+ 
+ 
+ Criterion 
+ Inclusion of trial 
+ 
+ 
+ 
+ Type of study 
+ Randomized controlled trial (RCT) 
+ 
+ 
+ Research question 
+ Investigation of effect, efficacy, safety, or cost of specific myopia control intervention in children 
+ 
+ 
+ Age of participants 
+ 4–18 years 
+ 
+ 
+ Language 
+ English 
+ 
+ 
+ Same study population 
+ Only newest 
+ 
+ 
+ Myopia measurements 
+ Objective measurement: refraction (ideally with cycloplegia) or axial length of the eye 
+ 
+ 
+ Myopia definition 
+ SER ≤ − 0.5 D 
+ 
+ 
+ Report of association 
+ Effect estimates with 95% confidence interval (CI) or standard error (SE) 
+ 
+ 
+ Full text 
+ Accessible via institution 
+ 
+ 
+ 
+ Open in a new tab This article is based on previously conducted studies and does not contain any new studies with human participants or animals performed by any of the authors. Results 
+ The performed literature searches resulted in a total of 3224 identified publications from the three databases: PubMed ( n  = 737), Cochrane ( n  = 1147), and Web of Science ( n  = 1340). After removal of 1858 duplicates within intervention groups, as well as the removal of conference abstracts, study registrations, and publications not written in English, a total of 1018 publications were manually screened (Fig.  1 ). A total of 103 RCTs were identified and checked in more detail for every intervention separately. Of these, 41 RCTs were included in the final analysis and summarized in tabular form (Supplementary Tables  2 – 7 ). Of the 140 review publications found, 18 reviews [ 9 , 12 , 19 , 45 , 54 – 67 ] published in the years 2019 to 2023, and retrieved via multiple searches, were considered, and included. In addition, some new myopia interventions, e.g., the cylindrical annular refractive element (CARE) lenses, were added later. Overall, the number of published articles varied significantly on the basis of the specific intervention (Fig.  1 ). Generally, more literature was found for longer existing interventions, e.g., OKs, multifocal SCL, and atropine, whereas, for newer myopia-controlling spectacle lenses, e.g., DIMS and HAL, only few articles were identified. In particular, of the 103 publications reporting results from RCTs, many more were found in the pharmacological category about atropine ( n  = 41; 40%), compared to those about different types of spectacles ( n  = 11; 11%), e.g., DIMS or HALs (Fig.  1 ). This provided the underlying basis for an approximation and qualitative synthesis of the evidence, effect, safety, and costs of the main myopia control interventions as displayed in Fig.  2 . 
+ Fig. 1. 
+ 
+ Open in a new tab 
+ Flowchart describing the process of literature search, identification, and selection Fig. 2. 
+ 
+ Open in a new tab 
+ Qualitative visualization of main myopia control methods in the East Asian ethnic group. Each intervention category is marked in a different color: outdoor time in green; atropine eye drops in blue; all types of myopia control spectacles are summarized in yellow; OK and myopia control SCL in violet; and RLRL in red. The bar heights and areas represent approximations; they are not proportional and cannot be taken as precise measurements. The amount of existing evidence was approximated from the number of identified RCTs (Fig.  1 ). The information summarized in the panels on effect, safety, and costs is extracted from the included RCTs ( n  = 41) and reviews (Supplementary Table  8 ). Since most of the available literature originates from East Asia, the visualization is limited to the situation in East Asian ethnicity. The color of the areas fades or question marks are places where there is uncertainty. Environmental and Behavioral Interventions 
+ Increased Outdoor Time and Sunlight Exposure 
+ Considerable evidence suggests that spending more time outdoors, exposed to sunlight offers protection against myopia, even after adjusting for factors such as near work, parental myopia, and ethnicity [ 13 – 15 , 33 , 68 – 70 ]. Several investigations identified education and time spent outdoors as significant risk factors in the development of myopia [ 13 , 40 ]. While the exact underlying mechanisms have not been confirmed, studies report a higher prevalence of myopia with decreased outdoor time and increased intensity, as well as duration of education [ 6 ]. In the attempt to explain the protective aspects of outdoor time, several theories have been proposed [ 70 – 72 ], including higher light intensity and the spectral composition of sunlight as possible influential factors [ 8 , 30 , 69 , 71 , 73 – 78 ]. 
+ A relevant amount of evidence indicates that interventions focused on increasing time spent outdoors by 40 to 120 min per day appear to have a positive impact on reducing the onset of myopia and slowing its progression [ 14 , 15 , 32 – 34 , 79 – 82 ]. Among others, Cao et al. estimated the positive effect of outdoor time with an improved pooled risk ratio of 0.76 (95% confidence interval [CI], 0.67–0.87) for new myopia cases. Also, the effect on myopia progression reached a pooled mean difference of 0.15 (95% CI 0.06–0.23) D benefit on refractive error [ 68 ]. In the present literature search five articles [ 34 , 80 , 83 – 85 ] reporting results from RCTs involving increased outdoor time or activity as an intervention were identified (Supplementary Table  2 ). One of these studies indicates that it is more the aspect of being outdoors, rather than the activity level that contributes to the protective effect of outdoor times [ 84 ]. A large cluster-randomized study from China estimated that 40 min of additional outdoor time per day decreased adjusted incidence by 16% (incidence risk ratio [IRR], 0.84; 95% CI 0.72–0.99; p  = 0.035), compared to the control group maintaining their habitual outdoor time [ 83 ]. In Taiwan, an educational policy mandating a minimum of 80 min of daily outdoor time led to a notable reduction of myopia incidence, dropping from 17% to 8%, and a decrease in the myopic progression from 0.38 to 0.25 D, particularly evident in children who had not yet developed myopia [ 80 , 86 ]. 
+ Although spending time outdoors seems generally safe, it is nonetheless important to consider the potential risks linked to outdoor activities, which necessitates appropriate application of sun protection for both the eyes and skin [ 19 ]. Increased outdoor time is accessible to all individuals but may be constrained by social factors such as academic expectations, weather conditions, and seasonal variations [ 87 ]. A shift towards more outdoor activity could even increase student productivity and performance: a recent Chinese study showed that school children, aged 8 to 10 years, who spent an additional 2 h outdoors, reached statistically higher academic performance compared to those who followed the regular curriculum without extracurricular physical activity outdoors [ 85 ]. However, successful implementation of such a public health intervention still requires more public and governmental awareness, as well as strategies to overcome existing hurdles to achieve more time outdoors each day [ 6 ]. Near Work and Reading Distance 
+ The use of electronic devices in education and daily life has led to increased screen time and indoor activities associated with myopia in children, especially since the COVID-19 pandemic [ 88 , 89 ]. In the Generation R study, Enthoven et al. found a connection between myopia and increased computer usage among 9-year-old children: near work activities, including reading and computer usage, was estimated to have an odds ratio of 1.072 (95% CI 1.047–1.098) for myopia [ 36 ]. School-based photo examinations in 2020 suggested a noticeable increase in myopia progression, surpassing the highest recorded levels between 2015 and 2019 in younger children aged 6–8 years [ 90 ]. Similarly, Wong et al. suggested that more time spent on digital screens is associated with a higher risk of myopia [ 91 ]. Hence behavioral approaches to reduce prolonged near work are gaining more attention [ 19 , 20 , 92 ]. Interventions restricting screen time in schools have been implemented in mainland China to mitigate myopia [ 19 ]. Tools like the Clouclip® are promoted in China to notify children and parents about detrimental viewing habits [ 93 , 94 ]. To this point, it is still challenging to measure the effect of reduced screen time or prolonged near work as a myopia control intervention. However, there are no safety issues regarding a reduction in near work time. Also, there are no costs involved unless special measurement tools are employed. Pharmacological Interventions 
+ Atropine 
+ Atropine is a non-specific muscarinic acetylcholine receptor antagonist. The specific mechanism through which it decreases the progression of myopia is not completely understood. Currently, a non-accommodative mechanism is considered most plausible. Accordingly, alternative atropine targets have been suggested, e.g., eye growth regulatory pathways originating in the retina and transmitted to the sclera [ 95 , 96 ]. 
+ While higher concentrations of atropine have demonstrated higher effectiveness, the increased side effects, e.g., cycloplegia with near vision disturbances and photophobia as well as more pronounced rebound effect, limit its use [ 45 , 97 – 102 ]. Low-dose atropine for myopia control has been extensively investigated around the world, but mostly in Asia and Chinese children [ 45 , 103 – 106 ]. In the Low-Concentration Atropine for Myopia Progression (LAMP) study, involving children aged 4–12 years, those treated with 0.01%, 0.02%, and 0.05% atropine showed reductions in spherical equivalent progression by 27%, 43%, and 67%, and axial length growth by 12%, 29%, and 51%, respectively [ 105 ]. In contrast, the 3-year results of the Childhood Atropine for Myopia Progression (CHAMP) study indicate a larger effect on myopia progression in the group receiving a lower low-dose atropine of 0.01% (with a significantly increased responder proportion, odds ratio [OR], 4.54; 95% CI 1.15–17.97; p  = 0.03) compared to 0.02% low-dose atropine (OR, 1.77; 95% CI 0.50–6.26; p  = 0.37) (Supplementary Table  3 ) [ 107 ]. Moreover, poor response to atropine can occur in more than 10% of patients, which seems to be associated with younger age, higher baseline myopia, and myopic parents [ 99 ]. In the recent network meta-analysis (NMA) conducted by Ha et al., eight different concentrations of atropine were compared, five of which demonstrated a higher mean difference (MD) relative to the control treatment: 1% (MD, 0.81; 95% CI 0.58–1.04), 0.5% (MD, 0.70; 95% CI 0.40–1.00), 0.1% (MD, 0.50; 95% CI 0.14–0.87), 0.05% (MD, 0.62; 95% CI 0.17–1.07), and 0.01% (MD, 0.39; 95% CI 0.21–0.57). However, head-to-head comparisons revealed no statistical difference among atropine concentrations, except for 0.01% vs. 1% (MD, − 0.42; 95% CI − 0.71 to − 0.13) [ 48 ]. Similarly, in another recently published systematic review the estimated mean difference (MD) for myopia progression for atropine was found to be 0.29 D (95% CI 0.22–0.36; p  = 0.03) [ 58 ]. In the present review, the most recent 16 out of initial 41 articles on RCTs were analyzed (Supplementary Table  3 ): a noticeable difference between these studies can be observed in terms of sample size [ 107 – 109 ], study length and design [ 110 – 114 ], the age of the children studied [ 106 , 109 ], location of trial [ 115 – 117 ], and the different atropine doses, which varied between 0.0025% and 1%, as well as the application frequency of drops [ 110 , 114 , 118 , 119 ], and lastly their aims [ 109 , 111 , 112 , 120 ]. Almost half of the selected studies were conducted in East Asia, in predominately Chinese ethnic children [ 109 , 110 , 114 , 115 , 118 – 120 ]. Four studies were conducted in Europe [ 107 , 111 , 112 , 116 ], two in India [ 113 , 117 ], one in Iran [ 108 ], one in the USA [ 121 ], and one in Australia [ 106 ]. Upon comparing these studies, it may be inferred that varying ethnic groups exhibit dose-dependent differences in the pharmacokinetics and the effect of atropine. While reduced myopia progression was observable in several studies with low-dose atropine [ 108 , 110 , 112 , 113 , 115 , 117 – 119 ], in two studies, one conducted in the USA and one in Ireland, 0.01% low dose atropine was not or only minimally effective [ 116 , 121 ] (Supplementary Table  3 ). Another possible explanation could be the differences in atropine eye drop composition, e.g., content of preservatives and pH, in the various studies as recently pointed out by Iribarren et al. [ 122 ]. It was noticed that studies conducted in Western Caucasian populations [ 107 , 116 , 121 ], showing low to no effect on myopia progression, used the same patented formulation with low pH and containing benzalkonium chloride, while previous studies in Asia had used compounded drops. Similarly, there are differences regarding safety and adverse events (AE). While in Chinese Asians even higher low-dose atropine doses, such as 0.1%, still entail relatively acceptable AE, the same doses seem to be problematic in non-Chinese ethnic children. Therefore, in Asian regions, there is ongoing debate about the appropriate dose, frequency, and tapering of atropine to mitigate rebound effects. Whereas in Europe and North America the debate addresses the effectiveness and safety of atropine. 
+ As to long-term effects, a recently published analysis, on 18% and 40% of study participants of the Atropine for the Treatment of Myopia (ATOM) 1 and ATOM2 studies after 20 and 10 years, respectively, who received short-term use of atropine in childhood, found no long-term side effects. There was not an increased rate of cataract or other ocular complications in the atropine-treated eyes 10 and 20 years later, respectively. Also, no differences in spherical equivalent refraction (SER) and axial length (AL) between atropine-treated and untreated fellow/placebo eyes were observed [ 123 ]. However, this may have been caused by a rebound effect since most of the study participants discontinued atropine treatment abruptly without tapering. Other publications on long-term effects of atropine indicate that the use of topical atropine eye drops does not lead to ocular hypertension and observed treatment effects are not correlated with the total cumulative dosage of atropine administered [ 124 ]. The effect of atropine (0.05% and 0.1%) has shown to last up to 4.5 years, with smaller rebound in long-term use [ 48 , 125 ]. Despite its extensive use in numerous clinical trials (Supplementary Table  3 ), no systemic adverse effects have been reported [ 19 ]. However, both the effect and safety of atropine remain controversial, which likely has led to differing opinions on its use [ 66 , 121 , 126 ]. In regions where atropine is relatively widely used to control myopia progression in children, studies are being conducted to investigate its use for preventing myopia onset in premyopic children and have shown positive results [ 109 , 120 ]. 
+ Besides the differences in the formulation of atropine eye drops, there are important differences in the availability and accessibility, as well as their actual costs. According to various sources, estimated costs range between 120 and 1000 USD per year [ 127 – 130 ]. Since the US Food and Drug Administration (FDA) and most regulatory authorities, with some few exceptions, have not granted regulatory approval for the use of any pharmacological agents for myopia control, in most countries, atropine is used off-label. Manufacturing atropine in low doses in bulk quantities would likely make it cost-effective [ 131 ]. Optical Interventions 
+ Bifocal and Progressive Addition Spectacles 
+ Introduced in the 1990s as an attempt to slow myopia, progressive addition lens (PALs) and bifocal spectacles have been the subject of multiple studies, mostly conducted before 2000 [ 64 , 132 , 133 ]. Brennan and Cheng carefully analyzed the literature and concluded that results are indeed still very contradictory [ 134 ]. Some studies found minimal effects with bifocal spectacles [ 64 ]; whereas others suggested a substantial reduction in myopia progression among children using bifocals, with certain executive bifocal spectacles showing a decrease in myopia progression by 39% [ 133 ]. However, the effect may be more pronounced in children with higher myopia (< − 3.0 D), accommodative lag, or near esophoria [ 132 , 135 ]. For PALs, a meta-analysis reported modest reductions in myopia progression (0.25 D, 95% CI 0.13–0.38; nine trials) and AL (− 0.12 mm, 95% CI − 0.18 to − 0.05; six trials) [ 136 ]. The sole article found on an RCT investigating PALs for myopia control was authored by Hasebe et al. in 2014 (Supplementary Table  4 ). They conducted a masked, crossover RCT including 303 children aged 6 to 12 years with myopia of − 1.0 to − 4.5 D. A total of 169 children completed follow-up at 24 months. Only the stronger + 1.5 D positively aspherized PALs showed some retardation of myopia progression [ 137 ]. PALs and bifocal spectacles may be more readily available compared to other optical interventions; also, associated costs are moderate to high (in the range of 300–900 USD) [ 138 ]. However, since these spectacles can cause some visual distortion and influence the appearance of the wearer, they are generally unpopular [ 6 ]. Defocus Incorporated Multiple Segments (DIMS) Lenses 
+ Two types of pre-DIMS spectacle lenses failed to demonstrate a significant effect on myopia progression [ 139 – 141 ], before Lam et al. introduced the DIMS lenses [ 142 , 143 ]. The DIMS lens design includes a central optical zone for correcting refractive error and multiple segments with constant myopic defocus (+ 3.50 D) around the central zone. This enables clear central vision providing myopic defocus simultaneously [ 19 , 144 ]. Lam et al. conducted a clinical trial in Hong Kong: after 2 years children using DIMS lenses exhibited 52% less myopia progression and 62% less axial elongation compared to those wearing single vision spectacle lenses (Supplementary Table  4 ) [ 144 ]. After 3 years significantly lower SER and AL were observed: Specifically, the adjusted mean differences were − 0.18 ± 0.42 D for SER ( p  = 0.012) and 0.08 ± 0.15 mm for AL ( p  = 0.001), comparing DIMS to the historical control group, and − 0.30 ± 0.42 D for SER ( p  < 0.001) and 0.12 ± 0.16 mm for AL ( p  < 0.001), comparing the control-to-DIMS to the historical control group [ 144 ]. Notably, approximately 20% of DIMS lens wearers showed no myopia progression during the study. In the framework of the present literature search, two further reports were identified, but not included as they reported results from the same study population [ 145 , 146 ]. Liu et al. reported data from a large RCT involving patients aged 6 to 16 years, 3639 with DIMS and 6838 with single vision lens (SVL). Significantly slower progression at both 1-year (2240 pairs) and 2-year follow-up (725 pairs) with DIMS was observed. In the 1-year subset, 40% and 19% showed myopia progression of maximum 0.25 D for the DIMS and the SVL groups, respectively (χ 2 , p  < 0.001). DIMS spectacles appear to be safe. The main reported complaint in the mentioned studies was occasional blurred vision in the mid-periphery [ 143 ]. (Highly) Aspherical Lenslets Lenses 
+ Another new lens design incorporates (highly) aspherical lenslets. Bao et al. first presented these lenses in a study in which children aged 8–13 were randomly assigned to three different treatment options: single vision lenses (SVL), lenses with highly aspherical lenslets (HAL), and mildly aspherical lenslets (SAL). Spectacles with aspherical lenslets were more effective in slowing axial growth compared to SVL. Moreover, their study indicated that the efficacy of myopia treatment increased with higher levels of lenslet asphericity [ 147 ]. The myopia control efficacy measured as SER was 67% (with a difference of 0.53 D) for HAL and 41% (with a difference of 0.33 D) for SAL in comparison to SVL. For AL, HAL showed a 64% reduction (with a difference of 0.23 mm), while SAL exhibited a 31% reduction (with a difference of 0.11 mm) ( p  < 0.01) [ 147 ]. Li et al. reported the 3-year results of the Bao et al. study, showing a continued effect of reduced myopic progression with HAL compared to a new control group (Supplementary Table  4 ) [ 148 ]. Another RCT conducted in Vietnam was double-masked, crossover and involved 119 children randomly assigned to either HAL or SVL for 6 months before switching spectacle types. The observed mean change after 12 months was − 0.05 ± 0.37 D with HAL vs. − 0.33 ± 0.27 D with SV for SER and 0.05 ± 0.12 mm with HAL vs. 0.17 ± 0.13 mm with SV in AL [ 149 ]. No relevant side effects were mentioned. Overall, the discomfort of wearing any of the novel lenses appears to be comparable to SVL. Diffusion Optics Technology Lenses (DOT), Cylindrical Annular Refractive Element (CARE) Lenses, and Shamir Myopia Control (SMC) Lenses 
+ DOT lenses were designed on the basis of the hypothesis that reduced contrast signaling in the retina may slow myopia progression [ 150 ]. Although our current comprehension of the optical signals influencing refractive development in humans remains incomplete and the literature presents mixed findings, it seems the accommodated eye experiences reduced vergence-related blur during indoor activities, potentially resulting in higher-contrast signaling [ 8 ]. Currently, there is one three-armed RCT ongoing, the Control of Myopia Using Peripheral Diffusion Lenses Efficacy and Safety Study (CYPRESS) (Supplementary Table  4 ). Two types of diffusion optics technology, test 1 and test 2 lenses are assessed. The 12-month results published in 2022 showed a mean difference in SER progression for DOT test 1 vs. SVL of − 0.40 D ( p  < 0.0001), and − 0.32 D for DOT test 2 ( p  < 0.0001). The difference in AL progression for DOT test 1 vs. control was 0.15 mm ( p  < 0.0001) and DOT test 2 vs. control was 0.10 mm ( p  = 0.0018) [ 150 ]. No additional publications reporting results from RCTs on DOT were found. 
+ The CARE lenses were recently patented as myopia control lenses. Developed by researchers at Wenzhou Medical University, these lenses generate blur signals on the retina by induction of high-order aberrations. These lenses comprise a central optical area providing full correction and a control area featuring numerous microcylinders arranged in concentric circles. A recently published article by Liu et al. reported the 1-year results of an RCT conducted with the CARE lenses (Supplementary Table  4 ) [ 151 ]: in comparison to SVL spectacles, study participants wearing CARE spectacles presented significantly reduced rate of axial elongation (with 0.27 ± 0.02 mm and 0.35 ± 0.02 mm for the CARE and SVL groups, respectively; F  = 6.692, p  = 0.011). However, the model-adjusted 1-year changes in SER − 0.56 ± 0.06 D for the CARE and − 0.71 ± 0.07 D for the SVL group were not statistically significant. 
+ The SMC lens involves a central vertical aperture, known as the central vertical canal, designed to correct distance refractive error. The outer region of the lens features a power profile with a comparatively higher positive power than the central aperture, resulting in peripheral defocus. In an RCT conducted in Israel, Yuval et al. found SMC lenses to slow down AL elongation, but not SER progression after 1 year compared to SVL by 0.11 mm (35%, p  < 0.05) and 0.16 D (25%, p  = 0.122), respectively (Supplementary Table  4 ) [ 152 ]. 
+ Additional studies in diverse populations including clinical trials and real-world settings are necessary to confirm and validate the effectiveness of these newer optical interventions. Overall, these spectacles are gaining more and more popularity [ 66 ], because they seem safe, they do not create visual distortion, and above all their appearance is similar to SVL spectacles. Compared to SVL spectacles, however, these myopia control spectacles are significantly more expensive and not accessible to everyone. A pair of DIMS or HAL spectacles involves costs in a range of 500 to 1000 USD [ 153 – 157 ]. DOT test 1 spectacles, CARE, and SMC are in the process of approval in various countries [ 158 , 159 ]. Soft Contact Lenses for Myopia Control 
+ There is an increasing use of different bifocal and multifocal soft contact lenses (SCL) and approved myopia control lenses for managing myopia in children [ 160 ]. Several studies investigating the effects of different SCL exist and effects of slowing myopia progression by 30–45% and AL by 31–51% over 24 months with bifocal SCL have been reported [ 49 , 161 – 163 ]. In children with faster myopia progression, effectiveness may improve with increased wear time, and with lens designs possessing higher hyperopic power in the mid-periphery (up to 6 D) [ 164 , 165 ]. In a recent meta-analysis Lanca et al. [ 58 ] estimated the myopia progression mean differences (MD) for SCL at 0.39 D (95% CI 0.21, 0.56; p  < 0.001); however, different types of myopia-controlling bifocal and multifocal SCL were included in this investigation. Besides the study reported by Lam et al., in which defocus incorporated soft contact (DISC) lenses reduced myopia progression by 60% [ 166 ], four more recently published RCTs about different SCL to reduce myopia progression were included in this review (Supplementary Table  5 ) [ 167 – 170 ]: The first reported results from a double-masked RCT conducted in multiple centers in China and North America involved approximately 200 children, randomly assigned to four arms: two prototype myopia control SCL with non-coaxial ring-focus designs, one for enhancing efficacy (EE) and one for enhancing vision (EV), compared to dual-focus and SV SCL. The EE SCL showed the most significant effect on axial elongation reduction (compared to the dual-focus: − 0.049 mm [− 0.093, − 0.004]) [ 167 ]. The second study also compared two myopia control SCL with SV, and both myopia control SCL showed similar effectiveness in delaying myopia progression [ 168 ]. The third and fourth studies, one from Spain and a smaller one from Malaysia, reported similar effects of again other myopia control SCL [ 169 , 170 ]. In summary, a heterogenous group of different myopia control SCL exists. As all contact lenses do, myopia control with SCL carries a potential risk of infective keratitis and contact lens intolerance, especially in children and if proper hygiene is lacking. Hence the indication to employ contact lenses should be made with caution by clinicians. Besides local adverse reactions and the possibility of infection, there is currently also nearly no data on the effects of discontinuation and potential rebound effects of SCL used in myopia control. Despite potentially irreversible complication of these contact lenses, their use is increasing, possibly because of demand and pressure from patients and their parents who may prioritize the greater convenience of contact lenses and being free of spectacles [ 171 , 172 ]. The expenses are considerably high, with annual costs for some daily disposable soft multifocal contact lenses starting at around 1500 USD [ 173 ]. Orthokeratology 
+ Orthokeratology (OK) lenses are rigid gas-permeable contact lenses worn during sleep to alter corneal topography [ 6 , 174 ]. Typically modern OK lenses are designed to incorporate four zones: a central optic zone for flattening the central cornea and refractive correction, the reverse zone with a steeper curvature, the alignment zone (usually aspherical or tangent) for lens centration, and the peripheral zone [ 6 , 175 ]. Myopia control with OK is primarily based on the hypothesis of inducing myopic defocus on the peripheral retina, but further research is necessary to understand the precise mechanism responsible for OK effectiveness [ 176 – 178 ]. Several clinical studies have demonstrated the effectiveness of various OK lens designs in inhibiting myopic progression [ 175 , 179 ]. Meta-analyses have shown a 30–60% reduction in myopia progression rate with OK lenses compared to controls using SV spectacles over 1–2 years of treatment [ 180 – 187 ]. In a meta-analysis by Sun et al., the pooled results revealed a mean AL reduction of 0.27 mm (95% CI 0.22, 0.32) after 2 years, corresponding to a 45% reduction in myopic progression [ 188 ]. A similar result was recently reported by Lanca et al., who estimated the AL elongation MD for OK to be − 0.24 mm (95% CI − 0.33, − 0.15) [ 189 ]. However, the effect of OK appears to decrease gradually over time, and a distinct rebound effect has been noted upon sudden cessation of the treatment. Discontinuation of OK before the age of 14 years may lead to acceleration of AL elongation [ 190 ]. Additionally, there is a potential non-response rate of 7–12% [ 183 , 190 , 191 ]. The effect of OK, as well as the effect of previously described myopia control SCL, seems to be stronger in individuals with large pupils, while a reduced effect of OK lenses was reported in the presence of astigmatism [ 192 , 193 ]. Three articles on RCTs were further identified and included in this review (Supplementary Table  5 ) [ 194 – 196 ]. Corneal staining is the most common complication in OK treatment, and the frequency and severity of staining are associated with overnight lens wear [ 197 – 199 ]. Safety concerns with OK lenses are considerable because of the risk of sight-threatening microbial keratitis with potentially irreversible corneal scarring [ 182 ]. OK lenses pose a risk of infective keratitis similar to overnight SCL wear, with an estimated incidence of 13.9 per 10,000. Specialists’ support is required, and OK lenses should only be indicated in selected cases, such as older children and in higher degrees of myopia [ 200 , 201 ]. Costs of OK lenses reach up to 3000 USD initially and thereafter they are in the range of those for multifocal SCL. Despite the safety and rebound issues, OK lenses are popular because they offer improved unaided vision during the day and the ability to control myopia progression [ 197 ]. Light Therapy 
+ Red-Light Therapy 
+ Recently repeated low-level or low-intensity red-light (RLRL) has been introduced for myopia control. Red-light encompasses visible light ranging from 600 to 700 nm in wavelength and seems to influence mitochondrial function, with potential for improving hypoxia and inhibiting inflammation, e.g., by reducing pro-inflammatory cytokines [ 202 ]. RLRL has been employed in other clinical sectors to treat a variety of diseases, including among others dermatologic and orthopedic disorders [ 203 ]. Since retinal photoreceptor cells contain many mitochondria, the idea arose to apply RLRL to the eye and thereby specifically to control myopia. However, the mechanism behind RLRL in controlling myopia remains unclear [ 202 , 204 ]. Currently, limited evidence is available, as only a few clinical studies have been conducted. So far three groups from China have published results on RCTs in which red-light for myopia control was investigated (Supplementary Table  6 ): Jiang et al. and Xiong et al. tested a red-light (wavelength of 650 nm) desktop light device and showed effective AL elongation reduction at 12- and 24-month follow-up visits for the group undergoing red-light treatment. The overall axial elongation was the smallest in the continuous RLRL treatment group (0.16 ± 0.37 mm), and highest in the SV spectacles group (0.64 ± 0.29 mm; p  < 0.001) after 24 months [ 205 , 206 ]. Similarly, Tian et al. also found a significant effect on the median 6-month changes in AL of the red-light and control groups: − 0.06 mm (IQR − 0.15, 0) and 0.14 mm (IQR 0.07, 0.22; p  < 0.001) [ 207 ]. A third, smaller study by Chen et al. showed an effect on AL with RLRL treatment [ 208 ]. All three aforementioned RCTs did not report any structural changes by means of optical coherence tomography (OCT) or significant severe adverse events during and after the red-light treatment [ 205 , 206 , 208 ]. Nevertheless, caution is advised regarding the safety of RLRL, because the reported RCTs did not involve any independent safety monitoring. Well-designed and larger RCTs with longer follow-up periods are necessary [ 209 ]. One case reported by Liu et al. raised some further uncertainty: a 12-year-old girl experienced bilateral vision loss over 2 weeks following 5 months of repeated exposure to RLRL treatment for moderate myopia in both eyes. In addition to the vision loss, her fundus showed darkened foveae and OCT revealed disruptions in the foveal ellipsoid and interdigitation zone. After 3 months without RLRL therapy, there was partial recovery of bilateral outer retinal damage, and visual acuity improved [ 210 ]. The case was discussed and a genetic evaluation was recommended, as the possibility was expressed that the girl may have preclinical Stargardt disease [ 211 ]. The recommended genetic clarification of the case has not been carried out to date. Ostrin et al. expressed further concerns after studying two red-light therapy devices regarding their thermal and photochemical effects. Both devices approached or surpassed the maximum permissible exposure [ 212 ]. Despite the still limited data available, particularly on the safety of this intervention, RLRL treatment for myopia control is already commercially available in China, and is becoming available in Australia, New Zealand, Japan, and Europe. Information on the yearly treatment cost is vague, but the costs will most likely be around 1000 USD for one year [ 213 , 214 ]. Meanwhile, over a dozen trial registrations have been identified for ongoing investigations on efficacy and safety of RLRL treatment [ 215 – 230 ]. Violet-Light Therapy 
+ Sunlight comprises a notable portion of short-wavelength visible and non-visible light, including blue and ultraviolet light [ 75 ]. Since in animal studies exposure to blue and violet light was found to inhibit myopic shift and axial elongation [ 231 – 233 ], Torri et al. suggested that VL, with a wavelength of 360–400 nm, mostly absent in indoor environments, may play a role in inhibiting myopia development and progression [ 234 ]. In the attempt to prove this theory, a retrospective analysis was conducted comparing children wearing spectacles and contact lenses blocking VL with children using VL-transmitting contact lenses or spectacles. Significant differences in the AL of the two groups ( p  > 0.05) in favor of the VL-transmitting lenses were found [ 234 ]. Similarly, they also found that in highly myopic adults with two different types of phakic intraocular lenses, non-VL-transmitting and VL-transmitting, the non-VL-transmitting lens group had significantly higher myopia [ 235 ]. To date, there is one publication, from the same research group, reporting results from an RCT conducted in Japan: children randomly received VL-transmitting or conventional spectacles (Supplementary Table 6 ). Per protocol analysis revealed the AL variation after 24 months was 0.758 mm (95% CI 0.711–0.810) in the placebo group and 0.728 mm (95% CI 0.682–0.775) in the VL group. The VL group exhibited a slight average reduction in AL and a small non-significant change in SER. A statistically significant difference in mean AL change in the VL group (difference, − 0.206 mm; 95% CI − 0.351, 0.060; p  = 0.006) was found in a small subgroup of 11 children, who were first-time spectacle wearers [ 236 ]. In summary, although VL could be promising, the evidence regarding its effect is currently very limited. Further studies are underway, including some in which VL-emitting spectacles are being tested [ 237 , 238 ]. Evidence-Based Approach to Myopia Control 
+ Premyopia, i.e., refractive error of SER < + 0.75 D, can be detected from as early as 6 years of age [ 9 , 239 ]. A primary risk factor for developing high myopia is an early onset of the condition [ 7 , 9 , 240 ]. Thus, if a cycloplegic myopic refraction of at least − 0.50 D is observed, a 6- to 7-year-old child could be considered for potential myopia control intervention [ 43 ]. We recommend myopia screening and evaluation to begin before formal school-going at the age of 6 years, with plotting of SER and AL growth charts of the eye on an annual basis [ 201 ]. After a careful risk factor evaluation is performed, a personalized myopia control strategy can then be recommended to parents that is based on the evidence summarized in this review [ 201 , 241 ]. Figure  2 provides a qualitative summary of the myopia control options and their practical considerations based on our review for East Asians. 
+ Encouraging children to spend more time outdoors is beneficial for both their general mental health and the reduction of myopia incidence and progression [ 9 ], as is supported by statements from the World Society of Pediatric Ophthalmology and Strabismus (WSPOS), the European Society of Ophthalmology (ESO), and the International Myopia Institute (IMI) [ 201 , 241 ]. The evidence for the effectiveness of low-dose atropine eye drops originates mostly from data in East Asians; the effect in differing ethnic groups is controversial. Various questions regarding starting dose, tapering and long-term effects are still open. Myopia control spectacles, e.g., DIMS and HAL, have gained popularity owing to their safety, and they are considered effective if children are compliant [ 66 ]. The evidence, however, is still very limited and validation of the effectiveness of novel myopia control spectacles regarding their long-term effectiveness and rebound in the real world is necessary [ 19 , 58 , 66 , 201 , 209 ]. Myopia control multifocal SCL are also gaining popularity for active school-going children, and daily disposable modalities carry a tenfold lower risk for microbial keratitis compared to overnight OK lenses [ 242 – 245 ]. Of note, the costs for optical interventions for myopia control are generally high, and thus only a small proportion of individuals globally will be able to access them. Agyekum et al. compared the cost-effectiveness of various myopia interventions and estimated atropine 0.05% to reach an incremental cost-effectiveness ratio (ICER) of 220 USD per SER reduction [ 131 ]. In comparison, ICER for HALs was 448 USD per SER reduction and the that for OK lenses was 2376 USD/SER reduction. 
+ As clinicians grapple with rebound and attempt to address these concerns about long-term sustained effects, strategies that employ interventions in combination or sequentially are gaining attention [ 246 , 247 ]. These approaches are also considered in children who are “unresponsive” to their initial modality [ 58 ]. Within the framework of this review, four publications on RCTs investigating different combinations of treatments were identified and included (Supplementary Table  7 ) [ 248 – 251 ]. While the combination of OK lenses and atropine appears to offer benefits, potential complications and management difficulties are also to be taken into consideration [ 62 ]. Hence, it should only be utilized in distinct cases of higher myopia and older age [ 201 ]. In particular, the combination of atropine eye drops and myopia control spectacles, such as DIMS, is increasingly applied, though research and quantification of this treatment combination is lacking [ 66 ]. Discussion 
+ An increased interest in myopia control has driven the development of a variety of myopia control interventions. While before 2010, only 10 RCTs on atropine eye drops and a few dozen studies on optical interventions for myopia control can be retrieved via PubMed search, the number of articles increases to over 70 RCTs on atropine alone for the time after 2010, not including non-comparative studies. With the relatively recent increased amount of literature, we provide a summary and an evidence-based approach to myopia control. Despite all the studies performed, many questions remain regarding which children are at high risk and require treatment, commencement and duration of treatment, and sustained long-term effects on adulthood myopia after cessation of childhood treatment [ 9 , 66 , 201 , 241 ]. Specifically, since treatment effects for myopia control interventions are usually most evident in the early stages and diminish over time, early treatment effects may not accurately reflect longer-term treatment outcomes [ 63 ]. 
+ This review focused on RCTs and recent review articles because of the overwhelming amount of literature that could be retrieved from the last decade. The search strategy was based only on similar combinations of keywords, and it cannot be excluded that certain articles were missed, especially on long-term effects. To compensate for the latter, some individual articles were included later. Lastly, the fact that only papers in English language were selected represents a limitation, especially since it is well recognized that the largest amount of research has been conducted mainly in East Asia including China, Taiwan, and Japan [ 12 ]. We recognize that many important knowledge gaps remain in the field of myopia intervention research [ 201 ], as we attempt to offer a comprehensive overview of recent literature on myopia control. 
+ To provide a tangible and simple summary of the different methods of myopia control, we have created the qualitative Fig.  2 . The graphs should not be taken as a precise measure of the different myopia control interventions, but as an approximation of the amount of evidence, effect, safety, and cost. Different myopia interventions are used more or less frequently in different regions of the world. The visualization is limited to a qualitative overview for the East Asian ethnic group. Recommendations include increased time spent outdoors, with the suggestion that the effect is greatest in premyopic children. For the East Asian ethnic group, atropine eye drops have been shown to be effective in reducing myopia progression and to be cost-effective. However, there are limitations related to adverse events and rebound, especially with sudden discontinuation. The new myopia control spectacles appear to be effective in slowing myopia progression; they are safe but are linked to high costs. Even more expensive and invasive methods, such as contact lenses, may be considered if other methods are unsuccessful. Finally, the evidence for RLRL is very limited; it appears generally promising in terms of efficacy, but safety aspects call for extreme caution in its use. 
+ Numerous societies and expert groups, e.g., the World Society of Pediatric Ophthalmology and Strabismus and the International Myopia Institute, have already issued recommendations or guidelines [ 9 , 19 , 43 , 201 , 241 ]. Our review indicates that recommendations and prescriptions for myopia control interventions are influenced by accessibility and diverse clinical practices observed globally. While clinical trials demonstrate short- to medium-term efficacy in slowing myopia progression through various interventions, none have conclusively proven long-term effectiveness in preventing high myopia and potential complications in adulthood. This underscores an unmet need for a unified consensus on strategies that effectively balance the risks and benefits of these methods in personalized myopia management. Through collaborative efforts to address these aspects, the field of myopia management can progress towards a shared consensus, ultimately improving patient outcomes and advancing the understanding of myopia progression. 
+ Future efforts of research should focus on increasing knowledge about the development and progression of myopia, as well as the available and emerging interventions for myopia control. Perhaps this very process will give rise to other, more effective approaches. Furthermore, one crucial point is the identification of biomarkers for risk stratification of patients, as early identification may improve treatment effectiveness. Knowledge on progression mechanisms will allow us to design individualized treatment combinations improving the cost-effectiveness of known and new myopia control methods. Deep learning methods based on fundus images [ 252 ], as well as new imaging tools [ 253 ], are promising new approaches to delivering applicable methods into clinics. Such strategies will provide tools for assessing and tailoring an individual child’s myopia management. Conclusions 
+ Recommendations for interventions for myopia control vary around the world. Furthermore, with the near explosion of different myopia control interventions in the last decades, the related available evidence has become more challenging to digest. The provided evidence-based summary for practitioners may therefore support decision-making when considering which myopia control intervention to recommend, thereby building a basis for the next step towards personalized and individual myopia control. Supplementary Information 
+ Below is the link to the electronic supplementary material. 
+ 
+ Supplementary file1 (PDF 936 KB) (935.5KB, pdf) 
+ Author Contributions 
+ Leila S. Eppenberger conducted the literature search, the literature selection and wrote the manuscript, Andrzej Grzybowski and Leopold Schmetterer reviewed and commented on the manuscript and the selection of studies, Marcus Ang conceived the review article, and supervised Leila Eppenberger in the writing process. Funding 
+ No funding or sponsorship was received for this study or publication of this article. Data Availability 
+ The datasets (Excel spreadsheets with extracted publication titles) generated during and/or analyzed during the current study are available from the corresponding author on reasonable request. Declarations 
+ Conflict of Interest 
+ Andrzej Grzybowski is an Editorial Board member of Ophthalmology and Therapy . Andrzej Grzybowski was not involved in the selection of peer reviewers for the manuscript nor any of the subsequent editorial decisions. Furthermore, he holds grants from: Alcon, Bausch&Lomb, Zeiss, Teleon, J&J, CooperVision, Hoya, Essilor, Thea, Polpharma, Viatris, Alcon; Lectures: Thea, Polpharma, Viatris, Eyerising, Essilor, Alcon; Member of Advisory Boards: Nevakar, GoCheckKids and Thea. Leila S. Eppenberger, Leopold Schmetterer and Marcus Ang have no financial or non-financial interests to declare. Ethical Approval 
+ This article is based on previously conducted studies and does not contain any new studies with human participants or animals performed by any of the authors. References 
+ 
+ 
+ 1. Flitcroft DI, He M, Jonas JB, et al. IMI—defining and classifying myopia: a proposed set of standards for clinical and epidemiologic studies. Invest Ophthalmol Vis Sci. 2019;60:M20–30. doi: 10.1167/iovs.18-25957. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Morgan IG, Ohno-Matsui K, Saw S-M. Myopia. Lancet. 2012;379:1739–1748. doi: 10.1016/S0140-6736(12)60272-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Cho B-J, Shin JY, Yu HG. Complications of pathologic myopia. Eye Contact Lens. 2016;42:9–15. doi: 10.1097/ICL.0000000000000223. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Haarman AEG, Enthoven CA, Tideman JWL, Tedja MS, Verhoeven VJM, Klaver CCW. The complications of myopia: a review and meta-analysis. Invest Ophthalmol Vis Sci. 2020;61:49. doi: 10.1167/iovs.61.4.49. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Ikuno Y. Overview of the complications of high myopia. Retina. 2017;37:2347–2351. doi: 10.1097/IAE.0000000000001489. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Ang M, Wong TY, editors. Updates on myopia: a clinical perspective. Singapore: Springer Singapore; 2020. http://link.springer.com/10.1007/978-981-13-8491-2 . Accessed 2023 Oct 27. 
+ 
+ 
+ 7. Bullimore MA, Brennan NA. Juvenile-onset myopia—who to treat and how to evaluate success. Eye. 2024;38(3):450–54. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 8. Flitcroft DI. The complex interactions of retinal, optical and environmental factors in myopia aetiology. Prog Retin Eye Res. 2012;31:622–660. doi: 10.1016/j.preteyeres.2012.06.004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Wolffsohn J, Jong M, Smith E, et al. IMI 2021 reports and digest—reflections on the implications for clinical practice. Investig Ophthalmol Vis Sci. 2021;62(5):1. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 10. Matsumura S, Dannoue K, Kawakami M, et al. Prevalence of myopia and its associated factors among Japanese preschool children. Front Public Health. 2022;10:901480. doi: 10.3389/fpubh.2022.901480. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Chua SYL, Sabanayagam C, Cheung Y-B, et al. Age of onset of myopia predicts risk of high myopia in later childhood in myopic Singapore children. Ophthalmic Physiol Opt. 2016;36:388–394. doi: 10.1111/opo.12305. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Wolffsohn JS, Kollbaum PS, Berntsen DA, et al. IMI—clinical myopia control trials and instrumentation report. Invest Ophthalmol Vis Sci. 2019;60:M132–M160. doi: 10.1167/iovs.18-25955. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Morgan IG, Wu P-C, Ostrin LA, et al. IMI risk factors for myopia. Invest Ophthalmol Vis Sci. 2021;62:3. doi: 10.1167/iovs.62.5.3. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Rose KA, Morgan IG, Ip J, et al. Outdoor activity reduces the prevalence of myopia in children. Ophthalmology. 2008;115:1279–1285. doi: 10.1016/j.ophtha.2007.12.019. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Xiong S, Sankaridurg P, Naduvilath T, et al. Time spent in outdoor activities in relation to myopia prevention and control: a meta-analysis and systematic review. Acta Ophthalmol. 2017;95:551–566. doi: 10.1111/aos.13403. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Hashemi H, Fotouhi A, Yekta A, Pakzad R, Ostadimoghaddam H, Khabazkhoob M. Global and regional estimates of prevalence of refractive errors: systematic review and meta-analysis. J Curr Ophthalmol. 2018;30:3–22. doi: 10.1016/j.joco.2017.08.009. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Lin L, Shih Y, Hsiao C, Chen C. Prevalence of myopia in Taiwanese schoolchildren: 1983 to 2000. Ann Acad Med Singap. 2004;33:27–33. [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Jung S-K, Lee JH, Kakizaki H, Jee D. Prevalence of myopia and its association with body stature and educational level in 19-year-old male conscripts in Seoul, South Korea. Invest Ophthalmol Vis Sci. 2012;53:5579–5583. doi: 10.1167/iovs.12-10106. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Tariq F, Mobeen R, Wang X, et al. Advances in myopia prevention strategies for school-aged children: a comprehensive review. Front Public Health. 2023;11:1226438. doi: 10.3389/fpubh.2023.1226438. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Ip JM, Huynh SC, Robaei D, et al. Ethnic differences in refraction and ocular biometry in a population-based sample of 11–15-year-old Australian children. Eye (Lond) 2008;22:649–656. doi: 10.1038/sj.eye.6702701. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Fan DSP, Lam DSC, Lam RF, et al. Prevalence, incidence, and progression of myopia of school children in Hong Kong. Invest Ophthalmol Vis Sci. 2004;45:1071–1075. doi: 10.1167/iovs.03-1151. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. He M, Zeng J, Liu Y, Xu J, Pokharel GP, Ellwein LB. Refractive error and visual impairment in urban children in southern China. Invest Ophthalmol Vis Sci. 2004;45:793–799. doi: 10.1167/iovs.03-1051. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. The ZK, Fry GA, Lecture A. Myopia development in childhood. Optom Vis Sci. 1995;1997(74):603–608. [ PubMed ] [ Google Scholar ] 
+ 
+ 24. O’Donoghue L, Kapetanankis VV, McClelland JF, et al. Risk factors for childhood myopia: findings from the NICER study. Invest Ophthalmol Vis Sci. 2015;56:1524–1530. doi: 10.1167/iovs.14-15549. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Gao Z, Meng N, Muecke J, et al. Refractive error in school children in an urban and rural setting in Cambodia. Ophthalmic Epidemiol. 2012;19:16–22. doi: 10.3109/09286586.2011.632703. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Murthy GVS, Gupta SK, Ellwein LB, et al. Refractive error in children in an urban population in New Delhi. Invest Ophthalmol Vis Sci. 2002;43:623–631. [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Saw S-M, Tong L, Chua W-H, et al. Incidence and progression of myopia in Singaporean school children. Invest Ophthalmol Vis Sci. 2005;46:51–57. doi: 10.1167/iovs.04-0565. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Ramamurthy D, Lin Chua SY, Saw S-M. A review of environmental risk factors for myopia during early life, childhood and adolescence. Clin Exp Optom. 2015;98:497–506. doi: 10.1111/cxo.12346. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Pan C-W, Qian D-J, Saw S-M. Time outdoors, blood vitamin D status and myopia: a review. Photochem Photobiol Sci. 2017;16:426–432. doi: 10.1039/c6pp00292g. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Ashby RS, Schaeffel F. The effect of bright light on lens compensation in chicks. Invest Ophthalmol Vis Sci. 2010;51:5247–5253. doi: 10.1167/iovs.09-4689. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Ashby R, Ohlendorf A, Schaeffel F. The effect of ambient illuminance on the development of deprivation myopia in chicks. Invest Ophthalmol Vis Sci. 2009;50:5348–5354. doi: 10.1167/iovs.09-3419. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Jin J-X, Hua W-J, Jiang X, et al. Effect of outdoor activity on myopia onset and progression in school-aged children in northeast China: the Sujiatun Eye Care Study. BMC Ophthalmol. 2015;15:73. doi: 10.1186/s12886-015-0052-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Eppenberger LS, Sturm V. The role of time exposed to outdoor light for myopia prevalence and progression: a literature review. Clin Ophthalmol. 2020;14:1875–1890. doi: 10.2147/OPTH.S245192. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. He M, Xiang F, Zeng Y, et al. Effect of time spent outdoors at school on the development of myopia among children in China: a randomized clinical trial. JAMA. 2015;314:1142–1148. doi: 10.1001/jama.2015.10803. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Armarnik S, Lavid M, Blum S, Wygnanski-Jaffe T, Granet DB, Kinori M. The relationship between education levels, lifestyle, and religion regarding the prevalence of myopia in Israel. BMC Ophthalmol. 2021;21:136. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 36. Enthoven CA, Tideman JWL, Polling JR, Yang-Huang J, Raat H, Klaver CCW. The impact of computer use on myopia development in childhood: the Generation R Study. Prev Med. 2020;132:105988. doi: 10.1016/j.ypmed.2020.105988. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Enthoven CA, Mölenberg FJM, Tideman JWL, et al. Physical activity spaces not effective against socioeconomic inequalities in myopia incidence: the Generation R Study. Optom Vis Sci. 2021;98:1371–1378. doi: 10.1097/OPX.0000000000001809. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Schaeffel F, Troilo D, Wallman J, Howland HC. Developing eyes that lack accommodation grow to compensate for imposed defocus. Vis Neurosci. 1990;4:177–183. doi: 10.1017/s0952523800002327. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Troilo D, Wallman J. The regulation of eye growth and refractive state: an experimental study of emmetropization. Vision Res. 1991;31:1237–1250. doi: 10.1016/0042-6989(91)90048-a. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Ang M, Flanagan JL, Wong CW, et al. Review: Myopia control strategies recommendations from the 2018 WHO/IAPB/BHVI meeting on myopia. Br J Ophthalmol. 2020;104:1482–1487. doi: 10.1136/bjophthalmol-2019-315575. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Bullimore MA, Ritchey ER, Shah S, Leveziel N, Bourne RRA, Flitcroft DI. The risks and benefits of myopia control. Ophthalmology. 2021;128:1561–1579. doi: 10.1016/j.ophtha.2021.04.032. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Bullimore MA, Richdale K. Myopia control 2020: where are we and where are we heading? Ophthalmic Physiol Opt. 2020;40:254–270. doi: 10.1111/opo.12686. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Jonas JB, Ang M, Cho P, et al. IMI prevention of myopia and its progression. Invest Ophthalmol Vis Sci. 2021;62:6. doi: 10.1167/iovs.62.5.6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Klaver C, Polling JR, Erasmus Myopia Research Group Myopia management in the Netherlands. Ophthalmic Physiol Opt. 2020;40:230–240. doi: 10.1111/opo.12676. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Lawrenson JG, Shah R, Huntjens B, et al. Interventions for myopia control in children: a living systematic review and network meta-analysis. Cochrane Database Syst Rev. 2023;2:CD014758. doi: 10.1002/14651858.CD014758.pub2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Walline JJ, Lindsley KB, Vedula SS, et al. Interventions to slow progression of myopia in children. Cochrane Database Syst Rev. 2020;1:CD004916. doi: 10.1002/14651858.CD004916.pub4. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Wolffsohn JS, Flitcroft DI, Gifford KL, et al. IMI—myopia control reports overview and introduction. Invest Ophthalmol Vis Sci. 2019;60:M1. doi: 10.1167/iovs.18-25980. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Ha A, Kim SJ, Shim SR, Kim YK, Jung JH. Efficacy and safety of 8 atropine concentrations for myopia control in children: a network meta-analysis. Ophthalmology. 2022;129:322–333. doi: 10.1016/j.ophtha.2021.10.016. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Walline JJ. Myopia control: a review. Eye Contact Lens. 2016;42:3–8. doi: 10.1097/ICL.0000000000000207. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Logan NS, Bullimore MA. Optical interventions for myopia control. Eye (Lond). 2024;38(3):455–63. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 51. Wnękowicz-Augustyn E, Teper S, Wylęgała E. Preventing the progression of myopia in children—a review of the past decade. Medicina (Kaunas) 2023;59:1859. doi: 10.3390/medicina59101859. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Zotero. Your personal research assistant. https://www.zotero.org/ . Accessed 2019 Jan 22. 
+ 
+ 
+ 53. Beller EM, Glasziou PP, Altman DG, et al. PRISMA for abstracts: reporting systematic reviews in journal and conference abstracts. PLoS Med. 2013;10:e1001419. doi: 10.1371/journal.pmed.1001419. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Akinbinu T, Naidoo K, Wajuihian S. Myopia control in the 21st century: a review of optical methods (2000–2019). Afr Vis Eye Health J. 2020;79:a499. 10.4102/aveh.v79i1.499. 
+ 
+ 
+ 55. Brennan NA, Toubouti YM, Cheng X, Bullimore MA. Efficacy in myopia control. Prog Retin Eye Res. 2021;83:100923. doi: 10.1016/j.preteyeres.2020.100923. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Dhiman R, Rakheja V, Gupta V, Saxena R. Current concepts in the management of childhood myopia. Indian J Ophthalmol. 2022;70:2800–2815. doi: 10.4103/ijo.IJO_2098_21. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Kaiti R, Shyangbo R, Sharma IP, Dahal M. Review on current concepts of myopia and its control strategies. Int J Ophthalmol. 2021;14:606–615. doi: 10.18240/ijo.2021.04.19. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Lanca C, Pang CP, Grzybowski A. Effectiveness of myopia control interventions: a systematic review of 12 randomized control trials published between 2019 and 2021. Front Public Health. 2023;11:1125000. doi: 10.3389/fpubh.2023.1125000. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Medina A. The cause of myopia development and progression: theory, evidence, and treatment. Surv Ophthalmol. 2022;67:488–509. doi: 10.1016/j.survophthal.2021.06.005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Németh J, Tapasztó B, Aclimandos WA, et al. Update and guidance on management of myopia European Society of Ophthalmology in cooperation with International Myopia Institute. Eur J Ophthalmol. 2021;31:853–883. doi: 10.1177/1120672121998960. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Papadogiannis P, Börjeson C, Lundström L. Comparison of optical myopia control interventions: effect on peripheral image quality and vision. Biomed Opt Express. 2023;14:3125–3137. doi: 10.1364/BOE.486555. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Sánchez-González J-M, De-Hita-Cantalejo C, Baustita-Llamas M-J, Sánchez-González MC, Capote-Puente R. The combined effect of low-dose atropine with orthokeratology in pediatric myopia control: review of the current treatment status for myopia. J Clin Med. 2020;9:2371. doi: 10.3390/jcm9082371. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Sarkar S, Khuu S, Kang P. A systematic review and meta-analysis of the efficacy of different optical interventions on the control of myopia in children. Acta Ophthalmol. 2024;102:e229–e244. [ DOI ] [ PubMed ] 
+ 
+ 64. Wildsoet CF, Chia A, Cho P, et al. IMI—interventions for controlling myopia onset and progression report. Invest Ophthalmol Vis Sci. 2019;60:M106–M131. doi: 10.1167/iovs.18-25958. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Wolffsohn JS, Calossi A, Cho P, et al. Global trends in myopia management attitudes and strategies in clinical practice—2019 update. Cont Lens Anterior Eye. 2020;43:9–17. doi: 10.1016/j.clae.2019.11.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Wolffsohn JS, Whayeb Y, Logan NS, Weng R, International Myopia Institute Ambassador Group IMI—global trends in myopia management attitudes and strategies in clinical practice—2022 update. Invest Ophthalmol Vis Sci. 2023;64:6. doi: 10.1167/iovs.64.6.6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Zhu Z, Chen Y, Tan Z, Xiong R, McGuinness MB, Müller A. Interventions recommended for myopia prevention and control among children and adolescents in China: a systematic review. Br J Ophthalmol. 2023;107:160–166. doi: 10.1136/bjophthalmol-2021-319306. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Cao K, Wan Y, Yusufu M, Wang N. Significance of outdoor time for myopia prevention: a systematic review and meta-analysis based on randomized controlled trials. ORE. 2020;63:97–105. doi: 10.1159/000501937. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. French AN, Ashby RS, Morgan IG, Rose KA. Time outdoors and the prevention of myopia. Exp Eye Res. 2013;114:58–68. doi: 10.1016/j.exer.2013.04.018. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Lingham G, Mackey DA, Lucas R, Yazar S. How does spending time outdoors protect against myopia? A review. Br J Ophthalmol. 2020;104:593–599. doi: 10.1136/bjophthalmol-2019-314675. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Karouta C, Ashby RS. Correlation between light levels and the development of deprivation myopia. Invest Ophthalmol Vis Sci. 2014;56:299–309. doi: 10.1167/iovs.14-15499. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Li W, Lan W, Yang S, et al. The effect of spectral property and intensity of light on natural refractive development and compensation to negative lenses in Guinea pigs. Invest Ophthalmol Vis Sci. 2014;55:6324–6332. doi: 10.1167/iovs.13-13802. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Hung L-F, Arumugam B, She Z, Ostrin L, Smith EL. Narrow-band, long-wavelength lighting promotes hyperopia and retards vision-induced myopia in infant rhesus monkeys. Exp Eye Res. 2018;176:147–160. doi: 10.1016/j.exer.2018.07.004. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Smith EL, Hung L-F, Arumugam B, Holden BA, Neitz M, Neitz J. Effects of long-wavelength lighting on refractive development in infant rhesus monkeys. Invest Ophthalmol Vis Sci. 2015;56:6490–6500. doi: 10.1167/iovs.15-17025. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Thorne HC, Jones KH, Peters SP, Archer SN, Dijk D-J. Daily and seasonal variation in the spectral composition of light exposure in humans. Chronobiol Int. 2009;26:854–866. doi: 10.1080/07420520903044315. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Feldkaemper M, Schaeffel F. An updated view on the role of dopamine in myopia. Exp Eye Res. 2013;114:106–119. doi: 10.1016/j.exer.2013.02.007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Cuellar-Partida G, Williams KM, Yazar S, et al. Genetically low vitamin D concentrations and myopic refractive error: a Mendelian randomization study. Int J Epidemiol. 2017;46:1882–1890. doi: 10.1093/ije/dyx068. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Guggenheim JA, Williams C, Northstone K, et al. Does vitamin D mediate the protective effects of time outdoors on myopia? Findings from a prospective birth cohort. Invest Ophthalmol Vis Sci. 2014;55:8550–8558. doi: 10.1167/iovs.14-15839. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Sherwin JC, Hewitt AW, Coroneo MT, Kearns LS, Griffiths LR, Mackey DA. The association between time spent outdoors and myopia using a novel biomarker of outdoor light exposure. Invest Ophthalmol Vis Sci. 2012;53:4363–4370. doi: 10.1167/iovs.11-8677. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Wu P, Chen C, Lin K, et al. Myopia prevention and outdoor light intensity in a school-based cluster randomized trial. Ophthalmology. 2018;125:1239–1250. doi: 10.1016/j.ophtha.2017.12.011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Wu P-C, Tsai C-L, Wu H-L, Yang Y-H, Kuo H-K. Outdoor activity during class recess reduces myopia onset and progression in school children. Ophthalmology. 2013;120:1080–1085. doi: 10.1016/j.ophtha.2012.11.009. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Guggenheim JA, Northstone K, McMahon G, et al. Time outdoors and physical activity as predictors of incident myopia in childhood: a prospective cohort study. Invest Ophthalmol Vis Sci. 2012;53:2856–2865. doi: 10.1167/iovs.11-9091. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. He X, Sankaridurg P, Wang J, et al. Time outdoors in reducing myopia: a school-based cluster randomized trial with objective monitoring of outdoor time and light intensity. Ophthalmology. 2022;129:1245–1254. doi: 10.1016/j.ophtha.2022.06.024. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Liao S, Li X, Bai N, et al. An empirical study on the effect of outdoor illumination and exercise intervention on children’s vision. Front Public Health. 2023;11:1270826. doi: 10.3389/fpubh.2023.1270826. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Wang D, Xiong R, Zhang J, et al. Effect of extracurricular after-school physical activities on academic performance of schoolchildren: a cluster randomized clinical trial. JAMA Pediatr. 2023;177:1141–1148. doi: 10.1001/jamapediatrics.2023.3615. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Wu P-C, Chang L-C, Niu Y-Z, Chen M-L, Liao L-L, Chen C-T. Myopia prevention in Taiwan. Ann Eye Sci. 2018;3:12–12. [ Google Scholar ] 
+ 
+ 87. Agarwal S, Saxena A, Saxena S, Mridula Evaluation of the safety and effectiveness of low-dose atropine eye drops in managing myopia progression among Indian children. Int J Pharm Clin Res. 2023;15:2181–2192. [ Google Scholar ] 
+ 
+ 88. Foreman J, Salim AT, Praveen A, et al. Association between digital smart device use and myopia: a systematic review and meta-analysis. Lancet Digit Health. 2021;3:e806–e818. doi: 10.1016/S2589-7500(21)00135-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Zhang X, Cheung SSL, Chan H-N, et al. Myopia incidence and lifestyle changes among school children during the COVID-19 pandemic: a population-based prospective study. Br J Ophthalmol. 2022;106:1772–1778. doi: 10.1136/bjophthalmol-2021-319307. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Wang J, Li Y, Musch DC, et al. Progression of myopia in school-aged children after COVID-19 home confinement. JAMA Ophthalmol. 2021;139:293–300. doi: 10.1001/jamaophthalmol.2020.6239. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. Wong C, Tsai A, Jonas J, et al. Digital screen time during the COVID-19 pandemic: risk for a further myopia boom? Am J Ophthalmol. 2021;223:333–337. doi: 10.1016/j.ajo.2020.07.034. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. Huang H-M, Chang DS-T, Wu P-C. The association between near work activities and myopia in children—a systematic review and meta-analysis. PLoS ONE. 2015;10:e0140419. doi: 10.1371/journal.pone.0140419. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 93. Clouclip. https://www.clouclip.com/webCarbon/pc.html . Accessed 2024 Jan 22. 
+ 
+ 
+ 94. Gajjar S, Ostrin LA. A systematic review of near work and myopia: measurement, relationships, mechanisms and clinical corollaries. Acta Ophthalmol. 2022;100:376–387. doi: 10.1111/aos.15043. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 95. Lai L, Trier K, Cui D-M. Role of 7-methylxanthine in myopia prevention and control: a mini-review. Int J Ophthalmol. 2023;16:969–976. doi: 10.18240/ijo.2023.06.21. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 96. McBrien NA, Stell WK, Carr B. How does atropine exert its anti-myopia effects? Ophthalmic Physiol Opt. 2013;33:373–378. doi: 10.1111/opo.12052. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 97. Chia A, Chua W-H, Wen L, Fong A, Goon YY, Tan D. Atropine for the treatment of childhood myopia: changes after stopping atropine 0.01%, 0.1% and 0.5% Am J Ophthalmol. 2014;157:451–457.e1. doi: 10.1016/j.ajo.2013.09.020. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 98. Chua W, Balakrishnan V, Chan Y, et al. Atropine for the treatment of childhood myopia. Ophthalmology. 2006;113:2285–2291. doi: 10.1016/j.ophtha.2006.05.062. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 99. Loh K-L, Lu Q, Tan D, Chia A. Risk factors for progressive myopia in the atropine therapy for myopia study. Am J Ophthalmol. 2015;159:945–949. doi: 10.1016/j.ajo.2015.01.029. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 100. Tong L, Huang X, Koh A, Zhang X, Tan D, Chua W. Atropine for the treatment of childhood myopia: effect on myopia progression after cessation of atropine. Ophthalmology. 2009;116:572–579. doi: 10.1016/j.ophtha.2008.10.020. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 101. Chia A, Lu Q-S, Tan D. Five-year clinical trial on atropine for the treatment of myopia 2: myopia control with atropine 0.01% eyedrops. Ophthalmology. 2016;123:391–399. doi: 10.1016/j.ophtha.2015.07.004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 102. Walline JJ, Lindsley K, Vedula SS, Cotter SA, Mutti DO, Twelker JD. Interventions to slow progression of myopia in children. Cochrane Database Syst Rev. 2011;(12):CD004916. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 103. Wu P, Chuang M, Choi J, et al. Update in myopia and treatment strategy of atropine use in myopia control. Eye. 2019;33:3–13. doi: 10.1038/s41433-018-0139-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 104. Chia A. The aim of this study was to evaluate the clinical outcome of children treated with atropine 0.01% in a clinical setting. Investig Ophthalmol Vis Sci. 2018;59:3404. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01961765/full . 
+ 
+ 
+ 105. Yam JC, Jiang Y, Tang SM, et al. Low-concentration atropine for myopia progression (LAMP) study: a randomized, double-blinded, placebo-controlled trial of 0.05%, 0.025%, and 0.01% atropine eye drops in myopia control. Ophthalmology. 2019;126:113–124. doi: 10.1016/j.ophtha.2018.05.029. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 106. Lee SS-Y, Lingham G, Blaszkowska M, et al. Low-concentration atropine eyedrops for myopia control in a multi-racial cohort of Australian children: a randomised clinical trial. Clin Exp Ophthalmol. 2022;50:1001–1012. doi: 10.1111/ceo.14148. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 107. Zadnik K, Schulman E, Flitcroft I, et al. Efficacy and safety of 0.01% and 0.02% atropine for the treatment of pediatric myopia progression over 3 years: a randomized clinical trial. JAMA Ophthalmol. 2023. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02568693/full . [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 108. Medghalchi A, Behboudi H, Akbari M, Moghadam R, Kazemnejad E, Sabnan S. The preventive role of atropine eye drops on myopia progression: a double-blind randomized clinical trial. Int J Prev Med. 2023;14:45. doi: 10.4103/ijpvm.ijpvm_175_22. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 109. Yam JC, Zhang XJ, Zhang Y, et al. Effect of low-concentration atropine eyedrops vs placebo on myopia incidence in children: the LAMP2 randomized clinical trial. JAMA. 2023;329:472–481. doi: 10.1001/jama.2022.24162. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 110. Chia A, Ngo C, Choudry N, Yamakawa Y, Tan D. Atropine ophthalmic solution to reduce myopia progression in pediatric subjects: the randomized, double-blind multicenter phase II APPLE study. Asia Pac J Ophthalmol (Phila) 2023;12:370–376. doi: 10.1097/APO.0000000000000609. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 111. Hansen NC, Hvid-Hansen A, Møller F, et al. Safety and efficacy of 0.01% and 0.1% low-dose atropine eye drop regimens for reduction of myopia progression in Danish children: a randomized clinical trial examining one-year effect and safety. BMC Ophthalmol. 2023;23:438. doi: 10.1186/s12886-023-03177-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 112. Moriche-Carretero M, Revilla-Amores R, Gutiérrez-Blanco A, et al. Five-year results of atropine 0.01% efficacy in the myopia control in a European population. Br J Ophthalmol. 2023:bjo-2022-322808. 10.1136/bjo-2022-322808. [ DOI ] [ PubMed ] 
+ 
+ 113. Sharma I, Das GK, Rohatgi J, Sahu PK, Chhabra P, Bhatia R. Low dose atropine in preventing the progression of childhood myopia: a randomised controlled trial. Curr Eye Res. 2023;48:402–407. doi: 10.1080/02713683.2022.2162925. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 114. Ye L, Xu H, Shi Y, et al. Efficacy and safety of consecutive use of 1% and 0.01% atropine for myopia control in Chinese children: the atropine for children and adolescent myopia progression study. Ophthalmol Ther. 2022;11:2197–2210. doi: 10.1007/s40123-022-00572-1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 115. Cui C, Li X, Lyu Y, et al. Safety and efficacy of 0.02% and 0.01% atropine on controlling myopia progression: a 2-year clinical trial. Sci Rep. 2021;11:22267. doi: 10.1038/s41598-021-01708-2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 116. Loughman J, Kobia-Acquah E, Lingham G, et al. Myopia outcome study of atropine in children: two-year result of daily 0.01% atropine in a European population. Acta Ophthalmol. 2024;102(3):e245–e256. [ DOI ] [ PubMed ] 
+ 
+ 117. Sen S, Yadav H, Jain A, Verma S, Gupta P. Effect of atropine 0.01% on progression of myopia. Indian J Ophthalmol. 2022;70:3373–3376. doi: 10.4103/ijo.IJO_256_22. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 118. Hieda O, Hiraoka T, Fujikado T, et al. Efficacy and safety of 0.01% atropine for prevention of childhood myopia in a 2-year randomized placebo-controlled study. Jpn J Ophthalmol. 2021;65:315–325. doi: 10.1007/s10384-021-00822-y. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 119. Zhu Q, Tang G, Hua Z, et al. 0.05% atropine on control of myopia progression in Chinese school children: a randomized 3-year clinical trial. Int J Ophthalmol. 2023;16:939–946. doi: 10.18240/ijo.2023.06.17. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 120. Wang W, Zhang F, Yu S, et al. Prevention of myopia shift and myopia onset using 0.01% atropine in premyopic children—a prospective, randomized, double-masked, and crossover trial. Eur J Pediatr. 2023;182:2597–2606. doi: 10.1007/s00431-023-04921-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 121. Repka MX. Atropine eye drops for myopia control in childhood—more long-term data, please. JAMA Ophthal. 2023. 10.1001/jamaophthalmol.2023.5610. [ DOI ] [ PubMed ] 
+ 
+ 122. Iribarren R, Cunha C, Kaymak H, Grzybowski A. Preservatives and pH in low-dose atropine formulations for clinical trials. Acta Ophthalmol. 2024;102(3):364–66. [ DOI ] [ PubMed ] 
+ 
+ 123. Li Y, Yip M, Ning Y, et al. Topical atropine for childhood myopia control: the atropine treatment long-term assessment study. JAMA Ophthalmol. 2024;142(1):15–23. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 124. Yu T-C, Wu T-E, Wang Y-S, Cheng S-F, Liou S-W. A STROBE-compliant case–control study: effects of cumulative doses of topical atropine on intraocular pressure and myopia progression. Medicine (Baltimore) 2020;99:e22745. doi: 10.1097/MD.0000000000022745. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 125. Wu P-C, Yang Y-H, Fang P-C. The long-term results of using low-concentration atropine eye drops for controlling myopia progression in school children. J Ocul Pharmacol Ther. 2011;27:461–466. doi: 10.1089/jop.2011.0027. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 126. North RV, Kelly ME. A review of the uses and adverse effects of topical administration of atropine. Ophthalmic Physiol Opt. 1987;7:109–114. doi: 10.1111/j.1475-1313.1987.tb01004.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 127. Indiamart. Atropine sulfate eye drop 0.01 %. indiamart.com. 2024. https://www.indiamart.com/proddetail/atropine-sulfate-eye-drop-0-01-25602153633.html . Accessed 2024 Jan 4. 
+ 
+ 
+ 128. Apotheke Deutschland. Atropinsulfat-Augentropfen 0,01%. 2024. https://www.apotheke-dr-beck.de/service-leistungen/atropin-augentropfen/ . Accessed 2024 Jan 4. 
+ 
+ 
+ 129. Aspire Vision Care. Atropine for myopia control. Aspire Vision Care. 2024. https://www.aspirevisioncare.com/eye-care-services/myopia-control-for-children/atropine-for-myopia-control/ . Accessed 2024 Jan 4. 
+ 
+ 
+ 130. Deutsche Apotheker. Atropin-Augentropfen statt Brille? DAZ.online. 2018. https://www.deutsche-apotheker-zeitung.de/news/artikel/2018/10/08/atropin-augentropfen-statt-brille . Accessed 2024 Jan 4. 
+ 
+ 
+ 131. Agyekum S, Chan PP, Adjei PE, et al. Cost-effectiveness analysis of myopia progression interventions in children. JAMA Netw Open. 2023;6:e2340986. doi: 10.1001/jamanetworkopen.2023.40986. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 132. Berntsen DA, Barr CD, Mutti DO, Zadnik K. Peripheral defocus and myopia progression in myopic children randomly assigned to wear single vision and progressive addition lenses. Invest Ophthalmol Vis Sci. 2013;54:5761–5770. doi: 10.1167/iovs.13-11904. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 133. Cheng D, Woo GC, Drobe B, Schmid KL. Effect of bifocal and prismatic bifocal spectacles on myopia progression in children: three-year results of a randomized clinical trial. JAMA Ophthalmol. 2014;132:258–264. doi: 10.1001/jamaophthalmol.2013.7623. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 134. Brennan NA, Cheng X. Commonly held beliefs about myopia that lack a robust evidence base. Eye Contact Lens. 2019;45(4):215–25. [ DOI ] [ PubMed ] 
+ 
+ 135. Berntsen D, Gostovic A, Sinnott L, et al. Peripheral defocus and axial eye growth in the bifocal lenses in nearsighted kids (Blink) study. Investig Ophthalmol Vis Sci. 2021;62. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02324871/full . 
+ 
+ 
+ 136. Li S-M, Ji Y-Z, Wu S-S, et al. Multifocal versus single vision lenses intervention to slow progression of myopia in school-age children: a meta-analysis. Surv Ophthalmol. 2011;56:451–460. doi: 10.1016/j.survophthal.2011.06.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 137. Hasebe S, Jun J, Varnas SR. Myopia control with positively aspherized progressive addition lenses: a 2-year, multicenter, randomized, controlled trial. Invest Ophthalmol Vis Sci. 2014;55:7177–7188. doi: 10.1167/iovs.12-11462. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 138. Is it common for progressive eyeglass lenses to cost $300? Quora. 2024. https://www.quora.com/Is-it-common-for-progressive-eyeglass-lenses-to-cost-300 . Accessed 2024 Jan 6. 
+ 
+ 
+ 139. Sankaridurg P, Donovan L, Varnas S, et al. Spectacle lenses designed to reduce progression of myopia: 12-month results. Optom Vis Sci. 2010;87:631–641. doi: 10.1097/OPX.0b013e3181ea19c7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 140. Sankaridurg P, Holden B, Smith E, III, et al. Decrease in rate of myopia progression with a contact lens designed to reduce relative peripheral hyperopia: one-year results. Invest Ophthalmol Vis Sci. 2011;52:9362–9367. doi: 10.1167/iovs.11-7260. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 141. Kanda H, Oshika T, Hiraoka T, et al. Effect of spectacle lenses designed to reduce relative peripheral hyperopia on myopia progression in Japanese children: a 2-year multicenter randomized controlled trial. Jpn J Ophthalmol. 2018;62:537–543. doi: 10.1007/s10384-018-0616-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 142. Lam C, Tang W, Tse D-Y, Chun R-M, To C. Effect of defocus incorporated multiple segments (DIMS) spectacle lens wear on visual functions in myopic children. Investig Ophthalmol Vis Sci. 2019;60. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02007395/full . 
+ 
+ 
+ 143. Lam CS, Tang WC, Lee PH, et al. Myopia control effect of defocus incorporated multiple segments (DIMS) spectacle lens in Chinese children: results of a 3-year follow-up study. Br J Ophthalmol. 2022;106:1110–1114. doi: 10.1136/bjophthalmol-2020-317664. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 144. Lam CSY, Tang WC, Tse DY, et al. Defocus incorporated multiple segments (DIMS) spectacle lenses slow myopia progression: a 2-year randomised clinical trial. Br J Ophthalmol. 2020;104:363–368. doi: 10.1136/bjophthalmol-2018-313739. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 145. Chun RKM, Zhang H, Liu Z, et al. Defocus incorporated multiple segments (DIMS) spectacle lenses increase the choroidal thickness: a two-year randomized clinical trial. Eye Vis (Lond) 2023;10:39. doi: 10.1186/s40662-023-00356-z. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 146. Zhang HY, Lam CSY, Tang WC, Leung M, To CH. Defocus incorporated multiple segments spectacle lenses changed the relative peripheral refraction: a 2-year randomized clinical trial. Invest Ophthalmol Vis Sci. 2020;61:53. doi: 10.1167/iovs.61.5.53. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 147. Bao J, Yang A, Huang Y, et al. One-year myopia control efficacy of spectacle lenses with aspherical lenslets. Br J Ophthalmol. 2022;106:1171–1176. doi: 10.1136/bjophthalmol-2020-318367. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 148. Li X, Huang Y, Yin Z, et al. Myopia control efficacy of spectacle lenses with aspherical lenslets: results of a 3-year follow-up study. Am J Ophthalmol. 2023;253:160–168. doi: 10.1016/j.ajo.2023.03.030. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 149. Sankaridurg P, Weng R, Tran H, et al. Spectacle lenses with highly aspherical lenslets for slowing myopia: a randomized, double-blind, cross-over clinical trial: parts of these data were presented as a poster at the annual research in vision and ophthalmology meeting, 2022. Am J Ophthalmol. 2023;247:18–24. doi: 10.1016/j.ajo.2022.10.021. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 150. Rappon J, Chung C, Young G, et al. Control of myopia using diffusion optics spectacle lenses: 12-month results of a randomised controlled, efficacy and safety study (CYPRESS) Br J Ophthalmol. 2023;107:1709–1715. doi: 10.1136/bjo-2021-321005. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 151. Liu X, Wang P, Xie Z, et al. One-year myopia control efficacy of cylindrical annular refractive element spectacle lenses. Acta Ophthalmol. 2023;101:651–657. doi: 10.1111/aos.15649. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 152. Yuval C, Otzem C, Laura B-S, et al. Evaluating the effect of a myopia control spectacle lens among children in Israel: 12-month results. Am J Ophthalmol. 2024;257:103–112. doi: 10.1016/j.ajo.2023.08.019. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 153. Essilor launches lenses to slow down progression of myopia among children in India. Financialexpress. 2023. https://www.financialexpress.com/healthcare/medicaldevices/essilor-launches-lenses-to-slow-down-progression-of-myopia-among-children-in-india/2959639/ . Accessed 2024 Jan 10. 
+ 
+ 
+ 154. EYE-BAR. Hoya MiyoSmart Myopia control eyeglasses in Sherwood Park & Edmonton | Optometrists & Opticians. EYE-BAR Optometrists & Opticians. Glasses & Eye Exams in Sherwood Park. 2024. https://eye-bar.ca/miyosmart-eyeglass-lenses-for-myopia-control-treatment-in-kids . Accessed 2024 Jan 10. 
+ 
+ 
+ 155. MIYOSmart. Eyecare Kids. 2021. https://www.eyecarekids.com.au/miyosmart/ . Accessed 2024 Jan 10. 
+ 
+ 
+ 156. MiYOSMART Spectacle Lenses. Gordon Turner Optometrists. 2023. https://www.gteye.net/miyosmart-spectacle-lenses/ . Accessed 2024 Jan 10. 
+ 
+ 
+ 157. Stellest® Lenses for Children’s Myopia. Vision Express. 2024. https://www.visionexpress.com/brands/stellest-lenses . Accessed 2024 Jan 10. 
+ 
+ 
+ 158. SightGlass Vision DOT Lens. Myopia Profile. https://www.myopiaprofile.com/product/sightglass-dot . Accessed 2024 Jan 10. 
+ 
+ 
+ 159. SightGlass Vision spectacle lenses. https://www.coopervisionsec.eu/sightglass-vision-spectacle-lenses . Accessed 2024 Jan 10. 
+ 
+ 
+ 160. Efron N, Morgan P, Woods C, et al. International survey of contact lens fitting for myopia control in children. Cont Lens Anterior Eye. 2020;43:4–8. doi: 10.1016/j.clae.2019.06.008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 161. Benavente-Pérez A, Nour A, Troilo D. Axial eye growth and refractive error development can be modified by exposing the peripheral retina to relative myopic or hyperopic defocus. Investig Ophthalmol Vis Sci. 2014;55:6765–73. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 162. Li S-M, Kang M-T, Wu S-S, et al. Studies using concentric ring bifocal and peripheral add multifocal contact lenses to slow myopia progression in school-aged children: a meta-analysis. Ophthalmic Physiol Opt. 2017;37:51–59. doi: 10.1111/opo.12332. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 163. Anstice NS, Phillips JR. Effect of dual-focus soft contact lens wear on axial myopia progression in children. Ophthalmology. 2011;118:1152–1161. doi: 10.1016/j.ophtha.2010.10.035. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 164. Aller TA, Liu M, Wildsoet CF. Myopia control with bifocal contact lenses: a randomized clinical trial. Optom Vis Sci. 2016;93:344–352. doi: 10.1097/OPX.0000000000000808. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 165. Paune J, Morales H, Armengol J, Quevedo L, Faria-Ribeiro M, Gonzalez-Meijome J. Myopia control with a novel peripheral gradient soft lens and orthokeratology: a 2-year clinical trial. BioMed Res Int. 2015;2015. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01125761/full . [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 166. Lam C, Tang W, Tse D, Tang Y, To C. Defocus incorporated soft contact (DISC) lens slows myopia progression in Hong Kong Chinese schoolchildren: a 2-year randomised clinical trial. Br J Ophthalmol. 2014;98:40–45. doi: 10.1136/bjophthalmol-2013-303914. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 167. Cheng X, Xu J, Brennan NA. Randomized trial of soft contact lenses with novel ring focus for controlling myopia progression. Ophthalmol Sci. 2023;3:100232. doi: 10.1016/j.xops.2022.100232. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 168. Weng R, Lan W, Bakaraju R, et al. Efficacy of contact lenses for myopia control: insights from a randomised, contralateral study design. Ophthalmic Physiol Opt. 2022;42:1253–1263. doi: 10.1111/opo.13042. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 169. Garcia-Del Valle A, Blázquez V, Gros-Otero J, et al. Efficacy and safety of a soft contact lens to control myopia progression. Clin Exp Optom. 2021;104:14–21. doi: 10.1111/cxo.13077. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 170. Raffa L, Allinjawi K, Sharanjeet-Kaur S-K, Akhir S, Mutalib H. Myopia control with soft multifocal contact lenses: 18-month follow-up. Saudi J Ophthalmol. 2021;35:325–331. doi: 10.4103/1319-4534.347305. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 171. Rah MJ, Walline JJ, Jones-Jordan LA, et al. Vision specific quality of life of pediatric contact lens wearers. Optom Vis Sci. 2010;87:560. doi: 10.1097/OPX.0b013e3181e6a1c8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 172. Walline JJ, Gaume A, Jones LA, et al. Benefits of contact lens wear for children and teens. Eye Contact Lens. 2007;33:317. doi: 10.1097/ICL.0b013e31804f80fb. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 173. Google. misight—Google Search. 2024. https://www.google.com/search?client=firefox-b-d&q=misight . Accessed 2024 Jan 5. 
+ 
+ 
+ 174. Walline JJ, Jones LA, Mutti DO, Zadnik K. A randomized trial of the effects of rigid contact lenses on myopia progression. Arch Ophthalmol. 2004;122:1760–1766. doi: 10.1001/archopht.122.12.1760. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 175. Lipson MJ. The role of orthokeratology in myopia management. Eye Contact Lens. 2022;48:189–193. doi: 10.1097/ICL.0000000000000890. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 176. Lin Z, Martinez A, Chen X, et al. Peripheral defocus with single-vision spectacle lenses in myopic children. Optom Vis Sci. 2010;87:4–9. doi: 10.1097/OPX.0b013e3181c078f1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 177. Charman WN, Radhakrishnan H. Peripheral refraction and the development of refractive error: a review. Ophthalmic Physiol Opt. 2010;30:321–338. doi: 10.1111/j.1475-1313.2010.00746.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 178. Smith EL, Hung L-F, Huang J, Arumugam B. Effects of local myopic defocus on refractive development in monkeys. Optom Vis Sci. 2013;90:1176–1186. doi: 10.1097/OPX.0000000000000038. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 179. Kang P, Swarbrick H. Peripheral refraction in myopic children wearing orthokeratology and gas-permeable lenses. Optom Vis Sci. 2011;88:476–482. doi: 10.1097/OPX.0b013e31820f16fb. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 180. Charm J. Orthokeratology: clinical utility and patient perspectives. Clin Optom. 2017;9:33–40. doi: 10.2147/OPTO.S104507. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 181. Santodomingo-Rubido J, Villa-Collar C, Gilmartin B, Gutiérrez-Ortega R, Sugimoto K. Long-term efficacy of orthokeratology contact lens wear in controlling the progression of childhood myopia. Curr Eye Res. 2017;42:713–720. doi: 10.1080/02713683.2016.1221979. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 182. VanderVeen DK, Kraker RT, Pineles SL, et al. Use of orthokeratology for the prevention of myopic progression in children: a report by the American Academy of Ophthalmology. Ophthalmology. 2019;126:623–636. doi: 10.1016/j.ophtha.2018.11.026. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 183. Chen C, Cheung SW, Cho P. Myopia control using toric orthokeratology (TO-SEE study) Invest Ophthalmol Vis Sci. 2013;54:6510–6517. doi: 10.1167/iovs.13-12527. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 184. Cho P, Cheung SW, Edwards M. The longitudinal orthokeratology research in children (LORIC) in Hong Kong: a pilot study on refractive changes and myopic control. Curr Eye Res. 2005;30:71–80. doi: 10.1080/02713680590907256. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 185. Cho P, Cheung S-W. Retardation of myopia in orthokeratology (ROMIO) study: a 2-year randomized clinical trial. Invest Ophthalmol Vis Sci. 2012;53:7077–7085. doi: 10.1167/iovs.12-10565. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 186. Santodomingo-Rubido J, Villa-Collar C, Gilmartin B, Gutiérrez-Ortega R. Myopia control with orthokeratology contact lenses in Spain: refractive and biometric changes. Invest Ophthalmol Vis Sci. 2012;53:5060–5065. doi: 10.1167/iovs.11-8005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 187. Walline JJ, Jones LA, Sinnott LT. Corneal reshaping and myopia progression. Br J Ophthalmol. 2009;93:1181–1185. doi: 10.1136/bjo.2008.151365. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 188. Sun Y, Xu F, Zhang T, et al. Orthokeratology to control myopia progression: a meta-analysis. PLoS ONE. 2015;10:e0124535. doi: 10.1371/journal.pone.0124535. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 189. Lanca C, Repka MX, Grzybowski A. Topical review: studies on management of myopia progression from 2019 to 2021. Optom Vis Sci. 2023;100:23–30. doi: 10.1097/OPX.0000000000001947. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 190. Cho P, Cheung SW. Discontinuation of orthokeratology on eyeball elongation (DOEE) Cont Lens Anterior Eye. 2017;40:82–87. doi: 10.1016/j.clae.2016.12.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 191. Cho P, Tan Q. Myopia and orthokeratology for myopia control. Clin Exp Optom. 2019;102(4):364–77. [ DOI ] [ PubMed ] 
+ 
+ 192. Michaud L, Marcotte-Collard R, Simard P, et al. Diagnosis and treatment plan. In: Managing myopia-one child at a time 1st ed Dougmar Publishing Group Inc Ontario, Canada, 2022, pp 133–186. Managing myopia: one child at a time—Flinders University. https://flinders.primo.exlibrisgroup.com/discovery/fulldisplay/alma997293197901771/61FUL_INST:FUL . Accessed 2024 Jan 31. 
+ 
+ 
+ 193. Sha J, Tilia D, Diec J, et al. Visual performance of myopia control soft contact lenses in non-presbyopic myopes. Clin Optom (Auckl) 2018;10:75–86. doi: 10.2147/OPTO.S167297. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 194. Choi KY, Cheung JKW, Wong GTK, et al. Myopia control efficacy and long-term safety of a novel orthokeratology lens (MESOK study)—a randomized controlled clinical trial combining clinical and tear proteomics data. J Clin Med. 2023;12:3210. doi: 10.3390/jcm12093210. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 195. Guo B, Cheung S, Kojima R, Cho P. Variation of orthokeratology lens treatment zone (VOLTZ) study: a 2-year randomised clinical trial. Ophthalmic Physiol Opt. 2023. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02614525/full . [ DOI ] [ PubMed ] 
+ 
+ 196. Liu T, Chen C, Ma W, Yang B, Wang X, Liu L. One-year results for myopia control with aspheric base curve orthokeratology lenses: a prospective randomised clinical trial. Ophthalmic Physiol Opt. 2023;43:1469–1477. doi: 10.1111/opo.13213. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 197. Hiraoka T. Myopia control with orthokeratology: a review. Eye Contact Lens. 2022;48:100–104. doi: 10.1097/ICL.0000000000000867. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 198. Liu Y, Xie P. the safety of orthokeratology-a systematic review. Eye Contact Lens-Sci Clin Pract. 2016;42:35–42. doi: 10.1097/ICL.0000000000000219. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 199. Van Meter WS, Musch DC, Jacobs DS, et al. Safety of overnight orthokeratology for myopia: a report by the American Academy of Ophthalmology. Ophthalmology. 2008;115:2301–2313.e1. doi: 10.1016/j.ophtha.2008.06.034. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 200. Watt K, Swarbrick HA. Microbial keratitis in overnight orthokeratology: review of the first 50 cases. Eye Contact Lens. 2005;31:201–208. doi: 10.1097/01.icl.0000179705.23313.7e. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 201. Tapasztó B, Flitcroft DI, Aclimandos WA, et al. Myopia management algorithm. Annexe to the article titled Update and guidance on management of myopia. European Society of Ophthalmology in cooperation with International Myopia Institute. Eur J Ophthalmol. 2023;11206721231219532. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 202. Yang W, Lin F, Li M, Wei R, Zhou J, Zhou X. Immediate effect in retina and choroid after 650 nm low-level red light therapy in children. Ophthalmic Res. 2023;66(1):312–18. [ DOI ] [ PubMed ] 
+ 
+ 203. Huang Z, He T, Zhang J, Du C. Red light irradiation as an intervention for myopia. Indian J Ophthalmol. 2022;70:3198. doi: 10.4103/ijo.IJO_15_22. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 204. Zhu Q, Cao X, Zhang Y, et al. Repeated low-level red-light therapy for controlling onset and progression of myopia—a review. Int J Med Sci. 2023;20:1363–1376. doi: 10.7150/ijms.85746. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 205. Jiang Y, Zhu Z, Tan X, et al. Effect of repeated low-level red-light therapy for myopia control in children: a multicenter randomized controlled trial. Ophthalmology. 2022;129:509–519. doi: 10.1016/j.ophtha.2021.11.023. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 206. Xiong R, Zhu Z, Jiang Y, et al. Sustained and rebound effect of repeated low-level red-light therapy on myopia control: a 2-year post-trial follow-up study. Clin Exp Ophthalmol. 2022. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02470305/full . [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 207. Tian L, Cao K, Ma D-L, et al. Investigation of the efficacy and safety of 650 nm low-level red light for myopia control in children: a randomized controlled trial. Ophthalmol Therapy. 2022;11:2259–2270. doi: 10.1007/s40123-022-00585-w. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 208. Chen H, Wang W, Liao Y, et al. Low-intensity red-light therapy in slowing myopic progression and the rebound effect after its cessation in Chinese children: a randomized controlled trial. Graefes Arch Clin Exp Ophthalmol. 2023;261:575–584. doi: 10.1007/s00417-022-05794-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 209. Tang J, Liao Y, Yan N, et al. Efficacy of repeated low-level red-light therapy for slowing the progression of childhood myopia: a systematic review and meta-analysis. Am J Ophthalmol. 2023;252:153–163. doi: 10.1016/j.ajo.2023.03.036. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 210. Liu H, Yang Y, Guo J, Peng J, Zhao P. Retinal damage after repeated low-level red-light laser exposure. JAMA Ophthalmol. 2023;141:693–695. doi: 10.1001/jamaophthalmol.2023.1548. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 211. Kishi S, Ohni-Matsui K. Re: Retinal damage after repeated low-level red-light laser exposure. JAMA Ophthalmol. 2023;141:693–695. doi: 10.1001/jamaophthalmol.2023.1548. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 212. Ostrin LA, Schill AW. Red light instruments for myopia exceed safety limits. Ophthalmic Physiol Opt. 2024;44(2):241–48. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 213. Eyerising International. Eyerising myopia management device. Eyerising Int. 2023. https://www.eyerisinginternational.com/the-device/ . Accessed 2024 Jan 10. 
+ 
+ 
+ 214. NZ Optics. Red-light therapy for myopia control + ‘NZ Optics for all eye health professionals’. 2023. https://nzoptics.co.nz/live-articles/red-light-therapy-for-myopia-control/ . Accessed 2024 Jan 10. 
+ 
+ 
+ 215. ChiCTR2100046295. Application study of 650 nm low intensity single wavelength red light in pre-myopia of children aged 6–12. https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2100046295 . 2021. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02449516/full . Accessed 27 Dec 2023. 
+ 
+ 
+ 216. ChiCTR2100051840. Efficacy and safety of low level red light therapy in myopia control in school-age children. https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2100051840 . 2021. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02475615/full . Accessed 27 Dec 2023. 
+ 
+ 
+ 217. ChiCTR2100052653. Comparison low-intensity single-wavelength red light and low-dose (0.01%) atropine eye-drops to reduce progression of myopia in Chinese children: a randomized clinical trial. https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2100052653 . 2021. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02429073/full . Accessed 27 Dec 2023. 
+ 
+ 
+ 218. ChiCTR2200055402. A multicenter, randomized, parallel controlled study of low-intensity red light on myopia control in children. https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2200055402 . 2022. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02518383/full . Accessed 27 Dec 2023. 
+ 
+ 
+ 219. ChiCTR2200056318. Effect and safety of low intensity single wavelength red light therapeutic instrument on delaying the progression of myopia in school-age children. https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2200056318 . 2022. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02544436/full . Accessed 27 Dec 2023. 
+ 
+ 
+ 220. ChiCTR2200057220. Effectiveness of low intensity red laser on myopia control in adolescents. https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2200057220 . 2022. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02539972/full . Accessed 27 Dec 2023. 
+ 
+ 
+ 221. ChiCTR2200058963. A randomized controlled trial of 650 nm low intensity red light in the prevention and control of myopia. https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2200058963 . 2022. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02534376/full . Accessed 27 Dec 2023. 
+ 
+ 
+ 222. ChiCTR2200061020. Effects of low-level red light therapy for preventing myopia progression: a multicenter randomized controlled trial. https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2200061020 . 2022. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02538618/full . Accessed 27 Dec 2023. 
+ 
+ 
+ 223. ChiCTR2300070790. A randomized controlled study on the prevention of myopia in school-age children using low intensity single wavelength red light as a new therapy. https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2300070790 . 2023. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02568982/full . Accessed 27 Dec 2023. 
+ 
+ 
+ 224. ChiCTR2300070931. Randomized, controlled, multicenter clinical study on the effectiveness of repetitive low intensity single wavelength red light combined with defocused frame mirrors in controlling low myopia in children and adolescents. https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2300070931 . 2023. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02569006/full . Accessed 27 Dec 2023. 
+ 
+ 
+ 225. ChiCTR2300071618. Multicenter, randomized and controlled clinical trial of low-intensity single-wavelength red light combined with ear point for prevention and control of myopia in children and adolescents. https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2300071618 . 2023. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02572668/full . Accessed 27 Dec 2023. 
+ 
+ 
+ 226. ChiCTR2300074908. Clinical efficacy of Low-Level Red-Light on young children with myopic amblyopia. https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2300074908 . 2023. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02595988/full . Accessed 27 Dec 2023. 
+ 
+ 
+ 227. ChiCTR2300075398. The safety of repeated low-intensity red light therapy for the treatment of myopia in children. https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2300075398 . 2023. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02606547/full . Accessed 27 Dec 2023. 
+ 
+ 
+ 228. NCT05184621 . The effectiveness and safety of low-intensity single-wavelength red light in controlling high myopia in children and adolescents: a randomized, controlled, multicenter clinical trial. https://clinicaltrials.gov/show/NCT05184621 . 2022. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02358603/full . Accessed 27 Dec 2023. 
+ 
+ 
+ 229. NCT05947019 . Efficacy and safety of low-level monochromatic red-light for high myopia control in adults. https://clinicaltrials.gov/ct2/show/NCT05947019 . 2023. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02582753/full . Accessed 27 Dec 2023. 
+ 
+ 
+ 230. NCT06034912 . RCT on red light treatment for myopic minors’ retinal impact. https://clinicaltrials.gov/ct2/show/NCT06034912 . 2023. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02602094/full . Accessed 27 Dec 2023. 
+ 
+ 
+ 231. Foulds WS, Barathi VA, Luu CD. Progressive myopia or hyperopia can be induced in chicks and reversed by manipulation of the chromaticity of ambient light. Invest Ophthalmol Vis Sci. 2013;54:8004–8012. doi: 10.1167/iovs.13-12476. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 232. Rucker F, Britton S, Spatcher M, Hanowsky S. Blue light protects against temporal frequency sensitive refractive changes. Invest Ophthalmol Vis Sci. 2015;56:6121–6131. doi: 10.1167/iovs.15-17238. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 233. Rucker FJ. The role of luminance and chromatic cues in emmetropisation. Ophthalmic Physiol Opt. 2013;33:196–214. doi: 10.1111/opo.12050. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 234. Torii H, Kurihara T, Seko Y, et al. Violet light exposure can be a preventive strategy against myopia progression. EBioMedicine. 2017;15:210–219. doi: 10.1016/j.ebiom.2016.12.007. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 235. Torii H, Ohnuma K, Kurihara T, Tsubota K, Negishi K. Violet light transmission is related to myopia progression in adult high myopia. Sci Rep. 2017;7. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5674003/ . Accessed 2021 Mar 4. [ DOI ] [ PMC free article ] [ PubMed ] 
+ 
+ 236. Mori K, Torii H, Hara Y, et al. Effect of violet light-transmitting eyeglasses on axial elongation in myopic children: a randomized controlled trial. J Clin Med. 2021;10:5462. doi: 10.3390/jcm10225462. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 237. NCT06110520 . Violet light for the suppression of myopia. https://clinicaltrials.gov/ct2/show/NCT06110520 . 2023. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-02617191/full . Accessed 27 Dec 2023. 
+ 
+ 
+ 238. UMIN000036453. Exploratory clinical trial, randomized, double-blind, pseudo-placebo-controlled, parallel-group study to evaluate the safety and efficacy of TLG-001 in subjects with myopic school children. https://trialsearch.who.int/Trial2.aspx?TrialID=JPRN-UMIN000036453 . 2019. https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01969423/full . Accessed 27 Dec 2023. 
+ 
+ 
+ 239. McCullough S, Adamson G, Breslin KMM, McClelland JF, Doyle L, Saunders KJ. Axial growth and refractive change in white European children and young adults: predictive factors for myopia. Sci Rep. 2020;10:15189. doi: 10.1038/s41598-020-72240-y. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 240. Logan NS, Radhakrishnan H, Cruickshank FE, et al. IMI accommodation and binocular vision in myopia development and progression. Invest Ophthalmol Vis Sci. 2021;62:4. doi: 10.1167/iovs.62.5.4. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 241. Leo SW, Scientific Bureau of World Society of Paediatric Ophthalmology and Strabismus (WSPOS) Current approaches to myopia control. Curr Opin Ophthalmol. 2017;28:267–275. doi: 10.1097/ICU.0000000000000367. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 242. Bullimore MA. The safety of soft contact lenses in children. Optom Vis Sci. 2017;94:638–646. doi: 10.1097/OPX.0000000000001078. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 243. Chamberlain P, Peixoto-de-Matos S, Logan N, Ngo C, Jones D, Young G. A 3-year randomized clinical trial of MiSight lenses for myopia control. Optom Vis Sci. 2019;96:556–567. doi: 10.1097/OPX.0000000000001410. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 244. Cooper J, Tkatchenko AV. A review of current concepts of the etiology and treatment of myopia. Eye Contact Lens. 2018;44:231–247. doi: 10.1097/ICL.0000000000000499. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 245. Sankaridurg P, Bakaraju RC, Naduvilath T, et al. Myopia control with novel central and peripheral plus contact lenses and extended depth of focus contact lenses: 2 year results from a randomised clinical trial. Ophthalmic Physiol Opt. 2019;39:294–307. doi: 10.1111/opo.12621. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 246. Bullimore M, Brennan N. Myopia control: why each diopter matters. Optometry Vis Sci. 2019;96:463–465. doi: 10.1097/OPX.0000000000001367. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 247. Wang S, Wang J, Wang N. Combined orthokeratology with atropine for children with myopia: a meta-analysis. Ophthalmic Res. 2021;64:723–731. doi: 10.1159/000510779. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 248. Tan Q, Ng AL, Cheng GP, Woo VC, Cho P. Combined 0.01% atropine with orthokeratology in childhood myopia control (AOK) study: a 2-year randomized clinical trial. Cont Lens Anterior Eye. 2023;46:101723. doi: 10.1016/j.clae.2022.101723. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 249. Xu S, Li Z, Zhao W, et al. Effect of atropine, orthokeratology and combined treatments for myopia control: a 2-year stratified randomised clinical trial. Br J Ophthalmol. 2023;107:1812–1817. doi: 10.1136/bjo-2022-321272. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 250. Yu S, Du L, Ji N, et al. Combination of orthokeratology lens with 0.01% atropine in slowing axial elongation in children with myopia: a randomized double-blinded clinical trial. BMC Ophthalmol. 2022;22:438. doi: 10.1186/s12886-022-02635-0. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 251. Zhao Q, Hao Q. Comparison of the clinical efficacies of 0.01% atropine and orthokeratology in controlling the progression of myopia in children. Ophthalmic Epidemiol. 2021;28:376–382. doi: 10.1080/09286586.2021.1875010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 252. Foo LL, Lim GYS, Lanca C, et al. Deep learning system to predict the 5-year risk of high myopia using fundus imaging in children. NPJ Digit Med. 2023;6:10. doi: 10.1038/s41746-023-00752-8. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 253. Liu X, Jiang L, Ke M, et al. Posterior scleral birefringence measured by triple-input polarization-sensitive imaging as a biomarker of myopia progression. Nat Biomed Eng. 2023;7:986–1000. doi: 10.1038/s41551-023-01062-w. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ Associated Data 
+ This section collects any data citations, data availability statements, or supplementary materials included in this article. 
+ Supplementary Materials 
+ 
+ Supplementary file1 (PDF 936 KB) (935.5KB, pdf) 
+ Data Availability Statement 
+ The datasets (Excel spreadsheets with extracted publication titles) generated during and/or analyzed during the current study are available from the corresponding author on reasonable request.

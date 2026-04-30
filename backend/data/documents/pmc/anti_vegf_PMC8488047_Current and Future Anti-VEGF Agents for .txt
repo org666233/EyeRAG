@@ -1,0 +1,264 @@
+Source: PubMed Central (PMC)
+PMCID: PMC8488047
+Title: Current and Future Anti-VEGF Agents for Neovascular AMD
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8488047/
+Year: 2021
+Disease: anti_vegf
+Priority: 3
+============================================================
+
+J Exp Pharmacol . 2021 Sep 29;13:905–912. doi: 10.2147/JEP.S259298 
+ 
+ 
+ Current and Future Anti-VEGF Agents for Neovascular Age-Related Macular Degeneration 
+ Stephanie M Kaiser 
+ Stephanie M Kaiser 
+ 
+ 1 Cole Eye Institute, Cleveland Clinic, Cleveland, OH, USA 
+ Find articles by Stephanie M Kaiser 
+ 
+ 
+ 1 , Sruthi Arepalli 
+ Sruthi Arepalli 
+ 
+ 1 Cole Eye Institute, Cleveland Clinic, Cleveland, OH, USA 
+ Find articles by Sruthi Arepalli 
+ 
+ 
+ 1 , Justis P Ehlers 
+ Justis P Ehlers 
+ 
+ 1 Cole Eye Institute, Cleveland Clinic, Cleveland, OH, USA 
+ Find articles by Justis P Ehlers 
+ 
+ 
+ 1, ✉ 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Cole Eye Institute, Cleveland Clinic, Cleveland, OH, USA 
+ 
+ ✉ Correspondence: Justis P Ehlers Cole Eye Institute, Cleveland Clinic, Cleveland, OH, USA Email ehlersj@ccf.org 
+ 
+ 
+ Received 2021 Jun 26; Accepted 2021 Sep 6; Collection date 2021. 
+ 
+ © 2021 Kaiser et al. 
+ This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License ( http://creativecommons.org/licenses/by-nc/3.0/ ). By accessing the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms ( https://www.dovepress.com/terms.php ). 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC8488047  PMID: 34616189 
+ 
+ Abstract 
+ Age-related macular degeneration (AMD) is the most common cause of legal blindness in developed countries. Neovascular (ie, wet) AMD is currently managed with intravitreal therapy. Traditional treatments (ie, bevacizumab, ranibizumab, aflibercept) provide high-efficacy therapy but can also require frequent dosing. Newer and future anti-VEGF therapies aim to decrease injection frequency through eitherlonger half life or port-delivery systems (brolucizumab, conbercept, KSI-301, ranibizumab). This review outlines current anti-VEGF treatments and ways by which their duration might be extended. 
+ Keywords: anti-VEGF, wet age-related macular degeneration, brolucizumab, aflibercept, bevacizumab, ranibizumab, KSI-301 Introduction 
+ Age-related macular degeneration (AMD) is the most common cause of severe vision loss in developed countries and the third–most common cause of legal blindness worldwide. 1 , 2 As the population ages, the magnitude of this challenge will continue to expand. AMD is forecast to affect 17.8 million people worldwide by 2050. 3 , 4 Moreover, the Age-Related Eye Disease Study (AREDS) reported that >25% of patients with advanced AMD in one eye will later develop advanced AMD in the other within 10 years. 5 
+ Central visual function, which is necessary for reading and driving, is strongly impacted by AMD. Progression in AMD may pass through multiple stages: early, intermediate, and advanced. The advanced stages of AMD take two forms: neovascular (ie, wet) AMD (wAMD), characterized by the formation of choroidal neovascularisation (CNV), and geographic atrophy in the dry form of AMD. 5 Progressive CNV activity may result in progressive fibrosis and central scarring. The formation of such scars permanently destroys photoreceptors and the retinal pigment epithelium, leading to permanent vision loss. 1 
+ The precise cause of wAMD is uncertain; however, upregulation of VEGF and other proangiogenic factors resulting in CNV development is an important component of neovascular disease. 6 There are five proteins that make up the VEGF family: VEGFA, VEGFB, VEGFC, VEGFD, and PGF), with different agonistic VEGF isoforms binding to different VEGF receptors. 7 VEGFA, which is simply known as VEGF due to its role as the main angiogenic factor, stimulates physiological and pathological angiogenesis and activates VEGFR1 and VEGFR2, the major receptors for angiogenesis, on endothelial cells. 7 VEGFA also has many known slice variants, including VEGFA 121 , VEGFA 145 , VEGFA 165 , and VEGFA 189 . 8 VEGFB and PGF bind only to VEGFR1, the activation of which creates a weaker signal for angiogenesis than activation of VEGFR2. 7 VEGFC and VEGFD are tangentially involved in angiogenesis through VEGFR2, but are crucial for lymphangiogenesis via VEGFR3. 7 
+ Upon receipt of an angiogenic mediator (such as VEGF), pericytes detach from the vessel wall, loosening junctions between endothelial cells and increasing vessel permeability. 9 , 10 A new extracellular matrix is formed by the leakage of plasma proteins, leading to the growth of new blood vessels. Breaking down vascular barriers is necessary for physiologic angiogenesis; however, VEGF can also stimulate fluid exudation and leakage into retinal tissues. 6 , 10 VEGF also stimulates ICAM1 and VCAM1 expression in the retina and brain. 6 With enhanced response from VEGFA, inflammation and hypervascular permeability may be caused by macrophage migration. 7 
+ Therefore, preventing excessive angiogenic pathway activity and subsequent vascular permeability and inflammatory responses through inhibiting VEGF binding to VEGFR2 is the major focus of anti-VEGF treatments in wAMD. 11 The first anti-VEGF agent approved to treat wAMD was pegaptanib (Macugen, Bausch and Lomb), which blocks just one isoform (VEGFA 165 ). Later, pan-VEGF blockers, such as ranibizumab (Lucentis, Genentech/Roche) and off-label bevacizumab (Avastin, Genentech/Roche), which block all isoforms of VEGFA, supplanted pegaptanib with considerably better visual results. 12 , 13 These therapies have dramatically improved the treatment of wAMD, providing opportunities for improving visual outcomes. 11 Current Treatment Landscape 
+ The current gold-standard treatment for wAMD is intravitreal anti-VEGF therapy. 11 , 14 For patients with wAMD, intravitreal anti-VEGF injections and monitoring is typically performed every 1–3 months, based on clinical response. 15 Frequent injections and high treatment burden create significant challenges for patients and providers. However, studies have demonstrated that visual outcomes are superior when patients are able to receive fixed treatments, as opposed to following an irregular dosing schedule. 16 Even with the most consistent and individualized treatment, visual loss may still result, related to such disease progression as atrophy or subretinal fibrosis. 19 , 20 
+ Future treatments of wAMD look toward increasing the longevity of the drug, resulting in less frequent injections ( Table 1 ). Due to the nature of the administration of intravitreal anti-VEGF agents, blockade of VEGF is pulsatile. Should a longer-lasting drug be developed, vision outcomes may be more favorable, due to a continuous blockade of VEGF. 21 Furthermore, less frequent injections with longer drug efficacy will reduce the costs of antiangiogenic therapy for AMD. 11 This review outline current anti-VEGF treatments and ways by which their duration might be extended.
+ 
+ Table 1. 
+ Summary of Next-Generation Treatment Drugs 
+ 
+ 
+ 
+ Description 
+ Advantages 
+ Disadvantages 
+ Status 
+ 
+ 
+ 
+ 0.5 mg conbercept 
+ Recombinant human fusion protein of extracellular domains of VEGFR1, VEGFR2, and IgG 1 Fc 
+ Significant increase in BVCA after 3 months compared to sham 
+ No mean change in BVCA at 36 weeks with conbercept every 12 weeks compared to aflibercept every 8 weeks 
+ Not FDA-approved, approved in China 
+ 
+ 
+ 6 mg brolucizumab 
+ Single-chain antibody fragment 
+ High molarity of drug may allow for more durability; noninferior to aflibercept; fluid resolution higher in brolucizumab group than aflibercept group 
+ Concerns over inflammatory profile 
+ FDA-approved 
+ 
+ 
+ Abicipar pegol 
+ Mono–designed ankyrin repeat protein 
+ Longer half-life than ranibizumab (13 days vs 3 days, respectively); noninferior to ranibizumab 
+ Relatively high rates of intraocular inflammation compared to ranibizumab 
+ Received “complete response letter” from FDA 
+ 
+ 
+ KSI-301 
+ Anti-VEGF antibody–biopolymer conjugate 
+ Large molar dose of drug allows for more durability; majority of patients able to go 6 months without retreatment after initial treatment in clinical trials 
+ Efficacy and safety of longer-interval injections compared to aflibercept at 8-week intervals still under investigation 
+ Not FDA-approved 
+ 
+ 
+ Ranibizumab port-delivery system 
+ Permanent, surgically implanted intraocular device 
+ Nearly all patients in clinical trial able to go 6 months without medication refill after initial installation 
+ Concerns over rates of vitreous hemorrhage 
+ Not FDA-approved 
+ 
+ 
+ 
+ Open in a new tab Current Therapies 
+ Pegaptanib 
+ Approved in 2004, 0.3 mg pegaptanib sodium (Macugen) reduced vision loss in neovascular AMD as an intravitreal injection at 6-week intervals compared to a sham molecule by targeting VEGFA 165 . 22 It has largely become obsolete since its approval in 2004, as more effective anti-VEGF treatments have been introduced. Bevacizumab 
+ Initially approved for treating colon cancer, 1.25 mg bevacizumab (Avastin) has been used off-label since 2005 as a treatment for neovascular AMD. 23 It is a full-length, humanized, recombinant monoclonal antibody against all isoforms of VEGFA.  It is significantly less expensive than many other anti-VEGF treatment options, as each vial can be fractionated into smaller doses for ocular use. Bevacizumab has been shown to be noninferior to ranibizumab in comparative studies, and is often used as a first-line agent. 24 , 45 Durability and drying efficacy of bevacizumab have been shown to be less than other agents in select patients. Ranibizumab 
+ Intravitreal 0.5 mg ranibizumab (Lucentis) was developed specifically for ocular use. It is a humanized, monoclonal antibody fragment that targets all isoforms of VEGFA. 17 , 18 Ranibizumab showed improvement in vision compared to a sham in the MARINA study and to photodynamic therapy in the ANCHOR study in predominantly classic lesions. Despite its promising clinical study results, real-world studies have been challenged to replicate the vision gain that patients experienced in the clinical studies of ranibizumab over the long term. 25 , 26 , 27 , 29 Aflibercept 
+ Aflibercept (2 mg), a recombinant fusion protein of specific domains from human VEGFR1, VEGFR2, IgG 1 , was the first anti-VEGF agent to evaluate dosing with a more extended interval (eg, 8 weeks). It was approved in 2011, and is designed to target VEGFA, VEGFB, and PGF. 43 Various studies have shown it to be noninferior to ranibizumab. 44 Anti-VEGF Biosimilars 
+ As bevacizumab, ranibizumab, and aflibercept have been available for over a decade, their patents have expired or are expiring shortly within the US and the European Union. This has allowed the development of anti-VEGF biosimilars: drugs that are similar to established treatments and mimic their effects, but do not have identical active ingredients in the way generic drugs do. 28 Anti-VEGF biosimilars must yield no differences in purity, efficacy, or safety from the established treatment to receive FDA approval. Currently, Mvasi (Amgen) and Zirabev (Pfizer) are available biosimilars for bevacizumab, and ONS-5010 (Outlook Therapeutics) is under development. Ranibizumab biosimilars under development include FYB201 (Formycon & Bioeq), Xlucane (Xbrane Biopharma), SB11 (Samsung Bioepis), PF582 (Pfenex), and Razumab (Intas Pharmaceuticals). While aflibercept is still within its patent life, anti-VEGF biosimilars like MYL1701 (Momenta Pharmaceuticals and Mylan NV), ALT-L9 (Alteogen), FYB203 (Formycon and Bioeq), and CHS2020 (Coherus Biosciences) are under development. 28 Increasing Drug Longevity 
+ Prolonging Drug Action 
+ The distribution of a drug in the vitreous humour, which impacts durability, is affected by the drug’s characteristics, including molecular weight/size, charge, protein-binding affinity, and the vitreous humor itself (eg, composition, volume). 30 This review includes a discussion of the importance of molecular size in prolonging treatment durability, as emphasized by several recent publications. 15 , 31 , 33 Molecular Size and Dose 
+ Molecular size has been central to the potential for increasing the effect of a specific dose. As limits exist in potential intravitreal volume of therapies (eg, 0.05 mL), drug durability is directly related to how much drug can be feasibly formulated into this volume. Smaller VEGF-binding molecules, such as brolucizumab (26 kDa), facilitate higher clinical doses than large VEGF-binding molecules, such as bevacizumab (149 kDa) or conbercept (143 kDa), while brolucizumab is available at 27.5-fold the dose of bevacizumab in an 0.05 intravitreal injection and 22-fold that of ranibizumab. 34 Brolucizumab was shown to be noninferior to aflibercept in the phase III trials HAWK and HARRIER and associated with enhanced fluid resolution in anatomic outcomes. 34 Molecular size plays a role not just in determining clinical dose but also in determining diffusion and clearance of the drug molecule from its compartment. 30 
+ The protein-binding affinity of an anti-VEGF agent has also been identified as an influence on drug efficacy. Affinity measures the strength of the interaction between the ligand (ie, the anti-VEGF agent) and the corresponding receptor (ie, VEGF). It can be measured through the equilibrium dissociation constant (K d ). Higher K d values indicate weaker binding and lower affinity. 35 Of antibody-based anti-VEGF agents, bevacizumab, ranibizumab, and brolucizumab have been shown to have similar affinity for binding VEGF (1.6–58 pM). 30 , 36 VEGFR1/2 fusion proteins have been noted for their higher affinity and subpicomolar K d values: aflibercept 0.49 pM, conbercept 6 pM, and the DARPin molecule abicipar pegol 2 pM. 30 , 37 , 38 While these drugs have high affinities, their clinical doses and equivalent molar doses will be important to consider in determining their durability, given their varying sizes (34–143 kDa). Clearance and Half-Life 
+ Increased duration of clinically relevant outcomes and subsequent reduced dosing frequency may be made possible through altering drug structure to reduce clearance and increase half-life. 30 Older eyes tend to show the process of liquefaction, or an increasing amount of vitreous humor that is liquid. 30 The vitreous (~4 mL in humans, 80% of the internal volume of the eye) consists in a suspension of water, hyaluronic acid, collagen, albumin, and other components that affects the diffusion and clearance of anti-VEGF molecules. 30 Following injection, anti-VEGF agents diffuse into the available volume in the posterior chamber, reach the retina and other ocular structures, where they bind to VEGF, and prevent the activation of VEGFR1. 39 
+ Used in pharmacokinetics to define the volume of plasma freed of a drug over time, “clearance” occurs as the concentration of a drug in the vitreous gradually decreases. 39 For the most part, large molecules are cleared through passive diffusion to the aqueous chamber into systemic circulation. Smaller, more lipophilic molecules may also be cleared at the retina–blood interface. 40, 41 Anti-VEGF agents are gradually cleared from the posterior chamber into systemic circulation after injection, rather than being subject to local metabolism or degradation. 30 Drug durability is related to its clearance, which contributes to its half-life (time it takes for drug concentration to decrease by half) within the vitreous. 
+ Approximately five half-lives are required to eliminate 97% of a drug from a given system/compartment, as 50% of the drug is lost every half-life (ie, 50%, 75%, 87.5%, 93.75%, 96.875%). The clearance and apparent volume of drug distribution (V app , ie, the vitreous cavity) is related to the half-life of a drug through the equation t ½ = ln 2 V app /Cl total . 34 Half-life and clearance are inversely related: as clearance (Cl total ) of a drug decrease, its half-life increases. Current data for anti-VEGF agent intraocular half-lives are based on animal studies, as there are limited half-life data on anti-VEGF agents after intravitreal administration. 42 In rabbits, the vitreous half-life of aflibercept has been reported to be 3.63 days, while the vitreous half-life for ranibizumab was 3 days in primates and 2.88 in Dutch-belted rabbits. 21 , 30 
+ Given the lack of comprehensive data on ocular pharmacokinetics of anti-VEGF antibodies in humans after IVT injection, it is difficult to calculate the ideal frequency of administration, which is usually based on the half-life of the drug such that the appropriate concentration of the drug is sustained in the vitreous. 30 For now, then, dosage frequency of anti-VEGF agents is based on drug effect and a given individual’s disease activity, rather than on the pharmacokinetics of these drugs. 30 Next-Generation Therapeutics 
+ Conbercept 
+ A recombinant human fusion protein of extracellular domains of VEGFR1, VEGFR2, and a portion of Fc IgG 1 , 0.5 mg conbercept (Lumitin; Chengdu Kanghong Pharmaceutical, Chengdu, Sichuan) varies from aflibercept with the addition of VEGFR2 domain 4, which allows for tighter binding to VEGFA, VEGFB, and PGF. In a phase III prospective, double-masked, multicenter, sham-controlled trial in neovascular AMD in China, the conbercept group showed a significant increase in BCVA compared to sham at 3 months. 46 After the primary outcome was reached at 3 months, the sham group crossed over. By 12 months, there was no significant difference in BCVA between the conbercept and sham groups. 46 The phase III trials PANDA-1 and PANDA-2 were randomized, quadruple-blinded, and multicentered with three equally distributed arms: 0.5 mg conbercept, 1 mg conbercept, and 2 mg aflibercept. The study failed to meet its primary end point of mean change in BVCA at 36 weeks with conbercept every 12 weeks compared to aflibercept every 8 weeks. 47 Brolucizumab 
+ Approved in 2019, 32 6 mg brolucizumab (Beovu; Novartis Logo, Basel) is a new anti-VEGF agent that targets VEGFA. 3 It is a single-chain antibody fragment, and its small dimensions allow for a very high molar concentration in a 0.05 mL injection, which may have a positive impact on its durability. 43 , 48 In the HAWK and HARRIER trials it was shown to be noninferior to aflibercept at 8 and 12-week intervals. 34 , 49 A significant number of patients were maintained on a 12-week interval for treatments, with >50% of patients at the 48-week period in both the HAWK and HARRIER trials, and >75% maintained at the 12-week interval by 96 weeks. 34 Fluid resolution appeared to be more robust for brolucizumab than aflibercept. Despite these promising initial results, there is concern over the inflammatory profile of the drug, with intraocular inflammation, such as retinal vasculitis and retinal occlusive vasculitis, occurring in some patients. 50 Abicipar Pegol 
+ Targeting all isoforms of VEGF, abicipar pegol (Abicipar; Allergan, Coolock, Dublin) is a mono–designed ankyrin repeat protein (mono-DARPin). 51 DARPin is a 14 kDa recombinant protein, 34 kDa when covalently linked to a 20 kDa polyethylene glycol tail to increase molecular size, allowing the drug to be administered at longer intervals. 52 The drug’s relatively long vitreous half-life of 13 days is significantly more than ranibizumab’s half-life of approximately 3 days. 30 Abicipar injections every 8 and 12 weeks were found to be noninferior to ranibizumab injections given every 4 weeks in the CEDAR and SEQUOIA studies. 51 However, the abicipar group demonstrated intraocular inflammation at a rate of 15.4% compared to only 0.3% intraocular inflammation following ranibizumab injection. 13 Following manufacturing changes, the rate of inflammation decreased to 8.9% in the MAPLE study. Given the rates of inflammation, the FDA did not initially approve abicipar and instead delivered a “complete response letter.” 49 KSI-301 
+ KSI-301 (Kodiak Sciences, Palo Alto, CA) is an anti-VEGF antibody–biopolymer conjugate comprised of a humanized anti-VEGF antibody (similar to ranibizumab) and an ultra–high molecular weight phosphorylcholine-based polymer, which increases intraocular stability and drug durability. 13 KSI-301 is an example of leveraging molecular weight to increase drug longevity and reduce the frequency of intravitreal injections. With a molecular weight of 950 kDa, it is by far the largest anti-VEGF drug. 31 Its size and clinical dose (5 mg, or an equivalent dose of 3.5 M) creates an equivalent molar dose seven times that of ranibizumab (48 kDa, equivalent dose 0.5 M). 15 , 53 In a phase IB, randomized, open-label study with KSI-301 (utilizing both 2.5 mg and 5.0 mg clinical doses) targeting patients with neovascular AMD, diabetic macular edema, and retinal vein occlusion, 55% of patients enrolled in the neovascular AMD branch went 6 months without retreatment. After retreatment, 84% of patients were able to go 4 months without additional treatment, which may indicate KSI-301’s ability to significantly decrease the treatment burden felt by many patients with wAMD. 31 Currently, DAZZLE ( NCT04049266 ), a phase IIB/III study is recruiting to investigate the efficacy and safety of repeated KSI-301 injections in 368 patients with wAMD given at 12-, 16-, or 20-week intervals following an initial three loading doses, while being compared to aflibercept at 8-week intervals following the three initial monthly loading doses. 54 Ranibizumab Port-Delivery System 
+ The ranibizumab port-delivery system (PDS; Genentech) is a permanent, surgically implanted intraocular device that allows for clinic-based refills. 55 , 56 Containing a high-concentration ranibizumab formulation (up to 100 mg/mL) that slowly diffuses into the vitreous, the ranibizumabPDS is designed to continuously release ranibizumab directly into the vitreous cavity at appropriate intervals and extend treatment duration. 57 In the phase II LADDER trial, the ranibizumab PDS gave comparable visual and anatomic results to traditional intravitreal injections. 56 The phase III trial ARCHWAY has shown noninferior outcomes and equivalent visual acuity with the use of the 100 mg/mL surgical implant compared to monthly ranibizumab injections, and 98% of patients were able to last 6 months on the PDS without a medication refill. 58 The ARCHWAY trial is being continued in the ongoing PORTAL study. Currently, there are concerns over rates of vitreous hemorrhage, and the delivery technique is being altered. 59 Conclusion 
+ Neovascular AMD may lead to devastating effects on patients’ vision, lifestyle, and independence. Its complex pathogenesis has led to the development of several treatment options, the most common of which has traditionally been the use of anti-VEGF agents to block the VEGF pathway. Currently, these anti-VEGF agents require frequent intravitreal injections, making treatment difficult to sustain, which may limit long-term visual outcomes. 
+ A major focus for future wAMD therapeutics is extending drug durability to limit treatment frequency and reduce office visits, lessening the barriers to treatment. Decreasing molecular size is one avenue of increasing the dose of an anti-VEGF agent, as seen in trials of brolucizumab. Alteration of binding affinity (as in the case of VEGFR-fusion proteins, such as aflibercept and conbercept) may allow for reduced clearance of the drug, increasing its longevity. Developing drugs with longer half-lives is also an area of interest, such as with KSI-301 and abicipar pegol, which have given promising results in extended doses. Finally, forgoing traditional injections altogether in favor of alternative delivery methods, such as the ranibizumab PDS, may allow for a more sustained treatment model. The advent of anti-VEGF therapy has been a game changer for our patients with wAMD. The next phase for enhancing patient outcomes will likely come through improved durability and decreased treatment burden. Ongoing clinical trials and multiple emerging therapeutics provide an exciting landscape to watch as the future for treatment of this impactful disease continues to evolve. Funding Statement 
+ This work was supported by the Heed Ophthalmic Foundation Award to Sruthi Arepalli, MD. Disclosure 
+ Justis P Ehlers reports grants from Novartis, Alcon, Oxurion, Aerpio, Regeneron, Genentech, Boehringer-Ingelheim, and Roche, consulting fees from Novartis, Alcon, Adverum, Allergan, Thrombogenics, Aerpio, Stealth, Regeneron, Allegro, and Zeiss, and patents/intellectual property/licensing with Bioptigen/Leica outside the submitted work. The authors report no other conflicts of interest in this work. References 
+ 
+ 
+ 1. Mathenge W. Age-related macular degeneration. Community Eye Health . 2014;27(87):49–50. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Resnikoff S, Pascolini D, Etya’ale D, et al. Global data on visual impairment in the year 2002. Bull World Health Organ . 2004;82(11):844–851. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Khanna S, Komati R, Eichenbaum DA, Hariprasad I, Ciulla TA, Hariprasad SM. Current and upcoming anti-VEGF therapies and dosing strategies for the treatment of neovascular AMD: a comparative review. BMJ Open Ophthalmol . 2019;4(1):e000398. doi: 10.1136/bmjophth-2019-000398 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Wong WL, Su X, Li X, et al. Global prevalence of age-related macular degeneration and disease burden projection for 2020 and 2040: a systematic review and meta-analysis. Lancet Global Health . 2014;2(2):e106–e116. doi: 10.1016/S2214-109X(13)70145-1 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Roh M, Seo Y, Shin HJ, Miller JW, Koh HJ. Comparison of progression to advanced stage between polypoidal choroidal vasculopathy and age-related macular degeneration in Korea. Ophthalmol Retina . 2018;2(5):475–480. doi: 10.1016/j.oret.2017.08.021 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Kaur I, Katta S, Hussain A, et al. Variants in the 10q26 gene cluster (LOC387715 and HTRA1) exhibit enhanced risk of age-related macular degeneration along with CFH in Indian patients. Invest Ophthalmol Vis Sci . 2008;49(5):1771–1776. doi: 10.1167/iovs.07-0560 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Shibuya M. Vascular Endothelial Growth Factor (VEGF) and its Receptor (VEGFR) signaling in angiogenesis: a crucial target for anti- and pro-angiogenic therapies. Genes Cancer . 2011;2(12):1097–1105. doi: 10.1177/1947601911423031 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Koch S, Claesson-Welsh L. Signal transduction by vascular endothelial growth factor receptors. Cold Spring Harb Perspect Med . 2012;2(7):a006502. doi: 10.1101/cshperspect.a006502 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Attwell D, Mishra A, Hall CN, O’Farrell FM, Dalkara T. What is a pericyte? J Cereb Blood Flow Metab . 2016;36(2):451–455. doi: 10.1177/0271678X15610340 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Carmeliet P, Jain RK. Molecular mechanisms and clinical applications of angiogenesis. Nature . 2011;473(7347):298–307. doi: 10.1038/nature10144 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Schmidt-Erfurth U, Kaiser PK, Korobelnik JF, et al. Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six-week results of the VIEW studies. Ophthalmology . 2014;121(1):193–201. doi: 10.1016/j.ophtha.2013.08.011 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Cui J, Sun D, Lu H, et al. Comparison of effectiveness and safety between conbercept and ranibizumab for treatment of neovascular age-related macular degeneration. A retrospective case-controlled non-inferiority multiple center study. Eye . 2018;32(2):391–399. doi: 10.1038/eye.2017.187 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Al-Khersan H, Hussain RM, Ciulla TA, Dugel PU. Innovative therapies for neovascular age-related macular degeneration. Expert Opin Pharmacother . 2019;20(15):1879–1891. doi: 10.1080/14656566.2019.1636031 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Modi YS, Tanchon C, Ehlers JP. Comparative safety and tolerability of anti-VEGF therapy in age-related macular degeneration. Drug Saf . 2015;38(3):279–293. doi: 10.1007/s40264-015-0273-0 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Nguyen QD, Das A, Do DV, et al. Brolucizumab: evolution through preclinical and clinical studies and the implications for the management of neovascular age-related macular degeneration. Ophthalmology . 2020;127(7):963–976. doi: 10.1016/j.ophtha.2019.12.031 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Weber M, Dominguez M, Coscas F, et al. Impact of intravitreal aflibercept dosing regimens in treatment-naïve patients with neovascular age-related macular degeneration: 2-year results of RAINBOW. BMC Ophthalmol . 2020;20(1):206. doi: 10.1186/s12886-020-01468-z [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Martin DF, Maguire MG, Ying GS, et al. Ranibizumab and bevacizumab for neovascular age-related macular degeneration. N Engl J Med . 2011;364(20):1897–1908. doi: 10.1056/NEJMoa1102673 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Wykoff CC, Ou WC, Croft DE, et al. Neovascular age-related macular degeneration management in the third year: final results from the TREX-AMD randomised trial. Br J Ophthalmol . 2018;102(4):460–464. doi: 10.1136/bjophthalmol-2017-310822 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Casalino G, Stevenson MR, Bandello F, Chakravarthy U. Tomographic biomarkers predicting progression to fibrosis in treated neovascular age-related macular degeneration: a multimodal imaging study. Ophthalmol Retina . 2018;2(5):451–461. doi: 10.1016/j.oret.2017.08.019 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Singer M, Singh RP, Gibson A, et al. Association of early anatomic response with visual function in neovascular age-related macular degeneration. Ophthalmology . 2021:S0161642021003699. doi: 10.1016/j.ophtha.2021.05.011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Avery RL, Castellarin AA, Steinle NC, et al. Systemic pharmacokinetics and pharmacodynamics of intravitreal aflibercept, bevacizumab, and ranibizumab. Retina . 2017;37(10):1847–1858. doi: 10.1097/IAE.0000000000001493 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Doggrell SA. Pegaptanib: the first antiangiogenic agent approved for neovascular macular degeneration. Expert Opin Pharmacother . 2005;6(8):1421–1423. doi: 10.1517/14656566.6.8.1421 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Holash J, Davis S, Papadopoulos N, et al. VEGF-Trap: a VEGF blocker with potent antitumor effects. Proc Natl Acad Sci U S A . 2002;99(17):11393–11398. doi: 10.1073/pnas.172398299 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Martin DF, Maguire MG, Fine SL, et al. Ranibizumab and bevacizumab for treatment of neovascular age-related macular degeneration: two-year results. Ophthalmology . 2012;119(7):1388–1398. doi: 10.1016/j.ophtha.2012.03.053 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Holz FG, Figueroa MS, Bandello F, et al. Ranibizumab treatment in treatment-naive neovascular age-related macular degeneration: results from luminous, a global real-world study. Retina . 2020;40(9):1673–1685. doi: 10.1097/IAE.0000000000002670 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Hykin P, Chakravarthy U, Lotery A, McKibbin M, Napier J, Sivaprasad S. A retrospective study of the real-life utilization and effectiveness of ranibizumab therapy for neovascular age-related macular degeneration in the UK. Clin Ophthalmol . 2016;10:87–96. doi: 10.2147/OPTH.S92627 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Holz FG, Tadayoni R, Beatty S, et al. Multi-country real-life experience of anti-vascular endothelial growth factor therapy for wet age-related macular degeneration. Br J Ophthalmol . 2015;99(2):220–226. doi: 10.1136/bjophthalmol-2014-305327 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Kaiser PM, Srivastava SK. Biosimilars for the treatment of wet AMD. Ophthalmol Manag . 2020. Available from: https://www.ophthalmologymanagement.com/newsletters/amd-update/july-2020 . Accessed, 2021. [ Google Scholar ] 
+ 
+ 29. Brown DM, Kaiser PK, Michels M, et al. Ranibizumab versus verteporfin for neovascular age-related macular degeneration. N Engl J Med . 2006;355(14):1432–1444. doi: 10.1056/NEJMoa062655 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. García-Quintanilla L, Luaces-Rodríguez A, Gil-Martínez M, et al. Pharmacokinetics of intravitreal anti-VEGF drugs in age-related macular degeneration. Pharmaceutics . 2019;11(8):8. doi: 10.3390/pharmaceutics11080365 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Puliafito CA, Wykoff CC. New frontiers in retina: highlights of the 2020 angiogenesis, exudation and degeneration symposium. Int J Retin Vitr . 2020;6(1):18. doi: 10.1186/s40942-020-00221-4 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Markham A. Brolucizumab: first Approval. Drugs . 2019;79(18):1997–2000. doi: 10.1007/s40265-019-01231-9 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Fuchs H, Igney F. Binding to ocular albumin as a half-life extension principle for intravitreally injected drugs: evidence from mechanistic rat and rabbit studies. J Ocul Pharmacol Ther . 2017;33(2):115–122. doi: 10.1089/jop.2016.0083 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Dugel PU, Koh A, Ogura Y, et al. HAWK and HARRIER: Phase 3, multicenter, randomized, double-masked trials of brolucizumab for neovascular age-related macular degeneration. Ophthalmology . 2020;127(1):72–84. doi: 10.1016/j.ophtha.2019.04.017 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Salahudeen MS, Nishtala PS. An overview of pharmacodynamic modelling, ligand-binding approach and its application in clinical practice. Saudi Pharm J . 2017;25(2):165–175. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Stewart MW. Extended duration vascular endothelial growth factor inhibition in the eye: failures, successes, and future possibilities. Pharmaceutics . 2018;10(1):1. doi: 10.3390/pharmaceutics10010021 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Campochiaro PA, Bhisitkul RB, Shapiro H, Rubio RG. Vascular endothelial growth factor promotes progressive retinal nonperfusion in patients with retinal vein occlusion. Ophthalmology . 2013;120(4):795–802. doi: 10.1016/j.ophtha.2012.09.032 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Lu Y, Wang J, Yan J, et al. Sevoflurane attenuate hypoxia-induced VEGF level in tongue squamous cell carcinoma cell by upregulating the DNA methylation states of the promoter region. Biomed Pharmacother . 2015;71:139–145. doi: 10.1016/j.biopha.2015.02.032 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Lüllmann Heinz, Mohr K, Hein L.  Color Atlas of Pharmacology . 5th ed. Thieme; 2011. [ Google Scholar ] 
+ 
+ 40. Gupta SK, Dhingra N, Velpandian T, Jaiswal J. Efficacy of fluconazole and liposome entrapped fluconazole for C. albicans induced experimental mycotic endophthalmitis in rabbit eyes. Acta Ophthalmol Scandinavica . 2000;78(4):448–450. doi: 10.1034/j.1600-0420.2000.078004448.x [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Bakri SJ, Snyder MR, Reid JM, Pulido JS, Singh RJ. Pharmacokinetics of intravitreal bevacizumab (Avastin). Ophthalmology . 2007;114(5):855–859. doi: 10.1016/j.ophtha.2007.01.017 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Del Amo EM, Urtti A. Rabbit as an animal model for intravitreal pharmacokinetics: clinical predictability and quality of the published data. Exp Eye Res . 2015;137:111–124. doi: 10.1016/j.exer.2015.05.003 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Hussain R, Savant V. Fine-needle diathermy with simultaneous subconjunctival bevacizumab. Semin Ophthalmol . 2017;32(5):550–552. doi: 10.3109/08820538.2015.1123738 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Heier JS, Brown DM, Chong V, et al. Intravitreal aflibercept (VEGF trap-eye) in wet age-related macular degeneration. Ophthalmology . 2012;119(12):2537–2548. doi: 10.1016/j.ophtha.2012.09.006 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Kodjikian L, Souied EH, Mimoun G, et al. Ranibizumab versus bevacizumab for neovascular age-related macular degeneration: results from the GEFAL noninferiority randomized trial. Ophthalmology . 2013;120(11):2300–2309. doi: 10.1016/j.ophtha.2013.06.020 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Liu K, Song Y, Xu G, et al. Conbercept for treatment of neovascular age-related macular degeneration: results of the randomized phase 3 PHOENIX study. Am J Ophthalmol . 2019;197:156–167. doi: 10.1016/j.ajo.2018.08.026 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Panda PK, Bandyopadhyay A, Singh BC, et al. Safety and efficacy of antiviral combination therapy in symptomatic patients of Covid-19 infection - a randomised controlled trial (SEV-COVID Trial): a structured summary of a study protocol for a randomized controlled trial. Trials . 2020;21(1):866. doi: 10.1186/s13063-020-04774-5 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Hussain RM, Ciulla TA. Emerging vascular endothelial growth factor antagonists to treat neovascular age-related macular degeneration. Expert Opin Emerg Drugs . 2017;22(3):235–246. doi: 10.1080/14728214.2017.1362390 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Hussain RM, Weng CY, Wykoff CC, Gandhi RA, Hariprasad SM. Abicipar pegol for neovascular age-related macular degeneration. Expert Opin Biol Ther . 2020;20(9):999–1008. doi: 10.1080/14712598.2020.1782379 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Baumal CR, Spaide RF, Vajzovic L, et al. Retinal vasculitis and intraocular inflammation after intravitreal injection of brolucizumab. Ophthalmology . 2020;127(10):1345–1359. doi: 10.1016/j.ophtha.2020.04.017 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Kunimoto D, Yoon YH, Wykoff CC, et al. Efficacy and safety of abicipar in neovascular age-related macular degeneration: 52-week results of phase 3 randomized controlled study. Ophthalmology . 2020;127(10):1331–1344. doi: 10.1016/j.ophtha.2020.03.035 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Ferro Desideri L, Traverso CE, Nicolò M. Abicipar pegol: an investigational anti-VEGF agent for the treatment of wet age-related macular degeneration. Expert Opin Investig Drugs . 2020;29(7):651–658. doi: 10.1080/13543784.2020.1772754 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Barakat MR. One-year and beyond: results of phase 1b study of KSI-301, an antiVEGF antibody biopolymer conjugate with extended durability, in wAMD, DME, and RVO. Presented at: American Society of Retina Specialists Annual Meeting; July 26th, 2020; Seattle, WA. 
+ 
+ 
+ 54. Kodiak sciences completes enrollment of DAZZLE Phase 2b/3 pivotal study of KSI-301 in patients with wet age-related macular degeneration; 2020. Available from: https://www.prnewswire.com/news-releases/kodiak-sciences-completes-enrollment-of-dazzle-phase-2b3-pivotal-study-of-ksi-301-in-patients-with-wet-age-related-macular-degeneration-301173275.html . Accessed September6, 2021. 
+ 
+ 
+ 55. Campochiaro PA, Brown DM, Awh CC, et al. Sustained benefits from ranibizumab for macular edema following central retinal vein occlusion: twelve-month outcomes of a phase III study. Ophthalmology . 2011;118(10):2041–2049. doi: 10.1016/j.ophtha.2011.02.038 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Campochiaro PA, Marcus DM, Awh CC, et al. The port delivery system with ranibizumab for neovascular age-related macular degeneration: results from the randomized phase 2 ladder clinical trial. Ophthalmology . 2019;126(8):1141–1154. doi: 10.1016/j.ophtha.2019.03.036 [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Chen ER, Kaiser PK. Therapeutic potential of the ranibizumab port delivery system in the treatment of AMD: evidence to date. Clin Ophthalmol . 2020;14:1349–1355. doi: 10.2147/OPTH.S194234 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Genetech. Phase III data show port delivery system with ranibizumab enabled over 98% of patients to go six months between treatments for neovascular age-related macular degeneration; 2020. Available from: https://www.biospace.com/article/releases/phase-iii-data-show-port-delivery-system-with-ranibizumab-enabled-over-98-percent-of-patients-to-go-six-months-between-treatments-for-neovascular-age-related-macular-degeneration/ . Accessed September6, 2021. 
+ 
+ 
+ 59. Loewenstein A, Laganovska G, Bressler NM, et al. Phase 1 clinical study of the port delivery system with ranibizumab for continuous treatment of neovascular age-related macular degeneration. Invest Ophthalmol Vis Sci . 2020;61(7):4201. [ Google Scholar ]

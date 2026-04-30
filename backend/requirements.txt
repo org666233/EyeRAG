@@ -1,0 +1,39 @@
+# 核心依赖
+fastapi==0.129.0
+uvicorn==0.41.0
+pydantic==2.12.5
+pydantic-settings==2.13.1
+python-multipart==0.0.22
+
+# 数据库 - MySQL
+SQLAlchemy==2.0.46
+aiomysql==0.2.0
+PyMySQL==1.1.1
+
+# 认证
+python-jose[cryptography]==3.5.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.0.1
+
+# AI/ML
+chromadb==1.5.1
+sentence-transformers==5.2.3
+openai>=1.0.0
+anthropic>=0.40.0
+numpy==2.4.2
+
+# 文档处理
+PyPDF2==3.0.1
+requests==2.32.5
+
+# Markdown 渲染
+markdown-it-py>=3.0.0
+
+# 日志
+loguru>=0.7.0
+
+# RAGAs 评估框架（仅评估脚本使用，不影响主服务）
+ragas>=0.1.19,<0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.0.30
+datasets>=2.18.0

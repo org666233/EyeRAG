@@ -1,0 +1,225 @@
+Source: PubMed Central (PMC)
+PMCID: PMC7154208
+Title: Cosmetic blepharoplasty and dry eye disease: a review
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7154208/
+Year: 2020
+Disease: eyelid_disease
+Priority: 3
+============================================================
+
+Int J Ophthalmol . 2020 Mar 18;13(3):488–492. doi: 10.18240/ijo.2020.03.18 
+ 
+ 
+ Cosmetic blepharoplasty and dry eye disease: a review of the incidence, clinical manifestations, mechanisms and prevention 
+ Si-Yi Zhang 
+ Si-Yi Zhang 
+ 
+ 1 Department of Ophthalmology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200011, China 
+ 
+ 2 Shanghai Key Laboratory of Orbital Diseases and Ocular Oncology, Shanghai 200011, China 
+ Find articles by Si-Yi Zhang 
+ 
+ 
+ 1, 2 , Yan Yan 
+ Yan Yan 
+ 
+ 1 Department of Ophthalmology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200011, China 
+ 
+ 2 Shanghai Key Laboratory of Orbital Diseases and Ocular Oncology, Shanghai 200011, China 
+ Find articles by Yan Yan 
+ 
+ 
+ 1, 2 , Yao Fu 
+ Yao Fu 
+ 
+ 1 Department of Ophthalmology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200011, China 
+ 
+ 2 Shanghai Key Laboratory of Orbital Diseases and Ocular Oncology, Shanghai 200011, China 
+ Find articles by Yao Fu 
+ 
+ 
+ 1, 2 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200011, China 
+ 
+ 2 Shanghai Key Laboratory of Orbital Diseases and Ocular Oncology, Shanghai 200011, China 
+ 
+ ✉ Correspondence to: Yao Fu. Department of Ophthalmology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200011, China. drfuyao@126.com 
+ 
+ 
+ Received 2019 Mar 3; Accepted 2019 Dec 7; Collection date 2020. 
+ 
+ International Journal of Ophthalmology Press 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC7154208  PMID: 32309188 
+ 
+ Abstract 
+ Dry eye disease is a multifactorial disease of the ocular surface and can be caused by a variety of iatrogenic interventions, especially ophthalmic surgical procedures. This article reviews the incidence, clinical manifestations, mechanisms and prevention of dry eye disease caused or worsened by cosmetic blepharoplasty, and focus on how to reduce and prevent the occurrence of postoperative dry eye disease and provide the basis for the selection of operation methods and the rational drug during the perioperative period. 
+ Keywords: dry eye disease, cosmetic blepharoplasty, prevention INTRODUCTION 
+ Dry eye disease is a common disease of the ocular surface in clinical ophthalmology, and the incidence is increasing annually. In 2017, the Tear Film & Ocular Surface Society (TFOS) updated the definition of dry eye: dry eye is a multifactorial disease of the ocular surface characterized by a loss of homeostasis of the tear film, and accompanied by ocular symptoms, in which tear film instability and hyperosmolarity, ocular surface inflammation and damage, and neurosensory abnormalities play etiological roles [1] . The most common etiology of dry eye is the decreased production of the lipid layer by meibomian glands, leading to destabilization and evaporation of the tear film [2] . The mechanism underlying the disease is tear hyperosmolarity caused by evaporation, and hyperosmotic tear can damage the ocular surface through two approaches: direct injury and the promotion of inflammation [3] . Therefore, dry eye disease can be divided into two primary categories, aqueous deficient and evaporative for the diagnosis and treatment [1] . Moderate-to-severe dry eye disease will be accompanied by obvious pain, persistent discomfort, and occasional blurred vision, leading to a decline in the quality of life, frequent visits to the doctor, and an increase in the anxiety regarding the illness; these phenomena, severely affect the physical and mental health of the patients [4] – [6] . The TFOS DEWS II Iatrogenic Dry Eye Subcommittee proposed that dry eye disease can be caused by various iatrogenic interventions, including topical or systemic drugs, the use of contact lenses, and ophthalmic surgical and non-surgical procedures. Among them, ophthalmic surgery mainly includes lid surgery, refractive surgery, keratoplasty, cataract surgery and other surgeries [7] . 
+ In recent years, the rapid development of the economy and society has driven several individuals in pursuit of beauty; also, cosmetic blepharoplasty is widely carried out, and postoperative dry eyes are gaining increasing attention [7] – [8] . Previous studies demonstrated that some patients might experience the symptoms of dry eyes after cosmetic blepharoplasty. Further examination revealed ocular surface anomalies, such as corneal punctate epitheliopathy, shortened tear film breakup time (BUT), and increased osmotic pressure of tears [9] – [10] . However, the incidence of postoperative dry eye disease can be reduced if appropriate clinical interventions are given preoperatively, intraoperatively and postoperatively. Therefore, in order to improve the postoperative satisfaction and quality of life and avoid the occurrence or aggravation of dry eye disease, it is necessary to focus on and study the pathophysiology, mechanisms, treatment and prevention of dry eye disease after cosmetic blepharoplasty. INCIDENCE AND CLINICAL MANIFESTATIONS 
+ Cosmetic blepharoplasty is known to cause postoperative dry eye disease or worsen the preoperative dry eye. The incidence of dry eye disease after cosmetic blepharoplasty is about 0-26.5% [10] – [11] . Prischmann et al [11] diagnosed dry eye disease in 26.5% of 892 patients following blepharoplasty in a retrospective study. Among them, simultaneous upper and lower blepharoplasty (31.3%) were more likely to cause dry eye disease, compared to simple upper blepharoplasty (12.9%) and simple lower blepharoplasty (21.4%). A study carried out in 60 patients with preoperative dry eye reported that the condition worsened in 5 (8%) patients while 50 (83%) showed no change [12] . 
+ The clinical manifestations of patients with dry eye disease after cosmetic blepharoplasty are similar to those of patients with general dry eye disease. Typical symptoms include aggravating dryness, burning and a sandy or gritty sensation [11] , [13] . Other symptoms include pain, redness, tearing and photophobia [14] . Presently, the common examination methods include slit-lamp examination, tear meniscus height, BUT, corneal epithelial fluorescein staining and Schirmer's test. The examination findings of the postoperative dry eye disease patients differ dynamically [15] – [16] . Shao et al [16] demonstrated that 1wk after lower blepharoplasty, the Ocular Surface Disease Index (OSDI) score and the tear meniscus height values increased significantly while the Schirmer's test values decreased. In addition, all the indexes returned to baseline by 3mo, and even the indexes of some patients improved as compared to those before surgery. This phenomenon indicates that dry eye disease might occur or aggravate 1wk after cosmetic lower blepharoplasty, and the symptoms resolve within 3mo [16] . Another study showed that 95% of the patients with dry eye disease after cosmetic blepharoplasty recovered fully within 8wk [10] . RISK FACTORS 
+ Dry eye disease is a multifactorial eye disease. Several risk factors account for the dry eye disease after cosmetic blepharoplasty. In the current study, these factors can be divided into sexual, anatomical, environmental, systemic and pharmacological ( Table 1 ) [10] – [11] , [17] . Risk factors for dry eye disease are not absolute contraindications for blepharoplasty, however, once found, the decision to proceed must be made cautiously. 
+ Table 1. Risk factors for dry eye disease following cosmetic blepharoplasty. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Anatomical 
+ Environmental 
+ Systemic 
+ Medications 
+ 
+ 
+ 
+ Negative vector orbit 
+ Reduced humidity 
+ Rheumatoid arthritis 
+ Hormone replacement therapy 
+ 
+ 
+ Negative lateral canthal tilt 
+ Wind 
+ Sjögren's syndrome 
+ Diuretics 
+ 
+ 
+ Scleral show 
+ Allergens 
+ Rosacea 
+ Antihistamines 
+ 
+ 
+ Lid laxity 
+ Air condition 
+ Amyloidosis 
+ Anticholinergics 
+ 
+ 
+ Lagophthalmos 
+ Heating 
+ Hemochromatosis 
+ Antidepressants 
+ 
+ 
+ Previous ophthalmic surgery 
+ Drafts 
+ Stevens-Johnson syndrome 
+ Systemic retinoids 
+ 
+ 
+ 
+ Open in a new tab MECHANISMS 
+ Normal tearing depends on three components: production and release of tears from the lacrimal gland and accessory glands, blinking and distribution of tears, and tear pumping into the lacrimal drainage system [18] . 
+ Cosmetic blepharoplasty leading to dry eye disease might be attributed to the change of close interaction between the eyelids, tear film and ocular surface by surgery, which affects the effective lubrication of the tear film [13] . It can severely affect the position of the eyelid and the force of blink. Moreover, the resection of orbicularis oculi muscle would lead to the formation of scar and the injury to the innervation, which will result in incomplete reflex blink, decreased blink rate and lagophthalmos, thereby reducing the lipid secretion from the meibomian glands [10] , [19] – [20] . These phenomena might account for increased tear evaporation, decreased mechanical tear film distribution and reduced tear drainage with impaired debris removal from the ocular surface. Furthermore, dysfunctional eyelid closure caused by postoperative lagophthalmos, sclera show, ectropion, and dysfunction and/or dehiscence of the lateral canthus [21] – [22] , as well as increased corneal and conjunctival sensitivity induced by surgery [23] will all lead to the decline of the stability of tear film, causing postoperative dry eye disease, especially in poor Bell's phenomenon. Strikingly, elective cosmetic blepharoplasty may change the relative position of the eyelid and cornea, thus mechanically altering the corneoscleral and conjunctival interface to aggravate the dry eye disease [24] . Surgery might also influence the function of meibomian glands and lacrimal glands, resulting in postoperative dry eye disease [23] . PREVENTION MEASURES 
+ The incidence of dry eye disease after cosmetic blepharoplasty is relatively high, which will affect the quality of life and the evaluation of the operation result. Therefore, the prevention measures by the surgeon are mainly carried out from the preoperative, intraoperative and postoperative aspects. 
+ Preoperative Evaluation 
+ Patient history 
+ Patients should be questioned in detail before the surgery in order to understand the presence of dry eye disease or risk factors. A preoperative assessment of exacerbating factors is crucial for predicting the incidence of postoperative dry eye disease. Firstly, ask the patient if he or she had ophthalmic surgery recently, and if so, it is recommended to postpone the surgery for 6-12mo [10] . Clinicians should ask the patient whether he/she has a history of dry eye disease or symptoms. Because dry eye disease is a common but underdiagnosed disease, the clinicians can estimate if the patients have dry eye disease by asking them about the typical symptoms. Also, it is necessary to identify the existent habits that might aggravate the postoperative dry eye disease. Prolonged reading [25] , computer usage, driving, and watching television [13] can reduce the rate of blinking and exacerbate dry eye disease. The history of smoking should also be considered. A study carried out between 51 smokers and 50 healthy non-smokers showed that smoking causes adverse effects on the tear film and had intense correction with tear film instability [26] . In addition, clinicians should take into account the history of the patient to confirm the existence of risk factors of postoperative dry eye disease, such as environmental factors, systemic disease, and medication. What's more, the difficulty in wearing contact lenses cannot be ignored because this might be related to inadequate tear production [13] . Physical examination 
+ Physical examination should be performed before surgery in order to examine whether the patient has anatomical risk factors. The Schirmer's test can also be performed before surgery, however, it is advised to use a topical corneal anesthetic to reduce the secretion of reflex tearing caused by corneal or sclera irritation [13] . 
+ In the case of patients with dry eye previously and with postoperative risk factors of dry eye, clinicians should fully communicate with patients before cosmetic blepharoplasty, and make a cautious decision. Moreover, a preoperative intravenous dose of dexamethasone might limit the inflammatory response [27] . Surgical technique 
+ It is suggested to pay attention to the following points during cosmetic blepharoplasty. 1) Corneal protection is essential during surgery. Trauma and excessive or prolonged exposure can all lead to corneal abrasion or ulceration, which is one of the major causes of postoperative dry eye. Therefore, lubrication or corneal shields should be used during the operation [28] . 
+ 2) A surgeon should evaluate the scope of the operation measure precisely. While performing an upper cosmetic blepharoplasty, it is essential to measure accurately with a caliper and leave 8 to 9 mm in the pretarsal fold and at least 20 mm of upper eyelid skin must be retained when measuring centrally from the lower margin of the brow to the lid margin [8] . Also, postoperative lagophthalmos should not exist in most cases and should be less than 2 mm even in the presence of edema [10] . While performing lower blepharoplasty, skin resection should be conservative, because postoperative healing and scarring may lead to lower lid retraction and ectropion. 
+ 3) The selection of operation methods should be prudent. It was figured that the incidence of dry eye disease following skin-muscle flap blepharoplasty (29.0%) was higher than that of transconjunctival approach (25.6%) and transconjunctival approach with skin pinch (22.9%) [11] . 
+ 4) The orbicularis oculi muscle and innervation should be protected as damage might decrease the blink rate and cause evaporative tear loss. A limitation to this suggestion is in the Asian eyelid: in order to facilitate a natural, flattening contour of the newly formed upper eyelid crease and prevent postoperative lagophthalmos, a maximum of 1-2 mm cuff of orbicularis oculi muscle along the incision could be trimmed [8] . 
+ 5) The inflammation should be controlled by minimizing the trauma. A previous study showed that control of inflammation could lessen the likelihood of chemosis [29] , which is a common and mostly self-healing complication of cosmetic blepharoplasty. After the surgery, fluid would accumulate in the eyelid and subconjunctival space due to the disruption of lymphatics and venous congestion caused by postoperative scar [30] . Chemosis is closely related to dry eye disease, because severe and persistent chemosis may destroy the goblet cells, thereby resulting in unstable tear film that begins the vicious cycle of dry eye [10] . It is well known that a preoperative intravenous dose of dexamethasone limits the inflammatory response [30] . Furthermore, the upper and lower cosmetic blepharoplasty should be carried out separately to reduce the incidence of postoperative dry eye disease and chemosis [11] . 
+ 6) Canthopexy can be performed to correct the lateral canthal depression and prevent ectropion. Transcutaneous lower blepharoplasty with canthal support and orbicularis resuspension provides safe and effective rejuvenation of the lower eyelid [31] . 
+ 7) Care should be taken to protect the lacrimal gland. It is essential to have a thorough understanding of the eyelid anatomy and not mistake a prolapsed lacrimal gland for fat [32] – [33] . Massry [33] found that about 60% of patients undergoing blepharoplasty had some degree of lacrimal gland prolapse, especially in those with multiple previous eyelid surgeries. If the lacrimal gland is prolapsed, it is proposed to resuspend the lacrimal gland to the periosteum along the inner aspect of the superolateral orbital rim [8] . Postoperative Prevention 
+ The purpose of postoperative prevention of dry eye disease is to limit edema, hydration and lubrication, control inflammation and prevent infection [10] , [34] . Postoperative edema can be controlled by elevating the head and applying a cold compress around the orbit [10] . To protect against the inflammatory response and conjunctivitis, topical antibiotic and steroid drops should be applied [7] . The frequency and duration of the use depend on the severity of ocular surface inflammation in patients. A large number of animal studies have proved that the use of steroid can break the vicious cycle of dry eye immune response. Steroids act to stabilize the cell membranes and suppress the inflammatory reaction [35] . And it is suggested to use artificial tears during the day and lubrication at night on their own terms [13] , [36] . 
+ When symptoms last for longer than 2wk after blepharoplasty, it is essential to examine the patients to find out the possible cause and alter the management. 
+ Nonetheless, the presence of chemosis must be concerned. If chemosis is fortunately not present, lubrication and typical corticosteroids should be continued. If symptoms persist for longer than 3mo, tear duct occlusion can be considered to maintain ocular lubrication [23] . Overzealous resection of upper or lower lid skin could also be taken into account if the exposure symptoms do not respond to conservative treatment, necessitating a skin graft [37] . If symptoms continue to persist or worsen, they may be associated with postoperative lid malposition and may require canthopexy/plasty or lower eyelid repositioning including firm canthal tendon anchoring and lateral canthal reconstruction [4] , [7] . Unfortunately, if chemosis persists, this should be addressed aggressively. Persistent chemosis can be treated as well as edema and additional eye patching is needed [38] . It is imperative that eye patching is performed appropriately and the duration depends on the severity of chemosis. The prescription of steroid eye drops, topical phenylephrine, and a tapering dose of systemic corticosteroids should be administered equally [21] , [36] , [38] . Topical cyclosporin A 0.05% two times per day and a temporary suture tarsorrhaphy should be considered when necessary [10] . CONCLUSION 
+ The incidence of dry eye disease after cosmetic blepharoplasty is increasing gradually, and dry eye has a great influence on the quality of life of the patients. Currently, only a few studies have reported the dry eye disease after cosmetic blepharoplasty, and the examination methods are limited to Schirmer's test and BUT. It is suggested to use the recent examination methods, involving lipid layer thickness, to deduce whether the patients have meibomian gland dysfunction, as well as the etiology of postoperative dry eye disease. It is also recommended to evaluate the spontaneous eye blink patterns of patients and estimate their correlations with the postoperative dry eye disease. Thus, it is necessary to focus on how to reduce and prevent the occurrence of postoperative dry eye disease, and provide the basis for the selection of operation methods and the rational drug use during perioperative period. It is beneficial for postoperative patients to protect the ocular surface and reduce the incidence of postoperative dry eye disease, thereby improving the quality of life of the patients. Furthermore, it is essential for the surgeon to recognize and address the risk factors before surgery, perform the operation carefully and conduct health-related education. Acknowledgments 
+ Foundations: Supported by the National Natural Science Foundation of China (No.81770888; No.81800873); Shanghai Science and Technology Development Funds (No.17411963800); Shanghai Municipal Education Commission-Gaofeng Clinical Medicine Grant Support (No.20161421). 
+ Conflicts of Interest: Zhang SY, None; Yan Y, None; Fu Y, None. REFERENCES 
+ 
+ 
+ 1. Craig JP, Nichols KK, Akpek EK, Caffery B, Dua HS, Joo CK, Liu ZG, Nelson JD, Nichols JJ, Tsubota K, Stapleton F. TFOS DEWS II definition and classification report. Ocul Surf. 2017;15(3):276–283. doi: 10.1016/j.jtos.2017.05.008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Georgiev GA, Eftimov P, Yokoi N. Structure-function relationship of tear film lipid layer: a contemporary perspective. Exp Eye Res. 2017;163:17–28. doi: 10.1016/j.exer.2017.03.013. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Stapleton F, Alves M, Bunya VY, Jalbert I, Lekhanont K, Malet F, Na KS, Schaumberg D, Uchino M, Vehof J, Viso E, Vitale S, Jones L. TFOS DEWS II epidemiology report. Ocul Surf. 2017;15(3):334–365. doi: 10.1016/j.jtos.2017.05.003. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Li MY, Gong L, Sun XH, Chapin WJ. Anxiety and depression in patients with dry eye syndrome. Curr Eye Res. 2011;36(1):1–7. doi: 10.3109/02713683.2010.519850. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Asiedu K, Dzasimatu SK, Kyei S. Impact of dry eye on psychosomatic symptoms and quality of life in a healthy youthful clinical sample. Eye Contact Lens. 2018;44(Suppl 2):S404–S409. doi: 10.1097/ICL.0000000000000550. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Na KS, Han K, Park YG, Na C, Joo CK. Depression, stress, quality of life, and dry eye disease in Korean women: a population-based study. Cornea. 2015;34(7):733–738. doi: 10.1097/ICO.0000000000000464. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Gomes JAP, Azar DT, Baudouin C, Efron N, Hirayama M, Horwath-Winter J, Kim T, Mehta JS, Messmer EM, Pepose JS, Sangwan VS, Weiner AL, Wilson SE, Wolffsohn JS. TFOS DEWS II iatrogenic report. Ocul Surf. 2017;15(3):511–538. doi: 10.1016/j.jtos.2017.05.004. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Yang P, Ko A, Kikkawa D, Korn B. Upper eyelid blepharoplasty: evaluation, treatment, and complication minimization. Semin Plast Surg. 2017;31(1):051–057. doi: 10.1055/s-0037-1598628. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Wolffsohn JS, Arita R, Chalmers R, Djalilian A, Dogru M, Dumbleton K, Gupta PK, Karpecki P, Lazreg S, Pult H, Sullivan BD, Tomlinson A, Tong L, Villani E, Yoon KC, Jones L, Craig JP. TFOS DEWS II diagnostic methodology report. Ocul Surf. 2017;15(3):539–574. doi: 10.1016/j.jtos.2017.05.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Hamawy AH, Farkas JP, Fagien S, Rohrich RJ. Preventing and managing dry eyes after periorbital surgery: a retrospective review. Plast Reconstr Surg. 2009;123(1):353–359. doi: 10.1097/PRS.0b013e31819346ea. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Prischmann J, Sufyan A, Ting JY, Ruffin C, Perkins SW. Dry eye symptoms and chemosis following blepharoplasty: a 10-year retrospective review of 892 cases in a single-surgeon series. JAMA Facial Plast Surg. 2013;15(1):39–46. doi: 10.1001/2013.jamafacial.1. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Saadat D, Dresner SC. Safety of blepharoplasty in patients with preoperative dry eyes. Arch Facial Plast Surg. 2004;6(2):101–104. doi: 10.1001/archfaci.6.2.101. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Belmonte C, Nichols JJ, Cox SM, Brock JA, Begley CG, Bereiter DA, Dartt DA, Galor A, Hamrah P, Ivanusic JJ, Jacobs DS, McNamara NA, Rosenblatt MI, Stapleton F, Wolffsohn JS. TFOS DEWS II pain and sensation report. Ocul Surf. 2017;15(3):404–437. doi: 10.1016/j.jtos.2017.05.002. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Pacella SJ, Codner MA. Minor complications after blepharoplasty: dry eyes, chemosis, granulomas, ptosis, and scleral show. Plast Reconstr Surg. 2010;125(2):709–718. doi: 10.1097/PRS.0b013e3181c830c7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Watanabe A, Selva D, Kakizaki H, Oka Y, Yokoi N, Wakimasu K, Kimura N, Kinoshita S. Long-term tear volume changes after blepharoptosis surgery and blepharoplasty. Invest Ophthalmol Vis Sci. 2014;56(1):54–58. doi: 10.1167/iovs.14-15632. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Shao CY, Fu Y, Lu LN, Chen JZ, Shen Q, Zhu HM, Fan XQ. Dynamic changes of tear fluid after cosmetic transcutaneous lower blepharoplasty measured by optical coherence tomography. Am J Ophthalmol. 2014;158(1):55–63.e1. doi: 10.1016/j.ajo.2014.03.016. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Terella A, Wang T, Kim M. Complications in periorbital surgery. Facial Plast Surg. 2013;29(1):064–070. doi: 10.1055/s-0033-1333838. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Mack W. Blepharoplasty complications. Facial Plast Surg. 2012;28(3):273–287. doi: 10.1055/s-0032-1312705. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Su YD, Liang QF, Su GY, Wang NL, Baudouin C, Labbé A. Spontaneous eye blink patterns in dry eye: clinical correlations. Invest Ophthalmol Vis Sci. 2018;59(12):5149–5156. doi: 10.1167/iovs.18-24690. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Kiang L, Deptula P, Mazhar M, Murariu D, Parsa FD. Muscle-sparing blepharoplasty: a prospective left-right comparative study. Arch Plast Surg. 2014;41(5):576–583. doi: 10.5999/aps.2014.41.5.576. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Undavia S, Yoo DB, Nassif PS. Avoiding and managing complications in the periorbital area and midface. Facial Plast Surg Clin North Am. 2015;23(2):257–268. doi: 10.1016/j.fsc.2015.01.011. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. McCord CD, Miotto GC. Dynamic diagnosis of “fishmouthing” syndrome, an overlooked complication of blepharoplasty. Aesthet Surg J. 2013;33(4):497–504. doi: 10.1177/1090820X13479970. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Lelli GJ, Jr, Lisman RD. Blepharoplasty complications. Plast Reconstr Surg. 2010;125(3):1007–1017. doi: 10.1097/PRS.0b013e3181ce17e8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Gonnermann J, Klein JP, Klamann MK, Maier AK, Pleyer U, Joussen AM, Bertelmann E. Dry eye symptoms in patients after eyelid reconstruction with full-thickness eyelid defects: using the Tomey TG-1000 thermographer. Ophthalmic Res. 2012;48(4):192–198. doi: 10.1159/000339598. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Karakus S, Agrawal D, Hindman HB, Henrich C, Ramulu PY, Akpek EK. Effects of prolonged reading on dry eye. Ophthalmology. 2018;125(10):1500–1505. doi: 10.1016/j.ophtha.2018.03.039. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Thomas J, Jacob GP, Abraham L, Noushad B. The effect of smoking on the ocular surface and the precorneal tear film. Australas Med J. 2012;5(4):221–226. doi: 10.4066/AMJ.2012.1035. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Coursey TG, Henriksson JT, Marcano D C, et al. Dexamethasone nanowafer as an effective therapy for dry eye disease. Journal of Controlled Release. 2015;213:168–174. doi: 10.1016/j.jconrel.2015.07.007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Parikh M, Kwon YH. Vision loss after inadvertent corneal perforation during lid anesthesia. Ophthalmic Plast Reconstr Surg. 2011;27(5):e141–e142. doi: 10.1097/IOP.0b013e31822d5d6d. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. McCord CD, Kreymerman P, Nahai F, Walrath JD. Management of postblepharoplasty chemosis. Aesthet Surg J. 2013;33(5):654–661. doi: 10.1177/1090820X13487016. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Thakker MM, Tarbet KJ, Sires BS. Postoperative chemosis after cosmetic eyelid surgery: surgical management with conjunctivoplasty. Arch Facial Plast Surg. 2005;7(3):185–188. doi: 10.1001/archfaci.7.3.185. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Codner MA, Wolfli JN, Anzarut A. Primary transcutaneous lower blepharoplasty with routine lateral canthal support: a comprehensive 10-year review. Plast Reconstr Surg. 2008;121(1):241–250. doi: 10.1097/01.prs.0000295377.03279.8d. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Whipple KM, Korn BS, Kikkawa DO. Recognizing and managing complications in blepharoplasty. Facial Plast Surg Clin North Am. 2013;21(4):625–637. doi: 10.1016/j.fsc.2013.08.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Massry GG. Prevalence of lacrimal gland prolapse in the functional blepharoplasty population. Ophthalmic Plast Reconstr Surg. 2011;27(6):410–413. doi: 10.1097/IOP.0b013e31821d852e. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Tseng SC. A practical treatment algorithm for managing ocular surface and tear disorders. Cornea. 2011;30(Suppl 1):S8–S14. doi: 10.1097/ICO.0b013e318228218c. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Flood TR, McManners J, el-Attar A, Moos KF. Randomized prospective study of the influence of steroids on postoperative eye-opening after exploration of the orbital floor. Br J Oral Maxillofac Surg. 1999;37(4):312–315. doi: 10.1054/bjom.1999.0024. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Perkins S, Prischmann J. The art of blepharoplasty. Facial Plast Surg. 2011;27(1):058–066. doi: 10.1055/s-0030-1270425. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Leatherbarrow B, Saha K. Complications of blepharoplasty. Facial Plast Surg. 2013;29(4):281–288. doi: 10.1055/s-0033-1349362. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Weinfeld AB, Burke R, Codner MA. The comprehensive management of chemosis following cosmetic lower blepharoplasty. Plast Reconstr Surg. 2008;122(2):579–586. doi: 10.1097/PRS.0b013e31818001d0. [ DOI ] [ PubMed ] [ Google Scholar ]

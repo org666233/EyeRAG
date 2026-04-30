@@ -1,0 +1,411 @@
+Source: PubMed Central (PMC)
+PMCID: PMC4793137
+Title: The Lacrimal Gland and Its Role in Dry Eye
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4793137/
+Year: 2016
+Disease: lacrimal_disease
+Priority: 2
+============================================================
+
+J Ophthalmol . 2016 Mar 2;2016:7542929. doi: 10.1155/2016/7542929 
+ 
+ 
+ Review: The Lacrimal Gland and Its Role in Dry Eye 
+ Christopher D Conrady 
+ Christopher D Conrady 
+ 
+ 1 Department of Ophthalmology, Division of Ophthalmic Plastic and Reconstructive Surgery, John A. Moran Eye Center, University of Utah, Salt Lake City, UT, USA 
+ Find articles by Christopher D Conrady 
+ 
+ 
+ 1 , Zachary P Joos 
+ Zachary P Joos 
+ 
+ 1 Department of Ophthalmology, Division of Ophthalmic Plastic and Reconstructive Surgery, John A. Moran Eye Center, University of Utah, Salt Lake City, UT, USA 
+ Find articles by Zachary P Joos 
+ 
+ 
+ 1 , Bhupendra C K Patel 
+ Bhupendra C K Patel 
+ 
+ 1 Department of Ophthalmology, Division of Ophthalmic Plastic and Reconstructive Surgery, John A. Moran Eye Center, University of Utah, Salt Lake City, UT, USA 
+ Find articles by Bhupendra C K Patel 
+ 
+ 
+ 1, * 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, Division of Ophthalmic Plastic and Reconstructive Surgery, John A. Moran Eye Center, University of Utah, Salt Lake City, UT, USA 
+ 
+ 
+ ✉ *Bhupendra C. K. Patel: bhupendra.patel@hsc.utah.edu 
+ 
+ Academic Editor: Edit Tóth-Molnár 
+ 
+ 
+ Received 2015 Dec 24; Accepted 2016 Feb 4; Issue date 2016. 
+ 
+ Copyright © 2016 Christopher D. Conrady et al. 
+ This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC4793137  PMID: 27042343 
+ 
+ Abstract 
+ The human tear film is a 3-layered coating of the surface of the eye and a loss, or reduction, in any layer of this film may result in a syndrome of blurry vision and burning pain of the eyes known as dry eye. The lacrimal gland and accessory glands provide multiple components to the tear film, most notably the aqueous. Dysfunction of these glands results in the loss of aqueous and other products required in ocular surface maintenance and health resulting in dry eye and the potential for significant surface pathology. In this paper, we have reviewed products of the lacrimal gland, diseases known to affect the gland, and historical and emerging dry eye therapies targeting lacrimal gland dysfunction. 1. Introduction 
+ The human tear film coats the anterior surface of the eye and is composed of three distinct layers: an inner mucin coating, a middle aqueous component, and a lipid overlay. Traditionally, the mucin layer was felt to be derived from goblet cells of the conjunctiva, the aqueous component from the lacrimal gland, and the lipid layer from the meibomian glands [ 1 – 3 ]. Recent advancements in proteomics have slightly altered this view of the tear film by identifying mucin as a product of the goblet cells but the lacrimal gland as well [ 4 ]. The 3-layered tear film inhibits ocular surface invasion by pathogens, provides an air-tissue interface for gas exchange, and supplies essential nutrients and metabolites to maintain a transparent and avascular cornea. The lacrimal gland contributes multiple components to the tear film and has been the center of much research including multiple products now under clinical trials. In the this paper we review the anatomy, physiology, and normal products of the lacrimal gland in regard to their role in dry eye diseases. We have also reviewed specific causes of lacrimal gland pathology such as aging, smoking, autoimmune diseases, and infections. Finally, the historical and emerging treatments for dry eye related to lacrimal gland dysfunction with an emphasis on surgical approaches are detailed within. 2. Anatomy, Physiology, Innervation, and Histology 
+ A proper review of the anatomy of the lacrimal gland and accessory lacrimal tissues is important for understanding the pathophysiology of dry eye syndrome and secondary causes of dry eye. 
+ 2.1. Anatomy, Blood Supply, Innervation 
+ Embryologically, the main lacrimal gland develops from an outpouching of the conjunctiva. The accessory lacrimal glands develop slightly later than the main lacrimal gland [ 5 ]. The main lacrimal gland is situated superotemporally in the orbit within the lacrimal fossa of the frontal bone. Grossly, the gland is a pinkish-gray structure composed of small lobules intermixed with connective tissue septations and lacks a true capsule ( Figure 1 ). Its appearance may be mistaken for preaponeurotic fat. The gland is divided into two lobes, the orbital and palpebral lobes, by the lateral horn of the levator aponeurosis. Although divided, the division is incomplete due to a posterior wall of parenchyma between the lobes [ 5 ]. The gland is bound anteriorly by the orbital septum and the preaponeurotic fat pad, posteriorly by orbital fat, medially by the intermuscular membrane between the superior and lateral recti, and laterally by bone ( Figure 2 ). The size of the main lacrimal gland is somewhat variable with the orbital lobe being the larger of the two. The gland averages approximately 20 mm long and 12 mm wide with the orbital and palpebral lobes having a thickness of 5 mm and 3 mm, respectively [ 6 , 7 ]. The palpebral lobe lies beneath the levator aponeurosis in the subaponeurotic Jones' space [ 5 ]. The gland is supported by conjunctiva, intermuscular membranes, its facial attachments to Whitnall's ligament, and the levator horn (Figures 2 and 3 ). 
+ Figure 1. 
+ 
+ Open in a new tab 
+ Lacrimal gland histopathology. H&E staining of a normal lacrimal gland. The gland is composed of lobules separated by loose connective tissue. The lobules are composed of multiple acini lined by columnar secretory cells. Figure 2. 
+ 
+ Open in a new tab 
+ Oblique view of the right orbit. Oblique view of the right orbit showing the main lacrimal gland divided into the orbital lobe (OL) and palpebral lobe by the lateral horn of the levator aponeurosis (LA). Note the excretory ducts coursing through the palpebral lobe and draining into the superior conjunctival fornix (arrow). Figure 3. 
+ 
+ Open in a new tab 
+ Sagittal view of the upper and lower eyelids. The glands of Krause (arrow) are located in the superior conjunctival fornix. The glands of Wolfring (arrowhead) are found at the nonmarginal border of the tarsal plate. The lacrimal gland is an exocrine gland similar to the mammary gland and salivary gland [ 7 ]. The gland is composed of lobules separated by loose connective tissue ( Figure 1 ). Acini are lined with columnar secretory cells, which have been shown to secrete mucopolysaccharides, implying that the gland is a modified mucus gland [ 5 ]. Each lacrimal gland lobule consists of many acini and intralobular ducts that drain into approximately 8–12 excretory ducts or tubules. The ducts of both the orbital and palpebral lobes drain into the superotemporal conjunctival fornix, approximately 5 mm superior the lateral tarsal border [ 8 ]. The ducts of the orbital lobe pass through the parenchyma of the palpebral lobe making the proximal secretory ducts susceptible to damage distally [ 5 , 7 , 8 ]. 
+ The arterial blood supply to the lacrimal gland comes from the lacrimal branch of the ophthalmic artery, a branch of the infraorbital artery, and occasionally from a branch of the recurrent meningeal artery. The lacrimal artery passes through the gland to feed the upper and lower eyelids. The lacrimal vein follows the course of the artery and drains into the superior ophthalmic vein. 
+ The gland is innervated by both myelinated and unmyelinated fibers arising from the trigeminal nerve, the facial nerve, and sympathetic innervation from the superior cervical ganglion [ 5 ]. Stimulation of the ocular surface activates tear production from the main lacrimal gland (reflex tearing). The lacrimal nerve is a sensory branch of the ophthalmic trigeminal nerve (V 1 ), which provides the sensory (afferent) pathway. This lacrimal nerve travels in the superotemporal orbit and enters the gland with the major vessels. This nerve courses through the gland to innervate superficial eyelid structures. Sympathetic nerves travel with the lacrimal artery along with parasympathetics in the zygomatic nerve [ 5 ]. 
+ The efferent pathway originates with parasympathetic fibers from the superior salivary nucleus of the pons, which exit the brain stem with the facial nerve. Lacrimal fibers depart from the facial nerve as the greater superficial petrosal nerve and travel to the sphenopalatine ganglion to join the zygomatic nerve. The zygomatic nerve enters the orbit 5 mm posterior to the anterior limit of the inferior orbital fissure. Prior to dividing into the zygomaticotemporal and zygomaticofacial branches, the zygomatic nerve may give off a lacrimal branch, which may anastomose with a branch of the lacrimal nerve or travel independently along the periorbita [ 5 ]. It is unclear if the anastomosis between the zygomaticotemporal and lacrimal nerves is uniformly present [ 8 ]. The role of the sympathetic nervous system is thought to stimulate basal tear secretion, but its role in lacrimation is not well understood. Lacrimal gland hyposecretion is seen in syndromes of central autonomic dysfunction, such as Riley-Day syndrome [ 9 ]. 
+ There are approximately 20 glands of Krause located in the superior conjunctival fornix and approximately half as many in the inferior fornix. The glands of Wolfring are found along the nonmarginal border of the both tarsal plates (Figures 2 and 3 ) [ 5 ]. Accessory lacrimal glands may also be found in the caruncle and in the plica semilunaris. The accessory glands account for approximately 10% of the total lacrimal secretory mass [ 8 ]. Although the accessory lacrimal glands of Krause and Wolfring are structurally and histologically similar to the main lacrimal gland and may develop identical types of metaplasia, they differ in their innervation [ 7 ]. Although heavily innervated, the accessory lacrimal glands lack parasympathetic innervation [ 5 ], and most of the innervation is unidentified [ 8 ]. Jones states that the main lacrimal gland is responsible only for reflex tearing and the accessory glands of Kraus and Wolfring, providing basal tear secretion [ 10 ]. This distinction has been debated. The volume of tears secreted from these glands is unclear. Studies show mixed results whether or not the accessory glands are able to provide adequate tear volume to prevent keratoconjunctivitis sicca [ 7 ]. 2.2. Pathology 
+ Noted age-related changes of the lacrimal gland include atrophy of the glandular parenchyma, increased interstitial connective tissue, increased fat content within glandular tissue and epithelial secretory cells, and increased lymphocyte content within the gland including plasma cells [ 11 – 13 ]. The incidence and uniformity of these changes have not been agreed upon, as many reports note conflicting data. 
+ Obata et al. found that lobular fibrosis, lobular atrophy, diffuse fibrosis, diffuse atrophy, periductal fibrosis, lymphocytic foci, and fatty infiltration were found significantly more often in orbital lobes, whereas interlobular ductal dilatation was observed more frequently in palpebral lobes [ 11 ]. It is unknown if structural and functional differences exist between the orbital and palpebral lobes or if these differences represent continuum of changes versus distinct pathophysiologic changes. 
+ An autopsy study of lacrimal glands by Roen and colleagues found that 75% of glands studied showed microscopic abnormalities [ 12 ]. The most common abnormal findings included chronic inflammation and periductular fibrosis. Approximately 52% and 74% of patients over the age of 50 showed signs of periductular fibrosis and ductal abnormalities, respectively [ 12 ]. The authors also observed massive ductular ectasia extending into lobules. The combination of periductular fibrosis, inflammation, and dilated, inspissated ducts may lead to retention of tears within the lacrimal gland and contribute to age-related dry eye [ 12 ]. Another study by Obata et al. found a statistically significant difference in incidence of diffuse fibrosis, atrophy, and periductal fibrosis of the lacrimal gland in postmenopausal women compared to men [ 11 ]. Glands in which acinar atrophy is apparent show a lack of lysozyme immunoreactivity and are probably related to a decrease of tear proteins as a consequence of aging [ 7 ]. Atrophy of acinar elements may result in fibrosis, but in certain conditions, such as chronic graft-versus-host disease, stromal fibroblasts are actively involved in the pathogenic process of periacinar fibrosis [ 14 ]. The health of the conjunctival epithelium is essential for normal lacrimal gland function. Stenosis or obstruction of flow of the excretory ducts in the superior conjunctival fornix may cause cystic dilatation of the interlobular ducts in the palpebral lobe. Damage to the excretory ducts in the superior conjunctiva may occur with severe ocular surface diseases with keratinization such as Stevens-Johnson syndrome and ocular cicatricial pemphigoid, or iatrogenically after surgery, which may damage the orifices of the excretory ducts thereby reducing the volume of aqueous bathing the ocular surface [ 7 , 15 ]. 2.3. Contributions of the Lacrimal Gland to Ocular Surface Health 
+ As previously suggested, the components of the tear film produced by the lacrimal gland are critical in several processes related to ocular surface health. The first is in protection of the ocular surface from invading pathogens with a local population of IgA-secreting plasma cells that reside within the lacrimal gland itself. While tear firm contains other immunoglobulins, secretory IgA is the predominant antibody and is the only immunoglobulin whose concentration significantly increases during infection, suggesting its critical role in host defense of the ocular surface [ 16 ]. The ability of the lacrimal gland to specifically select for IgA secreting plasma cells is not well understood but likely resides in the recruitment and proliferation of a specific subset of helper T cells. These T cells are recruited by an IL-2-like peptide known as lacrimal gland-derived lymphocyte proliferation potentiating factor [ 17 , 18 ]. These T cells then recruit and promote B cell differentiation into IgA-secreting plasma cells. Once produced by plasma cells, dimeric IgA is translocated into the tear film by a cell surface antibody receptor to inhibit pathogen adherence to the host surface as seen at other mucosal sites [ 19 ]. The production of this translocation receptor is exquisitely sensitive to endocrine and nervous and immune system regulation [ 20 , 21 ]. Consequently, the host invests significant energy into the production and secretion of IgA into the tear film to reduce ocular surface susceptibility. 
+ The lacrimal gland also secretes several bacteria (i.e., secretory phospholipase A2, an effective antistaphylococcal enzyme among others [ 22 ]) and fungicidal agents such as lysozyme, peroxidase, tear-specific pre-albumin, psoriasin, and lactoferrin into the tear film [ 2 , 23 ]. These substances greatly reduce susceptibility of the ocular surface due to cytotoxicity to invading pathogens. While it is still controversial, the lacrimal gland may also be an additional source of soluble mucin production, which acts to clear debris and hold fluid on the surface of the eye [ 24 – 26 ]. This glycoprotein also serves as an infectious deterrent by acting as a decoy receptor for invading pathogens [ 27 ]. As such, these cytotoxic agents, mucin, and IgA transform a susceptible, warm, moist, nutrient rich epithelial surface into an inhospitable environment unlike other colonized mucosal surfaces. 
+ The second major contribution of the lacrimal gland is in the aqueous produced by acinar cells that add significant volume to the tear film. The fluid is transported from the interstitial space into the lumen of the gland by way of osmosis and released onto the ocular surface [ 2 ]. The addition of high volumes of water from the gland helps to keep the ocular surface moist, maintain an important component of light refraction in the air-water-corneal interfaces, and dilute proteins within the tears to keep them solubilized. Water is also transported in conjunction with other important electrolytes required in cellular processes and has been extensively reviewed elsewhere [ 2 ]. With the addition of lipocalin and lipids from the meibomian gland, tears become a highly viscous, low surface tension solution critical in tear film stability and health of the ocular surface [ 28 ]. As such, water serves to dilute substances in the tear film and maintain an interface critical for normal visual acuity. 
+ The lacrimal gland is also responsible for producing several other proteins and products necessary in growth and maintenance of host tissue found in the tear film. Several of these proteins are growth factors. They include epidermal, fibroblast, hepatocyte, keratinocyte, and transforming growth factor- β . While the defined role of each in corneal regeneration is unclear, these factors promote proliferation and migration of epithelial cells following disruption of the corneal surface and maintain an avascular cornea necessary for transparency of the tissue [ 29 – 34 ]. If these factors decline or are replaced for others, neovascularization of the cornea ensues [ 35 , 36 ]. 
+ Retinol, a vitamin A derivative, is also secreted by the lacrimal gland. Retinol is required in maintenance of goblet cells within the conjunctiva and controls corneal epithelial desquamation, keratinization, and metaplasia [ 37 – 39 ]. Vitamin A is also a positive feedback molecule as its deficiency results in a decrease in flow rate of lacrimal gland fluid in rabbits [ 40 ]. In humans, vitamin A deficiency can result in corneal ulcers, melt, and even perforation [ 41 ]. This loss of corneal integrity is felt to be the result of an increased risk of infection, decreased tear film, alterations in corneal wound healing, and changes in leukocyte function [ 42 ]. Consequently, the ocular surface role of secreted vitamin A from the lacrimal gland is multifactorial. The previously mentioned products of the lacrimal gland are only a select few of the known proteins in the tear film and there are likely several unidentified proteins at this point in time. 
+ In summary, the lacrimal gland secretes a complex aqueous milieu rich in antibodies, cytotoxic agents, and growth factors onto the ocular surface to protect the cornea from desiccation, infection, and vascularization while promoting wound healing and transparency. 2.4. Disease of the Lacrimal Gland 
+ Dysfunction of the lacrimal gland may result from inflammation, aging, radiation, or infection. The end result of many of these pathologies rests in insufficient tear production and changes in osmolality and increased osmotic stress of the ocular surface [ 43 ]. This results in increased susceptibility of the ocular surface that we hypothesize is due to the loss of the previously mentioned antimicrobial tear film products [ 44 ]. Unfortunately, in inflammatory dry eye, this is further exacerbated by relatively high concentrations of proteins within the tears that induce apoptosis of surface epithelium and a vicious, self-perpetuated cycle of increased expression of proinflammatory cytokines from the ocular surface [ 45 , 46 ]. The proinflammatory state further worsens dry eye by leading to apoptosis and decreased mucin production from conjunctival goblet cells [ 47 , 48 ]. Matrix metalloproteinases (MMPs), a family of proteins required in wound healing and degradation of extracellular matrix, are one such proinflammatory product highly expressed in dry eye conditions and known to cause epithelial barrier dysfunction [ 45 , 49 ]. As such, tests such as InflammaDry by Rapid Pathogen Screening have been developed to evaluate tear concentrations of MMPs as surrogates for inflammation in the clinical realm [ 50 ]. 
+ In the following section, we have focused on specific diseases to highlight the major causes of lacrimal dysfunction, that is, Sjogren's syndrome (SS) as a representative for inflammation ( Table 1 ). Several diseases cause multiple types of pathology making gross categorization difficult. 
+ Table 1. 
+ Causes of lacrimal gland dysfunction and their proposed pathological mechanism. Grosscategorization of the most common causes of lacrimal gland dysfunction based on underlying pathology most typical of the disease. HIV, human immunodeficiency virus; CMV, cytomegalovirus. 
+ 
+ 
+ Pathological changes 
+ Disease 
+ 
+ 
+ 
+ Inflammatory/Oxidative Stress 
+ Sjogren's syndrome 
+ 
+ IgG4-related disease 
+ Autoimmune Dacryadenitis 
+ Sarcoidosis 
+ Chronic graft-versus host 
+ Thyroid disease 
+ Orbital inflammatory pseudotumor 
+ Amyotrophic Lateral Sclerosis 
+ Diabetes 
+ Aging 
+ 
+ 
+ 
+ 
+ Infectious 
+ HIV 
+ 
+ CMV 
+ Hepatitis C 
+ 
+ 
+ 
+ 
+ Atrophy 
+ Aging 
+ 
+ Radiation 
+ 
+ 
+ 
+ 
+ Toxicity 
+ Radiation 
+ 
+ 
+ 
+ 
+ 
+ Environmental 
+ Smoking 
+ 
+ Video displays 
+ 
+ 
+ 
+ 
+ Autonomic Dysfunction 
+ Riley-Day syndrome 
+ 
+ 
+ 
+ 
+ 
+ Idiopathic 
+   
+ 
+ 
+ 
+ Open in a new tab 2.5. Aging 
+ Aging takes a toll on the entire body and the lacrimal gland is no different resulting in decreased tear production with increasing age [ 51 ]. Progressive acinar atrophy and fibrosis and lymphocytic infiltrates are more common within the lacrimal glands of the elderly [ 52 ]. While the exact pathophysiological changes are not well understood, mice lacking a major antioxidant pathway have been shown to have more extensive acinar atrophy and a larger leukocyte infiltrate within the lacrimal gland compared to controls [ 53 ]. Furthermore, there is likely some component of autoimmune-driven destruction of the gland with aging as CD4 + T cell adoptive transfers from elderly mice into naïve, immunodeficient recipients that results in a reduction of goblet cells and T cell infiltrate into the lacrimal gland. Unfortunately, this study did not correlate pathology of the gland with this immune infiltrate [ 54 ]. As such, the exact role of this T cell infiltrate into the lacrimal gland of the elderly is undefined; however, speculation would surmise that this may result in an inflammatory dry eye disease process with lacrimal gland destruction similar to SS. This is supported in part in that the tear film of older mice contains higher concentrations of pro-inflammatory cytokines than younger mice [ 55 ]. In humans this is further supported by the upregulation of inflammatory markers with decreased aqueous production in the elderly [ 56 ]. In total, lacrimal gland hypofunction in the elderly is likely the result of oxidative damage and an ongoing autoimmune, inflammatory event. 2.6. Inflammatory Diseases of the Lacrimal Gland 
+ SS is a systemic, chronic inflammatory state of the exocrine glands predominately seen in women that results in dry eyes and mouth. The initiating environmental factor or pathogen trigger for glandular inflammation defining the disease is unknown. A lymphocytic infiltrate, predominately activated CD4 + T cells, is responsible for the enlargement and permanent damage of the exocrine glands resulting in reduced secretions and breakdown of mucosal surfaces [ 57 – 59 ]. In regard to the lacrimal gland itself, imaging studies have shown an accelerated fat deposition within the gland during SS and histopathologic changes such as intralobular fibrosis and a disorganized arrangement of the ducts occurs in even mild cases [ 60 , 61 ]. Furthermore, inflammation involving the lacrimal ducts likely complicates aqueous outflow but little is known on the subject. The role of each of these changes in the overall reduction in tear production is still debatable as the degree of tissue destruction and lymphocytic infiltrate does not correlate with the level of gland dysfunction [ 62 – 64 ]. 
+ Despite extensive research, the exact pathophysiology of the disease remains unclear. What is clear, however, is that the tear film of patients with SS contains an inflammatory proteomic profile compared to normal controls [ 65 ]. This presumably results in epithelial decompensation and loss of goblet cells as previously described resulting in severe dry eye. In mouse models, the lacrimal and submandibular glands are the first affected in the disease process, and MMPs and other proinflammatory cytokines are upregulated in tear film [ 66 – 68 ]. To make matters worse, dry conditions trigger significant production of proinflammatory mediators in SS patient's within hours of introduction into the environment suggesting a frailty of the tissue [ 46 ]. As the disease progresses, lacrimal gland production wanes necessitating increased ocular lubrication and the addition of topical anti-inflammatories such as cyclosporine [ 69 ]. 
+ While the mechanism is likely similar to SS with an abnormal immune response, it is worth at least mentioning a fairly new entity, IgG4-related disease, that can cause lacrimal gland dysfunction and is a current, popular topic in the clinical and scientific realm [ 70 , 71 ]. The disease is characterized by an infiltration of IgG4-producing plasma cells, elevated serum IgG4, and fibrosis and enlargement of multiple organs and was previously known under the eponym Milkulicz's disease [ 70 , 72 ]. These changes within the lacrimal gland can induce dry eye. Consequently, IgG4-related disease is a known inflammatory disorder of the lacrimal gland but not as well understood as that of SS. 2.7. Environmental: Smoking and Video Displays 
+ Smoking and video displays have been implicated in lacrimal gland dysfunction [ 73 , 74 ]. While the mechanism of gland dysfunction is unclear in both, cytochrome P450s and signals of oxidative damage are upregulated in the lacrimal glands of rats exposed to cigarette smoke [ 73 ]. We hypothesize that this likely results in destruction of the gland as seen with an aging lacrimal gland; however, no study has specifically evaluated the underlying pathophysiology. In regard to video displays, lacrimal gland hypofunction and decreased tear production are dependent on the amount of time the monitor is used at work. Unfortunately untested, the authors speculate that proper lacrimal gland function is dependent on number of eyelid blinks [ 74 ]. To partially support this, patients with Parkinson's disease have poor blink rates, tear meniscus heights, and dry eye [ 75 ]. Whether blink rate and subsequent lacrimal gland hypofunction is a contributor of dry eye in Parkinson's disease is unknown, however. Regrettably, environmental causes of lacrimal gland dysfunction are poorly understood and there are likely many other factors responsible for decreased tear production that have not been identified. 2.8. Infectious: HIV 
+ Dry eye is more prevalent in HIV patients than in the general public with a study reporting more than 85% of these patients to have findings consistent with dry eye [ 76 , 77 ]. A portion of patients clearly show a reduction in tear production [ 78 ] and this is hypothesized to be due to a lymphocytic infiltrate similar to SS [ 79 ]. This is most evident in those HIV-infected patients who develop diffuse infiltrative lymphocytosis syndrome, a rare entity since the introduction of HAART. In these patients, the salivary and lacrimal glands enlarge with CD8 + lymphocytes [ 79 ]. As such, lacrimal gland dysfunction during infectious diseases is likely a similar pathophysiological event as that found in SS. Therapeutic options are few as topical cyclosporine suppresses local immunity and is likely a poor choice for this case of inflammatory dry eye. 2.9. Radiation 
+ Many head and neck cancers are treated with surgical and/or radiation therapy. While radiation is an effective treatment of rapidly dividing cancerous cells, this therapy has well known toxic effects on local and regional tissues resulting in side effects reviewed extensively elsewhere [ 80 ]. Despite the glands of the head being highly differentiated and slowly dividing tissues, they are exquisitely sensitive to radiation that can cause transient and/or permanent dysfunction of the gland [ 81 , 82 ]. Xerostomia is the most common presentation of glandular dysfunction of the head and neck; however, the lacrimal gland is also affected by radiation [ 83 ]. In rabbits, loss of smooth muscle and decreased aqueous secretion occur within 3 days of irradiation of the lacrimal gland and persist beyond thirty days [ 84 ]. Unfortunately, the long-term histopathological effects of radiation on the lacrimal gland have been poorly studied in animals and humans. In patients receiving local radiation, lacrimal gland dysfunction results in a dose-dependent increase in severity of dry eye following radiation treatment [ 85 ]. Consequently, pathological changes occur within days of radiation therapy inducing both temporary and permanent lacrimal gland dysfunction and resultant dry eye. While dry eyes are an unfortunate side effect, radiation therapy of head, neck, and orbit remains a commonly used treatment modality due to its success in treating such tumors making radiation-induced dry eye an issue for the foreseeable future [ 80 ]. 2.10. Idiopathic 
+ Lastly, there are idiopathic causes of lacrimal gland dysfunction that cannot be linked to any specific cause that may represent subclinical presentations of those previously mentioned above or an altogether undefined entity. 3. Historical Treatment of Dry Eye Related to Lacrimal Gland Dysfunction 
+ Regrettably, the treatment of dry eye related to tear film insufficiency has made little progress in recent years. Most current therapies aim to reduce drainage of tears from the eye, that is, punctual occlusion with cautery or plugs, or to replace insufficient aqueous production from the lacrimal gland with artificial tears. Each of these therapies reduces dry eye symptoms but each has significant drawbacks. For example, punctal plugs have poor retention rates; can migrate into the lacrimal system; predispose the eye to infection; and cause epiphora [ 86 ]. Punctal cautery can cause similar issues but is much more difficult to reverse with patient intolerance. Artificial tears are a more benign therapeutic option but the preservatives within them can be toxic to the cornea with frequent dosing [ 87 ]. This issue has been circumvented by the production of preservative-free preparations. While the ingredients have significantly changed, artificial tears were first described nearly 3,500 years ago and are unfortunately rapidly removed from the ocular surface [ 88 ]. It was not until the 1980s that natural or synthetic polymers were added to preparations increasing viscosity and retention time. Such compounds as 1% glycerin have shown prolonged benefit compared to propylene and polyethylene glycol are one such example [ 89 ]. Even with these advancements, artificial tears are only a temporary measure and do not provide important proteins produced by the lacrimal gland for ocular health as previously discussed and are short-lived. As such, artificial tears and punctal occlusion remain viable options for dry eye treatment but do not address the underlying lacrimal gland dysfunction. 
+ Further advancements have been made with the introduction of cyclosporine. The compound was initially isolated from the fungus Tolypocladium inflatum , a potent inhibitor of T cell activity [ 90 , 91 ]. Therapy with this medication has shown great effect by increasing goblet cell density and TGF- β . It has also been shown in mice to better reduce epithelial staining compared to prednisone in an inflammatory dry eye model [ 92 ]. However, this therapy is presumably most effective in an inflammatory dry eye minimizing its therapeutic use to these specific conditions. Additionally, poor patient compliance further reduces its widespread application due to ocular irritation and prolonged use necessary to see any appreciable benefit frustrating even the most compliant patients. 
+ Multiple surgical attempts have been made to bypass the lacrimal gland altogether by transposing the parotid gland duct onto the lower conjunctiva, a technique developed in the 1950s [ 93 ]. This has shown great promise in dogs with keratoconjunctivitis sicca with a success rate as high as 92% [ 94 ], but the results are difficult to interpret in animals unable to voice complaints of dry eye or excessive tearing. We, as well as others, have all but abandoned the technique due to lack of any appreciable benefit, excessive tear secretion, and high rates atrophy of the gland following surgery [ 95 ]. Consequently, this technique is rarely used today except in animals due to inconsistent results and significant side effects. 4. Emerging Therapies for Dry Eye 
+ There are several emerging modalities that have shown at least some promise in the basic science realm. These emerging therapies can be divided into two categories: exogenous compounds and gland regeneration/bypass. Unfortunately, many of these treatments are still in their infancy and have not made significant progress beyond the basic science realm. 
+ Exogenous compounds are delivered to host tissue through either topical or oral routes. Many of these new agents directly inhibit proinflammatory cascades. The list of targets includes vascular cell adhesion inhibitors, immune modulators, and immune suppressants [ 96 – 98 ]. These inhibitors have shown efficacy in mouse models of inflammatory dry eye but have not been used in humans. One of these agents is delivered in an adenoviral vector, which would theoretically reduce the need for reapplication but raises concerns for inducing an innate immune response that could worsen inflammation [ 35 , 98 ]. Moreover, immune suppression of the ocular surface could result in frequent infectious complications. The recently described nonimmune compound, pituitary adenylate cyclase-activating polypeptide-derived peptide, has been shown to promote corneal wound healing and lacrimal gland secretion in mice [ 99 ]. With the adenoviral vector as the exception, these compounds would likely be an improvement from artificial tears but would reduce ocular immunity. Patient compliance as seen with other topical eye medications would also be an issue. Consequently, the untested role of these topical therapies may be of some benefit in few select populations. 
+ With increasing success in stem cell-based tissue regeneration, tissues and organs such as functioning photoreceptors and the liver can now be grown in vitro [ 100 , 101 ]. Attempts of a bioengineered lacrimal gland have seen recent success in mouse models as well [ 102 ]. Stem cells are isolated using specific lacrimal cell markers, tissue grown ex vivo , and transplanted into the host resulting in increased tear production [ 102 – 104 ]. While promising, it remains to be seen whether these results can be reproduced in humans and provide a feasible, long lasting therapeutic option. There has also been some suggestion of using lacrimal gland xenografts as healthy tissue, but this theoretical idea remains untested [ 105 ]. Furthermore, these transplant models have not evaluated the effect of transplantation with ongoing diseases such as SS that may reduce graft transplantation rates and efficacy such as seen with a significantly higher rejection rate of herpes-infected corneas compared to noninflammatory corneal transplants [ 106 ]. While clinical promising and would address gland dysfunction and restore normal tear production, lacrimal gland regeneration or xenograph transplantation remains to be years from clinical use. 
+ More recently, sublingual, labial, and submandibular glands have been transplanted into the subconjunctival space as an additional means to treat severe dry eyes due to underlying basal secretion of these glands that does not require innervation [ 107 , 108 ]. The transplanted glands have shown a reduction in dry eye symptoms for at least five years and reduce the need for tear supplementation [ 109 ]. In addition, saliva contains many of the same contents as the lacrimal gland including secretory IgA but the two have not been specifically compared [ 110 ]. Unfortunately, the long-term efficacy beyond 5 years is currently unknown. Furthermore, the transplantation rate is at best 72% and requires a difficult microsurgery including vascular anastomosis of the gland to the temporal artery and vein [ 111 ]. As such, the surgery has not gained widespread use at this point in time. The transplants can also cause chronic inflammation exacerbating dry eye symptoms, microcystic epithelial edema, and epiphora in approximately 40% of patients within 3–6 months of surgery [ 112 , 113 ]. While transplantation of these glands has shown great effect on dry eye and produce more natural tears than artificial instilled ones, the complicated surgery and risk of graft failure are staggering complications to overcome making them less than ideal. 
+ Lastly, there is ongoing work on an implantable device to that stimulates the lacrimal nerve to increase tear production within the lacrimal gland and this small animal study has shown promising results [ 114 ]. However, it remains to be seen whether this method of hyperstimulating the lacrimal gland can and/or will overcome gland dysfunction and whether it becomes a feasible clinical treatment option. Furthermore, will this device be able to stimulate a diseased gland enough such as in SS to overcome the symptoms of dry eye? 
+ In summary, there are several new modalities emerging for severe dry eye; however, many of these options remain unproven or require extensive, technically difficult microsurgery. 5. Conclusion 
+ There are multiple disease entities that can affect the lacrimal gland and cause its dysfunction. Untreated pathologies and downstream effects of reduced production from the lacrimal gland can result in decompensation of the ocular surface and gross deterioration of visual acuity. The role of this gland cannot be overstated in ocular surface health and proper light refraction from the air-tear interface. Emerging therapies will hopefully alleviate the large dry eye burden worldwide by addressing the issue at its core, by attempting to regenerate a dysfunctional gland and/or controlling the proinflammatory state that ensues with severe dry eye. As such, new modalities and therapies need to be developed through collaborative/translational research to treat aqueous deficiency-related dry eye. It will be interesting to see if the untested, but promising, therapies discussed become viable treatment modalities in dry eye therapy beyond the temporary measures of ocular lubricants. Acknowledgments 
+ The authors would like to thank Dr. Nick Mamalis for images of the lacrimal gland and Lane Bennion for the medical drawings. The authors would also like to thank Research to Prevent Blindness for their unrestricted grant to the Moran Eye Center. Conflict of Interests 
+ The authors have no conflict of interests to declare. References 
+ 
+ 
+ 1. Millar T. J., Schuett B. S. The real reason for having a meibomian lipid layer covering the outer surface of the tear film—a review. Experimental Eye Research. 2015;137:125–138. doi: 10.1016/j.exer.2015.05.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Walcott B. The lacrimal gland and its veil of tears. News in Physiological Sciences. 1998;13(2):97–103. doi: 10.1152/physiologyonline.1998.13.2.97. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Bron A. J., Tiffany J. M. The contribution of meibomian disease to dry eye. Ocular Surface. 2004;2(2):149–164. doi: 10.1016/s1542-0124(12)70150-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Tsai P. S., Evans J. E., Green K. M., et al. Proteomic analysis of human meibomian gland secretions. British Journal of Ophthalmology. 2006;90(3):372–377. doi: 10.1136/bjo.2005.080846. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Mausolf F. A. The Anatomy of the Ocular Adnexa; Guide to Orbital Dissection. Springfield, Ill, USA: Thomas; 1975. [ Google Scholar ] 
+ 
+ 6. Whitnall S. E. Classics in Ophthalmology. Huntington, NY, USA: Krieger; 1979. Anatomy of the human orbit and accessory organs of vision. [ Google Scholar ] 
+ 
+ 7. Obata H. Anatomy and histopathology of the human lacrimal gland. Cornea. 2006;25(10, supplement 1):S82–S89. doi: 10.1097/01.ico.0000247220.18295.d3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Basic and clinical science course: orbit, eyelids, and lacrimal system. American Academy of Ophthalmoloy. 2012;7:243–244. [ Google Scholar ] 
+ 
+ 9. Riley C. M., Day R. C., Greeley D. M., Langford W. S. Central autonomic dysfunction with defective lacrimation; report of five cases. Pediatrics. 1949;3(4):468–478. [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Jones L. T. The lacrimal secretory system and its treatment. American Journal of Ophthalmology. 1966;62(1):47–60. doi: 10.1016/0002-9394(66)91676-x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Obata H., Yamamoto S., Horiuchi H., Machinami R. Histopathologic study of human lacrimal gland: statistical analysis with special reference to aging. Ophthalmology. 1995;102(4):678–686. doi: 10.1016/s0161-6420(95)30971-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Roen J. L., Stasior O. G., Jakobiec F. A. Aging changes in the human lacrimal gland: role of the ducts. CLAO Journal. 1985;11(3):237–242. [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Allansmith M. R., Kajiyama G., Abelson M. B., Simon M. A. Plasma cell content of main and accessory lacrimal glands and conjunctiva. American Journal of Ophthalmology. 1976;82(6):819–826. doi: 10.1016/0002-9394(76)90056-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Ogawa Y., Yamazaki K., Kuwana M., et al. A significant role of stromal fibroblasts in rapidly progressive dry eye in patients with chronic GVHD. Investigative Ophthalmology and Visual Science. 2001;42(1):111–119. [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Smith B., Petrelli R. Surgical repair of prolapsed lacrimal glands. Archives of Ophthalmology. 1978;96(1):113–114. doi: 10.1001/archopht.1978.03910050069017. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Sen D. K., Sarin G. S. Immunoglobulin concentrations in human tears in ocular diseases. British Journal of Ophthalmology. 1979;63(5):297–300. doi: 10.1136/bjo.63.5.297. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Liu S. H., Zhou D.-H., Franklin R. M. Lacrimal gland-derived lymphocyte proliferation potentiating factor. Investigative Ophthalmology and Visual Science. 1993;34(3):650–657. [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Franklin R. M., Shepard K. F. T-cell adherence to lacrimal gland: the event responsible for IgA plasma cell predominance in lacrimal gland. Regional Immunology. 1990;3(4):213–216. [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Macpherson A. J., Gatto D., Sainsbury E., Harriman G. R., Hengartner H., Zinkernagel R. M. A primitive T cell-independent mechanism of intestinal mucosal IgA responses to commensal bacteria. Science. 2000;288(5474):2222–2226. doi: 10.1126/science.288.5474.2222. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Kelleher R. S., Hann L. E., Edwards J. A., Sullivan D. A. Endocrine, neural, and immune control of secretory component output by lacrimal gland acinar cells. Journal of Immunology. 1991;146(10):3405–3412. [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Sullivan D. A., Hann L. E. Hormonal influence on the secretory immune system of the eye: endocrine impact on the lacrimal gland accumulation and secretion of IgA and IgG. Journal of Steroid Biochemistry. 1989;34(1–6):253–262. doi: 10.1016/0022-4731(89)90089-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Qu X.-D., Lehrer R. I. Secretory phospholipase A2 is the principal bactericide for staphylococci and other gram-positive bacteria in human tears. Infection and Immunity. 1998;66(6):2791–2797. doi: 10.1128/iai.66.6.2791-2797.1998. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Garreis F., Gottschalt M., Schlorf T., et al. Expression and regulation of antimicrobial peptide psoriasin (S100A7) at the ocular surface and in the lacrimal apparatus. Investigative Ophthalmology and Visual Science. 2011;52(7):4914–4922. doi: 10.1167/iovs.10-6598. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Jumblatt M. M., McKenzie R. W., Steele P. S., Emberts C. G., Jumblatt J. E. MUC7 expression in the human lacrimal gland and conjunctiva. Cornea. 2003;22(1):41–45. doi: 10.1097/00003226-200301000-00010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Arango M. E., Li P., Komatsu M., Montes C., Carraway C. A. C., Carraway K. L. Production and localization of Muc4/Sialomucin complex and its receptor tyrosine kinase ErbB2 in the rat lacrimal gland. Investigative Ophthalmology & Visual Science. 2001;42(12):2749–2756. [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Gipson I. K. Distribution of mucins at the ocular surface. Experimental Eye Research. 2004;78(3):379–388. doi: 10.1016/S0014-4835(03)00204-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Dartt D. A., Willcox M. D. P. Complexity of the tear film: importance in homeostasis and dysfunction during disease. Experimental Eye Research. 2013;117:1–3. doi: 10.1016/j.exer.2013.10.008. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Bron A. J., Tiffany J. M., Gouveia S. M., Yokoi N., Voon L. W. Functional aspects of the tear film lipid layer. Experimental Eye Research. 2004;78(3):347–360. doi: 10.1016/j.exer.2003.09.019. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Imanishi J., Kamiyama K., Iguchi I., Kita M., Sotozono C., Kinoshita S. Growth factors: importance in wound healing and maintenance of transparency of the cornea. Progress in Retinal and Eye Research. 2000;19(1):113–129. doi: 10.1016/s1350-9462(99)00007-5. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Yoshino K., Garg R., Monroy D., Ji Z., Pflugfelder S. C. Production and secretion of transforming growth factor beta (TGF-β) by the human lacrimal gland. Current Eye Research. 1996;15(6):615–624. doi: 10.3109/02713689609008901. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Wilson S. E., Lloyd S. A., Kennedy R. H. Epidermal growth factor messenger RNA production in human lacrimal gland. Cornea. 1991;10(6):519–524. doi: 10.1097/00003226-199111000-00010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Wilson S. E., Lloyd S. A., Kennedy R. H. Basic fibroblast growth factor (FGFb) and epidermal growth factor (EGF) receptor messenger RNA production in human lacrimal gland. Investigative Ophthalmology and Visual Science. 1991;32(10):2816–2820. [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Li Q., Weng J., Mohan R. R., et al. Hepatocyte growth factor and hepatocyte growth factor receptor in the lacrimal gland, tears, and cornea. Investigative Ophthalmology and Visual Science. 1996;37(5):727–739. [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Wilson S. E., Liang Q., Kim W. J. Lacrimal gland HGF, KGF, and EGF mRNA levels increase after corneal epithelial wounding. Investigative Ophthalmology & Visual Science. 1999;40(10):2185–2190. [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Bryant-Hudson K., Conrady C. D., Carr D. J. J. Type I interferon and lymphangiogenesis in the HSV-1 infected cornea—are they beneficial to the host? Progress in Retinal and Eye Research. 2013;36:281–291. doi: 10.1016/j.preteyeres.2013.06.003. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Conrady C. D., Zheng M., Stone D. U., Carr D. J. J. CD8+ T cells suppress viral replication in the cornea but contribute to VEGF-C-induced lymphatic vessel genesis. The Journal of Immunology. 2012;189(1):425–432. doi: 10.4049/jimmunol.1200063. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Pfister R. R., Renner M. E. The corneal and conjunctival surface in vitamin A deficiency: a scanning electron microscopy study. Investigative Ophthalmology and Visual Science. 1978;17(9):874–883. [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Zhang Y., Liu Z., Chen X., Zhang S., Yu D., Li C. The effect of oculotect gel on the conjunctival goblet cells of rat after corneal transplantation. Yan Ke Xue Bao. 2006;22(4):229–243. [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Rao V., Friend J., Thoft R. A., Underwood B. A., Reddy P. R. Conjunctival goblet cells and mitotic rate in children with retinol deficiency and measles. Archives of Ophthalmology. 1987;105(3):378–380. doi: 10.1001/archopht.1987.01060030098035. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Rismondo V., Osgood T. B., Leering P., Hattenhauer M. G., Ubels J. L., Edelhauser H. F. Electrolyte composition of lacrimal gland fluid and tears of normal and vitamin A-deficient rabbits. The CLAO Journal. 1989;15(3):222–228. [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Lange A. P., Moloney G., Sheldon C. A., Sasaki S., Holland S. P. Bilateral corneal ulceration caused by vitamin A deficiency in eosinophilic gastroenteropathy. Case Reports in Ophthalmology. 2011;2(3):302–306. doi: 10.1159/000331886. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Twining S. S., Zhou X., Schulte D. P., Wilson P. M., Fish B., Moulder J. Effect of vitamin A deficiency on the early response to experimental Pseudomonas keratitis. Investigative Ophthalmology and Visual Science. 1996;37(4):511–522. [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Schargus M., Ivanova S., Kakkassery V., Dick H. B., Joachim S. Correlation of tear film osmolarity and 2 different MMP-9 tests with common dry eye tests in a cohort of non-dry eye patients. Cornea. 2015;34(7):739–744. doi: 10.1097/ICO.0000000000000449. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Boiko E. V., Pozniak A. L., Maltsev D. S., Suetov A. A., Nuralova I. V. High frequency of latent conjunctival C. trachomatis, M. hominis, and U. urealyticum infections in young adults with dry eye disease. Journal of Ophthalmology. 2014;2014:7. doi: 10.1155/2014/154627.154627 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Luo L., Li D.-Q., Pflugfelder S. C. Hyperosmolarity-induced apoptosis in human corneal epithelial cells is mediated by cytochrome c and MAPK pathways. Cornea. 2007;26(4):452–460. doi: 10.1097/ico.0b013e318030d259. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. López-Miguel A., Tesón M., Martín-Montañez V., et al. Clinical and molecular inflammatory response in sjögren syndrome-associated dry eye patients under desiccating stress. American Journal of Ophthalmology. 2016;161:133–141.e2. doi: 10.1016/j.ajo.2015.09.039. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. You I. C., Bian F., Volpe E. A., de Paiva C. S., Pflugfelder S. C. Age-related conjunctival disease in the C57BL/6.NOD-Aec1Aec2 Mouse Model of Sjögren Syndrome develops independent of lacrimal dysfunction. Investigative Ophthalmology & Visual Science. 2015;56(4):2224–2233. doi: 10.1167/iovs.14-15668. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Contreras-Ruiz L., Ghosh-Mitra A., Shatos M. A., Dartt D. A., Masli S. Modulation of conjunctival goblet cell function by inflammatory cytokines. Mediators of Inflammation. 2013;2013:11. doi: 10.1155/2013/636812.636812 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Pflugfelder S. C., Farley W., Luo L., et al. Matrix metalloproteinase-9 knockout confers resistance to corneal epithelial barrier disruption in experimental dry eye. The American Journal of Pathology. 2005;166(1):61–71. doi: 10.1016/s0002-9440(10)62232-8. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Kaufman H. E. The practical detection of MMP-9 diagnoses ocular surface disease and may help prevent its complications. Cornea. 2013;32(2):211–216. doi: 10.1097/ico.0b013e3182541e9a. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. Paulsen A. J., Cruickshanks K. J., Fischer M. E., et al. Dry eye in the beaver dam offspring study: prevalence, risk factors, and health-related quality of life. American Journal of Ophthalmology. 2014;157(4):799–806. doi: 10.1016/j.ajo.2013.12.023. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 52. Rocha E. M., Alves M., Rios J. D., Dartt D. A. The aging lacrimal gland: changes in structure and function. Ocular Surface. 2008;6(4):162–174. doi: 10.1016/s1542-0124(12)70177-5. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Kojima T., Wakamatsu T. H., Dogru M., et al. Age-related dysfunction of the lacrimal gland and oxidative stress: evidence from the Cu,Zn-superoxide dismutase-1 (Sod1) knockout mice. The American Journal of Pathology. 2012;180(5):1879–1896. doi: 10.1016/j.ajpath.2012.01.019. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. McClellan A. J., Volpe E. A., Zhang X., et al. Ocular surface disease and dacryoadenitis in aging C57BL/6 mice. The American Journal of Pathology. 2014;184(3):631–643. doi: 10.1016/j.ajpath.2013.11.019. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Krabbe K. S., Pedersen M., Bruunsgaard H. Inflammatory mediators in the elderly. Experimental Gerontology. 2004;39(5):687–699. doi: 10.1016/j.exger.2004.01.009. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Tomlinson A., Khanal S., Ramaesh K., Diaper C., McFadyen A. Tear film osmolarity: determination of a referent for dry eye diagnosis. Investigative Ophthalmology and Visual Science. 2006;47(10):4309–4315. doi: 10.1167/iovs.05-1504. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Vitali C., Bombardieri S., Jonsson R., et al. Classification criteria for Sjögren's syndrome: a revised version of the European criteria proposed by the American-European Consensus Group. Annals of the Rheumatic Diseases. 2002;61(6):554–558. doi: 10.1136/ard.61.6.554. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Cha S., Peck A. B., Humphreys-Beher M. G. Progress in understanding autoimmune exocrinopathy using the non-obese diabetic mouse: an update. Critical Reviews in Oral Biology and Medicine. 2002;13(1):5–16. doi: 10.1177/154411130201300103. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Fox R. I., Kang H.-I., Ando D., Abrams J., Pisa E. Cytokine mRNA expression in salivary gland biopsies of Sjogren's syndrome. Journal of Immunology. 1994;152(11):5532–5539. [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Williamson J., Gibson A. A. M., Wilson T., Forrester J. V., Whaley K., Dick W. C. Histology of the lacrimal gland in keratoconjunctivitis sicca. British Journal of Ophthalmology. 1973;57(11):852–858. doi: 10.1136/bjo.57.11.852. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Izumi M., Eguchi K., Uetani M., et al. MR features of the lacrimal gland in Sjogren's syndrome. American Journal of Roentgenology. 1998;170(6):1661–1666. doi: 10.2214/ajr.170.6.9609194. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Paranyuk Y., Claros N., Birzgalis A., Moore L. C., Brink P. R., Walcott B. Lacrimal gland fluid secretion and lymphocytic infiltration in the NZB/W mouse model of Sjögren's syndrome. Current Eye Research. 2001;23(3):199–205. doi: 10.1076/ceyr.23.3.199.5468. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Jonsson M. V., Delaleu N., Brokstad K. A., Berggreen E., Skarstein K. Impaired salivary gland function in NOD mice: association with changes in cytokine profile but not with histopathologic changes in the salivary gland. Arthritis & Rheumatism. 2006;54(7):2300–2305. doi: 10.1002/art.21945. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Deshmukh U. S., Ohyama Y., Bagavant H., Guo X., Gaskin F., Fu S. M. Inflammatory stimuli accelerate Sjogren's syndrome-like disease in (NZB × NZW)F1 mice. Arthritis & Rheumatism. 2008;58(5):1318–1323. doi: 10.1002/art.23368. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Li B., Sheng M., Li J., et al. Tear proteomic analysis of Sjögren syndrome patients with dry eye syndrome by two-dimensional-nano-liquid chromatography coupled with tandem mass spectrometry. Scientific Reports. 2014;4, article 5772 doi: 10.1038/srep05772. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Xuan J., Shen L., Malyavantham K., Pankewycz O., Ambrus J. L., Jr., Suresh L. Temporal histological changes in lacrimal and major salivary glands in mouse models of Sjogren's syndrome. BMC Oral Health. 2013;13, article 51 doi: 10.1186/1472-6831-13-51. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Aluri H. S., Kublin C. L., Thotakura S., et al. Role of matrix metalloproteinases 2 and 9 in lacrimal gland disease in animal models of Sjögren's syndrome. Investigative Opthalmology & Visual Science. 2015;56(9):5218–5128. doi: 10.1167/iovs.15-17003. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Robinson C. P., Cornelius J., Bounous D. E., Yamamoto H., Humphreys-Beher M. G., Peck A. B. Characterization of the changing lymphocyte populations and cytokine expression in the exocrine tissues of autoimmune NOD mice. Autoimmunity. 1998;27(1):29–44. doi: 10.3109/08916939809008035. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Ramos-Casals M., Tzioufas A. G., Stone J. H., Sisó A., Bosch X. Treatment of primary Sjögren syndrome: a systematic review. The Journal of the American Medical Association. 2010;304(4):452–460. doi: 10.1001/jama.2010.1014. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Hamano H., Kawa S., Horiuchi A., et al. High serum IgG4 concentrations in patients with sclerosing pancreatitis. The New England Journal of Medicine. 2001;344(10):732–738. doi: 10.1056/nejm200103083441005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Vasaitis L. IgG4-related disease: a relatively new concept for clinicians. European Journal of Internal Medicine. 2016;27:1–9. doi: 10.1016/j.ejim.2015.09.022. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Yamamoto M., Yajima H., Takahashi H., et al. Everyday clinical practice in IgG4-related dacryoadenitis and/or sialadenitis: results from the SMART database. Modern Rheumatology. 2015;25(2):199–204. doi: 10.3109/14397595.2014.950036. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Higuchi A., Ito K., Dogru M., et al. Corneal damage and lacrimal gland dysfunction in a smoking rat model. Free Radical Biology and Medicine. 2011;51(12):2210–2216. doi: 10.1016/j.freeradbiomed.2011.09.025. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Nakamura S., Kinoshita S., Yokoi N., et al. Lacrimal hypofunction as a new mechanism of dry eye in visual display terminal users. PLoS ONE. 2010;5(6) doi: 10.1371/journal.pone.0011119.e11119 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. Tamer C., Melek I. M., Duman T., Öksüz H. Tear film tests in Parkinson's disease patients. Ophthalmology. 2005;112(10):1795.e1–1795.e8. doi: 10.1016/j.ophtha.2005.04.025. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Lucca J. A., Farris R. L., Bielory L., Caputo A. R. Keratoconjunctivitis sicca in male patients infected with human immunodeficiency virus type 1. Ophthalmology. 1990;97(8):1008–1010. doi: 10.1016/s0161-6420(90)32472-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Burtin T., Guepratte N., Bourges J. L., Garcher C., Le Hoang P., Baudouin C. Abnormalities of the ocular surface in patients with AIDS. Journal Français d'Ophtalmologie. 1998;21(9):637–642. [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Geier S. A., Libera S., Klauss V., Goebel F. D. Sicca syndrome in patients infected with the human immunodeficiency virus. Ophthalmology. 1995;102(9):1319–1324. doi: 10.1016/s0161-6420(95)30868-8. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Alves M., Angerami R. N., Rocha E. M. Dry eye disease caused by viral infection: review. Arquivos Brasileiros de Oftalmologia. 2013;76(2):129–132. doi: 10.1590/s0004-27492013000200016. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Seiwert T. Y., Salama J. K., Vokes E. E. The chemoradiation paradigm in head and neck cancer. Nature Clinical Practice Oncology. 2007;4(3):156–171. doi: 10.1038/ncponc0750. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Solans R., Bosch J. A., Galofré P., et al. Salivary and lacrimal gland dysfunction (Sicca syndrome) after radioiodine therapy. Journal of Nuclear Medicine. 2001;42(5):738–743. [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Grundmann O., Mitchell G. C., Limesand K. H. Sensitivity of salivary glands to radiation: from animal models to therapies. Journal of Dental Research. 2009;88(10):894–903. doi: 10.1177/0022034509343143. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Dirix P., Nuyts S., Van Den Bogaert W. Radiation-induced xerostomia in patients with head and neck cancer: a literature review. Cancer. 2006;107(11):2525–2534. doi: 10.1002/cncr.22302. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Hakim S. G., Schroder C., Geerling G., et al. Early and late immunohistochemical and ultrastructural changes associated with functional impairment of the lachrymal gland following external beam radiation. International Journal of Experimental Pathology. 2006;87(1):65–71. doi: 10.1111/j.0959-9673.2006.00456.x. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Bhandare N., Moiseenko V., Song W. Y., Morris C. G., Bhatti M. T., Mendenhall W. M. Severe dry eye syndrome after radiotherapy for head-and-neck tumors. International Journal of Radiation Oncology Biology Physics. 2012;82(4):1501–1508. doi: 10.1016/j.ijrobp.2011.05.026. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Bourkiza R., Lee V. A review of the complications of lacrimal occlusion with punctal and canalicular plugs. Orbit. 2012;31(2):86–93. doi: 10.3109/01676830.2011.648802. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Onizuka N., Uematsu M., Kusano M., Sasaki H., Suzuma K., Kitaoka T. Influence of different additives and their concentrations on corneal toxicity and antimicrobial effect of benzalkonium chloride. Cornea. 2014;33(5):521–526. doi: 10.1097/ICO.0000000000000086. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Andersen S. R. The eye and its diseases in Ancient Egypt. Acta Ophthalmologica Scandinavica. 1997;75(3):338–344. doi: 10.1111/j.1600-0420.1997.tb00792.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Gensheimer W. G., Kleinman D. M., Gonzalez M. O., et al. Novel formulation of glycerin 1% artificial tears extends tear film break-up time compared with systane lubricant eye drops. Journal of Ocular Pharmacology and Therapeutics. 2012;28(5):473–478. doi: 10.1089/jop.2011.0053. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Cantrell D. A., Smith K. A. The interleukin-2 T-cell system: a new cell growth model. Science. 1984;224(4655):1312–1316. doi: 10.1126/science.6427923. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. Pritchard D. I. Sourcing a chemical succession for cyclosporin from parasites and human pathogens. Drug Discovery Today. 2005;10(10):688–691. doi: 10.1016/S1359-6446(05)03395-7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. Kim Y. J., Ryu J. S., Park S. Y., et al. Comparison of topical application of TSG-6, cyclosporine, and prednisolone for treating dry eye. Cornea. 2016 doi: 10.1097/ico.0000000000000756. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 93. Bennett J. E., Bailey A. L. A surgical approach to total xerophthalmia; transplantation of the parotid duct to the inferior cul-de-sac. AMA Archives of Ophthalmology. 1957;58(3):367–371. doi: 10.1001/archopht.1957.00940010379008. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 94. Rhodes M., Heinrich C., Featherstone H., et al. Parotid duct transposition in dogs: a retrospective review of 92 eyes from 1999 to 2009. Veterinary Ophthalmology. 2012;15(4):213–222. doi: 10.1111/j.1463-5224.2011.00972.x. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 95. Bennett J. E. The management of total xerophthalmia. Archives of Ophthalmology. 1969;81(5):667–682. doi: 10.1001/archopht.1969.00990010669012. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 96. Coursey T. G., Henriksson J. T., Marcano D. C., et al. Dexamethasone nanowafer as an effective therapy for dry eye disease. Journal of Controlled Release. 2015;213:168–174. doi: 10.1016/j.jconrel.2015.07.007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 97. Krauss A. H., Corrales R. M., Pelegrino F. S., Tukler-Henriksson J., Pflugfelder S. C., de Paiva C. S. Improvement of outcome measures of dry eye by a novel integrin antagonist in the murine desiccating stress model. Investigative Opthalmology & Visual Science. 2015;56(10):5888–5895. doi: 10.1167/iovs.15-17249. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 98. Trousdale M. D., Zhu Z., Stevenson D., Schechter J. E., Ritter T., Mircheff A. K. Expression of TNF inhibitor gene in the lacrimal gland promotes recovery of tear production and tear stability and reduced immunopathology in rabbits with induced autoimmune dacryoadenitis. Journal of Autoimmune Diseases. 2005;2, article 6 doi: 10.1186/1740-2557-2-6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 99. Ma Y., Zhao S., Wang X., et al. A new recombinant PACAP-derived peptide efficiently promotes corneal wound repairing and lacrimal secretion. Investigative Opthalmology & Visual Science. 2015;56(8):4336–4349. doi: 10.1167/iovs.15-17088. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 100. Zhong X., Gutierrez C., Xue T., et al. Generation of three-dimensional retinal tissue with functional photoreceptors from human iPSCs. Nature Communications. 2014;5, article 4047 doi: 10.1038/ncomms5047. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 101. Takebe T., Sekine K., Enomura M., et al. Vascularized and functional human liver from an iPSC-derived organ bud transplant. Nature. 2013;499(7459):481–484. doi: 10.1038/nature12271. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 102. Hirayama M., Ogawa M., Oshima M., et al. Functional lacrimal gland regeneration by transplantation of a bioengineered organ germ. Nature Communications. 2013;4, article 2497 doi: 10.1038/ncomms3497. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 103. Ackermann P., Hetz S., Dieckow J., et al. Isolation and investigation of presumptive murine lacrimal gland stem cells. Investigative Ophthalmology & Visual Science. 2015;56(8):4350–4363. doi: 10.1167/iovs.15-16475. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 104. Toshida H., Ohta T., Suto C., Murakami A. Effect of subconjunctival lacrimal gland transplantation in a rabbit dry eye model. Cornea. 2013;32(11):S46–S51. doi: 10.1097/ICO.0b013e3182a1bb21. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 105. Henker R., Scholz M., Gaffling S., et al. Morphological features of the porcine lacrimal gland and its compatibility for human lacrimal gland xenografting. PLoS ONE. 2013;8(9) doi: 10.1371/journal.pone.0074046.e74046 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 106. Chan A. Y., Conrady C. D., Ding K., Dvorak J. D., Stone D. U. Factors associated with age of onset of herpes zoster ophthalmicus. Cornea. 2015;34(5):535–540. doi: 10.1097/ico.0000000000000362. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 107. Geerling G., Sieg P., Bastian G.-O., Laqua H. Transplantation of the autologous submandibular gland for most severe cases of keratoconjunctivitis sicca. Ophthalmology. 1998;105(2):327–335. doi: 10.1016/S0161-6420(98)93406-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 108. Marinho D. R., Burmann T. G., Kwitko S. Labial salivary gland transplantation for severe dry eye due to chemical burns and Stevens-Johnson syndrome. Ophthalmic Plastic and Reconstructive Surgery. 2010;26(3):182–184. doi: 10.1097/iop.0b013e3181b8c3ad. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 109. Borrelli M., Schröder C., Dart J. K. G., et al. Long-term follow-up after submandibular gland transplantation in severe dry eyes secondary to cicatrizing conjunctivitis. The American Journal of Ophthalmology. 2010;150(6):894–904. doi: 10.1016/j.ajo.2010.05.010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 110. Edgar W. M. Saliva: its secretion, composition and functions. British Dental Journal. 1992;172(8):305–312. doi: 10.1038/sj.bdj.4807861. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 111. Geerling G., Sieg P. Transplantation of the major salivary glands. Developments in Ophthalmology. 2008;41:255–268. doi: 10.1159/000131094. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 112. Su J.-Z., Yang N.-Y., Liu X.-J., et al. Obstructive sialadenitis of a transplanted submandibular Gland: chronic inflammation secondary to ductal obstruction. British Journal of Ophthalmology. 2014;98(12):1672–1677. doi: 10.1136/bjophthalmol-2014-305117. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 113. Geerling G., Garrett J. R., Paterson K. L., et al. Innervation and secretory function of transplanted human submandibular salivary glands. Transplantation. 2008;85(1):135–140. doi: 10.1097/01.tp.0000296060.39823.a4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 114. Kossler A. L., Wang J., Feuer W., Tse D. T. Neurostimulation of the lacrimal nerve for enhanced tear production. Ophthalmic Plastic and Reconstructive Surgery. 2015;31(2):145–151. doi: 10.1097/iop.0000000000000234. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

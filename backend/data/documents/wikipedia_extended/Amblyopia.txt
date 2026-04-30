@@ -1,0 +1,89 @@
+Source: Wikipedia
+Title: Amblyopia
+URL: https://en.wikipedia.org/wiki/Amblyopia
+============================================================
+
+Amblyopia, also called lazy eye, is a disorder of sight in which the brain fails to fully process input from one eye and over time favors the other eye. It results in decreased vision in an eye that typically appears normal in other aspects. Amblyopia is the most common cause of decreased vision in a single eye among children and younger adults.
+The cause of amblyopia can be any condition that interferes with focusing during early childhood. This can occur from poor alignment of the eyes (strabismic), an eye being irregularly shaped such that focusing is difficult, one eye being more nearsighted or farsighted than the other (refractive), or clouding of the lens of an eye (deprivational). After the underlying cause is addressed, vision is not restored right away, as the mechanism also involves the brain.
+Amblyopia can be difficult to detect, so vision testing is recommended for all children around the ages of four to five as early detection improves treatment success. Glasses may be all the treatment needed for some children. If this is not sufficient, treatments which encourage or force the child to use the weaker eye are used. This is done by either using a patch or putting atropine in the stronger eye. Without treatment, amblyopia typically persists. Treatment in adulthood is usually much less effective.
+Amblyopia begins by the age of five. In adults, the disorder is estimated to affect 1–5% of the population. While treatment improves vision, it does not typically restore it to normal in the affected eye. Amblyopia was first described in the 1600s. The condition may make people ineligible to be pilots or police officers. The word amblyopia is from Greek ἀμβλύς amblys, meaning "blunt", and ὤψ ōps, meaning "eye".
+
+
+== Signs and symptoms ==
+Many people with amblyopia, especially those who only have a mild form, are not aware they have the condition until tested at older ages, since the vision in their stronger eye is normal. People with amblyopia typically have poor stereo vision, since it requires both eyes. They further may have, on the affected eye, poor pattern recognition, poor visual acuity, and low sensitivity to contrast and motion.
+Amblyopia is characterized by several functional abnormalities in spatial vision, including reductions in visual acuity, contrast sensitivity function, and vernier acuity, as well as spatial distortion, abnormal spatial interactions, and impaired contour detection. In addition, individuals with amblyopia have binocular abnormalities such as impaired stereoacuity (stereoscopic acuity) and abnormal binocular summation. Also, central vision in amblyopes is more crowded than central vision in normal observers.
+These deficits are usually specific to the amblyopic eye. Subclinical deficits of the "better" eye have also been demonstrated.
+People with amblyopia also have problems of binocular vision such as limited stereoscopic depth perception and usually have difficulty seeing the three-dimensional images in hidden stereoscopic displays such as autostereograms. Perception of depth, from monocular cues such as size, perspective, and motion parallax remains normal. 
+
+
+== Cause ==
+Amblyopia, often referred to as "lazy eye," can be categorized into three types: 
+
+Deprivation Amblyopia: This occurs when something obstructs light from entering the eye, preventing proper vision development. A congenital cataract is an example of such a condition.
+Strabismic Amblyopia: The most common form, this type arises when the eyes are not properly aligned, leading to double vision. To avoid confusion, the brain compensates by ignoring the visual input from the misaligned eye.
+Refractive Amblyopia: This type is caused by a significant difference in uncorrected refractive errors, such as nearsightedness or farsightedness, between the two eyes.
+
+
+=== Strabismus ===
+
+Strabismus, sometimes also incorrectly called lazy eye, is a condition in which the eyes are misaligned. Strabismus usually results in normal vision in the preferred sighting (or "fellow") eye (the eye that the person prefers to use), but may cause abnormal vision in the deviating or strabismic eye due to the difference between the images projecting to the brain from the two eyes.
+Adult-onset strabismus usually causes double vision (diplopia), since the two eyes are not fixed on the same object.
+Children's brains are more neuroplastic, so can more easily adapt by suppressing images from one of the eyes, eliminating the double vision. This plastic response of the brain interrupts the brain's normal development, resulting in the amblyopia. Recent evidence points to a cause of infantile strabismus lying with the input to the visual cortex.
+Those with strabismic amblyopia tend to show ocular motion deficits when reading, even when they use the nonamblyopic eye. In particular, they tend to make more saccades per line than persons with normal stereo vision, and to have a reduced reading speed, especially when reading a text with small font size.
+Strabismic amblyopia is treated by clarifying the visual image with glasses, or encouraging use of the amblyopic eye with an eyepatch over the dominant eye or pharmacologic penalization of the better eye. Penalization usually consists of applying atropine drops to temporarily paralyze the accommodation reflex, leading to the blurring of vision in the good eye. It also dilates the pupil. This helps to prevent the bullying and teasing associated with wearing a patch, although sometimes application of the eye drops is challenging. The ocular alignment itself may be treated with surgical or nonsurgical methods, depending on the type and severity of the strabismus.
+
+
+=== Refractive ===
+Refractive amblyopia may result from anisometropia (unequal refractive error between the two eyes). Anisometropia exists when there is a difference in the power between the two eyes. The eye which provides the brain with a clearer image typically becomes the dominant eye. The image in the other eye is blurred, which results in abnormal development of one half of the visual system. Refractive amblyopia is usually less severe than strabismic amblyopia and is commonly missed by primary care physicians because of its less dramatic appearance and lack of obvious physical manifestation, such as with strabismus. Given that the refractive correction of anisometropia by means of spectacles typically leads to different image magnification for the two eyes, which may in turn prevent binocular vision, a refractive correction using contact lenses is often considered. Pediatric refractive surgery is also a treatment option, in particular if conventional approaches have failed due to aniseikonia or lack of compliance or both.
+Frequently, amblyopia is associated with a combination of anisometropia and strabismus. In some cases, the vision between the eyes can differ to the point where one eye has twice average vision while the other eye is completely blind. 
+
+
+=== Deprivation and occlusion ===
+Deprivation amblyopia (amblyopia ex anopsia) results when the ocular media become opaque, such as is the case with congenital cataract or corneal haziness. These opacities prevent adequate visual input from reaching the eye, and disrupt development. If not treated in a timely fashion, amblyopia may persist even after the cause of the opacity is removed. Sometimes, drooping of the eyelid (ptosis) or some other problem causes the upper eyelid to physically occlude a child's vision, which may cause amblyopia quickly.  Occlusion amblyopia may be a complication of a hemangioma that blocks some or all of the eye. Other possible causes of deprivation and occlusion amblyopia include obstruction in the vitreous and aphakia. Deprivation amblyopia accounts for less than 3% of all individuals affected by amblyopia.
+
+
+== Pathophysiology ==
+Amblyopia is a developmental problem in the brain, not any intrinsic, organic neurological problem in the eyeball (although organic problems can lead to amblyopia which can continue to exist after the organic problem has resolved by medical intervention).
+The part of the brain receiving images from the affected eye is not stimulated properly and does not develop to its full visual potential. This has been confirmed by direct brain examination. David H. Hubel and Torsten Wiesel won the Nobel Prize in Physiology or Medicine in 1981 for their work in showing the extent of the damage to ocular dominance columns produced in kittens by sufficient visual deprivation during the so-called "critical period". The maximum "critical period" in humans is from birth to two years old.
+
+
+== Diagnosis ==
+Amblyopia is diagnosed by identifying low visual acuity in one or both eyes, out of proportion to the structural abnormality of the eye and excluding other visual disorders as causes for the lowered visual acuity. It can be defined as an interocular difference of two lines or more in acuity (e.g. on Snellen chart) when the eye optics are maximally corrected. In young children, visual acuity is difficult to measure and can be estimated by observing the reactions of the patient when one eye is covered, including observing the patient's ability to follow objects with one eye. 
+Stereotests like the Lang stereotest are not reliable exclusion tests for amblyopia. A person who passes the Lang stereotest test is unlikely to have strabismic amblyopia, but could nonetheless have refractive or deprivational amblyopia. Binocular retinal birefringence scanning may be able to identify, already in very young children, amblyopia that is associated with strabismus, microstrabismus, or reduced fixation accuracy. Diagnosis and treatment of amblyopia as early as possible is necessary to keep the vision loss to a minimum. Screening for amblyopia is recommended in all people between three and five years of age.
+
+
+== Treatment ==
+Treatment of strabismic or anisometropic amblyopia consists of correcting the optical deficit (wearing the necessary spectacle prescription) and often forcing use of the amblyopic eye, by patching the good eye, or instilling topical atropine in the good eye, or both. Atropine appears to result in similar outcomes to patching. If there is overpatching or overpenalizing the good eye when treating amblyopia, "reverse amblyopia" can result. Eye patching is usually done on a part-time schedule of about 4–6 hours a day. Treatment is continued as long as vision improves. It is not worthwhile continuing to patch for more than 6 months if no improvement continues.
+Deprivation amblyopia is treated by patching the good eye to encourage the use of the amblyopic eye. The earlier initiated, the easier and faster the treatment is and the less psychologically damaging. Also, the chance of achieving 20/20 vision is greater if treatment is initiated early.
+One of the German public health insurance providers, Barmer, has changed its policy to cover, as of 1 April 2014, the cost of software for amblyopic children whose condition did not improve through patching. The app offers dedicated eye exercises that the patient performs while wearing an eyepatch.
+Treatment for amblyopia depends on the child's age, severity of the vision loss and the prescribing doctor's preference. Treatment options include, vision therapy, total or partial occlusion therapy, prescription eyeglasses or any combination. Common types of occlusion therapy include the use of eye-patches or optical blurring. Optical blurring can include the use of pharmacological agents (eye drops) or visual degradation using either power to blur the image or foils placed over the lens.
+Evidence for vision therapy is unclear as of 2011.
+
+
+=== Older age ===
+Treatment of individuals age 9 through to adulthood is possible through applied perceptual learning. Tentative evidence shows that perceptual training may be beneficial in adults.
+
+
+== Epidemiology ==
+Amblyopia occurs in 2–5% of the population in Western countries. In the UK, 90% of visual health appointments in the child concern amblyopia.
+Depending on the chosen criterion for diagnosis, 1–4% of the children have amblyopia.
+
+
+== Research ==
+A 2009 study, widely reported in the popular press, suggested that repetitive transcranial magnetic stimulation may temporarily improve contrast sensitivity and spatial resolution in the affected eye of adults with amblyopia. This approach is still under development, and the results await verification by other researchers. Comparable results may be achieved using different types of brain stimulation, such as anodal transcranial direct current stimulation and theta burst rTMS.
+A 2013 study concluded that converging evidence indicates decorrelated binocular experience plays a pivotal role in the genesis of amblyopia and the associated residual deficits. Another study of 2013 suggests that playing a version of the popular game Tetris that is modified such that each eye sees separate components of the game may also help to treat this condition in adults. Furthermore, the effects of this kind of therapy may be further enhanced by noninvasive brain stimulation as shown by a recent study using anodal tDCS.
+A 2014 Cochrane review sought to determine the effectiveness of occlusion treatment on patients with sensory deprivation amblyopia, but no trials were found eligible to be included in the review. However, good outcomes from occlusion treatment for sensory deprivation amblyopia likely rely on compliance with the treatment. 
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+
+National Eye Institute (NEI) Resource Guide
+Lazy Eye Site from the National Health Service, UK
+Look After Your Eyes - patient information on Amblyopia or 'lazy eye' by College of Optometrists
+ESCRS - A New "Ground-Breaking" Treatment for Amblyopia by Eurotimes

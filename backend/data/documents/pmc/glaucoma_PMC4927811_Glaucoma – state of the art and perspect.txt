@@ -1,0 +1,495 @@
+Source: PubMed Central (PMC)
+PMCID: PMC4927811
+Title: Glaucoma – state of the art and perspectives on treatment
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4927811/
+Year: 2016
+Disease: glaucoma
+Priority: 1
+============================================================
+
+Restor Neurol Neurosci . 2015 Dec 12;34(1):107–123. doi: 10.3233/RNN-150599 
+ 
+ 
+ Glaucoma –state of the art and perspectives on treatment 
+ Anna Wójcik-Gryciuk 
+ Anna Wójcik-Gryciuk 
+ 
+ a Department of Ophthalmology, MSW Hospital, Warsaw, Poland 
+ 
+ b Department of Neurophysiology, Nencki Institute of Experimental Biology, Warsaw, Poland 
+ Find articles by Anna Wójcik-Gryciuk 
+ 
+ 
+ a, b , Małgorzata Skup 
+ Małgorzata Skup 
+ 
+ b Department of Neurophysiology, Nencki Institute of Experimental Biology, Warsaw, Poland 
+ Find articles by Małgorzata Skup 
+ 
+ 
+ b , Wioletta J Waleszczyk 
+ Wioletta J Waleszczyk 
+ 
+ b Department of Neurophysiology, Nencki Institute of Experimental Biology, Warsaw, Poland 
+ Find articles by Wioletta J Waleszczyk 
+ 
+ 
+ b, * 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ a Department of Ophthalmology, MSW Hospital, Warsaw, Poland 
+ 
+ b Department of Neurophysiology, Nencki Institute of Experimental Biology, Warsaw, Poland 
+ 
+ * Corresponding author: Wioletta J. Waleszczyk, Department of Neurophysiology, Nencki Institute of Experimental Biology, 3 Pasteur St., 02-093 Warsaw, Poland. Tel.: +48 22 5892444; E-mail: w.waleszczyk@nencki.gov.pl . 
+ 
+ 
+ Collection date 2016. 
+ 
+ IOS Press and the authors. All rights reserved 
+ This is an open access article distributed under the terms of the Creative Commons Attribution Non-Commercial (CC BY-NC 4.0) License , which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC4927811  PMID: 26684267 
+ 
+ Abstract 
+ Glaucoma is a chronic optic neuropathy characterized by progressive damage to the optic nerve, death of retinal ganglion cells and ultimately visual field loss. It is one of the leading causes of irreversible loss of vision worldwide. The most important trigger of glaucomatous damage is elevated eye pressure, and the current standard approach in glaucoma therapy is reduction of intraocular pressure (IOP). However, despite the use of effective medications or surgical treatment leading to lowering of IOP, progression of glaucomatous changes and loss of vision among patients with glaucoma is common. Therefore, it is critical to prevent vision loss through additional treatment. To implement such treatment(s), it is imperative to identify pathophysiological changes in glaucoma and develop therapeutic methods taking into account neuroprotection. Currently, there is no method of neuroprotection with long-term proven effectiveness in the treatment of glaucoma. Among the most promising molecules shown to protect the retina and optic nerve are neurotrophic factors. Thus, the current focus is on the development of safe and non-invasive methods for the long-term elevation of the intraocular level of neurotrophins through advanced gene therapy and topical eye treatment and on the search for selective agonists of neurotrophin receptors affording more efficient neuroprotection. 
+ Keywords: Neurodegeneration, visual pathway, visual cortex, retina, optic disc, neuroprotection, trophic factors, retinal ganglion cells 1. Introduction 
+ Historically, glaucoma has been viewed as a disease caused by increased intraocular pressure. The current view is that glaucoma is a chronic optic neuropathy representing a common end-stage clinical presentation of several different diseases. Untreated disease leads to painless but irreversible visual field loss ( Fig. 1 ). It is generally characterized by a clinical triad: (1) elevated intraocular (eye) pressure; (2) development of optic nerve atrophy; and (3) loss of the peripheral field of vision, ultimately impairing central vision. Optic neuropathy is a consequence of three pathological components: (1) degeneration of the optic nerve as a result of progressive loss of retinal ganglion cells (RGCs), (2) activation and rearrangement of glial cells, and (3) blood supply disorders within the limits of the optic disc. Therefore, glaucoma should not only be considered an optic neuropathy but also a gliopathy and a vasculopathy (for the review of the latter see Coorey, Shen, Chung, Zhu, & Gillies, 2012 ). 
+ Fig.1. 
+ 
+ Open in a new tab 
+ Photograph of the left eye of a patient with glaucoma and printout of another patient’s examination showing severe impairment of the visual field of the right eye. A. Note the extension of the optic disc cup characteristic of glaucomatous damage. Examination with achromatic perimetry (Humphrey Field Analyzer) revealed coexisting impairment of the patient’s visual field. B. The recorded threshold sensitivities of a patient with glaucomatous vision impairment shown on a numeric scale. C. A graphical representation of the sensitivities recorded in B. The central 60 deg in the diameter of the visual field was tested. Regions of decreased sensitivity have lower numerical values and are shown in darker tones. The vision of the patient is limited almost exclusively to the central region of the visual field with an island on the temporal side. The morphological consequence of glaucomatous damage is a clinical change in the appearance of the optic disc ( Fig. 1 ), i.e., disc cupping related to thinning of the neural cells layer as well as loss of glial cells and blood vessels. So far, it has not been determined to what extent that rearrangement is a consequence of altered mechanical pressure, disturbed neuronal transport and signalling by retinal cells, and what contribution is made by the changed activity of those proteolytic enzymes which affect thestructure of the extracellular matrix (ECM). For example, elevation of ECM metalloproteinases, seems to be specific to glaucoma-related damage, because it occurs in the lamina cribrosa of monkeys with experimental glaucoma but not in the lamina cribrosa of monkeys with optic nerve transection ( Agapova, Kaufman, Lucarelli, & Hernandez, 2003 ). It is proposed that astrocytes and lamina cribrosa cells can sense their mechanical environment and respond to mechanical stimuli by remodelling the ECM ( Downs, Roberts, & Sigal, 2011 ). Altered cell activity associated with ECM remodelling has been observed in response to glaucoma in humans and to exposure to chronically elevated IOP in animal models. Functionally, all changes described above may contribute to the loss of peripheral and then central vision. Because identification of initiating factors and pathomechanisms of neuronal and accompanying changes provides the basis of any therapeutic management, the purpose of this review is to summarize the current knowledge of the basic aspects of glaucomatous changes in the eye, their impact on the function of the visual system and the state of the art in glaucoma treatment. Moreover, we examined the literature in detail in an attempt to present and evaluate the perspectives in treatments based on experimental data and clinical trials. 2. Glaucoma 
+ 2.1. Glaucoma –statistics 
+ The foundation of the commonly used classification of glaucoma consists of processes leading to optic nerve damage and changes in the visual field. Glaucoma may be divided into primary and secondary categories as well as open-angle or angle-closure types. According to the World Health Organization, glaucoma is the second leading cause of blindness in the world. Current estimates put the total number of suspected cases of glaucoma at approximately 60 million worldwide with 8.4 million being bilaterally blind ( Quigley & Broman, 2006; Quigley, 2011 ). In the United States, the estimated number of individuals who suffer from glaucoma is 2.47 million ( Quigley &Vitale, 1997 ), 2.7 million (National Eye Institute, 2015), or as many as 4 million (source: Prevent Blindness America, The Eye Diseases Prevalence Research Group). Approximately 130,000 Americans are blind from glaucoma ( Quigley & Vitale, 1997 ) and they account for up to 12% of all cases of blindness in the U.S (source: National Eye Health Program/National Institutes of Health). 
+ Age is one of the major risk factors for development of primary open-angle glaucoma (POAG), the most common form of the glaucoma. Due to the rapidly aging population, the worldwide prevalence of glaucoma is increasing. It is estimated, that in 2010 8.4 million people will be blind from POAG, but by the year 2020, there will be 11 million individuals who are blind from glaucoma ( Quigley & Broman, 2006 ), and by the year 2050, that number is expected to double (National Eye Institute). Vision loss seriously impacts the quality of human life. In the case of elderly people, loss of independence because of blindness is particularly worrisome. In addition to the impact which glaucoma has on personal lives, it imposes an economic burden on society. In the United States, glaucoma accounts for almost 9 million visits to physicians each year ( Quigley & Vitale, 1997 ), and the cost to the U.S. government related to this disease is over $1.5 billion annually (source: NEI, Report of the Glaucoma Panel, Fall 1998). 2.2. Glaucoma –risk factors and mechanisms underlying developing neuropathy 
+ The risk factors for POAG development are: age, race and ethnicity. The risk of glaucoma development increases 5-fold in the 5th and 10-fold in the 8th decade of life. Approximately 2% of the population between the ages of 40 and 50 and 8% over 70 has high eye pressure, a major cause of glaucomatous damage. 
+ Glaucoma is considered to be a major cause of blindness in some populations. Data and meta-analysis from 14 studies of Asian participants, 10 studies of black participants, and 24 studies with white participants, showed that the highest prevalence of POAG occurred in the black population (4.23% vs. 2.09% in the white population and 1.41% in the Asian population;Rudnicka, Mt-Isa, Owen, Cook & Ashby, 2006). POAG is the most common form of glaucoma, and shows a prevalence in people of African descent aged 40 or older that is up to 4 times higher and with an earlier onset, poorer prognosis, and more violent course compared to POAG in people of European descent (Caucasian) ( Quigley & Vitale, 1997 ). Americans of African descent are more likely to become blind from glaucoma than Caucasians of the same age, accounting for 26% of all blindness compared to 6.4% in Caucasians (review in Stein & Lee, 2008). The prevalence of POAG in American Latinos age 40 or older is also very high (4.7%), and is considered to be a leading cause of blindness in this group accounting for 28.6% of blindness cases (rev. in Stein & Lee, 2008 ). 
+ Even though primary angle-closure glaucoma (PACG) is less prevalent than open-angle glaucoma, PACG may cause blindness in a higher proportion of patients with this eye disease ( Foster et al., 2000 ). PACG occurs in about 0.5% of whites and blacks over the age of 40 ( Buhrmann et al., 2000 ; Day et al., 2012 ; Mitchell, Smith, Attebo, & Healey, 1996 ; Rotchford, Kirwan, Muller, Johnson, & Roux, 2003 ; Tielsch et al., 1991 ), and occurs in about 0.5–1.5% of Chinese and Indian individuals in the same age group ( He et al., 2006 ; Liang et al., 2011 ; Dandona et al., 2000 ). Of all glaucoma cases in China, 35% suffer from PACG, and 90% of patients blinded by glaucoma have PACG ( Foster & Johnson, 2001 ). Similar findings were reported for Asian Indians, where 41% of patients with PACG were blind in one or both eyes from this condition ( Dandona et al., 2000 ). 
+ The prevalence of primary angle-closure glaucoma is higher in women than in men, owing to an anatomical predisposition in the female globe. However, the relation between POAG and gender is still controversial. In the Baltimore Eye Survey ( Tielsch et al., 1991 ), the Beaver Dam Eye Study ( Klein et al., 1992 ), and the Blue Mountains Eye Study ( Mitchell, Smith, Attebo, &Healey, 1996 ), no significant difference was found between the prevalence of primary open-angle glaucoma in women and men. However, in the Framingham Eye Study ( Kahn et al., 1977 ), the Barbados Eye Study ( Leske, Connell, Schachat, & Hyman, 1994 ), and the Rotterdam Study ( Wolfs et al., 2000 ), up to a two-fold higher prevalence was found in men. Data from the Rotterdam study was recently analyzed again to reveal that women who achieved menopause prior to 45 years of age had a higher likelihood of developing glaucoma than those who achieved it later ( Hulsman et al., 2001 ). This finding would suggest that in POAG female sex hormones possibly protect against the development of glaucoma. 
+ Among the multiple risk factors for glaucoma development, the main and the only potentially modifiable one is intraocular pressure (IOP). Reduction of IOP (pharmacological or surgical) usually impedes the progression of glaucomatous damage. Therefore, IOP is the first factor to be modified at the beginning of long-term therapy. Other risk factors for elevated IOP are related to arteriosclerosis development: age, smoking, hypercholesterolemia, diabetes mellitus and obesity. Normal physiological values of IOP are 11–21 mmHg, and the risk of glaucomatous neuropathy increases as IOP values increase over 21 mmHg. It is proposed that the mechanism of negative impact of elevated IOP is at least tripartite ( Fig. 2 ). First, elevated IOP causes mechanical damage leading to a loss of retinal ganglion cells and their axons, which triggers reactive astrocytosis associated with excessive NO production through NOS activation ( Neufeld & Liu, 2003 ). As a consequence, reactive oxygen species react with NO (important for maintenance of IOP) to produce peroxynitrite, which can damage a wide array of molecules in cells, including DNA and proteins, leading to cell death. Second, the elevated pressure at the level of the lamina cribrosa sclerae leads to an impairment of the retrograde axonal transport of neurotrophins (NTs) from the targets of RGCs in the brain. An impairment of transport may lead to a deficiency of the factors required to maintain homeostasis in retinal cells. Impairment of NT transport was reported in experimental glaucoma in rats ( Pease, McKinnon, Quigley, Kerrigan-Baumrind, & Zack, 2000 ) and was confirmed in spontaneous glaucoma in dogs ( Iwabe et al., 2007 ). Third, elevated IOP has a negative impact on blood supply (reviewed by He, Vingrys, Armitage, &Bui, 2011 ). 
+ Fig.2. 
+ 
+ Open in a new tab 
+ Flow diagram showing key factors involved in the pathogenesis of glaucoma triggered by elevated intraocular pressure and its structural and functional consequences. IOP – intraocular pressure; LGN – lateral geniculate nucleus; ON – optic nerve; RGC – retinal ganglion cell; SC – superior colliculus. 2.3. Normal tension glaucoma 
+ Elevated intraocular pressure remains the main risk factor for glaucomatous changes, but it is not the only reason for glaucoma. In some patients, optic neuropathy develops despite normal intraocular pressure(Tsai & Karim, 2006; Mi et al., 2014 ). Normal tension glaucoma (NTG), also called low-tension glaucoma, is considered to be a type of open-angle glaucoma, but this issue remains controversial (Lestak et al., 2013). NTG accounts for up to 30–40% of glaucoma cases ( Grabska-Liberek, 2015 ; Klein et al., 1992 ), but a higher percentage of NTG was reported for Japanese and Korean populations ( Suzuki et al., 2006 ). This finding points to race as a risk factor for NTG; other major risk factors for NTG are, similarly to POAG: age, sex (women suffer more often from NTG than men) and cardio-vascular diseases ( Orgül, Kaiser, Flammer, &Gasser, 1995 ; Emre, Orgül, Gugleta, & Flammer, 2004 ). 
+ Patients with NTG or POAG present with open angles on gonioscopy, cupping of the optic nerve head and visual field loss. However, NTG has several distinguishing features. Patients with NTG have a greater propensity for optic nerve damage at relatively low levels of IOP. Visual field defects typically appear deeper, steeper and closer to fixation in patients with NTG than in patients with POAG. Additionally, the amount of visual field loss in NTG tends to be greater than one would expect on the basis of optic nerve appearance alone. On ophthalmoscopy, patients with NTG tend to have increased propensity for optic disc hemorrhages compared with patients with POAG. 
+ The etiology of NTG is unclear. Contributing factors may include vasospastic events, hypoperfusion, nocturnal hypotension, hypercoagulability and increased blood viscosity. Vascular dysregulation is evident in patients with NTG, who often report cold hands and feet and demonstrate both low blood pressure and prolonged cessation of blood flow after cold provocation. They often also suffer from various autoimmune disorders and migraine headaches, especially with a visual aura; the latter is more common and frequent in women than in men ( Anderson, 2011 ). 
+ Recently, changes in the blood of patients with NTG, which may be indicative of NTG specificity, have been described. There were differences in gene expression in blood lymphocytes between glaucoma patients and controls, and among glaucoma subgroups ( Fraenkl, Golubnitschaja, Yeghiazaryan, Orgül, & Flammer, 2013 ). That study, albeit limited to the analysis of 22 preselected genes in Caucasian patients, did show that in all glaucoma groups genes were upregulated compared with the control group (9 genes in POAG/PEX; 7 genes in NTG), but it also showed that NTG reveals a specific pattern of gene up-regulation –the genes overexpressed in NTG differed from the ones upregulated in POAG/PEX. It is suggested that the RAR gene (RAR-related orphan receptor C), which is the most statistically significant upregulated gene in the case of NTG, may contribute to NTG pathophysiology. It encodes for a nuclear receptor that regulates gene transcription and is involved in modulation of immune response and apoptosis, which are both described in glaucoma (Quigley et al., 1995; Tezel & Wax, 2004 ; Skonieczna, Grabska-Liberek, Terelak-Borys, & Jamrozy-Witkowska, 2014 ). 
+ Patients who develop glaucomatous damage despite normal IOP or patients with progressing glaucomatous damage despite well-controlled IOP often suffer from primary vascular dysregulation (PVD) combined with a cluster of additional vascular and nonvascular signs and symptoms, called PVD syndrome . This term was recently substituted with the term Flammer syndrome ( Flammer, Konieczka, & Flammer, 2013 ; Konieczka et al., 2014 ). The syndrome may occur in healthy people as well as in people with glaucoma. Typically, the blood vessels of subjects with Flammer syndrome react differently to a number of stimuli, such as cold and physical or emotional stress. Affected subjects tend to have, in addition to the aforementioned symptoms, prolonged sleep onset time, shifted circadian rhythm, reduced feeling of thirst, altered drug sensitivity, and increased general sensitivity, including pain (for a summary of less frequent, general and ocular signs, see Konieczka et al., 2014 ). The plasma level of endothelin-1, the vasoconstricting peptide, is often slightly increased, which may result in an unstable oxygen supply and therefore lead to increased local mitochondrial oxidative stress, a pathophysiological mechanism of glaucomatous optic neuropathy. In the eye, the retinal vessels are stiffer, and their spatial variability is larger; the autoregulation of ocular blood flow is decreased. Glaucoma patients with Flammersyndrome have an increased frequency of the following: optic disc haemorrhages, activated retinal astrocytes, elevated retinal venous pressure, optic nerve compartmentalization, fluctuating diffuse visual field defects, and elevated oxidative stress ( Konieczka et al., 2014 ). 
+ The anatomy of optic nerve is unique compared to other cranial nerves. Being the part of central nervous system, the optic nerve is surrounded by three meninges and cerebrospinal fluid (CSF). The lamina cribrosa of the optic nerve head creates an anatomical border between the intraocular space with its higher pressure and the lower pressure of the retrobulbar space. The pressure gradient created across the lamina cribrosa can be expressed as the difference between the intraocular pressure and the pressure of the cerebrospinal fluid in the retrobulbar and optic nerve tissue space (trans-lamina cribrosa pressure difference or TLPD; Jonas, 2011 ). Abnormally high and/or low TLPDs may have a pathological influence on the physiology of optic nerve head. An elevated TLPD could be provoked by elevated IOP or abnormally low orbital CSF pressure. Abnormally low CSF pressure around the optic nerve may trigger barotraumatic optic nerve damage in normal-tension glaucoma ( Zhang et al., 2014 ). 
+ A low systemic blood pressure, particularly at night, is physiologically associated with a low cerebrospinal fluid pressure, which leads to an abnormally high TLPD and can be compared to the situation when the cerebrospinal fluid pressure is normal and the IOP is elevated. This model could explain why patients with normal-pressure glaucoma tend to have a low systemic blood pressure, and why eyes with normal-pressure or high-pressure glaucoma present such profound similarities in the appearance of the optic nerve head. Both experimental and clinical studies have suggested that a low CSF pressure could be associated with glaucomatous neuropathy in normal tension glaucoma (review in Wang, Yang, Ritch, & Panda-Jonas, 2015) 2.4. Central visual and circadian systems are affected in glaucoma 
+ Changes in glaucoma are not limited to the eyeball (reviewed in Gupta & Yücel, 2007 ). Glaucomatous damage extends from the RGCs to the whole visual pathway: the optic nerve; subcortical visual centres, i.e., the lateral geniculate nucleus (LGN) and superior colliculus (SC); and visual cortex. The static and kinetic perimetry used in diagnosis of glaucoma rest on the assumption that the loss of sensitivity in the visual field is correlated with the loss of RGCs and optic nerve fibres. However, results of psychophysiological studies showed deficits in such features of visual processing as colour and spatial and temporal resolution in subjects with glaucoma but without conventional visual field loss or signs of progressive optic disc cupping ( Breton, Wilson, Wilson, Spaeth, & Krupuk, 1991 ). Degenerative changes are also observed in the circadian system. Thus, glaucoma can lead to desynchronization of biological rhythms that seems unrelated to visual deficits. 
+ 2.4.1. Consequences of glaucoma in the central visual system 
+ According to the concept of parallel processing, in the visual system of mammals and vertebrates in general, information about the visual world is extracted, processed and conveyed from the retina to the brain visual centres by distinct, largely parallel information channels, the so-called P (parvocellular), M (magnocellular) and K (koniocellular) channels in primates (review in Burke, Dreher, & Wang, 1998 ). The P, M and K channels originate in different types of RGCs. Cells belonging to different parallel processing channels differ in morphology but also in many physiological features and are therefore postulated to play different functional roles in vision. The way in which glaucoma affects cells in different processing channels is important because the differences in the degenerative changes in glaucoma will result in selective loss of some visual functions. 
+ Results obtained in the cat unilateral glaucoma model (Y-block model; Burke, Dreher & Wang, 1998 ; Waleszczyk, Wang, Benedek, Burke, & Dreher, 2004 ) indicate that the small increase in the pressure around the optic nerve affects in the first instance large fibres of the Y-pathway (the cat’s homolog of the magnocellular M channel in primates); thus, dorsal LGN layers innervated by the largest RGCs (Y cells) become affected. Similar results have been obtained in experimental glaucoma in monkeys; greater damage to large and medium-sized optic nerve fibres was observed in comparison with smaller fibres ( Quigley, Sanchez, Dunkelberger, L’Hernault, & Baginski, 1987 ). The Y- (M) channel, characterized by low spatial selectivity, high temporal resolution, good responsiveness at high stimulus velocities and nonlinear spatial summation within the receptive field, appears to be involved in the processing of information about fast-moving photic stimuli ( Burke, Dreher & Wang, 1998 ; Dreher, Michalski, Cleland, & Burke,1992 ). Accordingly, in electrophysiological experiments using the cat glaucoma model, mostly processing of visual information about fast movement was affected in subcortical visual structures and in the cortical areas ( Burke, Dreher & Wang, 1998 ; Waleszczyk, Wang, Benedek, Burke, & Dreher, 2004 ). Similarly, in psychophysical tests of patients with glaucoma, greater loss in high temporal frequency sensitivity was observed ( Breton, Wilson, Wilson, Spaeth, & Krupuk, 1991 ; Tyler, 1981 ). 
+ 2.4.1.1. Lateral geniculate nucleus . In an experimental primate model of unilateral glaucoma studied by Gupta and co-workers (reviewed in Yücel, Zhang, Weinreb, Kaufman, & Gupta, 2003 ; Yücel & Gupta, 2008 ), degenerative changes were observed in the magnocellular, parvocellular and koniocellular layers in the dorsal LGN. The authors revealed neuropathological changes in all pathways transmitting visual information from the retina to the visual cortex. These changes were correlated with the severity of optic nerve damage and the intraocular pressure, and although the authors declared a lack of significant differences between pathways, the presented results showed greater susceptibility of the M pathway to an increase in intraocular pressure. Neuropathological changes in the unilateral glaucoma models were also found in layers of the dorsal LGN driven by the unaffected eye. 
+ 2.4.1.2. Superior colliculus . To examine changes in the response profiles of collicular neurons, pressure blocking of selective conduction of Y optic nerve fibres in one eye (the unilateral cat glaucoma model) was used ( Wang, Waleszczyk, Benedek, Burke, & Dreher, 2001 ; Waleszczyk, Wang, Benedek, Burke, & Dreher, 2004 , Fig. 3 ). Application of minimal pressure to the optic nerve selectively inactivated Y-fibres, which are the thickest and the most susceptible to applied pressure ( Burke, Dreher & Wang, 1998 ). Responses of SC cells to high-velocity motion, dependent on the integrity of Y-type input, were also affected. 
+ Fig.3. 
+ 
+ Open in a new tab 
+ Summary of the effect of selective Y-block on the upper cut-off velocities, i.e., the highest velocities of moving photic stimuli at which any response could be evoked in cat SC. In control cats, the upper cut-off velocities for stimuli presented via the ipsilateral eye were usually very similar or slightly lower than those for stimuli presented via the contralateral eye (A and C). By contrast, the upper cut-off velocities for stimuli presented via the ipsilateral (normal) eye were significantly higher than those for stimuli presented via the Y-blocked, contralateral eye (B and C). There was, however, no difference between the upper cut-off velocities of collicular neurons for stimuli presented via the ipsilateral eye in control cats and the upper cut-off velocities for stimuli presented via the ipsilateral eye of Y-blocked cats. As indicated in Fig. 3C , the upper cut-off velocities for stimuli presented via the Y-blocked contralateral eye were significantly lower than those for stimuli presented via the normal contralateral eye (This figure is a modified part of Fig. 9 from Waleszczyk, Wang, Benedek, Burke, & Dreher, 2004 , with permission from Acta Neurobiologiae Experimentalis). 2.4.1.3. Visual cortex . Degenerative changes in the visual cortex were reported in relation to varying degrees of RGC loss in the primate glaucoma model (reviewed in Yücel et al., 2003). Electrophysiological experiments in the cat glaucoma model showed the impairment of movement detection particularly at high velocity, related to the block of the Y-pathway, in all tested visual cortical areas ( Burke, Dreher & Wang, 1998; ). The results of cortical and collicular studies using the cat glaucoma model are consistent with psychophysical studies of glaucoma patients showing greater loss in high temporal frequency sensitivity ( Breton, Wilson, Wilson, Spaeth, & Krupuk, 1991 ; Tyler, 1981 ). Together these studies strongly point to a greater effect of glaucoma on the magnocellular pathway. However, an alternative conclusion could be derived from the research of Vickers and colleagues ( Vickers, 1997 ), who found pre- and post-synaptic neurochemical alterations in both the magnocellular and parvocellular visual pathways in macaque monkeys. 2.4.2. Impact of glaucoma on the circadian system 
+ Studies of glaucomatous central damage in the rat model of glaucoma show that reduction of the retinal projection is not limited to the LGN, SC and visual cortex but extends to the structures of the circadian clock system ( Chiquet et al., 2006 ). RGC loss results in reduced input to the suprachiasmatic nucleus in rats. Recent human studies indicate that the death of ganglion cells in glaucoma leads to a lesion of the retino-hypothalamic tract, which can cause disturbances of circadian clock ( Pérez-Rico, de la Villa, Arribas-Gómez, & Blanco, 2010 ). 3. Glaucoma –current state of the art treatment 
+ Modern aims of glaucoma management are to avoid glaucomatous damage and nerve damage, to preserve the visual field and at the same time to maintain the patient’s quality of life by limiting the side effects of the treatment ( Noecker, 2006 ; Parikh, Navin, Arun, &Thomas, 2008 ). Although intraocular pressure is only one of the major risk factors for glaucoma, lowering it pharmacologically and surgically is currently the mainstay of glaucoma treatment. Intraocular pressure can be lowered with topically administered eye drops, and several different classes of medications are used for this purpose. Among those medications are the following: (1) prostaglandin analogues, which increase uveoscleral outflow of aqueous humour; (2) topical beta-adrenergic receptor antagonists, which decrease aqueous humour production by the ciliary body; (3) alpha2-adrenergic agonists, which act by a dual mechanism, decreasing aqueous humour production and increasing trabecular outflow; (4) miotic agents (parasympathomimetics), which produce contraction of the ciliary muscle, tightening the trabecular meshwork and allowing increased outflow of the aqueous fluid; and (5) carbonic anhydrase inhibitors, which lower secretion of aqueous humour by inhibiting enzyme activity in the ciliary body. However, conventional treatment may be poorly tolerated by patients (i.e., conjunctival hyperaemia, trichiasis), and for many of them, administering eye drops regularly into the conjunctival sac is usually connected with poor compliance. 
+ Conventional glaucoma surgery aims to create a new opening in the meshwork, which helps fluid to leave the eye and lowers intraocular pressure. The most common surgery for glaucoma is the trabeculectomy, aimed to remove a portion of the trabecular meshwork to facilitate aqueous fluid outflow. It may be ineffective due to excessive scarring around or over the flap opening or may generate complications such as endophthalmitis, conjunctival bleb inflammation, excessive outflow and subsequent hypotony, retinal detachment or even eye globe atrophy. As an alternative, canaloplasty, which is a non-penetrating procedure using microcatheter technology, is used. Its target is to gain access to Schlemm’s canal in a similar fashion to a viscocanalostomy ( Lewis et al., 2007 ). 
+ As an alternative to conventional surgical techniques, glaucoma may be treated with laser procedures –trabeculoplasty; argon laser trabeculoplasty, selective laser trabeculoplasty or multipulse laser trabeculoplasty (ALT, SLT or MLT respectively). Trabeculoplasty may be used to temporarily treat open-angle glaucoma with narrow angles –this type of laser surgery can uncover the trabecular meshwork and increase the outflow of aqueous humor. The decrease in IOP evoked by laser trabeculoplasty seems to be similar in all the available laser technologies mentioned above. The ALT procedure is performed with an argon laser which emits light in the green and blue-green range. Argon laser energy is applied to the pigment-containing trabecular meshwork causing thermal damage and coagulative necrosis within the treated structure. Local burns promote shrinkage within trabecular meshwork tissue opening adjacent, untreated regions of the meshwork thereby increasing aqueous humor outflow. The amount of damage caused by the argon laser is not limited to the treated area but extends beyond the trabecular cells that contain melanin. The SLT procedure is performed with a double-frequency, Q-switched Nd:YAG laser. The principles of SLT are very similar to ALT, but it selectively ablates pigmented trabecular meshwork cells minimizing thermal and structural damage to adjacent cells and structures, and promotes biological events ( Wang, He, Zhou, & Zhang, 2013 ). MLT is performed with a diode laser emitting a wavelength of 810 nm. This wavelength is not as efficiently absorbed by melanin as the shorter visible wavelengths of light and therefore it penetrates deeper into the tissues of trabecular meshwork. The differences between ALT, SLT and MLT consist of the side effects and collateral damage within trabecular meshwork. The energy levels with SLT and MLT are less than 1% of those when using ALT, therefore SLT and MLT procedures are a safer alternative to ALT. The ALT may trigger significant side effects such as transient IOP spikes, uveitis, and peripheral anterior synechiae ( Shi & Jia, 2012 ). The SLT procedure initiates a series of biological events that promote IOP reduction without the thermal and structural damage so characteristic for ALT ( Latina & Tumbocon, 2002 ). 
+ Laser iridotomy reduces the risk of attack of acute angle. Diode laser cycloablation lowers IOP by reducing aqueous secretion by destroying the secretory ciliary epithelium ( Noecker, 2006 ). For glaucomatous painful blind eye and some cases of resistant glaucoma, cyclocryotherapy for ciliary body ablation could be recommended. However laser procedures may be ineffective. 
+ Current treatment of NTG also aims at lowering of IOP, which is considered to be a major risk factor for disease progression. Reduction of the IOP by at least 30% has been shown to reduce progressive visual field loss (Collaborative Normal-Tension Glaucoma Study Group). Topical agents that can be used to reduce the IOP include prostaglandin analogues, alpha2-adrenergic receptor agonists, carbonic anhydrase inhibitors and miotics. Beta-blockers can also be used to lower the IOP; however, there is some controversy over whether they decrease perfusion and whether they should be used as first-line agents. Some studies have suggested that alpha2-adrenergic receptor agonists such as brimonidine may have additional neuroprotective effects on the optic nerve, but no conclusive evidence is available to date. Calcium channel blockers may be useful as adjunctive medicaltreatment. 4. Perspectives on the treatment of glaucoma 
+ Currently, the standard treatment for glaucoma is directed towards lowering the IOP. However, reduction of IOP does not always provide the expected effect in the form of arrest or retardation of optic neuropathy. That is why scientists focused on therapeutic strategies other than baroprotection: vasoprotection, immune therapy, complementing neurotrophic factor content and stimulating their cell signalling, neuroenhancement and neuroprotection (for review see Pfeiffer et al., 2013 ). Vasoprotection is based on blood flow improvement within the limits of the optic nerve, because vascular disorders result in oxidative stress, production of free radicals and repetitive reperfusive damage ( He et al., 2011 ). 
+ The foundation of immune therapy is a comparison of glaucomatous changes to neuroinfection, proceeding with elevated production of lymphocytes and activation of inflammatory cytokines. The answer to this pathomechanism of glaucomatous changes is immunomodulatory vaccine, to prolong the lifetime of those RGCs most prone to damage during the disease progression. 
+ A crucial element in the pathophysiology of all forms of glaucoma is the death of RGCs. Strategies that delay or impede RGC loss have been recognized as potentially beneficial to preserve vision in glaucoma; however, the success of these approaches depends on an in-depth understanding of the mechanisms that lead to RGC dysfunction and death. In recent years, there has been an exponential increase in data regarding the molecular basis of RGC death, stemming from animal models of acute and chronic optic nerve injury as well as experimental glaucoma. The emerging landscape is complex and points to a variety of functional disturbances and molecular signals –acting alone or in cooperation –to promote RGC death. Factors that promote the death of RGCs include axonal transport failure, neurotrophic factor deprivation, proapoptotic signalling from pro-neurotrophins, activation of other intrinsic and extrinsic apoptotic signals, mitochondrial fission and dysfunction, excitotoxic damage, oxidative stress, misbehaving reactive glia and loss of synaptic connectivity. An example of a molecular target of treatment focused on neuroprotection is the p53 protein (for direct neuroprotection). Baroprotection, or conventional treatment related to IOP decrease, can be classified as indirect neuroprotection. Notably, some IOP-lowering β-blockers and α−adrenergic receptor agonists are neuroprotective by a mechanism that is not described by IOP lowering alone but also by regulation of calcium and sodium channels that play a role in the release of glutamate and, further along the pathway, activation of glutamatergic N-methyl-D-aspartate (NMDA) receptors ( Osborne, 2009 ; Wood et al., 2003). Additionally, upregulation of brain derived neurotrophic factor (BDNF) in the retina was reported with these drugs ( Gao, Qiao, Cantor, & WuDunn, 2002 ; Wood, DeSantis, Chao, & Osborne, 2001 ). Neuroprotection may impede RGC loss through two mechanisms. The first mechanism is receptor-mediated and leads to an activation of a phosphoinositide-3 kinase cascade to inhibit an intrinsic mitochondrial apoptotic pathway. The second involves inhibition of toxic factors such as elevated levels of glutamic acid, which by overactivation of NMDA receptors leads to prolonged opening of ion channels, influx of calcium ions, abundant production of free radicals, increased activity of protein-degrading enzymes and finally, cell disintegration. Among the molecules, both natural and synthetic, which counteract these effects causing neuroprotection in a receptor-dependent or receptor-independent way, are antioxidants, antagonists of NMDA receptors, calcium channel blockers, galantamine (an acetylcholinesterase inhibitor), NTs, acetylsalicylic acid, Ginkgo biloba extracts, resveratrol, fish oil and omega-3 acids (review 3in Dahlmann-Noor et al., 2010 ). 
+ Thus far, convincing evidence that any neuroprotective substance is effective in glaucoma treatment is lacking ( Sena, Ramchand, & Lindsley, 2010 ). Despite numerous animal studies and short-term clinical trials showing positive effects of neuroprotective agents, no long-term randomized controlled trials confirmed prevention of RGC death. For example, a large phase 3 clinical trial studying the efficacy and safety of memantine, an inhibitor of excessive NMDA receptor activity, which has been shown to have neuroprotective action in an animal model of optic nerve ischemia ( Kim, Park, &Kim, 2002 ), did not conclude positively ( Osborne, 2009 ). 5. Role of neurotrophic signaling and other trophic proteins in survival of retinal ganglion cells 
+ The role of neurotrophic factors as survival factors for developing RGCs is now well established ( Cui, So, & Yip, 1998 ; von Bartheld, 1998 ; Bahr, 2000 ). As mentioned earlier, in the healthy eye, NTs are acquired by retrograde axoplasmic transport from central targets of RGCs (e.g., BDNF is produced in the SC of adult rodents; Fournier et al., 1997 ; Herzog & Bartheld, 1997; Hofer Pagliusi, Hohn, Leibrock, & Barde, 1990 ; Wetmore, Ernfors, Persson, & Olson, 1990 ) as well as synthesized in situ in the ganglion cells ( Guo et al., 2009 ; Perez & Caminoz, 1995 ; Spalding, Rush, & Harvey, 2004 ; Vecino et al., 2002 ) and in Müller glial cells ( Seki et al., 2005 ). Mature forms of NTs regulate neuronal survival and development by binding to two membrane receptors: high-affinity tropomyosin-related kinase (Trk) receptors, which mediate a pro-survival response, and low-affinity p75 NT receptors, which may mediate signals initiating a signaling cascade towards apoptotic cell death ( Bai et al., 2010a , b ; Cellerino and Kohler, 1997 ). Therefore, the effectiveness of NTs depends not only on their availability in RGCs but also on the type and abundance of the receptors they activate on receptive cells (reviewed in von Bartheld, 1998 ; Dahlmann-Noor, 2010 ). The selective cellular distribution of TrkA, TrkB and p75NT receptors on developmentally and functionally different cell types in the retina prompted the use of NGF and BDNF to study neurotrophic mechanisms in experimental models of neurodegeneration ( Lebrun-Julien, Morquette, Douillette, Saragovi, & Di Polo, 2009 ; Lebrun-Julien et al., 2010 ; Pease et al., 2000 ). In experimental rat glaucoma, the transport of BDNF and its TrkB receptor molecules is interrupted ( Pease et al., 2000 ); in these conditions, replacement BDNF injected into the vitreous, which compensates for deficits in BDNF levels, can temporarily slow down RGC loss. BDNF also retards RGC and inner retinal neuronal loss after retinal hypoxia and optic nerve transection ( Domenici et al., 2014 ; Martin et al., 2003 ). 
+ Other trophic factors also may be protective to RGCs including: ciliary neurotrophic factor (CNTF), NT-4/5 and nerve growth factor (NGF), insulin-like growth factor-1 (IGF-1), granulocyte-colony stimulating factor, glial-derived neurotrophic factor (GDNF), and neurturin ( Parrilla-Reverter et al., 2009 ; for review see Dahlmann-Noor, Vijay, Limb, & Khaw, 2010 ). The effectiveness of combined strategies expected to increase the probability of neuroprotection has also been investigated. BDNF combined with GDNF, neurturin, or intraocular inflammation has additive effects on survival, although the combination of BDNF, GDNF and neurturin suppresses axon regeneration ( Koeberle & Ball, 2002 ; Pernet & Di Polo, 2006 ). More recently, it has been shown that BDNF promotes RGC survival in the eye with elevated intraocular pressure, when combined with molecules that neutralize negative regulators of trophic pathways, such as Leucine-rich repeat and immunoglobulin domain-containing protein (Lingo-1 protein) ( Fu et al., 2009 ). CNTF is expressed in the retina under stressful conditions such as experimental ocular hypertension and optic nerve trauma and stimulates intracellular signalling in RGCs, Müller glial cells and astrocytes. It is a particularly promising therapeutic owing to its combined neuroprotective and pro-regenerative potential, which provided good rationale for ongoing clinical trials. 
+ 5.1. Shortcomings of BDNF treatment and new directions in experimental therapy 
+ Because multiple intravitreal injections of BDNF are necessary to achieve a significant beneficial effect, the clinical usefulness of intraocular delivery of BDNF protein as an adjunct to IOP reduction in glaucoma therapy is reduced. The pharmacologic use of BDNF affords relatively short-lived neuroprotection, and efficacy with BDNF requires its administration at high doses or high frequency. It is unclear why high doses of exogenous BDNF are required when no obvious retinal deficits of this protein have been found in experimental glaucoma. Another conundrum is why high frequency of BDNF administration is required, when neurotrophins activate Trk receptors with sustained kinetics (discussed in Bai et al., 2010b ). Because the relative failure of BDNF may be attributed to poor pharmacokinetics or to poor or transient activation of retinal Trk receptors for BDNF (TrkB receptors) in vivo , a new concept has emerged of the use of antibodies that act as selective Trk receptor agonists, cause long-lived TrkB activation and significantly delay RGC death in the model studies in vivo ( Bai et al., 2010b ). 5.2. Gene therapy in glaucoma 
+ Until now, gene therapy in glaucoma targeted reconstruction of the trabecular meshwork to improve aqueous humour outflow and the ciliary body epithelium to change its neuroendocrine activity, reduce aqueous humour production and improve aqueous humour outflow ( Wilson & Di Polo, 2012 ). Gene delivery to the retina by viral vectors has been shown to be effective in reducing structural and functional damage in several models of ocular diseases. However, vectors based on adenovirus are limited by the relatively short duration of efficient transgene expression and by their propensity to induce inflammation. By contrast, adeno-associated viral (AAV) vectors are capable of long-term transgene expression in different cells of the central nervous system, including retina, and cause minimal ocular inflammation in a broad range of host species ( Colella & Auricchio, 2010 ; Schön, Biel, & Michalakis, 2015 ; Ziemlinska et al., 2014). If BDNF supply is secured through AAV-mediated BDNF transgene expression over a few weeks, the RGC neuroprotection is significant, pointing to gene therapy as a promising strategy to promote RGC survival in glaucoma ( Martin et al., 2003 ). Data on the long-term effect and safety of increased diffusible neurotrophin levels in the retina are very limited ( Kauper et al., 2012 ; Wilson & Di Polo, 2012 ) with the longest period of 4 months reported for mice with neural stem (NS) cells based delivery of CNTF ( Flachsbarth et al., 2014 ). Sustained AAV-mediated expression of CNTF or BDNF leads to changes in the dendritic structure of transduced RGCs ( Harvey, Hellström, & Rodger, 2009 ). Further studies should disclose whether this morphological plasticity has a tangible effect on function of RGCs and higher order visual centres. 5.3. Other approaches aiming to deliver trophic factors 
+ In preclinical models, in adult mice, intravitreally grafted NS cells genetically modified to secrete CNTF preferentially differentiate into astrocytes that survive in the host eyes, stably express CNTF, and significantly attenuate the loss of the axotomized RGCs sixfold, over a period of at least 4 months ( Flachsbarth et al., 2014 ). NS-derived CNTF also induces long-distance regrowth of the lesioned RGC axons ( Flachsbarth et al., 2014 ). Transplantation of human neuronal progenitor cells, which can adopt an RGC-like morphology, transfected with a vector that expresses IGF-1, protects against RGC death and down-regulates inflammatory, and to some extent, angiogenic molecular markers in a murine model of glaucoma ( Ma et al., 2015 ). 
+ Very recently, an implantable polymeric device containing a genetically modified human cell line that secretes CNTF into the vitreous (NT-501; intraocular encapsulated cell technology (ECT)-implant) has become available. A phase 2 clinical trial showed that the NT-501 implant was well tolerated with variable, but positive, improvements in visual acuity and without significant adverse effects in patients with retinitis pigmentosa and age-related macular degeneration. CNTF secretion was maintained at similar levels even after 2 years, suggesting that long-term drug delivery is feasible in the human eye ( Emerich &Thanos, 2008 ; Kauper et al., 2012 ). A safety and efficacy trial of the NT-501 ECT implant in POAG was completed in December 2014 with no published outcome yet (see ClinicalTrials.gov numbers, NCT00063765 , NCT00447954 , NCT00447980 , NCT00447993 , NCT01408472 ). 
+ A promising tool for glaucoma treatment and potent neuroprotection of RGCs is transorbital alternatingcurrent stimulation (ACS). It has been shown that transcorneal electrical stimulation in rats with optic nerve transection could rescue the axotomized RGCs by increasing the level of IGF-1 production by Müller cells ( Morimoto et al., 2005 ). Transorbital ACS has been shown to be an effective tool for vision restoration in patients with visual field loss following optic nerve injury. Ten days of transorbital ACS resulted in enhanced visual functions, enlarged visual fields, improved visual acuity and reaction time, and improved vision-related quality of life ( Fedorov et al., 2011 ; Gall et al., 2011 ; Sabel et al., 2011 ). The postulated therapeutic mechanisms for vision restoration following transcorneal ACS, apart from neuroprotection of RGCs by increasing the level of IGF-1 production by Müller cells, include facilitation of retino-thalamo-cortical transmission by synchronization of activity in the visual pathway ( Foik et al., 2015 ), enhancement of alpha oscillatory brain activity ( Schmidt et al., 2013 ) and connectivity changes in the visual processing brain network (Bola et al., 2014). 6. Conclusions 
+ Glaucoma can cause blindness when left untreated. However, despite medications or surgical treatment effectively leading to lowering of the intraocular pressure, progression of glaucomatous changes and loss of vision is common among patients with glaucoma. According to the Glaucoma Research Foundation, approximately 10% of people with glaucoma who receive proper treatment leading to reduction of ocular hypertension will experience progressive loss of vision. A series of clinical trials (Advanced Glaucoma Intervention Study, Collaborative Normal Tension Glaucoma Study, Collaborative Initial Glaucoma Treatment Study Trial, Early Manifest Glaucoma Trial; reviewed in Vasudevan, Gupta, & Crowston, 2011 ) clearly indicate that reduction of intraocular pressure does not prevent RGC loss. Therefore, further elucidation of the pathophysiological changes in glaucoma, understanding of anatomical and cellular barriers to treatments and development of new methods of therapy, which take into account neuroprotection of RGCs, are imperative ( Vasudevan et al., 2011 ; Alqawlaq, Huzil, Ivanova, & Foldvari, 2012 ). 
+ We reviewed the literature regarding the degenerative cascade involved in glaucomatous damage and to identify potential therapeutic agents; over a decade has passed since a number of promising areas of research for new glaucoma therapies were identified. Potential therapeutic compounds include glutamate antagonists, calcium channel blockers, antioxidants, nitric oxide synthase inhibitors, NTs, and anti-apoptotic agents (Hartwick, 2001). The neuroprotective potential of NTs was proved in the mammalian retina and optic nerve after axotomy, as well as following general central nervous system dysfunctions (i.e., chronic brain hypoperfusion and circulatory diseases ( Parrilla-Reverter et al., 2009 ; Sivilia et al., 2009 ; reviewed in Dahlmann-Noor, Vijay, Limb, & Khaw, 2010 ). Although solid data on the neuroprotective activity of neurotrophic factors towards RGC in rodent glaucoma models have also been collected (see discussion in Weber & Harman, 2008a ; Weber, Harman, & Viswanathan, 2008b ) and a number of clinical trials with trophic factors have been undertaken ( Sena et al., 2010 ), no method of neuroprotection has proven to be fully satisfactory in the treatment of glaucoma. The only agent for which a positive neuroprotective effect has been shown to occur in human glaucoma is brimonidine (α-adrenergic receptor agonist) ( Thelen, Buchholz, & Kimmich, 2009 ). 
+ Recently, BDNF was shown to promote RGC survival in an eye with elevated IOP in a rat model of glaucoma ( Domenici et al., 2014 ; Fu et al., 2009 ; Martin et al., 2003 ). Importantly, BDNF also plays a role in preserving the structural integrity and visual responsiveness of these neurons ( Weber & Harman, 2008 ; Weber et al., 2008 ). These attributes make BDNF a strong candidate for further studies, which should focus on the control of BDNF delivery and maintenance of its TrkB receptor responsiveness over the long term. Another promising molecule is CNTF, which has been demonstrated in multiple pre-clinical models to enhance the survival and regeneration of retinal ganglion cells in glaucoma. Because the effectiveness of NTs depends not only on their availability but also on the region of the neuron (soma or axon terminal) to which NT(s) have been applied, and the levels of their Trk receptors which transduce the NT signal to the cell, current research is directed towards (1) the development of methods for the long-term maintenance of a controllable intraocular level of NTs with advanced gene therapy and topical eye treatment and (2) search for selective Trk receptor agonists affording more efficient neuroprotection. Development of neuroprotective nanomedicine, which provides carriers (immunoliposomes, magnetic and solid lipid nanoparticles, and polymeric micelles, currently tested for capacity in non-viral gene delivery to the retina), is expected to bring progress towards noninvasive therapy with trophic factors and other prosurvival compounds in glaucoma ( Alqawlaq, Huzil, Ivanova, & Foldvari, 2012 ). Research on the effectiveness of these treatments extended beyond the retina is indispensible. Finally, other methods shown to be effective in the improvement of visual function, such as electrical stimulation and visual training, must be considered in the treatment of patients with glaucoma. Acknowledgments 
+ This work was supported by funds from the Nencki Institute of Experimental Biology and grant ERA-NET NEURON “Restoration of Vision after Stroke (REVIS)” (WJW: NCBR Grant ERA-NET NEURON/08/2012). References 
+ 
+ 
+ 
+Agapova O.A., Kaufman P.L., Lucarelli M.J., & Hernandez M.R. (2003). Differential expression of matrix metalloproteinases in monkey eyes with experimental glaucoma or optic nerve transection. Brain Research, 967, 132–143. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Alqawlaq S., Huzil J.T., Ivanova M.V., & Foldvari M. (2012). Challenges in Neuroprotective Nanomedicine Development: Progress Towards Noninvasive Gene Therapy of Glaucoma. Nanomedicine, 7, 1067–1083. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Anderson D.R. (2011). Normal-tension glaucoma (Low-tension glaucoma). Indian Journal of Ophthalmology, 59, 97–101. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Bahr M. (2000). Live or let die: Retinal ganglion cell death and survival during development and in the lesioned adult CNS. Trends in Neurosciences, 23, 483–490. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Bai Y., Dergham P., Nedev H., Xu J., Galan A., Rivera J.C., ZhiHua S., Mehta H.M., Woo S.B., Sarunic M.V., Neet K.E., & Saragovi H.U. (2000. 
+a
+Chronic and acute models of retinal neurodegeneration TrkA activity are neuroprotective whereas p75NTR activity is neurotoxic through a paracrine mechanism. The Journal of Biological Chemistry, 285, 39392–39400. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Bai Y., Xu J., Brahimi F., Zhuo Y., Sarunic M.V., & Saragovi H.U. (2000. 
+b
+An agonistic TrkB mAb causes sustained TrkB activation, delays RGC death, and protects the retinal structure in optic nerve axotomy and in glaucoma. Investigative Ophthalmology & Visual Science, 51, 4722–4731. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Bola M., Gall C., Moewes C., Fedorov A., Hinrichs H., & Sabel B.A. (2014). Brain functional connectivity network breakdown and restoration in blindness. Neurology, 83, 542–551. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Breton M.E., Wilson T.W., Wilson R., Spaeth G.L., & Krupuk T. (1991). Temporal contrast sensitivity loss in primary open-angle glaucoma and glaucoma suspects. Investigative Ophthalmology & Visual Science, 32, 2931–2941. [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Buhrmann R.R., Quigley H.A., Barron Y., West S.K., Oliva M.S., & Mmbaga B.B. (2000). Prevalence of glaucoma in a rural East African population. Investigative Ophthalmology & Visual Science, 41, 40–48. [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Burke W., Dreher B., & Wang C. (1998). Selective block of conduction in Y optic nerve fibres: Significance for the concept of parallel processing. European Journal of Neuroscience, 10, 8–19. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Cellerino A., & Kohler K. (1997). Brain-derived neurotrophic factor/neurotrophin-4 receptor TrkB is localized on ganglion cells and dopaminergic amacrine cells in the vertebrate retina. Journal of Comparative Neurology, 386, 149–160. [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Chiquet C., Drouyer E., Woldemussie E., Ruiz G., Wheeler L., Denis P., Cooper H., & Romanet J.P. (2006). Consequences of glaucoma on circadian and central visual systems. Journal Francais Ophtalmologie, 29, 847–851. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Colella P., & Auricchio A. (2010). AAV-mediated gene supply for treatment of degenerative and neovascular retinal diseases. Current Gene Therapy, 10, 371–380. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Collaborative Normal-Tension Glaucoma Study Group (1998). Comparison of glaucomatous progression between untreated patients with normal-tension glaucoma and patients with therapeutically reduced intraocular pressures. American Journal of Ophthalmology, 126, 487–497. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Coorey N.J., Shen W., Chung S.H., Zhu L., & Gillies M.C. (2012). The role of glia in retinal vascular disease. Clinical and Experimental Optometry, 95, 266–281. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Cui Q., So K.F., & Yip H.K. (1998). Major biological effects of neurotrophic factors on retinal ganglion cells in mammals. Biological Signals and Receptors, 7, 220–226. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Dahlmann-Noor A.H., Vijay S., Limb G.A., & Khaw P.T. (2010). Strategies for optic nerve rescue and regeneration in glaucoma and other optic neuropathies. Drug Discovery Today, 15, 287–299. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Dandona L., Dandona R., Mandal P., Srinivas M., John R.K., McCarty C.A., & Rao G.N. (2000). Angle-closure glaucoma in an urban population in southern India. The Andhra Pradesh eye disease study. Ophthalmology, 107, 1710–1716. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Day A.C., Baio G., Gazzard G., Bunce C., Azuara-Blanco A., Munoz B., Friedman D.S., & Foster P.J. (2012). The prevalence of primary angle closure glaucoma in European derived populations: A systematic review. British Journal of Ophthalmology, 96, 1162–1167. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Di Polo A., Aigner L.J., Dunn R.J., Bray G.M., & Aguayo A.J. (1998). Prolonged delivery of brain-derived neurotrophic factor by adenovirus-infected Muller cells temporarily rescuesinjured retinal ganglion cells. Proceedings of the National Academy of Science USA, 95, 3978–3983. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Domenici L., Origlia N., Falsini B., Cerri E., Barloscio D., Fabiani C., Sansò M., & Giovannini L. (2014). Rescue of retinal function by BDNF in a mouse model of glaucoma. PLoS One, 9, e115579. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Downs C.J., Roberts M.D., & Sigal I.A. (2011). Glaucomatous cupping of the lamina cribrosa: A review of the evidence for active progressive remodeling as a mechanism. Experimental Eye Research, 93, 133–140. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Dreher B., Michalski A., Cleland B.G., & Burke W. (1992). Effects of selective pressure block of Y-type optic nerve fibers on the receptive-field properties of neurons in area 18 of the visual cortex of the cat. Visual Neuroscience, 9, 65–78. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Emerich D.F., & Thanos C.G. (2008). Multifunctional peptide-based nanosystems for improving delivery and molecular imaging. Current Opinion in Molecular Therapeutics, 10, 132–139. [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Emre M., Orgül S., Gugleta K., & Flammer J. (2004). Ocular bood flow alteration in glaucoma is related to systemic vascular dysregulation. British Journal of Ophthalmology, 88, 662–666. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Fedorov A., Jobke S., Bersnev V., Chibisova A., Chibisova Y., Gall C., & Sabel B.A. (2011). Restoration of vision after optic nerve lesions with noninvasive transorbital alternating current stimulation: A clinical observational study. Brain Stimulation, 4, 189–201. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Flachsbarth K., Kraszewski K., Jung G., Jankowiak W., Riecken K., Wagenfeld L., Richard G., Fehse B., & Bartsch U. (2014). Neural stem cell-based intraocular administration of ciliary neurotrophic factor attenuates the loss of axotomized ganglion cells in adult mice. Investigative Ophthalmology & VisualScience, 55, 7029–7039. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Flammer J., Konieczka K., & Flammer A.J. (2013). The primary vascular dysregulation syndrome: Implications for eye diseases. EPMA Journal, 4, 14. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Foik A.T., Kublik E., Sergeeva E.G., Tatalisumak T., Rossini P.M., Sabel B.A., & Waleszczyk W.J. (2015). Retinal origin of electrically evoked potentials in response to transcorneal alternating current stimulation in the rat. Investigative Ophthalmology & Visual Science, 56, 1711–1718. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Foster P.J., & Johnson G.J. (2001). Glaucoma in China: How big is the problem?
+British Journal of Ophthalmology, 85, 1277–1282. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Foster P.J., Oen F.T., Machin D., Ng T.P., Devereux J.G., Johnson G.J., Khaw P.T., & Seah S.K. (2000). The prevalence of glaucoma in Chinese residents of Singapore: A cross-sectional population survey of the Tanjong Pagar district. Archives Ophthalmology, 118, 1105–1111. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Fournier A.E., Beer J., Arregui C.O., Essagian C., Aguayo A.J., & McKerracher L. (1997). Brain-derived neurotrophic factor modulates GAP-43 but not T alpha expression in injured retinal ganglion cells of adult rats. Journal of Neuroscience Research, 47, 561–572. [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Fraenkl S.A., Golubnitschaja O., Yeghiazaryan K., Orgül S., & Flammer J. (2013). Differences in gene expression in lymphocytes of patients with high-tension, PEX, and normal-tension glaucoma and in healthy subjects. European Journal ofOphthalmology, 23, 841–849. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Fu Q.L., Li X., Yip H.K., Shao Z., Wu W., Mi S., & So K.F. (2009). Combined effect of brain-derived neurotrophic factor and LINGO-1 fusion protein on long-term survival of retinal ganglion cells in chronic glaucoma. Neuroscience, 162, 375–382. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Gall C., Sgorzaly S., Schmidt S., Brandt S., Fedorov A., & Sabel B.A. (2011). Noninvasive transorbital alternating current stimulation improves subjective visual functioning and vision-related quality of life in optic neuropathy. Brain Stimulation, 4, 175–188. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Gao H., Qiao X., Cantor L.B., & WuDunn D. (2002). Up-regulation of brain-derived neurotrophic factor expression by brimonidine in rat retinal ganglion cells. Archives of Ophthalmology, 120(6), 797–803. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Grabska-Liberek I., Skonieczna K., Olesińska M., Terelak-Borys B., Kocięcki J., Sikora M., Jamrozy-Witkowska A., Tesla P., & Czarnocka B. (2015). Levels of antibodies against human heat shock protein (HSP) 60 in patients with glaucoma in Poland. Medical Science Monitor, 21, 828–832. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Guo Y., Johnson E., Cepurna W., Jia L., Dyck J., & Morrison J.C. (2009). Does elevated intraocular pressure reduce retinal TRKB-mediated survival signaling in experimental glaucoma?
+Experimental Eye Research, 89, 921–933. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Gupta N., Ly T., Zhang Q., Kaufman P.L., Weinreb R.N., & Yücel Y.H. (2007). Chronic ocular hypertension induces dendrite pathology in the lateral geniculate nucleus of the brain. Experimental Eye Research, 84, 176–184. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Gupta N., & Yücel Y.H. (2007). Glaucoma as a neurodegenerative disease. Current Opinion in Ophthalmology, 18, 110–114. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Harvey A.R., Hellström M., & Rodger J. (2009). Gene therapy and transplantation in the retinofugal pathway. Progress in Brain Research, 175, 151–161. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+He M., Foster P.J., Ge J., Huang W., Zheng Y., Friedman D.S., Lee P.S., & Khaw P.T. (2006). Prevalence and clinical characteristics of glaucoma in adult Chinese: A population-based study in Liwan District, Guangzhou. InvestigativeOphthalmology & Visual Science, 47, 2782–2788. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+He Z., Vingrys A.J., Armitage J.A., & Bui B.V. (2011). The role of blood pressure in glaucoma. Clinical and Experimental Optometry, 94, 133–149. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Herzog K.H., & von Bartheld C.S. (1998). Contributions of the optic tectum and the retina as sources of brain-derived neurotrophic factor for retinal ganglion cells in the chick embryo. The Journal of Neuroscience, 18, 2891–2906. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Hofer M., Pagliusi S.R., Hohn A., Leibrock J., & Barde Y.A. (1990). Regional distribution of brain-derived neurotrophic factor mRNA in the adult mouse brain. The EMBO Journal, 9, 2459–2464. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Hu Y., Cho S., & Goldberg J.L. (2010). Neurotrophic effect of a novel TrkB agonist on retinal ganglion cells. Investigative Ophthalmology & Visual Science, 51, 1747–1754. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Hulsman C.A., Westendorp I.C., Ramrattan R.S., Wolfs R.C., Witteman J.C.M., Vingerling J.R., Hofman A., & de Jong P.T.V.M. (2001). Is open-angle glaucoma associated with early menopause? The Rotterdam Study. American Journal ofEpidemiology, 154, 138–144. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Iwabe S., Moreno-Mendoza N.A., Trigo-Tavera F., Crowder C., & García-Sánchez G.A. (2007). Retrograde axonal transport obstruction of brain-derived neurotrophic factor (BDNF) and its TrkB receptor in the retina and optic nerve of American Cocker Spaniel dogs with spontaneous glaucoma. Veterinary Ophthalmology, 10(Suppl 1), 12–9. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Jonas J.B. (2011). Role of cerebrospinal fluid pressure in the pathogenesis of glaucoma. Acta Ophthalmologica, 89, 505–514. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Jonas J.B., Wang N., Yang D., Ritch R., & Panda-Jonas S. (2015). Facts and myths of cerebrospinal fluid pressure for the physiology of the eye. Progress in Retinal and Eye Research, 46, 67–83. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Kahn H.A., Leibowitz H.M., Ganley J.P., Kini M.M., Colton T., Nickerson R.S., & Dawber T.R. (1977). The Framingham Eye Study: I. Outline and major prevalence findings. American Journal of Epidemiology, 106, 17–32. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Kauper K., McGovern C., Sherman S., Heatherton P., Rapoza R., Stabila P., Dean B., Lee A., Borges S., Bouchard B., & Tao W. (2012). Two-year intraocular delivery of ciliary neurotrophic factor by encapsulated cell technology implants in patients with chronic retinal degenerative diseases. Investigative Ophthalmology & Visual Science, 53, 7484–7491. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Kim T.W., Kim D.M., Park K.H., & Kim H. (2002). Neuroprotective effect of memantine in a rabbit model of optic nerve ischemia. Korean Journal of Ophthalmology, 16, 1–7. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Klein B.E.K., Klein R., Sponsel W.E., Franke T., Cantor L.B., Martone J., & Menage M.J. (1992). Prevalence of glaucoma: The Beaver Dam Eye Study. Ophthalmology, 99, 1499–1504. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Koeberle P.D., & Ball A.K. (2002). Neurturin enhances the survival of axotomized retinal ganglion cells in vivo : Combined effects with glial cell line-derived neurotrophic factor and brain-derived neurotrophic factor. Neuroscience, 110, 555–567. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Konieczka K., Ritch R., Traverso C.E., Kim D.M., Kook M.S., Gallino A., Golubnitschaja O., Erb C., Reitsamer H.A., Kida T., Kurysheva N., & Yao K. (2014). Flammer syndrome. EPMA Journal, 5, 11. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Latina M.A., & Tumbocon J.A. (2002). Selective laser trabeculoplasty: A new treatment option for open angle glaucoma. Current Opinion in Ophthalmology, 13, 94–96. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Lebrun-Julien F., Bertrand M.J., De Backer O., Stellwagen D., Morales C.R., Di Polo A., & Barker P.A. (2010). ProNGF induces TNFalpha-dependent death of retinal ganglion cells through a p75NTR non-cell-autonomous signaling pathway. Proceedings of the National Academy of Science U S A, 107, 3817–3822. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Lebrun-Julien F., Morquette B., Douillette A., Saragovi H.U., & Di Polo A. (2009). Inhibition of p75(NTR) in glia potentiates TrkA-mediated survival of injured retinal ganglion cells. Mol Cell Neuroscience, 40, 410–420. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Leske M.C., Connell A.M., Schachat A.P., & Hyman L. (1994). The Barbados Eye Study. Prevalence of open angle glaucoma. Archives of Ophthalmology, 112, 821–829. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Lewis R.A., von Wolff K., Tetz M., Korber N., Kearney J.R., Shingleton B., & Samuelson T.W. (2007). Canaloplasty: Circumferential viscodilation and tensioning of Schlemm’s canal using a flexible microcatheter for the treatment of open-angle glaucoma in adults: interim clinical study analysis. Journal of Cataract & Refractive Surgery, 33, 1217–1226. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Lestak J., Tintera J., Svata Z., Ettler L., & Rozsival P. (2014). Glaucoma and CNS. Comparison of fMRI results in high tension and normal tension glaucoma. Biomedical papers of the Medical Faculty of the University Palacky, Olomouc, Czechoslovakia, 158(1), 144–153. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Liang Y., Friedman D.S., Zhou Q., Yang X.H., Sun L.P., Guo L., Chang D.S., Lian L., Wang N.L., Handan Eye Study Group (2011). Prevalence and characteristics of primary angle-closure diseases in a rural adult Chinese population: The Handan Eye Study. Investigative Ophthalmology & Visual Science, 52, 8672–8679. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Ma J., Guo Chenying, Guo C.Caiwei, Sun Y., Liao T., Beattie U., López F.J., Feng Chen D.F., & Kameran Lashkari K. (2015). Transplantation of Human Neural Progenitor Cells Expressing IGF-1 Enhances Retinal Ganglion Cell Survival. PLoS One, 10, e0125695. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Mansour-Robaey S., Clarke D.B., Wang Y.C., Bray G.M., & Aguayo A.J. (1994). Effects of ocular injury and administration of brain-derived neurotrophic factor on survival and regrowth of axotomized retinal ganglion cells. Proceedings of the National Academy of Science USA, 91, 1632–1636. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Martin K.R., Quigley H.A., Zack D.J., Levkovitch-Verbin H., Kielczewski J., Valenta D., Baumrind L., Pease M.E., Klein R.L., & Hauswirth W.W. (2003). Gene therapy with brain-derived neurotrophic factor as a protection: Retinal ganglion cells in a rat glaucoma model. Investigative Ophthalmology & Visual Science, 44, 4357–4365. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Mey J., & Thanos S. (1993). Intravitreal injections of neurotrophic factors support the survival of axotomized retinal ganglion cells in adult rats. Brain Research, 602, 304–317. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Mi X.S., Yuan T.F., & So K.F. (2014). The current research status of normal tension glaucoma. Clinical Interventive Aging, 9, 1563–1571. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Mitchell P., Smith W., Attebo K., & Healey P.R. (1996). Prevalence of open-angle glaucoma in Australia. The Blue Mountains Eye Study. Ophthalmology, 103, 1661–1669. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Morimoto T., Miyoshi T., Matsuda S., Tano Y., Fujikado T., & Fukuda Y. (2005). Transcorneal electrical stimulation rescues axotomized retinal ganglion cells by activating endogenous retinal IGF-1 system. Investigative Ophthalmology & Visual Science, 46, 2143–2147. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Neufeld A.H., & Liu B. (2003). Glaucomatous optic neuropathy: When glia misbehave. Neuroscientist, 9, 485–495. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Noecker R.J. (2006). The management of glaucoma and intraocular hypertension: Current approaches and recent advances. Journal of Therapeutics and Clinical Risk Management, 2, 193–206. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Orgül S., Kaiser H.J., Flammer J., & Gasser P. (1995). Systemic blood pressure and capillary blood-cell velocity in glaucoma patients: A preliminary study. European Journal of Ophthalmology, 5, 88–91. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Osborne N.N. (2009). Recent clinical findings with memantine should not mean that the idea of neuroprotection in glaucoma is abandoned. Acta Ophthalmologica, 87, 450–454. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Parikh R.S., Parikh S.R., Navin S., Arun E., & Thomas R. (2008). Practical approach to medical management of glaucoma. Indian Journal of Ophthalmology, 56, 223–230. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Parrilla-Reverter G., Agudo M., Sobrado-Calvo P., Salinas-Navarro M., Villegas-Pérez M.P., & Vidal-Sanz M. (2009). Effects of different neurotrophic factors on the survival of retinal ganglion cells after a complete intraorbital nerve crush injury: A quantitative in vivo study. Experimental Eye Research, 89, 32–41. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Pease M.E., McKinnon S.J., Quigley H.A., Kerrigan-Baumrind L.A., & Zack D.J. (2000). Obstructed axonal transport of BDNF and its receptor TrkB in experimental glaucoma. Investigative Ophthalmology & Visual Science, 41, 764–774. [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Perez M.T., & Caminos E. (1995). Expression of brain-derived neurotrophic factor and of its functional receptor in neonatal and adult rat retina. Neuroscience Letters, 183, 96–99. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Pérez-Rico C., de la Villa P., Arribas-Gómez I., & Blanco R. (2010). Evaluation of functional integrity of the retinohypothalamic tract in advanced glaucoma using multifocal electroretinography and light-induced melatonin suppression. Experimental Eye Research, 91, 578–583. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Pernet V., & Di Polo A. (2006). Synergistic action of brain-derived neurotrophic factor and lens injury promotes retinal ganglion cell survival, but leads to optic nerve dystrophy. Brain, 129, 1014–1026. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Pfeiffer N., Lamparter J., Gericke A., Grus F.H., Hoffmann E.M., & Wahl J. (2013). Neuroprotection of medical IOP-lowering therapy. Cell Tissue Research, 353(2), 245–251. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Quigley H.A. (2011). Glaucoma. The Lancet, 377, 1367–1377. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Quigley H.A., & Broman A.T. (2006). Number of people with glaucomaworldwide in 2010 and 2020. British Journal of Ophthalmology, 90, 262–267. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Quigley H.A., Sanchez R.M., Dunkelberger G.R., L’Hernault N.L., & Baginski T.A. (1987). Chronic glaucoma selectively damages large optic nerve fibers. Investigative Ophthalmology & Visual Science, 28, 913–920. [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Quigley H.A., McKinnon S.J., Zack D.J., Pease M.E., Kerrigan-Baumrind L.A., Kerrigan D.F., & Mitchell R.S. (2000). Retrograde axonal transport of BDNF in retinal ganglion cells is blocked by acute IOP elevation in rats. Investigative Ophthalmology & Visual Science, 41, 3460–3466. [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Quigley H.A., & Vitale S. (1997). Models of open-angle glaucoma prevalence and incidence in the United States. Investigative Ophthalmology & Visual Science, 38, 83–91. [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Rotchford A.P., Kirwan J.F., Muller M.A., Johnson G.J., & Roux P. (2003). Temba glaucoma study: A population-based cross-sectional survey in urban South Africa. Ophthalmology, 110, 376–382. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Rudnicka A.R., Mt-Isa S., Owen C.G., Cook D.G., & Ashby D. (2006). Variations in primary open-angle glaucoma prevalence by age, gender, and race: A Bayesian meta-analysis. Investigative Ophthalmology & Visual Science, 47, 4254–4261. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Sabel B.A., Fedorov A.B., Naue N., Borrmann A., Herrmann C., & Gall C. (2011). Non-invasive alternating current stimulation improves vision in optic neuropathy. Restorative Neurology and Neuroscience, 29, 493–505. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Schinder A.F., & Poo M. (2000). The neurotrophin hypothesis for synaptic plasticity. Trends Neuroscience, 23, 639–645. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Schmidt S., Mante A., Rönnefarth M., Fleischmann R., Gall C., & Brandt S.A. (2013). Progressive enhancement of alpha activity and visual function in patients with optic neuropathy: A two-week repeated session alternating current stimulation study. Brain Stimulation, 6, 87–93. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Schön C., Biel M., & Michalakis S. (2015). Retinal gene delivery by adeno-associated virus (AAV) vectors: Strategies and applications. European Journal of Pharmaceutics and Biopharmaceutics, 95(Pt B), 343–52. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Seki M., Tanaka T., Sakai Y., Fukuchi T., Abe H., Nawa H., & Takei N. (2005). Müller Cells as a source of brain-derived neurotrophic factor in the retina: Noradrenaline upregulates brain-derived neurotrophic factor levels in cultured rat Müller cells. Neurochemical Research, 30, 1163–1170. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Sena D.F., Ramchand K., & Lindsley K. (2010). Neuroprotection for treatment of glaucoma in adults. Cochrane Database of Systematic Reviews, 2, CD006539. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Shi J-M., & Jia S-B. (2012). Selective laser trabeculoplasty. International Journal of Ophthalmology, 5, 742–749. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Sivilia S., Giuliani A., Fernández M., Turba M.E., Forni M., Massella A., De Sordi N., Giardino L., & Calzá L. (2009). Intravitreal NGF administration counteracts retina degeneration after permanent carotid artery occlusion in rat. BMC Neuroscience, 10, 52. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Skonieczna K., Grabska-Liberek I., Terelak-Borys B., & Jamrozy-Witkowska A. (2014). Selected autoantibodies and normal-tension glaucoma. Medical Science Monitor, 20, 1201–1209. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Spalding K.L., Rush R.A., & Harvey A.R. (2004). Target-derived and locally derived neurotrophins support retinal ganglion cell survival in the neonatal rat retina. Journal of Neurobiology, 60, 319–327. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Stein J.D., & Lee P.P. (2008). Age and racial variation in the prevalence of open-angle glaucoma the USA In Tombran-Tink J., Barnstable C.J., Shields M.B. (Eds.), Ophthalmology research: Mechanisms of the Glaucoma (pp. 3–17). 
+Tatowa, NJ, Humana Press. [ Google Scholar ] 
+ 
+ 
+Suzuki Y., Iwase A., Araie M., Yamamoto T., Abe H., Shirato S., Kuwayama Y., Mishima H.K., Shimizu H., Tomita G., Inoue Y., & Kitazawa Y., Tajimi Study Group (2006). Risk factors for open-angle glaucoma in a Japanese population: The Tajimi Study. Ophthalmology, 113, 1613–1617. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Tezel G., & Wax M.B. (2004). The immune system and glaucoma. Current Opinion on Ophthalmology, 15(2), 80–84. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Thelen U., Buchholz P., & Kimmich F. (2009). Treatment of patients with primary open-angle glaucoma with a fixed combination of brimonidine 0.2% /timolol 0.5% : Multicenter, open-label, observational study in Germany. Current Medical Research and Opinion, 25(4), 1003–1009. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Tielsch J.M., Katz J., Singh K., Quigley H.A., Gottsch J.D., Javitt J., & Sommer A. (1991). A population-based evaluation of glaucoma screening: The Baltimore Eye Survey. American Journal of Epidemiology, 134, 1102–1110. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Tielsch J.M., Sommer A., Katz J., Royall R.M., Quigley H.A., & Javitt J. (2008). Racial variations in the prevalence of primary open-angle glaucoma. JAMA, 266, 369–374. [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Tyler C.W. (1981). Specific deficits of flicker sensitivity in glaucoma and ocular hypertension. Investigative Ophthalmology & Visual Science, 20, 204–212. [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Vasudevan S.K., Gupta V., & Crowston J.G. (2011). Neuroprotection in glaucoma. Indian Journal of Ophthalmology, 59, 102–113. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Vecino E., García-Crespo D., García M., Martinez-Millán L., Sharma S.C., & Carrascal E. (2002). Rat retinal ganglion cells co-express brain derived neurotrophic factor (BDNF) and its receptor TrkB. Vision Research, 42, 151–157. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Vickers J.C. (1997). The cellular mechanism underlying neuronal degeneration in glaucoma: Parallels with Alzheimer’s disease. Australian and New Zealand Journal of Ophthalmology, 25(2), 105–109. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+von Bartheld C.S. (1998). Neurotrophins in the developing and regenerating visual system. Histology and Histopathology, 13, 437–459. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Waleszczyk W.J., Wang C., Benedek G., Burke W., & Dreher B. (2004). Motion sensitivity in cat’s superior colliculus: Contribution of different visual processing channels to response properties of collicular neurons. Acta Neurobiologiae Experimentalis (Warsaw), 64, 209–228. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Wang W., He M., Zhou M., & Zhang X. (2013). Selective laser trabeculoplasty versus argon laser trabeculoplasty in patients with open-angle glaucoma: A systematic review and meta-analysis. PLoS One, 8, e84270. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Wang C., Waleszczyk W.J., Benedek G., Burke W., & Dreher B. (2001). Convergence of Y and non-Y channels onto single neurons in the superior colliculi of the cat. Neuroreport, 12, 2927–2933. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Weber A.J., & Harman C.D. (2008). BDNF Preserves the dendritic morphology of α and β ganglion cells in the cat retina after optic nerve injury. Investigative Ophthalmology & Visual Science, 49, 2456–2463. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Weber A.J., Harman C.D., & Viswanathan S. (2008). Effects of optic nerve injury, glaucoma, and neuroprotection on the survival, structure, and function of ganglion cells in the mammalian retina. Journal of Physiology, 586, 4393–4400. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Wetmore C., Ernfors P., Persson H., & Olson L. (1990). Localization of brain-derived neurotrophic factor mRNA to neurons in the brain byhybridization. Experimental Neurology, 109, 141–152. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Wilson A.M., & Di Polo A. (2012). Gene therapy for retinal ganglion cell neuroprotection in glaucoma. Gene Therapy, 19, 127–136. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Wolfs R.C., Borger P.H., Ramrattan R.S., Klaver C.C., Hulsman C.A., Hofman A., Vingerling J.R., Hitchings R.A., & de Jong P.T. (2000). Changing views on open-angle glaucoma: Definitions and prevalence: The Rotterdam Study. Investigative Ophthalmology & Visual Science, 41, 3309–3321. [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Wood J.P., DeSantis L., Chao H.M., & Osborne N.N. (2001). Topically applied betaxolol attenuates ischaemia-induced effects to the rat retina and stimulates BDNF mRNA. Experimental Eye Research, 72(1), 79–86. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Yücel Y., & Gupta N. (2008). Glaucoma of the brain: A disease model for the study of transsynaptic neural degeneration. Progress in Brain Research, 173, 465–478. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Yücel Y.H., Zhang Q., Weinreb R.N., Kaufman P.L., & Gupta N. (2003). Effects of retinal ganglion cell loss on magno-, parvo-, koniocellular pathways in the lateral geniculate nucleus and visual cortex in glaucoma. Progress in Retinal and Eye Research, 22, 465–481. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Zhang Z., Wang X., Jonas J.B., Wang H., Zhang X., Peng X., Ritch R., Tian G., Yang D., Li L., Li J., & Wang N. (2014). Valsalva manoeuver, intra-ocular pressure, cerebrospinal fluid pressure, optic disc topography: Beijing intracranial and intra-ocular pressure study. Acta Ophthalmologica, 92, e475–e480. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 
+Ziemlińska E., Kügler S., Schachner M., Wewiór I., Czarkowska-Bauch J., & Skup M. (2014). Overexpression of BDNF increases excitability of the lumbar spinal network and leads to robust early locomotor recovery in completely spinalized rats. PLoS One, 14, e88833. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

@@ -1,0 +1,447 @@
+Source: PubMed Central (PMC)
+PMCID: PMC10577864
+Title: Cataract: Advances in surgery and whether surgery remains the only treatment
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10577864/
+Year: 2021
+Disease: cataract
+Priority: 1
+============================================================
+
+Adv Ophthalmol Pract Res . 2021 Oct 21;1(1):100008. doi: 10.1016/j.aopr.2021.100008 
+ 
+ 
+ Cataract: Advances in surgery and whether surgery remains the only treatment in future 
+ Xinyi Chen 
+ Xinyi Chen 
+ 
+ 1 Eye Center, Second Affiliated Hospital of School of Medicine, Zhejiang University, Hangzhou, Zhejiang, 310009, China 
+ Find articles by Xinyi Chen 
+ 
+ 
+ 1 , Jingjie Xu 
+ Jingjie Xu 
+ 
+ 1 Eye Center, Second Affiliated Hospital of School of Medicine, Zhejiang University, Hangzhou, Zhejiang, 310009, China 
+ Find articles by Jingjie Xu 
+ 
+ 
+ 1 , Xiangjun Chen 
+ Xiangjun Chen 
+ 
+ 1 Eye Center, Second Affiliated Hospital of School of Medicine, Zhejiang University, Hangzhou, Zhejiang, 310009, China 
+ Find articles by Xiangjun Chen 
+ 
+ 
+ 1 , Ke Yao 
+ Ke Yao 
+ 
+ 1 Eye Center, Second Affiliated Hospital of School of Medicine, Zhejiang University, Hangzhou, Zhejiang, 310009, China 
+ Find articles by Ke Yao 
+ 
+ 
+ 1, ∗ 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Eye Center, Second Affiliated Hospital of School of Medicine, Zhejiang University, Hangzhou, Zhejiang, 310009, China 
+ 
+ ∗ Corresponding author. xlren@zju.edu.cn 
+ 
+ 
+ Received 2021 Jul 1; Revised 2021 Aug 27; Accepted 2021 Oct 12; Collection date 2021 Nov. 
+ 
+ © 2021 The Authors 
+ This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC10577864  PMID: 37846393 
+ 
+ Abstract 
+ Background 
+ Cataract is the world's leading eye disease that causes blindness. The prevalence of cataract aged 40 years and older is approximately 11.8%–18.8%. Currently, surgery is the only way to treat cataracts. Main Text 
+ From early intracapsular cataract extraction to extracapsular cataract extraction, to current phacoemulsification cataract surgery, the incision ranges from 12 to 3 ​mm, and sometimes to even 1.8 ​mm or less, and the revolution in cataract surgery is ongoing. Cataract surgery has transformed from vision recovery to refractive surgery, leading to the era of refractive cataract surgery, and premium intraocular lenses (IOLs) such as toric IOLs, multifocal IOLs, and extended depth-of-focus IOLs are being increasingly used to meet the individual needs of patients. With its advantages of providing better visual acuity and causing fewer complications, phacoemulsification is currently the mainstream cataract surgery technique worldwide. However, patient expectations for the safety and accuracy of the operation are continually increasing. Femtosecond laser-assisted cataract surgery (FLACS) has entered the public's field of vision. FLACS is a combination of new laser technology and artificial intelligence to replace fine manual clear corneal incision, capsulorhexis, and nuclear pre-fragmentation, providing new alternative technologies for patients and ophthalmologists. As FLACS matures, it is being increasingly applied in complex cases; however, some think it is not cost-effective. Although more than 26 million cataract surgeries are performed each year, there is still a gap in the prevalence of cataracts, especially in developing countries. Although cataract surgery is a nearly ideal procedure and complications are manageable, both patients and doctors dream of using drugs to cure cataracts. Is surgery really the only way to treat cataracts in the future? It has been verified by animal experiments that lanosterol therapy in rabbits and dogs could make cataract severity alleviated and lens transparency partially recovered. Although there is still much to learn about cataract reversal, this groundbreaking work provided a new strategy for the prevention and treatment of cataracts. Conclusions 
+ Although cataract surgery is nearly ideal, it is still insufficient, we expect the prospects for cataract drugs to be bright. Keywords: Cataract, Surgery, FLACS, Femtosecond, Lanosterol 1. Overview of cataract surgery 
+ According to the World Health Organization, cataract is the world's leading eye disease causing blindness, affecting approximately 65.2 million people. 1 Approximately 51% of blindness is related to cataract, which is also a major factor in poor vision in both developed and developing countries. 2 Among all eye diseases, the blindness rate caused by cataract was 5% in developed countries, while 50% or more in poor and/or remote regions. Nearly 18 million people in the world suffered from bilaterally blind due to cataracts, and cataracts have caused moderate to severe vision loss in 52.6 million individuals. 1 The prevalence of cataract in the population aged 40 years and older is approximately 11.8%–18.8%. 2 At present, there are no effective methods for cataract prevention or drug treatment; however, surgical removal of the opaque lens and implantation of an intraocular lens (IOL) can restore vision in patients with cataracts. Cataract surgery is the most common ophthalmic surgery performed worldwide. 3 More than 26 million cataract surgeries are performed annually. Driven by demographic changes and access to more medical services, procedure volume is growing at a compound annual rate of 3.1%. 
+ Standards for cataract surgery are developing worldwide. The revolution of cataract surgery has never stopped and has been going on, from early intracapsular cataract extraction (ICCE) to extracapsular cataract extraction (ECCE), even to current phacoemulsification (PCS). In developed countries, PCS is the mainstream method of cataract surgery. However, due to the high cost of operation, the shortage of well-trained surgeons and the poor maintenance of advanced equipment, the large-scale promotion of PCS in developing countries is facing certain challenges at this stage. Hence, small incision cataract surgery (SICS), an improved ECCE method, may be a more suitable alternative to PCS in developing countries due to its lower cost and less technical requirements. 2. Premium intraocular lenses (IOLs) 
+ With the unceasing improvement in surgical equipment and techniques, cataract surgery has proven to be one of the safest and most successful operations around the world. With increases in standards of living, new technologies, including microincision cataract surgery and premium IOLs, have emerged one after another, while the impetus for cataract surgery has evolved from vision rehabilitation to vision improvement. It has converted from vision recovery to refractive surgery, leading to the era of refractive cataract surgery (RCS), and the application of premium IOLs is becoming more and more extensive in order to satisfy the personalized demands of patients. Multifocal IOLs showed superiority to monofocal IOLs in uncorrected distance visual acuity, the distant spectacles-independent rate is over 90% in patients with multifocal IOLs implantation, while only 52.4%–85% in monofoal IOLs patients. Among the patients with multifocal IOLs implantation, 81.8%–84.9% of them gained both distant and near spectacles-independence, while 7.5%–12% in patients with monofocal IOLs. 4 For patients with a requirement to correct corneal astigmatism, Toric IOLs creates a new possibility to meet their personal requirements during cataract surgery process, and spectacles-independence could be achieved in over 70% patients can see far without glasses. 5 , 6 Despite extensive positive experiences with multifocal IOLs, some patients showed dissatisfied symptoms postoperatively. Residual refractive error is the leading cause of poor vision after multifocal IOLs implantation , which causes nearly 64% of patients suffering from this. 7 However, among all IOLs, the multifocal IOLs accounts for 6–31%, and the main source is optical aberrations, for example, glare, halo, and so on. 8 Meanwhile, a new type of IOLs, the extended depth-of -focus (EDOF) IOLs, appears in the public field of vision. It can make up for the gap between the monofocal IOLs and the multifocal IOLs, by improving intermediate distance visual acuity and providing better contrast sensitivity. 9 , 10 , 11 , 12 (See Table .1 ). 
+ Table 1. 
+ Comparison between trifocal IOLs and EDOF IOLs. 
+ 
+ 
+ 
+ Trifocal IOLs 
+ EDOF IOLs 
+ 
+ 
+ 
+ UDVA/CDVA 12 , 95 , 96 
+ 
+ No significant difference 
+ 
+ 
+ UIVA/DCIVA 12 , 95 , 96 
+ 
+ No significant difference 
+ 
+ 
+ UNVA/DCNVA 12 , 97 , 98 , 99 
+ 
+ Superior 
+ Inferior 
+ 
+ 
+ Defocus curve 95 , 96 , 98 , 99 
+ 
+ Perform better from -4D to -2D 
+ Perform better from -1.5D to -1D 
+ 
+ 
+ Contrast sensitivity 96 , 97 , 98 , 100 
+ 
+ No significant difference in both photopic and scotopic conditions 
+ 
+ 
+ Spectacle independence 98 , 99 , 101 , 102 
+ 
+ 90%–100% at far distance; 
+ 85%–100% at far distance; 
+ 
+ 
+ 90%–100% at intermediate distance; 
+ 85%–100% at intermediate distance; 
+ 
+ 
+ 85%–95% at near distance (significantly better) 
+ 60%–90% at near distance (significantly worse) 
+ 
+ 
+ Photic disturbance 96 , 100 , 101 
+ 
+ More halo and glare 
+ Less 
+ 
+ 
+ 
+ Open in a new tab 3. Surgery technology innovation 
+ In addition to intraocular lens calculation and intraocular lens design, the improvement of operation technology may also play a decisive role in further improving the visual effect after operation. 13 The advantages of providing better visual acuity and fewer complications, along with the suitability of premium IOLs presently, make phacoemulsification the predominant cataract surgical technique applied worldwide. Nevertheless, is phacoemulsification the culmination of cataract surgery innovation. 
+ The major complications of modern cataract extraction combined with IOL implantation include postoperative inflammatory response, surgically induced astigmatism, and posterior capsule opacification, which are also refractory to poor vision recovery in patients after cataract surgery. Surgical astigmatism is proportional to the longitude of the surgical incision. Postoperative inflammatory response and postoperative cataract are particularly associated with surgical trauma. Therefore, the focal point of cataract surgery innovation in the past two decades has been to decrease the size of the surgical incision and establish a set of surgical techniques to reduce surgical trauma and complications. In recent decades, the cataract surgical incision was reduced from 11 ​mm (ECCE) to 1.8 ​mm or less (PCS), 14 and surgical techniques have been established that effectively reduced surgical trauma, surgical astigmatism, the postoperative inflammatory response, and the occurrence of posterior capsule opacification. The standard procedure for 1.8 ​mm micro-incision surgery effectively reduced astigmatism from 0.88 D to 0.44 D. 14 , 15 However, a decrease in incision size alone does not satisfy the requirement, studies showed that converting from 3.0 to 2.0 to 1.8 ​mm incision will not lengthen the duration of the surgery or reduce the efficiency of the surgery, suggesting that SICS and MICS are equally efficient and safe. 14 4. Femtosecond laser-assisted cataract surgery 
+ Although great progress has been made in modern cataract surgery, many patients still suffer significant complications after surgery, such as corneal edema, macular edema, and inflammation, which may cause severe visual impairment and require continuous review. Meanwhile, the expectations of patients regarding the security and accuracy of surgery are constantly increasing. Hence, cataract surgery innovation is better to turn to a new creative way. Femtosecond laser-assisted cataract surgery (FLACS) has come into public view as an alternative technology for patients and ophthalmologists. By 2020, 972 SCI records of FLACS had been found, of which 712 were full-text articles. Outcomes (20.36%), cornea influence (17.13%), and complications (16.01%) were the most concerning areasarea. Learning curve, education, and equipment design have also gained extensive attention in the past two years. In 2009 and 2013, there were two inflection points; 98% of the articles were published after 2009, and from 2014, at least 100 articles have been published annually. 
+ Femtosecond laser can assist in performing lens fragmentation, anterior capsulotomy, and self-sealing corneal incisions, and astigmatism correction 16 , 17 in cataract surgery. Femtosecond laser assistance enables precise implementation of each step, which optimizes the position of the IOL and the refractive state of the eye, remarkably promoting accuracy, effectiveness, and safety of cataract extraction surgery and opening up new alternatives to patients and ophthalmologists. 18 
+ Although some ophthalmologists still hold a doubt attitude towards the advantages of FLACS, several meta-analyses and random clinical trials (RCTs) have shown that, compared to PCS, FLACS achieves better visual and refractive outcomes, and gets effective reduction in endothelial cell loss and postoperative corneal edema. 18 , 19 , 20 , 21 , 22 , 23 , 24 , 25 , 26 , 27 , 28 A study focusing on endothelial analysis 29 showed that low-energy FLACS has advantages in endothelial cell loss, size, and shape variations in certain cataract grades. FLACS was showed to have the ability to preserve endothelial cells better and is more precise than PCS. FLACS is safe and does not cause a significant increase in macular thickness. 30 Some studies 31 , 32 have reported that, although macular central subfield thickness, cube volume, and cube average thickness increased postoperatively, while the values were similar between the FLACS and PCS throughout the whole 6-month follow-up, and no significant differences were found in central corneal thickness (CCT). Inflammatory flare values in FLACS were lower than those in PCS at 6 months. Hence, both FLACS achieved similar safety and efficacy outcomes as PCS. 33 (See Table .2 ). 
+ Table 2. 
+ Comparison between FLACS and PCS. 
+ 
+ 
+ 
+ FLACS 
+ PCS 
+ 
+ 
+ 
+ Visual and refractive outcomes 
+ Better in early stage in FLACS, 19 , 24 no significant difference in the long term 19 , 21 , 24 
+ 
+ 
+ 
+ Surgical induced astigmatism 24 
+ 
+ No significant difference 
+ 
+ 
+ IOL decentration and tilt 21 
+ 
+ More horizontally centered in FLACS than in PCS 
+ 
+ 
+ Endothelial cell loss 19 , 21 , 24 
+ 
+ Less in FLACS than in PCS, especially in Fuchs endothelial corneal dystrophy and hard nuclear cataract 35 , 42 
+ 
+ 
+ 
+ Macular thickness 19 , 24 , 31 
+ 
+ No significant increase 
+ 
+ 
+ Dry eye symptom 61 
+ 
+ Worse in FLACS than in PCS 
+ 
+ 
+ Overall incidence of complication 21 
+ 
+ No significant difference 
+ 
+ 
+ Price 
+ High 
+ Low 
+ 
+ 
+ 
+ Open in a new tab With accumulating clinical experience, femtosecond cataract surgery has reached a relatively mature state. The accuracy, effectiveness, and safety of FLACS are greatly improved by optimizing the IOL position 34 and the eye refractive state, which increases our confidence in applying FLACS in complex situations. There is a high proportion of intraoperative endothelial cell loss in PCS for hard nuclear cataracts. Compared to PCS, FLACS for hard nuclear cataract surgery has been shown to reduce corneal endothelial damage, reduce corneal endothelial loss from 19.96% to 7.85%, and reduce vision recovery time from 3 months to 1 month. 35 , 36 , 37 Similarly, a mature white cataract may have increased capsular tear due to liquefaction of the cortex, although another study showed that compared to PCS, FLACS decreased the incidence of anterior capsular tears (0/66 vs. 8/66) and irregularity and decentration of capsulorhexis in white cataract, therefore implanting premium IOLs, including toric IOL, can be considered. 38 , 39 The safety of FLACS in myopia cases was confirmed in another study 40 showing that FLACS did not cause macular thickness increasing significantly. Yamazaki et al. 41 found that patients with atopic cataract can also get FLACS safely despite anterior subcapsular fibrosis and/or intumescent white cataract (IWC). Recent studies 42 , 43 , 44 on cataract patients with Fuchs endothelial corneal dystrophy indicated that FLACS may perform better than conventional phacoemulsification in the reduction of corneal endothelial cell loss and CCT changes. This trial of FLACS was expanded to more complex cases such as Marfan syndrome, subluxated lens, 45 , 46 Alport syndrome, 47 and shallow anterior chamber. 48 , 49 
+ The high cost of FLACS, requiring a much higher burden of scientific evidence and justification, makes it difficult to accept FLACS widely, as patients have to bear the cost themselves. Nevertheless, some others think that costs could decrease with more entrants in the market, which will lead to the procedure being more financially efficient with widespread adoption, which in turn will lead to further development. Although excellent ophthalmologists may control complications and visual outcomes in PCS to reach a level similar to that of FLACS, it should be emphasized that FLACS may help less experienced and skilled surgeons. Thus, it is controversial whether FLACS is an ideal or excessive surgical method. As the technology has been designed to promote safety and efficacy, should it be incorporated into our practice in the same way that phacoemulsification supplanted ECCE in the treatment of cataracts? Is it valuable to make an ongoing effort to guide the way forward in this new approach to cataract surgery? We believe that these questions may be answered in the future. 5. Current situation 
+ In addition to technological innovation, we also need to focus on an issue of vital importance: whether surgery is the only way to cure cataracts. Is surgery sufficient for cataracts so that there is no need to develop other treatments? 
+ If conditions permit, one ophthalmologist has the ability to complete more than 2000 cataract surgeries a year, such as having sufficient support personnel, perfect infrastructure and patients who can afford and are willing to pay for them. 50 Cataract surgery rate (CSR) is the number of cataract operations per million people per year, which is an important indicator of cataract services availability. However, only when the calculation of CSR includes all cataract surgeries in a country/region with a specific population size, CSR can be used as a quantitative index of cataract surgery services. The median of global CSR is 1406, and the interquartile range is 633–2450. However, the median CSR in some African regions is 488, which is only one third of the global average, and even one tenth of that in high-income countries. Even considering the age distribution and the difference of blindness rate in different regions, there is still a big gap between the CSR of less than 1000 and the number of cataract surgeries needed to prevent avoidable cataract blindness, even less than 500. Among 102 countries that can monitor CSR, 19 countries had a CSR of less than 500, and 23 countries had that between 501 and 1000. 51 Therefore, as the only way to treat cataract, surgery is in short supply. Should we further seek other routes? 6. Complications 
+ In addition, there is a certain risk of complications in any surgery, including cataract surgery. The prevalence of posterior capsule rupture is about 0.5%–5.2%, which is the most common intraoperative complication in cataract surgery. 52 , 53 And meantime, posterior capsule rupture leads to the increasing risk of endophthalmitis (4.22–9.49 times) 54 and retinal detachment surgery (15–18 times). 55 The prevalence of endophthalmitis, the most serious postoperative complication, ranges 0.03%–0.4%. 56 , 57 Clinical cystoid macular edema without any other complications or risk factors, had a reported prevalence of 1.2%–11.0%. 58 As the most common postoperative complication, the incidence of posterior capsule opacification is approximately 11.8% at 1 year, 20.7% at 3 years, and 28.4% at 5 years. 59 Both FLACS and PCS may aggravate dry eye, FLACS may increase the risk of postoperative fluorescein staining and dry eye symptoms. 60 , 61 , 62 Therefore, we need to pay more attention to dry eye patients undergoing FLACS through postoperative earlier evaluation and treatment. 7. Artificial intelligence and drugs in cataract treatment 
+ In recent years, artificial intelligence (AI) research in ophthalmology has progressed rapidly, especially in the field of machine learning and deep learning. This may trigger a revolution that may completely subvert ophthalmic practice. AI systems have been partly used in glaucoma 63 and retinal disorders. 64 Different testing modalities, including optic nerve images, optical coherence tomography, and visual fields in automated glaucoma detection, relying on deep learning, has been promoted 65 , 66 AI based on fundus photos could also show advantages in screening and diagnosis of retinal disorders, including age-related macular degeneration (AMD) and diabetic retinopathy 67 , 68 The application of AI for cataracts is growing, and the research showed that compared with professional graders, deep learning is superior to other published automatic cataract grading methods in grading nuclear cataract from cross-sectional slit lamp images on Wisconsin grading system. 69 , 70 , 71 However, as research on AI for cataract has been limited to providing assistance for diagnosis, the question remains as to whether it is possible to expand its use to surgical applications. Therefore, as a new tool, AI may become a part of daily surgical care in the near future while bringing benefits to both patients and clinicians. 
+ Inadequate cataract surgery increases the economic burden, and the emergence of postoperative complications has prompted profound consideration of screening drugs for cataract treatment. Oxidative stress is essential in the initiation and development of cataracts. Antioxidants or reactive oxygen species scavengers, such as GSH, vitamin E/C, zeaxanthin, lutein, carotenoids, and L-cystine, have been shown to protect lens lipid peroxidation and have a positive effect on slowing down the process of cataract formation. 72 , 73 , 74 , 75 , 76 Vita-iodurol (France) and Quinax (USA) are commercially available antioxidative drops that have also been applied to cataracts. 77 Quinone is also a critical factor in the pathogenesis of cataracts. Quinones at low concentrations can react with lentic proteins and show a damaging effect. In 1958, pirenoxine was introduced as a commercial eye drop to slow down the development of cataracts. 78 Pirenoxine could block the sulfhydryl combination with lentic proteins and slows down the development of cataracts. 79 Although numerous compounds have the potential to prevent development, the process of cataract formation cannot be reversed. 
+ Currently, two groundbreaking studies have been conducted. In one, Makley et al. 80 found that the molecular 5-cholesten-3β,25-diol could reverse α-crystallin mutations related cataracts by upregulating the activity of the α-crystallin chaperone. Compared with treatment that is efficacious only for α-crystallin mutation-related cataracts, another more inspired work showed that lanosterol is a universal compound for reversing the formation of cataracts. The latter study found two lanosterol synthase (LSS) gene mutations related to congenital cataracts in two families. Moreover, LSS and lanosterol could delay and reverse the lentic protein aggregation, which has been evidenced in animals. 81 These groundbreaking studies bring a novel strategy for the cataracts treatment and have been highly remarked as “A new dawn for cataracts” in Science 82 and “Cataracts dissolved” in Nature . 83 
+ Recently, increasingly studies have focused on the drug-likeness mechanism of lanosterol. Kang et al. showed, via molecular dynamics simulations, that lanosterol can disrupt γD-crystallin aggregation by docking to the hydrophobic domain. 84 Meanwhile, experimental evidence has shown that lanosterol could prevent the aggregation caused by βB1/2 crystallin aggregation. 85 , 86 Although some conversely pointed out that lanosterol unable to reverse protein aggregation, further mechanistic studies have shown that lanosterol could remit and reverse universal aggregation probably by activating the proteasome and ubiquitin system. 87 , 88 , 89 , 90 However, lanosterol has limitations as a potential candidate from the perspective of drug-likeness properties. First, lanosterol would transform into other steroids uncontrollably, which may greatly influence its half-life in-vivo. 91 Second, the efficacy of lanosterol is relatively low. Furthermore, a study showed that the efficacy of lanosterol is strongly dependent on cataract severity in qualitative and quantitative ex vivo assays. 92 Therefore, it is worthwhile to continue studying new and potent synthetic molecules. 
+ With the development of high-throughput techniques, appropriate compounds can be identified out of millions of candidates. A high-throughput platform in which human lens particles were removed from patients during routine cataract surgery and treated with candidate compounds has been established. 93 Based on the most recent one, 34 new synthetic lanosterol analogs were synthesized and evaluated, and lanosterol derivatives were demonstrated to reverse the lentic protein aggregation with better potency and efficacy. 94 Further evaluation of the lanosterol derivatives in lentoid bodies (LBs) and animal models, as well as detailed mechanistic studies, are in progress. We found that cataractous LBs became transparent when treated with a specific kind of lanosterol derivative. This unsubmitted result supports the anti-aggregation effect of lanosterol derivatives in human cataracts and shows the possible prospect of pharmaceutics. 
+ Although ophthalmologists have been anticipating drug treatment for cataracts, research on medications for cataract prevention and treatment has also progressed. However, until now, there have been no rigorous controlled clinical studies, and drug research is still in progress. Consequently, surgery remains the only effective method for treating cataracts. There is still much to learn about cataract reversal, despite the many relevant meaningful previous results. These anti-aggregation compounds provide the possibility of cataract medication. We expect the prospects for cataract drugs to be bright. Study Approval 
+ Not applicable. Author Contributions 
+ Ke Yao conceived, designed, and supervised the review. Xinyi Chen and Jingjie Xu wrote the initial draft. Xiangjun Chen provided further editing. All authors have read and approved the final version of the manuscript. All authors attest that they meet the current ICMJE criteria for authorship. Acknowledgments 
+ Thanks to all the peer reviewers for their opinions and suggestions. Funding 
+ This study was supported by Program of National Natural Science Foundation of China (No.81870641) (No.82070939), Key Research and Development Project of Zhejiang Province, China (2020C03035). Conflict of Interest 
+ The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper. Editorship Disclosure 
+ Given his role as Editor-in-Chief, Ke Yao had no involvement in the peer-review of this article and has no access to information regarding its peer-review. Full responsibility for the editorial process for this article was delegated to Andrzej Grzybowski. Abbreviations 
+ 
+ IOL 
+ intraocular lenses 
+ FLACS 
+ femtosecond laser-assisted cataract surgery 
+ ICC 
+ intracapsular cataract extraction 
+ ECCE 
+ extracapsular cataract extraction 
+ PCS 
+ phacoemulsification 
+ SICS 
+ small incision cataract surgery 
+ RCS 
+ refractive cataract surgery 
+ EDOF 
+ extended depth-of -focus 
+ RCTs 
+ random clinical trials 
+ CCT 
+ central corneal thickness 
+ CSR 
+ cataract surgery rate 
+ AI 
+ artificial intelligence 
+ AMD 
+ age-related macular degeneration 
+ GSH 
+ Glutathione 
+ LSS 
+ lanosterol synthase 
+ References 
+ 
+ 
+ 1. See International. Cataracts. https://www.seeintl.org/cataracts/ (Accessed) 
+ 
+ 
+ 2. Nei Cataract data and statistics. https://www.nei.nih.gov/learn-about-eye-health/resources-for-health-educators/eye-health-data-and-statistics/cataract-data-and-statistics (Accessed) 
+ 
+ 
+ 3. Chuang J., Shih K.C., Chan T.C., et al. Preoperative optimization of ocular surface disease before cataract surgery. J Cataract Refract Surg. 2017;43(12):1596–1607. doi: 10.1016/j.jcrs.2017.10.033. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Wang S.Y., Stem M.S., Oren G., et al. Patient-centered and visual quality outcomes of premium cataract surgery: a systematic review. Eur J Ophthalmol. 2017;27(4):387–401. doi: 10.5301/ejo.5000978. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Visser N., Bauer N.J., Nuijts R.M. Toric intraocular lenses: historical overview, patient selection, IOL calculation, surgical techniques, clinical outcomes, and complications. J Cataract Refract Surg. 2013;39(4):624–637. doi: 10.1016/j.jcrs.2013.02.020. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Kessel L., Andresen J., Tendal B., et al. Toric intraocular lenses in the correction of astigmatism during cataract surgery: a systematic review and meta-analysis. Ophthalmology. 2016;123(2):275–286. doi: 10.1016/j.ophtha.2015.10.002. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. de Vries N.E., Webers C.A., Touwslager W.R., et al. Dissatisfaction after implantation of multifocal intraocular lenses. J Cataract Refract Surg. 2011;37(5):859–865. doi: 10.1016/j.jcrs.2010.11.032. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Mamalis N., Brubaker J., Davis D., et al. Complications of foldable intraocular lenses requiring explantation or secondary intervention - 2007 survey update. J Cataract Refract Surg. 2008;34(9):1584–1591. doi: 10.1016/j.jcrs.2008.05.046. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Kohnen T., Suryakumar R. Extended depth-of-focus technology in intraocular lenses. J Cataract Refract Surg. 2020;46(2):298–304. doi: 10.1097/j.jcrs.0000000000000109. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Bellucci R., Cargnoni M., Bellucci C. Clinical and aberrometric evaluation of a new extended depth-of-focus intraocular lens based on spherical aberration. J Cataract Refract Surg. 2019;45(7):919–926. doi: 10.1016/j.jcrs.2019.02.023. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Bellucci R., Curatolo M.C. A new extended depth of focus intraocular lens based on spherical aberration. J Refract Surg. 2017;33(6):389–394. doi: 10.3928/1081597X-20170329-01. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Zhong Y., Wang K., Yu X., et al. Comparison of trifocal or hybrid multifocal-extended depth of focus intraocular lenses: a systematic review and meta-analysis. Sci Rep. 2021;11(1):6699. doi: 10.1038/s41598-021-86222-1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Zvornicanin J., Zvornicanin E. Premium intraocular lenses: the past, present and future. J Curr Ophthalmol. 2018;30(4):287–296. doi: 10.1016/j.joco.2018.04.003. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Yu Y.B., Zhu Y.N., Wang W., et al. A comparable study of clinical and optical outcomes after 1.8, 2.0 mm microcoaxial and 3.0 mm coaxial cataract surgery. Int J Ophthalmol. 2016;9(3):399–405. doi: 10.18240/ijo.2016.03.13. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Jin C., Chen X., Law A., et al. Different-sized incisions for phacoemulsification in age-related cataract. Cochrane Database Syst Rev. 2017;9:CD010510. doi: 10.1002/14651858.CD010510.pub2. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Chen M., Swinney C., Chen M. Comparing the intraoperative complication rate of femtosecond laser-assisted cataract surgery to traditional phacoemulsification. Int J Ophthalmol. 2015;8(1):201–203. doi: 10.3980/j.issn.2222-3959.2015.01.34. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Noh H., Yoo Y.S., Shin K.Y., et al. Comparison of penetrating femtosecond laser-assisted astigmatic keratotomy and toric intraocular lens implantation for correction of astigmatism in cataract surgery. Sci Rep. 2021;11(1):7340. doi: 10.1038/s41598-021-86763-5. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Zhang X., Yu Y., Zhang G., et al. Performance of femtosecond laser-assisted cataract surgery in Chinese patients with cataract: a prospective, multicenter, registry study. BMC Ophthalmol. 2019;19(1):77. doi: 10.1186/s12886-019-1079-0. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Chen X., Chen K., He J., et al. Comparing the curative effects between femtosecond laser-assisted cataract surgery and conventional phacoemulsification surgery: a meta-analysis. PLoS One. 2016;11(3) doi: 10.1371/journal.pone.0152088. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Chen X., Xiao W., Ye S., et al. Efficacy and safety of femtosecond laser-assisted cataract surgery versus conventional phacoemulsification for cataract: a meta-analysis of randomized controlled trials. Sci Rep. 2015;5:13123. doi: 10.1038/srep13123. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Popovic M., Campos-Moller X., Schlenker M.B., et al. Efficacy and safety of femtosecond laser-assisted cataract surgery compared with manual cataract surgery: a meta-analysis of 14 567 eyes. Ophthalmology. 2016;123(10):2113–2126. doi: 10.1016/j.ophtha.2016.07.005. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Stanojcic N., Roberts H.W., Wagh V.K., et al. A randomised controlled trial comparing femtosecond laser-assisted cataract surgery versus conventional phacoemulsification surgery: 12-month results. Br J Ophthalmol. 2021;105(5):631–638. doi: 10.1136/bjophthalmol-2020-316311. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. Schweitzer C., Brezin A., Cochener B., et al. Femtosecond laser-assisted versus phacoemulsification cataract surgery (FEMCAT): a multicentre participant-masked randomised superiority and cost-effectiveness trial. Lancet. 2020;395:212–224. doi: 10.1016/S0140-6736(19)32481-X. 10219. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Kolb C.M., Shajari M., Mathys L., et al. Comparison of femtosecond laser-assisted cataract surgery and conventional cataract surgery: a meta-analysis and systematic review. J Cataract Refract Surg. 2020;46(8):1075–1085. doi: 10.1097/j.jcrs.0000000000000228. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Ye Z., Li Z., He S. A Meta-Analysis Comparing postoperative complications and outcomes of femtosecond laser-assisted cataract surgery versus conventional phacoemulsification for cataract. J Ophthalmol. 2017;2017:3849152. doi: 10.1155/2017/3849152. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Dzhaber D., Mustafa O.M., Alsaleh F., et al. Visual and refractive outcomes and complications in femtosecond laser-assisted versus conventional phacoemulsification cataract surgery: findings from a randomised, controlled clinical trial. Br J Ophthalmol. 2020;104(11):1596–1600. doi: 10.1136/bjophthalmol-2019-314548. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Day A.C., Burr J.M., Bennett K., et al. Femtosecond laser-assisted cataract surgery compared with phacoemulsification cataract surgery: randomized noninferiority trial with 1-year outcomes. J Cataract Refract Surg. 2020;46(10):1360–1367. doi: 10.1097/j.jcrs.0000000000000257. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Day A.C., Burr J.M., Bennett K., et al. Femtosecond laser-assisted cataract surgery versus phacoemulsification cataract surgery (FACT): a randomized noninferiority trial. Ophthalmology. 2020;127(8):1012–1019. doi: 10.1016/j.ophtha.2020.02.028. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Schroeter A., Kropp M., Cvejic Z., et al. Comparison of femtosecond laser-assisted and ultrasound-assisted cataract surgery with focus on endothelial analysis. Sensors. 2021;21(3) doi: 10.3390/s21030996. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Wang Y., Zhang J., Qin M., et al. Comparison of optical quality and distinct macular thickness in femtosecond laser-assisted versus phacoemulsification cataract surgery. BMC Ophthalmol. 2020;20(1):42. doi: 10.1186/s12886-020-1319-3. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Yu Y., Chen X., Hua H., et al. Comparative outcomes of femtosecond laser-assisted cataract surgery and manual phacoemusification: a six-month follow-up. Clin Exp Ophthalmol. 2016;44(6):472–480. doi: 10.1111/ceo.12695. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Van Nuffel S., Claeys M.F., Claeys M.H. Cystoid macular edema following cataract surgery with low-energy femtosecond laser versus conventional phacoemulsification. Clin Ophthalmol. 2020;14:2873–2878. doi: 10.2147/OPTH.S261565. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Shaheen M.S., AbouSamra A., Helaly H.A., et al. Comparison between refractive outcomes of femtosecond laser-assisted cataract surgery and standard phacoemulsification. BMC Ophthalmol. 2020;20(1):1. doi: 10.1186/s12886-019-1277-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Zhu Y., Shi K., Yao K., et al. Parameters of capsulorrhexis and intraocular lens decentration after femtosecond and manual capsulotomies in high myopic patients with cataracts. Front Med. 2021;8:640269. doi: 10.3389/fmed.2021.640269. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Chen X., Yu Y., Song X., et al. Clinical outcomes of femtosecond laser-assisted cataract surgery versus conventional phacoemulsification surgery for hard nuclear cataracts. J Cataract Refract Surg. 2017;43(4):486–491. doi: 10.1016/j.jcrs.2017.01.010. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Assaf A.H., Aly M.G., Zaki R.G., et al. Femtosecond laser-assisted cataract surgery in soft and hard nuclear cataracts: a comparison of effective phacoemulsification time. Clin Ophthalmol. 2021;15:1095–1100. doi: 10.2147/OPTH.S300145. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Lyu D., Shen Z., Zhang L., et al. Comparison of perioperative parameters in femtosecond laser-assisted cataract surgery using 3 nuclear fragmentation patterns. Am J Ophthalmol. 2020;213:283–292. doi: 10.1016/j.ajo.2019.12.017. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Zhu Y., Chen X., Chen P., et al. Lens capsule-related complications of femtosecond laser-assisted capsulotomy versus manual capsulorhexis for white cataracts. J Cataract Refract Surg. 2019;45(3):337–342. doi: 10.1016/j.jcrs.2018.10.037. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Lai K.R., Zhang X.B., Yu Y.H., et al. Comparative clinical outcomes of Tecnis toric IOL implantation in femtosecond laser-assisted cataract surgery and conventional phacoemulsification surgery. Int J Ophthalmol. 2020;13(1):49–53. doi: 10.18240/ijo.2020.01.07. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Wang Y., Du J., Yang M., et al. Distinct macular thickness changes after femtosecond laser-assisted cataract surgery of age-related cataract and myopia with cataract. Sci Rep. 2018;8(1):3279. doi: 10.1038/s41598-018-21698-y. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Yamazaki K., Yoneyama J., Hayashi T., et al. Efficacy of femtosecond laser-assisted cataract surgery for cataracts due to atopic dermatitis. Case Rep Ophthalmol. 2021;12(1):41–47. doi: 10.1159/000510346. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Fan W., Yan H., Zhang G. Femtosecond laser-assisted cataract surgery in Fuchs endothelial corneal dystrophy: long-term outcomes. J Cataract Refract Surg. 2018;44(7):864–870. doi: 10.1016/j.jcrs.2018.05.007. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Patel S.V., Baratz K.H. Comparing outcomes of phacoemulsification with femtosecond laser-assisted cataract surgery in patients with fuchs endothelial dystrophy. Am J Ophthalmol. 2019;199:258–259. doi: 10.1016/j.ajo.2018.10.028. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Yong W.W.D., Chai H.C., Shen L., et al. Comparing outcomes of phacoemulsification with femtosecond laser-assisted cataract surgery in patients with fuchs endothelial dystrophy. Am J Ophthalmol. 2018;196:173–180. doi: 10.1016/j.ajo.2018.08.006. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. Chee S.P., Wong M.H., Jap A. Management of severely subluxated cataracts using femtosecond laser-assisted cataract surgery. Am J Ophthalmol. 2017;173:7–15. doi: 10.1016/j.ajo.2016.09.021. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. Crema A.S., Walsh A., Yamane I.S., et al. Femtosecond laser-assisted cataract surgery in patients with marfan syndrome and subluxated lens. J Refract Surg. 2015;31(5):338–341. doi: 10.3928/1081597X-20150424-02. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 47. Orts-Vila P., Amparo F., Rodriguez-Prats J.L., et al. Alport syndrome and femtosecond laser-assisted cataract surgery. J Ophthalmic Vis Res. 2020;15(2):264–269. doi: 10.18502/jovr.v15i2.6748. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 48. Fernandez-Vega Cueto A., Rodriguez-Una I., Rodriguez-Calvo P.P., et al. Femtosecond laser-assisted cataract surgery in shallow anterior chamber cases. Int Ophthalmol. 2021;41(2):707–717. doi: 10.1007/s10792-020-01628-6. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 49. Mencucci R., De Vitto C., Cennamo M., et al. Femtosecond laser-assisted cataract surgery in eyes with shallow anterior chamber depth: comparison with conventional phacoemulsification. J Cataract Refract Surg. 2020;46(12):1604–1610. doi: 10.1097/j.jcrs.0000000000000341. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 50. Iabp Cataract. https://www.iapb.org/knowledge/what-is-avoidable-blindness/cataract/ (Accessed) 
+ 
+ 
+ 51. Iabp. GAP Implementation Progress – cataract surgery. http://atlas.iapb.org/global-action-plan/gap-implementation/gap-implementation-cataract-surgery/ (Accessed) 
+ 
+ 
+ 52. Day A.C., Donachie P.H., Sparrow J.M., et al. The Royal College of Ophthalmologists' National Ophthalmology Database study of cataract surgery: report 1, visual outcomes and complications. Eye. 2015;29(4):552–560. doi: 10.1038/eye.2015.3. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 53. Hong A.R., Sheybani A., Huang A.J. Intraoperative management of posterior capsular rupture. Curr Opin Ophthalmol. 2015;26(1):16–21. doi: 10.1097/ICU.0000000000000113. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 54. Cao H., Zhang L., Li L., et al. Risk factors for acute endophthalmitis following cataract surgery: a systematic review and meta-analysis. PLoS One. 2013;8(8) doi: 10.1371/journal.pone.0071731. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. Jakobsson G., Montan P., Zetterberg M., et al. Capsule complication during cataract surgery: Retinal detachment after cataract surgery with capsule complication: Swedish Capsule Rupture Study Group report 4. J Cataract Refract Surg. 2009;35(10):1699–1705. doi: 10.1016/j.jcrs.2009.05.028. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. Yao K., Zhu Y., Zhu Z., et al. The incidence of postoperative endophthalmitis after cataract surgery in China: a multicenter investigation of 2006-2011. Br J Ophthalmol. 2013;97(10):1312–1317. doi: 10.1136/bjophthalmol-2013-303282. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 57. Zhu Y., Chen X., Chen P., et al. The occurrence rate of acute-onset postoperative endophthalmitis after cataract surgery in Chinese small- and medium-scale departments of ophthalmology. Sci Rep. 2017;7:40776. doi: 10.1038/srep40776. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 58. Chu C.J., Johnston R.L., Buscombe C., et al. Risk factors and incidence of macular edema after cataract surgery: a database study of 81984 eyes. Ophthalmology. 2016;123(2):316–323. doi: 10.1016/j.ophtha.2015.10.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. Schaumberg D.A., Dana M.R., Christen W.G., et al. A systematic overview of the incidence of posterior capsule opacification. Ophthalmology. 1998;105(7):1213–1221. doi: 10.1016/S0161-6420(98)97023-3. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 60. Shao D., Zhu X., Sun W., et al. Effects of femtosecond laser-assisted cataract surgery on dry eye. Exp Ther Med. 2018;16(6):5073–5078. doi: 10.3892/etm.2018.6862. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 61. Yu Y., Hua H., Wu M., et al. Evaluation of dry eye after femtosecond laser-assisted cataract surgery. J Cataract Refract Surg. 2015;41(12):2614–2623. doi: 10.1016/j.jcrs.2015.06.036. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 62. Schargus M., Ivanova S., Stute G., et al. Comparable effects on tear film parameters after femtosecond laser-assisted and conventional cataract surgery. Int Ophthalmol. 2020;40(11):3097–3104. doi: 10.1007/s10792-020-01532-z. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 63. Li Z., He Y., Keel S., et al. Efficacy of a deep learning system for detecting glaucomatous optic neuropathy based on color fundus photographs. Ophthalmology. 2018;125(8):1199–1206. doi: 10.1016/j.ophtha.2018.01.023. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 64. Pead E., Megaw R., Cameron J., et al. Automated detection of age-related macular degeneration in color fundus photography: a systematic review. Surv Ophthalmol. 2019;64(4):498–511. doi: 10.1016/j.survophthal.2019.02.003. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 65. Devalla S.K., Chin K.S., Mari J.M., et al. A deep learning approach to digitally stain optical coherence tomography images of the optic nerve head. Invest Ophthalmol Vis Sci. 2018;59(1):63–74. doi: 10.1167/iovs.17-22617. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 66. Muhammad H., Fuchs T.J., De Cuir N., et al. Hybrid deep learning on single wide-field optical coherence tomography scans accurately classifies glaucoma suspects. J Glaucoma. 2017;26(12):1086–1094. doi: 10.1097/IJG.0000000000000765. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 67. Burlina P.M., Joshi N., Pekala M., et al. Automated grading of age-related macular degeneration from color fundus images using deep convolutional neural networks. JAMA Ophthalmol. 2017;135(11):1170–1176. doi: 10.1001/jamaophthalmol.2017.3782. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 68. Lee C.S., Tyring A.J., Deruyter N.P., et al. Deep-learning based, automated segmentation of macular edema in optical coherence tomography. Biomed Opt Express. 2017;8(7):3440–3448. doi: 10.1364/BOE.8.003440. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 69. Gao X., Lin S., Wong T.Y. Automatic feature learning to grade nuclear cataracts based on deep learning. IEEE Trans Biomed Eng. 2015;62(11):2693–2701. doi: 10.1109/TBME.2015.2444389. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 70. Lee A., Taylor P., Kalpathy-Cramer J., et al. Machine learning has arrived. Ophthalmology. 2017;124(12):1726–1728. doi: 10.1016/j.ophtha.2017.08.046. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 71. Goh J.H.L., Lim Z.W., Fang X., et al. Artificial intelligence for cataract detection and management. Asia Pac J Ophthalmol (Phila). 2020;9(2):88–95. doi: 10.1097/01.APO.0000656988.16221.04. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 72. Jiang H., Yin Y., Wu C.-R., et al. Dietary vitamin and carotenoid intake and risk of age-related cataract. Am J Clin Nutr. 2019;109(1):43–54. doi: 10.1093/ajcn/nqy270. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 73. Zhang Y., Jiang W., Xie Z., et al. 2015. Vitamin E and risk of age-related cataract: a meta-analysis. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 74. Eggersdorfer M., Wyss A. Carotenoids in human nutrition and health. Arc. Biochem Biophys. 2018;652:18–26. doi: 10.1016/j.abb.2018.06.001. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 75. McCusker M.M., Durrani K., Payette M.J., et al. An eye on nutrition: the role of vitamins, essential fatty acids, and antioxidants in age-related macular degeneration, dry eye syndrome, and cataract. Clin Dermatol. 2016;34(2):276–285. doi: 10.1016/j.clindermatol.2015.11.009. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 76. Johra F.T., Bepari A.K., Bristy A.T., et al. A Mechanistic review of β-carotene, lutein, and zeaxanthin in eye health and disease. Antioxidants. 2020;9(11) doi: 10.3390/antiox9111046. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 77. Chasovnikova L.V., Formazyuk V.E., Sergienko V.I., et al. The antioxidative properties of carnosine and other drugs. Biochem Int. 1990;20(6):1097–1103. https://www.ncbi.nlm.nih.gov/pubmed/2369412 [ PubMed ] [ Google Scholar ] 
+ 
+ 78. Tsuneyoshi Y., Higuchi A., Negishi K., et al. Suppression of presbyopia progression with pirenoxine eye drops: experiments on rats and non-blinded, randomized clinical trial of efficacy. Sci Rep. 2017;7(1):6819. doi: 10.1038/s41598-017-07208-6. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 79. Hu C.-C., Liao J.-H., Hsu K.-Y., et al. Role of pirenoxine in the effects of catalin on in vitro ultraviolet-induced lens protein turbidity and selenite-induced cataractogenesis in vivo. Mol Vis. 2011;17:1862. [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 80. Makley L.N., McMenimen K.A., DeVree B.T., et al. Pharmacological chaperone for α-crystallin partially restores transparency in cataract models. Science. 2015;350(6261):674–677. doi: 10.1126/science.aac9145. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 81. Zhao L., Chen X.J., Zhu J., et al. Lanosterol reverses protein aggregation in cataracts. Nature. 2015;523(7562):607–611. doi: 10.1038/nature14650. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 82. Quinlan R.A. Drug discovery. a new dawn for cataracts. Science. 2015;350(6261):636–637. doi: 10.1126/science.aad6303. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 83. Ophthalmology Hejtmancik J.F. Cataracts dissolved. Nature. 2015;523(7562):540–541. doi: 10.1038/nature14629. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 84. Kang H., Yang Z., Zhou R. Lanosterol disrupts aggregation of human γD-crystallin by binding to the hydrophobic dimerization interface. J Am Chem Soc. 2018;140(27):8479–8486. doi: 10.1021/jacs.8b03065. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 85. Xu J., Wang H., Wang A., et al. βB2 W151R mutant is prone to degradation, aggregation and exposes the hydrophobic side chains in the fourth Greek Key motif. Biochim Biophys Acta (BBA) - Mol Basis Dis. 2021;1867(2):166018. doi: 10.1016/j.bbadis.2020.166018. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 86. Qi L.-B., Hu L.-D., Liu H., et al. Cataract-causing mutation S228P promotes βB1-crystallin aggregation and degradation by separating two interacting loops in C-terminal domain. Protein & cell. 2016;7(7):501–515. doi: 10.1007/s13238-016-0284-3. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 87. Daszynski D.M., Santhoshkumar P., Phadte A.S., et al. Failure of oxysterols such as lanosterol to restore lens clarity from cataracts. Sci Rep. 2019;9(1):1–14. doi: 10.1038/s41598-019-44676-4. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 88. Upadhyay A., Amanullah A., Mishra R., et al. Lanosterol suppresses the aggregation and cytotoxicity of misfolded proteins linked with neurodegenerative diseases. Mol Neurobiol. 2018;55(2):1169–1182. doi: 10.1007/s12035-016-0377-2. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 89. Shanmugam P.M., Barigali A., Kadaskar J., et al. Effect of lanosterol on human cataract nucleus. Indian J Ophthalmol. 2015;63(12):888. doi: 10.4103/0301-4738.176040. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 90. Hu L.-D., Wang J., Chen X.-J., et al. Lanosterol modulates proteostasis via dissolving cytosolic sequestosomes/aggresome-like induced structures. Biochim Biophys Acta Mol Cell Res. 2020;1867(2):118617. doi: 10.1016/j.bbamcr.2019.118617. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 91. Mori M., Li G., Abe I., et al. Lanosterol synthase mutations cause cholesterol deficiency-associated cataracts in the Shumiya cataract rat. J Clin Invest. 2006;116(2):395–404. doi: 10.1172/JCI20797. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 92. Chen X.J., Hu L.D., Yao K., et al. Lanosterol and 25-hydroxycholesterol dissociate crystallin aggregates isolated from cataractous human lens via different mechanisms. Biochem Biophys Res Commun. 2018;506(4):868–873. doi: 10.1016/j.bbrc.2018.10.175. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 93. Xu J., Fu Q., Chen X., et al. Advances in pharmacotherapy of cataracts. Ann Transl Med. 2020;8(22) doi: 10.21037/atm-20-1960. 1552-1552. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 94. Yang X., Chen X.J., Yang Z., et al. Synthesis, evaluation, and structure-activity relationship study of lanosterol derivatives to reverse mutant-crystallin-induced protein aggregation. J Med Chem. 2018;61(19):8693–8706. doi: 10.1021/acs.jmedchem.8b00705. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 95. Bohm M., Petermann K., Hemkeppler E., et al. Defocus curves of 4 presbyopia-correcting IOL designs: diffractive panfocal, diffractive trifocal, segmental refractive, and extended-depth-of-focus. J Cataract Refract Surg. 2019;45(11):1625–1636. doi: 10.1016/j.jcrs.2019.07.014. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 96. Webers V.S.C., Bauer N.J.C., Saelens I.E.Y., et al. Comparison of the intermediate distance of a trifocal IOL with an extended depth-of-focus IOL: results of a prospective randomized trial. J Cataract Refract Surg. 2020;46(2):193–203. doi: 10.1097/j.jcrs.0000000000000012. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 97. Gil M.A., Varon C., Cardona G., et al. Visual acuity and defocus curves with six multifocal intraocular lenses. Int Ophthalmol. 2020;40(2):393–401. doi: 10.1007/s10792-019-01196-4. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 98. Monaco G., Gari M., Di Censo F., et al. Visual performance after bilateral implantation of 2 new presbyopia-correcting intraocular lenses: trifocal versus extended range of vision. J Cataract Refract Surg. 2017;43(6):737–747. doi: 10.1016/j.jcrs.2017.03.037. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 99. Ruiz-Mesa R., Abengozar-Vela A., Aramburu A., et al. Comparison of visual outcomes after bilateral implantation of extended range of vision and trifocal intraocular lenses. Eur J Ophthalmol. 2017;27(4):460–465. doi: 10.5301/ejo.5000935. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 100. Cochener B., Boutillier G., Lamard M., et al. A comparative evaluation of a new generation of diffractive trifocal and extended depth of focus intraocular lenses. J Refract Surg. 2018;34(8):507–514. doi: 10.3928/1081597X-20180530-02. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 101. Rodov L., Reitblat O., Levy A., et al. Visual outcomes and patient satisfaction for trifocal, extended depth of focus and monofocal intraocular lenses. J Refract Surg. 2019;35(7):434–440. doi: 10.3928/1081597X-20190618-01. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 102. Singh B., Sharma S., Dadia S., et al. Comparative evaluation of visual outcomes after bilateral implantation of a diffractive trifocal intraocular lens and an extended depth of focus intraocular lens. Eye Contact Lens. 2020;46(5):314–318. doi: 10.1097/ICL.0000000000000637. [ DOI ] [ PubMed ] [ Google Scholar ]

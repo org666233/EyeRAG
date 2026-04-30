@@ -1,0 +1,55 @@
+name: eyerag          # Docker Desktop 项目分组名，所有容器归到 eyerag 组下
+
+# EyeRAG 项目专用基础设施
+# 包含: MySQL（关系数据库）+ ChromaDB（向量数据库）
+# 前后端在本地开发环境直接启动
+#
+# 启动: docker-compose up -d
+# 停止: docker-compose down
+
+services:
+  # ── MySQL 8.0（关系数据库）────────────────────────────────
+  eyerag-mysql:
+    image: mysql:8.0
+    container_name: eyerag-mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: root123456
+      MYSQL_DATABASE: eyerag
+      MYSQL_USER: eyerag
+      MYSQL_PASSWORD: eyerag123
+      TZ: Asia/Shanghai
+    ports:
+      - "3316:3306"      # 3316 避免与其他项目 3306 冲突
+    volumes:
+      - eyerag_mysql_data:/var/lib/mysql
+    command: >
+      --character-set-server=utf8mb4
+      --collation-server=utf8mb4_unicode_ci
+      --default-authentication-plugin=mysql_native_password
+      --max_connections=200
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "eyerag", "-peyerag123"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 30s
+
+  # ── ChromaDB（向量数据库）────────────────────────────────
+  eyerag-chroma:
+    image: chromadb/chroma:latest
+    container_name: eyerag-chroma
+    restart: unless-stopped
+    environment:
+      IS_PERSISTENT: "TRUE"
+      PERSIST_DIRECTORY: /chroma/chroma
+      ANONYMIZED_TELEMETRY: "FALSE"
+    ports:
+      - "8011:8000"      # 8011 避免与后端 8000 冲突
+    volumes:
+      - ./backend/chroma_db:/data             # 挂载现有向量数据（容器持久化路径为 /data）
+
+volumes:
+  eyerag_mysql_data:
+    driver: local
+    name: eyerag_mysql_data    # 显式命名，不会和其他项目混淆

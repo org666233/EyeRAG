@@ -1,0 +1,715 @@
+Source: PubMed Central (PMC)
+PMCID: PMC5904724
+Title: Recent advances in understanding and managing retinal vein occlusions
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5904724/
+Year: 2018
+Disease: retinal_vein_occlusion
+Priority: 3
+============================================================
+
+F1000Res . 2018 Apr 16;7:467. [Version 1] doi: 10.12688/f1000research.12886.1 
+ 
+ 
+ Recent advances in understanding and managing retinal vein occlusions 
+ Daniel D Esmaili 
+ Daniel D Esmaili 
+ 
+ 1 Retina-Vitreous Associates Medical Group, 001 Wilshire Boulevard, Suite 301, Beverly Hills, CA 90211, USA 
+ Find articles by Daniel D Esmaili 
+ 
+ 
+ 1 , David S Boyer 
+ David S Boyer 
+ 
+ 1 Retina-Vitreous Associates Medical Group, 001 Wilshire Boulevard, Suite 301, Beverly Hills, CA 90211, USA 
+ 
+ 2 Keck School of Medicine, University of Southern California, 1975 Zonal Avenue, Los Angeles, CA 90033, USA 
+ Conceptualization, Investigation, Project Administration, Supervision, Writing – Original Draft Preparation, Writing – Review & Editing 
+ Find articles by David S Boyer 
+ 
+ 
+ 1, 2, a 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Retina-Vitreous Associates Medical Group, 001 Wilshire Boulevard, Suite 301, Beverly Hills, CA 90211, USA 
+ 
+ 2 Keck School of Medicine, University of Southern California, 1975 Zonal Avenue, Los Angeles, CA 90033, USA 
+ 
+ 
+ a Email: vitdoc@aol.com 
+ 
+ No competing interests were disclosed. 
+ 
+ Roles 
+ 
+ David S Boyer : Conceptualization, Investigation, Project Administration, Supervision, Writing – Original Draft Preparation, Writing – Review & Editing 
+ 
+ 
+ Accepted 2018 Apr 11; Collection date 2018. 
+ 
+ Copyright: © 2018 Esmaili DD and Boyer DS 
+ This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC5904724  PMID: 29744040 
+ 
+ Abstract 
+ Retinal vein occlusions are the second most common form of retinal vascular disease. Previously, laser treatment for branch retinal vein occlusion and intravitreal triamcinolone acetonide for central retinal vein occlusion were the standard of care. Recent studies have demonstrated that anti-vascular endothelial growth factor (anti-VEGF) agents have a superior safety and efficacy profile for the treatment of both branch and central retinal vein occlusions. The use of wide-field fluorescein angiography has also allowed better visualization of the retinal periphery. Despite the better documentation of retinal non-perfusion, laser photocoagulation to the areas of non-perfusion does not seem to result in a reduction of macular edema or reduction in treatment burden and has been relegated to patients who develop rubeosis or neovascularization of the retina. More recently, several studies have demonstrated the use of a long-acting dexamethasone implant administered intravitreally or triamcinolone administered in the suprachoroidal space as a viable approach to treat retinal vein occlusion. 
+ Keywords: retina, vein occlusions, retinal vascular disease, anti-VEGF Introduction 
+ Retinal vascular occlusions are the second most common form of retinal vascular disease after diabetic retinopathy
+ 1 . There are two major anatomic forms of retinal vascular occlusions: branch retinal vein occlusion (BRVO) and central retinal vein occlusion (CRVO). Furthermore, retinal vein occlusions (RVOs) can be classified as ischemic and non-ischemic occlusions, depending on the degree of non-perfusion based on the fluorescein angiogram
+ 2 . Wide-field angiography has become more available and is an enhanced method of determining non-perfusion. 
+ BRVO is three to four times more common than CRVO and often occurs at the crossing of an artery and a vein. CRVO has a poorer prognosis than does BRVO, and ischemic CRVO has a poorer prognosis than does perfused CRVO. CRVO usually occurs from a thrombus in the central retinal vein at the level of the lamina cribrosa in the optic nerve
+ 3 . Randomized clinical studies 
+ SCORE study 
+ A National Eye Institute-sponsored SCORE (Standard Care versus Corticosteroid for Retinal Vein Occlusion) study compared 1 and 4 mg of preservative-free intravitreal triamcinolone acetonide versus observation in patients who had both BRVO and CRVO
+ 4 ,
+ 5 . BRVO treated in the SCORE study with 1 or 4 mg of triamcinolone versus focal laser showed that all groups gained three lines of vision in a similar fashion. CRVO treated in the SCORE study showed three lines of improvement with both 1 mg (21%) and 4 mg (26%) triamcinolone acetonide versus 7% with observation. The complication rates of cataracts and increased intraocular pressure were higher in the 4 mg triamcinolone group versus the 1 mg group. Despite the results of the SCORE study, intravitreal anti-vascular endothelial growth factor (anti-VEGF) therapy has replaced corticosteroids as the treatment of choice for patients with CRVO because of a more favorable side effect profile. Geneva study 
+ The dexamethasone implant (DEX implant; Ozurdex, Allergan, Irvine, CA, USA) is a biodegradable form of micronized dexamethasone that releases 700 mg of dexamethasone over several months and is inserted in the office through a 23-gauge needle puncture. Two multi-center trials included patients with CRVO and BRVO
+ 6 ,
+ 7 . At 180 days, 41% and 40% of eyes receiving 0.7 or 0.35 mg of dexamethasone, respectively, improved 15 letters versus 23% of sham. 
+ Although there have not been head-to-head studies comparing all three anti-VEGF medications, the SCORE2 study recently investigated six monthly injections of bevacizumab or aflibercept and found no significant difference in the visual result when both were administered monthly for six months
+ 8 . An important learning point from this study was that frequent injections and early treatment led to better visual acuity results with all anti-VEGFs. 
+ The SCORE2 study confirmed the MARVEL study
+ 9 , a six-month study that randomly assigned patients with macular edema due to BRVO to 0.5 mg of ranibizumab or 1.25 mg of bevacizumab. At six months, the mean gains in visual acuity were 18.1 letters for the ranibizumab group and 15.6 letters for the bevacizumab group. 
+ Laser photocoagulation therapy was previously considered a treatment of choice for macular edema secondary to BRVO
+ 10 . Several studies have examined retinal photocoagulation to the areas of peripheral non-perfusion in eyes with CRVO and macular edema and showed no improvement in macular edema
+ 11 . 
+ In the RELATE trial, subjects received 0.5 or 2 mg of ranibizumab for six months and then were randomly assigned to ranibizumab with laser photocoagulation or ranibizumab only. There was no long-term benefit in visual acuity, macular edema, or number of injections needed by the addition of laser treatment to ranibizumab
+ 11 . 
+ Panretinal photocoagulation therapy (PRP) is still being used for the treatment of neovascular complications of CRVO such as neovascularization of the retina, iris, or angle. Owing to the emergence of anti-VEGF therapy, PRP is being used less frequently. Surgical treatments 
+ Several surgical treatments have been attempted, but none has undergone strict scrutiny in randomized clinical trials. In addition, most studies were done before the availability of anti-VEGF drugs. 
+ 
+ Radial optic neurotomy. In this approach, an incision is made in the optic nerve and adjacent retina with a microvitreoretinal (MVR) blade during pars plana vitrectomy
+ 12 . The original idea was to reduce the congestion of the optic nerve by opening the scleral canal, although it has also been hypothesized that this procedure may allow the formation of a retinal-choroidal anastomosis. There have been mixed results of its safety and efficacy
+ 13 , and this procedure has fallen out of favor and is rarely performed. 
+ 
+ Surgical formation. Surgical formation of retinal-choroidal anastomosis, either by laser
+ 14 or directly at the time of vitrectomy, has also been advocated for perfused CRVO and has shown favorable results in some patients. The potential complications, however, include vitreous hemorrhage and neovascularization. No long-term follow-up or randomized clinical trials have been performed. 
+ 
+ Vitrectomy. Vitrectomy with internal limiting membrane and panretinal endophotocoagulation for macular edema secondary to CRVO has not shown any improvement
+ 15 ,
+ 16 . 
+ 
+ Arteriovenous sheathotomy. Arteriovenous sheathotomy for BRVO has been advocated by some to release the arteriovenous adhesion and decompress the vein at an arteriovenous crossing point
+ 17 ,
+ 18 . Hypertension and atherosclerotic changes to the arteriole may impinge the vein and lead to thrombus formation. The surgery involves performing a vitrectomy and then using either scissors or a bent MVR blade to cut the sheath at an arteriovenous crossing point until the artery becomes mobile. If done early before there is complete sclerosis of the vein, the procedure has shown an improvement of visual acuity in some patients
+ 19 ,
+ 20 . Arteriovenous sheathotomy has shown functional and anatomic outcomes similar to those of intravitreal triamcinolone in a comparative trial
+ 21 . 
+ 
+ Tissue plasminogen activator. Tissue plasminogen activator (tPA) has also been used, both intravitreally as well as through direct injection into a cannulated retinal vein
+ 22 –
+ 25 . This approach has not been compared with medical management in a comparative trial. Medical therapy 
+ Case reports of patients with RVO treated with anti-thrombotic or thrombolytic medications, including clopidogrel, tPA (both intravitreal and into a vein), heparin, aspirin, low-molecular-weight heparin
+ 26 , or hemodilation
+ 27 , have shown variable results, not allowing a recommendation. Unfortunately, no significant improvements have been found.
+ 
+ Associated systemic findings and risk factors 
+ Several systemic conditions have been associated with retinal vascular occlusions, including hyperviscosity and hypercoagulability conditions: specifically, protein C and protein S deficiency, prothrombin gene mutation, anti-thrombin abnormalities, anti-phospholipid syndrome (anti-cardiolipin and lupus anti-coagulant), factor V Leiden deficiency, and hyperhomocysteinemia
+ 28 –
+ 31 . 
+ Hypertension, diabetes mellitus, renal disease, atherosclerosis, glaucoma
+ 32 , and blood lipid disorders have been identified as risk factors
+ 33 –
+ 36 . In a meta-analysis, however, only hyperhomocysteinemia and anti-cardiolipin antibodies were significantly associated with RVOs. With RVO and no other history of vascular occlusions, it is rare to find a coagulation defect. In younger patients (<50 years old), a work-up for underlying hypercoagulable disease should be considered. 
+ Recently, a meta-analysis of patients with both BRVO and CRVO showed an increased risk of stroke, especially in subjects between 50 and 69 years of age
+ 37 . Similarly, a meta-analysis association was found for an increased risk of acute myocardial infarction
+ 38 . It is prudent to recommend that patients with retinal vascular occlusions have their primary care providers evaluate and optimize their cardiovascular risk factors. Anti-VEGF therapy 
+ Currently, there are three anti-VEGF drugs that are available to treat both CRVO and BRVO. Both ranibizumab and aflibercept are US Food and Drug Administration-approved, while bevacizumab is an off-label use of an anti-VEGF drug approved for the treatment of metastatic colon cancer
+ 39 . Anti-VEGF therapy is now the treatment of choice for retinal venous occlusive disease. 
+ Bevacizumab 
+ Bevacizumab (Avastin, Genentech, South San Francisco, CA, USA) is the off-label use of the humanized monoclonal antibody that binds all forms of VEGF-A and has been approved only for the treatment of metastatic colon cancer. The drug is compounded in small aliquots and is used in the treatment of vein occlusions as well as diabetes and age-related macular degeneration
+ 40 ,
+ 41 . Bevacizumab has been shown to be an effective off-label anti-VEGF for controlling macular edema associated with RVOs. Ranibizumab 
+ Ranibizumab (Lucentis, Genentech) is a monoclonal Fab fragment which binds all forms of VEGF. Randomized phase III clinical trials using ranibizumab have been performed to assess the safety and efficacy of ranibizumab for the treatment of macular edema secondary to RVO. 
+ Ranibizumab for the treatment of macular edema following BRVO has been studied in the Efficacy and Safety of Ranibizumab Injection in Patients with Macular Edema Secondary to Branch Retinal Vein Occlusion (BRAVO) trial. In this study, 55% and 61% of patients receiving 0.3 and 0.5 mg ranibizumab, respectively, experienced a three-line improvement in vision compared with 29% in the control group. Continued
+ pro re nata (prn) treatment showed stabilization of vision, although laser treatment was added in almost 50% of patients
+ 42 . 
+ Ranibizumab for the treatment of macular edema following CRVO has been studied in the Ranibizumab for the Treatment of Macular Edema after Central Retinal Vein Occlusion Study: Evaluation of Efficacy and Safety (CRUISE). A total of 392 patients with macular edema secondary to CRVO were randomized to 0.3 mg of ranibizumab, 0.5 mg of ranibizumab, or sham injection. At 6 months, 46% and 48% of patients in the 0.3 and 0.5 mg groups, respectively, showed three lines of improvement of vision versus 17% in the control group
+ 43 . Aflibercept 
+ Aflibercept (VEGF Trap-Eye, Regeneron, Tarrytown, NY, USA) is a fusion protein with portions of VEGF receptor 1 and 2 bound by a fragment crystallizable (FC) portion. Intravitreal aflibercept binds to the isoform of human VEGF-A and placental growth factor (PIGF) with a higher affinity than does ranibizumab. The VIBRANT trial evaluated the efficacy of aflibercept over grid laser treatment in patients with BRVO and macular edema. A total of 57% of affected eyes treated with aflibercept gained three lines or more of vision. The study also showed that after monthly injections for six months, less frequent injections could still maintain vision
+ 44 . 
+ The VEGF Trap-Eye: Investigation of Efficacy and Safety in Central Retinal Vein Occlusion (COPERNICUS) and the General Assessment Limiting Infiltration of Exudate in Central Retinal Vein Occlusion with VEGF Trap-Eye (GALILEO) studies both evaluated the use of aflibercept in the treatment of macular edema from CRVO. In both studies, over 50% of treated eyes compared with 12% of control eyes gained three lines of vision
+ 45 ,
+ 46 . New advances in the treatment of RVO 
+ There have been few recent advances in the treatment of BRVO. The sustained benefits of ranibizumab for 24 months in the BRIGHTER study confirmed visual superiority of ranibizumab or ranibizumab plus laser (14.8 letters) versus laser for six months and then ranibizumab as needed after (+6 letters)
+ 47 . Smaller studies have confirmed or demonstrated that delay in treatment is associated with decrease in visual improvement compared with prompt treatment. 
+ Several studies have evaluated predictors of macular edema recurrence and visual acuity in patients with BRVO. Recurrence of macular edema has been shown to be associated with the degree of non-perfusion of the central 1 mm ETDRS (Early Treatment Diabetic Retinopathy Study) circle or with an initial central retinal thickness of more than 570
+ 48 . Disorganization of the retinal inner layers is a predictor of subsequent visual acuity improvement or decline following the first three monthly injections in patients with macular edema
+ 49 . 
+ RVO-associated macular edema may be refractory to treatment with an anti-VEGF agent. Risk factors for suboptimal response include older age, shorter occlusion distance from the optic nerve, longer pre-treatment duration, and larger areas of non-perfusion. A study of eyes with macular edema from RVO that were refractory to treatment with an anti-VEGF agent revealed that treatment with a long-acting dexamethasone implant showed a small improvement in both optical coherence tomography (OCT) and vision
+ 50 . 
+ A small study investigated ranibizumab, aflibercept, or dexamethasone implant injections in patients with suboptimal response to bevacizumab. Patients were assessed every three months for a year. At month 12, vision improved in 59% of patients. There was no difference between each therapy, but the number of injections varied from 3.30 for dexamethasone to 6.50 for aflibercept and 8.27 for ranibizumab
+ 51 . 
+ Optical coherence angiography has given us an opportunity to study the superficial and deep capillary plexus in patients with retinal vascular diseases. The degree of perifoveal capillary non-perfusion has been correlated with visual function
+ 52 . Other studies have suggested that the deep capillary plexus may be more severely affected than the superficial plexus
+ 53 . It has been shown that eyes with a reduction in vessel density of the deep plexus compared with the superficial plexus did not recover after a dexamethasone implant
+ 54 . 
+ Combination of an anti-VEGF and a corticosteroid drug for the treatment of RVO has been advocated, but there is a paucity of long-term studies supporting this approach. A study by Singer
+ et al . showed that combination therapy with an anti-VEGF agent and dexamethasone implant led to a mean re-injection interval of 135 ± 36.4 days for patients with macular edema secondary to CRVO and BRVO as well as improvements in visual acuity and central foveal thickness
+ 55 . Unfortunately, there was no control group. However, combination therapy remains a possibility for difficult-to-treat eyes. 
+ Recent studies have shown that VEGF suppression reduces macular edema and prevents vessel closure by leukocytes
+ 56 . This finding supports the results of the aflibercept COPERNICUS and GALILEO studies showing that a delay in treatment results in a decrease in eventual visual improvement compared with early treatment. 
+ The degree of retinal non-perfusion may be prognostic for the chance of developing new vessels. The odds of developing neovascularization go from 0% with less than one disc area (DA) of non-perfusion to an 80% risk with 75 to 150 DA of non-perfusion
+ 57 . The use of wide-field fluorescein angiography has allowed us to better determine capillary non-perfusion and the risk of developing neovascular complications. Future 
+ There is ample hope that new anti-VEGF drugs will be coming to market in the near future. 
+ Conbercept 
+ Conbercept (KH902) has already shown significant improvements in patients with RVO in China
+ 58 . Conbercept blocks all VEGF-A isoforms as well as VEGF-B, VEGF-C, and PIGF. Brolucizumab 
+ Brolucizumab (Alcon, a division of Novartis, Fort Worth, TX, USA) has shown preliminary efficacy and safety and appears to be a strong anti-VEGF drug designed for the treatment of neovascular age-related macular degeneration. A vein occlusion trial for this drug will be initiated soon. 
+ Nanoparticles, liposomes, and other drug delivery systems hopefully will allow less-frequent injections of anti-VEGF agents or corticosteroids. Special needles and devices to allow more predictable penetration of a retinal vein are being developed with the hope that they may be used to inject tPA and other agents directly into the area of occlusion. Clearside Biomedical Inc. 
+ Clearside Biomedical Inc. (Alpharetta, GA, USA) has introduced a novel approach to the treatment of RVOs, using a combination of a suprachoroidal delivery system for the delivery of corticosteroids and intravitreal aflibercept, to improve vision and decrease the treatment burden. In the TANZANITE study, 46 treatment-naïve patients with RVO received intravitreal aflibercept alone or the combination of aflibercept and concomitant suprachoroidal delivery of triamcinolone acetonide
+ 59 . At three months, the combination arm showed an increase in visual acuity and improved OCT compared with the aflibercept-alone cohort. A total of 74% of the combination-treated group did not receive any additional treatment over nine months. 
+ In conclusion, RVOs continue to be a commonly encountered retinal condition. With the advent of improved therapies, we now have the ability to treat the secondary complications of neovascularization and macular edema. Future advances will allow for more effective treatments while hopefully minimizing the treatment burden for our patients. Editorial Note on the Review Process 
+ 
+ F1000 Faculty Reviews are commissioned from members of the prestigious
+ F1000 Faculty and are edited as a service to readers. In order to make these reviews as comprehensive and accessible as possible, the referees provide input before publication and only the final, revised version is published. The referees who approved the final version are listed with their names and affiliations but without their reports on earlier versions (any comments will already have been addressed in the published version). 
+ The referees who approved this article are: 
+ 
+ 
+ Hans Hoerauf , Department of Ophthalmology, Georg-August-University Göttingen, Göttingen, Germany
+
+ 
+ 
+ Akiatka Tsujikawa , Department of Ophthalmology and Visual Sciences, Kyoto University Graduate School of Medicine, Kyoto, Japan
+
+ 
+ 
+ Michael Brent , Department of Ophthalmology and Vision Sciences, University of Toronto, Toronto, ONT, USA
+
+ 
+ Funding Statement 
+ The author(s) declared that no grants were involved in supporting this work. [version 1; referees: 3 approved] References 
+ 
+ 
+ 1. 
+Cugati S, Wang JJ, Rochtchina E, et al. :
+Ten-year incidence of retinal vein occlusion in an older population: the Blue Mountains Eye Study.
+ Arch Ophthalmol. 
+2006;124(5):726–32.
+10.1001/archopht.124.5.726
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. 
+Hayreh SS:
+Prevalent misconceptions about acute retinal vascular occlusive disorders.
+ Prog Retin Eye Res. 
+2005;24(4):493–519.
+10.1016/j.preteyeres.2004.12.001
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. 
+Cheung N, Klein R, Wang JJ, et al. :
+Traditional and novel cardiovascular risk factors for retinal vein occlusion: the multiethnic study of atherosclerosis.
+ Invest Ophthalmol Vis Sci. 
+2008;49(10):4297–302.
+10.1167/iovs.08-1826
+
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. 
+Ip MS, Scott IU, Van Veldhuisen PC, et al. :
+A randomized trial comparing the efficacy and safety of intravitreal triamcinolone with observation to treat vision loss associated with macular edema secondary to central retinal vein occlusion: the Standard Care vs Corticosteroid for Retinal Vein Occlusion (SCORE) study report 5.
+ Arch Ophthalmol. 
+2009;127(9):1101–14.
+10.1001/archophthalmol.2009.234
+
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. 
+Scott IU, Ip MS, VanVeldhuisen PC, et al. :
+A randomized trial comparing the efficacy and safety of intravitreal triamcinolone with standard care to treat vision loss associated with macular Edema secondary to branch retinal vein occlusion: the Standard Care vs Corticosteroid for Retinal Vein Occlusion (SCORE) study report 6.
+ Arch Ophthalmol. 
+2009;127(9):1115–28.
+10.1001/archophthalmol.2009.233
+
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. 
+Haller JA, Bandello F, Belfort R, Jr, et al. :
+Dexamethasone intravitreal implant in patients with macular edema related to branch or central retinal vein occlusion twelve-month study results.
+ Ophthalmology. 
+2011;118(12):2453–60.
+10.1016/j.ophtha.2011.05.014
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. 
+Haller JA, Bandello F, Belfort R, Jr, et al. :
+Randomized, sham-controlled trial of dexamethasone intravitreal implant in patients with macular edema due to retinal vein occlusion.
+ Ophthalmology. 
+2010;117(6):1134–1146.e3.
+10.1016/j.ophtha.2010.03.032
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. 
+Scott IU, VanVeldhuisen PC, Ip MS, et al. :
+Effect of Bevacizumab vs Aflibercept on Visual Acuity Among Patients With Macular Edema Due to Central Retinal Vein Occlusion: The SCORE2 Randomized Clinical Trial.
+ JAMA. 
+2017;317(20):2072–87.
+10.1001/jama.2017.4568
+
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]; 
+ F1000 Recommendation 
+ 
+ 
+ 
+ 9. 
+Narayanan R, Panchal B, Das T, et al. :
+A randomised, double-masked, controlled study of the efficacy and safety of intravitreal bevacizumab versus ranibizumab in the treatment of macular oedema due to branch retinal vein occlusion: MARVEL Report No. 1.
+ Br J Ophthalmol. 
+2015;99(7):954–9.
+10.1136/bjophthalmol-2014-306543
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. 
+Argon laser photocoagulation for macular edema in branch vein occlusion. The Branch Vein Occlusion Study Group.
+ Am J Ophthalmol. 
+1984;98(3):271–82.
+10.1016/0002-9394(84)90316-7
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. 
+Campochiaro PA, Hafiz G, Mir TA, et al. :
+Scatter Photocoagulation Does Not Reduce Macular Edema or Treatment Burden in Patients with Retinal Vein Occlusion: The RELATE Trial.
+ Ophthalmology. 
+2015;122(7):1426–37.
+10.1016/j.ophtha.2015.04.006
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]; 
+ F1000 Recommendation 
+ 
+ 
+ 
+ 12. 
+Opremcak EM, Bruce RA, Lomeo MD, et al. :
+Radial optic neurotomy for central retinal vein occlusion: a retrospective pilot study of 11 consecutive cases.
+ Retina. 
+2001;21(5):408–15.
+10.1097/00006982-200110000-00002
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. 
+Weizer JS, Stinnett SS, Fekrat S:
+Radial optic neurotomy as treatment for central retinal vein occlusion.
+ Am J Ophthalmol. 
+2003;136(5):814–9.
+10.1016/S0002-9394(03)00698-6
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. 
+McAllister IL, Gillies ME, Smithies LA, et al. :
+The Central Retinal Vein Bypass Study: a trial of laser-induced chorioretinal venous anastomosis for central retinal vein occlusion.
+ Ophthalmology. 
+2010;117(5):954–65.
+10.1016/j.ophtha.2009.10.026
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. 
+Saika S, Tanaka T, Miyamoto T, et al. :
+Surgical posterior vitreous detachment combined with gas/air tamponade for treating macular edema associated with branch retinal vein occlusion: retinal tomography and visual outcome.
+ Graefes Arch Clin Exp Ophthalmol. 
+2001;239(10):729–32.
+10.1007/s004170100344
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. 
+Kumagai K, Furukawa M, Ogino N, et al. :
+Long-term outcomes of vitrectomy with or without arteriovenous sheathotomy in branch retinal vein occlusion.
+ Retina. 
+2007;27(1):49–54.
+10.1097/01.iae.0000221996.77421.69
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. 
+Osterloh MD, Charles S:
+Surgical decompression of branch retinal vein occlusions.
+ Arch Ophthalmol. 
+1988;106(10):1469–71.
+10.1001/archopht.1988.01060140633037
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. 
+Oh IK, Kim S, Oh J, et al. :
+Long-term visual outcome of arteriovenous adventitial sheathotomy on branch retinal vein occlusion induced macular edema.
+ Korean J Ophthalmol. 
+2008;22(1):1–5.
+10.3341/kjo.2008.22.1.1
+
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. 
+Mason J, 3rd, Feist R, White M, Jr, et al. :
+Sheathotomy to decompress branch retinal vein occlusion: a matched control study.
+ Ophthalmology. 
+2004;111(3):540–5.
+10.1016/j.ophtha.2003.05.032
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. 
+Muqit MM, Saidkasimova S, Keating D, et al. :
+Long-term study of vascular perfusion effects following arteriovenous sheathotomy for branch retinal vein occlusion.
+ Acta Ophthalmol. 
+2010;88(3):e57–65.
+10.1111/j.1755-3768.2010.01877.x
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. 
+Chung EJ, Lee H, Koh HJ:
+Arteriovenous crossing sheathotomy versus intravitreal triamcinolone acetonide injection for treatment of macular edema associated with branch retinal vein occlusion.
+ Graefes Arch Clin Exp Ophthalmol. 
+2008;246(7):967–74.
+10.1007/s00417-008-0830-7
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. 
+Weiss JN:
+Treatment of central retinal vein occlusion by injection of tissue plasminogen activator into a retinal vein.
+ Am J Ophthalmol. 
+1998;126(1):142–4.
+10.1016/S0002-9394(98)00086-5
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. 
+Bynoe LA, Hutchins RK, Lazarus HS, et al. :
+Retinal endovascular surgery for central retinal vein occlusion: initial experience of four surgeons.
+ Retina. 
+2005;25(5):625–32.
+10.1097/00006982-200507000-00014
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. 
+Murakami T, Takagi H, Kita M, et al. :
+Intravitreal tissue plasminogen activator to treat macular edema associated with branch retinal vein occlusion.
+ Am J Ophthalmol. 
+2006;142(2):318–20.
+10.1016/j.ajo.2006.02.039
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. 
+Steinkamp GW, Hattenbach LO, Scharrer I, et al. :
+[Front-loading rt PA thrombolytic therapy in central or venous branch occlusions of the retina].
+ Ophthalmologe. 
+1994;91(3):280–2.
+ [ PubMed ] [ Google Scholar ] 
+ 
+ 26. 
+Lazo-Langner A, Hawel J, Ageno W, et al. :
+Low molecular weight heparin for the treatment of retinal vein occlusion: a systematic review and meta-analysis of randomized trials.
+ Haematologica. 
+2010;95(9):1587–93.
+10.3324/haematol.2010.023614
+
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. 
+Mohamed Q, McIntosh RL, Saw SM, et al. :
+Interventions for central retinal vein occlusion: an evidence-based systematic review.
+ Ophthalmology. 
+2007;114(3):507–19, 524.
+10.1016/j.ophtha.2006.11.011
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. 
+Fegan CD:
+Central retinal vein occlusion and thrombophilia.
+ Eye (Lond). 
+2002;16(1):98–106.
+10.1038/sj.eye.6700040
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. 
+Janssen MC, den Heijer M, Cruysberg JR, et al. :
+Retinal vein occlusion: a form of venous thrombosis or a complication of atherosclerosis? A meta-analysis of thrombophilic factors.
+ Thromb Haemost. 
+2005;93(6):1021–6.
+10.1160/TH04-11-0768
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. 
+Salaun N, Delyfer MN, Rougier MB, et al. :
+[Assessment of risk factors for retinal vein occlusions in patients under 60 years of age].
+ J Fr Ophtalmol. 
+2007;30(9):918–23.
+10.1016/S0181-5512(07)74029-9
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. 
+Kolar P:
+Risk factors for central and branch retinal vein occlusion: a meta-analysis of published clinical data.
+ J Ophthalmol. 
+2014;2014:724780.
+10.1155/2014/724780
+
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. 
+Klein BE, Meuer SM, Knudtson MD, et al. :
+The relationship of optic disk cupping to retinal vein occlusion: the Beaver Dam Eye Study.
+ Am J Ophthalmol. 
+2006;141(5):859–62.
+10.1016/j.ajo.2005.12.015
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. 
+Risk factors for central retinal vein occlusion. The Eye Disease Case-Control Study Group.
+ Arch Ophthalmol. 
+1996;114(5):545–54.
+10.1001/archopht.1996.01100130537006
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. 
+Risk factors for branch retinal vein occlusion. The Eye Disease Case-control Study Group.
+ Am J Ophthalmol. 
+1993;116(3):286–96.
+10.1016/S0002-9394(14)71345-5
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. 
+O'Mahoney PR, Wong DT, Ray JG:
+Retinal vein occlusion and traditional risk factors for atherosclerosis.
+ Arch Ophthalmol. 
+2008;126(5):692–9.
+10.1001/archopht.126.5.692
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. 
+Koizumi H, Ferrara DC, Bruè C, et al. :
+Central retinal vein occlusion case-control study.
+ Am J Ophthalmol. 
+2007;144(6):858–63.
+10.1016/j.ajo.2007.07.036
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. 
+Li M, Hu X, Huang J, et al. :
+Impact of Retinal Vein Occlusion on Stroke Incidence: A Meta-Analysis.
+ J Am Heart Assoc. 
+2016;5(12): pii: e004703.
+10.1161/JAHA.116.004703
+
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]; 
+ F1000 Recommendation 
+ 
+ 
+ 
+ 38. 
+Zhong C, You S, Zhong X, et al. :
+Retinal vein occlusion and risk of cerebrovascular disease and myocardial infarction: A meta-analysis of cohort studies.
+ Atherosclerosis. 
+2016;247:170–6.
+10.1016/j.atherosclerosis.2016.02.024
+ [ DOI ] [ PubMed ] [ Google Scholar ]; 
+ F1000 Recommendation 
+ 
+ 
+ 
+ 39. 
+Rosenfeld PJ, Fung AE, Puliafito CA:
+Optical coherence tomography findings after an intravitreal injection of bevacizumab (avastin) for macular edema from central retinal vein occlusion.
+ Ophthalmic Surg Lasers Imaging. 
+2005;36(4):336–9.
+ [ PubMed ] [ Google Scholar ] 
+ 
+ 40. 
+Yilmaz T, Cordero-Coma M:
+Use of bevacizumab for macular edema secondary to branch retinal vein occlusion: a systematic review.
+ Graefes Arch Clin Exp Ophthalmol. 
+2012;250(6):787–93.
+10.1007/s00417-012-2016-6
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. 
+Hoeh AE, Ruppenstein M, Ach T, et al. :
+OCT patterns of macular edema and response to bevacizumab therapy in retinal vein occlusion.
+ Graefes Arch Clin Exp Ophthalmol. 
+2010;248(11):1567–72.
+10.1007/s00417-010-1419-5
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. 
+Campochiaro PA, Heier JS, Feiner L, et al. :
+Ranibizumab for macular edema following branch retinal vein occlusion: six-month primary end point results of a phase III study.
+ Ophthalmology. 
+2010;117(6):1102–1112.e1.
+10.1016/j.ophtha.2010.02.021
+ [ DOI ] [ PubMed ] [ Google Scholar ]; 
+ F1000 Recommendation 
+ 
+ 
+ 
+ 43. 
+Brown DM, Campochiaro PA, Singh RP, et al. :
+Ranibizumab for macular edema following central retinal vein occlusion: six-month primary end point results of a phase III study.
+ Ophthalmology. 
+2010;117(6):1124–1133.e1.
+10.1016/j.ophtha.2010.02.022
+ [ DOI ] [ PubMed ] [ Google Scholar ]; 
+ F1000 Recommendation 
+ 
+ 
+ 
+ 44. 
+Clark WL, Boyer DS, Heier JS, et al. :
+Intravitreal Aflibercept for Macular Edema Following Branch Retinal Vein Occlusion: 52-Week Results of the VIBRANT Study.
+ Ophthalmology. 
+2016;123(2):330–6.
+10.1016/j.ophtha.2015.09.035
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 45. 
+Heier JS, Clark WL, Boyer DS, et al. :
+Intravitreal aflibercept injection for macular edema due to central retinal vein occlusion: two-year results from the COPERNICUS study.
+ Ophthalmology. 
+2014;121(7):1414–1420.e1.
+10.1016/j.ophtha.2014.01.027
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 46. 
+Korobelnik J, Holz FG, Roider J, et al. :
+Intravitreal Aflibercept Injection for Macular Edema Resulting from Central Retinal Vein Occlusion: One-Year Results of the Phase 3 GALILEO Study.
+ Ophthalmology. 
+2014;121(1):202–8.
+10.1016/j.ophtha.2013.08.012
+ [ DOI ] [ PubMed ] [ Google Scholar ]; 
+ F1000 Recommendation 
+ 
+ 
+ 
+ 47. 
+Tadayoni R, Waldstein SM, Boscia F, et al. :
+Individualized Stabilization Criteria-Driven Ranibizumab versus Laser in Branch Retinal Vein Occlusion: Six-Month Results of BRIGHTER.
+ Ophthalmology. 
+2016;123(6):1332–44.
+10.1016/j.ophtha.2016.02.030
+ [ DOI ] [ PubMed ] [ Google Scholar ]; 
+ F1000 Recommendation 
+ 
+ 
+ 
+ 48. 
+Yoo JH, Ahn J, Oh J, et al. :
+Risk factors of recurrence of macular oedema associated with branch retinal vein occlusion after intravitreal bevacizumab injection.
+ Br J Ophthalmol. 
+2017;101(10):1334–9.
+10.1136/bjophthalmol-2016-309749
+ [ DOI ] [ PubMed ] [ Google Scholar ]; 
+ F1000 Recommendation 
+ 
+ 
+ 
+ 49. 
+Mimouni M, Segev O, Dori D, et al. :
+Disorganization of the Retinal Inner Layers as a Predictor of Visual Acuity in Eyes With Macular Edema Secondary to Vein Occlusion.
+ Am J Ophthalmol. 
+2017;182:160–7.
+10.1016/j.ajo.2017.08.005
+ [ DOI ] [ PubMed ] [ Google Scholar ]; 
+ F1000 Recommendation 
+ 
+ 
+ 
+ 50. 
+Sheu SJ, Wu TT, Horng YH:
+Efficacy and Safety of Dexamethasone Intravitreal Implant for Treatment of Refractory Macular Edema Secondary to Retinal Vein Occlusion in Taiwan.
+ J Ocul Pharmacol Ther. 
+2015;31(8):461–7.
+10.1089/jop.2014.0119
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 51. 
+Hanhart J, Rozenman Y:
+Comparison of Intravitreal Ranibizumab, Aflibercept, and Dexamethasone Implant after Bevacizumab Failure in Macular Edema Secondary to Retinal Vascular Occlusions.
+ Ophthalmologica. 
+2017;238(1–2):110–8.
+10.1159/000473864
+ [ DOI ] [ PubMed ] [ Google Scholar ]; 
+ F1000 Recommendation 
+ 
+ 
+ 
+ 52. 
+Kang JW, Yoo R, Jo YH, et al. :
+Correlation Of Microvascular Structures On Optical Coherence Tomography Angiography With Visual Acuity In Retinal Vein Occlusion.
+ Retina. 
+2017;37(9):1700–9.
+10.1097/IAE.0000000000001403
+ [ DOI ] [ PubMed ] [ Google Scholar ]; 
+ F1000 Recommendation 
+ 
+ 
+ 
+ 53. 
+Coscas F, Glacet-Bernard A, Miere A, et al. :
+Optical Coherence Tomography Angiography in Retinal Vein Occlusion: Evaluation of Superficial and Deep Capillary Plexa.
+ Am J Ophthalmol. 
+2016;161:160–71.e1–2.
+10.1016/j.ajo.2015.10.008
+ [ DOI ] [ PubMed ] [ Google Scholar ]; 
+ F1000 Recommendation 
+ 
+ 
+ 
+ 54. 
+Mastropasqua R, Di Antonio L, Di Staso S, et al. :
+Optical Coherence Tomography Angiography in Retinal Vascular Diseases and Choroidal Neovascularization.
+ J Ophthalmol. 
+2015;2015:343515.
+10.1155/2015/343515
+
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 55. 
+Singer MA, Jansen ME, Tyler L, et al. :
+Long-term results of combination therapy using anti-VEGF agents and dexamethasone intravitreal implant for retinal vein occlusion: an investigational case series.
+ Clin Ophthalmol. 
+2016;11:31–38.
+10.2147/OPTH.S119373
+
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 56. 
+Liu Y, Shen J, Fortmann SD, et al. :
+Reversible retinal vessel closure from VEGF-induced leukocyte plugging.
+ JCI Insight. 
+2017;2(18): pii: 95530.
+10.1172/jci.insight.95530
+
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]; 
+ F1000 Recommendation 
+ 
+ 
+ 
+ 57. 
+Nicholson L, Vazquez-Alfageme C, Patrao NV, et al. :
+Retinal Nonperfusion in the Posterior Pole Is Associated With Increased Risk of Neovascularization in Central Retinal Vein Occlusion.
+ Am J Ophthalmol. 
+2017;182:118–25.
+10.1016/j.ajo.2017.07.015
+ [ DOI ] [ PubMed ] [ Google Scholar ]; 
+ F1000 Recommendation 
+ 
+ 
+ 
+ 58. 
+Zhang M, Zhang J, Yan M, et al. :
+A phase 1 study of KH902, a vascular endothelial growth factor receptor decoy, for exudative age-related macular degeneration.
+ Ophthalmology. 
+2011;118(4):672–8.
+10.1016/j.ophtha.2010.08.008
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 59. 
+Campochiaro PA, Wykoff CC, Brown DM, et al. :
+Suprachoroidal Triamcinolone Acetonide for Retinal Vein Occlusion: Results of the Tanzanite Study.
+ Ophthalmol Retina. 
+2018;2(4):320–328.
+10.1016/j.oret.2017.07.013
+ [ DOI ] [ PubMed ] [ Google Scholar ]

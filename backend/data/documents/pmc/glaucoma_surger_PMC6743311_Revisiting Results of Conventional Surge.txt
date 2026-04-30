@@ -1,0 +1,560 @@
+Source: PubMed Central (PMC)
+PMCID: PMC6743311
+Title: Revisiting Results of Conventional Surgery: Trabeculectomy, MIGS
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6743311/
+Year: 2019
+Disease: glaucoma_surgery
+Priority: 3
+============================================================
+
+editorial J Curr Glaucoma Pract . 2019 May-Aug;13(2):45–49. doi: 10.5005/jp-journals-10078-1248 
+ 
+ 
+ Revisiting Results of Conventional Surgery: Trabeculectomy, Glaucoma Drainage Devices, and Deep Sclerectomy in the Era of MIGS 
+ Shibal Bhartiya 
+ Shibal Bhartiya 
+ 
+ 1 Glaucoma Services, Fortis Memorial Research Institute, Gurugram, Haryana, India 
+ Find articles by Shibal Bhartiya 
+ 
+ 
+ 1, ✉ , Deepika Dhingra 
+ Deepika Dhingra 
+ 
+ 2 Department of Ophthalmology, Advanced Eye Centre, Postgraduate Institute of Medical Education and Research, Chandigarh, India 
+ Find articles by Deepika Dhingra 
+ 
+ 
+ 2 , Tarek Shaarawy 
+ Tarek Shaarawy 
+ 
+ 3 Glaucoma Sector, University of Geneva Hospitals, University of Geneva, Switzerland 
+ Find articles by Tarek Shaarawy 
+ 
+ 
+ 3 
+ 
+ 
+ Author information 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Glaucoma Services, Fortis Memorial Research Institute, Gurugram, Haryana, India 
+ 
+ 2 Department of Ophthalmology, Advanced Eye Centre, Postgraduate Institute of Medical Education and Research, Chandigarh, India 
+ 
+ 3 Glaucoma Sector, University of Geneva Hospitals, University of Geneva, Switzerland 
+ 
+ ✉ Shibal Bhartiya, Glaucoma Services, Fortis Memorial Research Institute, Gurugram, Haryana, India 
+ 
+ 
+ 
+ Copyright © 2019; Jaypee Brothers Medical Publishers (P) Ltd. 
+ © The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License ( https://creativecommons.org/licenses/by-nc/4.0/ ), which permits unrestricted use, distribution, and non-commercial reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated. 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC6743311  PMID: 31564792 
+ 
+ Abstract 
+ How to cite this article: Bhartiya S, Dhingra D, et al. Revisiting Results of Conventional Surgery: Trabeculectomy, Glaucoma Drainage Devices, and Deep Sclerectomy in the Era of MIGS. J Curr Glaucoma Pract 2019;13(2):45–49. 
+ As We Blow the Horn of MIGS, are We Steering away from the Better Methods that We Do Have? 
+ Trabeculectomy turns 50; it was in 1968 that Cairns reported the first successful surgery, and even today, it remains the glaucoma surgery gold standard. Tubes (both valved and non-valved) and non-penetrating glaucoma surgeries have been worthy contenders for efficacy and safety, but have not replaced trabeculectomy as the go-to choice for the majority of glaucoma surgeons. 
+ Fifty years of published results mean that every aspect of trabeculectomy has been discussed threadbare: its individual steps have been refined and refined some more. The 21st-century trab is no longer the hole in the eye you pray does not close, but closes enough not to cause complications. Indeed, it has become the most accepted surgical option: known to be the most effective, the cheapest, and invariably, the simplest and, in certain hands, the safest option as well. Moreover, together with tubes and non-penetrating glaucoma surgeries, the conventional incisional surgeries continue to be the Holy Trinity for the glaucoma surgeon. 1 – 3 
+ This is despite the fact that these surgeries fail: altogether, and over time; also, complications are not infrequent. Moreover, despite standardization of the technique and patient selection, the results of the surgery are frustratingly variable and inconsistent. 
+ The last decade, therefore, has witnessed an almost frenzied search for an alternative to conventional incisional surgeries: MIGS, the collective and poorly understood banner under which march a varied set of surgeries that have captured the imagination of patients and glaucoma surgeons alike. 4 Long-term, large-population-based evidence is lacking for almost all of these devices, but that has not affected their popularity or dissuaded their aficionados. Almost one in five glaucoma surgeries performed in areas with access to the devices is MIGS. 
+ As of 2017, Trab MMC, glaucoma drainage device (GDD), and MIGS constituted 59 ± 30%, 23 ± 23%, and 14 ± 20%, respectively as an initial surgery in primary open-angle glaucoma in the USA. The use of glaucoma drainage device surgery has increased and trabeculectomy has decreased from 1996 to 2016; 5 Trab with MMC continues to be the most popular primary glaucoma surgery among surgeons. 
+ So what does time hold for the old-fashioned incisional surgeries, in the new paradigm of glaucoma surgery? 
+ NEW MIGS ON THE BLOCK 
+ Over the last decade, the way we look at MIGS has changed. It is no longer touted as an alternative to conventional incisional surgeries alone; it is known to be an alternative for antiglaucoma medications and lasers as well. With the potential for a combination of treatment modalities and their titration to achieve target IOP, the sequential and additive approach to MIGS is revolutionizing the glaucoma treatment paradigm. 6 
+ Both tubes and trabs redirect the aqueous to the subconjunctival space, an approach that is considered nonphysiological. Like non-penetrating surgeries, most MIGS aim to overcome the outflow resistance offered by the trabecular meshwork and Schlemm's canal, helping to restore physiological outflow ( Tables 1 and 2 ). 
+ Table 1. 
+ Types of MIGS devices and their mechanism of action 
+ 
+ 
+ Mechanism of IOP reduction 
+ Example 
+ Outflow pathway 
+ Possible complications 
+ 
+ 
+ 
+ Increase in trabecular outflow 
+ iStent 
+ An implant is inserted through trabecular meshwork to Schlemm's canal 
+ Higher safety profile. 
+ 
+ 
+ Hydrus implant 
+ 
+ Reflux from collector channels can lead to hyphema. 
+ 
+ 
+ Ab-interno trabeculotomy with Trabectome device 
+ Removes the trabecular meshwork and inner wall of Schlemm's canal 
+ Hypotony can occur. 
+ 
+ 
+ Kahook dual blade, KDB 
+ 
+ Devices like iStent and Hydrus can dislocate 
+ 
+ 
+ Increase in uveoscleral outflow 
+ Cypass 
+ An implant is inserted into suprachoroidal space after creating localized cyclodialysis 
+ Cyclodialysis cleft with hypotony 
+ 
+ 
+ Solx Gold shunt 
+ Late closure of cleft with rapid rise in pressure 
+ 
+ 
+ iStent supra 
+ Hemorrhage 
+ 
+ 
+ 
+ Inflammation 
+ 
+ 
+ 
+ Hyphema 
+ 
+ 
+ Subconjunctival infiltration 
+ Xen implant, InnFocus 
+ An implant is inserted through trabecular meshwork to subconjunctival space 
+ Devices like the Xen or InnFocus can dislocate 
+ 
+ Bleb-related complications like fibrosis and infection 
+ 
+ Decrease in aqueous humor production 
+ Endolaser cyclophotocoagulation (ECP) 
+ Ab-interno cyclophotocoagulation to ablate ciliary processes by direct visualization 
+ Hypotony 
+ 
+ Infection 
+ 
+ 
+ Open in a new tab Table 2. 
+ Success rates and IOP reduction with MIGS 
+ 
+ 
+ Procedure 
+ Study 
+ Follow-up 
+ IOP baseline (mm Hg) mean ± SD ( n , number of eyes) 
+ Postoperative IOP 
+ % IOP reduction 
+ Medications baseline 
+ Medications at last FU 
+ 
+ 
+ 
+ iStent combined 
+ Craven 9 
+ 
+ 24 
+ 18.6 ± 3.4 (117) 
+ 17.1 ± 2.9 
+ 8.1 ± 24.0 
+ 1.6 ± 0.8 
+ 0.3 ± 0.6 
+ 
+ 
+ Arriola-Villalobos 10 
+ 
+ 48 
+ 19.4 ± 1.9 (16) 
+ 16.5 ± 3.6 
+ 15.2 ± 22.4 
+ 1.3 ± 0.5 
+ 0.5 ± 0.6 
+ 
+ 
+ Fea 11 
+ 
+ 48 
+ 17.8 ± 2.7 
+ 15.9 ± 2.3 
+ 10.7 ± 19.9 
+ 1.9 ± 0.9 
+ 0.5 ± 0.8 
+ 
+ 
+ 2 iStent combined 
+ Arriola Villalobos (INJECT) 12 
+ 
+ 60 
+ 20.0 ± 3.7 
+ 16.2 ± 2.3 
+ 18.9 ± 24.2 
+ 1.3 ± 0.7 
+ 1.1 ± 0.8 
+ 
+ Solo 
+ 
+   • 1 iStent 
+ Katz 13 
+ 
+ 18 
+ 19.8 ± 1.3 (36) 
+ 15.6 ± 1.5 
+ 21.2 ± 10.2 
+ 1.7 ± 0.6 
+ 0.2 ± 0.4 
+ 
+ 
+   • 2 iStents 
+ 18 
+ 20.1 ± 1.6 (41) 
+ 13.8 ± 1.3 
+ 31.3 ± 10.3 
+ 1.8 ± 0.5 
+ 0.1 ± 0.4 
+ 
+ 
+   • 3 iStents 
+ 18 
+ 20.4 ± 1.8 (38) 
+ 12.1 ± 1.2 
+ 40.7 ± 10.7 
+ 1.5 ± 0.7 
+ 0.1 ± 0.3 
+ 
+ 
+ Hydrus combined 
+ Pfeiffer 14 
+ 
+ 24 
+ 18.9 ± 3.3 (50) 
+ 16.5 ± 2.9 
+ 12.7 ± 23.7 
+ 2.0 ± 1.0 
+ 0.5 ± 1.0 
+ 
+ 
+ Solo 
+ Gandolfi 15 
+ 
+ 24 
+ 24.0 ± 6.0 (21) 
+ 15.0 ± 3.0 
+ 37.5 ± 28.0 
+ 3.1 ± 0.6 
+ 0.9 ± 0.9 
+ 
+ 
+ Xen 
+ Widder 16 
+ 
+ 8.5 (1–23) 
+ 24.3 ± 6.6 
+ 16.8 ± 7.6 
+ 
+ 2.6 ± 1.1 
+ 0.2 ± 0.7 
+ 
+ 
+ InnFocus 
+ Battle 17 
+ 
+ 36 
+ 23.8 ± 5.3 
+ 10.7 ± 3.5 
+ 55 
+ 2.4 ± 0.9 
+ 0.7 ± 1.1 
+ 
+ 
+ ECP combined 
+ Francis 18 
+ 
+ 24 
+ 18.1 ± 3.0 (80) 
+ 16.0 ± 3.3 
+ 10 
+ 2.4 ± 1.0 
+ 2.0 ± 1.0 
+ 
+ 
+ Siegel 19 
+ 
+ 36 
+ 17.2 ± 4.8 (261) 
+ 14.6 ± 3.1 
+ 12.6 ± 1.4 
+ 1.3 ± 0.6 
+ 0.2 ± 0.6 
+ 
+ 
+ 
+ Open in a new tab EMERGING DEMOGRAPHICS (PART ONE): PATIENT PERSPECTIVE 
+ Medicine-plus Surgery 
+ As glaucoma therapy becomes more patient-centric, with the definition of target IOP itself talking of QoL costs of per mm IOP reduction, it is only logical that the way we look at incisional surgery changes. 
+ Drops are effective only if used consistently and as advised. Complicated drug regimens decrease compliance; active lifestyles find eye drops to be a constraint. They aren't free from side effects either (local and systemic), and the cost-effectiveness of glaucoma medication has been found to be wanting. Very often, patients read about and ask for a surgical alternative. Suddenly, surgery is not about failure of medical therapy. It has to be an alternative to eye drops. In a situation such as this, MIGS, with its presumed better safety profile, even with reduced efficacy, becomes a viable option. More so, because so many of these procedures can be repeated, and used in various permutations and combinations. Combinations of MIGS based on the anatomical site of action and the desired target pressure are a possibility. 
+ Just like adding an aqueous suppressant to an eye drop that increases the uveoscleral outflow, the therapeutic effect of glaucoma surgery can now be titrated and escalated. ECP reduces aqueous inflow; conventional outflow can be increased by using the iStent or Hydrus and bypassed by using the Trabectome, Xen, or the KDB. 
+ For the two age groups, the young and the old, MIGS offers a unique advantage. For the young, for whom compliance is a challenge due to lifestyle issues, MIGS offers a definite advantage. And for the old, where the 10 years plus follow-up is not always relevant, MIGS is a less invasive, safer alternative. 
+ For those in these two age groups and those in between, conventional incisional surgery is always an option. For an aging population, and keeping in mind the increasing longevity of glaucoma patients, the surgical arsenal needs MIGS, and all of the incisional glaucoma surgeries as well. EMERGING DEMOGRAPHICS (PART TWO): SURGEON PERSPECTIVE 
+ Cataract Plus Surgery 
+ For the nonglaucoma surgeon, MIGS is an attractive proposition. An add-on to cataract surgery, for example, is the iStent, whose procedure is quick, safe, and easily combined with cataract surgery. The minimal tissue handling means short surgical time, the instrumentation is familiar, but for the gonioscope, and requires minimal followup. The predictable results and a balmy postoperative recovery means it is a departure from the unpredictability of trabs, and the hypertensive phases of tubes. 
+ It is also important to remember that the IOP lowering efficacy of MIGS when performed with cataract surgery must keep in consideration the IOP lowering effect of cataract surgery itself as well. 
+ In contrast, phacotrabeculectomy and tube implants concurrent with cataract surgery are not performed routinely because of better success rates with stepwise surgery. 
+ Despite the press to the contrary, MIGS also have a steep learning curve, especially when it comes to the orientation viz. angle anatomy, and the use of the gonioscope for visualization. And more than anything else, the choice of MIGS remains a clinical conundrum, one that requires the understanding of the entire scope of a specialty glaucoma practice and cannot be considered as a resident's procedure, or that for a cataract surgeon. 7 , 8 ELEPHANT IN THE ROOM 
+ Current estimates indicate that more than 76 million people will have glaucoma by 2020, which is less than six months away. 44 Two-thirds of these (52.7 million) will have POAG, while 23.4 million people will have PACG. This means that for more than a third of the glaucoma patent population, MIGS is not an option, or arguably, a poor one at that. Given that the morbidity due to angle closure is significantly higher than that of POAG, a surgical alternative for angle-closure disease becomes increasingly relevant. 
+ Of the conventional incisional surgeries, non-penetrating surgeries are not a part of the glaucoma surgeons’ armamentarium for most patients with angle-closure disease. Of the MIGS, the following may be used in angle-closure patients as well. ECP, though not MIGS in the strictest sense of the word, may find uses in pseudophakic or aphakic patients, and in some cases, the trabecular bypass devices may also be considered in case the angle opens up considerably after cataract removal. That said, for a significant majority of angle-closure patients, trabeculectomy and tubes are the only two surgical options available, and the safety-efficacy gap remains unbridged. 
+ In addition, there are several conditions where use of these devices is not possible/advisable. These include patients with poor visibility of the angle due to corneal opacities, ocular surface disease, and extensive anterior synechiae. Even ergonomic factors such as facial anatomy with narrow palpebral aperture may preclude their use. In addition, MIGS may not be the appropriate choice for glaucomas in aphakia and neovascular glaucoma. 
+ MIGS devices are expensive, much as we would like to believe the safety of the procedures would mean fewer followup visits, and QALY and DALY considerations would make them cost-effective; there is no evidence available to date to this effect. Use of multiple devices—for example, the iStent—or a combination of devices as is now often advocated would make the procedure far too expensive for most of the world. 
+ Most of the surgical complications are common to each surgery, whereas there are some complications specific to the procedure type. Some of these are summarized in Tables 1 and 3 . 
+ Table 3. 
+ Complications with MIGS vs complications with tube vs trab vs nonpenetrating deep sclerectomy (NPDS) 
+ 
+ 
+ 
+ Trab 
+ Baerveldt 
+ AGV 
+ NPDS 
+ MIGS 
+ 
+ 
+ 
+ Hyphema 
+ 17.2% 20 
+ 
+ 5% 21 
+ 
+ 18.3% 20 
+ 
+ 7.4% 22 
+ 
+ 24.3% with Xen 23 
+ 
+ 
+ 0.02% for iStent 24 , 25 
+ 
+ 19.04% for Hydrus 26 
+ 
+ 2.7% for Cypass 27 
+ 
+ 
+ Hypotony 
+ 31% 28 
+ 
+ 13% 28 , 29 
+ 
+ 2% 29 
+ 
+ 9.9% 22 
+ 
+ 13.8% with Cypass 30 
+ 
+ 
+ 
+ 39.3% 20 
+ 
+ 15.3% with Xen 31 
+ 
+ 
+ 
+ 
+ 13% with InnFocus 17 
+ 
+ 
+ 
+ Shallow anterior chamber 
+ 11.8% 20 
+ 
+ 3% 21 
+ 
+ 11.11% 20 
+ 
+ 8.9% 22 
+ 
+ 0–2.3% 33 
+ 
+ 
+ 
+ Choroidal detachment 
+ 3.2–10.75% 34 
+ 
+ 3% 21 
+ 
+ 12% 32 
+ 
+ 8.6% 22 
+ 
+ 15.3% with Xen 31 
+ 
+ 
+ 
+ Progressive cataract 
+ 35% 35 
+ 
+ 8% 29 
+ 
+ 8% 29 
+ 
+ 6.6% 22 
+ 
+ 12.2% with Cypass 36 
+ 
+ 
+ 11.1% with iStent 37 
+ 
+ 
+ Loss of light perception 
+ 2% 28 
+ 
+ 4% 28 
+ 
+ 12% 29 
+ 
+ 
+ 
+ 
+ 
+ Bleb leak 
+ 6.7% 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stent malpositioning 
+ 
+ 
+ 
+ 
+ 12.2% with Xen 23 
+ 
+ 
+ 
+ Stent obstruction 
+ 
+ 
+ 
+ 
+ 4% with iStent 38 
+ 
+ 
+ 2.4–5.4% with Cypass 27 , 30 
+ 
+ 4.3% with InnFocus 17 
+ 
+ 
+ Resurgery rates 
+ 7–28% 32 , 39 in 5 year period 
+ 5.4–17% 20 , 40 in 5 years 
+ 17–40%, 29 , 32 in 5 years 
+ 3.7–5.4% 41 , 42 after 1–3 years 
+ 7.4% with iStent 31 
+ 
+ 
+ 14.1% with Xen 43 after 12 months of surgery 
+ 4.3% with InnFocus at 3 years 17 
+ 
+ 
+ 
+ Open in a new tab Revaluating Glaucoma Surgery 
+ Glaucoma surgeries are not one-time procedures. They require a stringent postoperative followup to manage various early and late postoperative complications, and often, repeat procedures because of a gradual decrease in efficacy. In addition, with the health economics of glaucoma influencing so many therapeutic choices, the median survival of each of these surgeries assumes increasing importance. For instance, trabeculectomy requires wound modulation in the early postoperative period in the form of removal of releasable sutures, use of subconjunctival 5-fluorouracil, needling, etc. Valves require stringent monitoring during the hypertensive phase; non-valved implants rely on the manipulation of ligatures. Deep sclerectomy often requires laser goniopuncture, which may be likened to laser suturolysis and not considered a failure of surgery. Manipulations (surgical or otherwise) that may be considered as part of the surgical followup continuum for MIGS are yet to be determined, but they will also impact how we evaluate the median survival of these surgeries. 
+ The traditional criteria for complete/qualified success using an intraocular pressure of ≤21 mm Hg without/with topical antiglaucoma medications, respectively, do not hold much credence clinically. More often than not, for advanced glaucomas that actually require surgery, an IOP of 21 is a clinical failure per se. Similarly for a patient with early glaucoma, who chooses to undergo MIGS so as to not use eye drops, the concept of qualified success is irrelevant. Success rates, thus, must be quantified at various IOP levels (≤21, 18, 15, and 12 mm Hg) so as to enable the surgeon to choose the best fit, and also prognosticate, for patients at different ends of the disease spectrum in terms of severity. 
+ Moral relativism and metaethics perhaps have more relevance to glaucoma surgical choices in this era of MIGS, than ever before. There are no right or wrong answers, merely the consequences of our choices. Footnotes 
+ 
+ Source of support: Nil 
+ Conflict of interest: None 
+ REFERENCES 
+ 
+ 
+ 1. Gabal A, Cimarosti R, et al. Efficacy and safety of trabeculectomy vs non-penetrating surgeries in open-angle glaucoma: a meta-analysis. J Glaucoma. 2019 Jul 18; doi: 10.1097/IJG.0000000000001323. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Sawchyn AK, Slabaugh MA. Innovations and adaptations in trabeculectomy. Curr Opin Ophthalmol. 2016;27:158–163. doi: 10.1097/ICU.0000000000000236. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Tseng VL, Coleman AL, et al. Aqueous shunts for glaucoma. Cochrane Database Syst Rev. 2017 Jul 28;7:CD004918. doi: 10.1002/14651858.CD004918.pub3. DOI: [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Lavia C, Dallorto L, et al. Minimally minimally-invasive glaucoma surgeries (MIGS) for open angle glaucoma: A systematic review and meta-analysis. PLoS One. 2017;12:e0183142. doi: 10.1371/journal.pone.0183142. DOI: [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Vinod K, Gedde SJ, et al. Practice preferences for glaucoma surgery: a survey of the American Glaucoma Society. J Glaucoma. 2017;26:687–693. doi: 10.1097/IJG.0000000000000720. DOI: [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Bloom P, Au L. Minimally invasive glaucoma surgery (MIGS) is a poor substitute for trabeculectomy—the great debate. Ophthalmol Ther. 2018;7:203–210. doi: 10.1007/s40123-018-0135-9. DOI: [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Aslan F, Yuce B, et al. Evaluation of the learning curve of non-penetrating glaucoma surgery. Int Ophthalmol. 2018;38:2005–2012. doi: 10.1007/s10792-017-0691-3. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Al-Mugheiry TS, Cate H, et al. Microinvasive Glaucoma Stent (MIGS) Surgery with Concomitant Phakoemulsification Cataract Extraction: Outcomes and the Learning Curve. J Glaucoma. 2017;26:646–651. doi: 10.1097/IJG.0000000000000691. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Craven ER, Katz LJ, et al. Cataract surgery with trabecular micro-bypass stent implantation in patients with mild-to-moderate open-angle glaucoma and cataract: two-year follow-up. J Cataract Refract Surg. 2012;38:1339–1345. doi: 10.1016/j.jcrs.2012.03.025. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Arriola-Villalobos P, Martínez-de-la-Casa JM, et al. Combined iStent trabecular micro-bypass stent implantation and phacoemulsification for coexistent open-angle glaucoma and cataract: a long-term study. Br J Ophthalmol. 2012;96:645–649. doi: 10.1136/bjophthalmol-2011-300218. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Fea AM, Consolandi G, et al. Micro-Bypass Implantation for Primary Open Angle Glaucoma Combined with Phacoemulsification: 4-Year Follow-Up. J Ophthalmol. 2015;2015:795357. doi: 10.1155/2015/795357. DOI: [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 12. Arriola-Villalobos P, Martinez-de-la-Casa JM, et al. Glaukos iStent inject® Trabecular Micro-Bypass Implantation Associated with Cataract Surgery in Patients with Coexisting Cataract and Open-Angle Glaucoma or Ocular Hypertension: A Long-Term Study. J Ophthalmol. 2016;2016:1056573. doi: 10.1155/2016/1056573. DOI: [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Katz JL, Erb C, et al. Prospective, randomized study of one, two, or three trabecular bypass stents in open-angle glaucoma subjects on topical hypotensive medication. Clin Ophthalmol. 2015;9:2313–2320. doi: 10.2147/OPTH.S96695. DOI: [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Pfeiffer N, Garcia-Feijoo J, et al. A Randomized Trial of a Schlemm's Canal Microstent with Phacoemulsification for Reducing Intraocular Pressure in Open-Angle Glaucoma. Ophthalmology. 2015;122:1283–1293. doi: 10.1016/j.ophtha.2015.03.031. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Gandolfi SA, Ungaro N, et al. Comparison of surgical outcomes between canaloplasty and Schlemm's canal scaffold at 24 months’ follow-up. J Ophthalmol. 2016;5:3410469. doi: 10.1155/2016/3410469. DOI: [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Widder RA, Dietlein TS, et al. The Xen45 gel stent as a minimally invasive procedure in glaucoma surgery: Success rates, risk profile, and rates of re-surgery after 261 surgeries. Graefes Arch Clin Exp Ophthalmol. 2018;256:765–771. doi: 10.1007/s00417-018-3899-7. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Batlle JF, Fantes F, et al. Three-Year Follow-up of a Novel Aqueous Humor MicroShunt. J Glaucoma. 2016;25:e58–e65. doi: 10.1097/IJG.0000000000000368. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Francis BA, Berke SJ, et al. Endoscopic cyclophotocoagulation combined with phacoemulsification vs phacoemulsification alone in medically controlled glaucoma. J Cataract Refract Surg. 2014;40:1313–1321. doi: 10.1016/j.jcrs.2014.06.021. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Siegel MJ, Boling WS, et al. Combined endoscopic cyclophotocoagulation and phacoemulsification vs phacoemulsification alone in the treatment of mild to moderate glaucoma. Clin Exp Ophthalmol. 2015;43:531–539. doi: 10.1111/ceo.12510. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Haibo T, Xin K, et al. Comparison of Ahmed glaucoma valve implantation and trabeculectomy for glaucoma: A systematic review and meta-analysis. PLoS One. 2015;10:e0118142. doi: 10.1371/journal.pone.0118142. DOI: [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Namavari A, Hyde RA, et al. Primary Baerveldt shunt implantation: Outcomes and complications. Ophthalmol Ther. 2016;5:253–262. doi: 10.1007/s40123-016-0056-4. DOI: [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 22. Cheng JW, Xi GL, et al. Efficacy and tolerability of nonpenetrating glaucoma surgery augmented with mitomycin C in treatment of open-angle glaucoma: a meta-analysis. Can J Ophthalmol. 2009;44:76–82. doi: 10.3129/i08-165. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 23. De Gregorio A, Pedrotti E, et al. Minimally invasive combined glaucoma and cataract surgery: clinic results of the smallest ab interno gel stent. Int Ophthalmol. 2018;38:1129–1134. doi: 10.1007/s10792-017-0571-x. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Patel I, de Klerk TA, et al. Manchester iStent study: early results from a prospective UK case series. Clin Exp Ophthalmol. 2013;41:648–652. doi: 10.1111/ceo.12098. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Belovay GW, Nagi A, et al. Using multiple trabecular micro-bypass stents in cataract patients to treat open-angle glaucoma. J Cataract Refract Surg. 2012;38:1911–1917. doi: 10.1016/j.jcrs.2012.07.017. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 26. Gandolfi SA, Ungaro N, et al. Comparison of surgical outcomes between canaloplasty and Schlemm's canal scaffold at 24 months’ follow-up. J Ophthalmol. 2016;5:3410469. doi: 10.1155/2016/3410469. DOI: [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Vold S, Ahmed IK, et al. Two-year COMPASS trial results: supraciliary microstenting with phacoemulsification in patients with open angle glaucoma and cataracts. Ophthalmology. 2016;123:2103–2112. doi: 10.1016/j.ophtha.2016.06.032. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 28. Gedde SJ, Schiffman JC, et al. Treatment outcomes in the tube vs trabeculectomy (TVT) Study after five years of follow-up. Am J Ophthalmol. 2012;153:789–803. doi: 10.1016/j.ajo.2011.10.026. DOI: [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 29. Budenz DL, Barton K, et al. Five-year treatment outcomes in the Ahmed Baerveldt comparison study. Ophthalmology. 2015;122:308–316. doi: 10.1016/j.ophtha.2014.08.043. DOI: [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 30. Hoeh H, Vold SD, et al. Initial clinical experience with the CyPass micro-stent: Safety and surgical outcomes of a novel supraciliary microstent. J Glaucoma. 2016;25:106–112. doi: 10.1097/IJG.0000000000000134. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 31. Galal A, Bilgic A, et al. Xen glaucoma implant with mitomycin-C 1-year follow-up: result and complications. J Ophthalmol. 2017;2017:5457246. doi: 10.1155/2017/5457246. DOI: [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 32. Tran DH, Souza C, et al. Comparison of long-term surgical success of Ahmed valve implant vs trabeculectomy in open-angle glaucoma. Br J Ophthalmol. 2009;93:1504–1509. doi: 10.1136/bjo.2008.150870. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 33. Brandão LM, Grieshaber MC. Update on Minimally Invasive Glaucoma Surgery (MIGS) and New Implants. J Ophthalmol. 2013;2013:705915. doi: 10.1155/2013/705915. DOI: [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 34. Zhou M, Wang W, et al. Trabeculectomy with vs without releasable sutures for glaucoma-A meta-analysis of randomized controlled trials. BMC Ophthalmol. 2014;14:41. doi: 10.1186/1471-2415-14-41. DOI: [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 35. Casson R, Rahman R, et al. Long term results and complications of trabeculectomy with low dose mitomycin C in patients at risk of filtration failure. Br J Ophthalmol. 2001;85:686–688. doi: 10.1136/bjo.85.6.686. DOI: [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 36. Garcia-Feijoo J, Rau M, et al. Supraciliary micro-stent implantation for open-angle glaucoma failing topical therapy: 1-year results of a multicenter study. Am J Ophthalmol. 2015;159:1075–1081. doi: 10.1016/j.ajo.2015.02.018. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 37. Popovic M, Campos-Moller X, et al. Efficacy and Adverse Event Profile of the iStent and iStent Inject Trabecular Micro-bypass for Open-angle Glaucoma: A Meta-analysis. J Curr Glaucoma Pract. 2018;12:67–84. doi: 10.5005/jp-journals-10008-1248. DOI: [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 38. Samuelson TW, Katz LJ, et al. Randomized evaluation of the trabecular micro-bypass stent with phacoemulsification in patients with glaucoma and cataract. Ophthalmology. 2011;118:459–467. doi: 10.1016/j.ophtha.2010.07.007. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 39. Landers J, Martin K, et al. A twenty-year follow-up study of trabeculectomy: risk factors and outcomes. Ophthalmology. 2011;119:694–702. doi: 10.1016/j.ophtha.2011.09.043. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 40. Yalvac IS, Nurozler A, et al. The results of trabeculectomy with and without Mitomycin C in young patients. Ophthalmologica. 1998;212:399–403. doi: 10.1159/000027375. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 41. Montolío Marzo S, Lanzagorta Aresti A, et al. Malignant glaucoma after XEN45 implant. Arch Soc Esp Oftalmol. 2019;94:134–137. doi: 10.1016/j.oftal.2018.10.023. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 42. Heidinger A, Schwab C, et al. A retrospective study of 199 xen45 stent implantations from 2014 to 2016. J Glaucoma. 2019;28:75–79. doi: 10.1097/IJG.0000000000001122. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 43. Grover DS, Flynn WJ, et al. Performance and safety of a new ab interno gelatin stent in refractory glaucoma at 12 months. Am J Ophthalmol. 2017;183:25–36. doi: 10.1016/j.ajo.2017.07.023. DOI: [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 44. Tham YC, Li X, et al. Global prevalence of glaucoma and projections of glaucoma burden through 2040: A systematic review and meta-analysis. Ophthalmology. 2014;121:2081–2090. doi: 10.1016/j.ophtha.2014.05.013. DOI: [ DOI ] [ PubMed ] [ Google Scholar ]

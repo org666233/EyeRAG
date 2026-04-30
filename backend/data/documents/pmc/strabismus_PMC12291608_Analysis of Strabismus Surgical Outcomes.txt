@@ -1,0 +1,1321 @@
+Source: PubMed Central (PMC)
+PMCID: PMC12291608
+Title: Analysis of Strabismus Surgical Outcomes: A Retrospective Study of 2269 Cases
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12291608/
+Year: 2025
+Disease: strabismus
+Priority: 3
+============================================================
+
+Med Sci Monit . 2025 Jul 21;31:e947601. doi: 10.12659/MSM.947601 
+ 
+ 
+ Analysis of Strabismus Surgical Outcomes: A Retrospective Study of 2269 Cases from a Single Center 
+ Haidong Wu 
+ Haidong Wu 
+ 
+ 1 Department of Ophthalmology, Nanjing Medical University, Nanjing, Jiangsu, PR China 
+ Find articles by Haidong Wu 
+ 
+ 
+ 1, A, B, C, E , Hu Liu 
+ Hu Liu 
+ 
+ 2 Department of Ophthalmology, The First Affiliated Hospital with Nanjing Medical University, Nanjing, Jiangsu, PR China 
+ Find articles by Hu Liu 
+ 
+ 
+ 2, B, C, E, F, ✉ 
+ 
+ 
+ Author information 
+ Article notes 
+ Copyright and License information 
+ 
+ 
+ 
+ 
+ 1 Department of Ophthalmology, Nanjing Medical University, Nanjing, Jiangsu, PR China 
+ 
+ 2 Department of Ophthalmology, The First Affiliated Hospital with Nanjing Medical University, Nanjing, Jiangsu, PR China 
+ 
+ 
+ ✉ Corresponding Author: Hu Liu, e-mail: huliudoc@163.com 
+ 
+ 
+ A Study Design 
+ 
+ 
+ B Data Collection 
+ 
+ 
+ C Statistical Analysis 
+ 
+ 
+ D Data Interpretation 
+ 
+ 
+ E Manuscript Preparation 
+ 
+ 
+ F Literature Search 
+ 
+ 
+ G Funds Collection 
+ 
+ 
+ ✉ Corresponding author. 
+ 
+ 
+ 
+ Received 2024 Dec 10; Accepted 2025 May 28; Prepublished 2025 Jun 19; Collection date 2025. 
+ 
+ © Med Sci Monit, 2025 
+ This work is licensed under Creative Common Attribution-NonCommercial-NoDerivatives 4.0 International ( CC BY-NC-ND 4.0 ) 
+ PMC Copyright notice 
+ 
+ 
+ PMCID: PMC12291608  PMID: 40685635 
+ 
+ Abstract 
+ Background 
+ Strabismus, eye misalignment or squint, is constant or intermittent, and may be associated with refractive changes and amblyopia (lazy eye). These factors determine the approach to surgical correction. The present study aimed to retrospectively analyze type composition, refractive status, and surgical methods used with strabismus inpatients, to provide some reference for clinical practice. Material/Methods 
+ Clinical data on the electronic information system of the ophthalmic ward of Jiangsu Provincial People’s Hospital was retrospectively analyzed. Results 
+ Among the 2269 strabismus patients, the most common type of strabismus seen was intermittent exotropia (1364 cases). The male-to-female ratio was about 1.06: 1(1169/1100). The highest correlations were seen between concomitant esotropia and hyperopia, and between concomitant exotropia and myopia. The distribution of intermittent exotropia in the group aged 7–17 years decreased in 2021 compared with previous years ( P <0.05). Strabismus in patients ≥18 years of age was lower in 2020 and 2021 than in previous years, and was lowest in 2021 ( P <0.05). The most common surgical method for concomitant esotropia is bilateral medial rectus recession, and the most common surgical method for concomitant exotropia is bilateral lateral rectus recession. In non-concomitant strabismus, the main operation method for vertical strabismus is transposition of the inferior oblique muscle. Conclusions 
+ Intermittent exotropia accounted for the highest proportion of strabismus cases. The highest incidence of concomitant esotropia and hyperopia was in patients aged 3–6 years, with low hyperopia. The highest incidence of concomitant exotropia and myopia was in patients aged 7–17 years, with low myopia. Common surgical treatments differed for different kinds of strabismus. Keywords: Operations Research, Refractive Surgical Procedures, Strabismus Introduction 
+ Strabismus is an ocular condition defined by the misalignment of visual axes, leading to abnormal binocular interactions and frequently resulting in amblyopia, which is the primary cause of preventable blindness in children [ 1 ]. Strabismus is characterized by atypical eye movements and compromised stereo vision [ 1 ]. Neuroimaging research has revealed that individuals with strabismus exhibit diminished functional connectivity in both the visual and sensorimotor cortices [ 2 ]. According to epidemiological studies, the incidence of strabismus is about 0.8% to 6.8% in different populations. In Asian countries such as China, Japan, and others, the incidence of exotropia is higher [ 3 , 4 ]. A previous investigation in Japan identified a prevalence rate of 2.15% among school-aged children [ 3 ]. The prevalence of strabismus appeared to be 5.56% in children aged 48–60 months in eastern China [ 4 ]. In patients with strabismus, the eye position is skewed, which affects depth perception and spatial orientation ability, and affects the appearance and image to some extent [ 5 , 6 ]. Therefore, strabismus may affect a child’s normal learning and life experience, but also may lead to an inferiority complex on the part of the child, reducing quality of life. In addition, strabismus also affects the quality of life of the parents [ 5 , 6 ]. 
+ Strabismus, eye misalignment or squint, involves the eye pointing inwards (esotropia), outwards (exotropia), upwards (hypertropia), or downwards (hypotropia), and can be unilateral or bilateral, constant or intermittent, and may be associated with refractive changes and amblyopia (lazy eye) [ 1 , 2 ]. These factors determine the approach to surgical correction. The growing prevalence of various therapeutic approaches for strabismus necessitates further research to identify optimal strategies for this population [ 8 – 10 ]. Normal eye position depends on the normal function and coordination of the brain regions of the visual system and the eye movement system, and damage to any of these systems may cause strabismus [ 10 ]. The treatment of strabismus requires a comprehensive evaluation of the preoperative strabismus, refractive status, eye movement, binocular vision function, compensatory head position, and other ocular diseases [ 8 – 10 ]. The surgical methods used to correct strabismus mainly include recession of extraocular muscle, muscle strengthening, and horizontal muscle vertical displacement [ 8 – 10 ]. Lee et al reported that unilateral lateral rectus recession-medial rectus resection has a better long-term surgical outcome than lateral rectus recession-medial rectus plication in children with intermittent exotropia [ 9 ]. 
+ However, the statistical data on different types of strabismus and surgical procedures is currently lacking in many regions. Also, the multifaceted nature of ocular deviation and undetermined prognosis require personalized treatment plans tailored to the specific causes of strabismus. Therefore, this retrospective study of medical record data aimed to evaluate 2269 patients admitted for surgical correction of strabismus at the Ophthalmology Department of the First Affiliated Hospital with Nanjing Medical University from January 2015 to June 2021, to determine the types of strabismus, the refractive findings, and the methods of surgical correction. Also, the characteristics of refractive status in patients with different types of strabismus were analyzed, and the correlation between refractive errors and strabismus is discussed. Material and Methods 
+ Patients 
+ Clinical data for 2269 strabismus patients were retrospectively collected and analyzed, utilizing the electronic information system and strabismus amblyopia data center from our hospital. These patients had undergone surgical treatment at the Ophthalmology Department of the First Affiliated Hospital with Nanjing Medical University between January 2015 and June 2021. 
+ This study was approved by the institutional ethical review board of the First Affiliated Hospital with Nanjing Medical University (No. 2019-SR-134). Written informed consent was waived for this study due to its retrospective nature. Inclusion and Exclusion Criteria 
+ Inclusion criteria: (1) There were complete medical records, the medical records were written in a standard manner, and the contents were complete; (2) There was a clear strabismus diagnosis, in line with the diagnostic criteria in the Expert Consensus on Strabismus Diagnosis formulated by the Strabismus and Pediatric Ophthalmology Group of the Ophthalmology Branch of the Chinese Medical Association [ 11 ]; (3) Complete preoperative examination data were present, including visual acuity, refractive status, eye position, eye movement, etc. (4) There were clear surgical records, and the selection of surgical procedures was in line with relevant guidelines or expert consensus recommendations. Exclusion Criteria 
+ Exclusion criteria: (1) Presence of other systemic diseases that may affect strabismus, such as poliomyelitis, cerebral palsy, extraocular muscular dystrophy, etc.; (2) Presence of other eye diseases, such as cataract, glaucoma, retinal diseases, and optic nerve diseases; (3) Incomplete medical records or non-standard writing leading to the failure to correctly extract case data; (4) Incomplete surgical records. Data Collection 
+ The hospital health information system was used to extract patients’ inpatient records, including case characteristics, physical examination, specialized examination, auxiliary examination, diagnosis and treatment process, surgical records, and discharge status. Considering the different writing habits of different doctors and the degree of detail and precision, to ensure the consistency of data extraction, the project team formulated a unified medical record extraction table, covering case summaries, clinical diagnosis, auxiliary examination, surgical records, discharge orders, follow-up records, and other aspects. 
+ The researchers first submitted an application for data retrieval to the hospital information center, and after approval by the ethics Committee and the signing of a confidentiality agreement, a specially-assigned person was responsible for the export of the inpatient medical records of “strabissive” discharged patients from 2015 to 2021. Then, the patients’ outpatient medical records were retrieved from the hospital health information system. Finally, the medical records were presented in the above-designed unified medical record extraction table. 
+ According to the above inclusion and exclusion criteria, cases were screened independently by 2 ophthalmologists, the screening results were cross-checked, and in case of disagreement, a third senior physician made the final decision. The types of strabismus among hospitalized patients were classified according to the consensus reached by the Strabismus and Pediatric Ophthalmology Group of the Chinese Medical Association in 2015 [ 11 ]. A comparative analysis was conducted on sex ratio, surgical age, date of surgery, routine ophthalmic examination, refractive status, ocular motility, strabismus degree, stereopsis function, surgical methods, surgical volume, postoperative outcomes, and trends in the composition of sex, age, and types of strabismus among hospitalized patients over the past 7 years, as well as the relationship between strabismus and refractive errors, and amblyopia. Also, the patients were categorized and compared by age, in the following groups: 0–2, 3–6, 7–17, 18, and over 18 years old. Statistical Analysis 
+ Statistical analysis was performed using SPSS 26.0. The count data were expressed as n/%. Chi-square analysis was applied for the year-to-year comparisons, and the non-parametric rank sum test and stratification methods were used for age and refractive status analysis. A P -value of less than 0.05 was considered statistically significant. Results 
+ Overall Distribution 
+ The data were screened from 2015 to 2021 and 3000 cases were in compliance with the inclusion criteria. Then, according to the exclusion criteria, the cases were screened one by one. Finally, a total of 2269 patients were included in this study. There were 1169 male patients and 1100 female patients, resulting in a male-to-female ratio of approximately 1.06: 1. The minimum age was 1 year and the maximum age was 76 years. The differences in sex distribution among subjects collected in different years were not statistically significant ( Table 1 ). 
+ Table 1. 
+ Patient sex ratio and demographic trends. 
+ 
+ 
+ 
+ Year 
+ 2015 
+ 2016 
+ 2017 
+ 2018 
+ 2019 
+ 2020 
+ 2021 
+ Total number 
+ Total percentage 
+ 
+ 
+ Cases/percentage 
+ N 
+ % 
+ N 
+ % 
+ N 
+ % 
+ N 
+ % 
+ N 
+ % 
+ N 
+ % 
+ N 
+ % 
+ 
+ 
+ 
+ 
+ Male 
+ 120 
+ 54.1 
+ 179 
+ 50.6 
+ 214 
+ 52.1 
+ 177 
+ 55.5 
+ 176 
+ 50.1 
+ 160 
+ 45.7 
+ 143 
+ 54.6 
+ 1169 
+ 51.52 
+ 
+ 
+ Female 
+ 102 
+ 45.9 
+ 175 
+ 49.4 
+ 197 
+ 47.9 
+ 142 
+ 44.5 
+ 175 
+ 49.9 
+ 190 
+ 54.3 
+ 119 
+ 45.4 
+ 1100 
+ 48.48 
+ 
+ 
+ Chi-square value 
+ 8.730 
+ 
+ 
+ P 
+ 0.189 
+ 
+ 
+ 
+ Open in a new tab Distribution of Strabismus Types in Surgical Patients 
+ Among the 2269 strabismus patients, intermittent exotropia was the most common (1364 cases, 60.11%), followed by congenital exotropia (166 cases, 7.32%), congenital esotropia (141 cases, 6.21%), and constant exotropia (133 cases, 5.86%). Other types are shown in Table 2 . 
+ Table 2. 
+ Distribution of strabismus types among hospitalized patients. 
+ 
+ 
+ Strabismus type 
+ Cases 
+ Ratio 
+ Strabismus type 
+ Cases 
+ Ratio 
+ 
+ 
+ 
+ Congenital esotropia 
+ 141 
+ 6.21 
+ Vertical strabismus (thyroid-related eye disease) 
+ 2 
+ 0.09 
+ 
+ 
+ Partial accommodative esotropia 
+ 105 
+ 4.63 
+ High myopic restrictive esotropia 
+ 5 
+ 0.22 
+ 
+ 
+ Non-refractive accommodative esotropia 
+ 8 
+ 0.35 
+ Vertical strabismus (orbital blowout fracture) 
+ 1 
+ 0.04 
+ 
+ 
+ Non-accommodative esotropia 
+ 91 
+ 4.01 
+ Duane syndrome 
+ 2 
+ 0.09 
+ 
+ 
+ Perceptual esotropia 
+ 21 
+ 0.93 
+ Vertical strabismus (etiology unclear) 
+ 6 
+ 0.26 
+ 
+ 
+ Continuous esotropia 
+ 28 
+ 1.23 
+ Crouzon syndrome 
+ 1 
+ 0.04 
+ 
+ 
+ Residual esotropia 
+ 23 
+ 1.01 
+ Brown syndrome 
+ 2 
+ 0.09 
+ 
+ 
+ Congenital exotropia 
+ 166 
+ 7.32 
+ V-pattern exotropia 
+ 6 
+ 0.26 
+ 
+ 
+ Intermittent exotropia 
+ 1364 
+ 60.11 
+ Unilateral underaction of the superior rectus (bilateral superior rectus palsy) 
+ 2 
+ 0.09 
+ 
+ 
+ Constant exotropia 
+ 133 
+ 5.86 
+ Dissociated vertical divergence 
+ 7 
+ 0.31 
+ 
+ 
+ Perceptual exotropia 
+ 59 
+ 2.60 
+ Helveston syndrome 
+ 1 
+ 0.04 
+ 
+ 
+ Continuous exotropia 
+ 20 
+ 0.88 
+ Non-concomitant esotropia (post-viral encephalitis sequelae) 
+ 1 
+ 0.04 
+ 
+ 
+ Residual exotropia 
+ 14 
+ 0.62 
+ Acute concomitant esotropia 
+ 30 
+ 1.32 
+ 
+ 
+ Oculomotor nerve palsy exotropia 
+ 1 
+ 0.04 
+ Superior oblique palsy 
+ 16 
+ 0.71 
+ 
+ 
+ Abducens nerve palsy 
+ 3 
+ 0.13 
+ Esotropia with insufficient abduction of the right eye (etiology unclear) 
+ 1 
+ 0.04 
+ 
+ 
+ Inability to adduct after nasal endoscopy 
+ 1 
+ 0.04 
+ Non-concomitant exotropia (orbital fracture) 
+ 1 
+ 0.04 
+ 
+ 
+ Inferior oblique overaction 
+ 2 
+ 0.09 
+ Post-orbital decompression for thyroid-related eye disease 
+ 1 
+ 0.04 
+ 
+ 
+ Superior oblique overaction 
+ 1 
+ 0.04 
+ Paralytic strabismus (thyroid-related eye disease) 
+ 1 
+ 0.04 
+ 
+ 
+ Marcus Gunn phenomenon 
+ 1 
+ 0.04 
+ Non-concomitant esotropia (orbital fracture) 
+ 1 
+ 0.04 
+ 
+ 
+ 
+ Open in a new tab Age Distribution of Strabismus Patients 
+ The age distribution of strabismus patients showed no significant differences ( P >0.05). The distribution of intermittent exotropia in the 7–17 age group decreased in 2021, with statistical significance ( P =0.003). The ≥18 age group of intermittent exotropia also experienced a decline in 2020 and 2021 compared with previous years, reaching the lowest point in 2021. This decline was statistically significant ( P <0.001, Table 3 ). The age distribution varied from year to year. 
+ Table 3. 
+ Age distribution of strabismus by types. 
+ 
+ 
+ 
+ Types 
+ Year 
+ 2015 
+ 2016 
+ 2017 
+ 2018 
+ 2019 
+ 2020 
+ 2021 
+ Chi-square value 
+ 
+ P 
+ 
+ 
+ 
+ Age 
+ N 
+ % 
+ N 
+ % 
+ N 
+ % 
+ N 
+ % 
+ N 
+ % 
+ N 
+ % 
+ N 
+ % 
+ 
+ 
+ 
+ 
+ Congenital Esotropia 
+ 0–2 
+ 1 
+ 8.33 
+ 12 
+ 35.29 
+ 8 
+ 32 
+ 4 
+ 25 
+ 2 
+ 18.18 
+ 3 
+ 14.29 
+ 4 
+ 18.18 
+ 6.042 
+ 0.417 
+ 
+ 
+ 3–6 
+ 4 
+ 33.33 
+ 9 
+ 26.47 
+ 10 
+ 40 
+ 11 
+ 68.75 
+ 6 
+ 54.55 
+ 10 
+ 47.62 
+ 11 
+ 50 
+ 9.852 
+ 0.128 
+ 
+ 
+ 7–17 
+ 3 
+ 25 
+ 6 
+ 17.65 
+ 4 
+ 16 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+ 14.29 
+ 2 
+ 9.09 
+ 6.481 
+ 0.332 
+ 
+ 
+ ≥18 
+ 4 
+ 33.33 
+ 7 
+ 20.59 
+ 3 
+ 12 
+ 1 
+ 6.25 
+ 3 
+ 27.27 
+ 5 
+ 23.81 
+ 5 
+ 22.73 
+ 5.173 
+ 0.522 
+ 
+ 
+ Partial accommodative esotropia 
+ 0–2 
+ 0 
+ 0 
+ 1 
+ 6.25 
+ 2 
+ 7.69 
+ 2 
+ 9.09 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3.267 
+ 0.811 
+ 
+ 
+ 3–6 
+ 5 
+ 62.5 
+ 12 
+ 75 
+ 19 
+ 73.08 
+ 13 
+ 59.09 
+ 20 
+ 90.91 
+ 4 
+ 80 
+ 6 
+ 100 
+ 8.540 
+ 0.169 
+ 
+ 
+ 7–17 
+ 3 
+ 37.5 
+ 2 
+ 12.5 
+ 4 
+ 15.38 
+ 6 
+ 27.27 
+ 2 
+ 9.09 
+ 1 
+ 20 
+ 0 
+ 0 
+ 5.909 
+ 0.384 
+ 
+ 
+ ≥18 
+ 0 
+ 0 
+ 1 
+ 6.25 
+ 1 
+ 3.85 
+ 1 
+ 4.55 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3.478 
+ 0.933 
+ 
+ 
+ Non-accommodative esotropia 
+ 0–2 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ – 
+ – 
+ 
+ 
+ 3–6 
+ 6 
+ 42.86 
+ 6 
+ 46.15 
+ 7 
+ 46.67 
+ 10 
+ 62.50 
+ 4 
+ 40.00 
+ 4 
+ 36.36 
+ 9 
+ 75.00 
+ 8.374 
+ 0.207 
+ 
+ 
+ 7–17 
+ 4 
+ 28.57 
+ 3 
+ 23.08 
+ 5 
+ 33.33 
+ 5 
+ 31.25 
+ 1 
+ 10.00 
+ 2 
+ 18.18 
+ 1 
+ 8.33 
+ 4.176 
+ 0.669 
+ 
+ 
+ ≥18 
+ 4 
+ 28.57 
+ 4 
+ 30.77 
+ 3 
+ 20.00 
+ 1 
+ 6.25 
+ 5 
+ 50.00 
+ 5 
+ 45.45 
+ 2 
+ 16.67 
+ 9.274 
+ 0.145 
+ 
+ 
+ Congenital exotropia 
+ 0–2 
+ 3 
+ 10.34 
+ 7 
+ 15.56 
+ 1 
+ 4.76 
+ 1 
+ 10.00 
+ 1 
+ 4.17 
+ 1 
+ 5.26 
+ 2 
+ 11.00 
+ 3.274 
+ 0.785 
+ 
+ 
+ 3–6 
+ 6 
+ 20.69 
+ 17 
+ 37.78 
+ 10 
+ 47.62 
+ 6 
+ 60.00 
+ 11 
+ 45.83 
+ 3 
+ 15.79 
+ 6 
+ 33.33 
+ 11.245 
+ 0.077 
+ 
+ 
+ 7–17 
+ 9 
+ 31.03 
+ 11 
+ 24.44 
+ 6 
+ 28.57 
+ 2 
+ 20.00 
+ 6 
+ 25.00 
+ 5 
+ 26.32 
+ 4 
+ 22.22 
+ 0.938 
+ 0.993 
+ 
+ 
+ ≥18 
+ 11 
+ 37.93 
+ 10 
+ 22.22 
+ 4 
+ 19.05 
+ 1 
+ 10.00 
+ 6 
+ 25.00 
+ 10 
+ 52.63 
+ 6 
+ 33.33 
+ 9.705 
+ 0.130 
+ 
+ 
+ Intermittent exotropia 
+ 0–2 
+ 3 
+ 2.16 
+ 2 
+ 1.05 
+ 3 
+ 1.18 
+ 1 
+ 0.52 
+ 2 
+ 0.95 
+ 4 
+ 1.83 
+ 1 
+ 0.63 
+ 3.680 
+ 0.722 
+ 
+ 
+ 3–6 
+ 48 
+ 34.53 
+ 74 
+ 38.95 
+ 95 
+ 37.40 
+ 73 
+ 37.82 
+ 77 
+ 36.67 
+ 73 
+ 33.33 
+ 56 
+ 35.22 
+ 2.013 
+ 0.919 
+ 
+ 
+ 7–17 
+ 68 
+ 48.92 
+ 86 
+ 45.26 
+ 130 
+ 51.18 
+ 92 
+ 47.67 
+ 88 
+ 41.90 
+ 90 
+ 41.10 
+ 49 
+ 30.82 
+ 20.152 
+ 0.003 * 
+ 
+ 
+ 
+ ≥18 
+ 20 
+ 14.39 
+ 28 
+ 14.74 
+ 26 
+ 10.24 
+ 27 
+ 13.99 
+ 43 
+ 20.48 
+ 52 
+ 23.74 
+ 53 
+ 33.33 
+ 45.607 
+ <0.001 * 
+ 
+ 
+ 
+ Constant exotropia 
+ 0–2 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ – 
+ – 
+ 
+ 
+ 3–6 
+ 0 
+ 0 
+ 4 
+ 15.38 
+ 5 
+ 13.89 
+ 8 
+ 21.62 
+ 4 
+ 17.39 
+ 2 
+ 28.57 
+ 0 
+ 0 
+ 2.493 
+ 0.896 
+ 
+ 
+ 7–17 
+ 1 
+ 100 
+ 12 
+ 46.15 
+ 17 
+ 47.22 
+ 14 
+ 37.84 
+ 12 
+ 52.17 
+ 0 
+ 0 
+ 1 
+ 33.33 
+ 8.587 
+ 0.163 
+ 
+ 
+ ≥18 
+ 0 
+ 0 
+ 10 
+ 38.46 
+ 14 
+ 38.89 
+ 15 
+ 40.54 
+ 7 
+ 30.43 
+ 5 
+ 71.43 
+ 2 
+ 66.67 
+ 5.243 
+ 0.163 
+ 
+ 
+ 
+ Open in a new tab 
+ 
+ H=56.633 
+ 
+ * P <0.005. 
+ 
+ Relationship Between Strabismus Type and Refractive Status 
+ In congenital esotropia, 55 cases had low hyperopia (53.40%) and 18 had moderate hyperopia (17.48%). For accommodative esotropia ( Figure 1A, 1B ), 44 cases had low hyperopia (46.8%), 31 had moderate hyperopia (32.98%), and 14 had high hyperopia (14.89%). In non-accommodative esotropia, 35 cases had low hyperopia (56.45%), 8 had moderate hyperopia (12.9%), and 7 had low myopia (11.29%). For intermittent exotropia ( Figure 2A, 2B ), 296 cases had low hyperopia (32.78%), 411 had low myopia (45.51%), and 151 had moderate myopia (16.72%). In congenital exotropia, 32 cases had low hyperopia (36.36%), 33 had low myopia (37.5%), and 14 had moderate myopia (15.91%) ( Table 2 ). 
+ Figure 1. 
+ 
+ Open in a new tab 
+ Perioperative images of a woman with esotropia. ( A ) Preoperative; ( B ) postoperative. Figure 2. 
+ 
+ Open in a new tab 
+ Perioperative images of a woman with intermittent exotropia. ( A ) Preoperative; ( B ) postoperative. Correlation Between Concomitant Strabismus and Refractive Status 
+ The analysis showed that there were no significant differences in the distribution of myopia across age groups in concomitant esotropia ( P >0.05), but the distribution of hyperopia showed significant differences ( P <0.05, Table 4 ). In concomitant exotropia, there were no statistically significant differences in the distribution of myopia or hyperopia across age groups ( P >0.05). Among the 1754 cases of concomitant strabismus, 317 were concomitant esotropia and 1437 were concomitant exotropia. Low hyperopia was most common in concomitant esotropia (172 cases, 54.26%). Low myopia was most common in concomitant exotropia (489 cases, 34.03%). See Table 5 for details. 
+ Table 4. 
+ Comparative analysis of myopia differences by age group in concomitant exotropia (n, %). 
+ 
+ 
+ Age 
+ Cases 
+ Low myopia (n=489) 
+ Moderate myopia (n=185) 
+ High myopia (n=76) 
+ H 
+ 
+ P 
+ 
+ 
+ 
+ 
+ 0–2 
+ 4 
+ 3 (0.6) 
+ 0 (0.0) 
+ 1 (1.3) 
+ 94.015 
+ <0.001 
+ 
+ 
+ 3–6 
+ 124 
+ 109 (22.3) 
+ 13 (7.0) 
+ 2 (2.6) 
+ 
+ 
+ 7–17 
+ 407 
+ 285 (58.3) 
+ 103 (55.7) 
+ 19 (25.0) 
+ 
+ 
+ ≥18 
+ 215 
+ 92 (18.8) 
+ 69 (37.3) 
+ 54 (71.1) 
+ 
+ 
+ 
+ Open in a new tab Table 5. 
+ Distribution of ocular refractive status. 
+ 
+ 
+ 
+ Types in the right eye 
+ Concomitant esotropia 
+ Concomitant exotropia 
+ Types in the left eye 
+ Concomitant esotropia 
+ Concomitant exotropia 
+ 
+ 
+ Patients (N) 
+ % 
+ Patients (N) 
+ % 
+ Patients (N) 
+ % 
+ Patients (N) 
+ % 
+ 
+ 
+ 
+ 
+ Low hyperopia 
+ 172 
+ 54.26 
+ 337 
+ 31.70 
+ Low hyperopia 
+ 160 
+ 50.47 
+ 353 
+ 32.96 
+ 
+ 
+ Moderate hyperopia 
+ 40 
+ 12.62 
+ 12 
+ 1.13 
+ Moderate hyperopia 
+ 54 
+ 17.03 
+ 13 
+ 1.21 
+ 
+ 
+ High hyperopia 
+ 16 
+ 5.05 
+ 6 
+ 0.56 
+ High hyperopia 
+ 20 
+ 6.31 
+ 3 
+ 0.28 
+ 
+ 
+ Low myopia 
+ 45 
+ 14.20 
+ 482 
+ 45.34 
+ Low myopia 
+ 46 
+ 14.51 
+ 496 
+ 46.31 
+ 
+ 
+ Moderate myopia 
+ 28 
+ 8.83 
+ 170 
+ 15.99 
+ Moderate myopia 
+ 23 
+ 7.26 
+ 158 
+ 14.75 
+ 
+ 
+ High myopia 
+ 14 
+ 4.42 
+ 38 
+ 3.57 
+ High myopia 
+ 11 
+ 3.47 
+ 32 
+ 2.99 
+ 
+ 
+ Super high myopia 
+ 2 
+ 0.63 
+ 18 
+ 1.69 
+ Super high myopia 
+ 3 
+ 0.95 
+ 16 
+ 1.49 
+ 
+ 
+ Total 
+ 317 
+ 
+ 1063 
+ 
+ Total 
+ 317 
+ 
+ 1071 
+ 
+ 
+ 
+ 
+ Open in a new tab Distribution of Surgical Methods 
+ In total, 587 patients underwent bilateral lateral rectus recession, 151 patients had bilateral medial rectus recession, 247 patients received unilateral lateral rectus recession combined with medial rectus shortening or folding, and 60 patients had unilateral medial rectus recession combined with lateral rectus shortening or folding. Additionally, 102 patients underwent bilateral lateral rectus recession plus unilateral medial rectus shortening or folding, and 9 patients had bilateral medial rectus recession combined with unilateral lateral rectus shortening or folding. The distribution of bilateral lateral rectus recession varied significantly across different years, with 2015 showing the lowest numbers, while 2016–2019 had higher counts, and 2020 and 2021 recorded the highest. The distribution of unilateral lateral rectus recession combined with medial rectus shortening or folding also showed significant yearly variations, peaking in 2015 and declining from 2016 to 2019, with the lowest counts in 2020 and 2021. Moreover, the distribution of bilateral medial rectus recession combined with unilateral lateral rectus shortening or folding also exhibited significant year-to-year differences, with 2020 showing higher numbers compared with the other years ( Table 6 ). 
+ Table 6. 
+ Distribution of surgical methods. 
+ 
+ 
+ 
+ Surgical method 
+ 2015 
+ 2016 
+ 2017 
+ 2018 
+ 2019 
+ 2020 
+ 2021 
+ chi-square 
+ 
+ P 
+ 
+ 
+ 
+ N 
+ % 
+ N 
+ % 
+ N 
+ % 
+ N 
+ % 
+ N 
+ % 
+ N 
+ % 
+ N 
+ % 
+ 
+ 
+ 
+ 
+ Bilateral lateral rectus recession 
+ 29 
+ 22.66 
+ 99 
+ 49.01 
+ 112 
+ 52.58 
+ 61 
+ 45.19 
+ 81 
+ 54.73 
+ 104 
+ 61.90 
+ 101 
+ 62.35 
+ 60.639 
+ <0.001 
+ 
+ 
+ Bilateral medial rectus recession 
+ 13 
+ 10.16 
+ 18 
+ 8.91 
+ 33 
+ 15.49 
+ 22 
+ 16.30 
+ 23 
+ 15.54 
+ 15 
+ 8.93 
+ 27 
+ 16.67 
+ 11.551 
+ 0.073 
+ 
+ 
+ Unilateral lateral rectus recession + medial rectus shortening/folding 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ – 
+ – 
+ 
+ 
+ Bilateral medial rectus shortening/folding 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ – 
+ – 
+ 
+ 
+ Unilateral lateral rectus recession + medial rectus shortening/folding 
+ 64 
+ 50 
+ 55 
+ 27.23 
+ 40 
+ 18.78 
+ 34 
+ 25.19 
+ 27 
+ 18.24 
+ 15 
+ 8.93 
+ 12 
+ 7.41 
+ 103.729 
+ <0.001 
+ 
+ 
+ Unilateral medial rectus recession + lateral rectus shortening/folding 
+ 10 
+ 7.81 
+ 15 
+ 7.43 
+ 8 
+ 3.76 
+ 5 
+ 3.70 
+ 5 
+ 3.38 
+ 10 
+ 5.95 
+ 7 
+ 4.32 
+ 6.771 
+ 0.343 
+ 
+ 
+ Bilateral lateral rectus recession + unilateral medial rectus shortening/folding 
+ 12 
+ 9.38 
+ 14 
+ 6.93 
+ 20 
+ 9.39 
+ 12 
+ 8.89 
+ 12 
+ 8.11 
+ 19 
+ 11.31 
+ 13 
+ 8.02 
+ 2.547 
+ 0.863 
+ 
+ 
+ Bilateral medial rectus recession + unilateral lateral rectus shortening/folding 
+ 0 
+ 0 
+ 1 
+ 0.50 
+ 0 
+ 0 
+ 1 
+ 0.74 
+ 0 
+ 0 
+ 5 
+ 2.98 
+ 2 
+ 1.23 
+ 9.929 
+ 0.024 
+ 
+ 
+ Total 
+ 128 
+ 
+ 202 
+ 
+ 213 
+ 
+ 135 
+ 
+ 148 
+ 
+ 168 
+ 
+ 162 
+ 
+ 
+ 
+ 
+ 
+ 
+ Open in a new tab Discussion 
+ Among all cases in the current study, intermittent exotropia accounted for the highest proportion of strabismus cases. The highest correlation between concomitant esotropia and hyperopia was found in 3- to 6-year-old patients with low hyperopia, concomitant exotropia, and myopia; and in 7- to 17-year-old patients with low myopia. Common exotropia is usually treated with bilateral external rectus recession, common esotropia is mainly treated with bilateral internal rectus recession, and non-common esotropia is mainly treated with inferior oblique transposition. 
+ Exotropia was found to be significantly more prevalent than esotropia, with a ratio of concomitant exotropia to concomitant esotropia of approximately 4.53: 1. As reported, the majority (60%) of all strabismus surgery patients were diagnosed with exotropia, with intermittent exotropia accounting for the highest proportion (53%) [ 12 ]. Exotropia has been reported to be more common than esotropia in previous literature [ 13 , 14 ], and this is consistent with our results. 
+ Wan et al [ 14 ] analyzed 5746 strabismus patients, and found that male patients accounted for 48.3%. Other previous research [ 15 ], however, has reported a higher prevalence of strabismus in male patients. Our sample had a small male predominance (male-to-female ratio: 1.06: 1). Current research on whether the pathogenesis of strabismus is correlated with sex is limited. It is necessary to conduct further research into potential genetic or environmental components that may account for this gap. 
+ Heo [ 16 ] noted that younger patients undergoing surgery for exotropia had a higher reoperation rate than older patients, and recurrence of exotropia was more common compared with persistent esotropia. Unilateral amblyopia leads to anisometropia, while bilateral amblyopia causes perceptual deficits, both of which can result in perceptual strabismus, further exacerbating amblyopia—a mutually causal relationship. The emergence of strabismus is largely associated with refractive errors, amblyopia, and refractive parameters [ 17 , 18 ]. Identifying the etiology is crucial for effective treatment; however, distinguishing causes from effects remains difficult, significantly impacting treatment strategies and preventative interventions. For instance, strabismus surgery includes weakening procedures such as recessions or disinsertion of muscles, and strengthening procedures like resections or anteriorization of muscles. A comparison of surgically treated patients with control patients emphasized that strabismus surgery significantly improved children’s reading fluency and drawing task performance [ 19 ]. The medial rectus muscle folding procedure involves placing a double-loop suture at the designed surgical site and directly suturing it to the original muscle insertion point to fold the medial rectus muscle. Conversely, the medial rectus muscle resection technique involves cutting the muscle at the designated site and suturing it to the original attachment point, removing excess muscle. One study [ 20 ] compared bilateral medial rectus muscle folding with resection for the treatment of convergence insufficiency-type intermittent exotropia (IXT). The results suggested that bilateral medial rectus muscle folding surgery may serve as a viable alternative for the treatment of CI-type IXT, offering simplicity, safety, less risk of overcorrection, and minimal invasiveness, with promising clinical outcomes. Our study also found that common exotropia usually benefits from bilateral external rectus recession. Another study compared the effects of inferior oblique muscle anterior transposition against superior rectus muscle recession, revealing that the former was superior [ 21 ]. Further research indicated no statistically significant differences among the 3 treatments: simple inferior oblique transposition, inferior oblique resection with transposition, and inferior oblique resection combined with anterior transposition [ 22 ]. Our study emphasizes that concomitant esotropia is generally treated with bilateral medial rectus muscle recession, and non-concomitant strabismus often requires inferior oblique muscle transposition. However, similarities have been found in surgical success rates while significant variations occur in visual standing post-operation [ 23 , 24 ]. Variations in the medical method, person selection criteria, and postoperative management may contribute to this discrepancy. Future research should focus on the long-term effects of these medical treatments on optical balance, particularly among people of various ages. 
+ According to the age-specific analysis, the intensity of intermittent exotropia in the 7- to 17-year group significantly decreased in 2021, which may be due to improved education and treatment methods. Additionally, the decline in 18-year-old patients over the same period suggests that there may have been a demographic change in patients seeking medical adjustment, perhaps as a result of earlier, more effective treatment and preventative care [ 25 ]. This distribution underscores the value of ordinary vision tests for children [ 26 ], pointing to a possible trend in early detection and treatment. Additionally, findings from this study demonstrate a strong correlation between myopia and concomitant exotropia as well as between concomitant esotropia and hyperopia. These connections support the theory that refractive errors may lead to several strabismus types [ 27 ]. For example, myopia correlates with exotropia because the required accommodative power is smaller for nearsighted people, while hyperopia results in esotropic tendencies due to the flexibility and work needed to maintain clear vision [ 26 ]. In the future, refractive errors and strabismus may be better identified and managed using this knowledge. 
+ This study was a single-center study, so the representativeness of this study was limited, and further research with large samples from different areas is needed. As a well-known strabismus diagnosis and treatment center in Jiangsu Province, the characteristics of the patient population may be different from that of hospitals from other areas due to its geographical restriction. In addition, the study was limited to hospitalized surgical patients, and did not analyze any confounding factors related to these patients. Further research studies should take into account the patients’ demographics, ocular position, refractive status, and strabismus subtype in analyzing the prevalent characteristics of the population, and focus on the long-term effects of these surgical interventions on refractive stability, particularly in different age groups. Conclusions 
+ In conclusion, intermittent exotropia accounted for the highest proportion of strabismus cases in this study population in Jiangsu. The highest correlation between concomitant esotropia and hyperopia was found in 3- to 6-year-old patients with low hyperopia. The highest correlation between concomitant exotropia and myopia was found in 7- to 17-year-old patients with low myopia. Common exotropia is usually treated with bilateral external rectus recession, common esotropia is mainly treated with bilateral internal rectus recession, and non-common esotropia is mainly treated with inferior oblique transposition. However, further research with large samples from multiple medical centers is needed to explore the underlying mechanisms of the observed trends and to refine surgical techniques for improved patient outcomes. Footnotes 
+ 
+ Conflict of interest: None declared 
+ Publisher’s note: All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher 
+ Declaration of Figures Authenticity: All figures submitted have been created by the authors who confirm that the images are original with no duplication and have not been previously published in whole or in part. 
+ Financial support: None declared 
+ References 
+ 
+ 
+ 1. Zrinšćak O, Grubišić I, Skala K, et al. Computer-based eye tracker for detection of manifest strabismus. Acta Clin Croat. 2021;60:683–94. doi: 10.20471/acc.2021.60.04.16. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 2. Yu K, Lin Q, Ge QM, et al. Measuring functional connectivity in patients with strabismus using stationary functional magnetic resonance imaging: A resting-state network study. Acta Radiol. 2022;63:110–21. doi: 10.1177/0284185120983978. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 3. Miyata M, Kido A, Miyake M, et al. Prevalence and incidence of strabismus by age group in Japan: A nationwide population-based cohort study. Am J Ophthalmol. 2024;262:222–28. doi: 10.1016/j.ajo.2023.11.022. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 4. Wang Y, Zhao A, Zhang X, et al. Prevalence of strabismus among preschool children in eastern China and comparison at a 5-year interval: A population-based cross-sectional study. BMJ Open. 2021;11:e055112. doi: 10.1136/bmjopen-2021-055112. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 5. Gouveia-Moraes F, Barros S, Vide Escada A, et al. Strabismus and health related quality of life in a pediatric Portuguese population. Strabismus. 2023;31:262–70. doi: 10.1080/09273972.2023.2276138. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 6. Silva N, Castro C, Caiado F, et al. Evaluation of functional vision and eye-related quality of life in children with strabismus. Clin Ophthalmol. 2022;16:803–13. doi: 10.2147/OPTH.S354835. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 7. Wang H, Crewther SG, Yin ZQ. The role of eye movement driven attention in functional strabismic amblyopia. J Ophthalmol. 2015;2015:534719. doi: 10.1155/2015/534719. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 8. Kim S, Babiuch A, Xiao H, et al. Comparison of myopia progression among myopic children with intermittent exotropia and no strabismus. Optom Vis Sci. 2023;100:508–14. doi: 10.1097/OPX.0000000000002047. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 9. Lee HJ, Kim SJ. Long-term outcomes following resection-recession versus plication-recession in children with intermittent exotropia. Br J Ophthalmol. 2020;104:350–56. doi: 10.1136/bjophthalmol-2018-313711. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 10. Sunyer-Grau B, Quevedo L, Rodríguez-Vallejo M, et al. Concomitant strabismus etiology: Extraocular muscle integrity and central nervous system involvement-a narrative review. Graefes Arch Clin Exp Ophthalmol. 2023;261:1781–92. doi: 10.1007/s00417-022-05935-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 11. Strabismus and Pediatric Ophthalmology Group, Society of Ophthalmology, Chinese Medical Association. Expert consensus on strabismus classification in China (2015) Chinese J Ophthalmol. 2015;51:408–10. [ Google Scholar ] 
+ 
+ 12. Lang L, Guo K, Zhang L, et al. The distribution characteristics of strabismus surgery types in a tertiary hospital in the Central Plains region during the COVID-19 epidemic. BMC Ophthalmol. 2024;24:67. doi: 10.1186/s12886-024-03327-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 13. Kaur S, Korla S, Sukhija J. Long-term outcomes of single monocular resection-recession in adult sensory strabismus and factors affecting the postoperative drift. Indian J Ophthalmol. 2023;71:2841–44. doi: 10.4103/IJO.IJO_205_23. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 14. Wan X, Wan L, Jiang M, et al. A retrospective survey of strabismus surgery in a tertiary eye center in northern China, 2014–2019. BMC Ophthalmol. 2021;21(1):40. doi: 10.1186/s12886-021-01805-w. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 15. Laughton SC, Hagen MM, Yang W, et al. Gender differences in horizontal strabismus: Systematic review and meta-analysis shows no difference in prevalence, but gender bias towards females in the clinic. J Glob Health. 2023;13:04085. doi: 10.7189/jogh.13.04085. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 16. Heo H, Lambert SR. Effect of age on reoperation rate in children undergoing exotropia surgery. Acta Ophthalmol. 2021;99:e1206–11. doi: 10.1111/aos.14771. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 17. Meng Y, Hu X, Huang X, et al. Clinical characteristics and aetiology of acute acquired comitant esotropia. Clin Exp Optom. 2022;105:293–97. doi: 10.1080/08164622.2021.1914510. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 18. Acar Z, Yılmaz Tuğan B. Clinical characteristics and treatment outcomes of myopic children and adolescents with acute acquired comitant esotropia. Clin Exp Optom. 2025;108(4):511–15. doi: 10.1080/08164622.2024.2361753. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 19. Feuillade V, Bourcier T, Gaucher D, et al. The effect of strabismus surgery on the learning abilities of school-aged children. Acta Ophthalmol. 2023;101:546–52. doi: 10.1111/aos.15634. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 20. Wang X, Zhang W, Chen B, et al. Comparison of bilateral medial rectus plication and resection for the treatment of convergence insufficiency-type intermittent exotropia. Acta Ophthalmol. 2019;97:e448–53. doi: 10.1111/aos.14056. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 21. Wang F. The effect of anterior transposition of inferior oblique muscle in the treatment of dissociated vertical strabismus. China Natl Health Med. 2019;31:80–81. [ Google Scholar ] 
+ 
+ 22. Dai X, Dai H. Three kinds of inferior oblique muscle transposition for the treatment of dissociated vertical strabismus. Chinese Med Innov. 2013;10(18):146–48. [ Google Scholar ] 
+ 
+ 23. Israeli A, Hod K, Mezer E. Characteristics and differences of strabismus surgeries performed in private versus public settings: A national multicenter study. Int Ophthalmol. 2023;43:3247–55. doi: 10.1007/s10792-023-02725-y. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 24. Repka MX, Lum F, Burugapalli B. Strabismus, strabismus surgery, and reoperation rate in the United States: Analysis from the IRIS Registry. Ophthalmology. 2018;125:1646–53. doi: 10.1016/j.ophtha.2018.04.024. [ DOI ] [ PubMed ] [ Google Scholar ] 
+ 
+ 25. Irfan S. The impact of refractive errors on strabismus. Indian J Strabismol Pediatric Ophthalmol. 2018;2:21–32. [ Google Scholar ] 
+ 
+ 26. Villanueva MJR, Santiago APD. Effects of prolonged waiting time on visual outcomes of patients with pediatric cataract in a tertiary public hospital. Acta Med Philipp. 2024;58:77–84. doi: 10.47895/amp.vi0.8653. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+ 
+ 27. Parrilla C, Mele DA, Gelli S, et al. Multidisciplinary approach to orbital decompression. A review. Acta Otorhinolaryngol Ital. 2021;41:S90–101. doi: 10.14639/0392-100X-suppl.1-41-2021-09. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]

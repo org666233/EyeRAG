@@ -1,0 +1,229 @@
+Source: Wikipedia
+Title: Eye examination
+URL: https://en.wikipedia.org/wiki/Eye_examination
+============================================================
+
+An eye examination, commonly known as an eye test, is a series of tests performed to assess vision and ability to focus on both far and near and discern objects. It also includes other tests and examinations of the eyes. Eye examinations are primarily performed by an optometrist, ophthalmologist, or an orthoptist.
+Health care professionals often recommend that all people should have periodic and thorough eye examinations as part of routine primary care, especially since many eye diseases are  asymptomatic. Typically, a healthy individual who otherwise has no concerns with their eyes receives an eye exam once in their 20s and twice in their 30s.
+Eye examinations may detect potentially treatable blinding eye diseases, ocular manifestations of systemic disease, or signs of tumors or other anomalies of the brain.
+A full eye examination consists of a comprehensive evaluation of medical history, followed by 8 steps of visual acuity, pupil function, extraocular muscle motility and alignment, intraocular pressure, confrontational visual fields, external examination, slit-lamp examination and fundoscopic examination through a dilated pupil.
+A minimal eye examination consists of tests for visual acuity, pupil function, and extraocular muscle motility, as well as direct ophthalmoscopy through an undilated pupil.
+
+
+== Medical history ==
+Collecting medical history is the first and an essential step in eye examination. Many eye conditions are associated with systemic health, and many diseases can have manifestations in the eye. Certain systematic medications can cause ocular side effects and warrant routine eye exams. Personal and family history of eye diseases can help providers identify individuals at higher risk, allowing for early interventions.
+
+
+=== Common chief complaints ===
+Common chief complaints for an eye exam include vision loss (transient or persistent), blurry vision, double vision, seeing flashes of light, and seeing floaters.
+
+
+=== Medical conditions ===
+
+
+==== Diabetes Mellitus ====
+Diabetes mellitus, or diabetes, can lead to changes in the eye. Individuals with diabetes can develop early cataract and diabetic retinopathy in the long term.
+
+
+==== Hypertension ====
+Longstanding hypertension can contribute to microvascular damage of the blood vessels in the retina, leading to hypertensive retinopathy.
+Malignant hypertension can lead to papilledema, which is the swelling of the optic nerve. This is a medical emergency and can lead to blindness.
+
+
+==== Autoimmune disorders ====
+Autoimmune disorders can affect the eyes in different ways. Most commonly, Grave's disease can lead to Grave's ophthalmopathy or Thyroid Eye Disease (TED). Sjogren's disease manifest as dry eye.
+
+
+=== Medication use ===
+
+
+==== Hydroxychloroquine ====
+Hydroxychloroquine, also known as Plaquenil, is an antimalaria medication commonly used to treat lupus and rheumatoid arthritis. Individuals who are on long-term hydroxychloroquine for more than 5 years are recommended to have a comprehensive eye exam annually. Patients usually receive a baseline exam before starting the medication to document their baseline eye condition as well.
+
+
+==== Corticosteroids ====
+Corticoteroids can have ocular side effects. It can increase the intraocular pressure, which can lead to glaucoma.
+
+
+=== Personal history of eye conditions ===
+Collecting one's personal history of eye conditions provides valuable information for the eye examination. History of trauma to the eye, such as open globe injury, and prior surgeries, such as refractive surgeries, cataract surgeries, and minimally invasive glaucoma surgery (MIGS) procedures are usually gathered during an eye examination.
+
+
+=== Family history of eye conditions ===
+A family history of glaucoma, age-related macular degeneration, and other inherited eye diseases are often collected, as these diseases have a genetic component.
+
+
+== The 8-Point eye exam ==
+
+
+=== Visual acuity ===
+
+Visual acuity is the eyes ability to detect fine details and is the quantitative measure of the eye's ability to see an in-focus image at a certain distance. The standard definition of normal visual acuity (20/20 or 6/6 vision) is the ability to resolve a spatial pattern separated by a visual angle of one minute of arc.  The terms 20/20 and 6/6 are derived from standardized sized objects that can be seen by a "person of normal vision" at the specified distance. For example, if one can see at a distance of 20 ft an object that can normally be seen at 20 ft, then one has 20/20 vision. Likewise, if one can see at 20 ft what a normal person can see at 40 ft, then one has 20/40 vision. The 6/6 terminology is used in countries using the metric system, and that represents the distance in meters since 6 meters are roughly equal to 20 feet.This is often measured with a Snellen chart or LogMAR chart.
+
+
+==== Measuring visual acuity ====
+
+Visual acuity is usually measured with a Snellen or LogMAR chart with a lit background to give the reader the best chance of detecting the optotypes (letters or non-letter symbols). Distance visual acuity and near visual acuity are often measured separated. Usually, one eye is measured at a time, first without corrections (glasses or pinhole), then with corrections.Best corrected visual acuity refers to the best visual acuity one can achieve with corrective lenses. When corrective lenses are not available, a pinhole is often used to simulate the effect of glasses. Any improvement from corrective lenses or/and pinholes are often documented to indicate the individual's refractive potential.
+The visual acuity is assigned in the form of a fraction. Visual acuity is recorded as "20/20" (or another fraction like 20/40) when all optotypes (letters or symbols) on a specific line of the eye chart are correctly identified. When an individual correctly identifies additional 2 letters in the next 20/30 lines, then they will be assigned 20/40+2. Alternatively, if an individual correctly identifies all optotypes on the 20/40 lines except 2, they will be assigned 20/40-2.
+When an individual cannot read the chart, visual acuity is assessed using alternative methods that do not involve the chart. CF is used when an individual can see and count fingers at a certain distance. For example, CF@2 ft' refers to "count fingers at 2 feet".  HM (hand motion) is used when an individual can only see the direction of hand movement close to the face. LP (light perception) is used when an individual can only detect light but not shapes, motions or colors. NLP (no light perception) is assigned when an individual cannot detect any light.
+
+
+=== Pupil function ===
+
+An examination of pupilary function includes inspecting the pupils for equal size (1 mm or less of difference may be normal), regular shape, reactivity to light, and direct and consensual accommodation. These steps can be easily remembered with the mnemonic PERRLA (D+C): Pupils Equal and Round; Reactive to Light and Accommodation (Direct and Consensual).
+A swinging-flashlight test may also be desirable if neurologic damage is suspected.
+The swinging-flashlight test is the most useful clinical test available to a general physician for the assessment of optic nerve anomalies.
+This test detects the afferent pupil defect, also referred to as the Marcus Gunn pupil. It is conducted in a semidarkened room.
+In a normal reaction to the swinging-flashlight test, both pupils constrict when one is exposed to light.
+As the light is being moved from one eye to another, both eyes begin to dilate, but constrict again when light has reached the other eye.
+If there is an efferent defect in the left eye, the left pupil will remain dilated regardless of where the light is shining, while the right pupil will respond normally.
+If there is an afferent defect in the left eye, both pupils will dilate when the light is shining on the left eye, but both will constrict when it is shining on the right eye. This is because the left eye will not respond to external stimulus (afferent pathway), but can still receive neural signals from the brain (efferent pathway) to constrict.
+If there is a unilateral small pupil with normal reactivity to light, it is unlikely that a neuropathy is present.
+However, if accompanied by ptosis of the upper eyelid, this may indicate Horner's syndrome.
+If there is a small, irregular pupil that constricts poorly to light, but normally to accommodation, this is an Argyll Robertson pupil.
+
+
+=== Extraocular motility and alignment ===
+
+Ocular motility should always be tested, especially when patients complain of double vision or physicians suspect neurologic disease. First, the doctor should visually assess the eyes for deviations that could result from strabismus, extraocular muscle dysfunction, or palsy of the cranial nerves innervating the extraocular muscles. Saccades are assessed by having the patient move his or her eye quickly to a target at the far right, left, top and bottom. This tests for saccadic dysfunction whereupon poor ability of the eyes to "jump" from one place to another may impinge on reading ability and other skills, whereby the eyes are required to fixate and follow a desired object.
+The patient is asked to follow a target with both eyes as it is moved in each of the nine cardinal directions of gaze. The examiner notes the speed, smoothness, range and symmetry of movements and observes for unsteadiness of fixation. These nine fields of gaze test the extraocular muscles: inferior, superior, lateral and medial rectus muscles, as well as the superior and inferior oblique muscles.
+
+
+=== Intraocular pressure ===
+
+Intraocular pressure (IOP) can be measured by tonometry devices. The eye can be thought of as an enclosed compartment through which there is a constant circulation of fluid that maintains its shape and internal pressure. Tonometry is a method of measuring this pressure using various instruments. The normal range is 10-21 mmHg.
+
+
+=== Confrontational visual fields ===
+
+Testing the visual fields consists of confrontation field testing in which each eye is tested separately to assess the extent of the peripheral field.
+
+To perform the test, the individual occludes one eye while fixated on the examiner's eye with the non-occluded eye. The patient is then asked to count the number of fingers that are briefly flashed in each of the four quadrants. This method is preferred to the wiggly finger test that was historically used because it represents a rapid and efficient way of answering the same question: is the peripheral visual field affected?
+Common problems of the visual field include scotoma (area of reduced vision), hemianopia (half of visual field lost), homonymous hemianopsia and bitemporal hemianopia.
+
+
+=== External examination ===
+External examination of eyes consists of inspection of the eyelids, surrounding tissues and palpebral fissure. Palpation of the orbital rim may also be performed depending on the presenting signs and symptoms, especially when a fracture is suspected or there was a history of trauma to the head. The general contour and shape of the eyes are observed and compared between two eyes. The position of the eyelids are checked for abnormalities such as ptosis which is an asymmetry between eyelid positions. Any asymmetry, discharge, pus, changes in color and structure around the eyelid will be noted.
+The white part of the eye, the conjunctiva and sclera, is examined next. The conjunctiva and sclera can be inspected by having the individual look up, and shining a light while retracting the upper or lower eyelid. Any changes in color of the conjunctiva or the shapes of the blood vessels will be observed. The conjunctiva that lines the inner side of the eyelids can be observed with gentle pulling and inversion of the eyelids.
+
+
+=== Slit-lamp examination ===
+Close inspection of the anterior eye structures and ocular adnexa are often done with a slit lamp which is a table mounted microscope with a special adjustable illumination source attached. A small beam of light that can be adjusted to vary in width, height, incident angle, orientation and color, is passed over the eye. Often, this light beam is narrowed into a vertical "slit", during slit-lamp examination. The examiner views the illuminated ocular structures, through an optical system that magnifies the image of the eye and the patient is seated while being examined, and the head stabilized by an adjustable chin rest and a bar around the forehead.
+
+The slit lamp also allows inspection of all the ocular media, from cornea to vitreous, plus magnified view of eyelids, and other external ocular related structures. Fluorescein staining of the tear film before slit lamp examination may reveal etiologies of the surface of the eye, such as corneal abrasions or keratitis due to herpes simplex viral infection.
+The binocular slit-lamp examination provides stereoscopic, dimensional and magnified view of the eye structures in striking detail, enabling exact anatomical diagnoses to be made for a variety of eye conditions. Specifically, it allows for assessment of height of elevation and indentation of the structures.
+Also ophthalmoscopy and gonioscopy examinations can also be performed through the slit lamp when combined with special lenses. These exams help to see the specific structures, such as the retina and optic nerve, which is at the back of the eye, and the drainage system that controls the intraocular pressure, which is in the angle formed between the cornea and the iris.
+These lenses include the Goldmann 3-mirror lens, gonioscopy single-mirror/Zeiss 4-mirror lens for (ocular) anterior chamber angle structures and +90D lens, +78D lens and +66D lens the examination of retinal structures is accomplished.
+
+
+=== Fundoscopic examination ===
+
+Examination of retina (fundus examination) is an important part of the general eye examination. Dilating the pupil using dilating eye drops greatly enhances the view and permits an extensive examination of peripheral retina. A limited view can be obtained through an undilated pupil, in which case best results are obtained with the room darkened and the patient looking towards the far corner. The appearance of the optic disc and retinal vasculature are also recorded during fundus examination.
+
+Findings that can be identified with fundoscopic examination include different types of retinal hemorrhages and vitreous hemorrhages, neovascularization, cotton wool spots, drusen, changes in the caliber or shape of the retinal blood vessels, changes in optic nerve color and shape, changes in the retinal pigmented epithelium (RPE), uveal nevus and melanoma, retinal holes, tears or detachments.
+
+
+=== Refraction ===
+In physics, "refraction" is the mechanism that bends the path of light as it passes from one medium to another, as when it passes from the air through the parts of the eye. In an eye exam, the term refraction is the determination of the ideal correction of refractive error.  Refractive error is an optical abnormality in which the shape of the eye fails to bring light into sharp focus on the retina, resulting in blurred or distorted vision. Examples of refractive error are myopia, hyperopia, presbyopia and astigmatism. The errors are specified in diopters, in a similar format to an eyeglass prescription. A refraction procedure consists of two parts: objective and subjective.
+
+
+==== Objective refraction ====
+An objective refraction is a refraction obtained without receiving any feedback from the patient, using a retinoscope or auto-refractor.
+To perform a retinoscopy, the doctor projects a streak of light into a pupil. A series of lenses are flashed in front of the eye. By looking through the retinoscope, the doctor can study the light reflex of the pupil. Based on the movement and orientation of this retinal reflection, the refractive state of the eye is measured.
+An auto-refractor is a computerized instrument that shines light into an eye. The light travels through the front of the eye, to the back and then forward through the front again.  The information bounced back to the instrument gives an objective measurement of refractive error without asking the patients any questions.
+
+
+==== Subjective refraction ====
+A subjective refraction requires responses from the patient. Typically, the patient will sit behind a phoropter or wear a trial frame and look at an eye chart. The eye care professional will change lenses and other settings while asking the patient for feedback on which set of lenses give the best vision.
+
+
+== Eye exams for children ==
+
+The eye exam for children can be different from that for adults, especially for children at a young age who are unable to read the letters in the Snellen chart or cooperate with the more complex components of the assessment.
+It is often recommended that children should have their first eye exam at six months old, or earlier if a parent suspects something is wrong with the eyes. Across the world, screening programs are important for identifying children who have a need for spectacles but either do not wear any or have the wrong prescription. Often, children who are suspected of having amblyopia are too young to be able to verbally recognize letters on the Snellen chart, making the eye examination challenging.
+It is critical to identify eye conditions early in children, as early detection and intervention can save vision and lives. Retinoblastoma is a rare but life-threatening eye cancer that primarily affects children under the age of 5. Amblyopia, often also called lazy eye, is a common condition in children where the neurological connection between the eye and brain fails to fully establish, resulting the brain's inability to process the visual information from the eye, despite normal structure and function of the eye. The treatment of amblyopia usually involves patching of the good eye. However, this intervention needs to happen in a critical period of time, usually before the age of 12, ideally before the age of 7 or 8, in order for affected children to achieve full visual potential in adulthood. Refractive errors, congenital or early childhood cataract, and strabismus, can all contribute to the development of amblyopia. Thus, it is crucial to address all these ophthalmic conditions in childhood urgently.
+
+
+=== Visual acuity in infant and toddlers ===
+The information about the mother's pregnancy, the child's birth and in the neonatal period is often critical. Specific details that might be collected include maternal health, gestation age at birth, and neonatal history. The examination begins as soon as the infant or toddler enters the room. Close attention is paid to the infant's visual behaviors, such as tracking and following moving items or people, head position, and abnormal facial features.
+Visual acuity is often assessed qualitatively documented based on their ability to fix and follow (F&F). The fixation behavior can be further characterized as central, steady, and maintained (CSM).
+In infants born prematurely, with history of oxygen use in the neonatal period, and with low birth weight, there is an increased risk of developing retinopathy of prematurity. Screening of ROP is often initiated promptly while the infants are still in the hospital, and they are often followed up closely in the first few weeks to months of life to monitor the normal development of blood vessels in the premature retina.
+
+
+=== Visual acuity in preschool children ===
+
+For preschool children, depending on their level of literacy, different types of optotypes (eg. LEA symbols, tumbling E chart) can be used for the assessment of visual acuity. For children who know some letters, the HOTV chart, which only has these 4 letters H, O, T, and V, can be used to reduce confusion. Sometimes, crowded visual acuity test is used to diagnose subtle amblyopia as well.
+
+
+=== Red reflex ===
+Red reflex examination, also called Bruckner Test, is a useful test in children to look for misalignment of the eyes and significant refractive errors. A red reflex can be seen when looking at a patient's pupil through a direct ophthalmoscope.  This part of the examination is done from a distance of about 1m and is usually symmetrical between the two eyes.  An opacity may indicate a cataract.
+
+
+=== Visual field ===
+Visual field testing in young children is often done after they are able to fixate reliably (usually around 4 months). An object is presented from far peripheral and slowly moves into towards the center of the vision, while the child maintains fixation on a central target. The point at which the peripheral object captures the child's attention and prompts a shift in gaze or fixation marks the boundary of their visual field.
+
+
+=== Cycloplegic refraction ===
+Young children have the greatest ability to accommodate, but this strong accommodative ability interferes with the accurate measurement of refractive errors. Accommodation is the ability of eyes to adjust to various different distances of focus. This is accomplished by the ciliary muscles that change the shape of the lens of the eye. Therefore, to achieve the most accurate measure of refractive errors, cycloplegic refraction, which paralyzes the ciliary muscle and prevents accommodation, is often performed. This involves using cycloplegic eye drops, such as cyclopentolate and tropicamide. Often, the effect of the medications could last for several hours to a day.
+Retinoscopy is often used in children to measure their refractive errors. This method is a type of objective refraction. It involves the provider shining a narrow beam of light into the eye to see the red reflex of the retina while adjusting differently powered lenses in front of the eye to look for a neutralized point of the reflex. The main advantage of this method is that it does not require verbal feedback from the children and is easy for cooperation.
+Children need the following basic visual skills for learning:
+
+Near vision
+Distance vision: Tumbling E chart, Landolt C chart
+Eye teaming (binocularity)
+Eye movement
+Accommodation (focusing skills)
+Peripheral vision
+Eye–hand coordination
+
+
+== Conditions diagnosed during eye examinations ==
+Myopia
+Hyperopia
+Presbyopia
+Amblyopia
+Diplopia
+Astigmatism
+Strabismus
+
+
+== Specialized eye examinations ==
+Color vision
+Stereopsis
+Near point of convergence
+Keratometry
+Cycloplegic refraction
+Accommodative system
+Amplitude of accommodation
+Negative relative accommodation
+Positive relative accommodation
+Vergence system
+Optokinetic system
+Amsler grid
+Gonioscopy
+Corneal topography
+Corneal pachymetry
+Scheimpflug ocular imaging
+Retinal tomography
+Ocular computed tomography
+Scanning laser polarimetry
+Electrooculography
+Electroretinography
+Ultrasound biomicroscopy
+Maddox rod
+Brock string
+Convergence Testing
+Worth 4 dot test
+Pulfrich effect
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+ Media related to Eye examinations at Wikimedia Commons
+
+Medscape article on Neuro-ophthalmic examination
